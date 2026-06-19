@@ -1,0 +1,8 @@
+{
+  "provider": "gemini",
+  "condition": "without_laws",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41774244_2026",
+  "query": "((\"Lymphoma, Non-Hodgkin\"[Mesh] OR \"Non-Hodgkin Lymphoma\"[tiab] OR \"Non Hodgkin Lymphoma\"[tiab] OR \"NHL\"[tiab])) AND ((\"Quality of Life\"[Mesh] OR \"Quality of Life\"[tiab] OR \"QoL\"[tiab] OR \"HRQoL\"[tiab] OR \"Well-being\"[tiab] OR \"Wellbeing\"[tiab])) AND ((\"Survivors\"[Mesh] OR survivor*[tiab] OR survivorship[tiab] OR \"post-treatment\"[tiab] OR \"posttreatment\"[tiab] OR \"after treatment\"[tiab] OR \"follow-up\"[tiab] OR \"following treatment\"[tiab] OR \"completion of treatment\"[tiab] OR \"post-therapy\"[tiab] OR \"posttherapy\"[tiab])) AND 2014:2025[dp] AND English[la] NOT (\"Review\"[pt] OR \"Letter\"[pt] OR \"Editorial\"[pt] OR \"Case Reports\"[pt] OR \"Comment\"[pt] OR \"Protocol\"[ti] OR \"Pilot Study\"[ti])",
+  "status": "ok"
+}

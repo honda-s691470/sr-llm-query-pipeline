@@ -1,0 +1,23 @@
+{
+  "query": "(\"COVID-19\"[Mesh] OR \"SARS-CoV-2\"[Mesh] OR \"long COVID\"[tiab] OR \"post-COVID\"[tiab] OR \"post-acute COVID\"[tiab] OR \"long-COVID\"[tiab] OR \"post-acute sequelae\"[tiab] OR PASC[tiab] OR \"COVID-19 sequelae\"[tiab]) AND (\"Urogenital Diseases\"[Mesh] OR genitourinary[tiab] OR urinary[tiab] OR \"urinary incontinence\"[tiab] OR \"erectile dysfunction\"[tiab] OR \"renal function\"[tiab] OR \"voiding dysfunction\"[tiab] OR menstrual[tiab] OR kidney[tiab] OR \"urological\"[tiab])",
+  "query_path": "05_test_data\\05_Infectious_Diseases\\41796425_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data\\05_Infectious_Diseases\\41796425_2026\\input_config_detailed.json",
+  "total_hits": 17661,
+  "recall": 1.0,
+  "found_count": 8,
+  "total_gold": 8,
+  "mode": "open",
+  "timestamp_unix": 1781083269,
+  "missed_pmids": [],
+  "found_pmids": [
+    "34787782",
+    "36320554",
+    "37811042",
+    "38270210",
+    "38335408",
+    "38790912",
+    "39934662",
+    "39979349"
+  ],
+  "missed_count": 0
+}

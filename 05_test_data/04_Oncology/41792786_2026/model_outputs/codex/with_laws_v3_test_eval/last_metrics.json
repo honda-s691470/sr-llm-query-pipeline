@@ -1,0 +1,36 @@
+{
+  "query": "(\"Colorectal Neoplasms\"[Mesh] OR \"colorectal cancer\"[tiab] OR \"colon cancer\"[tiab] OR \"rectal cancer\"[tiab] OR \"colorectal carcinoma\"[tiab]) AND (\"Heat-Shock Proteins\"[Mesh] OR \"heat shock protein\"[tiab] OR \"heat-shock protein\"[tiab] OR HSP[tiab] OR HSP27[tiab] OR HSP70[tiab] OR HSP90[tiab] OR \"chaperone\"[tiab]) AND (\"Prognosis\"[Mesh] OR prognosis[tiab] OR \"overall survival\"[tiab] OR \"disease-free survival\"[tiab] OR \"survival outcome\"[tiab])",
+  "query_path": "05_test_data\\04_Oncology\\41792786_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data\\04_Oncology\\41792786_2026\\input_config_detailed.json",
+  "total_hits": 272,
+  "recall": 0.85,
+  "found_count": 17,
+  "total_gold": 20,
+  "mode": "open",
+  "timestamp_unix": 1781083257,
+  "missed_pmids": [
+    "19578980",
+    "23319326",
+    "32922531"
+  ],
+  "found_pmids": [
+    "16258706",
+    "20947885",
+    "21472339",
+    "21861207",
+    "22535481",
+    "24030751",
+    "24733427",
+    "25793600",
+    "27925182",
+    "28791678",
+    "28971530",
+    "30452400",
+    "31687275",
+    "31709619",
+    "33123244",
+    "37627080",
+    "7607036"
+  ],
+  "missed_count": 3
+}

@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "03_Psychiatry",
+  "paper_folder": "41796365_2026",
+  "query": "(hallucinogen*[tiab] OR psychedelic*[tiab] OR LSD[tiab] OR lysergic acid diethylamide[tiab] OR psilocybin[tiab] OR psilocin[tiab] OR mescaline[tiab] OR dimethyltryptamine[tiab] OR DMT[tiab] OR ayahuasca[tiab] OR peyote[tiab] OR phencyclidine[tiab] OR PCP[tiab] OR ketamine[tiab] OR \"magic mushroom*\"[tiab] OR \"Hallucinogens\"[MeSH Terms] OR \"Lysergic Acid Diethylamide\"[MeSH Terms] OR \"Psilocybin\"[MeSH Terms] OR \"Mescaline\"[MeSH Terms] OR \"Phencyclidine\"[MeSH Terms] OR \"Ketamine\"[MeSH Terms]) AND (adolescen*[tiab] OR child*[tiab] OR youth[tiab] OR teen*[tiab] OR pediatric*[tiab] OR paediatric*[tiab] OR juvenile*[tiab] OR \"young people\"[tiab] OR \"young person*\"[tiab] OR \"Adolescent\"[MeSH Terms] OR \"Child\"[MeSH Terms] OR \"Pediatrics\"[MeSH Terms]) AND (psychos*[tiab] OR psychotic*[tiab] OR schizophren*[tiab] OR schizoaffective[tiab] OR \"psychotic disorder*\"[tiab] OR \"psychotic-like\"[tiab] OR \"psychotic like\"[tiab] OR \"psychosis-like\"[tiab] OR \"psychosis like\"[tiab] OR \"psychotic experience*\"[tiab] OR \"psychotic symptom*\"[tiab] OR \"unusual experience*\"[tiab] OR \"subthreshold psychot*\"[tiab] OR \"psychotic-like experience*\"[tiab] OR hallucination*[tiab] OR delusion*[tiab] OR \"early-onset psychosis\"[tiab] OR \"early onset psychosis\"[tiab] OR \"first episode psychosis\"[tiab] OR \"first-episode psychosis\"[tiab] OR \"Psychotic Disorders\"[MeSH Terms] OR \"Schizophrenia\"[MeSH Terms] OR \"Schizophrenia Spectrum and Other Psychotic Disorders\"[MeSH Terms])",
+  "status": "ok"
+}

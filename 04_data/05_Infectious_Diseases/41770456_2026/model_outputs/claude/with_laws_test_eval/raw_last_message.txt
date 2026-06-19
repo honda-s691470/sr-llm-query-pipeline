@@ -1,0 +1,39 @@
+STEP 0 — Confirm paper identity
+target_name=41770456_2026 | topic=Comparing surgical efficacy and safety of MAKO robotic-arm-assisted platform versus manual unicompartmental knee arthroplasty (UKA) in patients with end-stage knee osteoarthritis.
+
+STEP 1 — Study design filter decision
+Inclusion criteria state: "comparative design (such as RCTs or observational cohorts)" — this lists RCTs AND observational cohorts = 2 distinct design types.
+STUDY_FILTER = OMIT. Query = (PRIMARY_CONCEPT) only.
+
+STEP 2 — Classify each inclusion criterion
+- "patients with end-stage knee osteoarthritis treated with either robotic or manual UKA" → CORE: CONDITION (knee osteoarthritis / UKA) + INTERVENTION (MAKO robotic vs manual UKA)
+- "assessed at least one clinical or radiographic parameter (VAS, PCS, AKSS, OKS, FJS, MFTA, FCCA, TCCA, TCPT, LFCFEA, etc.)" → NON-CORE outcome measures (screened at full-text, not searched)
+- "provided enough raw data to derive effect sizes (RR, OR, or MD)" → NON-CORE methodological requirement (not searchable in PubMed)
+- "comparative design" → NON-CORE (STUDY_FILTER already omitted)
+
+STEP 3 — AND block budget check
+Planned: 2 AND blocks (CONDITION + INTERVENTION) → within budget.
+
+STEP 4 — Population/ethnicity structure check
+No ethnicity/nationality terms required. Not applicable.
+
+STEP 5 — Broad fallback floor check
+INTERVENTION block contains specific instance "MAKO" → must include broad class "robotic" / "Robotic Surgical Procedures"[Mesh] alongside it. Confirmed present.
+CONDITION block contains specific term "UKA" → broad class "Arthroplasty, Replacement, Knee"[Mesh] and "knee arthroplasty"[tiab] present. Confirmed.
+
+SELF-CHECK
+target_name: 41770456_2026
+topic: MAKO robotic vs manual unicompartmental knee arthroplasty in knee osteoarthritis
+CORE blocks:
+  CONDITION: knee osteoarthritis, UKA, knee arthroplasty, knee replacement
+  INTERVENTION/EXPOSURE: MAKO, robotic, robot-assisted, Robotic Surgical Procedures[Mesh]
+NON-CORE elements identified and excluded: outcome measures (VAS, PCS, AKSS, OKS, FJS, etc.), effect size requirement, comparative design label
+STUDY_FILTER decision: 2 design types (RCT + observational) → OMIT
+Population block structure: not applicable
+Broad fallback present in all specific-instance blocks: YES
+Umbrella/low-observability condition: not applicable
+Mechanism-scope: not applicable
+Date/language filter: NOT APPLIED
+Final AND block count: 2
+
+FULL_QUERY: ("Arthroplasty, Replacement, Knee"[Mesh] OR "knee arthroplasty"[tiab] OR "knee replacement"[tiab] OR "unicompartmental knee"[tiab] OR "unicompartmental arthroplasty"[tiab] OR UKA[tiab] OR "partial knee arthroplasty"[tiab] OR "Osteoarthritis, Knee"[Mesh] OR "knee osteoarthritis"[tiab]) AND ("Robotic Surgical Procedures"[Mesh] OR robotic[tiab] OR "robot-assisted"[tiab] OR "robotic-assisted"[tiab] OR MAKO[tiab] OR "Mako"[tiab] OR "surgical robot"[tiab] OR "surgical robots"[tiab])

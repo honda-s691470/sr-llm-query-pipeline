@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41792786_2026",
+  "query": "(\"heat shock protein*\"[Title/Abstract] OR \"heat shock proteins\"[MeSH Terms] OR \"HSP27\"[Title/Abstract] OR \"HSP60\"[Title/Abstract] OR \"HSP70\"[Title/Abstract] OR \"HSP90\"[Title/Abstract] OR \"HSP110\"[Title/Abstract] OR \"HSPB1\"[Title/Abstract] OR \"HSPD1\"[Title/Abstract] OR \"HSPA\"[Title/Abstract] OR \"HSPC\"[Title/Abstract] OR \"chaperone*\"[Title/Abstract]) AND (\"colorectal cancer\"[Title/Abstract] OR \"colorectal neoplasm*\"[Title/Abstract] OR \"colorectal carcinoma\"[Title/Abstract] OR \"colon cancer\"[Title/Abstract] OR \"colon neoplasm*\"[Title/Abstract] OR \"colon carcinoma\"[Title/Abstract] OR \"rectal cancer\"[Title/Abstract] OR \"rectal neoplasm*\"[Title/Abstract] OR \"rectal carcinoma\"[Title/Abstract] OR \"colorectal neoplasms\"[MeSH Terms] OR \"colonic neoplasms\"[MeSH Terms] OR \"rectal neoplasms\"[MeSH Terms]) AND (\"prognosis\"[Title/Abstract] OR \"prognosis\"[MeSH Terms] OR \"survival\"[Title/Abstract] OR \"overall survival\"[Title/Abstract] OR \"disease-free survival\"[Title/Abstract] OR \"progression-free survival\"[Title/Abstract] OR \"event-free survival\"[Title/Abstract] OR \"relapse-free survival\"[Title/Abstract] OR \"cancer-specific survival\"[Title/Abstract] OR \"hazard ratio\"[Title/Abstract] OR \"prognostic\"[Title/Abstract] OR \"clinicopathological\"[Title/Abstract] OR \"clinicopathologic\"[Title/Abstract])",
+  "status": "ok"
+}

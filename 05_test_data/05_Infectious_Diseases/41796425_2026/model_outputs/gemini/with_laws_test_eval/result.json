@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-22T08:39:26Z",
+  "domain_folder": "05_Infectious_Diseases",
+  "paper_folder": "41796425_2026",
+  "provider": "gemini",
+  "model": "gemini-3.0-pro",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Post-Acute COVID-19 Syndrome\"[Mesh] OR \"long covid\"[tiab] OR \"long-haul\"[tiab] OR \"PASC\"[tiab] OR \"post-acute\"[tiab] OR \"post-covid\"[tiab] OR ((\"COVID-19\"[Mesh] OR \"SARS-CoV-2\"[Mesh] OR \"COVID-19\"[tiab] OR \"SARS-CoV-2\"[tiab]) AND (chronic[tiab] OR persistent[tiab] OR sequelae[tiab] OR followup[tiab] OR \"follow up\"[tiab] OR \"long-term\"[tiab] OR recurrence[tiab]))) AND (\"Urogenital Diseases\"[Mesh] OR \"Urological Manifestations\"[Mesh] OR \"Kidney Diseases\"[Mesh] OR \"Menstrual Cycle\"[Mesh] OR genitourinary[tiab] OR urogenital[tiab] OR urologic*[tiab] OR renal[tiab] OR kidney*[tiab] OR urinary[tiab] OR \"erectile dysfunction\"[tiab] OR menstrual[tiab] OR orchitis[tiab] OR scrotal[tiab] OR \"voiding dysfunction\"[tiab] OR \"frequency\"[tiab] OR \"incontinence\"[tiab]))",
+  "query_length": 767,
+  "gold_count": 8,
+  "total_hits": 10923,
+  "hit_gold_count": 8,
+  "recall": 1.0,
+  "nnr": 1365.375,
+  "f1": 0.001463727014911719,
+  "error_note": ""
+}

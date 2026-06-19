@@ -1,0 +1,85 @@
+--- Missed Papers Context (sampled) ---
+Sample size: 1 / Missed count: 1
+Seed: 1773323518
+Sampled PMIDs: 15863746
+
+MEDLINE FIELDS OF INTEREST:
+- TI: Title
+- AB: Abstract
+- MH: MeSH Headings
+
+
+PMID- 15863746
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050811
+LR  - 20260128
+IS  - 0007-1250 (Print)
+IS  - 0007-1250 (Linking)
+VI  - 186
+DP  - 2005 May
+TI  - Distinctive neurocognitive effects of repetitive transcranial magnetic 
+      stimulation and electroconvulsive therapy in major depression.
+PG  - 410-6
+AB  - BACKGROUND: Studies have compared electroconvulsive therapy (ECT) and repetitive 
+      transcranial magnetic stimulation (rTMS) with regard to clinical efficacy in the 
+      treatment of depression, but no study has yet addressed the differential impact 
+      on cognition. AIMS: To compare the neurocognitive effects of unilateral ECT and 
+      rTMS. METHOD: Thirty patients with treatment-refractory non-psychotic major 
+      depression received an average of ten treatments with either unilateral ECT or 
+      left prefrontal rTMS and were assessed for objective and subjective cognitive 
+      impairments before and about a week after treatment. RESULTS: Treatment response 
+      was comparable (46% of the ECT group and 44% of the rTMS group showed a reduction 
+      of 50% or more in Hamilton Rating Scale for Depression scores). In patients 
+      treated with rTMS, cognitive performance remained constant or improved and memory 
+      complaints alleviated, whereas in the ECT group memory recall deficits emerged 
+      and memory complaints remained. CONCLUSIONS: In contrast to unilateral ECT, rTMS 
+      has no adverse memory effects.
+FAU - Schulze-Rauschenbach, Svenja C
+AU  - Schulze-Rauschenbach SC
+AD  - Department of Psychiatry, University of Bonn, Sigmund-Freud-Str. 25, D 53105 
+      Bonn, Germany.
+FAU - Harms, Uta
+AU  - Harms U
+FAU - Schlaepfer, Thomas E
+AU  - Schlaepfer TE
+FAU - Maier, Wolfgang
+AU  - Maier W
+FAU - Falkai, Peter
+AU  - Falkai P
+FAU - Wagner, Michael
+AU  - Wagner M
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - England
+TA  - Br J Psychiatry
+JT  - The British journal of psychiatry : the journal of mental science
+JID - 0342367
+SB  - IM
+CIN - Br J Psychiatry. 2005 Oct;187:386; author reply 386-7. doi: 
+      10.1192/bjp.187.4.386. PMID: 16237836
+CIN - Br J Psychiatry. 2005 Nov;187:487; author reply 488. doi: 10.1192/bjp.187.5.487. 
+      PMID: 16260832
+CIN - Br J Psychiatry. 2005 Nov;187:487-8; author reply 488. doi: 
+      10.1192/bjp.187.5.487-a. PMID: 16308917
+MH  - Analysis of Variance
+MH  - Major Depressive Disorder/*therapy
+MH  - Electric Stimulation Therapy/*methods
+MH  - Electroconvulsive Therapy/*methods
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Memory Disorders/therapy
+MH  - Middle Aged
+MH  - *Transcranial Magnetic Stimulation
+EDAT- 2005/05/03 09:00
+MHDA- 2005/08/12 09:00
+CRDT- 2005/05/03 09:00
+PHST- 2005/05/03 09:00 [pubmed]
+PHST- 2005/08/12 09:00 [medline]
+PHST- 2005/05/03 09:00 [entrez]
+AID - S0007125000166140 [pii]
+AID - 10.1192/bjp.186.5.410 [doi]
+PST - ppublish
+SO  - Br J Psychiatry. 2005 May;186:410-6. doi: 10.1192/bjp.186.5.410.

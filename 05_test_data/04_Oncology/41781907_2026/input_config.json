@@ -1,0 +1,6 @@
+{
+  "target_name": "41781907_2026",
+  "objectives": "This systematic review and meta-analysis synthesized available evidence on the association between germline genetic variants and breast cancer outcomes, with a focus on pathway-level effects, and aimed to systematically synthesize germline variant-prognosis associations across multiple biological pathways and clinical outcomes using a pathway-based meta-analytic framework.",
+  "inclusion_criteria": "Studies published from January 2000 to June 2024 were eligible, with no language restrictions, and searches were limited to studies involving adult women with breast cancer. Studies were included if they: i) investigated women with a confirmed diagnosis of breast cancer; ii) evaluated germline genetic variants, including single-nucleotide polymorphisms (SNPs) or pathogenic/likely pathogenic germline mutations; iii) reported at least one time-to-event outcome related to prognosis, such as DFS, OS, BCSS, PFS, or MFS; and iv) provided an adjusted effect estimate.",
+  "exclusion_criteria": "Studies were excluded if they did not assess germline genetic variation, failed to report survival or recurrence outcomes, were conference abstracts or review articles, lacked full-text availability, or presented duplicated data."
+}

@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:55:31Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41792786_2026",
+  "domain_folder": "04_Oncology",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Colorectal Neoplasms\"[Mesh] OR colorectal cancer*[tiab] OR colorectal neoplasm*[tiab] OR colorectal carcinoma*[tiab] OR colon cancer*[tiab] OR colon neoplasm*[tiab] OR colon carcinoma*[tiab] OR rectal cancer*[tiab] OR rectal neoplasm*[tiab] OR rectal carcinoma*[tiab]) AND (\"Heat-Shock Proteins\"[Mesh] OR \"heat shock protein*\"[tiab] OR \"heat-shock protein*\"[tiab] OR HSP*[tiab] OR HSPA*[tiab] OR HSPB*[tiab] OR HSPD1[tiab] OR HSP90AA1[tiab] OR HSP90AB1[tiab]) AND (\"Prognosis\"[Mesh] OR prognos*[tiab] OR surviv*[tiab] OR \"overall survival\"[tiab] OR \"disease-free survival\"[tiab] OR \"progression-free survival\"[tiab] OR \"event-free survival\"[tiab] OR \"relapse-free survival\"[tiab] OR \"cancer-specific survival\"[tiab] OR \"hazard ratio\"[tiab]))",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\04_Oncology\\41792786_2026\\without_laws"
+}

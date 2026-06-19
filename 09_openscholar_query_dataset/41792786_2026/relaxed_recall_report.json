@@ -1,0 +1,144 @@
+{
+  "target_dir": "public_release\\09_openscholar_query_dataset\\41792786_2026",
+  "gold_path": "05_test_data\\04_Oncology\\41792786_2026\\gold_pmids.json",
+  "fuzzy_threshold_same_year": 0.95,
+  "fuzzy_threshold_near_year": 0.98,
+  "reports": [
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41792786_2026\\papers_normal_with_pmid.json",
+      "paper_count": 69,
+      "gold_count": 20,
+      "tp_pmid_exact": 5,
+      "tp_title_year_exact_additional": 0,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 5,
+      "tp_relaxed_total": 5,
+      "recall_pmid_exact": 0.25,
+      "recall_strict": 0.25,
+      "recall_relaxed": 0.25,
+      "matched_pmids_pmid_exact": [
+        "22535481",
+        "31687275",
+        "32922531",
+        "33123244",
+        "37627080"
+      ],
+      "matched_pmids_strict": [
+        "22535481",
+        "31687275",
+        "32922531",
+        "33123244",
+        "37627080"
+      ],
+      "matched_pmids_relaxed": [
+        "22535481",
+        "31687275",
+        "32922531",
+        "33123244",
+        "37627080"
+      ],
+      "exact_title_year_details": [],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "7607036",
+        "16258706",
+        "19578980",
+        "20947885",
+        "21472339",
+        "21861207",
+        "23319326",
+        "24030751",
+        "24733427",
+        "25793600",
+        "27925182",
+        "28791678",
+        "28971530",
+        "30452400",
+        "31709619"
+      ]
+    },
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41792786_2026\\papers_deep_with_pmid.json",
+      "paper_count": 316,
+      "gold_count": 20,
+      "tp_pmid_exact": 14,
+      "tp_title_year_exact_additional": 1,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 15,
+      "tp_relaxed_total": 15,
+      "recall_pmid_exact": 0.7,
+      "recall_strict": 0.75,
+      "recall_relaxed": 0.75,
+      "matched_pmids_pmid_exact": [
+        "19578980",
+        "20947885",
+        "22535481",
+        "23319326",
+        "24030751",
+        "27925182",
+        "28791678",
+        "28971530",
+        "30452400",
+        "31687275",
+        "31709619",
+        "32922531",
+        "33123244",
+        "37627080"
+      ],
+      "matched_pmids_strict": [
+        "19578980",
+        "20947885",
+        "21472339",
+        "22535481",
+        "23319326",
+        "24030751",
+        "27925182",
+        "28791678",
+        "28971530",
+        "30452400",
+        "31687275",
+        "31709619",
+        "32922531",
+        "33123244",
+        "37627080"
+      ],
+      "matched_pmids_relaxed": [
+        "19578980",
+        "20947885",
+        "21472339",
+        "22535481",
+        "23319326",
+        "24030751",
+        "27925182",
+        "28791678",
+        "28971530",
+        "30452400",
+        "31687275",
+        "31709619",
+        "32922531",
+        "33123244",
+        "37627080"
+      ],
+      "exact_title_year_details": [
+        {
+          "gold_pmid": "21472339",
+          "gold_title": "Clinical significance of HSP27 expression in colorectal cancer.",
+          "gold_year": "2010",
+          "matched_title": "Clinical significance of HSP27 expression in colorectal cancer.",
+          "matched_year": "2010",
+          "matched_pubmed_id": "",
+          "matched_corpusId": "33962381",
+          "source_file": "papers_deep_with_pmid.json"
+        }
+      ],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "7607036",
+        "16258706",
+        "21861207",
+        "24733427",
+        "25793600"
+      ]
+    }
+  ]
+}

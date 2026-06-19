@@ -1,0 +1,32 @@
+{
+  "query": "(\"Neuroma, Acoustic\"[Mesh] OR \"vestibular schwannoma\"[tiab] OR \"acoustic neuroma\"[tiab] OR \"acoustic neurinoma\"[tiab] OR \"vestibular schwannomas\"[tiab]) AND (PANQOL[tiab] OR \"Penn Acoustic Neuroma Quality of Life\"[tiab] OR \"quality of life\"[tiab] OR QoL[tiab] OR \"health-related quality of life\"[tiab]) AND (\"Radiosurgery\"[Mesh] OR radiosurgery[tiab] OR microsurgery[tiab] OR \"wait and scan\"[tiab] OR \"observation\"[tiab] OR \"stereotactic\"[tiab] OR \"Gamma Knife\"[tiab] OR SRS[tiab] OR \"watch and wait\"[tiab])",
+  "query_path": "05_test_data\\04_Oncology\\41794963_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data\\04_Oncology\\41794963_2026\\input_config_detailed.json",
+  "total_hits": 202,
+  "recall": 0.6875,
+  "found_count": 11,
+  "total_gold": 16,
+  "mode": "open",
+  "timestamp_unix": 1781083260,
+  "missed_pmids": [
+    "28872162",
+    "29889791",
+    "31922264",
+    "33963915",
+    "37597328"
+  ],
+  "found_pmids": [
+    "25473957",
+    "25555165",
+    "30239440",
+    "33177408",
+    "33326685",
+    "34119279",
+    "34957955",
+    "37434979",
+    "37686642",
+    "38769852",
+    "39439048"
+  ],
+  "missed_count": 5
+}

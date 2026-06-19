@@ -1,0 +1,1 @@
+("Arthritis, Rheumatoid"[MeSH Terms] OR "rheumatoid arthritis"[Title/Abstract]) AND ("Telemedicine"[MeSH Terms] OR telemedicine[Title/Abstract] OR "digital health"[Title/Abstract] OR mHealth[Title/Abstract]) AND ("Randomized Controlled Trial"[Publication Type] OR randomized[Title/Abstract])

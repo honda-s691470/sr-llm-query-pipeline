@@ -1,0 +1,56 @@
+STEP 0 — Confirm paper identity
+target_name=41781415_2026 | topic=Effect of helminth-derived immunomodulatory peptides/polypeptides/proteins (HDIPs) on inflammatory response in in vitro cellular models of inflammation.
+
+STEP 1 — Study design filter decision
+Inclusion criteria: "(1) original research study, (2) HDIPs, (3) cellular inflammatory model."
+The design type is "original research study" in a cellular (in vitro) model — this is a single broad category, but no specific design restriction (RCT vs observational) is made. In vitro studies do not fit the RCT-only template. Default → STUDY_FILTER = OMIT.
+
+STEP 2 — Classify each inclusion criterion
+- "(2) HDIPs" = helminth-derived immunomodulatory peptides/polypeptides/proteins → CORE: INTERVENTION/EXPOSURE
+- "(3) cellular inflammatory model" → CORE: CONDITION/MECHANISM — inclusion criteria EXPLICITLY include in vitro cellular models of inflammation → MECHANISM_EXTENSION_RULE applies: "Inflammation"[Mesh] must be in CONDITION block alongside mechanism terms.
+- "(1) original research study" → NON-CORE methodological requirement (not directly searchable beyond basic PubMed defaults)
+
+Note: The review objective focuses on HDIPs modulating inflammatory response in cellular models. This requires two searchable CORE blocks:
+  - EXPOSURE: helminth-derived peptides/proteins (HDIPs)
+  - CONDITION/MECHANISM: inflammation / cellular inflammatory model (in vitro)
+
+The MECHANISM_EXTENSION_RULE is triggered because inclusion criteria explicitly specify "cellular inflammatory model" (in vitro). Basic science papers may reference inflammation/macrophages without naming a clinical disease.
+
+STEP 3 — AND block budget check
+Planned: 3 AND blocks:
+  1. Helminth taxonomy block (to identify the organism source)
+  2. HDIP (helminth-derived immunomodulatory peptides/proteins) block
+  3. Inflammation/cellular model block
+Count = 3 → within budget.
+
+However, blocks 1 and 2 can be merged: the helminth taxonomy terms help identify the source organism, while HDIP terms identify the derived products. Merging reduces AND block count and reduces false-drop risk if a paper mentions helminth-derived proteins without explicitly naming the parent organism.
+Final plan: 2 core AND blocks + 1 mechanism/condition block = 3 AND blocks total.
+
+Block A (helminth organism): "Helminths"[Mesh] OR helminth* OR nematod* OR cestod* OR trematod* OR parasitic worm
+Block B (HDIP = derived peptides/proteins): "Helminth Proteins"[Mesh] OR helminth protein* OR helminth peptide* OR helminth-derived OR excretory-secretory OR ES products OR immunomodulatory peptide* OR immunomodulatory protein*
+Block C (inflammation/cellular model): "Inflammation"[Mesh] OR inflammat* OR inflammatory model OR inflammatory response OR cellular model OR in vitro OR macrophage*
+
+STEP 4 — Population/ethnicity structure check
+Not applicable (in vitro study, no human population).
+
+STEP 5 — Broad fallback floor check
+Block A: specific taxa (nematod*, cestod*, trematod*) + broad class "Helminths"[Mesh] and helminth* → broad fallback present.
+Block B: specific instances (helminth protein, helminth peptide, excretory-secretory) + broad class "Helminth Proteins"[Mesh] and immunomodulatory protein/peptide → broad fallback present.
+Block C: specific context (in vitro, macrophage) + broad class "Inflammation"[Mesh] and inflammat* → broad fallback present.
+
+SELF-CHECK
+target_name: 41781415_2026
+topic: HDIPs modulating inflammatory response in in vitro cellular models
+CORE blocks:
+  CONDITION/MECHANISM: Inflammation[Mesh], inflammat*, in vitro, cellular model, macrophage*
+  INTERVENTION/EXPOSURE: Helminths[Mesh], helminth*, nematod*, Helminth Proteins[Mesh], helminth-derived, immunomodulatory peptide/protein, excretory-secretory
+NON-CORE elements: "original research study" (methodological, not searchable as AND block)
+STUDY_FILTER decision: in vitro cellular model only, no RCT/observational distinction → OMIT
+Population block structure: not applicable
+Broad fallback present: YES in all blocks
+Umbrella/low-observability condition: not applicable
+Mechanism-scope (in vitro/animal model): Inflammation[Mesh] added to CONDITION — triggered by explicit "cellular inflammatory model" in inclusion criteria
+Date/language filter: NOT APPLIED
+Final AND block count: 3
+
+FULL_QUERY: ("Helminths"[Mesh] OR helminth*[tiab] OR "parasitic worm"[tiab] OR "parasitic worms"[tiab] OR nematod*[tiab] OR cestod*[tiab] OR trematod*[tiab]) AND ("Helminth Proteins"[Mesh] OR "helminth protein"[tiab] OR "helminth proteins"[tiab] OR "helminth peptide"[tiab] OR "helminth peptides"[tiab] OR "helminth-derived"[tiab] OR "excretory-secretory"[tiab] OR "ES products"[tiab] OR "immunomodulatory peptide"[tiab] OR "immunomodulatory protein"[tiab] OR "immunomodulatory peptides"[tiab] OR "immunomodulatory proteins"[tiab]) AND ("Inflammation"[Mesh] OR inflammat*[tiab] OR "inflammatory model"[tiab] OR "inflammatory response"[tiab] OR "cellular model"[tiab] OR "in vitro"[tiab] OR macrophage*[tiab])

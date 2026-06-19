@@ -1,0 +1,3057 @@
+{
+  "papers": [
+    {
+      "title": "Associations between Cardiovascular Outcomes and Rheumatoid Arthritis: A Nationwide Population-Based Cohort Study",
+      "authors": [
+        {
+          "name": "Seonyoung Kang",
+          "id": "2152996193"
+        },
+        {
+          "name": "Kyungdo Han",
+          "id": "2114180586"
+        },
+        {
+          "name": "Jin-Hyung Jung",
+          "id": "31878267"
+        },
+        {
+          "name": "Y. Eun",
+          "id": "46174169"
+        },
+        {
+          "name": "I. Kim",
+          "id": "144114949"
+        },
+        {
+          "name": "Jiwon Hwang",
+          "id": "34011390"
+        },
+        {
+          "name": "E. Koh",
+          "id": "115990646"
+        },
+        {
+          "name": "Seulkee Lee",
+          "id": "8569503"
+        },
+        {
+          "name": "H. Cha",
+          "id": "52358206"
+        },
+        {
+          "name": "Hyungjin Kim",
+          "id": "2109643326"
+        },
+        {
+          "name": "Jaejoon Lee",
+          "id": "2108395305"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.7892043087157163,
+      "abstract": "Despite a growing burden posed by cardiovascular disease (CVD) in rheumatoid arthritis (RA) patients, large-scale studies on the association between the characteristics of RA patients and CVD risks and studies adjusted for various confounding factors are lacking. In this large-scale nationwide cohort study, we aimed to investigate the association between CVD risk and RA and factors that may increase CVD risk using a dataset provided by the Korean National Health Insurance Service (NHIS). We enrolled 136,469 patients with RA who participated in national health examinations within two years of RA diagnosis between 2010 and 2017 and non-RA controls matched by age and sex (n = 682,345). The outcome was the occurrence of myocardial infarction (MI) or stroke. MI was defined as one hospitalization or two outpatient visits with ICD-10-CM codes I21 or I22. Stroke was defined as one hospitalization with ICD-10-CM codes I63 or I64 and a claim for brain imaging (CT or MRI). The Cox proportional hazard model and Kaplan–Meier curve were used for analysis. The mean follow-up duration was 4.7 years, and the incidence rate of CVD was higher in the RA group than the control group (MI: 3.20 vs. 2.08; stroke: 2.84 vs. 2.33 per 1000 person-years). The risk of MI and stroke was about 50% and 20% higher, respectively, in RA patients. The association between RA and CVD was prominent in females after adjusting for confounding variables. The association between RA and risk of MI was significant in individuals without DM. Therefore, appropriate screening for CVD is important in all RA patients including females and younger patients.",
+      "corpusId": 253592545,
+      "url": "https://pdfs.semanticscholar.org/c1e6/1441b249012647bd25b154286bb267de6c1c.pdf"
+    },
+    {
+      "title": "Rheumatoid arthritis and stroke risk: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "Lulu Yang",
+          "id": "2268246177"
+        },
+        {
+          "name": "Xinyu Liu",
+          "id": "2295492977"
+        },
+        {
+          "name": "Guangyuan Yang",
+          "id": "2342483475"
+        },
+        {
+          "name": "Hongmei Wu",
+          "id": "2297400923"
+        },
+        {
+          "name": "Xingsen Li",
+          "id": "2318286216"
+        },
+        {
+          "name": "Jinyu Xuan",
+          "id": "2407889919"
+        },
+        {
+          "name": "Shuxin Dong",
+          "id": "2113493282"
+        }
+      ],
+      "year": 2026,
+      "venue": "PeerJ",
+      "score": 0.7864989916430958,
+      "abstract": "Objectives This meta-analysis aims to evaluate the association between rheumatoid arthritis (RA) and stroke risk. Methods: PubMed, Cochrane Library, and Embase were searched for observational studies published from database inception to October 7, 2025, using medical subject headings (MeSH) and keywords. Random effect models were used to calculate odds ratios (OR) and 95% confidence intervals (CI) for evaluating the associations between RA and stroke risk. All statistical analyses were performed using Stata statistical software version 17.0. The funnel plot, Egger’s test and Begg’s test were used to evaluate publication bias. Results This meta-analysis included 12 observational studies with a total of 1,715,001 participants, published between 2003 and 2025. The pooled analysis revealed a significant association between RA and increased stroke risk (OR = 1.35; 95% CI [1.26–1.45]; P = 0.000). Subgroup analysis showed that women with RA had a slightly higher stroke risk than men (OR = 1.60; 95% CI [1.19–2.16]; P = 0.002). Additionally, RA patients aged over 65 were at higher risk of stroke (OR = 1.24; 95% CI [1.02–1.50]; P = 0.032). No significant publication bias was detected, and sensitivity analyses confirmed the robustness of our findings. Conclusions This meta-analysis demonstrates that RA is associated with an increased risk of stroke, supporting the recognition of RA as an independent stroke risk factor.",
+      "corpusId": 285200133,
+      "url": "https://api.semanticscholar.org/CorpusId:285200133"
+    },
+    {
+      "title": "Patterns of cardiovascular risk in rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "D. Solomon",
+          "id": "1832962"
+        },
+        {
+          "name": "N. Goodson",
+          "id": "3511286"
+        },
+        {
+          "name": "J. Katz",
+          "id": "2223685847"
+        },
+        {
+          "name": "M. Weinblatt",
+          "id": "2381501"
+        },
+        {
+          "name": "J. Avorn",
+          "id": "2470273"
+        },
+        {
+          "name": "S. Setoguchi",
+          "id": "2759127"
+        },
+        {
+          "name": "C. Canning",
+          "id": "2669064"
+        },
+        {
+          "name": "S. Schneeweiss",
+          "id": "145876902"
+        }
+      ],
+      "year": 2006,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.78607306701128,
+      "abstract": "",
+      "corpusId": 23037184,
+      "url": "https://doi.org/10.1136/ard.2005.050377"
+    },
+    {
+      "title": "Trends in stroke occurrence in rheumatoid arthritis: a retrospective cohort study from Western Norway, 1972 through 2020",
+      "authors": [
+        {
+          "name": "C. L. Alsing",
+          "id": "2132375395"
+        },
+        {
+          "name": "J. Igland",
+          "id": "2362479609"
+        },
+        {
+          "name": "T. W. Nystad",
+          "id": "4296264"
+        },
+        {
+          "name": "C. G. Gjesdal",
+          "id": "3608177"
+        },
+        {
+          "name": "Halvor Næss",
+          "id": "2362733913"
+        },
+        {
+          "name": "G. Tell",
+          "id": "2236449"
+        },
+        {
+          "name": "B. Fevang",
+          "id": "49494448"
+        }
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Medicine",
+      "score": 0.7849123325077816,
+      "abstract": "Objectives To investigate stroke occurrence in patients with rheumatoid arthritis (RA) diagnosed from 1972 through 2013 compared with the total population. Methods We included 1821 patients diagnosed with RA from 1972 through 2013 at Haukeland University Hospital in Norway. The patients were divided into three inception cohorts by time of RA diagnosis (1972–1998, 1999–2006, and 2007–2013), based on major changes in RA treatment. The total population of the same county was used as a comparison cohort. Both cohorts were followed from 1972 through 2020. Annual change in stroke event rates were calculated by Poisson regression with adjustment for age and sex. Hazard ratios were estimated by Cox regression with adjustment for age, sex, smoking, BMI, diabetes and serological status. Standardized event ratios (SER) were estimated by Poisson regression as a measure of excess stroke events in patients with RA compared with the total population. Results In total 156, 70, and 31 stroke events occurred in the first, middle, and last inception cohorts during, respectively, 17,110, 9,561, and 4,098 person-years of observation. From 1999 to 2020 stroke event rates declined by 4.8% (95% CI 2.7–6.9) per year in the RA cohort and by 3.4% (95% CI 3.1–3.7) per year in the comparison cohort. There was a trend towards lower stroke risk across inception cohorts, with a statistically significant reduction only observed among women in the last cohort compared to the first cohort (hazard ratio 0.30, 95% CI 0.12–0.76). Despite this reduction, the last inception cohort had the highest excess of stroke events (SER 1.58, 95% CI 1.03–2.43), compared with the total population. However, this excess stroke occurrence was only observed in men with RA and not in women with RA. Conclusion Despite an overall decline in stroke occurrence over time, men with RA diagnosed after 2007 had a residual excess stroke occurrence compared to the total population. No excess stroke occurrence was observed in women with RA from the same time period. Our findings highlight the continued need of targeted stroke prevention in patients with RA, particularly for men.",
+      "corpusId": 278790030,
+      "url": "https://api.semanticscholar.org/CorpusId:278790030"
+    },
+    {
+      "title": "Risk of atrial fibrillation and stroke in rheumatoid arthritis: Danish nationwide cohort study",
+      "authors": [
+        {
+          "name": "J. Lindhardsen",
+          "id": "4743448"
+        },
+        {
+          "name": "Ole Ahlehoff",
+          "id": "6680329"
+        },
+        {
+          "name": "G. Gislason",
+          "id": "2238483825"
+        },
+        {
+          "name": "O. Madsen",
+          "id": "1753434"
+        },
+        {
+          "name": "J. Olesen",
+          "id": "40469391"
+        },
+        {
+          "name": "J. Svendsen",
+          "id": "145098374"
+        },
+        {
+          "name": "C. Torp-Pedersen",
+          "id": "1421996253"
+        },
+        {
+          "name": "P. Hansen",
+          "id": "2834046"
+        }
+      ],
+      "year": 2012,
+      "venue": "British medical journal",
+      "score": 0.7844155592952,
+      "abstract": "Objectives To determine if patients with rheumatoid arthritis have increased risk of atrial fibrillation and stroke. Design Longitudinal nationwide register based cohort study. Setting Inpatient and outpatient hospital care in Denmark from 1997 to 2009. Participants Entire Danish population aged over 15 years without rheumatoid arthritis, atrial fibrillation, or stroke before 1997. Participants with rheumatoid arthritis were identified by individual level linkage of diagnoses and rheumatoid arthritis treatment. Main outcome measures Rates of atrial fibrillation and stroke. Results Of 4 182 335 participants included in the cohort, 18 247 were identified as having rheumatoid arthritis during follow-up, with a mean age at disease onset of 59.2 years and a median follow-up of 4.8 years. A total of 156 484 people, including 774 with rheumatoid arthritis, were diagnosed as having atrial fibrillation (age and sex matched event rates of 8.2 per 1000 person years in rheumatoid arthritis patients and 6.0 per 1000 person years in the general population), with an adjusted incidence rate ratio of 1.41 (95% confidence interval 1.31 to 1.51). In addition, 165 343 people, including 718 with rheumatoid arthritis, had a stroke (7.6 per 1000 person years in rheumatoid arthritis and 5.7 per 1000 person years in the general population), with a resultant rate ratio of 1.32 (1.22 to 1.42). For both atrial fibrillation and stroke, relative risks were increased in all strata based on thirds of sex and age, with higher relative risks in younger patients but higher absolute risk differences in older patients. Conclusions Rheumatoid arthritis was associated with an increased incidence of atrial fibrillation and stroke. The novel finding of increased risk of atrial fibrillation in rheumatoid arthritis suggests that this arrhythmia is relevant in cardiovascular risk assessment of these patients.",
+      "corpusId": 18887916,
+      "url": "https://doi.org/10.1136/bmj.e1257"
+    },
+    {
+      "title": "Association between ischemic stroke and seropositive rheumatoid arthritis in Korea: A nationwide longitudinal cohort study",
+      "authors": [
+        {
+          "name": "Dong Hyun Lee",
+          "id": "2115673350"
+        },
+        {
+          "name": "S. Sheen",
+          "id": "4129742"
+        },
+        {
+          "name": "Dong-Geun Lee",
+          "id": "2148664717"
+        },
+        {
+          "name": "Jae-Won Jang",
+          "id": "47267525"
+        },
+        {
+          "name": "Dong Chan Lee",
+          "id": "153619570"
+        },
+        {
+          "name": "Seung-Ho Shin",
+          "id": "49549400"
+        },
+        {
+          "name": "I. Han",
+          "id": "153348234"
+        },
+        {
+          "name": "J. Hong",
+          "id": "2110640219"
+        },
+        {
+          "name": "Hakyung Kim",
+          "id": "2137585911"
+        },
+        {
+          "name": "Seil Sohn",
+          "id": "4768473"
+        }
+      ],
+      "year": 2021,
+      "venue": "PLoS ONE",
+      "score": 0.7797203242666937,
+      "abstract": "The purpose of this longitudinal follow-up study was to investigate the risk of ischemic stroke nationwide in patients with seropositive rheumatoid arthritis (RA) and controls who were matched in age and sex. Patient data were collected from the National Health Insurance Service (NHIS) Health Screening (HEALS) cohort. Using the International Classification of Diseases code M05 (seropositive RA), with a prescription of any disease-modifying anti-rheumatic drug (DMARD), RA was identified. A total of 2,765 patients and 13,825 control subjects were included in our study. The 12-year incidence of ischemic stroke in each group was calculated using the Kaplan–Meier method. The risk ratio of ischemic stroke was estimated using Cox proportional hazards regression. Sixty-four patients (2.31%) in the seropositive RA group and 512 (3.70%) in the control group experienced ischemic stroke (P < 0.001) during the follow-up period. The hazard ratio of ischemic stroke in the seropositive RA group was 1.32 (95% confidence interval (CI), 1.02–1.73) after adjusting for age and sex. The adjusted hazard ratio of ischemic stroke in the seropositive RA group was 1.40 (95% CI, 1.07–1.82) after adjusting for demographics and comorbid medical disorders. According to the subgroup analysis, the hazard ratios of ischemic stroke risks in the female and hypertensive subgroups were 1.44 (95% CI, 1.05–1.97) and 1.66 (95% CI, 1.16–2.38), respectively. In the non-diabetes and non-dyslipidemia subgroups, the corresponding hazard ratios of ischemic stroke were 1.47 (95% CI, 1.11–1.95) and 1.43 (95% CI, 1.07–1.91). Seropositive RA patients have an increased risk of ischemic stroke. In female, hypertension, non-diabetes, and non-dyslipidemia RA subgroups, even without the traditional risk factors for stroke (except for hypertension), increased the risk, which could be potentially attributed to RA.",
+      "corpusId": 234769513,
+      "url": "https://api.semanticscholar.org/CorpusId:234769513"
+    },
+    {
+      "title": "Celecoxib and Etoricoxib may reduce risk of ischemic stroke in patients with rheumatoid arthritis: A nationwide retrospective cohort study",
+      "authors": [
+        {
+          "name": "Acer I-Hung Chen",
+          "id": "1933556619"
+        },
+        {
+          "name": "Yung-Heng Lee",
+          "id": "49380414"
+        },
+        {
+          "name": "W. Perng",
+          "id": "35646313"
+        },
+        {
+          "name": "J. Chiou",
+          "id": "2640795"
+        },
+        {
+          "name": "Yu-Hsun Wang",
+          "id": "4691727"
+        },
+        {
+          "name": "Lichi Lin",
+          "id": "14835517"
+        },
+        {
+          "name": "J. Wei",
+          "id": "2181893589"
+        },
+        {
+          "name": "Hsi-Kai Tsou",
+          "id": "40356231"
+        }
+      ],
+      "year": 2022,
+      "venue": "Frontiers in Neurology",
+      "score": 0.7793421034324546,
+      "abstract": "Background and purpose Previous studies reported conflicting results about the risk of ischemic stroke associated with the use of non-steroidal anti-inflammatory drugs (NSAIDs) in patients with rheumatoid arthritis (RA). We aimed to investigate two specific COX-2 inhibitors, Celecoxib and Etoricoxib, and their corresponding effects on the risk of ischemic stroke in patients with RA. Patients and methods 10,857 patients newly diagnosed with RA were identified and sampled from the Taiwanese National Health Insurance Research Database during the period from 2001 to 2009. The identification of RA was based on the criteria of ICD-9-CM diagnosis code 714.0. Patients diagnosed with cerebrovascular disease and those receiving RA treatment prior to the first diagnosis of RA were excluded. Study endpoint was ischemic stroke, defined by ICD-9-CM code. Cox proportional hazard models and Kaplan Meier curves were used to reveal covariates and differences by drugs in the risk of ischemic stroke. Dosages for Celecoxib were defined as ≤ 200 and >200 mg/day; those for Etoricoxib were 0 and >0 mg/day. Results Among 7,904 RA patients, 6,669 did not take Celecoxib and 564 (8.46%) of them experienced an ischemic stroke event. Of the 597 individuals who took ≤ 200 mg/day of Celecoxib, 58 (9.72%) had strokes. Of the 638 patients who took >200 mg/day of Celecoxib, 38 (5.96%) eventually experienced a stroke. Among the 7,681 patients who did not take Etoricoxib, 654 (8.51%) experienced an ischemic stroke, while 6 (2.69%) in 223 patients who consumed Etoricoxib had a stroke event. Consuming more than 200 mg of Celecoxib per day for <3.5 years lowered the incidence rate for strokes [hazard ratio (HR) 0.67, 95% Confidence Interval (CI) 0.48–0.93 for dosage and HR 0.22, 95% CI 0.10–0.46 for duration, both p < 0.001], while consuming any dosage of Etoricoxib significantly decreases the possibility (HR 0.35, 95% CI 0.16–0.80, p < 0.001). On the other hand, consuming Etoricoxib for 8 years might have a neutral or even a potentially protective effect compared to at 3.8 years. Conclusion This population-based retrospective cohort study has shown that Celecoxib and Etoricoxib reduce the risk of ischemic stroke in patients with RA in a dose- and time-dependent manner.",
+      "corpusId": 253023934,
+      "url": "https://api.semanticscholar.org/CorpusId:253023934"
+    },
+    {
+      "title": "Rheumatoid arthritis and cardiovascular disease associations in the UK Biobank",
+      "authors": [
+        {
+          "name": "J. Salatzki",
+          "id": "145056466"
+        },
+        {
+          "name": "D. Condurache",
+          "id": "1454409996"
+        },
+        {
+          "name": "Stefania D'Angelo",
+          "id": "2288182884"
+        },
+        {
+          "name": "Ahmed M. Salih",
+          "id": "2276715824"
+        },
+        {
+          "name": "L. Szabo",
+          "id": "2212411562"
+        },
+        {
+          "name": "A. Mahmood",
+          "id": "2296863274"
+        },
+        {
+          "name": "E. Curtis",
+          "id": "2296910805"
+        },
+        {
+          "name": "Steffen E. Petersen",
+          "id": "2242129511"
+        },
+        {
+          "name": "A. Altmann",
+          "id": "2240496689"
+        },
+        {
+          "name": "N. Frey",
+          "id": "2251964141"
+        },
+        {
+          "name": "F. André",
+          "id": "2296104697"
+        },
+        {
+          "name": "N. Harvey",
+          "id": "2296872142"
+        },
+        {
+          "name": "Z. Raisi-Estabragh",
+          "id": "1416582394"
+        }
+      ],
+      "year": 2025,
+      "venue": "BMC Medicine",
+      "score": 0.7788514592518736,
+      "abstract": "This study evaluated observational and causal relationships between rheumatoid arthritis (RA) and cardiovascular disease and imaging phenotypes in the UK Biobank. RA was defined using linked hospital records, self-reported diagnostics, and medication data. Controls were participants without a record of RA. Cardiovascular diseases (CVDs) were defined using linked hospital records over an average of 14 years of prospective follow-up, including: ischaemic heart diseases (IHD), acute myocardial infarction (AMI), atrial fibrillation, any arrhythmia, non-ischaemic cardiomyopathies, pericardial disease, stroke, peripheral vascular disease, and venous thromboembolism. For participants with cardiovascular magnetic resonance (CMR) available as part of the UK Biobank Imaging Study, we considered measures of cardiac structure and function extracted using automated pipelines. Associations of RA with prevalent and incident CVDs were calculated using logistic and Cox regression. Linear regression was used to examine associations with CMR metrics. Models were adjusted for demographic, lifestyle, and clinical confounders. Causal associations were assessed using two-sample Mendelian randomisation. Genetic instruments for RA (22,350 cases and 74,823 controls), nine CVDs (FinnGen, n = 224,737), and 11 CMR phenotypes (UK Biobank) were extracted and associations assessed using inverse-variance weighting with pleiotropy adjustments and multiple testing corrections. The analysis included 1,436 RA cases (mean age 59.9 years; 70.6% female) and 476,975 controls (mean age 56.5 years; 54.3% female). Participants with RA lived in more socioeconomically deprived areas (as per the Townsend Deprivation Index), had lower physical activity levels, were more likely to smoke, and had a higher baseline prevalence of CVDs. In fully adjusted models, participants with RA had a significantly higher hazard of multiple incident CVDs, with the greatest risks related to pericardial disease (HR 2.63 (1.85, 3.74)), heart failure (HR 1.68 (1.42, 1.99)), and AMI (HR 1.53 (1.20, 1.96)). Mendelian Randomisation analyses supported causal links between RA and AMI (OR 1.07 (1.02, 1.09), p = 0.009), arrhythmias (OR 1.05 (1.02, 1.06), p = 0.0007), and IHD (OR 1.05 (1.01, 1.06), p = 0.036). No significant associations were identified between RA and CMR phenotypes. People with RA have a heightened risk of multiple prevalent and incident CVDs, independent of shared risk factors, with suggestions of causal links with IHD, AMI, and arrhythmias.",
+      "corpusId": 282722027,
+      "url": "https://api.semanticscholar.org/CorpusId:282722027"
+    },
+    {
+      "title": "Develop and validate a nomogram for predicting stroke inrheumatoidarthritis patients by electronic medical record data in northern China",
+      "authors": [
+        {
+          "name": "Fangran Xin",
+          "id": "121869052"
+        },
+        {
+          "name": "Bo Yang",
+          "id": "2216902389"
+        },
+        {
+          "name": "Lingyu Fu",
+          "id": "4041369"
+        },
+        {
+          "name": "Haina Liu",
+          "id": "11937508"
+        },
+        {
+          "name": "Tingting Wei",
+          "id": "143772250"
+        },
+        {
+          "name": "Cunlu Zou",
+          "id": "2936226"
+        },
+        {
+          "name": "Bingqing Bai",
+          "id": "1933769140"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.7729341506841062,
+      "abstract": "\n Background: to develop and validate a serum lipid and inflammatory marker model based on the nomogram for the prediction of stroke risk in rheumatoid arthritis patients.Methods: This study was conducted among 313 rheumatoid arthritis with stroke patients and 1827 rheumatoid arthritis patients divided into develop and validation cohorts from the First Affiliated Hospital of China Medical University during January 2011 to December 2018. Logistic regression analysis was used to create a nomogram of predictive model of stroke risk in rheumatoid arthritis patients, after comparing with other machine algorithms. The performance of the nomogram was evaluated by discrimination, calibration and decision curve analysis, also compared with the Framingham Risk Score in predicting stroke in rheumatoid arthritis patients.Results: the nomogram was performed by logistic regression algorithm, and predictors of which included the stratifications of sex, age, systolic blood pressure, C-reactive protein, erythrocyte sedimentation rate, total cholesterol, low density lipoprotein cholesterol and the distribution of being accompanied with hy-med, diabetes, atrial fibrillation and coronary heart disease history, which exhibited a well goodness fit and a good agreement. The analysis with area under the curve, the net reclassification index, the integrated discrimination improvement and clinical use, suggested that this is an easy-to-use nomogram compared with the Framingham Risk Score.Conclusion: This study presents a risk nomogram that incorporates the traditional risk factors, serum lipids and inflammatory markers which can be used to predict stroke in rheumatoid arthritis patients.",
+      "corpusId": 234649865,
+      "url": "https://api.semanticscholar.org/CorpusId:234649865"
+    },
+    {
+      "title": "Incidence and risk of fatal myocardial infarction and stroke events in rheumatoid arthritis patients. A systematic review of the literature.",
+      "authors": [
+        {
+          "name": "L. Levy",
+          "id": "2103924559"
+        },
+        {
+          "name": "Bruno Fautrel",
+          "id": "2248257963"
+        },
+        {
+          "name": "T. Barnetche",
+          "id": "6426588"
+        },
+        {
+          "name": "T. Schaeverbeke",
+          "id": "2242584146"
+        }
+      ],
+      "year": 2008,
+      "venue": "Clinical and Experimental Rheumatology",
+      "score": 0.7684734413164978,
+      "abstract": "",
+      "corpusId": 2961288,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/18799105"
+    },
+    {
+      "title": "Does depression increase the risk of stroke in patients with rheumatoid arthritis? A population-based cohort study",
+      "authors": [
+        {
+          "name": "Tzung-Yi Tsai",
+          "id": "2352645039"
+        },
+        {
+          "name": "Ming-Chi Lu",
+          "id": "3486918"
+        },
+        {
+          "name": "H. Livneh",
+          "id": "3497240"
+        },
+        {
+          "name": "Shan-Yun Chiu",
+          "id": "122764463"
+        },
+        {
+          "name": "N. Lai",
+          "id": "145549429"
+        },
+        {
+          "name": "How-Ran Guo",
+          "id": "3800643"
+        }
+      ],
+      "year": 2017,
+      "venue": "BMJ Open",
+      "score": 0.7680054908592239,
+      "abstract": "Objectives Comorbid depression is common and undertreated in patients with rheumatoid arthritis (RA). It remains uncertain whether comorbid depression provoked the risk of poor clinical outcome, stroke in particular, among patients with RA. This work aimed to determine if depression onset during the treatment process increases stroke risk for patients with RA as compared with those with (1) neither RA nor depression, (2) RA only and (3) depression only. Design A nationwide, population-based cohort study. Setting Taiwan's Longitudinal Health Insurance Database. Participants We identified 8045 subjects with a newly diagnosed RA between 1997 and 2010, together with 32 600 subjects without RA matched by age, gender and index date. All subjects were further divided into four groups based on whether they were diagnosed with comorbid depression during the follow-up period. Main outcome measure The incidence rate and HR for incident stroke were estimated by the end of 2012 using Cox proportional hazard regression. Results We discovered that patients with RA with the comorbid depression exhibited the highest risk of stroke, with an adjusted HR of 2.18 (95% CI 1.87 to 2.54). Those with RA only or those with depression only still had the higher risk of stroke by 43% and 57% as compared with subjects without either condition. Multivariate analysis showed RA subjects who were male or older, incurred the onset of depression, or had comorbidities such as hypertension, diabetes as well as heart disease, had a greater risk of stroke. Conclusions This study cleared up the significant association between RA and the subsequent risk of stroke, and further highlighted that the onset of depression within the treatment process may increase stroke risk for RA subjects. Findings could assist healthcare providers to pinpoint individuals with RA with a higher predisposition of stroke, which could facilitate the provision of appropriate rehabilitation.",
+      "corpusId": 4773596,
+      "url": "https://api.semanticscholar.org/CorpusId:4773596"
+    },
+    {
+      "title": "Risk of cardiovascular disease in Chinese patients with rheumatoid arthritis: A cross-sectional study based on hospital medical records in 10 years",
+      "authors": [
+        {
+          "name": "K. Zou",
+          "id": "143682326"
+        },
+        {
+          "name": "Fuyu Xiao",
+          "id": "2300896214"
+        },
+        {
+          "name": "Hong-Ying Li",
+          "id": "2115264133"
+        },
+        {
+          "name": "Qiao Zhou",
+          "id": "50656923"
+        },
+        {
+          "name": "L. Ban",
+          "id": "2572398"
+        },
+        {
+          "name": "Min Yang",
+          "id": "2119009906"
+        },
+        {
+          "name": "C. Kuo",
+          "id": "78670869"
+        },
+        {
+          "name": "Weiya Zhang",
+          "id": "2006184540"
+        }
+      ],
+      "year": 2017,
+      "venue": "PLoS ONE",
+      "score": 0.762844164775734,
+      "abstract": "Objective Though the risk of cardiovascular disease (CVD) in rheumatoid arthritis (RA) has been established in Western population, little is known about the risk in Chinese people with RA. Our objective was to estimate the risk of CVD in Chinese people with RA using hospital medical records data. Methods The inpatients medical record database 2005–2015 of Sichuan provincial people’s hospital was examined. All individuals with a primary diagnosis of RA were included as cases, and those of osteoarthritis (OA) were included as controls, which consisted of the unmatched dataset. Then, RA cases and OA controls were matched by sex and age at 1:1 ratio, forming the matched dataset. The morbidity of CVD (including ischemia heart disease (IHD), congestive heart failure (CHF), et al), stroke and arthrosclerosis were extracted from the database, so as the demographic data and comorbidities related to CVD. Multiple logistic regression analysis was used to estimate the risk of CVD in RA adjusted for demographics and comorbidities using the unmatched dataset. Sensitivity analysis was conducted 1) considering interaction terms between RA and comorbidities, and 2) using multivariable conditional logistic regression for the matched dataset. Results The unmatched dataset comprised of 1824RA cases and 1995 OA controls and the matched dataset comprised of 1022 pairs of sex and age matched RA and OA patients. RA exhibited increased odds of prevalent CVD compared with OA, and the adjusted ORs (95%CIs) for CVD, stroke, IHD, CHF, and atherosclerosis were1.86(1.42–2.43), 1.11(0.71–1.74), 1.47(0.97–2.24), 2.09(1.03–4.22), and 2.49 (1.97–3.13), respectively, and was 2.26 (1.29–3.96)for IHD further adjusted for interaction term. The matched dataset analysis found similar results. Conclusions Chinese people with RA were approximated 2 times more likely to have CVD, IHD, CHF and atherosclerosis compared with those with OA. The findings justified the need of further longitudinal study to establish the causal-relationship between RA and CVD and to estimate the precise risk in this population.",
+      "corpusId": 28710208,
+      "url": "https://api.semanticscholar.org/CorpusId:28710208"
+    },
+    {
+      "title": "Stroke risk in arthritis: A systematic review and meta-analysis of cohort studies",
+      "authors": [
+        {
+          "name": "Wei Liu",
+          "id": "2157221277"
+        },
+        {
+          "name": "Wei Ma",
+          "id": "144258298"
+        },
+        {
+          "name": "Hua Liu",
+          "id": "2145497067"
+        },
+        {
+          "name": "Chunyan Li",
+          "id": "2109738215"
+        },
+        {
+          "name": "Yang-wei Zhang",
+          "id": "121310337"
+        },
+        {
+          "name": "Jie Liu",
+          "id": "2146652455"
+        },
+        {
+          "name": "Yu Liang",
+          "id": "2117874753"
+        },
+        {
+          "name": "Sijia Zhang",
+          "id": "2108340572"
+        },
+        {
+          "name": "Zhen Wu",
+          "id": "2146268155"
+        },
+        {
+          "name": "Chenghao Zang",
+          "id": "1490431567"
+        },
+        {
+          "name": "Jian‐hui Guo",
+          "id": "6860206"
+        },
+        {
+          "name": "Liyan Li",
+          "id": "1777976595"
+        }
+      ],
+      "year": 2021,
+      "venue": "PLoS ONE",
+      "score": 0.7425476103191604,
+      "abstract": "Background and objective Stroke is a major contributor to the global burden of disease. Although numerous modifiable risk factors (RF) for stroke have been identified, some remain unexplained. Increasing studies have investigated stroke risk in arthritis, but their results are inconsistent. We aimed to synthesize, quantify, and compare the risk of stroke for the major types of arthritis in cohort studies by using a systematic review and meta-analysis approach. Methods We searched Chinese and English databases to identify relevant studies from inception to April 30, 2020. Only studies adjusting at least for age and sex were included. We calculated pooled effect estimates for relative risk (RR) and 95% confidence interval (CI) and identified potential sources of heterogeneity and publication bias. Results A total of 1,348 articles were retrieved, and after an preliminary screening of titles and abstracts, 69 were reviewed for full text, and finally, 32 met the criteria for meta-analysis. Stroke risk in arthritis was significantly increased in studies adjusting for age and sex (RR = 1.36, 95% CI: 1.27–1.46) and for at least one traditional risk factor (RR = 1.40, 95% CI: 1.28–1.54). The results of studies stratified by stroke subtype were consistent with the main finding (ischemic stroke: RR = 1.53, 95% CI: 1.32–1.78; hemorrhagic stroke: RR = 1.45, 95% CI: 1.15–1.84). In subgroup analysis by arthritis type, stroke risk was significantly increased in rheumatoid arthritis (RR = 1.38, 95% CI: 1.29–1.48), ankylosing spondylitis (RR = 1.49, 95% CI: 1.25–1.77), psoriatic arthritis (RR = 1.33, 95% CI: 1.22–1.45), and gout (RR = 1.40, 95% CI: 1.13–1.73) but not osteoarthritis (RR = 1.03, 95% CI: 0.91–1.16). Age and sex subgroup analyses indicated that stroke risk was similar by sex (women: RR = 1.47, 95% CI: 1.31–1.66; men: RR = 1.44, 95% CI: 1.28–1.61); risk was higher with younger age (<45 years) (RR = 1.46, 95% CI: 1.17–1.82) than older age (≥65 years) (RR = 1.17, 95% CI: 1.08–1.26). Conclusions Stroke risk was increased in multiple arthritis and similar between ischemic and hemorrhagic stroke. Young patients with arthritis had the highest risk.",
+      "corpusId": 232260219,
+      "url": "https://pdfs.semanticscholar.org/c6ad/fb7bbb2049c93687676442e366aa2398fa4e.pdf"
+    },
+    {
+      "title": "Cardiovascular Morbidity and Mortality in Women Diagnosed With Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "D. Solomon",
+          "id": "1832962"
+        },
+        {
+          "name": "E. Karlson",
+          "id": "2542696"
+        },
+        {
+          "name": "E. Rimm",
+          "id": "4273032"
+        },
+        {
+          "name": "C. Cannuscio",
+          "id": "4389108"
+        },
+        {
+          "name": "L. Mandl",
+          "id": "5822407"
+        },
+        {
+          "name": "J. Manson",
+          "id": "3988124"
+        },
+        {
+          "name": "M. Stampfer",
+          "id": "144118015"
+        },
+        {
+          "name": "G. Curhan",
+          "id": "4061517"
+        }
+      ],
+      "year": 2003,
+      "venue": "Circulation",
+      "score": 0.7407968902706994,
+      "abstract": "",
+      "corpusId": 13315844,
+      "url": "https://doi.org/10.1161/01.CIR.0000054612.26458.B2"
+    },
+    {
+      "title": "Rheumatoid Arthritis and Atrial Fibrillation: a Complex Cardiovascular Intersection – Insights from a Retrospective Cohort Study",
+      "authors": [
+        {
+          "name": "Q. Alqudah",
+          "id": "2301557802"
+        },
+        {
+          "name": "Ahmad Alomari",
+          "id": "2375460478"
+        },
+        {
+          "name": "M. Daise",
+          "id": "2301558192"
+        },
+        {
+          "name": "Ali Awad",
+          "id": "2363361654"
+        },
+        {
+          "name": "Laith Rhabneh",
+          "id": "2338932554"
+        },
+        {
+          "name": "Osama Obeidat",
+          "id": "2394785933"
+        },
+        {
+          "name": "Omar Obeidat",
+          "id": "2363359735"
+        },
+        {
+          "name": "Samar Alomari",
+          "id": "2372710318"
+        },
+        {
+          "name": "Safwan Alomari",
+          "id": "2372710320"
+        }
+      ],
+      "year": 2025,
+      "venue": "Medical archives",
+      "score": 0.7377211339734566,
+      "abstract": "Background: Rheumatoid arthritis (RA) is associated with an increased risk of cardiovascular disease (CVD) and atrial fibrillation (AF), yet data on the clinical outcomes and management of AF in RA patients remain limited. Objective: This study aimed to evaluate the impact of RA on AF-related outcomes and treatment strategies. Methods: We conducted a retrospective cohort study using the TriNetX US collaborative network database, including adult patients diagnosed with AF between 2015 and 2025. Patients were divided into two cohorts based on the presence or absence of RA. Propensity score matching was performed to balance baseline characteristics. Results: A total of 33,922 RA-AF patients and 33,922 non-RA AF patients were analyzed after matching. RA-AF patients exhibited a significantly higher risk of all-cause mortality (24.5% vs. 21.0%, OR: 1.216, p<0.001) and hospitalization or emergency department visits (72.2% vs. 69.2%, OR: 1.153, p<0.001). Additionally, RA-AF patients had a higher incidence of ischemic stroke or transient ischemic attack (13.2% vs. 11.4%, OR: 1.180, p<0.001) and composite hemorrhagic events (14.4% vs. 10.6%, OR: 1.411, p<0.001). Notably, AF with rapid ventricular response (RVR) was more common in RA-AF patients (36.1% vs. 33.5%, OR: 1.122, p<0.001). Despite the elevated thromboembolic risk, RA-AF patients demonstrated lower utilization of anticoagulation (46.9% vs. 49.4%, OR: 0.905, p<0.001) and a preference for rate control over rhythm control strategies. Conclusion: RA-AF patients experience higher mortality, increased stroke and hemorrhagic risk, and more frequent hospitalizations compared to non-RA AF patients. Despite these risks, anticoagulation underutilization remains a concern.",
+      "corpusId": 278888245,
+      "url": "https://api.semanticscholar.org/CorpusId:278888245"
+    },
+    {
+      "title": "Risk of ischemic stroke associated with anti-rheumatic agents in patients with rheumatoid arthritis: A nationwide population-based case-control study",
+      "authors": [
+        {
+          "name": "S. Ahn",
+          "id": "12545519"
+        },
+        {
+          "name": "Seonok Kim",
+          "id": "2248551836"
+        },
+        {
+          "name": "Ye-jee Kim",
+          "id": "2244628489"
+        },
+        {
+          "name": "Seokchan Hong",
+          "id": "66846909"
+        },
+        {
+          "name": "C. Lee",
+          "id": "2291091821"
+        },
+        {
+          "name": "B. Yoo",
+          "id": "47824247"
+        },
+        {
+          "name": "Ji Seon Oh",
+          "id": "2346989389"
+        },
+        {
+          "name": "Yong-Gil Kim",
+          "id": "2211070248"
+        }
+      ],
+      "year": 2025,
+      "venue": "PLoS ONE",
+      "score": 0.7363500438564747,
+      "abstract": "Introduction Patients with rheumatoid arthritis (RA) face a significantly higher risk of major adverse cardiovascular events, including stroke, due to the pivotal role of inflammation in atherosclerosis and thrombosis. Various anti-rheumatic agents may influence stroke risk either by increasing or decreasing it, and this effect remains unclear. This study aimed to investigate the association between different anti-rheumatic agents and the risk of incident stroke in patients with RA using a nationwide claims database. Methods In this nested case-control study, the Korean Health Insurance Review and Assessment data of 35,133 patients newly diagnosed with seropositive RA from January 2011 to December 2020 were used. Incident ischemic stroke cases were identified and matched with randomly selected controls at a 1:4 ratio. The usage of anti-rheumatic agents was measured from the date of RA diagnosis to the index date and stratified in terms of exposure time and duration. The risk of stroke associated with each anti-rheumatic agent was estimated using conditional logistic regression and adjusted for comorbidities and concomitant drug use. Results Of the 35,133 patients, 1,386 (3.9%) cases were newly diagnosed with new-onset stroke. Thus, 1,384 stroke cases and 5,499 controls with newly diagnosed RA were included in the analysis. Current exposure to sulfasalazine (aOR: 0.79, 95% CI: 0.65–0.97) and hydroxychloroquine (aOR: 0.83, 95% CI: 0.72–0.96) was associated with a decreased risk of stroke, while current exposure to glucocorticoids (aOR: 1.71, 95% CI: 1.46–2.00) and tocilizumab (aOR: 3.47, 95% CI: 1.70–7.08) was related to an increased risk of stroke. Conclusion In this nationwide cohort study of patients with RA, treatment with sulfasalazine and hydroxychloroquine was associated with a decreased risk of stroke, while glucocorticoids and tocilizumab were linked to an increased risk of stroke. The association of tocilizumab with stroke should be cautiously interpreted due to the statistical limitations.",
+      "corpusId": 279411552,
+      "url": "https://api.semanticscholar.org/CorpusId:279411552"
+    },
+    {
+      "title": "Characterizing the polygenic overlap and shared loci between rheumatoid arthritis and cardiovascular diseases",
+      "authors": [
+        {
+          "name": "Xiaohui Sun",
+          "id": "2248648762"
+        },
+        {
+          "name": "Yu Qian",
+          "id": "2087074168"
+        },
+        {
+          "name": "W. Cheng",
+          "id": "1480950520"
+        },
+        {
+          "name": "D. Ye",
+          "id": "2055648119"
+        },
+        {
+          "name": "Bin Liu",
+          "id": "2156046149"
+        },
+        {
+          "name": "Dan Zhou",
+          "id": "2256313443"
+        },
+        {
+          "name": "Chengping Wen",
+          "id": "2258333854"
+        },
+        {
+          "name": "O. Andreassen",
+          "id": "2257730639"
+        },
+        {
+          "name": "Y. Mao",
+          "id": "8070904"
+        }
+      ],
+      "year": 2024,
+      "venue": "BMC Medicine",
+      "score": 0.7362936040178708,
+      "abstract": "Background Despite substantial research revealing that patients with rheumatoid arthritis (RA) have excessive morbidity and mortality of cardiovascular disease (CVD), the mechanism underlying this association has not been fully known. This study aims to systematically investigate the phenotypic and genetic correlation between RA and CVD. Methods Based on UK Biobank, we conducted two cohort studies to evaluate the phenotypic relationships between RA and CVD, including atrial fibrillation (AF), coronary artery disease (CAD), heart failure (HF), and stroke. Next, we used linkage disequilibrium score regression, Local Analysis of [co]Variant Association, and bivariate causal mixture model (MiXeR) methods to examine the genetic correlation and polygenic overlap between RA and CVD, using genome-wide association summary statistics. Furthermore, we explored specific shared genetic loci by conjunctional false discovery rate analysis and association analysis based on subsets. Results Compared with the general population, RA patients showed a higher incidence of CVD (hazard ratio [HR] = 1.21, 95% confidence interval [CI]: 1.15–1.28). We observed positive genetic correlations of RA with AF and stroke, and a mixture of negative and positive local genetic correlations underlying the global genetic correlation for CAD and HF, with 13 ~ 33% of shared genetic variants for these trait pairs. We further identified 23 pleiotropic loci associated with RA and at least one CVD, including one novel locus (rs7098414, TSPAN14 , 10q23.1). Genes mapped to these shared loci were enriched in immune and inflammatory-related pathways, and modifiable risk factors, such as high diastolic blood pressure. Conclusions This study revealed the shared genetic architecture of RA and CVD, which may facilitate drug target identification and improved clinical management.",
+      "corpusId": 268999701,
+      "url": "https://api.semanticscholar.org/CorpusId:268999701"
+    },
+    {
+      "title": "Evaluating the risk of ischemic stroke at a young age in patients with autoimmune inflammatory rheumatic diseases: a population-based cohort study in Taiwan",
+      "authors": [
+        {
+          "name": "Ya-Chun Huang",
+          "id": "2126186211"
+        },
+        {
+          "name": "E. C. Lai",
+          "id": "2267545293"
+        },
+        {
+          "name": "T. Liao",
+          "id": "144421977"
+        },
+        {
+          "name": "Meng-Yu Weng",
+          "id": "2283630234"
+        }
+      ],
+      "year": 2024,
+      "venue": "Frontiers in Immunology",
+      "score": 0.7354484931423262,
+      "abstract": "Background Recent studies have demonstrated an increased incidence of ischemic stroke among patients with certain autoimmune inflammatory rheumatic diseases (AIIRDs). However, the associations between young stroke and AIIRDs have not been fully investigated. This study aimed to evaluate the risk of ischemic stroke among young patients with AIIRDs. Methods The National Health Insurance Research Database in Taiwan was utilized to establish cohorts of patients with AIIRDs diagnosed between 2004 and 2015, who were compared with 1,000,000 control participants. Cox proportional hazards regression models were used to calculate the hazard ratio of ischemic stroke and young ischemic stroke for individual AIIRDs after adjustment for relative risk factors. Results During the study period, a total of 64,120 patients with AIIRDss and 1,000,000 control patients were identified. The overall mean follow-up time was 5.33 years. There were 223 (0.8%) and 1,923 (0.3%) young ischemic stroke-related hospitalizations among patients with AIIRDs and controls, respectively. The incidence rate of young ischemic stroke was 0.08 in patients with rheumatoid arthritis, 0.08 in patients with Sjögren’s syndrome, 0.26 in patients with systemic lupus erythematosus, 0.17 in patients with idiopathic inflammatory myositis, 0.24 in patients with systemic sclerosis, 0.05 in patients with Behçet’s disease, and 0.44 in patients with systemic vasculitis, versus 0.05 per 100 person-years in the general population. The adjusted hazard ratios for young ischemic stroke were 1.07 (95% CI 0.70–1.43) for rheumatoid arthritis, 1.39 (95% CI 0.94–2.06) for Sjögren’s syndrome, 5.79 (95% CI 4.68–7.17) for systemic lupus erythematosus, 2.07 for idiopathic inflammatory myositis (95% CI 0.98–4.38), 2.79 for systemic sclerosis (95% CI 1.38–5.63), 0.82 for Behçet’s disease (95% CI 0.26–2.55), and 4.15 (95% CI 1.96–8.82) for systemic vasculitis. Conclusions Patients younger than 50 years with systemic lupus erythematosus, systemic sclerosis, or systemic vasculitis have a significantly elevated risk of developing ischemic stroke. Further research is needed to elucidate the pathogenesis of accelerated atherosclerosis in these AIIRDs.",
+      "corpusId": 267591886,
+      "url": "https://api.semanticscholar.org/CorpusId:267591886"
+    },
+    {
+      "title": "Stroke risk in rheumatoid arthritis patients: exploring connections and implications for patient care",
+      "authors": [
+        {
+          "name": "Ola A Al-Ewaidat",
+          "id": "2322202178"
+        },
+        {
+          "name": "Moawiah M. Naffaa",
+          "id": "6473616"
+        }
+      ],
+      "year": 2024,
+      "venue": "Clinical and Experimental Medicine (Testo stampato)",
+      "score": 0.7335222365903402,
+      "abstract": "Rheumatoid arthritis (RA) can independently increase the risk of stroke, affecting both young and adult RA patients. Recent attention has been drawn to the association between stroke and RA, supported by mounting evidence. Given that stroke is a significant and an urgent public health concern, this review aims to highlight the relationship between stroke and RA, covering mechanisms, underlying risk factors, early detection tools, and treatment implications. By uncovering the connection that links RA to stroke, we can pave the way for targeted healthcare practices and the development of preventive strategies for individuals with RA. Therefore, further research is imperative to deepen our understanding of this association and, ideally, guide treatment decisions for individuals at risk of both RA and stroke.",
+      "corpusId": 267333766,
+      "url": "https://api.semanticscholar.org/CorpusId:267333766"
+    },
+    {
+      "title": "Rheumatoid Arthritis and Cardiovascular Risk: Retrospective Matched-Cohort Analysis Based on the RECORD Study of the Italian Society for Rheumatology",
+      "authors": [
+        {
+          "name": "L. Argnani",
+          "id": "4310332"
+        },
+        {
+          "name": "A. Zanetti",
+          "id": "41197973"
+        },
+        {
+          "name": "G. Carrara",
+          "id": "49079148"
+        },
+        {
+          "name": "E. Silvagni",
+          "id": "12361939"
+        },
+        {
+          "name": "G. Guerrini",
+          "id": "150111099"
+        },
+        {
+          "name": "A. Zambon",
+          "id": "35277276"
+        },
+        {
+          "name": "C. Scirè",
+          "id": "4065714"
+        }
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Medicine",
+      "score": 0.7314486255585295,
+      "abstract": "Background: Rheumatoid arthritis (RA) is associated with an increase in cardiovascular (CV) risk. This issue maybe not only explained by a genetic component, as well as by the traditional CV risk factors, but also by an underestimation and undertreatment of concomitant CV comorbidities. Method: This was a retrospective matched-cohort analysis in the Italian RA real-world population based on the healthcare-administrative databases to assess the CV risk factors and incidence of CV events in comparison with the general population. Persistence and adherence to the CV therapy were also evaluated in both groups. Results: In a RA cohort (N = 21,201), there was a greater prevalence of hypertension and diabetes with respect to the non-RA subjects (N = 249,156) (36.9 vs. 33.4% and 10.2 vs. 9.6%, respectively), while dyslipidemia was more frequent in the non-RA group (15.4 vs. 16.5%). Compared with a non-RA cohort, the patients with RA had a higher incidence of atrial fibrillation (incidence rate ratio, IRR 1.28), heart failure (IRR 1.53), stroke (IRR 1.19), and myocardial infarction (IRR 1.48). The patients with RA presented a significantly lower persistence rate to glucose-lowering and lipid-lowering therapies than the controls (odds ratio, OR 0.73 [95% CI 0.6–0.8] and OR 0.82 [0.8–0.9], respectively). The difference in the adherence to glucose-lowering therapy was significant (OR 0.7 [0.6–0.8]), conversely no statistically significant differences emerged regarding the adherence to lipid-lowering therapy (OR 0.89 [95% CI 0.8–1.0]) and anti-hypertensive therapy (OR 0.96 [95% CI 0.9–1.0]). Conclusion: The patients with RA have a higher risk of developing CV events compared with the general population, partially explained by the excess and undertreatment of CV risk factors.",
+      "corpusId": 238261757,
+      "url": "https://api.semanticscholar.org/CorpusId:238261757"
+    },
+    {
+      "title": "Incidence Rate of Cardiovascular Events in Rheumatoid Arthritis: An Observational Cohort Study in Saudi Arabia",
+      "authors": [
+        {
+          "name": "Laila AlGhalawin",
+          "id": "2310973812"
+        },
+        {
+          "name": "Mukhtar J Alomar",
+          "id": "1454421153"
+        },
+        {
+          "name": "Shahad Al Bassam",
+          "id": "2310978160"
+        },
+        {
+          "name": "Aqeelah Alhamdan",
+          "id": "2244436443"
+        },
+        {
+          "name": "H. Anan",
+          "id": "2076881834"
+        },
+        {
+          "name": "Marwah Altaweel",
+          "id": "2106408408"
+        },
+        {
+          "name": "Zainab Alomran",
+          "id": "2310973352"
+        },
+        {
+          "name": "Reem Al khamis",
+          "id": "2310975446"
+        },
+        {
+          "name": "Asma Alqatri",
+          "id": "2310979249"
+        },
+        {
+          "name": "M. Alamoudi",
+          "id": "2093138326"
+        },
+        {
+          "name": "A. Alamer",
+          "id": "2143321871"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Multidisciplinary Healthcare",
+      "score": 0.7286732761957483,
+      "abstract": "Purpose Rheumatoid arthritis (RA) doubles the morbidity of cardiovascular disease (CVD) and leads to a 50% increase in mortality compared to the general population. This study aims to estimate the CVD incidence among RA patients in Saudi Arabia (SA), vital for assessing CVD burdens within this group. Patients and Methods This retrospective study took place at two centers in the Eastern Province of SA, including all adult RA patients who visited the rheumatology clinic from 2016 to 2021 and were prescribed disease-modifying antirheumatic drugs (DMARDs). CVD incidence was determined by the diagnosis of ischemic heart disease (IHD), stroke/transient ischemic attack (TIA), venous thromboembolism (VTE), heart failure (HF), and arrhythmia post-RA diagnosis. Additional data collected included demographics, CVD risk factors, comorbidities, RA-related factors, and medication usage. Results The study comprised 651 patients, 80.5% of whom were females with an average age of 51. The overall CVD incidence was 11.2 per 1000 person-years, with males experiencing five times more incidents than females. The prevalence of CVD risk factors included 18.7% with hypertension, 7.8% with hyperlipidemia, 18.9% with diabetes, and 42.9% with obesity. Significant predictors of CVD were male gender and RA duration, with adjusted odds ratios (aOR) of 3.17 (95% CI 1.10 to 9.14, P=0.033) and 64.81 (95% CI 3.68 to 1140.6, P=0.004), respectively. Conclusion This unique study from SA examined the CVD incidence in RA patients, identifying long disease duration and male gender as significant predictors. Effective reduction of CVD risk in RA patients requires aggressive management of modifiable risk factors and regular risk assessments.",
+      "corpusId": 271134273,
+      "url": "https://api.semanticscholar.org/CorpusId:271134273"
+    },
+    {
+      "title": "Occurrence and relative risk of stroke in incident and prevalent contemporary rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "M. Holmqvist",
+          "id": "49633081"
+        },
+        {
+          "name": "E. Gränsmark",
+          "id": "16288898"
+        },
+        {
+          "name": "Ä. Mantel",
+          "id": "10161338"
+        },
+        {
+          "name": "L. Alfredsson",
+          "id": "6611041"
+        },
+        {
+          "name": "L. Jacobsson",
+          "id": "152692998"
+        },
+        {
+          "name": "S. Wållberg-Jonsson",
+          "id": "1398319441"
+        },
+        {
+          "name": "J. Askling",
+          "id": "4142445"
+        }
+      ],
+      "year": 2012,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.7277316051685289,
+      "abstract": "",
+      "corpusId": 24955243,
+      "url": "https://doi.org/10.1136/annrheumdis-2012-201387"
+    },
+    {
+      "title": "Lipids, myocardial infarction and ischaemic stroke in patients with rheumatoid arthritis in the Apolipoprotein-related Mortality RISk (AMORIS) Study",
+      "authors": [
+        {
+          "name": "A. Semb",
+          "id": "3751869"
+        },
+        {
+          "name": "T. Kvien",
+          "id": "5230112"
+        },
+        {
+          "name": "A. Aastveit",
+          "id": "3315029"
+        },
+        {
+          "name": "I. Jungner",
+          "id": "5675424"
+        },
+        {
+          "name": "T. Pedersen",
+          "id": "40085046"
+        },
+        {
+          "name": "G. Walldius",
+          "id": "6727172"
+        },
+        {
+          "name": "I. Holme",
+          "id": "5231194"
+        }
+      ],
+      "year": 2010,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.7275966761931825,
+      "abstract": "",
+      "corpusId": 36984043,
+      "url": "https://doi.org/10.1136/ard.2009.126128"
+    },
+    {
+      "title": "Rheumatoid arthritis and the risk of ischaemic stroke after diagnosis of atrial fibrillation: a Norwegian nationwide register study",
+      "authors": [
+        {
+          "name": "A. Kerola",
+          "id": "5876407"
+        },
+        {
+          "name": "E. Ikdahl",
+          "id": "6497993"
+        },
+        {
+          "name": "I. Engebretsen",
+          "id": "2189194655"
+        },
+        {
+          "name": "C. Bugge",
+          "id": "46185786"
+        },
+        {
+          "name": "A. Semb",
+          "id": "3751869"
+        }
+      ],
+      "year": 2024,
+      "venue": "Rheumatology",
+      "score": 0.7265119928961703,
+      "abstract": "Abstract Objectives RA patients have an increased risk for cardiovascular diseases, including atrial fibrillation (AF), but the impact of RA on ischaemic stroke risk in the context of AF remains unknown. We explored whether the risk of ischaemic stroke after diagnosis of AF is further increased among patients with RA compared with non-RA patients. Methods In the nationwide Norwegian Cardio-Rheuma Register, we evaluated cumulative incidence and hazard rate of ischaemic stroke after the first AF diagnosis (2750 individuals with RA and 158 879 without RA between 2010 and 2017) by using a competing risk model with a 3-month delayed entry. Results The 5-year unadjusted cumulative incidence of ischaemic stroke was 7.3% (95% CI: 5.9–8.7%) for patients with RA and 5.0% (95% CI: 4.9–5.2%) for patients without RA. Unadjusted univariate analyses indicated that AF patients with RA had a HR of 1.36 (95% CI: 1.13, 1.62) for ischaemic stroke compared with those without RA. Sex- and age-adjusted HR for ischaemic stroke in RA patients with AF was 1.25 (95% CI: 1.05, 1.50), and the effect size remained unchanged after adjustment for diabetes, hypertension, atherosclerotic cardiovascular disease and oral anticoagulant (OAC) treatment. RA patients were less likely to receive OAC treatment than non-RA patients (adjusted odds ratio 0.88, 95% CI: 0.80, 0.97). Conclusion RA patients diagnosed with AF are at a further increased risk for stroke compared with non-RA patients with AF, and less likely to receive OAC treatment, emphasizing the need to improve stroke prevention in AF patients with RA.",
+      "corpusId": 271919345,
+      "url": "https://api.semanticscholar.org/CorpusId:271919345"
+    },
+    {
+      "title": "Predicting the Risk of Ischemic Stroke among Patients with Rheumatoid Arthritis Using a Simplified RA-CHADSV Score Based on the CHA2DS2-VASc Score",
+      "authors": [
+        {
+          "name": "Chia-Wen Hsu",
+          "id": "2915505"
+        },
+        {
+          "name": "K. Ng",
+          "id": "8511452"
+        },
+        {
+          "name": "Ming-Chi Lu",
+          "id": "3486918"
+        },
+        {
+          "name": "M. Koo",
+          "id": "145763162"
+        }
+      ],
+      "year": 2020,
+      "venue": "Medicina",
+      "score": 0.7253459203234094,
+      "abstract": "Background and Objectives: The aim of this retrospective cohort study was to develop a new score (RA-CHADSV) (rheumatoid arthritis - congestive heart failure, hypertension, age ≥75 years, diabetes mellitus, stroke/transient ischemic attack/thromboembolism, and vascular disease), modified from the CHA2DS2-VASc score (congestive heart failure, hypertension, age ≥75 years (doubled), diabetes mellitus, stroke/transient ischemic attack (doubled), vascular disease, age 65–74 years, and female), in predicting the risk of ischemic stroke in rheumatoid arthritis (RA) patients without atrial fibrillation (AF). Materials and Methods: Using the Taiwan’s National Health Insurance Research Database, 592 patients with RA diagnosed between 2000 and 2002 were identified and followed until first occurrence of ischemic stroke or the last available date in the database. Incidence rate ratios (IRR) of ischemic stroke for the CHA2DS2-VASc score were calculated using Poisson regression models. A new prediction score RA-CHADSV was developed using multiple logistic regression analysis with bootstrap validation. Results: The area under the receiver operating characteristic curve of the newly developed RA-CHADSV score and the CHA2DS2-VASc score were 0.73 (95% confidence interval (CI) 0.64–0.82) and 0.70 (95% CI 0.61–0.79), respectively. The RA-CHADSV score was significantly associated with a higher ischemic stroke incidence in the patients who scored ≥1 (adjusted IRR 7.39, p < 0.001). Conclusions: A simplified RA-CHADSV score, with comparable efficiency as the CHA2DS2-VASc score, but easier to use clinically was developed for predicting the risk of ischemic stroke among non-AF RA patients.",
+      "corpusId": 211121606,
+      "url": "https://api.semanticscholar.org/CorpusId:211121606"
+    },
+    {
+      "title": "Association of hyperlipidaemia, inflammation and serological status and coronary heart disease among patients with rheumatoid arthritis: data from the National Veterans Health Administration",
+      "authors": [
+        {
+          "name": "I. Navarro-Millán",
+          "id": "2395886451"
+        },
+        {
+          "name": "Shuo Yang",
+          "id": "47569718"
+        },
+        {
+          "name": "S. Duvall",
+          "id": "1807331"
+        },
+        {
+          "name": "Lang Chen",
+          "id": "2108579492"
+        },
+        {
+          "name": "J. Baddley",
+          "id": "4158217"
+        },
+        {
+          "name": "G. Cannon",
+          "id": "144311901"
+        },
+        {
+          "name": "E. Delzell",
+          "id": "3985302"
+        },
+        {
+          "name": "Jie Zhang",
+          "id": "47540039"
+        },
+        {
+          "name": "M. Safford",
+          "id": "5785025"
+        },
+        {
+          "name": "N. Patkar",
+          "id": "4497762"
+        },
+        {
+          "name": "T. Mikuls",
+          "id": "144656316"
+        },
+        {
+          "name": "J. Singh",
+          "id": "145729992"
+        },
+        {
+          "name": "J. Curtis",
+          "id": "40329126"
+        }
+      ],
+      "year": 2015,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.7251472623209084,
+      "abstract": "Objective To examine the association of serum lipids, inflammation and seropositivity on coronary heart disease (CHD) and stroke in patients with rheumatoid arthritis (RA). Methods The incidence of hospitalised myocardial infarction (MI) or stroke was calculated in a cohort of patients with RA receiving care within the national Veterans Health Administration from 1998 to 2011. Cox proportional hazard models were used to examine the association between these outcomes and low-density lipoprotein cholesterol (LDL-C), high-density lipoprotein cholesterol (HDL-C), C reactive protein (CRP) and erythrocyte sedimentation rate (ESR) as time-varying variables, divided into quintiles. Results There were 37 568 patients with RA in the cohort with mean age of 63 years (SD 12.1); 90% were men. There was a no clear association between LDL-C and CHD/stroke. Compared with lower HDL-C (<34 mg/dL), higher HDL-C (≥54 mg/dL) was inversely associated with MI (hazard ratio (HR)=0.68, 95% CI 0.55 to 0.85) and stroke (HR=0.69, 95% CI 0.50 to 0.96). Higher CRP >2.17 mg/dL (vs CRP <0.26 mg/dL) was associated with increased risk (HR=2.43, 95% CI 1.77 to 3.33) for MI and 2.02 (95% CI 1.32 to 3.08) for stroke. ESR >47 mm/h compared with <8 mm/h had an HR 1.87 (95% CI 1.39 to 2.52) for MI and 2.00 (95% CI 1.26 to 3.18) for stroke. The association between MI was significant for RA seropositivity (HR=1.23, 95% CI 1.03 to 1.48). Conclusions In this predominantly older male RA cohort, there was no clear association between LDL-C and CHD, whereas higher HDL-C was inversely associated with MI and stroke. CRP and ESR were similarly associated with increase MI risk and stroke, reflecting the prominent role of inflammation in CHD risk in RA.",
+      "corpusId": 13313275,
+      "url": "https://api.semanticscholar.org/CorpusId:13313275"
+    },
+    {
+      "title": "High risk of clinical cardiovascular events in rheumatoid arthritis: Levels of associations of myocardial infarction and stroke through a systematic review and meta-analysis.",
+      "authors": [
+        {
+          "name": "C. Meune",
+          "id": "8433076"
+        },
+        {
+          "name": "E. Touzé",
+          "id": "2963323"
+        },
+        {
+          "name": "L. Trinquart",
+          "id": "3219063"
+        },
+        {
+          "name": "Y. Allanore",
+          "id": "5693301"
+        }
+      ],
+      "year": 2010,
+      "venue": "Archives of Cardiovascular Diseases",
+      "score": 0.7241166214395849,
+      "abstract": "",
+      "corpusId": 22864210,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/20656636"
+    },
+    {
+      "title": "Increased Incidence of Stroke and Transient Ischemic Attack in Patients with Rheumatoid Arthritis and Ankylosing Spondylitis in Germany",
+      "authors": [
+        {
+          "name": "Kathleen Trömmer",
+          "id": "2061805285"
+        },
+        {
+          "name": "K. Kostev",
+          "id": "4518374"
+        },
+        {
+          "name": "L. Jacob",
+          "id": "145293191"
+        },
+        {
+          "name": "C. Tanislav",
+          "id": "4132362"
+        }
+      ],
+      "year": 2021,
+      "venue": "Neuroepidemiology",
+      "score": 0.7234865992349815,
+      "abstract": "",
+      "corpusId": 232483321,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/33789293"
+    },
+    {
+      "title": "Risk of Stroke in Patients with Rheumatism: A Nationwide Longitudinal Population-based Study",
+      "authors": [
+        {
+          "name": "T. Liou",
+          "id": "1915797"
+        },
+        {
+          "name": "Shih-Wei Huang",
+          "id": "2210604860"
+        },
+        {
+          "name": "Jia-Wei Lin",
+          "id": "2144906471"
+        },
+        {
+          "name": "Yu-Sheng Chang",
+          "id": "2828277"
+        },
+        {
+          "name": "Chin-Wen Wu",
+          "id": "2494615"
+        },
+        {
+          "name": "Hui-Wen Lin",
+          "id": "1998090"
+        }
+      ],
+      "year": 2014,
+      "venue": "Scientific Reports",
+      "score": 0.7225654805251293,
+      "abstract": "The aim of this study was to investigate rheumatoid arthritis (RA) and systemic lupus erythematous (SLE) as risk factors for stroke. The study was analyzed by Using the Taiwan Longitudinal Health Insurance Database 2005 (LHID2005), this cohort study investigated patients with a recorded diagnosis of RA (N = 6114) and SLE (N = 621) between January 1, 2004 and December 31, 2007, with age-matched controls (1:4) (for RA, N = 24456; SLE, N = 2484). We used Cox proportional-hazard regressions to evaluate the hazard ratios (HRs) after adjusting confounding factors. Our study found 383 of 6114 RA patients, experienced stroke during the 20267 person-year follow-up period. The adjusted HR of stroke for RA patients was 1.24 (95% CI, 1.11 to 1.39) and for SLE patients was 1.88 (95% CI, 1.08 to 3.27). When steroid was added as additional confounding factor, the adjusted HR of ischemic stroke for RA patients was 1.32 (95% CI, 1.15 to 1.50) and for SLE patients was 1.31 (95% CI, 0.51 to 3.34). In conclusion, the rheumatic diseases of RA and SLE are all risk factors for stroke. After controlled the effect of steroid prescription, RA is risk factor for ischemic stroke.",
+      "corpusId": 14019277,
+      "url": "https://doi.org/10.1038/srep05110"
+    },
+    {
+      "title": "Republished: The association between inflammatory markers, serum lipids and the risk of cardiovascular events in patients with rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "Jie Zhang",
+          "id": "47540039"
+        },
+        {
+          "name": "Lang Chen",
+          "id": "2108579492"
+        },
+        {
+          "name": "E. Delzell",
+          "id": "3985302"
+        },
+        {
+          "name": "P. Muntner",
+          "id": "3937743"
+        },
+        {
+          "name": "W. Hillegass",
+          "id": "5338888"
+        },
+        {
+          "name": "M. Safford",
+          "id": "5785025"
+        },
+        {
+          "name": "I. Millan",
+          "id": "10034617"
+        },
+        {
+          "name": "C. Crowson",
+          "id": "5034070"
+        },
+        {
+          "name": "J. Curtis",
+          "id": "40329126"
+        }
+      ],
+      "year": 2014,
+      "venue": "Postgraduate medical journal",
+      "score": 0.7224219930351342,
+      "abstract": "",
+      "corpusId": 15366360,
+      "url": "https://doi.org/10.1136/annrheumdis-2013-204715"
+    },
+    {
+      "title": "Increased incidence of stroke and impaired prognosis after stroke among patients with seropositive rheumatoid arthritis.",
+      "authors": [
+        {
+          "name": "A. Södergren",
+          "id": "2589282"
+        },
+        {
+          "name": "B. Stegmayr",
+          "id": "153676729"
+        },
+        {
+          "name": "M. Ohman",
+          "id": "34999339"
+        },
+        {
+          "name": "S. Wållberg-Jonsson",
+          "id": "1398319441"
+        }
+      ],
+      "year": 2009,
+      "venue": "Clinical and Experimental Rheumatology",
+      "score": 0.720085667235489,
+      "abstract": "",
+      "corpusId": 11426956,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/19772797"
+    },
+    {
+      "title": "Rheumatoid Arthritis Disadvantages Younger Patients for Cardiovascular Diseases: A Meta-Analysis",
+      "authors": [
+        {
+          "name": "J. Fransen",
+          "id": "1845817"
+        },
+        {
+          "name": "S. M. Kazemi-Bajestani",
+          "id": "1400968281"
+        },
+        {
+          "name": "S. Bredie",
+          "id": "66496562"
+        },
+        {
+          "name": "C. Popa",
+          "id": "1954875"
+        }
+      ],
+      "year": 2016,
+      "venue": "PLoS ONE",
+      "score": 0.7161220962847923,
+      "abstract": "Introduction The incidence of cardiovascular diseases (CVD) is increased in rheumatoid arthritis (RA) patients. It remains unclear whether the load of RA increases cardiovascular (CV) risk especially in female and in younger RA patients. In the present study we aim to analyse the influence of age and gender on CV risk in RA relative to the general population, using meta-analysis of direct comparative studies. Method Systematic literature search was performed in MEDLINE for studies reporting on occurrence of CV events in RA as compared to the general population, stratified for gender and/or age. Quality was appraised using the Newcastle-Ottawa scale. Meta-analysis was performed on rate ratios using inverse variance methods. Results There were 1372 records screened and 13 studies included. RA females and males have a similar higher risk (95%CI) to develop stroke with RR 1.35 (1.30–1.40) and RR 1.31 (1.21–1.43); coronary artery disease with RR 1.65 (1.54–1.76) versus RR 1.55 ((1.41–1.69) in men; cardiovascular disease with RR 1.56 (1.49–1.62) versus 1.50 (1.41–1.60). The highest incidence of CV events was observed in the youngest patients, RR 2.59 (1.77–3.79), whereas older patients had the lowest relative risk when compared to the general population, RR 1.27 (1.16–1.38). Conclusion The relative risk of RA patients for CVD is age dependent, but does not depend on gender: the relative risk on CVD appears to be equally raised for males and females, while relatively young RA patients (<50 years) have the highest, and older patients the lowest relative risk.",
+      "corpusId": 3279205,
+      "url": "https://pdfs.semanticscholar.org/d110/d478b7244b2513af9caa3ef794ce77aa83e7.pdf"
+    },
+    {
+      "title": "Stroke among Rheumatoid Arthritis Patients: Does Age Matter? A Real-Life Study",
+      "authors": [
+        {
+          "name": "S. Tiosano",
+          "id": "10702112"
+        },
+        {
+          "name": "Y. Yavne",
+          "id": "13046974"
+        },
+        {
+          "name": "O. Gendelman",
+          "id": "13202816"
+        },
+        {
+          "name": "A. Watad",
+          "id": "11273596"
+        },
+        {
+          "name": "D. Comaneshter",
+          "id": "4647474"
+        },
+        {
+          "name": "Y. Shoenfeld",
+          "id": "145299727"
+        },
+        {
+          "name": "A. Cohen",
+          "id": "145509587"
+        },
+        {
+          "name": "D. Amital",
+          "id": "3952694"
+        }
+      ],
+      "year": 2017,
+      "venue": "Neuroepidemiology",
+      "score": 0.7118902690958737,
+      "abstract": "",
+      "corpusId": 207730544,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29136635"
+    },
+    {
+      "title": "Significant Associations of Neurological Complications of Herpes Zoster With Stroke in Rheumatoid Arthritis Patients",
+      "authors": [
+        {
+          "name": "Tsai-Ling Liao",
+          "id": "4486554"
+        },
+        {
+          "name": "Ching-Heng Lin",
+          "id": "50554686"
+        },
+        {
+          "name": "Hsin-Hua Chen",
+          "id": "49178230"
+        },
+        {
+          "name": "Yi-Ming Chen",
+          "id": "123332172"
+        },
+        {
+          "name": "Che‐Chen Lin",
+          "id": "3527410"
+        },
+        {
+          "name": "Der-Yuan Chen",
+          "id": "2077518"
+        }
+      ],
+      "year": 2017,
+      "venue": "Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease",
+      "score": 0.7100714425381863,
+      "abstract": "Background Accumulating evidence suggests an increased risk of stroke after herpes zoster (HZ). This risk is elevated in immunocompromised patients. The incidence of HZ in Asia is higher than in Western countries. However, the epidemiology of HZ and HZ‐related stroke among rheumatoid arthritis (RA) patients in Asia remains unclear. Methods and Results We conducted a retrospective cohort study using a population‐based database to investigate the epidemiology of HZ in RA patients in Taiwan during the period of 2000‐2011. A total of 27 609 newly diagnosed and eligible RA cases were identified, and 110 436 non‐RA cases were matched for age and sex at a ratio of 4:1. HZ risk increased by 2.53‐fold (P<0.0001) in RA patients compared with the general population. Exposure to corticosteroids (adjusted odds ratio=1.73, P<0.0001), adalimumab (adjusted odds ratio=1.61, P=0.002), and rituximab (adjusted odds ratio=2.06, P=0.008) was associated with an increased risk of HZ in RA patients. A significant association between the use of methotrexate or corticosteroids and HZ risk was dose‐dependent (P trend<0.0001). Elevated risk of stroke was observed in RA patients with HZ (adjusted hazard ratio=1.27, P=0.047), particularly in those with neurological complications (adjusted hazard ratio=1.54, P=0.015). A 2.30‐fold significantly increased risk of stroke within 90 days after HZ occurrence was observed in RA patients compared with those without HZ (P=0.02). Furthermore, death risk increased in RA patients with HZ (adjusted hazard ratio=1.18, P=0.026). Conclusions The risk of HZ and HZ‐related stroke has increased in RA patients. Monitoring the occurrence of HZ in RA patients and preventing HZ‐related stroke or mortality during a specific immunosuppressive therapy are important.",
+      "corpusId": 11403210,
+      "url": "https://api.semanticscholar.org/CorpusId:11403210"
+    },
+    {
+      "title": "Cardiovascular risk and mortality in rheumatoid arthritis compared with diabetes mellitus and the general population.",
+      "authors": [
+        {
+          "name": "B. Løgstrup",
+          "id": "1395212858"
+        },
+        {
+          "name": "T. Ellingsen",
+          "id": "40101840"
+        },
+        {
+          "name": "A. Pedersen",
+          "id": "145124386"
+        },
+        {
+          "name": "B. Darvalics",
+          "id": "11913432"
+        },
+        {
+          "name": "K. Olesen",
+          "id": "2060188300"
+        },
+        {
+          "name": "H. Bøtker",
+          "id": "9239945"
+        },
+        {
+          "name": "M. Maeng",
+          "id": "2652740"
+        }
+      ],
+      "year": 2020,
+      "venue": "Rheumatology",
+      "score": 0.6911471875196576,
+      "abstract": "",
+      "corpusId": 222169908,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/32984893"
+    },
+    {
+      "title": "Cardiovascular, rheumatologic, and pharmacologic predictors of stroke in patients with rheumatoid arthritis: a nested, case-control study.",
+      "authors": [
+        {
+          "name": "Z. Nadareishvili",
+          "id": "5776895"
+        },
+        {
+          "name": "K. Michaud",
+          "id": "4130329"
+        },
+        {
+          "name": "J. Hallenbeck",
+          "id": "3624318"
+        },
+        {
+          "name": "F. Wolfe",
+          "id": "144408777"
+        }
+      ],
+      "year": 2008,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.6884789473184453,
+      "abstract": "",
+      "corpusId": 13783847,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/18668583"
+    },
+    {
+      "title": "Increased incidence of cardiovascular disease in patients with rheumatoid arthritis: results from a community based study",
+      "authors": [
+        {
+          "name": "C. Turesson",
+          "id": "6584791"
+        },
+        {
+          "name": "Anders Jarenros",
+          "id": "2234912378"
+        },
+        {
+          "name": "L. Jacobsson",
+          "id": "1400716052"
+        }
+      ],
+      "year": 2004,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.6880782493710866,
+      "abstract": "",
+      "corpusId": 31137911,
+      "url": "https://doi.org/10.1136/ard.2003.018101"
+    },
+    {
+      "title": "Serious adverse events and the risk of stroke in patients with rheumatoid arthritis: results from the German RABBIT cohort",
+      "authors": [
+        {
+          "name": "Y. Meissner",
+          "id": "4057356"
+        },
+        {
+          "name": "A. Richter",
+          "id": "1834661"
+        },
+        {
+          "name": "B. Manger",
+          "id": "5350375"
+        },
+        {
+          "name": "H. Tony",
+          "id": "32821661"
+        },
+        {
+          "name": "E. Wilden",
+          "id": "4861123"
+        },
+        {
+          "name": "J. Listing",
+          "id": "5740813"
+        },
+        {
+          "name": "A. Zink",
+          "id": "144743574"
+        },
+        {
+          "name": "A. Strangfeld",
+          "id": "152299833"
+        }
+      ],
+      "year": 2017,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.6826746032692335,
+      "abstract": "Objective In the general population, the incidence of stroke is increased following other serious events and hospitalisation. We investigated the impact of serious adverse events on the risk of stroke in patients with rheumatoid arthritis (RA), taking risk factors and treatment into account. Methods Using data of the German biologics register RABBIT (Rheumatoid Arthritis: Observation of Biologic Therapy) with 12354 patients with RA, incidence rates (IRs) and risk factors for stroke were investigated using multi-state and Cox proportional hazard models. In addition, in a nested case–control study, all patients with stroke were matched 1:2 to patients with identical baseline risk profile and analysed using a shared frailty model. Results During follow-up, 166 strokes were reported. The overall IR was 3.2/1000 patient-years (PY) (95% CI 2.7 to 3.7). It was higher after a serious adverse event (IR: 9.0 (7.3 to 11.0)), particularly within 30 days after the event (IR: 94.9 (72.6 to 121.9)). The adjusted Cox model showed increased risks of age per 5 years (HR: 1.4 (1.3 to 1.5)), hyperlipoproteinaemia (HR: 1.6 (1.0 to 2.5)) and smoking (HR: 1.9 (1.3 to 2.6)). The risk decreased with better physical function (HR: 0.9 (0.8 to 0.96)). In the case–control study, 163 patients were matched to 326 controls. Major risk factors for stroke were untreated cardiovascular disease (HR: 3.3 (1.5 to 7.2)) and serious infections (HR:4.4 (1.6 to 12.5)) or other serious adverse events (HR: 2.6 (1.4 to 4.8)). Conclusions Incident adverse events, in particular serious infections, and insufficient treatment of cardiovascular diseases are independent drivers of the risk of stroke. Physicians should be aware that patients who experience a serious event are at increased risk of subsequent stroke.",
+      "corpusId": 18848,
+      "url": "https://doi.org/10.1136/annrheumdis-2017-211209"
+    },
+    {
+      "title": "Rheumatoid Arthritis and Incidence of Twelve Initial Presentations of Cardiovascular Disease: A Population Record-Linkage Cohort Study in England",
+      "authors": [
+        {
+          "name": "M. Pujades-Rodriguez",
+          "id": "1387475042"
+        },
+        {
+          "name": "B. Duyx",
+          "id": "6169554"
+        },
+        {
+          "name": "Sara L. Thomas",
+          "id": "1920174213"
+        },
+        {
+          "name": "Dimitris Stogiannis",
+          "id": "3144521"
+        },
+        {
+          "name": "Anisur Rahman",
+          "id": "2148758250"
+        },
+        {
+          "name": "L. Smeeth",
+          "id": "3487798"
+        },
+        {
+          "name": "H. Hemingway",
+          "id": "2797979"
+        }
+      ],
+      "year": 2016,
+      "venue": "PLoS ONE",
+      "score": 0.6789864116967892,
+      "abstract": "Introduction While rheumatoid arthritis is an established risk factor for cardiovascular disease (CVD), our knowledge of how the pattern of risk varies for different cardiovascular phenotypes is incomplete. The association between rheumatoid arthritis and the initial presentation of 12 types of CVDs were examined in a contemporary population of men and women of a wide age range. Methods CALIBER data, which links primary care, hospital and mortality data in England, was analysed. A cohort of people aged ≥18 years and without history of CVD was assembled and included all patients with prospectively recorded rheumatoid arthritis from January 1997, until March 2010, matched with up to ten people without rheumatoid arthritis by age, sex and general practice. The associations between rheumatoid arthritis and the initial presentation of 12 types of CVDs were estimated using multivariable random effects Poisson regression models. Results The analysis included 12,120 individuals with rheumatoid arthritis and 121,191 comparators. Of these, 2,525 patients with and 18,146 without rheumatoid arthritis developed CVDs during a median of 4.2 years of follow-up. Patients with rheumatoid arthritis had higher rates of myocardial infarction (adjusted incidence ratio [IRR] = 1.43, 95%CI 1.21–1.70), unheralded coronary death (IRR = 1.60, 95%CI 1.18–2.18), heart failure (IRR = 1.61, 95%CI 1.43–1.83), cardiac arrest (HR = 2.26, 95%CI 1.69–3.02) and peripheral arterial disease (HR = 1.36, 95%CI 1.14–1.62); and lower rates of stable angina (HR = 0.83, 95%CI 0.73–0.95). There was no evidence of association with cerebrovascular diseases, abdominal aortic aneurysm or unstable angina, or of interactions with sex or age. Conclusions The observed associations with some but not all types of CVDs inform both clinical practice and the selection of cardiovascular endpoints for trials and for the development of prognostic models for patients with rheumatoid arthritis.",
+      "corpusId": 15277142,
+      "url": "https://api.semanticscholar.org/CorpusId:15277142"
+    },
+    {
+      "title": "Temporal trends from 2005 to 2018 in deaths and cardiovascular events in subjects with newly diagnosed rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "M. Baviera",
+          "id": "5441371"
+        },
+        {
+          "name": "G. Cioffi",
+          "id": "145558990"
+        },
+        {
+          "name": "P. Colacioppo",
+          "id": "1517012418"
+        },
+        {
+          "name": "M. Tettamanti",
+          "id": "40553596"
+        },
+        {
+          "name": "I. Fortino",
+          "id": "4003105"
+        },
+        {
+          "name": "M. Roncaglioni",
+          "id": "6679581"
+        }
+      ],
+      "year": 2021,
+      "venue": "Internal and Emergency Medicine",
+      "score": 0.6763424476289188,
+      "abstract": "",
+      "corpusId": 230076630,
+      "url": "https://doi.org/10.1007/s11739-020-02581-z"
+    },
+    {
+      "title": "The effect of rheumatoid arthritis on the risk of cerebrovascular disease and coronary artery disease in young adults",
+      "authors": [
+        {
+          "name": "Yih‐Ru Chen",
+          "id": "8839892"
+        },
+        {
+          "name": "F. Hsieh",
+          "id": "79034329"
+        },
+        {
+          "name": "Chi-Ching Chang",
+          "id": "51197947"
+        },
+        {
+          "name": "N. Chi",
+          "id": "47047363"
+        },
+        {
+          "name": "H. Wu",
+          "id": "8837805"
+        },
+        {
+          "name": "H. Chiou",
+          "id": "89674962"
+        }
+      ],
+      "year": 2018,
+      "venue": "Journal of the Chinese Medical Association",
+      "score": 0.6687365217353773,
+      "abstract": "Background: Only a few studies have investigated the affect of rheumatoid arthritis (RA) on the risk of cerebrovascular disease (CVD)/coronary artery disease (CAD) in young adults. This study, therefore, examined the association between RA and the risk of CVD/CAD in young adults and the interaction effects between cardiovascular risk factors and RA on the risk of CVD/CAD. Methods: Data regarding 52,840 subjects (10,568 patients with RA and 42,272 age‐, sex‐, urbanization‐, and income‐matched non‐RA controls) were collected from the National Health Insurance Research Database (NHIRD) in 2006. All subjects were followed until a CVD or CAD diagnosis, or death, or December 31, 2011. The hazard ratios (HRs) of CVD/CAD were estimated using Cox proportional hazard models. The interaction effects between cardiovascular risk factors and RA on the risk of CVD/CAD were assessed using additive and multiplicative models. Results: RA increased the risk of CVD/CAD in young adults, especially those at risk of ischemic stroke (adjusted HR, 3.48; 95% confidence interval (CI), 2.16–5.61). Even without comorbidity at baseline, patients with RA still had a 2.35‐fold greater risk of CVD/CAD relative to those without RA. RA and hypertension interacted positively on the risk of CVD/CAD. The highest CVD/CAD risk was found in patients with RA and hypertension (HR, 9.08; 95% CI, 7.22–11.41) relative to subjects without RA and hypertension. Conclusion: RA is an independent risk factor for CVD/CAD in young adults. The government should develop policies for preventing early onset hypertension to reduce the incidence of CVD/CAD among young patients with RA.",
+      "corpusId": 44124017,
+      "url": "https://api.semanticscholar.org/CorpusId:44124017"
+    },
+    {
+      "title": "Genetic Liability to Rheumatoid Arthritis in Relation to Coronary Artery Disease and Stroke Risk",
+      "authors": [
+        {
+          "name": "S. Yuan",
+          "id": "47773113"
+        },
+        {
+          "name": "Paul Carter",
+          "id": "152913953"
+        },
+        {
+          "name": "A. Mason",
+          "id": "46195110"
+        },
+        {
+          "name": "Fangkun Yang",
+          "id": "1704241538"
+        },
+        {
+          "name": "S. Burgess",
+          "id": "144100855"
+        },
+        {
+          "name": "S. Larsson",
+          "id": "3279897"
+        }
+      ],
+      "year": 2022,
+      "venue": "Arthritis & Rheumatology",
+      "score": 0.6473988325137267,
+      "abstract": "To assess the causality of the associations of rheumatoid arthritis (RA) with coronary artery disease (CAD) and stroke using the Mendelian randomization approach.",
+      "corpusId": 248858508,
+      "url": "https://api.semanticscholar.org/CorpusId:248858508"
+    },
+    {
+      "title": "Cerebrovascular Disease in Rheumatic Diseases: A Systematic Review and Meta-Analysis",
+      "authors": [
+        {
+          "name": "S. Wiseman",
+          "id": "40209076"
+        },
+        {
+          "name": "S. Ralston",
+          "id": "4359570"
+        },
+        {
+          "name": "J. Wardlaw",
+          "id": "144585035"
+        }
+      ],
+      "year": 2016,
+      "venue": "Stroke",
+      "score": 0.6405186404961458,
+      "abstract": "",
+      "corpusId": 12520140,
+      "url": "https://doi.org/10.1161/STROKEAHA.115.012052"
+    },
+    {
+      "title": "Association between rheumatoid arthritis and atrial fibrillation: A systematic review and meta‐analysis",
+      "authors": [
+        {
+          "name": "Vikash Jaiswal",
+          "id": "40469915"
+        },
+        {
+          "name": "Poulami Roy",
+          "id": "2263521986"
+        },
+        {
+          "name": "S. P. Ang",
+          "id": "2161179041"
+        },
+        {
+          "name": "Nishat Shama",
+          "id": "30712921"
+        },
+        {
+          "name": "Novonil Deb",
+          "id": "2136202357"
+        },
+        {
+          "name": "A. M. Taha",
+          "id": "2184093271"
+        },
+        {
+          "name": "K. Rajak",
+          "id": "152708000"
+        },
+        {
+          "name": "Akanksha Sharma",
+          "id": "2275542316"
+        },
+        {
+          "name": "Anupam Halder",
+          "id": "2243954689"
+        },
+        {
+          "name": "Z. Wajid",
+          "id": "83417823"
+        },
+        {
+          "name": "Vibhor Agrawal",
+          "id": "2053001340"
+        },
+        {
+          "name": "Harpriya Khela",
+          "id": "2275458791"
+        },
+        {
+          "name": "Monodeep Biswas",
+          "id": "47998039"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Arrhythmia",
+      "score": 0.6364223322616619,
+      "abstract": "Rheumatoid arthritis (RA) is an autoimmune disorder with a varying range of organs involved leading to adverse outcomes. However, very little is known, with conflicting results about the association between RA and atrial fibrillation (AF). We aim to evaluate the association between RA and AF, and other clinical outcomes. We performed a systematic literature search using PubMed, Embase, and Scopus for relevant articles from inception until September 10, 2023. Primary clinical outcomes were AF. Secondary outcomes were acute coronary syndrome (ACS), stroke, and all‐cause mortality (ACM). A total of 4 679 930 patients were included in the analysis, with 81 677 patients in the RA group and 4 493 993 patients in the nonrheumatoid arthritis (NRA) group. The mean age of the patients was 57.2 years. Pooled analysis of primary outcomes shows that RA groups of patients had a significantly higher risk of AF (odds ratios [OR], 1.53; 95% confidence interval [CI]: [1.16–2.03], p < .001) compared with NRA groups. Secondary Outcomes show that the RA group of patients had significantly higher odds of ACS (OR, 1.39; 95% CI: [1.26–1.52], p < .001), and ACM (OR, 1.19; 95% CI: [1.03–1.37], p = .02) compared with the NRA groups. However, the likelihood of stroke (OR, 1.02; 95% CI: [0.94–1.11], p = .61) was comparable between both groups of patients. Our study shows that RA groups of patients are at increased risk of having AF, ACS, and ACM.",
+      "corpusId": 267224892,
+      "url": "https://api.semanticscholar.org/CorpusId:267224892"
+    },
+    {
+      "title": "Arthritis and increased risk of cardiovascular disease: is there an interaction with other chronic diseases? A nationwide cohort study",
+      "authors": [
+        {
+          "name": "Zhongwei Zhou",
+          "id": "2219906238"
+        },
+        {
+          "name": "Jianshu Gao",
+          "id": "2359052627"
+        },
+        {
+          "name": "Mingzhong Sun",
+          "id": "6992587"
+        },
+        {
+          "name": "Hongmei Chen",
+          "id": "2108430849"
+        },
+        {
+          "name": "Hao Jin",
+          "id": "2109790474"
+        },
+        {
+          "name": "H. Ju",
+          "id": "6993547"
+        }
+      ],
+      "year": 2025,
+      "venue": "BMC Cardiovascular Disorders",
+      "score": 0.6326976400875703,
+      "abstract": "The relationship between arthritis and cardiovascular disease (CVD) remains controversial. This study aimed to investigate whether arthritis constitutes an independent risk factor for CVD and to evaluate its potential synergistic or antagonistic interactions with other chronic conditions in predicting CVD onset. We used China Health and Retirement Longitudinal Study (CHARLS) data (2011–2020). Multivariate Cox regression models were employed to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for associations between arthritis and self-reported physician-diagnosed CVD, cardiac diseases, and stroke. Interaction effects between arthritis and comorbid chronic conditions were assessed via both multiplicative and additive scales. A total of 14,666 baseline CVD-free participants were included. Compared with participants without arthritis, those with arthritis had increased risks of CVD (HR = 1.10; 95% CI = 1.01–1.19) and stroke (HR = 1.18; 95% CI = 1.04–1.35), but not cardiac diseases (HR = 1.07; 95% CI = 0.98–1.18) in fully adjusted models. Arthritis had antagonistic effects with diabetes/hyperglycemia on CVD risk across both interaction frameworks: a multiplicative scale (HR = 0.69; 95% CI = 0.50–0.95) and an additive scale (relative excess risk of interaction [RERI] = − 0.46, 95% CI = − 0.87 to − 0.06; attributable proportion of interaction [API] = − 2.92, 95% CI = − 6.93 to − 0.18). Arthritis did not significantly interact with other chronic conditions. This study indicates that individuals with arthritis have an increased risk of CVD, particularly stroke. Importantly, the coexistence of arthritis and diabetes/hyperglycemia appears to attenuate CVD risk, highlighting the need for further investigation into the underlying mechanisms driving this antagonistic interplay.",
+      "corpusId": 283224358,
+      "url": "https://api.semanticscholar.org/CorpusId:283224358"
+    },
+    {
+      "title": "Stroke in systemic lupus erythematosus: a meta-analysis of population-based cohort studies",
+      "authors": [
+        {
+          "name": "M. Holmqvist",
+          "id": "49633081"
+        },
+        {
+          "name": "J. Simard",
+          "id": "2245024"
+        },
+        {
+          "name": "K. Asplund",
+          "id": "2431441"
+        },
+        {
+          "name": "E. Arkema",
+          "id": "6530760"
+        }
+      ],
+      "year": 2015,
+      "venue": "RMD Open",
+      "score": 0.6251846173391734,
+      "abstract": "Previous studies of stroke in systemic lupus erythematosus (SLE) have had limited statistical power, combined stroke subtypes into composite outcomes, and lacked a reference population estimate. Therefore, we conducted a systematic review and meta-analysis of cohort studies to summarise the stroke subtype-specific risk in patients with SLE compared to the general population. A systematic search of MEDLINE and EMBASE was performed for cohort studies examining the risk of stroke in SLE and including a general population comparator. Random effects models were used to pool the risk ratio (RR) for stroke. Subgroup analyses were carried out to investigate potential sources of heterogeneity. 10 studies were included which reported RRs for overall stroke (n=5), ischaemic stroke (n=6), intracerebral haemorrhage (n=3) and subarachnoid haemorrhage (n=3). The pooled RR for overall stroke was 2.53 (95% CI 1.96 to 3.26), ischaemic stroke 2.10 (95% CI 1.68 to 2.62), intracerebral haemorrhage 2.72 (95% CI 2.15 to 3.44) and subarachnoid haemorrhage 3.85 (95% CI 3.20 to 4.64). Significant heterogeneity among studies for ischaemic stroke was detected (p=0.002). Relative risk of stroke was highest among individuals younger than 50 years of age. Individuals with SLE have a twofold higher risk of ischaemic stroke, a threefold higher risk of intracerebral haemorrhage, and an almost fourfold higher risk of subarachnoid haemorrhage compared to the general population. Future studies should focus on whether comorbidity and disease flares are related to stroke, when individuals are at the highest risk, and how the targeting of specific groups of patients with SLE may reduce this risk.",
+      "corpusId": 23628192,
+      "url": "https://api.semanticscholar.org/CorpusId:23628192"
+    },
+    {
+      "title": "Cerebrovascular risk in rheumatoid arthritis patients: insights from carotid artery atherosclerosis in the Paracelsus 10,000 study",
+      "authors": [
+        {
+          "name": "Mathias Ausserwinkler",
+          "id": "12751643"
+        },
+        {
+          "name": "Sophie Gensluckner",
+          "id": "2141691453"
+        },
+        {
+          "name": "V. Frey",
+          "id": "37262389"
+        },
+        {
+          "name": "Isabella Gostner",
+          "id": "2132163269"
+        },
+        {
+          "name": "Bernhard Paulweber",
+          "id": "2238430216"
+        },
+        {
+          "name": "E. Trinka",
+          "id": "2238429619"
+        },
+        {
+          "name": "P. Langthaler",
+          "id": "3077497"
+        },
+        {
+          "name": "C. Datz",
+          "id": "73767064"
+        },
+        {
+          "name": "B. Iglseder",
+          "id": "2132123928"
+        },
+        {
+          "name": "Jens Thiel",
+          "id": "2313296335"
+        },
+        {
+          "name": "H. Neumann",
+          "id": "2340677717"
+        },
+        {
+          "name": "M. Flamm",
+          "id": "2290995619"
+        },
+        {
+          "name": "E. Aigner",
+          "id": "3729474"
+        },
+        {
+          "name": "B. Wernly",
+          "id": "5207998"
+        }
+      ],
+      "year": 2025,
+      "venue": "Rheumatology International",
+      "score": 0.5992598768666063,
+      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disease marked by systemic inflammation. While RA primarily affects the joints, its systemic effects may lead to an increased cerebro- and cardiovascular risk. Atherosclerosis of the carotid arteries is a significant risk factor for cerebrovascular events and serves as a surrogate marker for cardiovascular risk. This study explores the link between RA and carotid artery atherosclerosis with data from the Paracelsus 10,000 Study. Baseline assessments were conducted on individuals randomly selected from Salzburg and its surrounding regions. Participants diagnosed with RA based on ACR-EULAR classification criteria and who underwent carotid artery ultrasound were included. Data were gathered from a total of 9729 participants, among whom 299 were diagnosed with RA. Carotid arteries were examined using ultrasound imaging. The primary endpoint was the difference in the prevalence of plaque presence between the RA and non-RA groups. One univariate (Model I) and three multivariate analyses were conducted, with adjustments in Model II incorporating SCORE 2, while Model III accounted for metabolic syndrome, age and sex. Additionally, Model IV included further adjustments for high-sensitivity C-reactive protein (hs-CRP). Plaque presence was defined as the ultrasound detection of plaque formation larger than 0 mm2, regardless of whether it was unilateral or bilateral. Additional assessments included carotid stenosis, intima-media thickness (IMT) and total plaque area (TPA). RA patients had a higher prevalence of plaque (50%) compared to non-RA individuals (38%). The odds ratio (OR) for plaque presence in RA patients versus non-RA individuals was 1.64 (95% CI 1.30–2.06). This association persisted after adjusting for SCORE2, with an adjusted odds ratio (aOR) of 1.65 (95% CI 1.26–2.15). The association remained significant when adjusting for metabolic syndrome, age and sex (aOR = 1.32, 95% CI 1.02–1.72) and also in Model IV, which included further adjustment for hs-CRP (OR = 1.33, 95% CI 1.02–1.74). The findings underscore an increased risk of cerebrovascular disease associated with RA. This study highlights the importance of thorough cerebrovascular and cardiovascular risk assessments, along with proactive management, for RA patients to reduce this risk. Recognizing the substantial impact of RA on stroke and cerebrovascular disease is important for enhancing patient care strategies. Carotid ultrasound appears to be an effective method for atherosclerosis screening in RA patients.",
+      "corpusId": 275606135,
+      "url": "https://api.semanticscholar.org/CorpusId:275606135"
+    },
+    {
+      "title": "Investigating the shared genetic structure between rheumatoid arthritis and stroke",
+      "authors": [
+        {
+          "name": "Qian Qin",
+          "id": "2335269511"
+        },
+        {
+          "name": "Yong’An Jiang",
+          "id": "2277805609"
+        },
+        {
+          "name": "Heng-yi Fan",
+          "id": "8415701"
+        },
+        {
+          "name": "Raorao Yuan",
+          "id": "19189394"
+        },
+        {
+          "name": "Bo Zhong",
+          "id": "2335211546"
+        },
+        {
+          "name": "Yichen Zhang",
+          "id": "2335724288"
+        },
+        {
+          "name": "Zile Zhang",
+          "id": "2335487884"
+        },
+        {
+          "name": "Xin Lei",
+          "id": "2274803275"
+        },
+        {
+          "name": "Jianhui Cai",
+          "id": "2281748787"
+        },
+        {
+          "name": "Shiqi Cheng",
+          "id": "49401063"
+        }
+      ],
+      "year": 2025,
+      "venue": "Hereditas",
+      "score": 0.5823910861393734,
+      "abstract": "Rheumatoid arthritis (RA) increases the risk of stroke. However, the relationship between RA and stroke remains unclear. This study aimed to explore the shared genetics architecture (i.e., common genetic basis between different traits, diseases, or phenotypes) of RA and stroke, aiming to improve the intervention and management of patients with RA and stroke. Pooled statistics from publicly available genome-wide association studies for RA (8,255 cases and 409,001 controls) and stroke (43,132 cases and 43,132 controls) were used. A genome-wide positive association was conducted to (examine the comprehensive effects of genetic variants on a particular trait, disease, or phenotype at the genome-wide scale). Local genetic correlation studies used linkage disequilibrium score regression and super genetic covariance analyzer. Single nucleotide polymorphisms (SNPs) at risk were identified using genome-wide association study multiple trait analysis and PLINK software (Psnp <5e-08), followed by functional localization and annotation using Functional Mapping and Annotation of Genome-Wide Association Studies to identify specific genes and genetic variants that may contribute to the disease. Finally, a transcriptome-wide association study explored the relationship between genes and their association with RA risk. A genome-wide significant positive correlation was evident between RA and stroke (genetic correlation = 0.3756). Among the localized genomic regions, the correlation between RA and stroke in the region of chr2:201572564–202,829,668 was the most significant (p = 0.0015). We identified 179 significant SNPs and five common risk genes for RA and stroke (IRF5, RNASET2, ZNF438, UBE2LS, and SYNGR1). These genes are involved in the immune-inflammatory pathway. The findings suggest a shared genetic structure between RA and stroke. These findings may provide new insights into RA and stroke pathogenesis, and contribute to the development of new diagnostic markers and therapeutic targeted drugs to improve the clinical outcomes of patients with RA and stroke.",
+      "corpusId": 276351288,
+      "url": "https://api.semanticscholar.org/CorpusId:276351288"
+    },
+    {
+      "title": "Co-Occurrence of Arthritis and Stroke amongst Middle-Aged and Older Adults in Canada",
+      "authors": [
+        {
+          "name": "R. Matveev",
+          "id": "3497497"
+        },
+        {
+          "name": "C. Ardern",
+          "id": "4285357"
+        }
+      ],
+      "year": 2014,
+      "venue": "Stroke Research and Treatment",
+      "score": 0.5671809981441981,
+      "abstract": "Arthritis is a chronic inflammatory condition commonly associated with mobility restriction and reduced activity. To date, the extent to which arthritis is an independent risk factor for stroke is unclear, and important, in light of an aging population. The purpose of this study was to (i) quantify the cross-sectional association between stroke and arthritis and (ii) to determine whether the relationship differed in physically active and inactivemiddle-aged and older adults. Data was derived from the 2010 Canadian Community Health Survey (N = 47 188; ≥30 y). Multivariable logistic regression was used to estimate the association between arthritis and stroke in models adjusted for age, physical activity (PA), and demographic factors. Overall, individuals with arthritis were 4 times more likely to report a history of stroke (OR = 3.8, 95% CI = 3.06–4.68), whereas those who were engaged in at least moderate PA (≥ 1.5 kcal/kg/day) were less than half as likely (0.45, 0.92−0.62). This effect was moderated by age, as younger (30–65 y: 3.27, 2.22–4.83) but not older adults (>65 y: 1.04, 0.8–1.35) with arthritis had elevated odds of stroke. Both physical inactivity and arthritis are associated with higher odds of stroke, effects of which are the strongest amongst 30–65 year olds.",
+      "corpusId": 6647579,
+      "url": "https://api.semanticscholar.org/CorpusId:6647579"
+    },
+    {
+      "title": "Association Between Ischemic Stroke and Tumor Necrosis Factor Inhibitor Therapy in Patients With Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "A. Low",
+          "id": "12953835"
+        },
+        {
+          "name": "M. Lunt",
+          "id": "143805322"
+        },
+        {
+          "name": "L. Mercer",
+          "id": "39637867"
+        },
+        {
+          "name": "K. Watson",
+          "id": "48252431"
+        },
+        {
+          "name": "W. Dixon",
+          "id": "1916507"
+        },
+        {
+          "name": "D. Symmons",
+          "id": "3609537"
+        },
+        {
+          "name": "K. Hyrich",
+          "id": "3606695"
+        }
+      ],
+      "year": 2016,
+      "venue": "Arthritis & Rheumatology",
+      "score": 0.5634223171464252,
+      "abstract": "Patients with rheumatoid arthritis (RA) are at an increased risk of ischemic stroke. Tumor necrosis factor inhibitors (TNFi) may influence risk and mortality after ischemic stroke by reducing inflammation. This study was undertaken to examine the association of TNFi with the risk of incident ischemic stroke and with 30‐day and 1‐year mortality after ischemic stroke.",
+      "corpusId": 16607464,
+      "url": "https://api.semanticscholar.org/CorpusId:16607464"
+    },
+    {
+      "title": "Rheumatoid arthritis versus diabetes as a risk factor for cardiovascular disease: a cross-sectional study, the CARRÉ Investigation",
+      "authors": [
+        {
+          "name": "V. P. van Halm",
+          "id": "7417234"
+        },
+        {
+          "name": "M. Peters",
+          "id": "1393964435"
+        },
+        {
+          "name": "A. Voskuyl",
+          "id": "153458643"
+        },
+        {
+          "name": "M. Boers",
+          "id": "144604225"
+        },
+        {
+          "name": "W. Lems",
+          "id": "153167759"
+        },
+        {
+          "name": "M. Visser",
+          "id": "2057467403"
+        },
+        {
+          "name": "C. Stehouwer",
+          "id": "2061657675"
+        },
+        {
+          "name": "A. Spijkerman",
+          "id": "47499213"
+        },
+        {
+          "name": "J. Dekker",
+          "id": "152734152"
+        },
+        {
+          "name": "G. Nijpels",
+          "id": "145503036"
+        },
+        {
+          "name": "R. Heine",
+          "id": "3796376"
+        },
+        {
+          "name": "L. Bouter",
+          "id": "2066471415"
+        },
+        {
+          "name": "Y. Smulders",
+          "id": "4644810"
+        },
+        {
+          "name": "B. Dijkmans",
+          "id": "87495113"
+        },
+        {
+          "name": "M. Nurmohamed",
+          "id": "2071805199"
+        }
+      ],
+      "year": 2008,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.5463769584850873,
+      "abstract": "",
+      "corpusId": 12734660,
+      "url": "https://doi.org/10.1136/ard.2008.094151"
+    },
+    {
+      "title": "Immunometabolic and brain structural alterations mediate increased risk of brain diseases in rheumatoid arthritis patients",
+      "authors": [
+        {
+          "name": "Siyu He",
+          "id": "2349262530"
+        },
+        {
+          "name": "Zeyu Li",
+          "id": "2240247619"
+        },
+        {
+          "name": "Feng Zeng",
+          "id": "2389404374"
+        },
+        {
+          "name": "Yifei Jin",
+          "id": "2389851907"
+        },
+        {
+          "name": "Wei Zhang",
+          "id": "2256596028"
+        },
+        {
+          "name": "Xinyi Chen",
+          "id": "2258753202"
+        },
+        {
+          "name": "Zequn Zhang",
+          "id": "2349338495"
+        },
+        {
+          "name": "Wei Cheng",
+          "id": "2334319273"
+        },
+        {
+          "name": "Linbo Wang",
+          "id": "2268721003"
+        },
+        {
+          "name": "Wenze Xiao",
+          "id": "2253590944"
+        },
+        {
+          "name": "Qiyong Mei",
+          "id": "2298021351"
+        }
+      ],
+      "year": 2025,
+      "venue": "Translational Psychiatry",
+      "score": 0.5344523915231444,
+      "abstract": "Rheumatoid arthritis (RA) is associated with an increased risk of brain diseases, yet the underlying biological mechanisms remain poorly understood. Using data from the UK Biobank, including blood-based biomarkers, brain imaging, and diagnostic records, we investigated the roles of immunometabolic and brain structure alterations in the link between RA and brain diseases. The effects of antirheumatic treatments were evaluated using Cox proportional hazards models. To ensure a clear temporal sequence, only individuals with RA diagnosed before baseline were included. The cohort comprised 2534 prevalent RA cases (mean age: 59.80 ± 6.99 years; 70.84% women), with a mean disease duration of 5.54 years (SD = 3.57). RA was significantly associated with depression (HR = 1.659 [95% CI: 1.444–1.905]), sleep disturbances (HR = 1.673 [1.379–2.029]), and dementia (HR = 1.466 [1.225–1.755]). Mediation analyses revealed that immunometabolic alterations (indirect effect = 0.0099, P < 0.001) and reduced white matter integrity (FA; indirect effect = 0.012, P = 0.002) mediated these associations. Notably, treatment with slow-acting antirheumatic drugs (SAARDs) was linked to a reduced risk of anxiety (P = 0.006). These findings indicate that immunometabolic alterations in RA may lead to a decrease in white matter integrity, thereby increasing susceptibility to brain diseases. They highlight the importance of managing systemic immunometabolic alterations to preserve brain health in RA patients.",
+      "corpusId": 282597688,
+      "url": "https://api.semanticscholar.org/CorpusId:282597688"
+    },
+    {
+      "title": "Comparison of Cardiovascular Outcomes in Patients With and Without Rheumatoid Arthritis: A Meta-Analysis of Observational Studies",
+      "authors": [
+        {
+          "name": "Zineb Barkhane",
+          "id": "2161568812"
+        },
+        {
+          "name": "Amna Zaree",
+          "id": "2220926000"
+        },
+        {
+          "name": "Sualeha Zulfiqar",
+          "id": "2180267267"
+        },
+        {
+          "name": "Ahmed Qudoos",
+          "id": "2219993553"
+        },
+        {
+          "name": "Santhoshi Vaidhyula",
+          "id": "2221395912"
+        },
+        {
+          "name": "Fnu Jaiprada",
+          "id": "2205077096"
+        },
+        {
+          "name": "Saleha Dar",
+          "id": "82474536"
+        },
+        {
+          "name": "Neelum Ali",
+          "id": "51162647"
+        }
+      ],
+      "year": 2023,
+      "venue": "Cureus",
+      "score": 0.5281963628435481,
+      "abstract": "The aim of this meta-analysis was to determine the risk of incident cardiovascular disease (CVD) in patients with rheumatoid arthritis compared to patients without rheumatoid arthritis. We conducted a thorough search of online databases, including PubMed, EMBASE, and Web of Science, to identify English-language publications examining cardiovascular outcomes in patients with rheumatoid arthritis from January 1, 2005, to May 15, 2023. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The search was performed using relevant keywords such as \"rheumatoid arthritis,\" \"cardiovascular diseases,\" and \"risk,\" along with their synonyms. Medical subject heading (MeSH) terms and Boolean operators (AND, OR) were employed to optimize the search. Outcomes assessed in this study included composite cardiovascular events (as defined by individual studies), myocardial infarction, and stroke (including ischemic and hemorrhagic stroke). Overall, 14 studies met the inclusion criteria and were included in the present meta-analysis. We found that the risk of composite CVD was higher in patients with rheumatoid arthritis compared to patients without rheumatoid arthritis. We also found a higher risk of myocardial infarction and stroke in rheumatoid arthritis patients compared to their counterparts. This study demonstrates the elevated risk of CVD in patients with rheumatoid arthritis and highlights the importance of incorporating cardiovascular management and assessment into the care of these patients.",
+      "corpusId": 259396532,
+      "url": "https://api.semanticscholar.org/CorpusId:259396532"
+    },
+    {
+      "title": "Disease duration and severity impacts on long-term cardiovascular events in Japanese patients with rheumatoid arthritis.",
+      "authors": [
+        {
+          "name": "H. Masuda",
+          "id": "144819686"
+        },
+        {
+          "name": "Tetsuro Miyazaki",
+          "id": "47614920"
+        },
+        {
+          "name": "K. Shimada",
+          "id": "3612739"
+        },
+        {
+          "name": "N. Tamura",
+          "id": "34948704"
+        },
+        {
+          "name": "R. Matsudaira",
+          "id": "6971056"
+        },
+        {
+          "name": "Takuma Yoshihara",
+          "id": "6874222"
+        },
+        {
+          "name": "H. Ohsaka",
+          "id": "5031728"
+        },
+        {
+          "name": "E. Sai",
+          "id": "5062310"
+        },
+        {
+          "name": "Rie Matsumori",
+          "id": "5807578"
+        },
+        {
+          "name": "K. Fukao",
+          "id": "12558509"
+        },
+        {
+          "name": "M. Hiki",
+          "id": "2553260"
+        },
+        {
+          "name": "A. Kume",
+          "id": "35024492"
+        },
+        {
+          "name": "Takashi Kiyanagi",
+          "id": "6710671"
+        },
+        {
+          "name": "Y. Takasaki",
+          "id": "31699956"
+        },
+        {
+          "name": "H. Daida",
+          "id": "48555164"
+        }
+      ],
+      "year": 2014,
+      "venue": "Journal of Cardiology",
+      "score": 0.5209411161375894,
+      "abstract": "",
+      "corpusId": 26018676,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/24685688"
+    },
+    {
+      "title": "Cardiovascular disease in immune-mediated inflammatory diseases",
+      "authors": [
+        {
+          "name": "B. Fernández-Gutiérrez",
+          "id": "1398284232"
+        },
+        {
+          "name": "P. Perrotti",
+          "id": "12039397"
+        },
+        {
+          "name": "J. Gisbert",
+          "id": "3131394"
+        },
+        {
+          "name": "E. Doménech",
+          "id": "144101399"
+        },
+        {
+          "name": "A. Fernández-Nebro",
+          "id": "1395746741"
+        },
+        {
+          "name": "J. Cañete",
+          "id": "2583970"
+        },
+        {
+          "name": "C. Ferrándiz",
+          "id": "144640526"
+        },
+        {
+          "name": "J. Tornero",
+          "id": "143923301"
+        },
+        {
+          "name": "V. García‐Sánchez",
+          "id": "1397232115"
+        },
+        {
+          "name": "J. Panés",
+          "id": "4247526"
+        },
+        {
+          "name": "E. Fonseca",
+          "id": "1753764211"
+        },
+        {
+          "name": "F. Blanco",
+          "id": "1432693616"
+        },
+        {
+          "name": "J. Rodríguez-Moreno",
+          "id": "1399897424"
+        },
+        {
+          "name": "P. Carreira",
+          "id": "5126415"
+        },
+        {
+          "name": "A. Julià",
+          "id": "145071178"
+        },
+        {
+          "name": "S. Marsal",
+          "id": "47061314"
+        },
+        {
+          "name": "L. Rodríguez-Rodríguez",
+          "id": "1398836713"
+        }
+      ],
+      "year": 2017,
+      "venue": "Medicine",
+      "score": 0.5177153251931006,
+      "abstract": "Abstract To analyze in several immune-mediated inflammatory diseases (IMIDs) the influence of demographic and clinical-related variables on the prevalence of cardiovascular disease (CVD), and compare their standardized prevalences. Cross-sectional study, including consecutive patients diagnosed with rheumatoid arthritis, psoriatic arthritis, psoriasis, systemic lupus erythematosus, Crohn disease, or ulcerative colitis, from rheumatology, gastroenterology, and dermatology tertiary care outpatient clinics located throughout Spain, between 2007 and 2010. Our main outcome was defined as previous diagnosis of angina, myocardial infarction, peripheral vascular disease, and/or stroke. Bivariate and multivariate logistic and mixed-effects logistic regression models were performed for each condition and the overall cohort, respectively. Standardized prevalences (in subjects per 100 patients, with 95% confidence intervals) were calculated using marginal analysis. We included 9951 patients. For each IMID, traditional cardiovascular risk factors had a different contribution to CVD. Overall, older age, longer disease duration, presence of traditional cardiovascular risk factors, and male sex were independently associated with a higher CVD prevalence. After adjusting for demographic and traditional cardiovascular risk factors, systemic lupus erythematosus exhibited the highest CVD standardized prevalence, followed by rheumatoid arthritis, psoriasis, Crohn disease, psoriatic arthritis, and ulcerative colitis (4.5 [95% confidence interval (CI): 2.2, 6.8], 1.3 [95% CI: 0.8, 1.8], 0.9 [95% CI: 0.5, 1.2], 0.8 [95% CI: 0.2, 1.3], 0.6 [95% CI: 0.2, 1.0], and 0.5 [95% CI: 0.1, 0.8], respectively). Systemic lupus erythematosus, rheumatoid arthritis, and psoriasis are associated with higher prevalence of CVD compared with other IMIDs. Specific prevention programs should be established in subjects affected with these conditions to prevent CVD.",
+      "corpusId": 239252,
+      "url": "https://api.semanticscholar.org/CorpusId:239252"
+    },
+    {
+      "title": "Methotrexate might reduce ischemic stroke in patients with rheumatoid arthritis: a population‐based retrospective cohort study",
+      "authors": [
+        {
+          "name": "H. Tam",
+          "id": "144347880"
+        },
+        {
+          "name": "Chyong-Mei Chen",
+          "id": "2321719621"
+        },
+        {
+          "name": "Pui-Ying Leong",
+          "id": "47939895"
+        },
+        {
+          "name": "Chao‐Hsi Chen",
+          "id": "31891436"
+        },
+        {
+          "name": "Yuan‐Chao Li",
+          "id": "2340175071"
+        },
+        {
+          "name": "Yu-Hsun Wang",
+          "id": "4691727"
+        },
+        {
+          "name": "Lichi Lin",
+          "id": "14835517"
+        },
+        {
+          "name": "J. Chiou",
+          "id": "2640795"
+        },
+        {
+          "name": "J. Wei",
+          "id": "2181893589"
+        }
+      ],
+      "year": 2018,
+      "venue": "International Journal of Rheumatic Diseases",
+      "score": 0.5144282269152438,
+      "abstract": "",
+      "corpusId": 25415755,
+      "url": "https://doi.org/10.1111/1756-185X.13267"
+    },
+    {
+      "title": "High incidence of cardiovascular events in a rheumatoid arthritis cohort not explained by traditional cardiac risk factors.",
+      "authors": [
+        {
+          "name": "I. Rincón",
+          "id": "21554129"
+        },
+        {
+          "name": "K. Williams",
+          "id": "152715715"
+        },
+        {
+          "name": "M. Stern",
+          "id": "9881868"
+        },
+        {
+          "name": "G. Freeman",
+          "id": "3155888"
+        },
+        {
+          "name": "A. Escalante",
+          "id": "4437104"
+        }
+      ],
+      "year": 2001,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.4973404065404222,
+      "abstract": "",
+      "corpusId": 11043494,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11762933"
+    },
+    {
+      "title": "Cardiovascular risk factors, including thrombotic variables, in a population with rheumatoid arthritis.",
+      "authors": [
+        {
+          "name": "A. Mcentegart",
+          "id": "7261313"
+        },
+        {
+          "name": "H. Capell",
+          "id": "5240331"
+        },
+        {
+          "name": "D. Creran",
+          "id": "14046385"
+        },
+        {
+          "name": "A. Rumley",
+          "id": "3597752"
+        },
+        {
+          "name": "M. Woodward",
+          "id": "145037492"
+        },
+        {
+          "name": "G. Lowe",
+          "id": "153766820"
+        }
+      ],
+      "year": 2001,
+      "venue": "Rheumatology",
+      "score": 0.48340631222838143,
+      "abstract": "",
+      "corpusId": 25024944,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11426020"
+    },
+    {
+      "title": "Rheumatoid arthritis, as a clinical disease, but not rheumatoid arthritis-associated autoimmunity, is linked to cardiovascular events",
+      "authors": [
+        {
+          "name": "H. Gouze",
+          "id": "14312303"
+        },
+        {
+          "name": "P. Aegerter",
+          "id": "2295678"
+        },
+        {
+          "name": "R. Said‐Nahal",
+          "id": "1398750593"
+        },
+        {
+          "name": "M. Zins",
+          "id": "5446702"
+        },
+        {
+          "name": "M. Goldberg",
+          "id": "3763489"
+        },
+        {
+          "name": "G. Morelle",
+          "id": "84671301"
+        },
+        {
+          "name": "G. Schett",
+          "id": "2630863"
+        },
+        {
+          "name": "M. Breban",
+          "id": "4942021"
+        },
+        {
+          "name": "M. D’Agostino",
+          "id": "74297146"
+        }
+      ],
+      "year": 2021,
+      "venue": "Arthritis Research & Therapy",
+      "score": 0.4783333861919398,
+      "abstract": "Background Rheumatoid arthritis (RA) is characterized by increased cardiovascular (CV) mortality. CV events are particularly high in patients with RA-specific autoimmunity, including rheumatoid factor (RF) and anti-citrullinated protein antibodies (ACPA), raising the question whether RA-specific autoimmunity itself is associated with CV events. Methods New CV events (myocardial infarction, stroke or death by CV cause) were recorded in 20,625 subjects of the Electricité de France – Gaz de France (GAZEL) cohort. Self-reported RA cases in the GAZEL cohort were validated by phone interview on the basis of a specific questionnaire. In 1618 subjects, in whom plasma was available, RF and ACPA were measured. A piecewise exponential Poisson regression was used to analyze the association of CV events with presence of RA as well as RA-specific autoimmunity (without RA). Results CV events in GAZEL were associated with age, male sex, smoking, hypertension, hyperlipidemia, and diabetes mellitus (HR from 1.06 to 1.87, p < 0.05). Forty-two confirmed RA cases were identified. Confirmed RA was significantly associated with CV risk increase (HR of 3.03; 95% CI: 1.13–8.11, p  = 0.03) independently of conventional CV risk factors. One hundred seventy-eight subjects showed RF or ACPA positivity without presence of RA. CV events were not associated with ACPA positivity (HR: 1.52, 95% CI: 0.47–4.84, p  = 0.48) or RF positivity (HR: 1.15, 95% CI: 0.55–2.40, p  = 0.70) in the absence of RA. Conclusions RA, as a clinical chronic inflammatory disease, but not mere positivity for RF or ACPA in the absence of clinical disease is associated with increased CV risk.",
+      "corpusId": 238155759,
+      "url": "https://api.semanticscholar.org/CorpusId:238155759"
+    },
+    {
+      "title": "Similar risk of cardiovascular events in idiopathic inflammatory myopathy and rheumatoid arthritis in the first 5 years after diagnosis",
+      "authors": [
+        {
+          "name": "C. Párraga Prieto",
+          "id": "1753596988"
+        },
+        {
+          "name": "F. Ibrahim",
+          "id": "49694324"
+        },
+        {
+          "name": "Richard C. Campbell",
+          "id": "145149950"
+        },
+        {
+          "name": "H. Chinoy",
+          "id": "4959049"
+        },
+        {
+          "name": "J. Galloway",
+          "id": "47038489"
+        },
+        {
+          "name": "P. Gordon",
+          "id": "50259327"
+        }
+      ],
+      "year": 2020,
+      "venue": "Clinical Rheumatology",
+      "score": 0.4750042740127212,
+      "abstract": "Objectives To estimate the incidence of cardiovascular (CV) events in idiopathic inflammatory myopathy (IIM) compared to patients with rheumatoid arthritis (RA) and the general population. To explore the contribution of traditional CV risk factors to any difference observed. Methods A retrospective matched population-based cohort study was conducted using UK Clinical Practice Research Datalink (CPRD) from 1987 to 2013. The incidence of CV events was calculated for each cohort over time and compared using Cox proportional hazards models. Multivariable analyses were used to adjust for traditional CV risk factors. Results A total of 603 patients with IIM 4047 RA and 4061 healthy controls were included. The rate of CV events in IIM was significantly greater than healthy controls [hazard ratio (HR) 1.47 (95% confidence interval (CI) 1.18–1.83)] and remained significant after adjustment for CV risk factors [HR 1.38 (95% CI 1.11–1.72)]. Risk was similar between IIM and RA [HR 1.01 (95% CI 0.78–1.31)]. The rate of myocardial infarction [HR 1.61 (95% CI 1.27–2.04)] but not stroke [HR 0.92 (95% CI 0.59–1.44)] was significantly greater in IIM compared to healthy controls. After the first 5 years, the rate of CV events for RA remained significantly greater compared to the control group, but appeared to return to that of the healthy controls in the IIM group. Conclusion IIM is associated with an increased risk of CV events in the first 5 years after diagnosis similar to that of RA. Beyond 5 years, the risk appears to return to that of the general population in IIM but not RA. Key Points • The excess risk of cardiovascular events in IIM is similar to that found in RA. • The excess risk of cardiovascular events is greatest in the first 5 years after diagnosis.",
+      "corpusId": 219958742,
+      "url": "https://api.semanticscholar.org/CorpusId:219958742"
+    },
+    {
+      "title": "Increased unrecognized coronary heart disease and sudden deaths in rheumatoid arthritis: a population-based cohort study.",
+      "authors": [
+        {
+          "name": "H. Maradit-Kremers",
+          "id": "1398491237"
+        },
+        {
+          "name": "C. Crowson",
+          "id": "5034070"
+        },
+        {
+          "name": "P. Nicola",
+          "id": "2484824"
+        },
+        {
+          "name": "K. Ballman",
+          "id": "8914112"
+        },
+        {
+          "name": "V. Roger",
+          "id": "6149864"
+        },
+        {
+          "name": "S. Jacobsen",
+          "id": "48385331"
+        },
+        {
+          "name": "S. Gabriel",
+          "id": "3317169"
+        }
+      ],
+      "year": 2005,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.4527021408963917,
+      "abstract": "",
+      "corpusId": 22029050,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/15693010"
+    },
+    {
+      "title": "Rheumatoid arthritis increases the risk of heart failure: results from the cross-sectional study in the US population and mendelian randomization analysis in the European population",
+      "authors": [
+        {
+          "name": "K. Kadier",
+          "id": "2180218269"
+        },
+        {
+          "name": "D. Dilixiati",
+          "id": "2055402306"
+        },
+        {
+          "name": "Xu Zhang",
+          "id": "2326862648"
+        },
+        {
+          "name": "Huan Li",
+          "id": "2303682069"
+        },
+        {
+          "name": "Lirong Kuang",
+          "id": "2303712962"
+        },
+        {
+          "name": "Jian Huang",
+          "id": "2284577380"
+        },
+        {
+          "name": "Xin-Ni Cai",
+          "id": "122553456"
+        },
+        {
+          "name": "Tao Ling",
+          "id": "2295806203"
+        },
+        {
+          "name": "Fanqi Kong",
+          "id": "2276679011"
+        },
+        {
+          "name": "Xiaozhu Liu",
+          "id": "2261330872"
+        }
+      ],
+      "year": 2024,
+      "venue": "Frontiers in Immunology",
+      "score": 0.45102089109687366,
+      "abstract": "Objective Rheumatoid arthritis (RA) is a chronic systemic autoimmune disease. Among its various complications, heart failure (HF) has been recognized as the second leading cause of cardiovascular death in RA patients. The objective of this study was to investigate the relationship between RA and HF using epidemiological and genetic approaches Methods The study included 37,736 participants from the 1999-2020 National Health and Nutrition Examination Survey. Associations between RA and HF in the US population were assessed with weighted multivariate logistic regression analysis. A two-sample Mendelian randomization (MR) analysis was employed to establish the causal relationship between the two variables. The primary analysis method utilized was inverse variance weighting (IVW). Additionally, horizontal pleiotropy and heterogeneity were assessed to account for potential confounding factors. In cases where multiple independent datasets were accessible during MR analysis, we combined the findings through a meta-analytical approach. Results In observational studies, the prevalence of HF in combination with RA reached 7.11% (95%CI 5.83 to 8.39). RA was positively associated with an increased prevalence of HF in the US population [odds ratio (OR):1.93, 95% confidence interval (CI):1.47-2.54, P < 0.0001]. In a MR analysis utilizing a meta-analytical approach to amalgamate the results of the IVW method, we identified a significant causal link between genetically predicted RA and a heightened risk of HF (OR = 1.083, 95% CI: 1.028-1.141; P = 0.003). However, this association was not deemed significant for seronegative RA (SRA) (OR = 1.028, 95% CI: 0.992-1.065; P = 0.126). These findings were consistent across sensitivity analyses and did not indicate any horizontal pleiotropy. Conclusion RA correlates with an elevated prevalence of HF within the US population. Furthermore, genetic evidence derived from European populations underscores a causal link between RA and the risk of HF. However this association was not significant in SRA.",
+      "corpusId": 270099928,
+      "url": "https://api.semanticscholar.org/CorpusId:270099928"
+    },
+    {
+      "title": "Rheumatoid Arthritis and Risk of Atrial Fibrillation: Results from Pooled Cohort Studies and Mendelian Randomization Analysis",
+      "authors": [
+        {
+          "name": "Qiyuan Song",
+          "id": "2213524153"
+        },
+        {
+          "name": "Luxiang Shang",
+          "id": "2286991541"
+        },
+        {
+          "name": "Yujiao Zhang",
+          "id": "2108258770"
+        },
+        {
+          "name": "Yansong Cui",
+          "id": "2219907138"
+        },
+        {
+          "name": "Juanjuan Du",
+          "id": "50748269"
+        },
+        {
+          "name": "Yinglong Hou",
+          "id": "2248199476"
+        }
+      ],
+      "year": 2024,
+      "venue": "Cardiovascular Innovations and Applications",
+      "score": 0.44927999347069675,
+      "abstract": "Observational research has indicated that individuals diagnosed with rheumatoid arthritis (RA) have an elevated likelihood of developing atrial fibrillation (AF). Herein, we performed meta-analysis and Mendelian randomization (MR) analysis to explore the correlation and potential causal relationship between RA and AF. We searched PubMed, Embase, and Web of Science for cohort studies comparing AF risk among participants with and without RA. Quantitative synthesis of the adjusted risk ratio (RR) or hazard ratio was performed with the random-effects model. RA and AF were studied with two-sample MR analysis with the random-effects inverse variance weighted method. Patients with RA had a higher risk of AF than participants without RA [RR = 1.32, 95% confidence interval (CI): 1.23–1.43, P < 0.0001]. Genetically predicted RA was not associated with a significantly elevated risk of AF (odds ratio = 1.009, 95% CI: 0.986–1.032, P = 0.449). After adjustment for confounding factors in multifactorial MR, RA and AF still showed no correlation. Sensitivity analyses yielded similar results, thus indicating the robustness of the causal association. Overall, RA was associated with elevated risk of AF in our meta-analysis. However, genetically predicted RA may not be causal.",
+      "corpusId": 267947007,
+      "url": "https://api.semanticscholar.org/CorpusId:267947007"
+    },
+    {
+      "title": "Rheumatoid arthritis and risk of acute myocardial infarction--a nationwide retrospective cohort study.",
+      "authors": [
+        {
+          "name": "W. Chung",
+          "id": "34635857"
+        },
+        {
+          "name": "Cheng-Li Lin",
+          "id": "4452960"
+        },
+        {
+          "name": "Chiao-Ling Peng",
+          "id": "2364304"
+        },
+        {
+          "name": "Yung-fu Chen",
+          "id": "2144862409"
+        },
+        {
+          "name": "Chuan-Chin Lu",
+          "id": "4094250"
+        },
+        {
+          "name": "F. Sung",
+          "id": "144895869"
+        },
+        {
+          "name": "C. Kao",
+          "id": "143902286"
+        }
+      ],
+      "year": 2013,
+      "venue": "International Journal of Cardiology",
+      "score": 0.44065656696105143,
+      "abstract": "",
+      "corpusId": 11576369,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/23938220"
+    },
+    {
+      "title": "Bidirectional two-sample Mendelian randomization study of causality between rheumatoid arthritis and myocardial infarction",
+      "authors": [
+        {
+          "name": "Hao Guo",
+          "id": "2047480961"
+        },
+        {
+          "name": "Wei Wang",
+          "id": "145200778"
+        },
+        {
+          "name": "Huie Peng",
+          "id": "2107176445"
+        },
+        {
+          "name": "Hui Yuan",
+          "id": "2087113668"
+        }
+      ],
+      "year": 2022,
+      "venue": "Frontiers in Immunology",
+      "score": 0.43598865572226064,
+      "abstract": "Background Epidemiological evidence suggests an association between rheumatoid arthritis (RA) and myocardial infarction (MI). However, causality remains uncertain. Therefore, this study aimed to explore the causal association between RA and MI. Methods Using publicly available genome-wide association study summary datasets, bidirectional two-sample Mendelian randomization (TSMR) was performed using inverse-variance weighted (IVW), weighted median, MR-Egger regression, simple mode, and weighted mode methods. Results The MR results for the causal effect of RA on MI (IVW, odds ratio [OR] = 1.041, 95% confidence interval [CI]: 1.007–1.076, P = 0.017; weighted median, OR = 1.027, 95% CI: 1.006–1.049, P = 0.012) supported a causal association between genetic susceptibility to RA and an increased risk of MI. MR results for the causal effect of MI on RA (IVW, OR = 1.012, 95% CI: 0.807–1.268, P = 0.921; weighted median, OR = 1.069, 95% CI: 0.855–1.338, P = 0.556) indicated that there was no causal association between genetic susceptibility to MI and an increased risk of RA. Conclusion Bidirectional TSMR analysis supports a causal association between genetic susceptibility to RA and an increased risk of MI but does not support a causal association between genetic susceptibility to MI and an increased risk of RA.",
+      "corpusId": 254129784,
+      "url": "https://api.semanticscholar.org/CorpusId:254129784"
+    },
+    {
+      "title": "Impact of ankylosing spondylitis on stroke limited to specific subtypes: Evidence from Mendelian randomization study",
+      "authors": [
+        {
+          "name": "Jian Mei",
+          "id": "1569665747"
+        },
+        {
+          "name": "Penghui Wei",
+          "id": "2820295"
+        },
+        {
+          "name": "Linjie Zhang",
+          "id": "2398584845"
+        },
+        {
+          "name": "Haiqi Ding",
+          "id": "2051980250"
+        },
+        {
+          "name": "Wenming Zhang",
+          "id": "2107979548"
+        },
+        {
+          "name": "Yu-Ling Tang",
+          "id": "2152993107"
+        },
+        {
+          "name": "X. Fang",
+          "id": "2050340"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Immunology",
+      "score": 0.4275219781517994,
+      "abstract": "Background The relationship between Ankylosing Spondylitis (AS) and the risk of stroke is complex. Therefore, we utilized Two-Sample Mendelian randomization to examine the probable causal link between these two features. Methods The genetic instruments linked to AS were chosen from a summary-level genetic data set from the FinnGen consortium in people of European ancestry (1462 cases and 164,682 controls). Stroke and its subtypes were selected as outcomes, and the MEGASTROKE consortium population was used to identify the genetic associations of AS on stroke (40,585 cases and 406,111 controls), ischemic stroke (IS) (34,217 cases and 406,111 controls), and its subtypes including large artery stroke (LAS) (4373 cases and 146,392 controls), small vessel stroke (SVS) (5386 cases and 192,662 controls), and cardioembolic stroke (CES) (7193 cases and 204,570 controls). Intracerebral hemorrhage (ICH) (1687 cases and 201,146 controls) data set from the FinnGen consortium was also used. To obtain the casual estimates, the inverse variant weighted (IVW) method was mainly used. By examining the heterogeneity and pleiotropy of particular single nucleotide polymorphisms (SNPs), the robustness of the results was also examined. Results There was no evidence found to prove the correlation between genetically predicted AS and stroke (odds ratio [OR] 1.014; 95% confidence interval [CI] 0.999-1.031; P = 0.063), ICH (OR 1.030; 95% CI 0.995-1.067; P = 0.090), and IS (OR 1.013; 95% CI 0. 998-1.030; P = 0.090). In terms of the different subtypes of IS, there was strong evidence of positive causal inferences on CES (OR 1.051; 95% CI 1.022-1.081; P = 0.001), and suggestive evidence of positive causal inferences on LAS (OR 1.042; 95% CI 1.003-1.082; P = 0.033), while it was not significant for SVS (OR 1.010; 95% CI 0.975-1.047; P = 0.563). Conclusion This study suggests that the possible causative impact of genetically predicted AS on stroke may be restricted to the CES and LAS subtypes.",
+      "corpusId": 255968552,
+      "url": "https://api.semanticscholar.org/CorpusId:255968552"
+    },
+    {
+      "title": "Prevention of Stroke in Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "A. Zha",
+          "id": "8116786"
+        },
+        {
+          "name": "M. Napoli",
+          "id": "40223729"
+        },
+        {
+          "name": "R. Behrouz",
+          "id": "3659088"
+        }
+      ],
+      "year": 2015,
+      "venue": "Current Neurology and Neuroscience Reports",
+      "score": 0.42025475618177105,
+      "abstract": "",
+      "corpusId": 8104044,
+      "url": "https://doi.org/10.1007/s11910-015-0600-y"
+    },
+    {
+      "title": "EULAR recommendations for cardiovascular disease risk management in patients with rheumatoid arthritis and other forms of inflammatory joint disorders: 2015/2016 update",
+      "authors": [
+        {
+          "name": "R. Ağca",
+          "id": "49403030"
+        },
+        {
+          "name": "S. Heslinga",
+          "id": "5632231"
+        },
+        {
+          "name": "S. Rollefstad",
+          "id": "6292683"
+        },
+        {
+          "name": "M. Heslinga",
+          "id": "32425133"
+        },
+        {
+          "name": "I. McInnes",
+          "id": "3893481"
+        },
+        {
+          "name": "M. Peters",
+          "id": "67324059"
+        },
+        {
+          "name": "T. Kvien",
+          "id": "5230112"
+        },
+        {
+          "name": "M. Dougados",
+          "id": "28311545"
+        },
+        {
+          "name": "H. Radner",
+          "id": "5609786"
+        },
+        {
+          "name": "F. Atzeni",
+          "id": "153328770"
+        },
+        {
+          "name": "J. Primdahl",
+          "id": "6291674"
+        },
+        {
+          "name": "A. Södergren",
+          "id": "2589282"
+        },
+        {
+          "name": "S. W. Jonsson",
+          "id": "16233774"
+        },
+        {
+          "name": "J. V. Rompay",
+          "id": "66940806"
+        },
+        {
+          "name": "C. Zabalan",
+          "id": "113966677"
+        },
+        {
+          "name": "T. Pedersen",
+          "id": "40085046"
+        },
+        {
+          "name": "L. Jacobsson",
+          "id": "152692998"
+        },
+        {
+          "name": "K. Vlam",
+          "id": "6928577"
+        },
+        {
+          "name": "M. González-Gay",
+          "id": "1397887631"
+        },
+        {
+          "name": "A. Semb",
+          "id": "3751869"
+        },
+        {
+          "name": "G. Kitas",
+          "id": "143778631"
+        },
+        {
+          "name": "Y. Smulders",
+          "id": "4644810"
+        },
+        {
+          "name": "Z. Szekanecz",
+          "id": "3859629"
+        },
+        {
+          "name": "N. Sattar",
+          "id": "153030012"
+        },
+        {
+          "name": "D. Symmons",
+          "id": "3609537"
+        },
+        {
+          "name": "M. Nurmohamed",
+          "id": "6323169"
+        }
+      ],
+      "year": 2016,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.4012225023105571,
+      "abstract": "",
+      "corpusId": 12901550,
+      "url": "https://doi.org/10.1136/annrheumdis-2016-209775"
+    },
+    {
+      "title": "Ischemic Heart Disease and Rheumatoid Arthritis—Two Conditions, the Same Background",
+      "authors": [
+        {
+          "name": "E. Rezuș",
+          "id": "152333027"
+        },
+        {
+          "name": "L. Macovei",
+          "id": "11541000"
+        },
+        {
+          "name": "A. Burlui",
+          "id": "38731097"
+        },
+        {
+          "name": "A. Cardoneanu",
+          "id": "16285841"
+        },
+        {
+          "name": "C. Rezus",
+          "id": "5121368"
+        }
+      ],
+      "year": 2021,
+      "venue": "Life",
+      "score": 0.39171436589488146,
+      "abstract": "Rheumatoid arthritis (RA) is one of the most frequent inflammatory rheumatic diseases, having a considerably increased prevalence of mortality and morbidity due to cardiovascular disease (CVD). RA patients have an augmented risk for ischemic and non-ischemic heart disease. Increased cardiovascular (CV) risk is related to disease activity and chronic inflammation. Traditional risk factors and RA-related characteristics participate in vascular involvement, inducing subclinical changes in coronary microcirculation. RA is considered an independent risk factor for coronary artery disease (CAD). Endothelial dysfunction is a precocious marker of atherosclerosis (ATS). Pro-inflammatory cytokines (such as TNFα, IL-1, and IL-6) play an important role in synovial inflammation and ATS progression. Therefore, targeting inflammation is essential to controlling RA and preventing CVD. Present guidelines emphasize the importance of disease control, but studies show that RA- treatment has a different influence on CV risk. Based on the excessive risk for CV events in RA, permanent evaluation of CVD in these patients is critical. CVD risk calculators, designed for the general population, do not use RA-related predictive determinants; also, new scores that take into account RA-derived factors have restricted validity, with none of them encompassing imaging modalities or specific biomarkers involved in RA activity.",
+      "corpusId": 239472043,
+      "url": "https://api.semanticscholar.org/CorpusId:239472043"
+    },
+    {
+      "title": "Aetiopathogenesis of ischemic stroke in rheumatoid arthritis: a case series study from tertiary care centre of South India",
+      "authors": [
+        {
+          "name": "S. Manorenj",
+          "id": "66866391"
+        },
+        {
+          "name": "R. Shaik",
+          "id": "51310382"
+        },
+        {
+          "name": "S. Marupaka",
+          "id": "47388110"
+        }
+      ],
+      "year": 2022,
+      "venue": "International Journal of Research in Medical Sciences",
+      "score": 0.3892687306605859,
+      "abstract": "Stroke is a major health concern worldwide. Published meta-analyses showed significant higher risk of ischemic and hemorrhagic stroke in patients with rheumatoid arthritis (RA) compared to the general population. Major etiopathogenesis of ischemic stroke in RA is non-atherosclerotic vasculopathy. Here the authors described varied aetiopathogensis of ischemic stroke in patients with RA which had been seldom reported in the literature. It was one of the first case series which threw light in this genre. Observational, prospective case series study was conducted over a period of one year. Amongst four cases presenting as an ischemic stroke with co-existing RA; each patient had a medium or small vessel vasculopathy, which had never been described earlier. Case 1 had cardio embolic source plus large vessel vasculopathy, case 2 had intracranial non-atherosclerosis vasculopathy; case 3 had secondary Moya-Moya disease; case 4 had both intracranial and extra cranial vasculopathy. Underlying aetiopathogensis of stroke in patients with RA can be attributed to insufficient cardiovascular treatment (well described in the literature) and vasculopathy of extracranial and intracranial vessels and secondary Moyamoya disease due to RA. Thorough evaluation is needed to prevent recurrence of stroke. The treatment strategy in these patients are immunotherapy apart from the conventional therapy with antiplatelet and statins.",
+      "corpusId": 255367294,
+      "url": "https://api.semanticscholar.org/CorpusId:255367294"
+    },
+    {
+      "title": "Management of Cardiovascular Disease Risk in Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "P. Dessein",
+          "id": "4398118"
+        },
+        {
+          "name": "M. González-Gay",
+          "id": "1397887602"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.3884818213355849,
+      "abstract": "Cardiovascular diseases, including ischemic heart disease and stroke, reportedly comprise the top two causes of global mortality [...].",
+      "corpusId": 249838710,
+      "url": "https://api.semanticscholar.org/CorpusId:249838710"
+    },
+    {
+      "title": "The risk of ischemic stroke in major rheumatic disorders.",
+      "authors": [
+        {
+          "name": "R. Behrouz",
+          "id": "3659088"
+        }
+      ],
+      "year": 2014,
+      "venue": "Journal of Neuroimmunology",
+      "score": 0.3696012663681176,
+      "abstract": "",
+      "corpusId": 206277297,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/25266144"
+    },
+    {
+      "title": "Relationship between rheumatoid arthritis and cardiovascular comorbidity, causation or co-occurrence: A Mendelian randomization study",
+      "authors": [
+        {
+          "name": "Min Wang",
+          "id": "2157302668"
+        },
+        {
+          "name": "C. Chao",
+          "id": "1444723479"
+        },
+        {
+          "name": "K. Mei",
+          "id": "49806755"
+        },
+        {
+          "name": "Dongmei Di",
+          "id": "4199542"
+        },
+        {
+          "name": "Y. Qian",
+          "id": "51229634"
+        },
+        {
+          "name": "Bin Wang",
+          "id": "2152594259"
+        },
+        {
+          "name": "Xiaoying Zhang",
+          "id": "2155168189"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Cardiovascular Medicine",
+      "score": 0.34688564578068587,
+      "abstract": "Background In recent years, the incidence rates of rheumatoid arthritis (RA) and heart disease (HD) have noticeably increased worldwide. Previous studies have found that patients with RA are more likely to develop HD, while the cause and effect have still remained elusive. In this study, Mendelian randomization (MR) analysis was used to indicate whether there was a potential association between RA and HD. Methods Data of RA, ischemic heart disease (IHD), myocardial infarction (MI), atrial fibrillation (AF), and arrhythmia were based on the genome-wide association study (GWAS) dataset. No disease group was intersected. Inverse-variance weighted (IVW) method was used to calculate MR estimates, and sensitivity analysis was performed. Results The primary MR analysis showed that genetic susceptibility to RA was significantly associated with the risk of IHD and MI, rather than with AF and arrhythmia. Besides, there was no heterogeneity and horizontal pleiotropy between the primary and replicated analyses. There was a significant correlation between RA and the risk of IHD (odds ratio (OR), 1.0006; 95% confidence interval (CI), 1.000244–1.00104; P = 0.001552), meanwhile, there was a significant correlation between RA and the risk of MI (OR, 1.0458; 95% CI, 1.07061–1.05379; P = 0.001636). The results were similar to those of sensitivity analysis, and the sensitivity analysis also verified the conclusion. Furthermore, sensitivity and reverse MR analyses suggested that no heterogeneity, horizontal pleiotropy or reverse causality was found between RA and cardiovascular comorbidity. Conclusion RA was noted to be causally associated with IHD and MI, rather than with AF and arrhythmia. This MR study might provide a new genetic basis for the causal relationship between RA and the risk of CVD. The findings suggested that the control of RA activity might reduce the risk of cardiovascular disease.",
+      "corpusId": 257607171,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/37008317"
+    },
+    {
+      "title": "Effect of rheumatoid arthritis or systemic lupus erythematosus on the risk of first-time acute myocardial infarction.",
+      "authors": [
+        {
+          "name": "Lorenz M. Fischer",
+          "id": "47955599"
+        },
+        {
+          "name": "R. Schlienger",
+          "id": "115985803"
+        },
+        {
+          "name": "C. Matter",
+          "id": "5116732"
+        },
+        {
+          "name": "H. Jick",
+          "id": "4860117"
+        },
+        {
+          "name": "C. Meier",
+          "id": "145186689"
+        }
+      ],
+      "year": 2004,
+      "venue": "American Journal of Cardiology",
+      "score": 0.3396963466833207,
+      "abstract": "",
+      "corpusId": 31903676,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/14715346"
+    },
+    {
+      "title": "Genetic relationship between rheumatoid arthritis and cardiovascular diseases",
+      "authors": [
+        {
+          "name": "Mathias Ausserwinkler",
+          "id": "12751643"
+        },
+        {
+          "name": "Sophie Gensluckner",
+          "id": "2141691453"
+        },
+        {
+          "name": "Andreas Voelkerer",
+          "id": "2313293085"
+        },
+        {
+          "name": "Jens Thiel",
+          "id": "2313296335"
+        },
+        {
+          "name": "H. Neumann",
+          "id": "47451905"
+        },
+        {
+          "name": "M. Flamm",
+          "id": "2290995619"
+        },
+        {
+          "name": "C. Datz",
+          "id": "73767064"
+        },
+        {
+          "name": "E. Aigner",
+          "id": "3729474"
+        },
+        {
+          "name": "B. Wernly",
+          "id": "2238429030"
+        }
+      ],
+      "year": 2024,
+      "venue": "Wiener Klinische Wochenschrift",
+      "score": 0.334613657656271,
+      "abstract": "Rheumatoid arthritis (RA) is recognized as a chronic autoimmune disorder with systemic inflammation and joint damage. Its potential role as a risk factor for cardiovascular diseases (CVD) is increasingly noted. This review delves into the causal relationship between RA and CVD, with Mendelian randomization (MR) offering a genetic perspective. An extensive search was conducted in PubMed, Cochrane and Web of Science to identify MR studies addressing the RA-CVD link. Out of 530 studies, 9 met the inclusion criteria, which were rigorously assessed using a critical appraisal checklist. These were further stratified by a sensitivity analysis into categories reflecting the strength of their evidence, from not evaluable to robust. From the nine included studies, eight supported a causal association between RA and an increased risk of CVD, specifically coronary artery disease (CAD) and one did not support a link between RA and heart failure. The results suggest that genetic factors associated with RA may contribute to an elevated risk for CVD. Chronic inflammation, prevalent in RA, emerges as a key mediator in this connection. The systematic review corroborates a genetic causal link between RA and CVD, as evidenced by eight of the nine MR studies reviewed. This suggests a need for integrated cardiovascular risk management in the treatment of RA patients. The findings advocate considering anti-inflammatory treatment that can reduce cardiovascular risk. The overarching evidence signifies a potential direction for new therapeutic strategies aimed at enhancing cardiovascular health in RA patients.",
+      "corpusId": 271492135,
+      "url": "https://api.semanticscholar.org/CorpusId:271492135"
+    }
+  ]
+}

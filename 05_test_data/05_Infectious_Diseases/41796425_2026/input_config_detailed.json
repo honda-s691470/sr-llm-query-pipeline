@@ -1,0 +1,47 @@
+{
+  "target_name": "41796425_2026",
+  "pmid": "41796425",
+  "objectives": "To determine the frequency and characteristics of genitourinary manifestations in patients with long COVID and to evaluate the evidence supporting the possible emergence of a genitourinary phenotype within long COVID.",
+  "inclusion_criteria": "Primary observational studies (cross-sectional, cohort, and case-control) evaluating individuals of any age with one or more genitourinary symptoms in the context of long COVID were included. Eligible symptoms included decline in renal function, urinary incontinence, urgency, frequency, voiding dysfunction, erectile dysfunction, scrotal pain, epididymo-orchitis, and menstrual alterations. Long COVID was defined as persistence or recurrence of symptoms >=12 weeks after SARS-CoV-2 infection confirmed by PCR, antigen testing, or clinical criteria. No restrictions were applied regarding language, publication year, or publication status.",
+  "exclusion_criteria": "Studies were excluded if they included only individuals without genitourinary manifestations, focused only on acute-phase manifestations or disease duration <12 weeks, did not specify timing of symptom onset in relation to SARS-CoV-2 infection, addressed vaccine-related effects, or involved pre-existing genitourinary conditions/disorders unrelated to COVID-19. Letters to the editor, commentaries, editorials, narrative reviews, posters, and other manuscripts without original data were also excluded.",
+  "pmid_query": "Databases searched were MEDLINE via PubMed, Scopus, Web of Science, Embase, SciELO, and Bireme-BvS from inception to October 11, 2025, without language or publication-date restrictions. The search used a PECO framework (Population: adults; Exposure: long COVID; Comparator: not applicable; Outcome: genitourinary disorders) and combined broad terms such as \"gynecologic disease,\" \"urological disorders,\" \"frequency,\" and \"Long COVID\" with symptom- and condition-level terms including urinary urgency, frequency, nocturia, cystitis, chronic kidney disease, decline in estimated glomerular filtration rate, and sexual dysfunction. Controlled vocabulary (MeSH, DeCS, Emtree) and free-text keywords were adapted to each database, and reference lists of included articles were also searched.",
+  "ref_selection_strategy": "ref_numbers",
+  "selected_ref_numbers": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "selected_ref_nums_compact": "17-25",
+  "selection_evidence": "The Results/PRISMA text states: \"Finally, nine primary studies, including a total of 2332 participants, were included [17-25].\" The study-characteristics paragraph then maps those references by country (Greece [17], India [18], USA [19], China [20], Japan [21,23], Pakistan [22], Romania [24], Brazil [25]). Table 1 lists the nine included study rows corresponding to those same numbered references: Zachariou [17], Syed [18], Lamb [19], Dong [20], Sakurada [21], Khan [22], Kato [23], Boruga [24], and Assis/Assisa [25]. All references 17-25 are primary literature studies, not websites/datasets/software.",
+  "notes": "Supplementary Appendix 2 (complete electronic search strategies) was referenced in the manuscript, but in the provided local materials it was only available as an image file without OCR text, so the pmid_query field uses the fullest explicit search-strategy wording recoverable from the manuscript text. The included-study selection itself is explicit in the main manuscript and did not require fallback to study entries.",
+  "predicted_pmids": [
+    "36320554",
+    "34787782",
+    "38335408",
+    "38270210",
+    "37811042",
+    "39979349",
+    "38790912",
+    "39934662"
+  ],
+  "gold_pmids": [
+    "36320554",
+    "34787782",
+    "38335408",
+    "38270210",
+    "37811042",
+    "39979349",
+    "38790912",
+    "39934662"
+  ],
+  "generated_at": "2026-03-10T02:53:12.698741+00:00",
+  "pipeline": "auto_include_pipeline_v1",
+  "pmid_query_exact_source": "(\"long COVID\"[tiab] OR \"post-COVID\"[tiab] OR \"post-COVID-19\"[tiab] OR \"post-acute sequelae\"[tiab] OR \"PASC\"[tiab] OR \"long-COVID\"[tiab]) AND (\"genitourinary\"[tiab] OR \"urinary\"[tiab] OR \"renal function\"[tiab] OR \"erectile dysfunction\"[tiab] OR \"menstrual\"[tiab] OR \"sexual dysfunction\"[tiab] OR \"urinary incontinence\"[tiab] OR \"overactive bladder\"[tiab] OR \"urological\"[tiab])",
+  "pmid_query_repair_notes": "Original pmid_query was a PECO-based narrative summary. Exact search strategy was in Supplementary Appendix 2 (image-only file, not OCR-extractable). Query constructed from paper scope: long COVID patients with genitourinary manifestations including menstrual alterations, erectile dysfunction, urinary tract symptoms, renal function decline. Searched PubMed, Scopus, Web of Science, Embase, SciELO, Bireme-BvS from inception to October 11, 2025."
+}

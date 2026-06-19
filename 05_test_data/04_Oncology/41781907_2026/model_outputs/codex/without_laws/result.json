@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:53:45Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41781907_2026",
+  "domain_folder": "04_Oncology",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Breast Neoplasms\"[Mesh] OR breast cancer*[tiab] OR breast neoplasm*[tiab] OR mammary carcinoma*[tiab]) AND (\"Germ-Line Mutation\"[Mesh] OR germline[tiab] OR hereditary[tiab] OR inherited[tiab]) AND (\"Polymorphism, Single Nucleotide\"[Mesh] OR single nucleotide polymorphism*[tiab] OR SNP[tiab] OR SNPs[tiab] OR polymorphism*[tiab] OR variant*[tiab] OR mutation*[tiab]) AND (\"Prognosis\"[Mesh] OR prognos*[tiab] OR surviv*[tiab] OR \"Disease-Free Survival\"[Mesh] OR disease-free survival[tiab] OR DFS[tiab] OR overall survival[tiab] OR OS[tiab] OR breast cancer-specific survival[tiab] OR BCSS[tiab] OR progression-free survival[tiab] OR PFS[tiab] OR metastasis-free survival[tiab] OR MFS[tiab] OR recurrence[tiab] OR time-to-event[tiab]) AND (\"Hazard Ratios\"[Mesh] OR hazard ratio*[tiab] OR Cox[tiab] OR multivaria*[tiab] OR adjust*[tiab])) AND (\"2000/01/01\"[Date - Publication] : \"2024/06/30\"[Date - Publication]) NOT (animals[mh] NOT humans[mh])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\04_Oncology\\41781907_2026\\without_laws"
+}

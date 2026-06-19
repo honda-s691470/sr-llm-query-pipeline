@@ -1,0 +1,335 @@
+--- Missed Papers Context (sampled) ---
+Sample size: 3 / Missed count: 3
+Seed: 41789521
+Sampled PMIDs: 25859996, 9368822, 38087246
+
+MEDLINE FIELDS OF INTEREST:
+- TI: Title
+- AB: Abstract
+- MH: MeSH Headings
+
+
+PMID- 25859996
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160107
+LR  - 20260128
+IS  - 1815-7920 (Electronic)
+IS  - 1027-3719 (Linking)
+VI  - 19
+IP  - 4
+DP  - 2015 Apr
+TI  - Treatment interruption and directly observed treatment of multidrug-resistant 
+      tuberculosis patients in China.
+PG  - 413-9
+LID - 10.5588/ijtld.14.0485 [doi]
+AB  - BACKGROUND: China has nearly one fifth of global multidrug-resistant tuberculosis 
+      (MDR-TB) cases, and follows the 24-month World Health Organization (WHO) 
+      standardised regimens. OBJECTIVE: To assess treatment interruption among MDR-TB 
+      patients and its association with the provision of directly observed treatment 
+      (DOT). METHODS: We reviewed clinical charts and conducted a questionnaire survey 
+      among all confirmed MDR-TB patients who had been treated for at least 6 months 
+      from 1 January 2009 to 30 April 2012 in Shandong Province. Treatment interruption 
+      was defined as missing a dose for at least 1 day but for <8 consecutive weeks; 
+      the subset 'severe interruption' was defined as missing doses for 2-8 consecutive 
+      weeks. RESULTS: Of 110 patients, 75 (68%) interrupted treatment; 19 (17%) 
+      reported severe interruption, with a median duration of 30 days. Of the 110 
+      patients, 26 (24%) received injections from family members and 55 (50%) received 
+      DOT, 7 (13%) from village doctors and 48 (87%) from family members. Patients who 
+      underwent DOT with a family member had less severe interruptions (OR 0.25, 95%CI 
+      0.05-0.98) than those who were given DOT by a village doctor or who did not 
+      undergo DOT. CONCLUSIONS: Family members may act as treatment supporters for 
+      MDR-TB patients to reduce treatment interruptions, but require orientation on 
+      their role.
+FAU - Wei, X-L
+AU  - Wei XL
+AD  - The Jockey Club School of Public Health and Primary Care, The Chinese University 
+      of Hong Kong, Hong Kong.
+FAU - Yin, J
+AU  - Yin J
+AD  - The Jockey Club School of Public Health and Primary Care, The Chinese University 
+      of Hong Kong, Hong Kong.
+FAU - Zou, G-Y
+AU  - Zou GY
+AD  - Nuffield Centre for International Health and Development, University of Leeds 
+      China Office, Shenzhen, China.
+FAU - Zhang, Z-T
+AU  - Zhang ZT
+AD  - Nuffield Centre for International Health and Development, University of Leeds 
+      China Office, Shenzhen, China.
+FAU - Walley, J
+AU  - Walley J
+AD  - Nuffield Centre for International Health and Development, University of Leeds, 
+      Leeds, UK.
+FAU - Harwell, J
+AU  - Harwell J
+AD  - The Jockey Club School of Public Health and Primary Care, The Chinese University 
+      of Hong Kong, Hong Kong.
+FAU - Li, H-T
+AU  - Li HT
+AD  - Center for TB Control, Shandong Provincial Chest Hospital, Jinan, China.
+FAU - Sun, Q
+AU  - Sun Q
+AD  - Center for Health Management and Policy, Shandong University, Jinan, China.
+FAU - Li, R-Z
+AU  - Li RZ
+AD  - National Centre for TB Control and Prevention, China Centre for Disease Control, 
+      Beijing, China.
+FAU - Wang, L-X
+AU  - Wang LX
+AD  - National Centre for TB Control and Prevention, China Centre for Disease Control, 
+      Beijing, China.
+FAU - Zhang, X-L
+AU  - Zhang XL
+AD  - Center for TB Control, Shandong Provincial Chest Hospital, Jinan, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - France
+TA  - Int J Tuberc Lung Dis
+JT  - The international journal of tuberculosis and lung disease : the official journal 
+      of the International Union against Tuberculosis and Lung Disease
+JID - 9706389
+RN  - 0 (Antitubercular Agents)
+SB  - IM
+MH  - Adult
+MH  - Antitubercular Agents/*therapeutic use
+MH  - China
+MH  - Directly Observed Therapy/*methods
+MH  - Disease Management
+MH  - Family
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Risk Factors
+MH  - Surveys and Questionnaires
+MH  - Tuberculosis, Multidrug-Resistant/*drug therapy
+MH  - World Health Organization
+MH  - *Drug Monitoring
+EDAT- 2015/04/11 06:00
+MHDA- 2016/01/08 06:00
+CRDT- 2015/04/11 06:00
+PHST- 2015/04/11 06:00 [entrez]
+PHST- 2015/04/11 06:00 [pubmed]
+PHST- 2016/01/08 06:00 [medline]
+AID - 10.5588/ijtld.14.0485 [doi]
+PST - ppublish
+SO  - Int J Tuberc Lung Dis. 2015 Apr;19(4):413-9. doi: 10.5588/ijtld.14.0485.
+
+PMID- 9368822
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19980210
+LR  - 20191024
+VI  - 21
+IP  - 11
+DP  - 1997 Nov
+TI  - Simple anthropometric indexes and cardiovascular risk factors in Chinese.
+PG  - 995-1001
+AB  - OBJECTIVE: Obesity is a major public health problem due to its associations with 
+      multiple cardiovascular risk factors. Although there are sophisticated methods, 
+      such as imaging, to document total body fat and its distributions, anthropometric 
+      measurements remain important in clinical practice. We examined the relationships 
+      between cardiovascular risk factors and the three commonest anthropometric 
+      measurements for obesity, body mass index (BMI), waist-hip ratio (WHR) and waist 
+      circumference (WC), in Hong Kong Chinese subjects. DESIGN AND SETTING: The data 
+      are obtained from a prevalence survey for glucose intolerance and lipid 
+      abnormality in a representative Hong Kong Chinese working population. All 
+      employees from a public utility company and a regional hospital were invited to 
+      participate. SUBJECTS: There were 1513 subjects (910 men and 603 women, mean age 
+      +/- s.e.m.: 37.5 +/- 0.2 y). All of them had no significant past medical history. 
+      MEASUREMENTS: BMI, WHR and WC of the 1513 subjects were assessed for their 
+      relationships with various cardiovascular risk factors. These include blood 
+      pressure, fasting and 2 h plasma glucose and insulin, glycated haemoglobin, total 
+      cholesterol, triglyceride, high density and low density lipoprotein cholesterol, 
+      and urine albumin concentration. RESULTS: After age adjustment, all three 
+      anthropometric indexes were significantly correlated with the major 
+      cardiovascular risk factors in both men and women. When BMI, WHR and WC were 
+      analysed according to quartiles, there was a significant trend for blood 
+      pressure, plasma triglyceride, fasting and 2 h plasma glucose and insulin to 
+      increase, and high density lipoprotein cholesterol to decrease, with increasing 
+      obesity after adjustment for age and smoking. Using stepwise regression analysis 
+      with the three indexes as independent variables, most of the variance in blood 
+      pressure, plasma lipid, insulin, glucose and urinary albumin concentration were 
+      explained either by WC or WHR. In women, BMI was the main explanatory variable 
+      for reduced high density lipoprotein cholesterol. CONCLUSIONS: In Hong Kong 
+      Chinese, BMI, WHR and WC provide important information in assessing 
+      cardiovascular risks. In men, central adiposity as reflected by WC and to some 
+      extent, WHR, explained most of the variance in blood pressure, plasma glucose, 
+      lipid, insulin and albuminuria. In women, all three indexes reflecting general 
+      and central obesity contribute to the variance in these risk factors.
+FAU - Ko, G T
+AU  - Ko GT
+AD  - Department of Medicine, Chinese University of Hong Kong, Prince of Wales 
+      Hospital, Shatin, N.T. Hong Kong.
+FAU - Chan, J C
+AU  - Chan JC
+FAU - Woo, J
+AU  - Woo J
+FAU - Lau, E
+AU  - Lau E
+FAU - Yeung, V T
+AU  - Yeung VT
+FAU - Chow, C C
+AU  - Chow CC
+FAU - Wai, H P
+AU  - Wai HP
+FAU - Li, J K
+AU  - Li JK
+FAU - So, W Y
+AU  - So WY
+FAU - Cockram, C S
+AU  - Cockram CS
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - England
+TA  - Int J Obes Relat Metab Disord
+JT  - International journal of obesity and related metabolic disorders : journal of the 
+      International Association for the Study of Obesity
+JID - 9313169
+SB  - IM
+MH  - Adult
+MH  - Anthropometry
+MH  - Body Constitution/*ethnology
+MH  - Body Mass Index
+MH  - Cardiovascular Diseases/*epidemiology/ethnology
+MH  - China/ethnology
+MH  - Diabetes Mellitus/*epidemiology/ethnology
+MH  - Female
+MH  - Glucose Intolerance/*epidemiology/ethnology
+MH  - Hong Kong
+MH  - Humans
+MH  - Hypertension/*epidemiology/ethnology
+MH  - Male
+MH  - Prevalence
+MH  - Risk Factors
+MH  - Sex Characteristics
+EDAT- 1997/11/22 00:00
+MHDA- 1997/11/22 00:01
+CRDT- 1997/11/22 00:00
+PHST- 1997/11/22 00:00 [pubmed]
+PHST- 1997/11/22 00:01 [medline]
+PHST- 1997/11/22 00:00 [entrez]
+AID - 10.1038/sj.ijo.0800508 [doi]
+PST - ppublish
+SO  - Int J Obes Relat Metab Disord. 1997 Nov;21(11):995-1001. doi: 
+      10.1038/sj.ijo.0800508.
+
+PMID- 38087246
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231216
+LR  - 20240117
+IS  - 1471-2458 (Electronic)
+IS  - 1471-2458 (Linking)
+VI  - 23
+IP  - 1
+DP  - 2023 Dec 12
+TI  - Tobacco smoke and all-cause mortality and premature death in China: a cohort 
+      study.
+PG  - 2486
+LID - 10.1186/s12889-023-17421-w [doi]
+LID - 2486
+AB  - BACKGROUND: Tobacco smoke is associated with several diseases, and identified as 
+      the second leading risk factor for death from any cause worldwide. The 
+      relationship of tobacco smoke to mortality or premature death is not yet 
+      available from contemporary cohorts after 2010 in China. This study aimed to 
+      investigate the smoking behavior and the relationship of tobacco smoke to 
+      mortality and premature death among a nationally representative cohort starting 
+      from 2011 in China. METHODS: The nationally representative datasets (China Health 
+      and Retirement Longitudinal Study, CHARLS, 2011-2012) was employed and linked 
+      with follow-up data (2013). CHARLS was an ongoing nationally representative 
+      survey, which longitudinally followed up subjects aged over 45 years. Smoking 
+      status (non-smoker, ex-smoker, smoker, pack-years of smoking, age at starting and 
+      ceasing smoking) was used as independent variable, and all-cause mortality, 
+      premature death (defined as mortality before age 72.7 years in men and 76.9 years 
+      in women) were used as dependent variables. The Cox's proportional hazards 
+      regression mode was used to estimate the effect of tobacco smoke and pack-years 
+      of smoking on all-cause mortality and premature death. RESULTS: A total of 16,701 
+      subjects were included. The association between tobacco smoker (hazard ratio 
+      [HR] = 1.37, 95%CI = 1.02, 1.83) / ex-smoker (HR = 1.75, 95%CI = 1.24, 2.46) and 
+      all-cause mortality was significant. Tobacco smoker (HR = 1.58, 95%CI = 1.04, 
+      2.39) and ex-smoker (HR = 2.25, 95%CI = 1.38, 3.66) was associated with increase 
+      in the risk of premature death. Pack-years of smoking >/= 30 was associated with 
+      increased risk of premature death compared with non-smokers in total (HR = 1.59, 
+      95%CI = 1.03, 2.43) and women (HR = 3.38, 95%CI = 1.22, 9.38). Additionally, our 
+      results also revealed that there was a linear trend between pack-years of smoking 
+      and premature death in total (P = 0.002) and women (P = 0.010). CONCLUSION: This 
+      study found a negative effect of smoking status on all-cause mortality and 
+      premature death among a contemporary and nationally representative data in China. 
+      The correlation between pack-years of smoking and premature death and the trend 
+      of pack-years of smoking with premature death was also identified.
+CI  - (c) 2023. The Author(s).
+FAU - Zhang, Liang
+AU  - Zhang L
+AD  - Cardio-Aortic surgery center, AnHui Chest Hospital, Hefei, Anhui, China.
+FAU - Ma, Yonghong
+AU  - Ma Y
+AD  - School of Public Health, Xi'an Medical College, Xi'an, Shaanxi, China.
+AD  - Research Center for Medical Prevention and Control of Public Safety of Shaanxi 
+      Province, Xi'an, Shaanxi, China.
+FAU - Men, Ke
+AU  - Men K
+AD  - School of Public Health, Xi'an Medical College, Xi'an, Shaanxi, China.
+AD  - Research Center for Medical Prevention and Control of Public Safety of Shaanxi 
+      Province, Xi'an, Shaanxi, China.
+FAU - Li, Chao
+AU  - Li C
+AD  - Department of Epidemiology and Biostatistics, Xi'an Jiaotong University Health 
+      Science Center, Xi'an, Shaanxi, China.
+FAU - Zhang, Zhuo
+AU  - Zhang Z
+AD  - School of Health Services Management, Xi'an Medical College, Xi'an, China. 
+      zhangzhuo@xiyi.edu.cn.
+FAU - Shi, Guoshuai
+AU  - Shi G
+AD  - School of Public Health, Xi'an Medical College, Xi'an, Shaanxi, China. 
+      shiguoshuai1991@sina.com.
+AD  - Research Center for Medical Prevention and Control of Public Safety of Shaanxi 
+      Province, Xi'an, Shaanxi, China. shiguoshuai1991@sina.com.
+LA  - eng
+GR  - 21JK0340/Scientific Research Program Funded by Shaanxi Provincial Education 
+      Department/
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20231212
+PL  - England
+TA  - BMC Public Health
+JT  - BMC public health
+JID - 100968562
+RN  - 0 (Tobacco Smoke Pollution)
+SB  - IM
+MH  - Male
+MH  - Humans
+MH  - Female
+MH  - Aged
+MH  - Cohort Studies
+MH  - *Smoking/epidemiology/adverse effects
+MH  - Mortality, Premature
+MH  - Longitudinal Studies
+MH  - *Tobacco Smoke Pollution/adverse effects
+MH  - Risk Factors
+PMC - PMC10714570
+OTO - NOTNLM
+OT  - Cohort study
+OT  - Mortality
+OT  - Premature death
+OT  - Tobacco smoke
+COIS- No conflicts of interest.
+EDAT- 2023/12/13 06:42
+MHDA- 2023/12/17 09:43
+PMCR- 2023/12/12
+CRDT- 2023/12/13 00:02
+PHST- 2022/10/31 00:00 [received]
+PHST- 2023/12/05 00:00 [accepted]
+PHST- 2023/12/17 09:43 [medline]
+PHST- 2023/12/13 06:42 [pubmed]
+PHST- 2023/12/13 00:02 [entrez]
+PHST- 2023/12/12 00:00 [pmc-release]
+AID - 10.1186/s12889-023-17421-w [pii]
+AID - 17421 [pii]
+AID - 10.1186/s12889-023-17421-w [doi]
+PST - epublish
+SO  - BMC Public Health. 2023 Dec 12;23(1):2486. doi: 10.1186/s12889-023-17421-w.

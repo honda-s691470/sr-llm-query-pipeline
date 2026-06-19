@@ -1,0 +1,43 @@
+{
+  "target_name": "41630847_2026",
+  "pmid": "41630847",
+  "objectives": "Therefore, this systematic review and meta-analysis aim to evaluate the influence of RA on stroke risk globally.",
+  "inclusion_criteria": "We included cohort or cross-sectional studies that examined the association between RA and stroke risk, with clear diagnoses of both conditions.",
+  "exclusion_criteria": "Studies were excluded if they did not report odds ratios (OR) with corresponding 95% confidence intervals (CI). In cases where multiple studies reported data from the same cohort, we selected the study with the longest follow-up or largest sample size. Conference abstracts, study protocols, and duplicate publications were also excluded.",
+  "pmid_query": "(((\"Stroke\"[Mesh]) OR ((((((Stroke*[Title/Abstract]) OR (Cerebrovascular Accident*[Title/Abstract])) OR (Cerebrovascular Apoplexy[Title/Abstract])) OR (Brain Vascular Accident*[Title/Abstract])) OR (Apoplexy[Title/Abstract])) OR (CVAs[Title/Abstract]))) AND ((\"Arthritis, Rheumatoid\"[Mesh]) OR (Rheumatoid Arthritis[Title/Abstract]))) AND ((\"risk\"[Mesh]) OR (risk[Title/Abstract]))",
+  "ref_selection_strategy": "study_entries",
+  "selected_ref_numbers": [],
+  "selected_ref_nums_compact": "",
+  "selection_evidence": "The main manuscript uses author-year citations rather than numbered references. In Results/Literature search, the paper states that 3,468 records were identified, 15 articles were potentially relevant, and 12 studies were ultimately included: Baviera et al. 2021; Chen et al. 2018a; Chen et al. 2018b; Wolfe, Breundlich/Freundlich & Straus 2003; Kang et al. 2022; Lee et al. 2021; Liou et al. 2014; Logstrup et al. 2021; Shin et al. 2025; Tiosano et al. 2017; Trommer et al. 2021; Zou et al. 2017. The Study characteristics section repeats the same 12-study set and Table 1 lists those same 12 studies with study characteristics. Fig. 2 also names the identical 12 studies. Supplemental PRISMA checklist maps study selection to Fig. 1 and study characteristics to Table 1, and supplemental Table 1 provides the full PubMed search strategy.",
+  "notes": "Used study_entries because exact numbered references are unavailable in this PeerJ article: the manuscript, Table 1, and reference list are author-year and unnumbered. PMIDs were filled from the local PubMed export when available. Wolfe is misspelled as \"Breundlich\" in the manuscript/OCR, but the local PubMed export identifies the author as Freundlich. Shin et al. 2025 was present in the manuscript/XML reference list with DOI but no PMID was recoverable from the local source files.",
+  "predicted_pmids": [
+    "33386606",
+    "29861211",
+    "29860668",
+    "12508387",
+    "36431290",
+    "33999944",
+    "24898360",
+    "32984893",
+    "40884091",
+    "29136635",
+    "33789293",
+    "28678807"
+  ],
+  "gold_pmids": [
+    "33386606",
+    "29861211",
+    "29860668",
+    "12508387",
+    "36431290",
+    "33999944",
+    "24898360",
+    "32984893",
+    "40884091",
+    "29136635",
+    "33789293",
+    "28678807"
+  ],
+  "generated_at": "2026-03-08T00:24:14.818965+00:00",
+  "pipeline": "auto_include_pipeline_v1"
+}

@@ -1,0 +1,39 @@
+(
+  (
+    "Kidney Failure, Chronic"[Mesh]
+    OR "Nephrology"[Mesh]
+    OR "Renal Insufficiency, Chronic"[Mesh]
+    OR "Renal Dialysis"[Mesh]
+    OR "chronic kidney disease"[tiab]
+    OR CKD[tiab]
+    OR "chronic renal insufficiency"[tiab]
+    OR "kidney failure"[tiab]
+    OR "end stage renal disease"[tiab]
+    OR ESRD[tiab]
+    OR "end stage kidney disease"[tiab]
+    OR ESKD[tiab]
+    OR hemodialysis[tiab]
+    OR haemodialysis[tiab]
+    OR dialysis[tiab]
+  )
+  AND
+  (
+    "Advance Care Planning"[Mesh]
+    OR "Advance Directives"[Mesh]
+    OR "advance care planning"[tiab]
+    OR "advance directive*"[tiab]
+    OR "living will*"[tiab]
+    OR "goals of care"[tiab]
+    OR "shared decision making"[Mesh]
+    OR "shared decision making"[tiab]
+    OR "decision aid*"[tiab]
+    OR "end-of-life care"[Mesh]
+    OR "end of life"[tiab]
+    OR palliative[tiab]
+    OR "do not resuscitate"[tiab]
+    OR "resuscitation order*"[tiab]
+    OR retrospective[ti]
+  )
+)
+AND
+(english[lang])

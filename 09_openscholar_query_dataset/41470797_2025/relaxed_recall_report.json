@@ -1,0 +1,152 @@
+{
+  "target_dir": "public_release\\09_openscholar_query_dataset\\41470797_2025",
+  "gold_path": "05_test_data\\01_Rheumatoid_Arthritis\\41470797_2025\\gold_pmids.json",
+  "fuzzy_threshold_same_year": 0.95,
+  "fuzzy_threshold_near_year": 0.98,
+  "reports": [
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41470797_2025\\papers_normal_with_pmid.json",
+      "paper_count": 65,
+      "gold_count": 21,
+      "tp_pmid_exact": 7,
+      "tp_title_year_exact_additional": 1,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 8,
+      "tp_relaxed_total": 8,
+      "recall_pmid_exact": 0.3333333333333333,
+      "recall_strict": 0.38095238095238093,
+      "recall_relaxed": 0.38095238095238093,
+      "matched_pmids_pmid_exact": [
+        "26917157",
+        "27223302",
+        "28739429",
+        "29606245",
+        "29962254",
+        "33374524",
+        "40537107"
+      ],
+      "matched_pmids_strict": [
+        "26917157",
+        "27223302",
+        "28739429",
+        "29606245",
+        "29962254",
+        "31435625",
+        "33374524",
+        "40537107"
+      ],
+      "matched_pmids_relaxed": [
+        "26917157",
+        "27223302",
+        "28739429",
+        "29606245",
+        "29962254",
+        "31435625",
+        "33374524",
+        "40537107"
+      ],
+      "exact_title_year_details": [
+        {
+          "gold_pmid": "31435625",
+          "gold_title": "Yerba mate aqueous extract improves the oxidative and inflammatory states of rats with adjuvant-induced arthritis.",
+          "gold_year": "2019",
+          "matched_title": "Yerba mate aqueous extract improves the oxidative and inflammatory states of rats with adjuvant-induced arthritis.",
+          "matched_year": "2019",
+          "matched_pubmed_id": "",
+          "matched_corpusId": "199641740",
+          "source_file": "papers_normal_with_pmid.json"
+        }
+      ],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "30185085",
+        "32216502",
+        "32390844",
+        "32981407",
+        "33216421",
+        "34603528",
+        "35373729",
+        "36101997",
+        "38892549",
+        "39987999",
+        "40053115",
+        "40263915",
+        "40375481"
+      ]
+    },
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41470797_2025\\papers_deep_with_pmid.json",
+      "paper_count": 256,
+      "gold_count": 21,
+      "tp_pmid_exact": 9,
+      "tp_title_year_exact_additional": 1,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 10,
+      "tp_relaxed_total": 10,
+      "recall_pmid_exact": 0.42857142857142855,
+      "recall_strict": 0.47619047619047616,
+      "recall_relaxed": 0.47619047619047616,
+      "matched_pmids_pmid_exact": [
+        "26917157",
+        "27223302",
+        "28739429",
+        "29606245",
+        "29962254",
+        "33374524",
+        "38892549",
+        "40263915",
+        "40537107"
+      ],
+      "matched_pmids_strict": [
+        "26917157",
+        "27223302",
+        "28739429",
+        "29606245",
+        "29962254",
+        "31435625",
+        "33374524",
+        "38892549",
+        "40263915",
+        "40537107"
+      ],
+      "matched_pmids_relaxed": [
+        "26917157",
+        "27223302",
+        "28739429",
+        "29606245",
+        "29962254",
+        "31435625",
+        "33374524",
+        "38892549",
+        "40263915",
+        "40537107"
+      ],
+      "exact_title_year_details": [
+        {
+          "gold_pmid": "31435625",
+          "gold_title": "Yerba mate aqueous extract improves the oxidative and inflammatory states of rats with adjuvant-induced arthritis.",
+          "gold_year": "2019",
+          "matched_title": "Yerba mate aqueous extract improves the oxidative and inflammatory states of rats with adjuvant-induced arthritis.",
+          "matched_year": "2019",
+          "matched_pubmed_id": "",
+          "matched_corpusId": "199641740",
+          "source_file": "papers_deep_with_pmid.json"
+        }
+      ],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "30185085",
+        "32216502",
+        "32390844",
+        "32981407",
+        "33216421",
+        "34603528",
+        "35373729",
+        "36101997",
+        "39987999",
+        "40053115",
+        "40375481"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:56:11Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41794963_2026",
+  "domain_folder": "04_Oncology",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"PANQOL\"[Title/Abstract] OR \"Penn Acoustic Neuroma Quality of Life\"[Title/Abstract] OR \"Penn Acoustic Neuroma Quality-of-Life\"[Title/Abstract]) AND (\"vestibular schwannoma\"[Title/Abstract] OR \"vestibular schwannomas\"[Title/Abstract] OR \"acoustic neuroma\"[Title/Abstract] OR \"acoustic neuromas\"[Title/Abstract] OR \"Neuroma, Acoustic\"[MeSH Terms]))",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\04_Oncology\\41794963_2026\\without_laws"
+}

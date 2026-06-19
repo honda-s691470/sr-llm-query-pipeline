@@ -1,0 +1,18 @@
+{
+  "query": "(\"Kidney Transplantation\"[Mesh] OR \"kidney transplant\"[tiab] OR \"renal transplant\"[tiab] OR \"transplant recipient\"[tiab] OR \"transplant recipients\"[tiab]) AND (\"Glucagon-Like Peptide-1 Receptor\"[Mesh] OR \"GLP-1 receptor agonist\"[tiab] OR \"glucagon-like peptide-1 receptor agonist\"[tiab] OR \"GLP-1 RA\"[tiab] OR liraglutide[tiab] OR semaglutide[tiab] OR exenatide[tiab] OR dulaglutide[tiab] OR albiglutide[tiab] OR tirzepatide[tiab] OR \"GLP1 receptor agonist\"[tiab]) AND (\"Diabetes Mellitus, Type 2\"[Mesh] OR \"type 2 diabetes\"[tiab] OR \"type 2 diabetes mellitus\"[tiab] OR T2DM[tiab] OR \"diabetes, type 2\"[tiab])",
+  "query_path": "04_data\\02_Cardiovascular_Disease\\41522206_2026\\model_outputs\\codex\\with_laws_v2_training_eval\\normalized_query.txt",
+  "input_config_path": "04_data\\02_Cardiovascular_Disease\\41522206_2026\\input_config.json",
+  "total_hits": 34,
+  "recall": 1.0,
+  "found_count": 3,
+  "total_gold": 3,
+  "mode": "open",
+  "timestamp_unix": 1781082097,
+  "missed_pmids": [],
+  "found_pmids": [
+    "39984953",
+    "40054529",
+    "40056927"
+  ],
+  "missed_count": 0
+}

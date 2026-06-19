@@ -1,0 +1,2648 @@
+{
+  "papers": [
+    {
+      "title": "The effectiveness of smart healthcare for patients with rheumatoid arthritis: A systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "Yin Yu",
+          "id": "2342101523"
+        },
+        {
+          "name": "Meijiao Wang",
+          "id": "2045303263"
+        },
+        {
+          "name": "Hejing Pan",
+          "id": "2306710574"
+        },
+        {
+          "name": "Lin Huang",
+          "id": "2256951211"
+        },
+        {
+          "name": "Haichang Li",
+          "id": "2144404940"
+        },
+        {
+          "name": "Xuanlin Li",
+          "id": "2256940664"
+        }
+      ],
+      "year": 2026,
+      "venue": "PLoS ONE",
+      "score": 0.9740899193266763,
+      "abstract": "Objectives This study aimed to evaluate the impact of smart healthcare interventions on disease activity, self-efficacy, self-management, functional levels, and quality of life in rheumatoid arthritis (RA) patients, as well as any associated adverse events. Method A systematic search was conducted in PubMed, EMBASE, and Cochrane Library for randomized controlled trials (RCTs) from inception to August 2024, using relevant medical subject headings and keywords. The Cochrane risk of bias tool was employed to assess bias risk. A random effects model was used, calculating the standardized mean difference (SMD) and 95% confidence intervals (CIs). Heterogeneity was assessed with Chi-square and I2 tests. Result This meta-analysis included 18 RCTs published between 2015 and 2024, with follow-up periods ranging from 3 months to 1 year. Results revealed a significant reduction in Disease Activity Score 28 (DAS28) in the smart healthcare intervention group compared to controls [SMD 95% CI: −0.22 (−0.38, −0.05), I2 = 28.8%, P = 0.011]. Additionally, quality of life showed significant improvement as measured by EQ-5D scores [SMD 95% CI: 0.16 (0.01, 0.32), I2 = 0.0%, P = 0.033]. Significant improvement was also observed in functional capacity [SMD 95% CI: −0.30 (−0.54, −0.06), I2 = 0.0%, P = 0.014]. However, no statistically significant effects were found for self-efficacy [SMD 95% CI: 0.12 (−0.12, 0.35), I2 = 0.0%, P = 0.340], self-management ability [SMD 95% CI: 0.11 (−0.17, 0.39), I2 = 0.0%, P = 0.451], or RA knowledge [SMD 95% CI: 0.46 (−0.14, 1.07), I2 = 75.98%, P = 0.133]. Conclusion Smart healthcare interventions show promise in reducing disease activity and improving physical function and quality of life in patients with rheumatoid arthritis. While these findings support the potential value of digital health solutions in RA management, further validation through more rigorous methodological designs is needed to confirm long-term effectiveness and clinical utility.",
+      "corpusId": 284579136,
+      "url": "https://api.semanticscholar.org/CorpusId:284579136",
+      "pubmed_id": "41505363",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0340074",
+        "matched_title": "The effectiveness of smart healthcare for patients with rheumatoid arthritis: A systematic review and meta-analysis.",
+        "matched_pubdate": "2026",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Efficacy of a cognitive-behavioral digital therapeutic on psychosocial outcomes in rheumatoid arthritis: randomized controlled trial",
+      "authors": [
+        {
+          "name": "L. T. Betz",
+          "id": "2316610555"
+        },
+        {
+          "name": "G. A. Jacob",
+          "id": "2319429907"
+        },
+        {
+          "name": "J. Knitza",
+          "id": "2291354133"
+        },
+        {
+          "name": "Michaela Koehm",
+          "id": "2368372525"
+        },
+        {
+          "name": "Frank Behrens",
+          "id": "2238696312"
+        }
+      ],
+      "year": 2024,
+      "venue": "npj Mental Health Research",
+      "score": 0.9695239376022547,
+      "abstract": "Cognitive behavioral therapy improves psychosocial outcomes in rheumatoid arthritis (RA), but access is limited. We conducted a randomized controlled trial to evaluate the efficacy of a cognitive-behavioral digital therapeutic, reclarit, on psychosocial outcomes in adult RA patients with impaired health-related quality of life. Participants were randomized to reclarit plus treatment as usual (TAU) or TAU plus educational and informational material (active control). The primary outcome was SF-36 mental (MCS) and physical (PCS) component summary scores at 3 months, with additional assessments at 6 months. reclarit significantly improved SF-36 MCS scores compared to control (mean difference 3.3 [95% CI 0.7, 5.9]; p = 0.014), with high user satisfaction and sustained improvements at 6 months. Depression, anxiety, fatigue, and social/work functioning also improved significantly, while SF-36 PCS, pain, and disability scores did not differ. In conclusion, reclarit offers immediate, effective, evidence-based and personalized psychological support for RA patients.",
+      "corpusId": 272369047,
+      "url": "https://api.semanticscholar.org/CorpusId:272369047",
+      "pubmed_id": "39227501",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/s44184-024-00085-8",
+        "matched_title": "Efficacy of a cognitive-behavioral digital therapeutic on psychosocial outcomes in rheumatoid arthritis: randomized controlled trial.",
+        "matched_pubdate": "2024 Sep 3",
+        "matched_source": "Npj Ment Health Res"
+      }
+    },
+    {
+      "title": "Transforming Rheumatoid Arthritis Care: A Scoping Review of the Role of Digital Health",
+      "authors": [
+        {
+          "name": "Robin Sia",
+          "id": "2384601873"
+        },
+        {
+          "name": "Ee Lynn Ting",
+          "id": "2132777941"
+        },
+        {
+          "name": "Alexander Kwan",
+          "id": "2221326413"
+        },
+        {
+          "name": "Mueed Mian",
+          "id": "2273043054"
+        }
+      ],
+      "year": 2025,
+      "venue": "Cureus",
+      "score": 0.9596170432125701,
+      "abstract": "This review explored the role of digital health in managing rheumatoid arthritis (RA), assessing interventions such as telemedicine, mobile apps, artificial intelligence, and electronic health records. A search of PubMed and the Cochrane Library yielded 976 articles, of which 10 met the inclusion criteria (six randomized controlled trials (RCTs) and four systematic reviews). Half of the RCTs showed improved outcomes, while the others found no significant benefit, and the systematic reviews highlighted substantial heterogeneity across interventions. Overall, digital health shows promise in RA care, but the mixed evidence underscores the need for larger, methodologically robust studies to clarify its effectiveness and guide integration into clinical practice.",
+      "corpusId": 281917856,
+      "url": "https://api.semanticscholar.org/CorpusId:281917856",
+      "pubmed_id": "41209979",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.7759/cureus.93973",
+        "matched_title": "Transforming Rheumatoid Arthritis Care: A Scoping Review of the Role of Digital Health.",
+        "matched_pubdate": "2025 Oct",
+        "matched_source": "Cureus"
+      }
+    },
+    {
+      "title": "A randomized controlled trial of the Effects of a telehealth educational intervention on medication adherence and disease activity in rheumatoid arthritis patients.",
+      "authors": [
+        {
+          "name": "Yuqing Song",
+          "id": "49992785"
+        },
+        {
+          "name": "E. Reifsnider",
+          "id": "2986847"
+        },
+        {
+          "name": "Shangping Zhao",
+          "id": "11015394"
+        },
+        {
+          "name": "Xia Xie",
+          "id": "49419040"
+        },
+        {
+          "name": "Hong Chen",
+          "id": "2118061119"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Advanced Nursing",
+      "score": 0.9529771389621303,
+      "abstract": "",
+      "corpusId": 211048962,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/32026506",
+      "pubmed_id": "32026506",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1111/jan.14319",
+        "matched_title": "A randomized controlled trial of the Effects of a telehealth educational intervention on medication adherence and disease activity in rheumatoid arthritis patients.",
+        "matched_pubdate": "2020 May",
+        "matched_source": "J Adv Nurs"
+      }
+    },
+    {
+      "title": "The effectiveness of e-learning in patient education delivered to patients with rheumatoid arthritis: The WebRA study—protocol for a pragmatic randomised controlled trial",
+      "authors": [
+        {
+          "name": "L. Raunsbæk Knudsen",
+          "id": "82778927"
+        },
+        {
+          "name": "K. Lomborg",
+          "id": "4731758"
+        },
+        {
+          "name": "Mwidimi Ndosi",
+          "id": "1397275617"
+        },
+        {
+          "name": "E. Hauge",
+          "id": "4391373"
+        },
+        {
+          "name": "A. de Thurah",
+          "id": "133583617"
+        }
+      ],
+      "year": 2021,
+      "venue": "BMC Rheumatology",
+      "score": 0.9400010630313655,
+      "abstract": "Patient education is integral to the treatment and care of patients with rheumatoid arthritis. Change is taking place in the organisation of healthcare systems because of a demographic shift towards ageing populations, an increasing use of technology and advancements in digital technologies, allowing for new interventions. This study will aim to evaluate the effectiveness of a newly developed e-learning patient education programme based on self-management that targets patients with rheumatoid arthritis. A pragmatic multi-centre randomised controlled trial is planned. We intend to recruit approximately 200 patients with a new diagnosis (< 3 months) of rheumatoid arthritis. Participants will be randomised 1:1 to web-based patient education delivered through an e-learning programme at home or standard face-to-face patient education provided at the hospital. The primary outcome is self-efficacy. Secondary outcomes are improved knowledge of rheumatoid arthritis, adherence to medication, health literacy level and quality of life. Outcomes will be measured at baseline and follow-up occurring 1, 3, 6 and 12 months after enrolment. Furthermore, data on healthcare utilisation and utilisation of the e-learning programme will be assessed at the 12-month follow-up. Statistical analysis, including differences between groups, will be evaluated using the chi-square and Kruskal–Wallis tests. Statistical analysis will follow the intention-to-treat principle, and analysis of variance will be used to evaluate the within- and between-groups differences testing the hypothesis of the ‘superiority’ of web-based patient education over standard face-to-face education provided at the hospital. Per protocol analysis will be used to assess the impact of missing data. Enrolment started in February 2021 and will end in June 2022. The study is expected to contribute to the evidence on the effectiveness of web-based patient education within rheumatic diseases. If the e-learning programme is effective, it will be incorporated into existing services to improve the self-management of patients with rheumatoid arthritis. Further, this mode of providing patient education may impact the organisation of health care for both rheumatic diseases and other chronic diseases by offering different modes of delivering patient education based on the needs and preferences of patients. Trial registration: ClinicalTrials.gov identifier NCT04669340. Registered on November 27, 2020. https://www.clinicaltrials.gov/ct2/show/NCT04669340?term=e-learning&cond=Rheumatoid+Arthritis&draw=2&rank=1. See Additional file 1 for detailed information on the dataset according to the World Health Organization Trial Registration Data Set.",
+      "corpusId": 245330388,
+      "url": "https://api.semanticscholar.org/CorpusId:245330388",
+      "pubmed_id": "34924034",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s41927-021-00226-y",
+        "matched_title": "The effectiveness of e-learning in patient education delivered to patients with rheumatoid arthritis: The WebRA study-protocol for a pragmatic randomised controlled trial.",
+        "matched_pubdate": "2021 Dec 20",
+        "matched_source": "BMC Rheumatol"
+      }
+    },
+    {
+      "title": "Tele‐Health Followup Strategy for Tight Control of Disease Activity in Rheumatoid Arthritis: Results of a Randomized Controlled Trial",
+      "authors": [
+        {
+          "name": "A. Thurah",
+          "id": "4312049"
+        },
+        {
+          "name": "K. Stengaard-Pedersen",
+          "id": "1395602986"
+        },
+        {
+          "name": "M. Axelsen",
+          "id": "8056781"
+        },
+        {
+          "name": "U. Fredberg",
+          "id": "6698937"
+        },
+        {
+          "name": "Liv M. V. Schougaard",
+          "id": "2329621453"
+        },
+        {
+          "name": "N. H. Hjollund",
+          "id": "6213396"
+        },
+        {
+          "name": "M. Pfeiffer-Jensen",
+          "id": "1390127679"
+        },
+        {
+          "name": "T. B. Laurberg",
+          "id": "81981383"
+        },
+        {
+          "name": "U. Tarp",
+          "id": "4032020"
+        },
+        {
+          "name": "K. Lomborg",
+          "id": "4731758"
+        },
+        {
+          "name": "T. Maribo",
+          "id": "5811159"
+        }
+      ],
+      "year": 2018,
+      "venue": "Arthritis care & research",
+      "score": 0.891662781738928,
+      "abstract": "",
+      "corpusId": 205226992,
+      "url": "https://doi.org/10.1002/acr.23280",
+      "pubmed_id": "28511288",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1002/acr.23280",
+        "matched_title": "Tele-Health Followup Strategy for Tight Control of Disease Activity in Rheumatoid Arthritis: Results of a Randomized Controlled Trial.",
+        "matched_pubdate": "2018 Mar",
+        "matched_source": "Arthritis Care Res (Hoboken)"
+      }
+    },
+    {
+      "title": "Tele-health interventions to support self-management in adults with rheumatoid arthritis: a systematic review",
+      "authors": [
+        {
+          "name": "Alison MacIver",
+          "id": "2112466111"
+        },
+        {
+          "name": "H. Hollinger",
+          "id": "39133355"
+        },
+        {
+          "name": "C. Carolan",
+          "id": "145293746"
+        }
+      ],
+      "year": 2021,
+      "venue": "Rheumatology International",
+      "score": 0.8914081136695936,
+      "abstract": "Rheumatoid arthritis (RA), a long-term auto-immune condition is a challenging condition for patients to manage. Goals of treatment include reducing pain, decreasing inflammation, and improving an individual’s overall function. Increasingly technology is being utilised to support patients to self-manage their condition. The aim of this systematic narrative review was to synthesise and critically appraise published evidence concerning the effectiveness of tele-health interventions to support self-management in RA. Bibliographic databases searched from 2014 to March 2020 included MedLINE, Embase, Cochrane Library. Search strategy combined the following concepts: (1) rheumatoid arthritis, (2) tele-health interventions, and (3) self-management. Only randomised controlled trials (RCTs) involving adults with RA were included. Titles, abstracts, full-text articles were screened, any discrepancies were checked by a second reviewer. Risk of bias was assessed using Cochrane risk of bias tool and data were extracted utilising the Cochrane data collection form for RCT interventions along with the TiDier checklist. Due to high heterogeneity, results were not meta-analysed and instead data were synthesised narratively. The search identified 98 articles, seven were included. The completed RCTs varied in the nature of the interventions, duration/severity of RA, outcomes measured and effectiveness of the interventions. The completed RCTs included a total of 791 participants Disease duration was largely between 4 and 10 years and disease severity on average was moderate. There was extensive variation in intervention components, theories underpinning theories and outcomes measured. Five RCTs reported a positive effect on factors such as disease activity, medication adherence, physical activity and self-efficacy levels. This study suggests that tele-health interventions that are well-designed, tailored and multi-faceted can help to achieve positive self-management outcomes in RA. None of the studies showed evidence of harm.",
+      "corpusId": 235441985,
+      "url": "https://doi.org/10.1007/s00296-021-04907-2",
+      "pubmed_id": "34132890",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1007/s00296-021-04907-2",
+        "matched_title": "Tele-health interventions to support self-management in adults with rheumatoid arthritis: a systematic review.",
+        "matched_pubdate": "2021 Aug",
+        "matched_source": "Rheumatol Int"
+      }
+    },
+    {
+      "title": "An Exercise and Educational and Self-management Program Delivered With a Smartphone App (CareHand) in Adults With Rheumatoid Arthritis of the Hands: Randomized Controlled Trial",
+      "authors": [
+        {
+          "name": "Pablo Rodríguez Sánchez-Laulhé",
+          "id": "2155166483"
+        },
+        {
+          "name": "L. Luque-Romero",
+          "id": "1436021681"
+        },
+        {
+          "name": "Francisco José Barrero-García",
+          "id": "1933698588"
+        },
+        {
+          "name": "Ángela Biscarri-Carbonero",
+          "id": "1933714194"
+        },
+        {
+          "name": "Jesús Blanquero",
+          "id": "89084855"
+        },
+        {
+          "name": "A. Suero-Pineda",
+          "id": "1435641712"
+        },
+        {
+          "name": "A. M. Heredia-Rizo",
+          "id": "1398368171"
+        }
+      ],
+      "year": 2021,
+      "venue": "JMIR mHealth and uHealth",
+      "score": 0.8840202235750758,
+      "abstract": "Background Rheumatoid arthritis (RA) is a prevalent autoimmune disease that usually involves problems of the hand or wrist. Current evidence recommends a multimodal therapy including exercise, self-management, and educational strategies. To date, the efficacy of this approach, as delivered using a smartphone app, has been scarcely investigated. Objective This study aims to assess the short- and medium-term efficacy of a digital app (CareHand) that includes a tailored home exercise program, together with educational and self-management recommendations, compared with usual care, for people with RA of the hands. Methods A single-blinded randomized controlled trial was conducted between March 2020 and February 2021, including 36 participants with RA of the hands (women: 22/36, 61%) from 2 community health care centers. Participants were allocated to use the CareHand app, consisting of tailored exercise programs, and self-management and monitoring tools or to a control group that received a written home exercise routine and recommendations, as per the usual protocol provided at primary care settings. Both interventions lasted for 3 months (4 times a week). The primary outcome was hand function, assessed using the Michigan Hand Outcome Questionnaire (MHQ). Secondary measures included pain and stiffness intensity (visual analog scale), grip strength (dynamometer), pinch strength (pinch gauge), and upper limb function (shortened version of the Disabilities of the Arm, Shoulder, and Hand questionnaire). All measures were collected at baseline and at a 3-month follow-up. Furthermore, the MHQ and self-reported stiffness were assessed 6 months after baseline, whereas pain intensity and scores on the shortened version of the Disabilities of the Arm, Shoulder, and Hand questionnaire were collected at the 1-, 3-, and 6-month follow-ups. Results In total, 30 individuals, corresponding to 58 hands (CareHand group: 26/58, 45%; control group: 32/58, 55%), were included in the analysis; 53% (19/36) of the participants received disease-modifying antirheumatic drug treatment. The ANOVA demonstrated a significant time×group effect for the total score of the MHQ (F1.62,85.67=9.163; P<.001; η2=0.15) and for several of its subscales: overall hand function, work performance, pain, and satisfaction (all P<.05), with mean differences between groups for the total score of 16.86 points (95% CI 8.70-25.03) at 3 months and 17.21 points (95% CI 4.78-29.63) at 6 months. No time×group interaction was observed for the secondary measures (all P>.05). Conclusions Adults with RA of the hands who used the CareHand app reported better results in the short and medium term for overall hand function, work performance, pain, and satisfaction, compared with usual care. The findings of this study suggest that the CareHand app is a promising tool for delivering exercise therapy and self-management recommendations to this population. Results must be interpreted with caution because of the lack of efficacy of the secondary outcomes. Trial Registration ClinicalTrials.gov NCT04263974; https://clinicaltrials.gov/ct2/show/NCT04263974 International Registered Report Identifier (IRRID) RR2-10.1186/s13063-020-04713-4",
+      "corpusId": 264166312,
+      "url": "https://pdfs.semanticscholar.org/76b4/5fe3d75fb3a124a244966a38293bb3f56a1f.pdf",
+      "pubmed_id": "35389367",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2196/35462",
+        "matched_title": "An Exercise and Educational and Self-management Program Delivered With a Smartphone App (CareHand) in Adults With Rheumatoid Arthritis of the Hands: Randomized Controlled Trial.",
+        "matched_pubdate": "2022 Apr 7",
+        "matched_source": "JMIR Mhealth Uhealth"
+      }
+    },
+    {
+      "title": "Effects of a Smartphone App-Based Intervention on Rheumatoid Arthritis Self-Management Efficacy: A Randomized Controlled Trial",
+      "authors": [
+        {
+          "name": "J. Shao",
+          "id": "38632918"
+        },
+        {
+          "name": "Kuang-Hui Yu",
+          "id": "2253015891"
+        },
+        {
+          "name": "Y-C Kao",
+          "id": "98754686"
+        },
+        {
+          "name": "Yen-Chiu Liang",
+          "id": "2293570283"
+        },
+        {
+          "name": "Su-Hui Chen",
+          "id": "3107111"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Nursing Research",
+      "score": 0.8777667489022645,
+      "abstract": "ABSTRACT Background Self-management programs can help patients with rheumatoid arthritis develop strategies to address their disease-related problems. However, accessibility to traditional self-management programs is often limited. Purpose This study was developed to assess the effectiveness, feasibility, and acceptability of a smartphone-delivered self-management program application (app) for adults with rheumatoid arthritis. Methods A two-arm (intervention vs. control) randomized controlled trial was used. Adult patients with rheumatoid arthritis were recruited from the rheumatology departments of a medical center. Study enrollment capabilities were limited by current pandemic restrictions. The patients who met the inclusion criteria and agreed to participate (N = 46) were enrolled as participants and randomly assigned either to the intervention group (n = 25), which received instructions on the use of a smartphone app designed to facilitate the self-management of rheumatoid arthritis, or to the control group (n = 21), which received instructions on related self-management only. The outcome variables were assessed at baseline and at 8 and 12 weeks. Differences in between-group outcomes over time were analyzed using generalized estimating equations. Feasibility and acceptability were also evaluated. Data were collected between August 1, 2020, and July 31, 2022. Results At baseline, no differences were detected between the two groups in terms of the demographic and disease characteristics of concern. Outcome measures for the intervention group improved significantly more than the control group for self-efficacy of pain at 8 weeks (B = 6.39, p < .05) and for both of self-efficacy of pain and self-management behavior at 12 weeks (B = 9.16, p < .05, and B = 4.25, p < .001, respectively). Factors related to app ease of use included limiting pop-ups and windows and having no time restrictions. Most of the participants reported the app as acceptable and easy to use, although challenges relating to using technology limited the usability of the app for some. Conclusions/Implications for Practice The smartphone app was shown to improve self-efficacy of pain and self-management behaviors. However, an accurate assessment of the effectiveness of the app and generalizability of the findings is limited by the smaller-than-desired sample size due to the COVID-19 pandemic and technological challenges. A greater understanding of how to overcome technological challenges is needed to optimize the delivery of self-management programs via smartphone-based apps. Studies reevaluating this app on a larger sample size should be conducted.",
+      "corpusId": 273127457,
+      "url": "https://api.semanticscholar.org/CorpusId:273127457",
+      "pubmed_id": "39514777",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1097/jnr.0000000000000638",
+        "matched_title": "Effects of a Smartphone App-Based Intervention on Rheumatoid Arthritis Self-Management Efficacy: A Randomized Controlled Trial.",
+        "matched_pubdate": "2024 Oct 1",
+        "matched_source": "J Nurs Res"
+      }
+    },
+    {
+      "title": "Effect of digital monitoring and counselling on self-management ability in patients with rheumatoid arthritis: a randomised controlled trial",
+      "authors": [
+        {
+          "name": "Linda C. Li",
+          "id": "2144428516"
+        },
+        {
+          "name": "Hui Xie",
+          "id": "2263754241"
+        },
+        {
+          "name": "L. Feehan",
+          "id": "7658447"
+        },
+        {
+          "name": "C. Shaw",
+          "id": "146431810"
+        },
+        {
+          "name": "N. Lu",
+          "id": "151464098"
+        },
+        {
+          "name": "Smruthi Ramachandran",
+          "id": "2182048414"
+        },
+        {
+          "name": "Ellen Wang",
+          "id": "2217079296"
+        },
+        {
+          "name": "Stephanie Therrien",
+          "id": "2095880115"
+        },
+        {
+          "name": "Julia Mucha",
+          "id": "2282387357"
+        },
+        {
+          "name": "Alison M. Hoens",
+          "id": "2242457657"
+        },
+        {
+          "name": "Kelly English",
+          "id": "39017284"
+        },
+        {
+          "name": "Eileen Davidson",
+          "id": "2028817815"
+        },
+        {
+          "name": "Teresa Liu-Ambrose",
+          "id": "2243185441"
+        },
+        {
+          "name": "Catherine L. Backman",
+          "id": "2264578429"
+        },
+        {
+          "name": "J. Esdaile",
+          "id": "2239664081"
+        },
+        {
+          "name": "K. Miller",
+          "id": "4252971"
+        },
+        {
+          "name": "D. Lacaille",
+          "id": "1989784"
+        }
+      ],
+      "year": 2023,
+      "venue": "Rheumatology",
+      "score": 0.8777385372767995,
+      "abstract": "Abstract Objectives To assess a remote physiotherapist (PT) counselling intervention using self-monitoring tools for improving self-management ability, physical activity participation and health outcomes in people with rheumatoid arthritis (RA). Methods Eligible participants were randomly assigned to receive group education, a Fitbit®, a self-monitoring app, and PT counselling phone calls (Immediate Group). The Delayed Group received a monthly e-newsletter until week 26, and then the intervention. The primary outcome was Patient Activation Measure (PAM-13). Participants were assessed at baseline, 27 weeks (the primary end point) and 53 weeks. Secondary outcomes included disease activity, pain, fatigue, depression, sitting/walking habits, daily physical activity time and daily awake sedentary time. Generalized Linear Mixed-effect Models (GLMMs) were used to assess the effect of the intervention on the change of each outcome measure from the initiation to 27 weeks after the intervention. Results Analysis included 131 participants (91.6% women; 80.2% completed during the COVID-19 pandemic). The mean change of PAM-13 at 27 weeks was 4.6 (Standard Deviation [SD] = 14.7) in the Immediate Group vs −1.6 (SD = 12.5) in the Delayed Group. The mean change in Delayed Group at 53 weeks (after the 26-week intervention) was 3.6 (SD = 14.6). Overall, the intervention improved PAM-13 at 27 weeks post-intervention from the GLMM analysis (adjusted coefficient: 5.3; 95% CI: 2.0, 8.7; P ≤ 0.001). Favourable intervention effects were also found in disease activity, fatigue, depression and self-reported walking habit. Conclusion Remote counselling paired with self-monitoring tools improved self-management ability in people with RA. Findings of secondary outcomes indicate that the intervention had a positive effect on symptom management.",
+      "corpusId": 266571112,
+      "url": "https://pdfs.semanticscholar.org/c6d9/4e84dc8b5f026318c9e4494522f08e8869bf.pdf",
+      "pubmed_id": "38152927",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1093/rheumatology/kead709",
+        "matched_title": "Effect of digital monitoring and counselling on self-management ability in patients with rheumatoid arthritis: a randomised controlled trial.",
+        "matched_pubdate": "2025 Jan 1",
+        "matched_source": "Rheumatology (Oxford)"
+      }
+    },
+    {
+      "title": "The Effect of Social Support Features and Gamification on a Web-Based Intervention for Rheumatoid Arthritis Patients: Randomized Controlled Trial",
+      "authors": [
+        {
+          "name": "A. Allam",
+          "id": "153045787"
+        },
+        {
+          "name": "Z. Kostova",
+          "id": "144323604"
+        },
+        {
+          "name": "Kent Nakamoto",
+          "id": "102888359"
+        },
+        {
+          "name": "P. Schulz",
+          "id": "2677434"
+        }
+      ],
+      "year": 2015,
+      "venue": "Journal of Medical Internet Research",
+      "score": 0.8767439236813699,
+      "abstract": "Background Rheumatoid arthritis (RA) is chronic systematic disease that affects people during the most productive period of their lives. Web-based health interventions have been effective in many studies; however, there is little evidence and few studies showing the effectiveness of online social support and especially gamification on patients’ behavioral and health outcomes. Objective The aim of this study was to look into the effects of a Web-based intervention that included online social support features and gamification on physical activity, health care utilization, medication overuse, empowerment, and RA knowledge of RA patients. The effect of gamification on website use was also investigated. Methods We conducted a 5-arm parallel randomized controlled trial for RA patients in Ticino (Italian-speaking part of Switzerland). A total of 157 patients were recruited through brochures left with physicians and were randomly allocated to 1 of 4 experimental conditions with different types of access to online social support and gamification features and a control group that had no access to the website. Data were collected at 3 time points through questionnaires at baseline, posttest 2 months later, and at follow-up after another 2 months. Primary outcomes were physical activity, health care utilization, and medication overuse; secondary outcomes included empowerment and RA knowledge. All outcomes were self-reported. Intention-to-treat analysis was followed and multilevel linear mixed models were used to study the change of outcomes over time. Results The best-fit multilevel models (growth curve models) that described the change in the primary outcomes over the course of the intervention included time and empowerment as time-variant predictors. The growth curve analyses of experimental conditions were compared to the control group. Physical activity increased over time for patients having access to social support sections plus gaming (unstandardized beta coefficient [B]=3.39, P=.02). Health care utilization showed a significant decrease for patients accessing social support features (B=–0.41, P=.01) and patients accessing both social support features and gaming (B=–0.33, P=.03). Patients who had access to either social support sections or the gaming experience of the website gained more empowerment (B=2.59, P=.03; B=2.29, P=.05; respectively). Patients who were offered a gamified experience used the website more often than the ones without gaming (t 91=–2.41, P=.02; U=812, P=.02). Conclusions The Web-based intervention had a positive impact (more desirable outcomes) on intervention groups compared to the control group. Social support sections on the website decreased health care utilization and medication overuse and increased empowerment. Gamification alone or with social support increased physical activity and empowerment and decreased health care utilization. This study provides evidence demonstrating the potential positive effect of gamification and online social support on health and behavioral outcomes. Trial Registration International Standard Randomized Controlled Trial Number (ISRCTN): 57366516; http://www.controlled-trials. com/ISRCTN57366516 (Archived by webcite at http://www.webcitation.org/6PBvvAvvV).",
+      "corpusId": 40339346,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/25574939",
+      "pubmed_id": "25574939",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2196/jmir.3510",
+        "matched_title": "The effect of social support features and gamification on a Web-based intervention for rheumatoid arthritis patients: randomized controlled trial.",
+        "matched_pubdate": "2015 Jan 9",
+        "matched_source": "J Med Internet Res"
+      }
+    },
+    {
+      "title": "mHealth‐Based Self‐Management Program for Patients With Rheumatoid Arthritis: A Pilot Randomized Controlled Study",
+      "authors": [
+        {
+          "name": "Hyunjin Oh",
+          "id": "7202913"
+        },
+        {
+          "name": "Chang-Hee Suh",
+          "id": "2241139152"
+        },
+        {
+          "name": "Ji-Won Kim",
+          "id": "2140157866"
+        },
+        {
+          "name": "Sunjoo Boo",
+          "id": "2308966132"
+        }
+      ],
+      "year": 2024,
+      "venue": "Nursing and Health Sciences",
+      "score": 0.8734294977772644,
+      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disease that gradually limits physical function and decreases quality of life (QOL). We evaluated an mHealth‐based self‐management program to help patients with RA improve their physical and psychological health, self‐efficacy, physical activity, and QOL. The sample included 73 experimental and 69 control participants. A pilot randomized controlled design was employed to identify the effectiveness of an 8‐week mHealth‐based self‐management program, which comprised educational modules regarding disease management and exercise, cognitive training, and motivational support through mobile messages and periodic phone calls. Knowledge of the health effects of RA, disease activity, perceived health, depression, self‐efficacy for controlling symptoms, physical activity, and QOL were evaluated pre‐ and postintervention and after the 4‐week follow‐up period. This pilot study indicates that the mHealth‐based program for people with RA is feasible. The mHealth self‐management program improved patients' knowledge of RA, depression, self‐efficacy for controlling symptoms, physical activity, and perceived health; however, disease activity and QOL did not significantly change. This pilot study demonstrates the potential of mHealth intervention as an effective program for strengthening self‐management capacities in patients with RA.",
+      "corpusId": 273849280,
+      "url": "https://api.semanticscholar.org/CorpusId:273849280",
+      "pubmed_id": "39498761",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1111/nhs.13187",
+        "matched_title": "mHealth-Based Self-Management Program for Patients With Rheumatoid Arthritis: A Pilot Randomized Controlled Study.",
+        "matched_pubdate": "2024 Dec",
+        "matched_source": "Nurs Health Sci"
+      }
+    },
+    {
+      "title": "Cost-effectiveness of a telehealth intervention in rheumatoid arthritis: economic evaluation of the Telehealth in RA (TeRA) randomized controlled trial",
+      "authors": [
+        {
+          "name": "C. Skovsgaard",
+          "id": "28329973"
+        },
+        {
+          "name": "M. Kruse",
+          "id": "39561613"
+        },
+        {
+          "name": "N. Hjøllund",
+          "id": "1931996229"
+        },
+        {
+          "name": "T. Maribo",
+          "id": "5811159"
+        },
+        {
+          "name": "A. de Thurah",
+          "id": "133583617"
+        }
+      ],
+      "year": 2022,
+      "venue": "Scandinavian Journal of Rheumatology",
+      "score": 0.8638875417222607,
+      "abstract": "Objective Telehealth is rapidly gaining ground from usual treatment, not least because of coronavirus disease 2019 (COVID-19) measures. Within rheumatology, telehealth has been used for, inter alia, follow-up for patients with rheumatoid arthritis (RA) with low disease activity or in remission. This study aims to assess the cost-effectiveness of such a telehealth intervention. Method In a randomized controlled trial, 294 patients were randomized into patient-reported outcome-based telehealth follow-up by either a nurse (PRO-TN) or a rheumatologist (PRO-TR) or to conventional outpatient follow-up (control). Cost-effectiveness was evaluated using costs per quality-adjusted life-year (QALY) gained. Individual-level healthcare and productivity costs were retrieved from national Danish registers. Incremental cost-effectiveness ratios were calculated for the intervention groups compared to the control group. Bootstrapping with 10 000 replications was used to obtain confidence intervals. Furthermore, cost-effectiveness acceptability curves were generated. Results The cost comparison showed that PRO-TR was significantly less costly than the control group, whereas the relative reduction in costs for PRO-TN was not significant. The telehealth groups experienced minor, non-significant declines in QALYs, whereas the control group experienced a slight, non-significant increase. The cost-effectiveness analysis showed that for PRO-TR, the willingness to accept a QALY loss was 89 328 EUR. A similar but smaller and non-significant result was seen for PRO-TN. Conclusion PRO-TR and PRO-TN seem to cost less but provide broadly similar health outcomes compared with conventional follow-up. Between the intervention groups, PRO-TR was significantly less costly. More studies are needed to conclude whether rheumatologist- or nurse-led telehealth is more cost-effective than conventional follow-up.",
+      "corpusId": 246093957,
+      "url": "https://api.semanticscholar.org/CorpusId:246093957",
+      "pubmed_id": "35048793",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1080/03009742.2021.2008604",
+        "matched_title": "Cost-effectiveness of a telehealth intervention in rheumatoid arthritis: economic evaluation of the Telehealth in RA (TeRA) randomized controlled trial.",
+        "matched_pubdate": "2023 Mar",
+        "matched_source": "Scand J Rheumatol"
+      }
+    },
+    {
+      "title": "The Effect of Follow ups with Weekly Phone Calls on the Outcome and Quality of Life Among the Patients with Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "A. Haghighi",
+          "id": "2254835839"
+        },
+        {
+          "name": "Maryam Dibadin",
+          "id": "2139438263"
+        },
+        {
+          "name": "A. Farahani",
+          "id": "2257001"
+        },
+        {
+          "name": "M. Abbasi",
+          "id": "40154093"
+        },
+        {
+          "name": "M. Arabi",
+          "id": "144443754"
+        }
+      ],
+      "year": 2021,
+      "venue": "Disease and Diagnosis",
+      "score": 0.8531244973419408,
+      "abstract": "Background: The present study aimed at evaluating the effect of weekly phone calls on treatment outcomes and quality of life among a group of Iranian patients with rheumatoid arthritis (RA). Materials and Methods: In this randomized clinical trial study, 60 patients aged 15-85 with RA were randomly assigned to intervention and control groups. The intervention group, in addition to a monthly assessment on a weekly basis, received a full 3-month follow-up telephone conversation in order to follow the correct and regular use of the drug and respond to the patients’ questions. The control group was only evaluated routinely. Finally, the severity of the disease activity (based on DAS-28) and the quality of life (based on the SF-12 questionnaire) were evaluated after three months. Results: After three months from the onset of intervention, a significant reduction was observed in the number of tender joints, mean erythrocyte sedimentation rate (ESR), and total score of DAS-28 in the intervention group compared to the control group. In addition, after three months of treatment, the quality of life for the intervention group improved significantly more than that of the control group. Conclusion: A weekly phone call with the patients suffering from RA with the purpose to guide the therapeutic process and respond to the patients’ questions could positively improve the severity of the disease along with the quality of life among the patients.",
+      "corpusId": 243467434,
+      "url": "https://api.semanticscholar.org/CorpusId:243467434",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Effectiveness of a novel digital patient education programme to support self-management of early rheumatoid arthritis: a randomised controlled trial.",
+      "authors": [
+        {
+          "name": "L. R. Knudsen",
+          "id": "2237210613"
+        },
+        {
+          "name": "Mwidimi Ndosi",
+          "id": "4700475"
+        },
+        {
+          "name": "E. Hauge",
+          "id": "2257090788"
+        },
+        {
+          "name": "Kirsten Lomborg",
+          "id": "2237306000"
+        },
+        {
+          "name": "Lene Dreyer",
+          "id": "2238482098"
+        },
+        {
+          "name": "S. Aaboe",
+          "id": "2292115275"
+        },
+        {
+          "name": "Marie Kjær",
+          "id": "2392488046"
+        },
+        {
+          "name": "L. Sørensen",
+          "id": "2292114958"
+        },
+        {
+          "name": "L. Volsmann",
+          "id": "2292118519"
+        },
+        {
+          "name": "H. M. Christensen",
+          "id": "2298420430"
+        },
+        {
+          "name": "A. de Thurah",
+          "id": "133583617"
+        }
+      ],
+      "year": 2024,
+      "venue": "Rheumatology",
+      "score": 0.852201401831876,
+      "abstract": "",
+      "corpusId": 268522616,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/38498833",
+      "pubmed_id": "38498833",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1093/rheumatology/keae177",
+        "matched_title": "Effectiveness of a novel digital patient education programme to support self-management of early rheumatoid arthritis: a randomized controlled trial.",
+        "matched_pubdate": "2024 Sep 1",
+        "matched_source": "Rheumatology (Oxford)"
+      }
+    },
+    {
+      "title": "Efficacy of a Web-Based Self-Management Enhancing Program for Patients with Rheumatoid Arthritis: Explorative Randomized Controlled Trial (Preprint)",
+      "authors": [
+        {
+          "name": "R. Zuidema",
+          "id": "3773144"
+        },
+        {
+          "name": "S. van Dulmen",
+          "id": "2244100399"
+        },
+        {
+          "name": "M. N. D. Nijhuis-van der Sanden",
+          "id": "1398082341"
+        },
+        {
+          "name": "Inger Meek",
+          "id": "2252108661"
+        },
+        {
+          "name": "C. V. D. van den Ende",
+          "id": "2242880038"
+        },
+        {
+          "name": "Jaap Fransen",
+          "id": "2237455757"
+        },
+        {
+          "name": "B. V. van Gaal",
+          "id": "3627919"
+        }
+      ],
+      "year": 2018,
+      "venue": "unknown",
+      "score": 0.8408250987612722,
+      "abstract": "\n BACKGROUND\n Web-based self-management enhancing programs have the potential to support patients with rheumatoid arthritis (RA) in their self-management; for example, improve their health status by increasing their self-efficacy or taking their prescribed medication. We developed a Web-based self-management enhancing program in collaboration with RA patients and professionals as co-designers on the basis of the intervention mapping framework. Although self-management programs are complex interventions, it is informative to perform an explorative randomized controlled trial (RCT) before embarking on a larger trial.\n \n \n OBJECTIVE\n This study aimed to evaluate the efficacy of a Web-based self-management enhancing program for patients with RA and identify outcome measures most likely to capture potential benefits.\n \n \n METHODS\n A multicenter exploratory RCT was performed with an intervention group and a control group. Both groups received care as usual. In addition, the intervention group received 12 months of access to a Web-based self-management program. Assessment occurred at baseline, 6 months, and 12 months. Outcome measures included self-management behavior (Patient Activation Measurement, Self-Management Ability Scale), self-efficacy (Rheumatoid Arthritis task-specific Self-Efficacy, Perceived Efficacy in Patient-Physician Interaction), general health status (RAND-36), focus on fatigue (Modified Pain Coping Inventory for Fatigue), and perceived pain and fatigue (Numeric Rating Scales). A linear mixed model for repeated measures, using the intention-to-treat principle, was applied to study differences between the patients in the intervention (n=78) and control (n=79) groups. A sensitivity analysis was performed in the intervention group to study the influence of patients with high (N=30) and low (N=40) use of the intervention.\n \n \n RESULTS\n No positive effects were found regarding the outcome measurements. Effect sizes were low.\n \n \n CONCLUSIONS\n Based on these results, it is not possible to conclude on the positive effects of the intervention or to select outcome measures to be regarded as the primary/main or secondary outcomes for a future trial. A process evaluation should be performed to provide more insight into the low compliance with and effectiveness of the intervention. This can determine for whom this sort of program will work and help to fine-tune the inclusion criteria.\n \n \n CLINICALTRIAL\n Netherlands Trial Register NTR4871; https://www.trialregister.nl/trial/4726\n",
+      "corpusId": 263515309,
+      "url": "https://api.semanticscholar.org/CorpusId:263515309",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Effectiveness of an online self-management tool, OPERAS (an On-demand Program to EmpoweR Active Self-management), for people with rheumatoid arthritis: a research protocol",
+      "authors": [
+        {
+          "name": "Johnathan Tam",
+          "id": "1455008583"
+        },
+        {
+          "name": "D. Lacaille",
+          "id": "1989784"
+        },
+        {
+          "name": "T. Liu-Ambrose",
+          "id": "1398171534"
+        },
+        {
+          "name": "Chris D. Shaw",
+          "id": "145600106"
+        },
+        {
+          "name": "Hui Xie",
+          "id": "2404420039"
+        },
+        {
+          "name": "C. Backman",
+          "id": "35110541"
+        },
+        {
+          "name": "J. Esdaile",
+          "id": "4327749"
+        },
+        {
+          "name": "Kimberly Miller",
+          "id": "2113625288"
+        },
+        {
+          "name": "R. Petrella",
+          "id": "2001935"
+        },
+        {
+          "name": "Linda C. Li",
+          "id": "1399994555"
+        }
+      ],
+      "year": 2019,
+      "venue": "Trials",
+      "score": 0.836895206238303,
+      "abstract": "BackgroundActive self-management is a process where patients are fully engaged in managing their health in daily life by having access to contextualized health data and tailored guidance to support a healthy lifestyle. This study aims to determine whether an e-health intervention that incorporates symptom/disease activity monitoring and physical activity counselling can improve self-management ability in patients with rheumatoid arthritis (RA).MethodsThe ‘Empowering active self-management of arthritis: Raising the bar with OPERAS (an On-demand Program to EmpoweR Active Self-management)’ project is a randomized controlled trial that uses a delayed control design. One hundred thirty-four participants with RA will be randomly assigned to start the intervention either immediately (immediate group) or 6 months later (delayed group). The intervention involves (1) use of a Fitbit-compatible web app to record and monitor their RA disease activity, symptoms, and time spent on physical activity and a Fitbit; (2) group education and individual counselling by a physiotherapist (PT); and (3) six phone calls with a PT. The primary outcome measure is self-management ability measured by the Patient Activation Measure. Secondary outcome measures include disease status, fatigue, pain, depressive symptoms, and characteristics of habitual behavior and also time spent in physical activity and sedentary activity with a wearable multi-sensor device (SenseWear Mini). After the 6-month intervention, we will interview a sample of participants to examine their experiences with the intervention.DiscussionThe results of this study will help to determine whether this technology-enhanced self-management intervention improves self-management ability and health outcomes for people living with RA. A limitation of this study is that participants will need to self-report their symptoms, disease status, and treatment use through questionnaires on the OPERAS web app. The user-friendly interface, reminder emails from the research staff, and tailored guidance from PTs will encourage participants to actively engage with the app.Trial registrationDate of last update in ClinicalTrials.gov: January 2, 2019. ClinicalTrials.gov Identifier: NCT03404245.",
+      "corpusId": 209312009,
+      "url": "https://api.semanticscholar.org/CorpusId:209312009",
+      "pubmed_id": "31829286",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s13063-019-3851-0",
+        "matched_title": "Effectiveness of an online self-management tool, OPERAS (an On-demand Program to EmpoweR Active Self-management), for people with rheumatoid arthritis: a research protocol.",
+        "matched_pubdate": "2019 Dec 11",
+        "matched_source": "Trials"
+      }
+    },
+    {
+      "title": "Asynchronous mHealth Interventions in Rheumatoid Arthritis: Systematic Scoping Review",
+      "authors": [
+        {
+          "name": "B. Seppen",
+          "id": "115856081"
+        },
+        {
+          "name": "P. den Boer",
+          "id": "2007963913"
+        },
+        {
+          "name": "J. Wiegel",
+          "id": "1958759224"
+        },
+        {
+          "name": "M. T. ter Wee",
+          "id": "116811407"
+        },
+        {
+          "name": "M. van der Leeden",
+          "id": "4122916"
+        },
+        {
+          "name": "R. de Vries",
+          "id": "46725448"
+        },
+        {
+          "name": "M. van der Esch",
+          "id": "10112209"
+        },
+        {
+          "name": "W. Bos",
+          "id": "47288554"
+        }
+      ],
+      "year": 2020,
+      "venue": "JMIR mHealth and uHealth",
+      "score": 0.7738472654966061,
+      "abstract": "Background Mobile devices such as smartphones and tablets have surged in popularity in recent years, generating numerous possibilities for their use in health care as mobile health (mHealth) tools. One advantage of mHealth is that it can be provided asynchronously, signifying that health care providers and patients are not communicating in real time. The integration of asynchronous mHealth into daily clinical practice might therefore help to make health care more efficient for patients with rheumatoid arthritis (RA). The benefits have been reviewed in various medical conditions, such as diabetes and asthma, with promising results. However, to date, it is unclear what evidence exists for the use of asynchronous mHealth in the field of RA. Objective The objective of this study was to map the different asynchronous mHealth interventions tested in clinical trials in patients with RA and to summarize the effects of the interventions. Methods A systematic search of Pubmed, Scopus, Cochrane, and PsycINFO was performed following the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines. Studies were initially screened and later assessed by two independent researchers. Disagreements on inclusion or exclusion of studies were resolved by discussion. Results The literature search yielded 1752 abstracts. After deduplication and screening, 10 controlled intervention studies were included. All studies were assessed to be at risk for bias in at least one domain of the Cochrane risk-of-bias tool. In the 10 selected studies, 4 different types of mHealth interventions were used: SMS reminders (to increase medication adherence or physical activity; n=3), web apps (for disease monitoring and/or to provide medical information; n=5), smartphone apps (for disease monitoring; n=1), and pedometers (to increase and track steps; n=1). Measured outcomes varied widely between studies; improvements were seen in terms of medication compliance (SMS reminders), reaching rapid remission (web app), various domains of physical activity (pedometer, SMS reminders, and web apps), patient-physician interaction (web apps), and self-efficacy (smartphone app). Conclusions SMS reminders, web apps, smartphone apps, and pedometers have been evaluated in intervention studies in patients with RA. These interventions have been used to monitor patients or to support them in their health behavior. The use of asynchronous mHealth led to desirable outcomes in nearly all studies. However, since all studies were at risk of bias and methods used were very heterogeneous, high-quality research is warranted to corroborate these promising results.",
+      "corpusId": 225944936,
+      "url": "https://api.semanticscholar.org/CorpusId:225944936",
+      "pubmed_id": "33151161",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2196/19260",
+        "matched_title": "Asynchronous mHealth Interventions in Rheumatoid Arthritis: Systematic Scoping Review.",
+        "matched_pubdate": "2020 Nov 5",
+        "matched_source": "JMIR Mhealth Uhealth"
+      }
+    },
+    {
+      "title": "Effectiveness and feasibility of a mobile health self-management intervention in rheumatoid arthritis: study protocol for a pragmatic multicentre randomised controlled trial (AEGORA)",
+      "authors": [
+        {
+          "name": "M. Doumen",
+          "id": "118634663"
+        },
+        {
+          "name": "E. De Meyst",
+          "id": "2222239695"
+        },
+        {
+          "name": "C. Lefevre",
+          "id": "2262115660"
+        },
+        {
+          "name": "S. Pazmino",
+          "id": "91904558"
+        },
+        {
+          "name": "J. Joly",
+          "id": "50638246"
+        },
+        {
+          "name": "D. Bertrand",
+          "id": "153157900"
+        },
+        {
+          "name": "M. Devinck",
+          "id": "2262114933"
+        },
+        {
+          "name": "René Westhovens",
+          "id": "2234429261"
+        },
+        {
+          "name": "P. Verschueren",
+          "id": "2985504"
+        }
+      ],
+      "year": 2023,
+      "venue": "Trials",
+      "score": 0.7716437966420571,
+      "abstract": "Background Rheumatoid arthritis (RA) considerably impacts patients’ lives. Patients’ confidence in their ability to manage this impact, or self-efficacy, can be supported with self-management interventions. One approach is to use mobile health (mHealth) applications, which can additionally provide insight into disease impact by remotely monitoring patient-reported outcomes. However, user engagement with mHealth-apps is variable, and concerns exist that remote monitoring might make patients overly attentive to symptoms. Methods App-based Education and GOal setting in RA (AEGORA) is a multicentre, pragmatic randomised controlled trial investigating an mHealth-based self-management intervention to improve self-efficacy and remotely monitor disease impact in patients with RA. The intervention is provided via an adapted version of the application Sidekick (Sidekick Health, Reykjavik, Iceland) and consists of education, goal setting, lifestyle advice, and remote assessment of the Rheumatoid Arthritis Impact of Disease (RAID) questionnaire. Across two centres, 120 patients will be recruited and randomised (2:1:1) to usual care or intervention group A/B (study app with weekly/monthly prompts to complete the RAID, respectively). Outcomes are assessed at baseline and after 4–6 months. The primary endpoint is a clinically important improvement (≥ 5.5/110) in the Arthritis Self-Efficacy Scale in the combined intervention group compared to usual care. Secondary endpoints are (a) non-inferiority regarding pain catastrophising, as a measure of symptom hypervigilance; (b) superiority regarding the RAID, sleep quality, and physical activity; and (c) participant engagement with the study app. Finally, the relationship between engagement, prompted frequency of RAID questionnaires, and the primary and secondary outcomes will be explored. Discussion The AEGORA trial aims to study the effectiveness of mHealth-based, multicomponent self-management support to improve self-efficacy in the context of RA, while providing potentially valuable insights into temporal disease activity dynamics and the feasibility and possible negative effects of remote symptom monitoring in this population. Trial registration Clinicaltrials.gov NCT05888181. Retrospectively registered on March 23, 2023. Study inclusion started on March 3, 2023.",
+      "corpusId": 264544445,
+      "url": "https://api.semanticscholar.org/CorpusId:264544445",
+      "pubmed_id": "37898781",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s13063-023-07733-y",
+        "matched_title": "Effectiveness and feasibility of a mobile health self-management intervention in rheumatoid arthritis: study protocol for a pragmatic multicentre randomised controlled trial (AEGORA).",
+        "matched_pubdate": "2023 Oct 28",
+        "matched_source": "Trials"
+      }
+    },
+    {
+      "title": "Effectiveness of an online self-management tool for people with rheumatoid arthritis: a research protocol",
+      "authors": [
+        {
+          "name": "Johnathan Tam",
+          "id": "1455008583"
+        },
+        {
+          "name": "D. Lacaille",
+          "id": "1989784"
+        },
+        {
+          "name": "T. Liu-Ambrose",
+          "id": "1398171534"
+        },
+        {
+          "name": "Chris D. Shaw",
+          "id": "145600106"
+        },
+        {
+          "name": "Hui Xie",
+          "id": "2404420039"
+        },
+        {
+          "name": "C. Backman",
+          "id": "35110541"
+        },
+        {
+          "name": "J. Esdaile",
+          "id": "4327749"
+        },
+        {
+          "name": "Kimberly Miller",
+          "id": "2113625288"
+        },
+        {
+          "name": "R. Petrella",
+          "id": "2001935"
+        },
+        {
+          "name": "Linda C. Li",
+          "id": "2124060156"
+        }
+      ],
+      "year": 2019,
+      "venue": "unknown",
+      "score": 0.7507373984279762,
+      "abstract": "\n Background. Active self-management is a process where patients are fully engaged in managing their health in daily life by having access to contextualized health data and tailored guidance to support a healthy lifestyle. The current study aims to determine whether an e-health intervention which incorporates symptom/disease activity monitoring and physical activity counselling can improve self-management ability in patients with rheumatoid arthritis (RA).\n\nMethods. The Empowering active self-management of arthritis: Raising the bar with OPERAS (an On-demand Program to EmpoweR Active Self-management) project is a randomized controlled trial which uses a delayed control design. 134 participants with RA will be randomized to either start the intervention immediately (Immediate Group) or start 6 months later (Delayed Group). The intervention involves: 1) use of a Fitbit-compatible web app to record and monitor their RA disease activity, symptoms and time spent on physical activity and a Fitbit; 2) group education and individual counselling by a physiotherapist (PT), and 3) 6 phone calls with a PT. The primary outcome measure is self-management ability measured by the Patient Activation Measure. Secondary outcome measures include disease status, fatigue, pain, depressive symptoms, and characteristics of habitual behavior. In addition, time spent in physical activity and sedentary activity with a wearable multi-sensor device (SenseWear Mini). Following the 6-month intervention, we will interview a sample of participants to examine their experiences with the intervention.\n\nDiscussion. The results of this study will help to determine whether this technology-enhanced self-management intervention improves self-management ability and their health outcomes for people living with RA. A limitation of this study is that participants will need to self-report their symptoms, disease status, and treatment use through questionnaires on the OPERAS web app. The user-friendly interface, reminder emails from the research staff, and tailored guidance from PTs will encourage participants to actively engage with the app.\n\nTrial Registration. Date of last update in ClinicalTrials.gov: January 2, 2019\nClinicalTrials.gov Identifier: NCT03404245",
+      "corpusId": 242626165,
+      "url": "https://api.semanticscholar.org/CorpusId:242626165",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Efficacy of a Web-Based Self-Management Enhancing Program for Patients with Rheumatoid Arthritis: Explorative Randomized Controlled Trial",
+      "authors": [
+        {
+          "name": "R. Zuidema",
+          "id": "3773144"
+        },
+        {
+          "name": "S. van Dulmen",
+          "id": "3678586"
+        },
+        {
+          "name": "M. N. D. Nijhuis-van der Sanden",
+          "id": "1398082341"
+        },
+        {
+          "name": "I. Meek",
+          "id": "6011823"
+        },
+        {
+          "name": "C. V. D. van den Ende",
+          "id": "7997081"
+        },
+        {
+          "name": "J. Fransen",
+          "id": "1845817"
+        },
+        {
+          "name": "B. V. van Gaal",
+          "id": "3627919"
+        }
+      ],
+      "year": 2019,
+      "venue": "Journal of Medical Internet Research",
+      "score": 0.7475580618435772,
+      "abstract": "Background Web-based self-management enhancing programs have the potential to support patients with rheumatoid arthritis (RA) in their self-management; for example, improve their health status by increasing their self-efficacy or taking their prescribed medication. We developed a Web-based self-management enhancing program in collaboration with RA patients and professionals as co-designers on the basis of the intervention mapping framework. Although self-management programs are complex interventions, it is informative to perform an explorative randomized controlled trial (RCT) before embarking on a larger trial. Objective This study aimed to evaluate the efficacy of a Web-based self-management enhancing program for patients with RA and identify outcome measures most likely to capture potential benefits. Methods A multicenter exploratory RCT was performed with an intervention group and a control group. Both groups received care as usual. In addition, the intervention group received 12 months of access to a Web-based self-management program. Assessment occurred at baseline, 6 months, and 12 months. Outcome measures included self-management behavior (Patient Activation Measurement, Self-Management Ability Scale), self-efficacy (Rheumatoid Arthritis task-specific Self-Efficacy, Perceived Efficacy in Patient-Physician Interaction), general health status (RAND-36), focus on fatigue (Modified Pain Coping Inventory for Fatigue), and perceived pain and fatigue (Numeric Rating Scales). A linear mixed model for repeated measures, using the intention-to-treat principle, was applied to study differences between the patients in the intervention (n=78) and control (n=79) groups. A sensitivity analysis was performed in the intervention group to study the influence of patients with high (N=30) and low (N=40) use of the intervention. Results No positive effects were found regarding the outcome measurements. Effect sizes were low. Conclusions Based on these results, it is not possible to conclude on the positive effects of the intervention or to select outcome measures to be regarded as the primary/main or secondary outcomes for a future trial. A process evaluation should be performed to provide more insight into the low compliance with and effectiveness of the intervention. This can determine for whom this sort of program will work and help to fine-tune the inclusion criteria. Trial Registration Netherlands Trial Register NTR4871; https://www.trialregister.nl/trial/4726",
+      "corpusId": 81146536,
+      "url": "https://api.semanticscholar.org/CorpusId:81146536",
+      "pubmed_id": "31038461",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2196/12463",
+        "matched_title": "Efficacy of a Web-Based Self-Management Enhancing Program for Patients with Rheumatoid Arthritis: Explorative Randomized Controlled Trial.",
+        "matched_pubdate": "2019 Apr 30",
+        "matched_source": "J Med Internet Res"
+      }
+    },
+    {
+      "title": "A mobile app using therapeutic exercise and education for self-management in patients with hand rheumatoid arthritis: a randomized controlled trial protocol",
+      "authors": [
+        {
+          "name": "Pablo Rodríguez-Sánchez-Laulhé",
+          "id": "2003032728"
+        },
+        {
+          "name": "L. Luque-Romero",
+          "id": "1436021681"
+        },
+        {
+          "name": "Jesús Blanquero",
+          "id": "89084855"
+        },
+        {
+          "name": "A. Suero-Pineda",
+          "id": "1435641712"
+        },
+        {
+          "name": "Ángela Biscarri-Carbonero",
+          "id": "1933714194"
+        },
+        {
+          "name": "Francisco José Barrero-García",
+          "id": "1933698588"
+        },
+        {
+          "name": "A. M. Heredia-Rizo",
+          "id": "1398368171"
+        }
+      ],
+      "year": 2020,
+      "venue": "Trials",
+      "score": 0.7453117600073618,
+      "abstract": "Background Therapeutic exercise is a safe and cost-effective approach to alleviate hand rheumatoid arthritis (RA)-related symptoms. This study aims to investigate the differences in self-management between a smartphone app (CareHand), using hand exercises and educational advices, compared with a standard approach, on hand overall function, pain intensity, stiffness, and grip and pinch strength in patients with hand RA. Methods The project is a prospective, longitudinal, superiority, randomized controlled trial. Fifty-eight participants with hand RA will be randomly assigned into an experimental group (CareHand app) or a control group (conventional treatment). Control intervention involves a paper sheet with exercises and recommendations, and the experimental group includes the use of a smartphone app, which provides individualized exercise programs, self-management, and educational strategies to promote adherence to treatment. Both intervention protocols will last for 3 months. The principal investigator will conduct an educational session at baseline for all participants. Primary outcome comprises the overall hand function, assessed with the Michigan Hand Outcome Questionnaire (MHQ). Secondary outcomes include self-reported functional ability with the Quick DASH questionnaire, self-reported pain intensity and morning stiffness using a Visual Analogue Scale (VAS), and hand grip and pinch strength (dynamometer). Outcome measures will be collected at baseline, and at 1 month and 3-month follow-up. Discussion This study will evaluate the effectiveness of a tele-rehabilitation tool, which uses exercise and self-management strategies, compared to a conventional approach, in patients with hand RA. The smartphone app will allow to monitor the patient’s status and to enhance patient-therapist communication. Some limitations may be related to the short follow-up duration and the lack of evaluation of psychosocial factors. Overall, this new way of promoting long-term effects in patients with a chronic rheumatic disease could be feasible and easy to implement in daily life clinical practice and current musculoskeletal care. Trial registration ClinicalTrials.gov NCT04263974 . Registered on 7 March 2020. Date of last update 15 April 2020. Ethics committee code: PI_RH_2018.",
+      "corpusId": 221569083,
+      "url": "https://api.semanticscholar.org/CorpusId:221569083",
+      "pubmed_id": "32912305",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s13063-020-04713-4",
+        "matched_title": "A mobile app using therapeutic exercise and education for self-management in patients with hand rheumatoid arthritis: a randomized controlled trial protocol.",
+        "matched_pubdate": "2020 Sep 10",
+        "matched_source": "Trials"
+      }
+    },
+    {
+      "title": "Effect of a self-management intervention for newly diagnosed inflammatory arthritis: study protocol for a randomized controlled trial",
+      "authors": [
+        {
+          "name": "Luise Holberg Lindgren",
+          "id": "2288900749"
+        },
+        {
+          "name": "T. Thomsen",
+          "id": "32400890"
+        },
+        {
+          "name": "M. Hetland",
+          "id": "2276616278"
+        },
+        {
+          "name": "M. Aadahl",
+          "id": "2249354901"
+        },
+        {
+          "name": "A. de Thurah",
+          "id": "133583617"
+        },
+        {
+          "name": "Robin Christensen",
+          "id": "2260502045"
+        },
+        {
+          "name": "B. Esbensen",
+          "id": "5018038"
+        }
+      ],
+      "year": 2025,
+      "venue": "Trials",
+      "score": 0.7335373531481444,
+      "abstract": "Patients newly diagnosed with inflammatory arthritis (IA) often face substantial physical, psychological, and social challenges despite advances in pharmacological management. To investigate the efficacy of the “Newly diagnosed with Inflammatory arthritis—a Self-MAnagement intervention” (NISMA) and usual care, compared to usual care alone (control group), in adults with newly diagnosed IA. This pragmatic, multicenter randomized controlled trial (RCT) will enroll 130 adults with rheumatoid arthritis (RA), psoriatic arthritis (PsA), or axial spondyloarthritis (axSpA) recruited consecutively from three Danish hospitals and randomized 1:1 to NISMA plus usual care or usual care alone. The control group receives usual care, which consists of planned consultations with a rheumatologist and access to nurses. NISMA comprises three mandatory individual nurse-led sessions with two optional multidisciplinary group sessions delivered over 12 months. Assessments occur at baseline, 12 months (primary), and 24 months (extension). The primary outcome is the Health Education Impact Questionnaire (heiQ) “skill and technique acquisition” domain. Analyses follow the intention-to-treat principle. For the primary analysis, analysis of covariance (ANCOVA) adjusted for baseline, center, and diagnosis will estimate between-group differences with two-sided 95% CIs. Model assumptions (normality, homoscedasticity) will be checked (Q–Q plots, residual diagnostics). If violated, pre-specified alternatives (e.g., transformation, rank-based ANCOVA, or nonparametric tests) will be used. Missing data will be addressed using multiple imputation. Key secondary endpoints will be assessed in a pre-specified hierarchical (gatekeeping) order; any post hoc analyses will be exploratory. Extension analyses at 24 months will use linear mixed-effects models. This randomized controlled trial will provide essential insights about the efficacy of a targeted self-management intervention for newly diagnosed patients with inflammatory arthritis. If successful, the NISMA intervention could significantly enhance non-pharmacological management, providing a comprehensive approach to addressing both physical and psychological needs in caring for patients newly diagnosed with IA. ClinicalTrials.gov, nr.: NCT06533423. Registered on December 19, 2024. 22.09.2025. Version 2.",
+      "corpusId": 283352135,
+      "url": "https://api.semanticscholar.org/CorpusId:283352135",
+      "pubmed_id": "41310759",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s13063-025-09192-z",
+        "matched_title": "Effect of a self-management intervention for newly diagnosed inflammatory arthritis: study protocol for a randomized controlled trial.",
+        "matched_pubdate": "2025 Nov 27",
+        "matched_source": "Trials"
+      }
+    },
+    {
+      "title": "A Smartphone App for Self-Monitoring of Rheumatoid Arthritis Disease Activity to Assist Patient-Initiated Care: Protocol for a Randomized Controlled Trial",
+      "authors": [
+        {
+          "name": "B. Seppen",
+          "id": "115856081"
+        },
+        {
+          "name": "M. L'ami",
+          "id": "1401775633"
+        },
+        {
+          "name": "Sharon Duarte dos Santos Rico",
+          "id": "118327340"
+        },
+        {
+          "name": "M. T. ter Wee",
+          "id": "116811407"
+        },
+        {
+          "name": "F. Turkstra",
+          "id": "4701473"
+        },
+        {
+          "name": "L. Roorda",
+          "id": "3513048"
+        },
+        {
+          "name": "F. Catarinella",
+          "id": "12446851"
+        },
+        {
+          "name": "D. van Schaardenburg",
+          "id": "5287662"
+        },
+        {
+          "name": "Michael Nurmohamed",
+          "id": "2257579119"
+        },
+        {
+          "name": "M. Boers",
+          "id": "144604225"
+        },
+        {
+          "name": "W. Bos",
+          "id": "47288554"
+        }
+      ],
+      "year": 2019,
+      "venue": "JMIR Research Protocols",
+      "score": 0.7297279722258032,
+      "abstract": "Background Telemedicine based on self-measurement of disease activity could be one of the key components to create the health care system of the future. Previous publications in various medical fields have shown that it is possible to safely telemonitor patients while reducing the number of outpatient clinic visits. For this purpose, we developed a mobile phone app for patients with rheumatoid arthritis (RA), which allows them to self-monitor their disease. Objective The objective of this study is to assess the safety and efficacy of self-initiated care assisted by a smartphone app in patients with RA. Methods This is a randomized controlled trial that will be performed for 1 year. A total of 176 patients with RA will be randomized to either self-initiated care with only one scheduled follow-up consultation assisted by our app or usual care. The coprimary outcome measures are the number of outpatient clinic consultations with a rheumatologist taking place during the trial period and the mean disease activity score as measured by the disease activity score 28 (DAS28) at 12 months. The secondary outcomes are patient satisfaction, adherence, patient empowerment, and cost evaluation of health care assisted by the app. Results Recruitment started in May 2019, and up to 18 months will be required for completion of recruitment. Thus far, 78 patients have been randomized, and thus far, experiences with the app have been positive. The study results are expected to be published by the end of 2021. Conclusions The completion of this study will provide important data regarding the following: (1) safety of self-initiated care supported by a smartphone app in terms of DAS28 and (2) efficacy of lowering health care usage with this new strategy of providing health care. Trial Registration Netherlands Trial Register NL7715; https://www.trialregister.nl/trial/7715 International Registered Report Identifier (IRRID) DERR1-10.2196/15105",
+      "corpusId": 211221865,
+      "url": "https://api.semanticscholar.org/CorpusId:211221865",
+      "pubmed_id": "32130182",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2196/15105",
+        "matched_title": "A Smartphone App for Self-Monitoring of Rheumatoid Arthritis Disease Activity to Assist Patient-Initiated Care: Protocol for a Randomized Controlled Trial.",
+        "matched_pubdate": "2020 Feb 19",
+        "matched_source": "JMIR Res Protoc"
+      }
+    },
+    {
+      "title": "Effects of needs-based patient education on self-efficacy and health outcomes in people with rheumatoid arthritis: a multicentre, single blind, randomised controlled trial",
+      "authors": [
+        {
+          "name": "Mwidimi Ndosi",
+          "id": "4700475"
+        },
+        {
+          "name": "D. Johnson",
+          "id": "2185921941"
+        },
+        {
+          "name": "T. Young",
+          "id": "50673724"
+        },
+        {
+          "name": "B. Hardware",
+          "id": "7683832"
+        },
+        {
+          "name": "J. Hill",
+          "id": "153431561"
+        },
+        {
+          "name": "C. Hale",
+          "id": "49352392"
+        },
+        {
+          "name": "J. Maxwell",
+          "id": "38977727"
+        },
+        {
+          "name": "E. Roussou",
+          "id": "7570103"
+        },
+        {
+          "name": "A. Adebajo",
+          "id": "34982849"
+        }
+      ],
+      "year": 2015,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.7236550612747474,
+      "abstract": "Objectives The Educational Needs Assessment Tool (ENAT) is a self-completed questionnaire, which allows patients with arthritis to prioritise their educational needs. The aim of this study was to evaluate the effects of needs-based patient education on self-efficacy, health outcomes and patient knowledge in people with rheumatoid arthritis (RA). Methods Patients with RA were enrolled into this multicentre, single-blind, parallel-group, pragmatic randomised controlled trial. Patients were randomised to either the intervention group (IG) where patients completed ENAT, responses of which were used by the clinical nurse specialist to guide patient education; or control group (CG) in which they received patient education without the use of ENAT. Patients were seen at weeks 0, 16 and 32. The primary outcome was self-efficacy (Arthritis Self Efficacy Scale (ASES)-Pain and ASES-Other symptoms). Secondary outcomes were health status (short form of Arthritis Impact Measurement Scale 2, AIMS2-SF) and patient knowledge questionnaire-RA. We investigated between-group differences using analysis of covariance, adjusting for baseline variables. Results A total of 132 patients were recruited (IG=70 and CG=62). Their mean (SD) age was 54 (12.3) years, 56 (13.3) years and disease duration 5.2 (4.9) years, 6.7 (8.9) years for IG and CG, respectively. There were significant between-group differences, in favour of IG at week 32 in the primary outcomes, ASES-Pain, mean difference (95% CI) −4.36 (1.17 to 7.55), t=−2.72, p=0.008 and ASES-Other symptoms, mean difference (95% CI) −5.84 (2.07 to 9.62), t=−3.07, p=0.003. In secondary outcomes, the between-group differences favoured IG in AIMS2-SF Symptoms and AIMS2-SF Affect. There were no between-group differences in other secondary outcomes. Conclusions The results suggest that needs-based education helps improve patients’ self-efficacy and some aspects of health status. Trial registration number ISRCTN51523281.",
+      "corpusId": 9798196,
+      "url": "https://doi.org/10.1136/annrheumdis-2014-207171",
+      "pubmed_id": "26162769",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/annrheumdis-2014-207171",
+        "matched_title": "Effects of needs-based patient education on self-efficacy and health outcomes in people with rheumatoid arthritis: a multicentre, single blind, randomised controlled trial.",
+        "matched_pubdate": "2016 Jun",
+        "matched_source": "Ann Rheum Dis"
+      }
+    },
+    {
+      "title": "A self-management intervention for newly diagnosed with inflammatory arthritis: a randomized controlled feasibility and fidelity study",
+      "authors": [
+        {
+          "name": "Luise Holberg Lindgren",
+          "id": "2288900749"
+        },
+        {
+          "name": "T. Thomsen",
+          "id": "32400890"
+        },
+        {
+          "name": "M. L. Hetland",
+          "id": "2305680890"
+        },
+        {
+          "name": "M. Aadahl",
+          "id": "2305708786"
+        },
+        {
+          "name": "Sara Danshøj Kristensen",
+          "id": "2294530364"
+        },
+        {
+          "name": "Annette de Thurah",
+          "id": "2276500085"
+        },
+        {
+          "name": "B. Esbensen",
+          "id": "5018038"
+        }
+      ],
+      "year": 2025,
+      "venue": "Pilot and Feasibility Studies",
+      "score": 0.6538940961647253,
+      "abstract": "Inflammatory arthritis affects approximately 2–3% of adults worldwide. For patients newly diagnosed with arthritis, effective self-management is crucial, as they often face several physiological, emotional, and social challenges. A self-management intervention called NISMA was thus developed to cater to this group. This study aimed to evaluate the feasibility and fidelity of this intervention before conducting a full-scale randomized controlled trial. This feasibility study was conducted as a single-center randomized controlled trial. Twenty participants were expected to be sufficient for assessing the feasibility outcomes. The control group received only the usual care, while the intervention group received the NISMA intervention in addition, which involved individual and group sessions in a multidisciplinary setting. Feasibility was evaluated based on the recruitment, data collection, retention, and randomization processes. The patient-reported outcome measures and clinical measures were collected to review their potential for inclusion in a future randomized controlled trial. Fidelity was assessed by using documentation sheets filled in by the health professionals and audio recordings of the sessions to examine whether the intervention’s principles and components were adequately addressed. Among 47 eligible patients, we recruited 23 participants during a period of 4 months. The recruitment rate was 47% and the retention rate 91%. Randomization, although accepted, led to some disappointment in the control group. Data collection was effective, with only minimal missing data (< 1%). The fidelity was considered as high, as results indicated that nurses effectively engaged in collaborative partnerships with patients, utilizing planned questioning techniques and self-management strategies for problem-solving and resource utilization. However, action planning was inconsistently applied. The study demonstrated the feasibility and the overall high fidelity of delivering the NISMA intervention to patients newly diagnosed with inflammatory arthritis. The insights from the study are useful for identifying the areas that require modifications before initiating a randomized controlled trial. ClinicalTrials.gov ID: NCT06063252. Registered 02 October 2023 — retrospectively registered.",
+      "corpusId": 276286632,
+      "url": "https://doi.org/10.1186/s40814-025-01601-z",
+      "pubmed_id": "39934926",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1186/s40814-025-01601-z",
+        "matched_title": "A self-management intervention for newly diagnosed with inflammatory arthritis: a randomized controlled feasibility and fidelity study.",
+        "matched_pubdate": "2025 Feb 11",
+        "matched_source": "Pilot Feasibility Stud"
+      }
+    },
+    {
+      "title": "Future challenges in rheumatology – is telemedicine the solution?",
+      "authors": [
+        {
+          "name": "A. Thurah",
+          "id": "4312049"
+        },
+        {
+          "name": "A. Marques",
+          "id": "143824088"
+        },
+        {
+          "name": "S. D. Souza",
+          "id": "113857209"
+        },
+        {
+          "name": "C. Crowson",
+          "id": "5034070"
+        },
+        {
+          "name": "E. Myasoedova",
+          "id": "145519492"
+        }
+      ],
+      "year": 2022,
+      "venue": "Therapeutic Advances in Musculoskeletal Disease",
+      "score": 0.6519939476646356,
+      "abstract": "The COVID-19 pandemic has become an unprecedented facilitator of rapid telehealth expansion within rheumatology. Due to demographic shifts and workforce shortages in the future, new models of rheumatology care will be expected to emerge, with a growing footprint of telehealth interventions. Telehealth is already being used to monitor patients with rheumatic diseases and initial studies show good results in terms of safety and disease progression. It is being used as a tool for appointment prioritization and triage, and there is good evidence for using telehealth in rehabilitation, patient education and self-management interventions. Electronic patient-reported outcomes (ePROs) offer a number of long-term benefits and opportunities, and a routine collection of ePROs also facilitates epidemiological research that can inform future healthcare delivery. Telehealth solutions should be developed in close collaboration with all stakeholders, and the option of a telehealth visit must not deprive patients of the possibility to make use of a conventional ‘face-to-face’ visit. Future studies should especially focus on optimal models for rheumatology healthcare delivery to patients living in remote areas who are unable to use or access computer technology, and other patient groups at risk for disparity due to technical inequity and lack of knowledge.",
+      "corpusId": 247535771,
+      "url": "https://api.semanticscholar.org/CorpusId:247535771",
+      "pubmed_id": "35321119",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1177/1759720x221081638",
+        "matched_title": "Future challenges in rheumatology - is telemedicine the solution?",
+        "matched_pubdate": "2022",
+        "matched_source": "Ther Adv Musculoskelet Dis"
+      }
+    },
+    {
+      "title": "Preparing to deliver a stepped wedge cluster-randomised trial to test the effectiveness of daily symptom tracking integrated into electronic health records for managing rheumatoid arthritis: a mixed-methods feasibility trial",
+      "authors": [
+        {
+          "name": "K. Druce",
+          "id": "7968717"
+        },
+        {
+          "name": "Yumna Masood",
+          "id": "2298331612"
+        },
+        {
+          "name": "Helen Chadwick",
+          "id": "2298361594"
+        },
+        {
+          "name": "S. Skyrme",
+          "id": "2298335820"
+        },
+        {
+          "name": "D. Griffiths-Jones",
+          "id": "2298331406"
+        },
+        {
+          "name": "Ramiro D Bravo Santisteban",
+          "id": "2345900556"
+        },
+        {
+          "name": "Peter Bower",
+          "id": "2326099556"
+        },
+        {
+          "name": "Jill Firth",
+          "id": "2283538278"
+        },
+        {
+          "name": "C. Sharp",
+          "id": "2247017786"
+        },
+        {
+          "name": "Christopher J Armitage",
+          "id": "2326097708"
+        },
+        {
+          "name": "D. Dowding",
+          "id": "2298331736"
+        },
+        {
+          "name": "John McBeth",
+          "id": "2237453477"
+        },
+        {
+          "name": "Caroline Sanders",
+          "id": "2263930848"
+        },
+        {
+          "name": "William G. Dixon",
+          "id": "2283537873"
+        },
+        {
+          "name": "S. N. van der Veer",
+          "id": "10290582"
+        }
+      ],
+      "year": 2025,
+      "venue": "BMC Rheumatology",
+      "score": 0.6368654081874475,
+      "abstract": "We sought to assess the feasibility of a stepped-wedge cluster-randomised trial testing the effectiveness of a complex mHealth intervention called REMORA: a co-designed smartphone app enabling daily, weekly and monthly symptom tracking integrated into electronic health records for people with rheumatoid arthritis (RA). We conducted a mixed-methods feasibility trial using a convergent approach with some explanatory sequential elements. Patients were eligible to take part if they were older than ≥18 years of age, had (suspected) RA or undifferentiated inflammatory arthritis, and consented to take part from two outpatient departments. We analysed quantitative app and electronic health record data descriptively. We analysed qualitative data from interviews and clinic observations thematically. We assessed four feasibility domains: recruitment and consent (target: 15 patients per site), intervention uptake (≥70% of recruited participants completed on-boarding, i.e., registered with the app and submitted at least one symptom report), intervention adherence (>50% daily symptom reports provided), and measuring disease activity as the primary outcome (scores available for ≥80% of people with a follow-up clinic visit). Due to time constraints, we only recruited patients to the intervention group, leaving us unable to test the logistics of randomising sites in accordance with the trial’s cluster stepped wedge design. Of 130 people screened, 52 consented. Of those, 32 (62%) completed on-boarding. On-boarded participants provided symptom data on 2384/3771 (63%) of possible days. Among the 48 people who had ≥1 follow-up appointment, at least one disease activity scored was obtained for 46 (96%) of them. Factors related to intervention uptake formed the biggest threat to trial feasibility, including lack of clarity of communication and guidance, access to technology, and personal challenges (e.g., being busy or unwell). We found that delivering a trial to test the effectiveness of integrated symptom tracking in rheumatology outpatient settings was feasible. The future REMORA trial will contribute to the much-needed evidence base for the impact of integrated symptom tracking on care delivery and patient outcomes, including decision-making, patient experience, disease activity, and symptom burden. This feasibility trial was registered at https://www.isrctn.com/ on 23-Jan-2023 (ISRCTN21226438).",
+      "corpusId": 276419299,
+      "url": "https://api.semanticscholar.org/CorpusId:276419299",
+      "pubmed_id": "39962625",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s41927-025-00464-4",
+        "matched_title": "Preparing to deliver a stepped wedge cluster-randomised trial to test the effectiveness of daily symptom tracking integrated into electronic health records for managing rheumatoid arthritis: a mixed-methods feasibility trial.",
+        "matched_pubdate": "2025 Feb 17",
+        "matched_source": "BMC Rheumatol"
+      }
+    },
+    {
+      "title": "Scoping review on remote disease monitoring in rheumatoid arthritis: does it actually help the patient?",
+      "authors": [
+        {
+          "name": "Prakashini Mruthyunjaya",
+          "id": "2257328790"
+        },
+        {
+          "name": "Sakir Ahmed",
+          "id": "37008673"
+        },
+        {
+          "name": "D. Danda",
+          "id": "4793606"
+        }
+      ],
+      "year": 2024,
+      "venue": "Exploration of Musculoskeletal Diseases",
+      "score": 0.6263910367109955,
+      "abstract": "Remote monitoring technologies (RMTs) are an emerging tool for assessing, monitoring, and following up on patients with chronic diseases including autoimmune rheumatic diseases (AIRDs). The best use of these exponentially expanding technologies warrants optimum evidence. Rheumatoid arthritis (RA) is a chronic inflammatory process that requires close monitoring of disease activity, response to treatment, and the potential adverse effects. Though there are several studies that have explored RMTs in RA, there is little head-to-head comparison between the individual technologies or the standard of care. Before investing in potentially high-cost strategies like RMTs, it is prudent to estimate their pragmatic role in the management and potentially with long-term follow-up including drug titration. A thorough search of the literature was conducted across PubMed/MEDLINE, Scopus, and WebOfScience databases for recent and relevant literature looking at the acceptance, practical utility, and outcomes in RA using RMTs. This scoping review aims to summarize the current level of evidence in favor of RMTs, estimate real-world benefits and costs, potential hazards and limitations, and finally, identify future studies needed before endeavoring to mainstream RMTs. It emphasizes randomized trials using RMTs, patients reported outcomes and disparities in the usage of RMTs.",
+      "corpusId": 267237168,
+      "url": "https://api.semanticscholar.org/CorpusId:267237168",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "The Impact of Occupational Therapy on the Self‐Management of Rheumatoid Arthritis: A Mixed Methods Systematic Review",
+      "authors": [
+        {
+          "name": "James P Gavin",
+          "id": "2240899358"
+        },
+        {
+          "name": "Laura Rossiter",
+          "id": "112910239"
+        },
+        {
+          "name": "Vicky Fenerty",
+          "id": "1781264149"
+        },
+        {
+          "name": "Jenny Leese",
+          "id": "39760339"
+        },
+        {
+          "name": "Jo Adams",
+          "id": "2261366305"
+        },
+        {
+          "name": "Alison Hammond",
+          "id": "2244114004"
+        },
+        {
+          "name": "Eileen Davidson",
+          "id": "2028817815"
+        },
+        {
+          "name": "Catherine L Backman",
+          "id": "2263727419"
+        }
+      ],
+      "year": 2024,
+      "venue": "ACR Open Rheumatology",
+      "score": 0.6262456638789962,
+      "abstract": "To determine the impact of occupational therapy (OT) on the self‐management of function, pain, fatigue, and lived experience for people living with rheumatoid arthritis (RA).",
+      "corpusId": 267573358,
+      "url": "https://api.semanticscholar.org/CorpusId:267573358",
+      "pubmed_id": "38332322",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/acr2.11650",
+        "matched_title": "The Impact of Occupational Therapy on the Self-Management of Rheumatoid Arthritis: A Mixed Methods Systematic Review.",
+        "matched_pubdate": "2024 Apr",
+        "matched_source": "ACR Open Rheumatol"
+      }
+    },
+    {
+      "title": "An Online Tailored Self-Management Program for Patients With Rheumatoid Arthritis: A Developmental Study",
+      "authors": [
+        {
+          "name": "R. Zuidema",
+          "id": "3773144"
+        },
+        {
+          "name": "B. V. van Gaal",
+          "id": "3627919"
+        },
+        {
+          "name": "S. van Dulmen",
+          "id": "3678586"
+        },
+        {
+          "name": "H. Repping-Wuts",
+          "id": "1401157281"
+        },
+        {
+          "name": "L. Schoonhoven",
+          "id": "4941358"
+        }
+      ],
+      "year": 2015,
+      "venue": "JMIR Research Protocols",
+      "score": 0.6182600326559465,
+      "abstract": "Background Every day rheumatoid arthritis (RA) patients make many decisions about managing their disease. An online, computer-tailored, self-management program can support this decision making, but development of such a program requires the active participation of patients. Objective To develop an online, computer-tailored, self-management program integrated with the nursing care, as nurses have an important role in supporting self-management behavior. Methods The intervention mapping framework was used to develop the program. Development was a multistep process: (1) needs assessment; (2) developing program and change objectives in a matrix; (3) selecting theory-based intervention methods and practical application strategies; (4) producing program components; (5) planning and adoption, implementation, and sustainability; and (6) planning for evaluation. Results After conducting the needs assessment (step 1), nine health-related problems were identified: (1) balancing rest and activity, (2) setting boundaries, (3) asking for help and support, (4) use of medicines, (5) communicating with health professionals, (6) use of assistive devices, (7) performing physical exercises, (8) coping with worries, and (9) coping with RA. After defining performance and change objectives (step 2), we identified a number of methods which could be used to achieve them (step 3), such as provision of general information about health-related behavior, self-monitoring of behavior, persuasive communication, modeling, and self-persuasion and tailoring. We described and operationalized these methods in texts, videos, exercises, and a medication intake schedule. The resulting program (step 4) consisted of an introduction module and nine modules dealing with health-related problems. The content of these modules is tailored to the user’s self-efficacy, and patients can use the online program as often as they want, working through a module or modules at their own speed. After implementation (step 5), the program will be evaluated in a two-center pilot trial involving 200 RA patients. Log-in data and qualitative interviews will used for a process evaluation. Conclusions The intervention mapping framework was used to guide development of an online computer-tailored self-management program via a process which could serve as a model for the development of other interventions. A pilot randomized controlled trial (RCT) will provide insight into the important outcome measures in preparation for a larger RCT. The process evaluation will provide insight into how RA patients use the program and the attrition rate. Trial Registration Netherlands Trial Register (NTR): NTR4871; http://www.trialregister.nl/trialreg/admin/rctview.asp?TC=4871 [accessed 13-NOV-15] http://www.webcitation.org/6d1ZyIoEy",
+      "corpusId": 1289424,
+      "url": "https://api.semanticscholar.org/CorpusId:1289424",
+      "pubmed_id": "26706653",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2196/resprot.4571",
+        "matched_title": "An Online Tailored Self-Management Program for Patients With Rheumatoid Arthritis: A Developmental Study.",
+        "matched_pubdate": "2015 Dec 25",
+        "matched_source": "JMIR Res Protoc"
+      }
+    },
+    {
+      "title": "Efficacy and safety of a mobile app intervention in patients with inflammatory arthritis: a prospective pilot study",
+      "authors": [
+        {
+          "name": "D. Fedkov",
+          "id": "74156209"
+        },
+        {
+          "name": "A. Berghofen",
+          "id": "113056707"
+        },
+        {
+          "name": "C. Weiss",
+          "id": "2134977446"
+        },
+        {
+          "name": "C. Peine",
+          "id": "2185159369"
+        },
+        {
+          "name": "F. Lang",
+          "id": "2053973650"
+        },
+        {
+          "name": "J. Knitza",
+          "id": "46177506"
+        },
+        {
+          "name": "S. Kuhn",
+          "id": "2128334850"
+        },
+        {
+          "name": "B. Krämer",
+          "id": "3694739"
+        },
+        {
+          "name": "J. Leipe",
+          "id": "2243232900"
+        }
+      ],
+      "year": 2022,
+      "venue": "Rheumatology International",
+      "score": 0.5963280083010705,
+      "abstract": "EULAR highlighted the essential role of digital health in increasing self-management and improving clinical outcomes in patients with arthritis. The objective of this study was to evaluate the efficacy and safety of the digital health application (DHA) in patients with inflammatory arthritis. We assessed demographic parameters, treatment regimen, disease activity, and other patient-reported outcomes at baseline and after 4 weeks of DHA use added to standard care treatment. Of 17 patients, who completed the study, 7 (41.2%) patients were male, ranging from 19 to 63 (40.5 ± 12.2) years. No significant change in antirheumatic treatment was observed during the study. Statistically significant improvements (p < 0.05) were noted for health-related quality of life (increase in Physical Component Summary of Short Form-36 (SF-36) by 23.6%) and disease activity (decrease of Clinical Disease Activity Index and Simple Disease Activity Index by 38.4% and 39.9%, respectively). Clinically significant improvement was demonstrated for SF-36 Total Score (+ 14.4%), disease activity (Rheumatoid Arthritis Disease Activity Index− 5 to 15.9%), and depression (Patient Health Questionnaire− 9 to 13.5%). None of the efficacy parameters showed negative trends. No adverse events were reported throughout the study. The usability level was high i.e., the mean mHealth Application Usability Questionnaire Score of 5.96 (max.: 7.0) demonstrated a high level of application usability. This suggests that using a personalized disease management program based on DHA significantly improves several measures of patient-reported outcomes and disease activity in patients with inflammatory arthritis in a timely manner. These findings highlight the potential of complementary digital therapy in patients with inflammatory arthritis.",
+      "corpusId": 252310430,
+      "url": "https://doi.org/10.1007/s00296-022-05175-4",
+      "pubmed_id": "36112186",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1007/s00296-022-05175-4",
+        "matched_title": "Efficacy and safety of a mobile app intervention in patients with inflammatory arthritis: a prospective pilot study.",
+        "matched_pubdate": "2022 Dec",
+        "matched_source": "Rheumatol Int"
+      }
+    },
+    {
+      "title": "Short term effectiveness and experiences of a peer guided web-based self-management intervention for young adults with juvenile idiopathic arthritis",
+      "authors": [
+        {
+          "name": "J. Ammerlaan",
+          "id": "2073199408"
+        },
+        {
+          "name": "H. van Os-Medendorp",
+          "id": "1399300901"
+        },
+        {
+          "name": "N. D. de Boer-Nijhof",
+          "id": "1422193196"
+        },
+        {
+          "name": "L. Scholtus",
+          "id": "7860048"
+        },
+        {
+          "name": "A. Kruize",
+          "id": "6028771"
+        },
+        {
+          "name": "P. V. van Pelt",
+          "id": "52225677"
+        },
+        {
+          "name": "B. Prakken",
+          "id": "2509931"
+        },
+        {
+          "name": "H. Bijlsma",
+          "id": "5338961"
+        }
+      ],
+      "year": 2017,
+      "venue": "Pediatric Rheumatology Online Journal",
+      "score": 0.5902485426068826,
+      "abstract": "BackgroundA web-based self-management intervention guided by peer-trainers was developed to support young adults’ self-management in coping with Juvenile Idiopathic Arthritis (JIA). To investigate its effectiveness, a randomized controlled trial (RCT) was conducted. In addition, the content of the chat and participants’ goals were studied to identify underlying processes.MethodsAn RCT with a six-month follow up period was conducted among 72 young adults with JIA, aged between 16 and 25 years old, randomly assigned to the intervention or to the usual care control group. After 24 weeks, in both groups 24 participants completed all measurements. Intentions to treat analyses were carried out by means of linear mixed models for longitudinal measurements. With self-efficacy as primary outcome, self-management, disease activity, quality of life, absenteeism of school/work, health care medication use and adherence to the intervention were studied. The participants’ goals, personal achievements, interactions on the chat, and their appreciation of the intervention were analyzed using thematic analyses.ResultsNo significant differences were found on self-efficacy, quality of life, and self-management between the participants of the control group and the intervention group. In the intervention group, modeling and sharing experiences were the most recognized themes. Fifty-five goals were formulated and divided into the following categories: improvement and maintaining balance, setting and recognizing boundaries, communicating and coping with incomprehension. Adherence, appreciation of the own learning experience, and personal achievements were rated positively.ConclusionThe web-based intervention did not lead to an improvement of self-efficacy. However, additional qualitative analyses showed that the intervention was appreciated and valuable for the participants. More research is needed on how to measure the added value of this intervention compared to the usual care.Trial registrationTrial registration number NTR4679.",
+      "corpusId": 23836779,
+      "url": "https://api.semanticscholar.org/CorpusId:23836779",
+      "pubmed_id": "29029616",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12969-017-0201-1",
+        "matched_title": "Short term effectiveness and experiences of a peer guided web-based self-management intervention for young adults with juvenile idiopathic arthritis.",
+        "matched_pubdate": "2017 Oct 13",
+        "matched_source": "Pediatr Rheumatol Online J"
+      }
+    },
+    {
+      "title": "Evaluating usability, adherence and clinical benefit of a new digital heath application in rheumatoid arthritis: a pilot feasibility study",
+      "authors": [
+        {
+          "name": "Valerie Schlaht",
+          "id": "2403500681"
+        },
+        {
+          "name": "Thomas Lenzen",
+          "id": "2403497519"
+        },
+        {
+          "name": "Tim Fellerhoff",
+          "id": "2403485657"
+        },
+        {
+          "name": "M. Binder",
+          "id": "2401575400"
+        },
+        {
+          "name": "A. Liphardt",
+          "id": "3999744"
+        },
+        {
+          "name": "Sebastian Rudolf",
+          "id": "2333532069"
+        },
+        {
+          "name": "Paloma Palm von Alten Blaskowitz",
+          "id": "2403490861"
+        },
+        {
+          "name": "G. Schett",
+          "id": "2164079426"
+        },
+        {
+          "name": "H. Morf",
+          "id": "51926535"
+        }
+      ],
+      "year": 2026,
+      "venue": "Rheumatology International",
+      "score": 0.5787214088029762,
+      "abstract": "Digital health interventions hold promise for improving self-management in chronic inflammatory diseases such as rheumatoid arthritis (RA). The Fimo Health App was developed to support patients with RA using a multidimensional approach combining educational modules, symptom tracking, and mind–body exercises. This pilot feasibility study aimed to evaluate the usability, adherence, and potential clinical benefit of a prototype version of the app in patients with RA. A further objective was to explore patient subgroups that may particularly gain from the intervention. In a single-arm pilot trial, 31 patients with RA used the app over 12 weeks. Usability was assessed via the System Usability Scale (SUS). Primary clinical outcomes were patient-reported quality of life (SF-36 mental and SF-36 physical = Short-Form 36 Questionnaire), fatigue (FACIT-F), and pain (Visual Rating Scale Pain = VRS Pain), Secondary outcomes included functional impairment (HAQ = Health Assessment Questionnaire), global assessment, fear of motion (TSK = Tampa Scale of Kinesiophobia) and physical activity related-health competency (PAHCO). Subgroup analyses were conducted post hoc based on clinical characteristics. Usability was high (SUS = 74.4) and engagement with core app features strong (97% any use; 70% exercise completion). Across the full cohort (n = 31), changes in the primary outcomes were small overall. Physical quality of life (SF-36) showed a within-person median increase at 6 months (Hodges–Lehmann Δ =  + 5.3; r = 0.50), while fatigue (FACIT-F) and pain (VRS) exhibited only small, non-significant numerical improvements (Δ ≈ + 1 to + 4; r ≈ 0.1–0.2). Mental quality of life (SF-36 mental) remained largely stable. In the subgroup of recently diagnosed patients (≤ 2 years; n = 12), trends were more pronounced. Physical quality of life (SF-36 physical) improved consistently at 3 and 6 months (Δ =  + 1.3 to + 8.7; r = 0.67–0.85), accompanied by small favorable shifts in fatigue (Δ ≈ –1.5 to + 2; r ≈ 0.2–0.3). Mental quality of life again (SF-36 mental) remained stable over time. The Fimo Health App is a usable and well-accepted digital intervention for patients with RA. Early diagnosed Patients showed signals of potential benefit.. These findings support the value of targeted digital tools early in the RA disease trajectory. Trial Registration number: DRKS00035194, registration date: 01.10.2024, https://drks.de/register/de/trial/DRKS00035194/preview.",
+      "corpusId": 284585975,
+      "url": "https://api.semanticscholar.org/CorpusId:284585975",
+      "pubmed_id": "41518384",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s00296-025-06060-6",
+        "matched_title": "Evaluating usability, adherence and clinical benefit of a new digital heath application in rheumatoid arthritis: a pilot feasibility study.",
+        "matched_pubdate": "2026 Jan 10",
+        "matched_source": "Rheumatol Int"
+      }
+    },
+    {
+      "title": "Remote Measurement in Rheumatoid Arthritis: Qualitative Analysis of Patient Perspectives",
+      "authors": [
+        {
+          "name": "K. White",
+          "id": "2257634036"
+        },
+        {
+          "name": "A. Ivan",
+          "id": "2052195441"
+        },
+        {
+          "name": "Ruth Williams",
+          "id": "2116028955"
+        },
+        {
+          "name": "J. Galloway",
+          "id": "47038489"
+        },
+        {
+          "name": "S. Norton",
+          "id": "2235134"
+        },
+        {
+          "name": "F. Matcham",
+          "id": "3560932"
+        }
+      ],
+      "year": 2021,
+      "venue": "JMIR Formative Research",
+      "score": 0.5736242993955774,
+      "abstract": "Background Rheumatoid arthritis (RA) is characterized by recurrent fluctuations in symptoms such as joint pain, swelling, and stiffness. Remote measurement technologies (RMTs) offer the opportunity to track symptoms continuously and in real time; therefore, they may provide a more accurate picture of RA disease activity as a complement to prescheduled general practitioner appointments. Previous research has shown patient interest in remote symptom tracking in RA and has provided evidence for its clinical validity. However, there is a lack of co-design in the current development of systems, and the features of RMTs that best promote optimal engagement remain unclear. Objective This study represents the first in a series of work that aims to develop a multiparametric RMT system for symptom tracking in RA. The objective of this study is to determine the important outcomes for disease management in patients with RA and how these can be best captured via remote measurement. Methods A total of 9 patients (aged 23-77 years; mean 55.78, SD 17.54) with RA were recruited from King’s College Hospital to participate in two semistructured focus groups. Both focus group discussions were conducted by a facilitator and a lived-experience researcher. The sessions were recorded, transcribed, independently coded, and analyzed for themes. Results Thematic analysis identified a total of four overarching themes: important symptoms and outcomes in RA, management of RA symptoms, views on the current health care system, and views on the use of RMTs in RA. Mobility and pain were key symptoms to consider for symptom tracking as well as symptom triggers. There is a general consensus that the ability to track fluctuations and transmit such data to clinicians would aid in individual symptom management and the effectiveness of clinical care. Suggestions for visually capturing symptom fluctuations in an app were proposed. Conclusions The findings support previous work on the acceptability of RMT with RA disease management and address key outcomes for integration into a remote monitoring system for RA self-management and clinical care. Clear recommendations for RMT design are proposed. Future work will aim to take these recommendations into a user testing phase.",
+      "corpusId": 232159166,
+      "url": "https://api.semanticscholar.org/CorpusId:232159166",
+      "pubmed_id": "33687333",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2196/22473",
+        "matched_title": "Remote Measurement in Rheumatoid Arthritis: Qualitative Analysis of Patient Perspectives.",
+        "matched_pubdate": "2021 Mar 9",
+        "matched_source": "JMIR Form Res"
+      }
+    },
+    {
+      "title": "RAHelp: An Online Intervention for Individuals With Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "C. Shigaki",
+          "id": "4851917"
+        },
+        {
+          "name": "K. Smarr",
+          "id": "5343783"
+        },
+        {
+          "name": "Chokkalingam Siva",
+          "id": "3313287"
+        },
+        {
+          "name": "Bin Ge",
+          "id": "2331244"
+        },
+        {
+          "name": "D. Musser",
+          "id": "32355073"
+        },
+        {
+          "name": "Rebecca Johnson",
+          "id": "2108888084"
+        }
+      ],
+      "year": 2013,
+      "venue": "Arthritis care & research",
+      "score": 0.5716862856998517,
+      "abstract": "",
+      "corpusId": 44856418,
+      "url": "https://doi.org/10.1002/acr.22042",
+      "pubmed_id": "23666599",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1002/acr.22042",
+        "matched_title": "RAHelp: an online intervention for individuals with rheumatoid arthritis.",
+        "matched_pubdate": "2013 Oct",
+        "matched_source": "Arthritis Care Res (Hoboken)"
+      }
+    },
+    {
+      "title": "Securely collecting multidimensional health information from patients with rheumatoid arthritis using smart device technology: Beneficial effect for physicians and patients",
+      "authors": [
+        {
+          "name": "K. Ikeda",
+          "id": "47719028"
+        },
+        {
+          "name": "N. Sekiguchi",
+          "id": "11080807"
+        },
+        {
+          "name": "Takuya Hirai",
+          "id": "2056401612"
+        },
+        {
+          "name": "Kana Tanji",
+          "id": "14463914"
+        },
+        {
+          "name": "Atsuko Zushi",
+          "id": "51005923"
+        },
+        {
+          "name": "Mayumi Inoue",
+          "id": "2113537108"
+        },
+        {
+          "name": "Masayuki Takasago",
+          "id": "50982736"
+        },
+        {
+          "name": "T. Komatsu",
+          "id": "51019011"
+        },
+        {
+          "name": "S. Morimoto",
+          "id": "5408688"
+        },
+        {
+          "name": "K. Yamaji",
+          "id": "34861610"
+        },
+        {
+          "name": "K. Takamori",
+          "id": "144275590"
+        },
+        {
+          "name": "N. Tamura",
+          "id": "34948704"
+        },
+        {
+          "name": "I. Sekigawa",
+          "id": "4545293"
+        }
+      ],
+      "year": 2018,
+      "venue": "Musculoskeletal Care",
+      "score": 0.5672189472458506,
+      "abstract": "AIM\nA challenge to the medical care of patients with rheumatoid arthritis (RA) is the management of the wide variety of information, including medication history and disease status, obtained from multiple sources to inform treatment decisions. To address this important clinical issue, we developed a data management system, based on smart device technology, and evaluated the benefit of this information to medical experts in helping them to form an impression of patients' health and disease, and treatment status before examination.\n\n\nMETHODS\nFifty-seven patients with RA input relevant information about their condition and responses to a self-report health assessment questionnaire into a smart device template before their scheduled examination. The efficacy of the system was assessed as a decrease in examination time at each visit, and the correlation between the self-reported Multi-Dimensional Health Assessment Questionnaire and the 28-joint Disease Activity Score 28-joint count erythrocyte sedimentation rate (DAS28-ESR), which was used as a gold standard.\n\n\nRESULTS\nExamination duration was reduced in most patients at each visit. During the study, there were no limitations for patients with poor eyesight or severe arthropathy in using the system. In fact, the majority of patients found the smart technology to be easier to use than hand-written questionnaires and health forms, regardless of age and disease activity.\n\n\nCONCLUSIONS\nOur findings support the use of smart technology to provide accurate patient-specific data and to streamline the process of medical care for patients with RA.",
+      "corpusId": 49604073,
+      "url": "https://api.semanticscholar.org/CorpusId:49604073",
+      "pubmed_id": "29956446",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/msc.1354",
+        "matched_title": "Securely collecting multidimensional health information from patients with rheumatoid arthritis using smart device technology: Beneficial effect for physicians and patients.",
+        "matched_pubdate": "2018 Dec",
+        "matched_source": "Musculoskeletal Care"
+      }
+    },
+    {
+      "title": "How to best distribute written patient education materials among patients with rheumatoid arthritis: a randomized comparison of two strategies",
+      "authors": [
+        {
+          "name": "A. Claassen",
+          "id": "48909005"
+        },
+        {
+          "name": "C. V. D. van den Ende",
+          "id": "7997081"
+        },
+        {
+          "name": "J. Meesters",
+          "id": "145090570"
+        },
+        {
+          "name": "S. Pellegrom",
+          "id": "40808271"
+        },
+        {
+          "name": "B. Kaarls-Ohms",
+          "id": "1405646474"
+        },
+        {
+          "name": "J. Vooijs",
+          "id": "40804498"
+        },
+        {
+          "name": "G. Willemsen-de Mey",
+          "id": "1753759023"
+        },
+        {
+          "name": "T. V. Vliet Vlieland",
+          "id": "46687266"
+        }
+      ],
+      "year": 2018,
+      "venue": "BMC Health Services Research",
+      "score": 0.5510381699459024,
+      "abstract": "BackgroundThe aim of this randomized controlled trial was to evaluate the effect of a ‘supply on demand’-distribution strategy, compared to an ‘unsolicited supply’-distribution strategy, on the use of a care booklet and clinical outcomes among patients with rheumatoid arthritis (RA). In addition, differences in socio-demographic and clinical characteristics between users and non-users were explored.MethodsAs part of regular care the care booklet was distributed among RA-patients of two hospitals in the Netherlands. 1000 patients received the care booklet by mail, whereas another 1000 received an information letter with the option to order the care booklet. Four months after distribution, a random sample of 810 patients (stratified by hospital and distribution method) received a questionnaire on the use of the booklet, social-demographic and clinical characteristics. To compare effects between the two distribution strategies and differences between users and non-users univariate and multilevel regression analyses were performed. Secondary analysis included a per-protocol analysis (excluding participants who did not order the care booklet).ResultsOne hundred ninety four patients in the ‘unsolicited supply’ and 176 patients in the ‘supply on demand’ group (46%) returned the questionnaire. In the ‘supply on demand’ group 106 (60.2%) participants ordered the care booklet. In total, no difference was found in use between the ‘unsolicited supply’-group (23.2%) and the ‘supply on demand’-group (21.6%) (OR 0.9 CI:0.6–1.5). However, the proportion of users among patients in the ‘supply on demand’-group who ordered the booklet (35%) was significantly higher than in the ‘unsolicited supply’-group (OR 1.9 CI:1.1–3.2). Regardless of distribution method, use of the care booklet was associated with being married (OR 2.4 CI:1.2–4.6), higher disease activity (mean difference 0.5 CI: 0.0–1.1), more activity limitations (mean difference 0.2 CI: 0.1–0.4), use of corticosteroids (OR 1.9 CI:1.0–3.5), perception of disease course as fluctuating (mean difference 1.4 CI:0.5–2.3) and higher educational needs (mean difference 9.7 CI: 2.9–16.6).ConclusionsFrom an economic and environmental perspective a ‘supply on demand’-distribution strategy could be recommended. Results of this study provide starting points to optimize further implementation strategies of a care-booklet in routine care.Trial registrationISRCTN registry (ISRCTN22703067). Retrospectively registered 27 March 2017.",
+      "corpusId": 4379429,
+      "url": "https://api.semanticscholar.org/CorpusId:4379429",
+      "pubmed_id": "29580277",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12913-018-3039-4",
+        "matched_title": "How to best distribute written patient education materials among patients with rheumatoid arthritis: a randomized comparison of two strategies.",
+        "matched_pubdate": "2018 Mar 27",
+        "matched_source": "BMC Health Serv Res"
+      }
+    },
+    {
+      "title": "Physical Exercise and Occupational Therapy at Home to Improve the Quality of Life in Subjects Affected by Rheumatoid Arthritis: A Randomized Controlled Trial",
+      "authors": [
+        {
+          "name": "D. Cerasola",
+          "id": "13312396"
+        },
+        {
+          "name": "C. Argano",
+          "id": "2844567"
+        },
+        {
+          "name": "Valeria Chiovaro",
+          "id": "2225309825"
+        },
+        {
+          "name": "T. Trivic",
+          "id": "4089308"
+        },
+        {
+          "name": "Tijana Šćepanović",
+          "id": "144169777"
+        },
+        {
+          "name": "P. Drid",
+          "id": "3497262"
+        },
+        {
+          "name": "S. Corrao",
+          "id": "2684010"
+        }
+      ],
+      "year": 2023,
+      "venue": "Healthcare",
+      "score": 0.5265352210892994,
+      "abstract": "Background: Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease that affects synovial membranes and typically causes joint pain and swelling. The resulting disability of RA is due to the erosion of cartilage and bone from the inflamed synovial tissue. Occupational therapy is a strategy and technique to minimize the joints’ fatigue and effort. At the same time, physical exercise reduces the impact of systemic manifestations and improves symptoms in RA. This study investigates the role of a 30-day joint economy intervention (integration of physical exercise and occupational therapy) at home on the quality of life of subjects with RA. Methods: One hundred and sixty outpatients with RA were enrolled in a single-center trial with PROBE design and were divided into the intervention group (IG), which combined joint protection movements and physical exercise to maintain muscle tone at home, and the control group (CG). Both groups included 80 patients. In all patients, data from the disease activity score (DAS 28), health assessment questionnaire (HAQ), and short-form health survey (SF-12) “Italian version” were collected. In addition, to IG, a brochure was distributed, and the joint economy was explained, while to CG, the brochure only was distributed. The comparison between groups was made using Fisher’s exact test for contingency tables and the z-test for the comparison of proportions. The non-parametric Mann–Whitney U test was used to compare quantitative variables between groups. The Wilcoxon signed-ranked test was used for post-intervention versus baseline comparisons. Results: Among the recruited patients, 54% were female. The mean age was 58.0 (42.4–74.7) for the CG and 54.0 (39.7–68.3) for the IG. Patients included in the IG had a higher cumulative illness rating scale for the evaluation of severity and comorbidity index (2.81 vs. 2.58; 2.91 vs. 2.59, respectively), as well as morning stiffness (33.8 vs. 25.0), even if not significant compared with CG patients. Our results indicate that, after 30 days of joint economy intervention at home, the DAS28 erythrocyte sedimentation rate (esr) and DAS28 C-reactive protein (crp), HAQ, and SF-12 mental component score were significantly improved (p = 0.005, p = 0.004, p = 0.009, and p = 0.010, respectively). Conclusions: Our findings show that the combination of physical exercise and occupational therapy positively affects patients’ quality of life with RA considering disease activity, global health status, and mental health.",
+      "corpusId": 260215025,
+      "url": "https://api.semanticscholar.org/CorpusId:260215025",
+      "pubmed_id": "37570365",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/healthcare11152123",
+        "matched_title": "Physical Exercise and Occupational Therapy at Home to Improve the Quality of Life in Subjects Affected by Rheumatoid Arthritis: A Randomized Controlled Trial.",
+        "matched_pubdate": "2023 Jul 25",
+        "matched_source": "Healthcare (Basel)"
+      }
+    },
+    {
+      "title": "From Personalised Predictions to Targeted Advice: Improving Self-Management in Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "Ali Fahmi",
+          "id": "144323618"
+        },
+        {
+          "name": "H. Soyel",
+          "id": "2994211"
+        },
+        {
+          "name": "W. Marsh",
+          "id": "35036762"
+        },
+        {
+          "name": "P. Curzon",
+          "id": "1731477"
+        },
+        {
+          "name": "Amy MacBrayne",
+          "id": "117770136"
+        },
+        {
+          "name": "F. Humby",
+          "id": "4882021"
+        }
+      ],
+      "year": 2020,
+      "venue": "EFMI Special Topic Conference",
+      "score": 0.520360390557167,
+      "abstract": "Rheumatoid arthritis (RA) is a chronic inflammatory autoimmune disease, that can lead to joint damage but also affects quality of life (QoL) including aspects such as self-esteem, fatigue, and mood. Current medical management focuses on the fluctuating disease activity to prevent progressive disability, but practical constraints mean periodic clinic appointments give little attention to the patient's experience of managing the wider consequences of chronic illness. The main aim of this study is to explore how to use patient-derived data both for clinical decision-making and for personalisation, with the first steps towards a platform for tailoring self-management advice to patients' lifestyle changes. As a result, we proposed a Bayesian network model for personalisation and have obtained promising outcomes.",
+      "corpusId": 227158298,
+      "url": "https://api.semanticscholar.org/CorpusId:227158298",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "The Clinical Impact of Electronic Patient‐Reported Outcome Measures in the Remote Monitoring of Inflammatory Arthritis: A Systematic Review and Meta‐analysis",
+      "authors": [
+        {
+          "name": "N. Arumalla",
+          "id": "2298336123"
+        },
+        {
+          "name": "Chun K D Chan",
+          "id": "2215325185"
+        },
+        {
+          "name": "M. Gibson",
+          "id": "145870337"
+        },
+        {
+          "name": "Y. Man",
+          "id": "1381676187"
+        },
+        {
+          "name": "M. Adas",
+          "id": "2008793145"
+        },
+        {
+          "name": "S. Norton",
+          "id": "2235134"
+        },
+        {
+          "name": "James B Galloway",
+          "id": "2055037773"
+        },
+        {
+          "name": "T. Garrood",
+          "id": "5186393"
+        }
+      ],
+      "year": 2023,
+      "venue": "Arthritis & Rheumatology",
+      "score": 0.5192212003337152,
+      "abstract": "The inflammatory arthritides (IAs) make up a significant proportion of conditions followed up in rheumatology clinics. These patients require regular monitoring, but this is increasingly difficult with rising patient numbers and demand on clinics. Our objective is to evaluate the clinical impact of electronic patient‐reported outcome measures (ePROMs) as a digital remote‐monitoring intervention on disease activity, treatment decisions, and health care resource use in patients with IA.",
+      "corpusId": 258785689,
+      "url": "https://api.semanticscholar.org/CorpusId:258785689",
+      "pubmed_id": "37204273",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/art.42559",
+        "matched_title": "The Clinical Impact of Electronic Patient-Reported Outcome Measures in the Remote Monitoring of Inflammatory Arthritis: A Systematic Review and Meta-analysis.",
+        "matched_pubdate": "2023 Nov",
+        "matched_source": "Arthritis Rheumatol"
+      }
+    },
+    {
+      "title": "The Effect of Educational Program on Self-efficacy of Women with Rheumatoid Arthritis: A Randomized Controlled Clinical Trial",
+      "authors": [
+        {
+          "name": "Mahboobeh Hosseini Moghadam",
+          "id": "35371448"
+        },
+        {
+          "name": "I. Jahanbin",
+          "id": "7010809"
+        },
+        {
+          "name": "M. Nazarinia",
+          "id": "6123089"
+        }
+      ],
+      "year": 2018,
+      "venue": "International Journal of Community Based Nursing and Midwifery",
+      "score": 0.516762411684099,
+      "abstract": "ABSTRACT Background: Rheumatoid Arthritis (RA) is a chronic and inflammatory disorder which is the major cause of disability in adults. Patient training is a vital aspect of nursing care for people with arthritis aiming to enable them to live as independently as possible. In the present study, we aimed to evaluate the effect of the educational program on self-efficacy on women with rheumatoid arthritis. Methods: This study was an open randomized controlled clinical trial during May to July 2013. Women (64 participants) with confirmed RA and a mean±SD age of 48.6±9.83 years were enrolled; they were randomly assigned into intervention and control groups (32 in each group). The patients in the intervention group participated in a training programs consisting of two 30-minute sessions per week for 8 consecutive weeks. Data were collected by using Arthritis Self-Efficacy Scale (ASES) and demographic questionnaire. ASES questionnaire was filled in three times by the participants: before, immediately after, and three months after the intervention. Data were analyzed using SPSS software, version 20, and statistical tests including Chi-square and t-test. Results: The results showed that the mean of self-efficacy scores of the intervention group, immediately and three months after the intervention, significantly enhanced in all dimensions compared with the control group (P<0.001, P<0.001). Conclusion: It can be concluded that training programs is effective for improving self-efficacy in the patients suffering from RA by raising their awareness towards their disease and methods of adaptation with it. But as to the sustainability of the impact of educational courses on self-efficacy, it seems that more research is required. Trial Registration Number: IRCT201308187531N3",
+      "corpusId": 26887235,
+      "url": "https://api.semanticscholar.org/CorpusId:26887235",
+      "pubmed_id": "30386396",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.4103/ijnmr.ijnmr_141_17",
+        "matched_title": "The Effects of Extended Parallel Process Model on Obese Soldiers' Knowledge, Attitudes, and Practices about Obesity Management: A Randomized Controlled Clinical Trial.",
+        "matched_pubdate": "2018 Nov-Dec",
+        "matched_source": "Iran J Nurs Midwifery Res"
+      }
+    },
+    {
+      "title": "The Impact of Comorbidities on Health-Related Quality of Life Among Patients with Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "Adriana Liliana Vlad",
+          "id": "2347643777"
+        },
+        {
+          "name": "C. Popazu",
+          "id": "82866241"
+        },
+        {
+          "name": "Alina-Maria Lescai",
+          "id": "2215642661"
+        },
+        {
+          "name": "D. Prisăcaru",
+          "id": "2383213979"
+        },
+        {
+          "name": "D. Voinescu",
+          "id": "16224484"
+        },
+        {
+          "name": "Alexia Balta",
+          "id": "2203685515"
+        }
+      ],
+      "year": 2026,
+      "venue": "Healthcare",
+      "score": 0.5024205839404762,
+      "abstract": "Background. Rheumatoid arthritis (RA) is a chronic autoimmune disease frequently accompanied by cardiovascular, respiratory, skeletal, psychiatric, and neoplastic comorbidities that are associated with higher morbidity and poorer health-related quality of life (HRQoL). This study evaluated the associations between comorbidities and patient-reported physical health, emotional distress, daily functioning, and social relationships in adults with RA and explored patient-reported unmet needs relevant to integrated care. Methods. We conducted a cross-sectional survey among 286 adults with physician-confirmed RA, using a structured questionnaire (ICRA-Q) administered between June and July 2025 via online platforms and in-hospital supervised completion. The survey captured demographics, patient-reported physician-diagnosed comorbidities (current and/or past), perceived disease impact, functional limitations, emotional and social consequences, access to treatment, financial burden, and support needs. Analyses included descriptive statistics, χ2 tests, t-tests/ANOVA, effect sizes (Cramer’s V and standardized mean differences), and multivariable logistic regression to explore predictors of high HRQoL impact and high difficulty in disease management. An exploratory classification into high-risk phenotypes was performed using predefined clinical, psychological, and socioeconomic criteria. Results. Most participants (98.6%) reported at least one comorbidity, most commonly hypertension, osteoporosis, and cardiovascular disease. Higher comorbidity burden and depression/anxiety were strongly associated with higher pain, reduced mobility, emotional distress, and financial strain. Exploratory high-risk phenotypes (severe somatic multimorbidity, high psychological vulnerability, high socioeconomic burden, and a composite very high-risk profile) were associated with poorer HRQoL indicators. Younger age, shorter disease duration, and higher perceived social support were associated with lower perceived burden. Conclusions. In this cross-sectional, patient-reported study, comorbidity burden—particularly psychological comorbidity—was strongly associated with poorer HRQoL and greater management difficulty in RA. These findings support the need for multidisciplinary, integrated care pathways; however, subgroup phenotypes should be considered exploratory and require external validation.",
+      "corpusId": 284956382,
+      "url": "https://api.semanticscholar.org/CorpusId:284956382",
+      "pubmed_id": "41595392",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/healthcare14020256",
+        "matched_title": "The Impact of Comorbidities on Health-Related Quality of Life Among Patients with Rheumatoid Arthritis.",
+        "matched_pubdate": "2026 Jan 20",
+        "matched_source": "Healthcare (Basel)"
+      }
+    },
+    {
+      "title": "Effect of a gamified mobile‐based self‐management application on disease activity index, quality of life, and mental health in adults with inflammatory bowel disease: A protocol of a randomized controlled trial study",
+      "authors": [
+        {
+          "name": "Narges Norouzkhani",
+          "id": "2164617095"
+        },
+        {
+          "name": "M. Faramarzi",
+          "id": "144845824"
+        },
+        {
+          "name": "Ali Bahari",
+          "id": "2244682262"
+        },
+        {
+          "name": "Javad Shokri Shirvani",
+          "id": "51035224"
+        },
+        {
+          "name": "Yeganeh Ebrahimnia Shirvani",
+          "id": "2275390876"
+        },
+        {
+          "name": "Saeid Eslami",
+          "id": "2200530262"
+        },
+        {
+          "name": "Hamed Tabesh",
+          "id": "2249109412"
+        }
+      ],
+      "year": 2024,
+      "venue": "Health Science Reports",
+      "score": 0.43974665592074824,
+      "abstract": "Inflammatory bowel disease (IBD) is a chronic inflammatory gastrointestinal tract disease subdivided into Crohn's disease (CD) and ulcerative colitis (UC). There is currently no cure for IBD, and individuals with IBD frequently experience a lower health‐related quality of life (HRQOL) than the general population. Gamification has become an increasingly popular topic in recent years. Adapting game design concepts to nongaming contexts represents a novel and potential approach to changing user engagement. This study will be conducted with the aim of evaluating the effect of a gamified mobile‐based self‐management application on disease activity index, quality of life, and mental health in adults with IBD.",
+      "corpusId": 269972861,
+      "url": "https://api.semanticscholar.org/CorpusId:269972861",
+      "pubmed_id": "38779219",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/hsr2.2109",
+        "matched_title": "Effect of a gamified mobile-based self-management application on disease activity index, quality of life, and mental health in adults with inflammatory bowel disease: A protocol of a randomized controlled trial study.",
+        "matched_pubdate": "2024 May",
+        "matched_source": "Health Sci Rep"
+      }
+    },
+    {
+      "title": "The Influencing Contexts and Potential Mechanisms Behind the Use of Web-Based Self-management Support Interventions: Realistic Evaluation",
+      "authors": [
+        {
+          "name": "M. Engelen",
+          "id": "153581324"
+        },
+        {
+          "name": "B. V. van Gaal",
+          "id": "3627919"
+        },
+        {
+          "name": "H. Vermeulen",
+          "id": "145467298"
+        },
+        {
+          "name": "R. Zuidema",
+          "id": "3773144"
+        },
+        {
+          "name": "S. Bredie",
+          "id": "66496562"
+        },
+        {
+          "name": "S. van Dulmen",
+          "id": "3678586"
+        }
+      ],
+      "year": 2021,
+      "venue": "JMIR Human Factors",
+      "score": 0.436484466101571,
+      "abstract": "Background Self-management can increase self-efficacy and quality of life and improve disease outcomes. Effective self-management may also help reduce the pressure on health care systems. However, patients need support in dealing with their disease and in developing skills to manage the consequences and changes associated with their condition. Web-based self-management support programs have helped patients with cardiovascular disease (CVD) and rheumatoid arthritis (RA), but program use has been low. Objective This study aimed to identify the patient, disease, and program characteristics that determine whether patients use web-based self-management support programs or not. Methods A realistic evaluation methodology was used to provide a comprehensive overview of context (patient and disease characteristics), mechanism (program characteristics), and outcome (program use). Secondary data of adult patients with CVD (n=101) and those with RA (n=77) were included in the study. The relationship between context (sex, age, education, employment status, living situation, self-management [measured using Patient Activation Measure-13], quality of life [measured using RAND 36-item health survey], interaction efficacy [measured using the 5-item perceived efficacy in patient-physician interactions], diagnosis, physical comorbidity, and time since diagnosis) and outcome (program use) was analyzed using logistic regression analyses. The relationship between mechanism (program design, implementation strategies, and behavior change techniques [BCTs]) and outcome was analyzed through a qualitative interview study. Results This study included 68 nonusers and 111 users of web-based self-management support programs, of which 56.4% (101/179) were diagnosed with CVD and 43.6% (78/179) with RA. Younger age and a lower level of education were associated with program use. An interaction effect was found between program use and diagnosis and 4 quality of life subscales (social functioning, physical role limitations, vitality, and bodily pain). Patients with CVD with higher self-management and quality of life scores were less likely to use the program, whereas patients with RA with higher self-management and quality of life scores were more likely to use the program. Interviews with 10 nonusers, 10 low users, and 18 high users were analyzed to provide insight into the relationship between mechanisms and outcome. Program use was encouraged by an easy-to-use, clear, and transparent design and by recommendations from professionals and email reminders. A total of 5 BCTs were identified as potential mechanisms to promote program use: tailored information, self-reporting behavior, delayed feedback, providing information on peer behavior, and modeling. Conclusions This realistic evaluation showed that certain patient, disease, and program characteristics (age, education, diagnosis, program design, type of reminder, and BCTs) are associated with the use of web-based self-management support programs. These results represent the first step in improving the tailoring of web-based self-management support programs. Future research on the interaction between patient and program characteristics should be conducted to improve the tailoring of participants to program components.",
+      "corpusId": 248806634,
+      "url": "https://api.semanticscholar.org/CorpusId:248806634",
+      "pubmed_id": "35776437",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2196/34925",
+        "matched_title": "The Influencing Contexts and Potential Mechanisms Behind the Use of Web-Based Self-management Support Interventions: Realistic Evaluation.",
+        "matched_pubdate": "2022 Jul 1",
+        "matched_source": "JMIR Hum Factors"
+      }
+    },
+    {
+      "title": "Preferences regarding technology to unobtrusively monitor symptoms in rheumatoid arthritis: a qualitative study using focus group discussions",
+      "authors": [
+        {
+          "name": "R. Wolkorte",
+          "id": "2305969354"
+        },
+        {
+          "name": "H. Vonkeman",
+          "id": "2273989503"
+        },
+        {
+          "name": "Gabriëlle J. M. Tuijthof",
+          "id": "2232302247"
+        }
+      ],
+      "year": 2025,
+      "venue": "Rheumatology International",
+      "score": 0.4243307235356444,
+      "abstract": "Digital tools can be used for both self-tracking and telemonitoring of symptoms of rheumatoid arthritis. However, long-term monitoring can be a significant burden on patients, hindering implementation. The objective of this study is to understand patient preferences and barriers regarding long-term symptom monitoring. Five focus groups with 20 people with rheumatoid arthritis (RA) and 14 healthcare professionals were organised. Topics included motivations to monitor, motivators and barriers, willingness to put effort into monitoring, data collection, and privacy concerns. People with RA are interested in self-tracking to support self-management, and in optimizing hospital visits through telemonitoring. Monitoring has to be personalized, with a wearable and affordable device, to monitor a variety of symptoms. People are willing to invest up to 3 months to personalize settings. After that, long-term monitoring should be unobtrusive, not requiring active participation. Data should be processed and presented with clear feedback. Data should also be shared with healthcare professionals to improve disease management and to optimize hospital visits. Medical professionals see benefits as patients become better informed. Telemonitoring is perceived especially relevant if information on disease activity and medication side-effects can be obtained. People with RA see benefits for long-term monitoring, both with regard to self-tracking and telemonitoring. Even though they are willing to invest initial effort, for the long-term monitoring they prefer more unobtrusive types of monitoring. Similarly, medical professionals see benefits in only seeing patients when needed, however; they fear an overload on information which could raise the workload even further.",
+      "corpusId": 283891137,
+      "url": "https://api.semanticscholar.org/CorpusId:283891137",
+      "pubmed_id": "41396314",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s00296-025-06041-9",
+        "matched_title": "Preferences regarding technology to unobtrusively monitor symptoms in rheumatoid arthritis: a qualitative study using focus group discussions.",
+        "matched_pubdate": "2025 Dec 15",
+        "matched_source": "Rheumatol Int"
+      }
+    },
+    {
+      "title": "Evaluation of a disease specific rheumatoid arthritis self-management education program, a single group repeated measures study",
+      "authors": [
+        {
+          "name": "Vironique Vermaak",
+          "id": "6354289"
+        },
+        {
+          "name": "N. Briffa",
+          "id": "152727876"
+        },
+        {
+          "name": "Bob Langlands",
+          "id": "50777147"
+        },
+        {
+          "name": "C. Inderjeeth",
+          "id": "5050226"
+        },
+        {
+          "name": "C. Inderjeeth",
+          "id": "5050226"
+        },
+        {
+          "name": "J. Mcquade",
+          "id": "4402258"
+        }
+      ],
+      "year": 2015,
+      "venue": "BMC Musculoskeletal Disorders",
+      "score": 0.38773501574415997,
+      "abstract": "BackgroundRheumatoid Arthritis is a progressive and disabling disease, predicted to increase in prevalence over the next 50 years. Self-management is acknowledged as an integral part in the management of chronic disease. The rheumatoid arthritis specific self-management program delivered by health professionals was developed by Arthritis Western Australia in 2006. The purpose of this study was to determine whether this program would achieve early benefits in health related outcomes, and whether these improvements would be maintained for 12 months.MethodsIndividuals with rheumatoid arthritis were referred from rheumatologists. Participants with co-existing inflammatory musculoskeletal conditions were excluded. All participants completed a 6-week program. Assessments occurred at baseline (8 weeks prior to intervention), pre-intervention, post-intervention, and 6 and 12 month follow ups. Outcomes measured included pain and fatigue (numerical rating scale, 0–10), depression and anxiety (hospital anxiety and depression questionnaire), health distress, and quality of life (SF-36 version 2).ResultsThere were significant improvements in mean [SD] fatigue (5.7 [2.4] to 5.1 [2.6]), depression (6.3 [4.3] to 5.6 [3.9]) and SF-36 mental health (44.5 [11.1] to 46.5 [9.5]) immediately following intervention, with long term benefits for depression (6.3 [4.3] to 4.9 [3.9]), and SF-36 subscales mental health (44.5 [11.1] to 47.8 [10.9]), role emotional (41.5 [13.2] to 46.5 [11.8]), role physical (35.0 [11.0] to 40.2 [12.1]) and physical function (34.8 [11.5] to 38.6 [10.7]).ConclusionParticipants in the program recorded significant improvements in depression and mental health post-intervention, which were maintained to 12 months follow up.",
+      "corpusId": 2400550,
+      "url": "https://api.semanticscholar.org/CorpusId:2400550",
+      "pubmed_id": "26289049",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12891-015-0663-6",
+        "matched_title": "Evaluation of a disease specific rheumatoid arthritis self-management education program, a single group repeated measures study.",
+        "matched_pubdate": "2015 Aug 20",
+        "matched_source": "BMC Musculoskelet Disord"
+      }
+    },
+    {
+      "title": "Building a Tailored, Patient-Guided, Web-Based Self-Management Intervention ‘ReumaUitgedaagd!’ for Adults With a Rheumatic Disease: Results of a Usability Study and Design for a Randomized Control Trail",
+      "authors": [
+        {
+          "name": "J. Ammerlaan",
+          "id": "115366016"
+        },
+        {
+          "name": "O. K. Mulder",
+          "id": "8625593"
+        },
+        {
+          "name": "N. D. de Boer-Nijhof",
+          "id": "1422193196"
+        },
+        {
+          "name": "B. Maat",
+          "id": "25404068"
+        },
+        {
+          "name": "A. Kruize",
+          "id": "6028771"
+        },
+        {
+          "name": "J. van Laar",
+          "id": "3726039"
+        },
+        {
+          "name": "H. van Os-Medendorp",
+          "id": "1399300901"
+        },
+        {
+          "name": "R. Geenen",
+          "id": "3875889"
+        }
+      ],
+      "year": 2016,
+      "venue": "JMIR Research Protocols",
+      "score": 0.3689357507686221,
+      "abstract": "Background The chronic nature of rheumatic diseases imposes daily challenges upon those affected and causes patients to make daily decisions about the way they self-manage their illness. Although there is attention to self-management and evidence for the desirability of tailored interventions to support people with a rheumatic disease, interventions based on individual needs and preferences are scarce. Objective To provide a systematic and comprehensive description of the theoretical considerations for building a Web-based, expert, patient-guided, and tailored intervention for adult patients with a rheumatic disease. Also, to present the results of a usability study on the feasibility of this intervention, and its study design in order to measure the effectiveness. Methods To fit the intervention closely to the autonomy, needs, and preferences of the individual patient, a research team comprising patient representatives, health professionals, Web technicians, and communication experts was formed. The research team followed the new guidance by the Medical Research Council (MRC) for developing and evaluating complex interventions as a guide for the design of the intervention. Results Considerations from self-determination theory and a comprehensive assessment of preferences and needs in patients with a rheumatic disease guided the development of the Web-based intervention. The usability study showed that the intervention was useful, easy to use, and accepted and appreciated by the target group of patients. The planned randomized controlled trial is designed to be conducted among 120 adults with a rheumatic disease, who are assigned to the self-management intervention or a self-help control group. Both groups will be asked to formulate personal goals they want to achieve concerning their self-management. Progress toward the personal goal is the primary outcome measure of this study. Self-reported Web-based measures will be assessed before randomization at baseline, and 3 and 6 months after randomization. Also, feasibility and adherence to the Web-based self-management intervention as process outcomes will be evaluated. Conclusion By identifying the individual goals at the beginning of the intervention and customizing the intervention to the individual patient, we aim to improve the usefulness and effectiveness of the Web-based self-management intervention. If proven effective, ReumaUitgedaagd! Online will be implemented in the Netherlands.",
+      "corpusId": 33722414,
+      "url": "https://api.semanticscholar.org/CorpusId:33722414",
+      "pubmed_id": "27339472",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2196/resprot.5735",
+        "matched_title": "Building a Tailored, Patient-Guided, Web-Based Self-Management Intervention 'ReumaUitgedaagd!' for Adults With a Rheumatic Disease: Results of a Usability Study and Design for a Randomized Control Trail.",
+        "matched_pubdate": "2016 Jun 23",
+        "matched_source": "JMIR Res Protoc"
+      }
+    },
+    {
+      "title": "Treatment response and several patient-reported outcomes are early determinants of future self-efficacy in rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "Doumen Michaël",
+          "id": "2135144572"
+        },
+        {
+          "name": "D. Diederik",
+          "id": "2305971190"
+        },
+        {
+          "name": "Pazmino Sofia",
+          "id": "2135155503"
+        },
+        {
+          "name": "Bertrand Delphine",
+          "id": "2135144563"
+        },
+        {
+          "name": "J. Johan",
+          "id": "84524508"
+        },
+        {
+          "name": "Westhovens René",
+          "id": "67092472"
+        },
+        {
+          "name": "Verschueren Patrick",
+          "id": "2135144706"
+        }
+      ],
+      "year": 2021,
+      "venue": "Arthritis Research & Therapy",
+      "score": 0.35039770084591265,
+      "abstract": "Background Self-efficacy, or patients’ confidence in their ability to control disease and its consequences, was recently prioritised in EULAR recommendations for inflammatory arthritis self-management strategies. However, it remains unclear which factors influence self-efficacy in early rheumatoid arthritis (RA). Methods Data were analysed from the 2-year RCT Care in early RA (CareRA), which studied remission-induction treatment regimens for early RA. Participants completed the Arthritis Self-Efficacy Scale (ASES), Short-Form 36 (SF-36), Revised Illness Perception Questionnaire (IPQ-R), Utrecht Coping List (UCL), RAQoL and Health Assessment Questionnaire (HAQ). Depending on time to first remission (DAS28-CRP < 2.6) and persistence of remission, treatment response was defined as persistent response, secondary failure, delayed response, late response or non-response. The association between ASES scores and clinical/psychosocial factors was explored with Spearman correlation and multivariate linear mixed models. Baseline predictors of week 104 ASES were identified with exploratory linear regression followed by multiple regression of significant predictors adjusted for DAS28-CRP, HAQ, treatment arm, treatment response, cumulative CRP/SJC28 and demographic/serologic confounders. Results All 379 patients had a recent diagnosis of RA and were DMARD-naïve at study initiation. Most patients were women (69%) and RF/ACPA-positive (66%), and the mean ( SD ) age was 52 (13) years. For all tested outcome measures, better perceived health correlated with higher self-efficacy. While patient-reported factors (HAQ, SF-36, RAQoL, IPQ-R, pain, fatigue and patient’s global assessment) showed moderate/strong correlations with ASES scores, correlations with physician-reported factors (physician’s global assessment, SJC28), TJC28 and DAS28-CRP were weak. Only more favourable outcomes on patient-reported factors and DAS28-CRP were associated with higher ASES scores at each time point. An earlier, persistent treatment response predicted higher ASES scores at both weeks 52 and 104. Significant baseline predictors of week 104 ASES included HAQ; SF-36 mental component score, vitality, mental health and role emotional; IPQ-R illness coherence, treatment control, emotional representations and consequences; UCL Passive reacting; and the RAQoL. Conclusions Patient-reported outcomes and treatment response were early determinants of long-term self-efficacy in an early RA trial. These results provide further relevance for the window of opportunity in an early treat-to-target strategy and could help to timely identify patients who might benefit from self-management interventions. Trial registration EudraCT 2008-007225-39",
+      "corpusId": 239891453,
+      "url": "https://api.semanticscholar.org/CorpusId:239891453",
+      "pubmed_id": "34706771",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s13075-021-02651-3",
+        "matched_title": "Treatment response and several patient-reported outcomes are early determinants of future self-efficacy in rheumatoid arthritis.",
+        "matched_pubdate": "2021 Oct 27",
+        "matched_source": "Arthritis Res Ther"
+      }
+    },
+    {
+      "title": "Can cognitive behavioral-therapy increase the quality of life and self-efficacy in rheumatoid arthritis patients?",
+      "authors": [
+        {
+          "name": "Rahmania Qurrota A'yun",
+          "id": "2097277859"
+        },
+        {
+          "name": "Nurul Hartini",
+          "id": "2402960896"
+        }
+      ],
+      "year": 2019,
+      "venue": "Psikohumaniora: Jurnal Penelitian Psikologi",
+      "score": 0.3468588834317052,
+      "abstract": "Rheumatoid arthritis is a chronic autoimmune illness rarely found in Indonesia. The sufferers mostly are women. This illness affects both the physical and psychological conditions of the sufferers. The symptoms appear almost every day and can cause permanent disability, and even death. It disrupts the quality of life and daily activities of the sufferers, as well as decreases their self-reliance in trying to curing the illness. The provision of cognitive-behavioral therapy is expected to increase their quality of life and self-efficacy. The method used in this study was a single case experiment with a single-subject A-B design. Visual analysis was used to analyze the data. The results showed that the quality of life and self-efficacy of the three subjects increased with the effect size score of 0.8. The women with rheumatoid arthritis had improved knowledge about their illness, decreases in pain, fatigue, and relapses; increased ability to manage the symptoms of the illness; and confidence that they could do their daily activities better.",
+      "corpusId": 226838334,
+      "url": "https://api.semanticscholar.org/CorpusId:226838334",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Self-Management in Patients with Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "Wen Luo",
+          "id": "2114376616"
+        },
+        {
+          "name": "Xiuli Zhang",
+          "id": "50852758"
+        },
+        {
+          "name": "K. Ren",
+          "id": "49507704"
+        }
+      ],
+      "year": 2020,
+      "venue": "Rheumatoid Arthritis - Other Perspectives towards a Better Practice",
+      "score": 0.3457881131437363,
+      "abstract": "Despite the effective pharmacological management of the disease over the last two decades, many individuals with RA continue to have psychological distress, and this is associated with poor outcomes. Addressing psychological issues hand in hand with pharmacological treatment will help to maximize outcomes for people with RA. Self-management (SM) is of utmost importance for people with rheumatoid arthritis to minimize their complaints, reduce clinic visits, and reduce disability. Considering the continuous update on the guidelines for disease management, non-pharmacological management remains a poorly addressed need of importance. In this chapter, we will introduce the current and progress of self-management in patients with rheumatoid arthritis.",
+      "corpusId": 218956931,
+      "url": "https://api.semanticscholar.org/CorpusId:218956931",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "The Effects of a Pilot Intervention for Community-Dwelling Adults with Rheumatoid Arthritis in Wuhan, China",
+      "authors": [
+        {
+          "name": "Wenfang Deng",
+          "id": "48289872"
+        },
+        {
+          "name": "Jie Hu",
+          "id": "143802131"
+        }
+      ],
+      "year": 2013,
+      "venue": "Frontiers in Public Health",
+      "score": 0.34153028981285477,
+      "abstract": "This study examined the effects of a pilot educational intervention program on knowledge, perceived self-efficacy, and health-related quality of life (HRQoL) of community-dwelling adults with rheumatoid arthritis (RA). A convenience sample of 16 participants with RA completed the program in Wuhan, China. Data were collected in face-to-face interviews using questionnaires at baseline, post-test, and 1 month follow-up. Knowledge scores were significantly increased over time. Significant differences were found in pain self-efficacy, symptoms self-efficacy, bodily pain, social functioning, and role emotional functions. Community health providers should provide educational programs to improve HRQoL for adults with RA.",
+      "corpusId": 12958450,
+      "url": "https://api.semanticscholar.org/CorpusId:12958450",
+      "pubmed_id": "24350212",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fpubh.2013.00043",
+        "matched_title": "The effects of a pilot intervention for community-dwelling adults with rheumatoid arthritis in wuhan, china.",
+        "matched_pubdate": "2013",
+        "matched_source": "Front Public Health"
+      }
+    },
+    {
+      "title": "Impact of socio-demographic and clinical characteristics on functional disability and health-related quality of life in patients with rheumatoid arthritis: a cross-sectional study from Palestine",
+      "authors": [
+        {
+          "name": "Samah W. Al-Jabi",
+          "id": "1400876373"
+        },
+        {
+          "name": "Diaa I. Seleit",
+          "id": "2132078439"
+        },
+        {
+          "name": "A. Badran",
+          "id": "1381656788"
+        },
+        {
+          "name": "Amer Koni",
+          "id": "26642771"
+        },
+        {
+          "name": "Sa’ed H. Zyoud",
+          "id": "51980365"
+        }
+      ],
+      "year": 2021,
+      "venue": "Health and Quality of Life Outcomes",
+      "score": 0.3409259427732639,
+      "abstract": "Background Rheumatoid arthritis (RA) is a chronic autoimmune disorder, which has a significant impact on patients' health-related quality of life (HRQoL), and limits physical function as well as increases pain and fatigue. Therefore, this study aimed to evaluate the HRQoL and functional disability profile of patients with RA in Palestine to determine the socio-demographic and clinical features associated with low HRQoL and functional disability in patients with RA and to investigate the impact of drugs used on functional disability and HRQoL. Methodology A cross-sectional, observational study conducted at rheumatology clinics in Northern West-Bank, Palestine (Alwatani Hospital—Nablus, Khalil Suleiman Hospital—Jenin, Thabet Thatbet Hospital-Tulkarem, and Darweesh Nazzal Hospital—Qalqilia). EuroQoL-5 Dimension scale (EQ-5D-5L) was used to evaluate HRQoL, Health Assessment Questionnaire, Disability Index (HAQ-DI) to evaluate the functional disability, and the Health Assessment Questionnaire pain visual analog scale (HAQ-VAS) to evaluate pain. Results 300 patients were included in the study, 229(76.3%) were females, the mean ± standard deviation age was 49 ± 13.10 years, and the median RA duration (lower–upper quartiles) was 6 (4–12) years. The median EQ-5D-5L index value and Euro QOL visual analogue scale (EQ-VAS) scores were 0.56 and 60, respectively. There was a significant strong positive correlation (R = 0.773; p  < 0.001) between the EQ-5D-5L index values and the reported EQ-VAS scores. The median HAQ-DI and HAQ-VAS were 0.94 and 40, respectively. The results of multiple linear regression showed that treatment with biological DMARD (Etanercept), having work, higher income, absence of night pain, and absence of comorbid diseases were significantly associated with higher EQ-5D-5L index score (better HRQoL) and lower HAQ-DI scores (less disability). On the other hand, older age and the presence of morning stiffness were significantly associated with higher HAQ-DI scores (more disability). Conclusions This study revealed the impact of treatment, clinical variables, and socio-demographic factors on disability and HRQoL in RA patients. Healthcare providers should be aware of the association between treatment with biological DMARD and improved HRQoL and functional status to make early interventions that reduce disability and improve HRQoL in susceptible patients.",
+      "corpusId": 238640338,
+      "url": "https://api.semanticscholar.org/CorpusId:238640338",
+      "pubmed_id": "34645455",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12955-021-01874-x",
+        "matched_title": "Impact of socio-demographic and clinical characteristics on functional disability and health-related quality of life in patients with rheumatoid arthritis: a cross-sectional study from Palestine.",
+        "matched_pubdate": "2021 Oct 13",
+        "matched_source": "Health Qual Life Outcomes"
+      }
+    },
+    {
+      "title": "Effectiveness of Digital Health Intervention in Enhancing Medication Adherence Among Arthritis Patients: A Systematic Review of Randomized Controlled Trials",
+      "authors": [
+        {
+          "name": "Kshitija Gajadhur",
+          "id": "2378657721"
+        },
+        {
+          "name": "Riya Patil",
+          "id": "2378654484"
+        },
+        {
+          "name": "Arasi Pearia Anadachee",
+          "id": "2378653596"
+        },
+        {
+          "name": "A. Kashyap",
+          "id": "2052965060"
+        },
+        {
+          "name": "Indrait Banerjee",
+          "id": "2376250785"
+        }
+      ],
+      "year": 2024,
+      "venue": "Nepal Journal of Epidemiology",
+      "score": 0.32193679076882253,
+      "abstract": "Background Arthritis affects millions of people worldwide; however, its mismanagement remains a growing global challenge, resulting in reduced quality of life (QoL) and disability. Digital health (DH), including smartphones, could be the key to solving this problem. Specific evidence-based reviews on the use of DH in this context are lacking. This systematic review aimed to explore the effect of DH on medication adherence (MA) among arthritis patients, thus improving their QoL. Methods A literature search was conducted on PubMed, Cochrane, TRIP, and Google Scholar using the keywords digital health, medication adherence, and arthritis. All randomized controlled trials (RCT) published between 2006 and 2024 were assessed for eligibility. Result The literature search yielded 12,671 results with 882 duplicates. The review included 8 RCTs that addressed rheumatoid arthritis (n=5), gout (n=2), and juvenile idiopathic arthritis (n=1), with a total sample size of 2449 patients, among whom 66% were males. Digital interventions used include calls, texts, videos, and online counselling. Study outcomes were classified as positive (DH increased MA), no significant difference, and negative (DH failed to show an effect on MA) in 62.5%, 25%, and 12.5% of the studies, respectively. Conclusion It is concluded that 62.5% of the RCTs showed significant contributions of digital health tools in arthritis management, mainly by enhancing medication adherence and thus improving patients' QoL. Owing to their availability, simplicity, and immediacy, digital health tools demonstrate their potential as reliable interventions for supporting arthritis patients.",
+      "corpusId": 281067173,
+      "url": "https://api.semanticscholar.org/CorpusId:281067173",
+      "pubmed_id": "40919069",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3126/nje.v14i4.77347",
+        "matched_title": "Effectiveness of Digital Health Intervention in Enhancing Medication Adherence Among Arthritis Patients: A Systematic Review of Randomized Controlled Trials.",
+        "matched_pubdate": "2024",
+        "matched_source": "Nepal J Epidemiol"
+      }
+    },
+    {
+      "title": "The influencing contexts and potential mechanisms behind the use of online self-management support interventions: a realist evaluation (Preprint)",
+      "authors": [
+        {
+          "name": "M. Engelen",
+          "id": "153581324"
+        },
+        {
+          "name": "B. V. van Gaal",
+          "id": "3627919"
+        },
+        {
+          "name": "H. Vermeulen",
+          "id": "145467298"
+        },
+        {
+          "name": "R. Zuidema",
+          "id": "3773144"
+        },
+        {
+          "name": "S. Bredie",
+          "id": "66496562"
+        },
+        {
+          "name": "S. van Dulmen",
+          "id": "3678586"
+        }
+      ],
+      "year": 2021,
+      "venue": "unknown",
+      "score": 0.3161172765294407,
+      "abstract": "\n BACKGROUND\n Self-management can increase self-efficacy and quality of life and improve disease outcomes in patients with chronic conditions. Effective self-management may also help to reduce the pressure on healthcare systems. However, patients need support in dealing with their disease and in developing skills to manage the symptoms, treatment, physical consequences, psychological consequences, and lifestyle changes associated with their condition. Online self-management support programs have helped patients with cardiovascular disease (CVD) and rheumatoid arthritis (RA) but program use was low.\n \n \n OBJECTIVE\n This study aims to identify the patient-, disease- and program characteristics that determine whether patients use online self-management support programs or not.\n \n \n METHODS\n A realist evaluation methodology was used to give a comprehensive oversight of context (patient- and disease characteristics), mechanism (program characteristics), and outcome (program use). The relation between context (sex, age, education, employment status, living situation, self-management [measured using PAM-13], quality of life [measured using RAND-36], interaction efficacy [measured using PEPPI-5], diagnosis, physical comorbidity, and time since diagnosis) and outcome (program use) was analyzed through logistic regression analyses. The relation between mechanism (program design, implementation strategies, behavior change techniques) and outcome was analyzed through a qualitative interview study.\n \n \n RESULTS\n For this study, 68 non-users and 111 users of the online self-management support programs were included, of which 57% were diagnosed with CVD and 43% with RA. Younger age and a lower level of education were associated with program use. An interaction effect was found between program use and diagnosis (CVD or RA) and four quality of life subscales (social functioning, physical role limitations, vitality, and bodily pain). CVD patients with higher self-management and quality of life scores were less likely to use the program, while RA patients with higher self-management and quality of life scores were more likely to use the program. Interviews with ten non-users, ten low-users, and 18 high-users were analyzed to give insight into the relation between mechanisms and outcome. Program use was encouraged by an easy to use, clear, and transparent design and by recommendations from a professional and email reminders. Five behavior change techniques were identified as potential mechanisms to promote program use: tailored information, self-reporting behavior with delayed feedback, giving information on peer behavior, and modeling.\n \n \n CONCLUSIONS\n This realist evaluation showed that certain patient-, disease-, and program characteristics are associated with the use of online self-management support programs. These results can help developers of future online self-management support programs to tailor the interventions to increase use and effectiveness.\n",
+      "corpusId": 244767441,
+      "url": "https://api.semanticscholar.org/CorpusId:244767441",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Effects of self-management, education and specific exercises, delivered by health professionals, in patients with osteoarthritis of the knee",
+      "authors": [
+        {
+          "name": "S. Coleman",
+          "id": "39732541"
+        },
+        {
+          "name": "S. Coleman",
+          "id": "39732541"
+        },
+        {
+          "name": "N. Briffa",
+          "id": "4001391"
+        },
+        {
+          "name": "Graeme J Carroll",
+          "id": "2247381796"
+        },
+        {
+          "name": "C. Inderjeeth",
+          "id": "5050226"
+        },
+        {
+          "name": "N. Cook",
+          "id": "48161501"
+        },
+        {
+          "name": "J. Mcquade",
+          "id": "4402258"
+        }
+      ],
+      "year": 2008,
+      "venue": "BMC Musculoskeletal Disorders",
+      "score": 0.30083935113856525,
+      "abstract": "AbstractBackgroundAn education self-management program for people with osteoarthritis (OA) of the knee was designed to be delivered by health professionals, incorporating their knowledge and expertise. Improvement in quality of life, health status and pain in response to this program has previously been demonstrated in an uncontrolled pilot study. To more rigorously test the effectiveness of the program we will undertake a randomised controlled trial of people with OA of the knee offering specific self-administered exercises and education, in accordance with the principles of self-management.Aim: To determine whether an education self management program for subjects with Osteoarthritis (OA) of the knee (OAK program) implemented by health professionals in a primary health care setting can achieve and maintain clinically meaningful improvements compared standard medical management in a control group.MethodsThe effects of standard medical management will be compared with the effects of the OAK program in a single-blind randomized study.\nParticipants: 146 male and female participants with established OA knee will be recruited. Volunteers with coexistent inflammatory joint disease or serious co-morbidities will be excluded.\nInterventions: Participants will be randomized into either intervention or control groups (delayed start). The intervention group will complete the OA knee program and both groups will be followed for 6 months.\nMeasurements: Assessments will be at baseline, 8 weeks and 6 months. SF-36, WOMAC and VAS pain questionnaires will be completed. Isometric quadriceps and hamstring strength will be measured using a dynamometer; knee range of movement using a goniometer; and physical function will be determined by a modified timed up and go test. Data will be analysed using repeated measures ANOVA.DiscussionWhile there is evidence to support the effectiveness of SM programs for people with hypertension, diabetes and asthma, the evidence available for treatment of arthritis remains equivocal. The aim of this study is to determine the effectiveness of a disease specific self-management program for people with OA knee.The study design includes all the important features of a clinical experimental study to minimize bias so the results of the study will provide a high level of evidence. People with OA of the knee have identified pain and problems with daily activities as the most important problems associated with their condition. The outcome measures selected specifically address these issues and have demonstrated validity and are responsive within the range of change expected in response to the intervention. Hence the results of the study will reflect their priorities.The results of the study will provide evidence to guide clinicians and funding bodies seeking to establish priorities regarding the provision of this disease specific program.Trial registrationACTR number: 12607000080426",
+      "corpusId": 12871460,
+      "url": "https://api.semanticscholar.org/CorpusId:12871460",
+      "pubmed_id": "18831745",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/1471-2474-9-133",
+        "matched_title": "Effects of self-management, education and specific exercises, delivered by health professionals, in patients with osteoarthritis of the knee.",
+        "matched_pubdate": "2008 Oct 2",
+        "matched_source": "BMC Musculoskelet Disord"
+      }
+    }
+  ]
+}

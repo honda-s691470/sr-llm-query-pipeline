@@ -1,0 +1,1800 @@
+{
+  "papers": [
+    {
+      "title": "Selection of Collagen Membranes for Bone Regeneration: A Literature Review",
+      "authors": [
+        {
+          "name": "L. Sbricoli",
+          "id": "4034552"
+        },
+        {
+          "name": "Riccardo Guazzo",
+          "id": "5331979"
+        },
+        {
+          "name": "M. Annunziata",
+          "id": "34129897"
+        },
+        {
+          "name": "L. Gobbato",
+          "id": "49305885"
+        },
+        {
+          "name": "E. Bressan",
+          "id": "49668811"
+        },
+        {
+          "name": "L. Nastri",
+          "id": "48059342"
+        }
+      ],
+      "year": 2020,
+      "venue": "Materials",
+      "score": 0.6979977143478752,
+      "abstract": "Several treatment modalities have been proposed to regenerate bone, including guided bone regeneration (GBR) where barrier membranes play an important role by isolating soft tissue and allowing bone to grow. Not all membranes biologically behave the same way, as they differ from their origin and structure, with reflections on their mechanical properties and on their clinical performance. Collagen membranes have been widely used in medicine and dentistry, because of their high biocompatibility and capability of promoting wound healing. Recently, collagen membranes have been applied in guided bone regeneration with comparable outcomes to non-resorbable membranes. Aim of this work is to provide a review on the main features, application, outcomes, and clinical employment of the different types of collagen membranes. Comparisons with non-resorbable membranes are clarified, characteristics of cross-linked collagen versus native collagen, use of different grafting materials and need for membrane fixation are explored in order to gain awareness of the indications and limits and to be able to choose the right membrane required by the clinical condition.",
+      "corpusId": 211100770,
+      "url": "https://api.semanticscholar.org/CorpusId:211100770",
+      "pubmed_id": "32050433",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ma13030786",
+        "matched_title": "Selection of Collagen Membranes for Bone Regeneration: A Literature Review.",
+        "matched_pubdate": "2020 Feb 9",
+        "matched_source": "Materials (Basel)"
+      }
+    },
+    {
+      "title": "The role of barrier membranes for guided bone regeneration and restoration of large bone defects: current experimental and clinical evidence",
+      "authors": [
+        {
+          "name": "R. Dimitriou",
+          "id": "144856763"
+        },
+        {
+          "name": "G. Mataliotakis",
+          "id": "6155519"
+        },
+        {
+          "name": "G. Calori",
+          "id": "38229945"
+        },
+        {
+          "name": "P. Giannoudis",
+          "id": "4317755"
+        }
+      ],
+      "year": 2012,
+      "venue": "BMC Medicine",
+      "score": 0.6439011289560074,
+      "abstract": "Treatment of large bone defects represents a great challenge in orthopedic and craniomaxillofacial surgery. Although there are several methods for bone reconstruction, they all have specific indications and limitations. The concept of using barrier membranes for restoration of bone defects has been developed in an effort to simplify their treatment by offering a sinlge-staged procedure. Research on this field of bone regeneration is ongoing, with evidence being mainly attained from preclinical studies. The purpose of this review is to summarize the current experimental and clinical evidence on the use of barrier membranes for restoration of bone defects in maxillofacial and orthopedic surgery. Although there are a few promising preliminary human studies, before clinical applications can be recommended, future research should aim to establish the 'ideal' barrier membrane and delineate the need for additional bone grafting materials aiming to 'mimic' or even accelerate the normal process of bone formation. Reproducible results and long-term observations with barrier membranes in animal studies, and particularly in large animal models, are required as well as well-designed clinical studies to evaluate their safety, efficacy and cost-effectiveness.",
+      "corpusId": 363188,
+      "url": "https://api.semanticscholar.org/CorpusId:363188",
+      "pubmed_id": "22834465",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/1741-7015-10-81",
+        "matched_title": "The role of barrier membranes for guided bone regeneration and restoration of large bone defects: current experimental and clinical evidence.",
+        "matched_pubdate": "2012 Jul 26",
+        "matched_source": "BMC Med"
+      }
+    },
+    {
+      "title": "Advances in Synthetic Polymer Membranes for Guided Bone Regeneration in Dental Implants: A Scoping Review",
+      "authors": [
+        {
+          "name": "Belén Lima-Sánchez",
+          "id": "2300568714"
+        },
+        {
+          "name": "M. Baus-Domínguez",
+          "id": "1413171048"
+        },
+        {
+          "name": "M. Serrera-Figallo",
+          "id": "1404880526"
+        },
+        {
+          "name": "D. Torres-Lagares",
+          "id": "82887712"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Functional Biomaterials",
+      "score": 0.5935200715754811,
+      "abstract": "Background: Different approaches are proposed for bone volume gain in the case of atrophic alveolar ridges, with guided bone regeneration (GBR) and guided tissue regeneration (GTR) being the most used techniques. These techniques require the placement of barrier membranes, which is the main element of the bone growth strategy, among which there is a wide range depending on their origin or degradation. This literature review aims to provide an update on the latest advances in polymeric membranes of synthetic origin currently used in bone regeneration. Materials and Methods: Two bibliographic searches were carried out in the PubMed (MEDLINE) and Scopus databases using a search strategy in which inclusion and exclusion criteria were applied. Results: For the selection of articles, the PRISMA guide flow chart was followed, and after a selection process, 11 articles were analyzed based on the characteristics of the marketed membranes and the results obtained after their use. Conclusions: It can be concluded that polymeric membranes play a fundamental role in guided bone regeneration, providing an effective barrier that facilitates bone growth and improves the success of dental implantology treatments.",
+      "corpusId": 278050728,
+      "url": "https://api.semanticscholar.org/CorpusId:278050728",
+      "pubmed_id": "40422814",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/jfb16050149",
+        "matched_title": "Advances in Synthetic Polymer Membranes for Guided Bone Regeneration in Dental Implants: A Scoping Review.",
+        "matched_pubdate": "2025 Apr 22",
+        "matched_source": "J Funct Biomater"
+      }
+    },
+    {
+      "title": "Alveolar Ridge Augmentation Techniques in Implant Dentistry",
+      "authors": [
+        {
+          "name": "M. Aytekin",
+          "id": "2004567911"
+        },
+        {
+          "name": "V. Arısan",
+          "id": "11969757"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.590694934932167,
+      "abstract": "Implant supported restorations have become an ideal treatment alternative for the rehabilitation of edentulous sites. However alveolar bone defects due to resorption, trauma or oncologic diseases may considerably affect favorable implant positioning and prosthetic outcomes. Various alveolar ridge augmentation procedures are available to gain enough bone volume and apply the ideal treatment plan afterwards. Guided bone regeneration, ridge splitting, distraction osteogenesis, maxillary sinus augmentation and autogenous block bone grafting are main techniques which have successful outcomes in reconstruction of bone defects. It’s difficult to demonstrate that one augmentation procedure offers better outcomes than another. Studies documenting augmentation techniques seem to be comparable and state favorable results for each procedure.",
+      "corpusId": 230620292,
+      "url": "https://api.semanticscholar.org/CorpusId:230620292",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "A COMPARISON OF GBR MEMBRANES",
+      "authors": [
+        {
+          "name": "M. Tsichlaki",
+          "id": "51318258"
+        },
+        {
+          "name": "Chrysoula Xintara",
+          "id": "2155956697"
+        },
+        {
+          "name": "V. Petsinis",
+          "id": "4200851"
+        }
+      ],
+      "year": 2022,
+      "venue": "Hellenic Archives of Oral and Maxillofacial Surgery",
+      "score": 0.5847598957230858,
+      "abstract": "Introduction: Guided bone regeneration has become common practice among surgeons because it gives them the opportunity to place implants in bone defects or absorbed alveolar ridges. This fact raises the question which membrane should one use to achieve the best results. Purpose and Methods: The aim of this study is to present the most recent data around GBR membranes. The existing types of membranes will be compared for their ability to facilitate bone regeneration, their biocompatibility, and their clinical complications. Research for this study was done by evaluating papers of the last decade from the following online databases: PubMed, Medline, and Google Scholar. Finally, selected clinical cases will be presented. Results: Membranes are divided in two main categories resorbable (collagen, synthetic) and non-resorbable (ePTFE, Ti reinforced). It is quite challenging to compare clinical trials because they use different parameters for comparison such as selection criteria of the patients, the type of defect to be treated, the way of executing the treatment, the duration, the materials used and the evaluation criteria. As far as bone regeneration is concerned there seem to be no significant differences in bone level and density of newly formed bone between different types of membranes when used in combination with bone grafts. However, non-resorbable membranes are more likely to cause tissue dehiscence, become exposed to the oral environment and subsequently become infected. Also, there are new types of membranes being studied which aim to play an active role in bone regeneration with embedded active ingredients, but more research needs to be done. Conclusions: According to the most recent protocols the combination of bone grafts and collagen membranes is selected in most cases because it has less clinical complications.",
+      "corpusId": 248370367,
+      "url": "https://api.semanticscholar.org/CorpusId:248370367",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Hard tissue stability after guided bone regeneration: a comparison between digital titanium mesh and resorbable membrane",
+      "authors": [
+        {
+          "name": "Songhang Li",
+          "id": "2118192945"
+        },
+        {
+          "name": "Junyi Zhao",
+          "id": "2145805943"
+        },
+        {
+          "name": "Yulin Xie",
+          "id": "2118596987"
+        },
+        {
+          "name": "Taoran Tian",
+          "id": "15963834"
+        },
+        {
+          "name": "Tianxu Zhang",
+          "id": "9416350"
+        },
+        {
+          "name": "Xiaoxiao Cai",
+          "id": "34714740"
+        }
+      ],
+      "year": 2021,
+      "venue": "International Journal of Oral Science",
+      "score": 0.5715560865463034,
+      "abstract": "Guided bone regeneration (GBR) uses resorbable and non-resorbable membranes as biological barriers. This study compared the differences in hard tissue stability between GBR using evidence-based digital titanium mesh and resorbable collagen membranes during implant placement. A total of 40 patients (65 implant sites) were enrolled and divided into two groups: resorbable membrane and digital titanium mesh groups. The alveolar bone was analyzed at two- and three-dimensional levels using cone-beam computed tomography and by reconstructing and superimposing the hard tissues at four time points: preoperatively, postoperatively, before second-stage surgery, and 1 year after loading. The use of digital titanium mesh showed less alveolar bone resorption in vertical and horizontal directions two-dimensionally before the second-stage surgery and 1 year after loading. Regarding volumetric stability, the percentage of resorption after 6 months of healing with resorbable membrane coverage reached 37.5%. However, it was only 23.4% with titanium mesh. Although postoperative bone volume was greater at all labial sites with resorbable membrane than with digital titanium mesh, after substantial bone resorption within 1 year of loading, the labial bone thickness at the upper part of implants was thinner with resorbable membrane than with digital titanium mesh. Furthermore, digital titanium meshes made according to ideal bone arch contour reduced soft tissue irritation, and the exposure rate was only 10%. Therefore, although both resorbable membrane and digital titanium mesh in GBR were able to successfully reconstruct the bone defect, digital titanium meshes were better at maintaining the hard tissue volume in the osteogenic space.",
+      "corpusId": 244120499,
+      "url": "https://api.semanticscholar.org/CorpusId:244120499",
+      "pubmed_id": "34782595",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/s41368-021-00143-3",
+        "matched_title": "Hard tissue stability after guided bone regeneration: a comparison between digital titanium mesh and resorbable membrane.",
+        "matched_pubdate": "2021 Nov 16",
+        "matched_source": "Int J Oral Sci"
+      }
+    },
+    {
+      "title": "Utilization of a Cortical Xenogeneic Membrane for Guided Bone Regeneration: A Retrospective Case Series",
+      "authors": [
+        {
+          "name": "C. Debortoli",
+          "id": "2143146000"
+        },
+        {
+          "name": "A. Falguière",
+          "id": "2051342896"
+        },
+        {
+          "name": "Fabrice Campana",
+          "id": "2261715019"
+        },
+        {
+          "name": "J. Catherine",
+          "id": "2274018859"
+        },
+        {
+          "name": "Delphine Tardivo",
+          "id": "2237246078"
+        },
+        {
+          "name": "Romain Lan",
+          "id": "2140009304"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.5708409922582482,
+      "abstract": "Background: Guided bone regeneration (GBR) is a reliable technique used in vertical and horizontal bone defects. The posterior mandibular region is an area limited by anatomic constraints. The use of resorbable membranes with a cortical component could compensate for the lack of rigidity of resorbable membranes without the complications of non-resorbable membranes. The aim of this study was to evaluate the mean bone gains of a xenogeneic cortical membrane in horizontal and vertical bone defects in comparison with other membranes in the literature. Methods: A porcine cortical membrane was used to perform 7 GBR in the posterior mandibular region of five patients. Preoperative (T0) and six months postoperative (T1) cone beam computed tomography were superimposed to measure the horizontal and vertical bone gain. Implants were positioned at all sites, six months after GBR. Complications and bone resorption around the implants were also documented. Results: The mean horizontal and vertical bone gains were 3.83 ± 1.41 mm and 4.17 ± 1.86 mm, respectively. The analysis of repeatability was 0.997. As many as 40% of patients experienced pain refractory to analgesics. No exposure or infectious phenomenon was observed. Conclusions: This xenogeneic cortical membrane seemed to provide interesting results in the regeneration of horizontal and vertical bone defects. Comparative and prospective studies are necessary to validate the effectiveness of this membrane.",
+      "corpusId": 271733429,
+      "url": "https://api.semanticscholar.org/CorpusId:271733429",
+      "pubmed_id": "39124840",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/jcm13154575",
+        "matched_title": "Utilization of a Cortical Xenogeneic Membrane for Guided Bone Regeneration: A Retrospective Case Series.",
+        "matched_pubdate": "2024 Aug 5",
+        "matched_source": "J Clin Med"
+      }
+    },
+    {
+      "title": "Hard tissue stability after guided bone regeneration: a comparison between digital titanium mesh and resorbable membrane",
+      "authors": [
+        {
+          "name": "Songhang Li",
+          "id": "2118192945"
+        },
+        {
+          "name": "Junyi Zhao",
+          "id": "2145805943"
+        },
+        {
+          "name": "Yulin Xie",
+          "id": "2118596987"
+        },
+        {
+          "name": "Taoran Tian",
+          "id": "15963834"
+        },
+        {
+          "name": "Tianxu Zhang",
+          "id": "9416350"
+        },
+        {
+          "name": "Xiaoxiao Cai",
+          "id": "34714740"
+        }
+      ],
+      "year": 2021,
+      "venue": "International Journal of Oral Science",
+      "score": 0.5597374375419406,
+      "abstract": "Guided bone regeneration (GBR) uses resorbable and non-resorbable membranes as biological barriers. This study compared the differences in hard tissue stability between GBR using evidence-based digital titanium mesh and resorbable collagen membranes during implant placement. A total of 40 patients (65 implant sites) were enrolled and divided into two groups: resorbable membrane and digital titanium mesh groups. The alveolar bone was analyzed at two- and three-dimensional levels using cone-beam computed tomography and by reconstructing and superimposing the hard tissues at four time points: preoperatively, postoperatively, before second-stage surgery, and 1 year after loading. The use of digital titanium mesh showed less alveolar bone resorption in vertical and horizontal directions two-dimensionally before the second-stage surgery and 1 year after loading. Regarding volumetric stability, the percentage of resorption after 6 months of healing with resorbable membrane coverage reached 37.5%. However, it was only 23.4% with titanium mesh. Although postoperative bone volume was greater at all labial sites with resorbable membrane than with digital titanium mesh, after substantial bone resorption within 1 year of loading, the labial bone thickness at the upper part of implants was thinner with resorbable membrane than with digital titanium mesh. Furthermore, digital titanium meshes made according to ideal bone arch contour reduced soft tissue irritation, and the exposure rate was only 10%. Therefore, although both resorbable membrane and digital titanium mesh in GBR were able to successfully reconstruct the bone defect, digital titanium meshes were better at maintaining the hard tissue volume in the osteogenic space.",
+      "corpusId": 256555214,
+      "url": "https://api.semanticscholar.org/CorpusId:256555214",
+      "pubmed_id": "34782595",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/s41368-021-00143-3",
+        "matched_title": "Hard tissue stability after guided bone regeneration: a comparison between digital titanium mesh and resorbable membrane.",
+        "matched_pubdate": "2021 Nov 16",
+        "matched_source": "Int J Oral Sci"
+      }
+    },
+    {
+      "title": "Resorbable versus nonresorbable membranes in combination with Bio-Oss for guided bone regeneration.",
+      "authors": [
+        {
+          "name": "N. Zitzmann",
+          "id": "4683137"
+        },
+        {
+          "name": "R. Naef",
+          "id": "2069511377"
+        },
+        {
+          "name": "P. Schärer",
+          "id": "3796257"
+        }
+      ],
+      "year": 1997,
+      "venue": "The International Journal of Oral and Maxillofacial Implants",
+      "score": 0.5583738017381324,
+      "abstract": "",
+      "corpusId": 2737777,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/9425767",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "A Liquid Membrane as a Barrier Membrane for Guided Bone Regeneration",
+      "authors": [
+        {
+          "name": "Daesung Kim",
+          "id": "2431983674"
+        },
+        {
+          "name": "Taeheon Kang",
+          "id": "1988282"
+        },
+        {
+          "name": "Daniel D Gober",
+          "id": "5326242"
+        },
+        {
+          "name": "C. Orlich",
+          "id": "4950678"
+        }
+      ],
+      "year": 2011,
+      "venue": "ISRN Dentistry",
+      "score": 0.5522124811454048,
+      "abstract": "Membranes made of several different materials are available in the market, nonresorbable (e.g. ePTFE), resorbable (e.g. synthetic or collagen) and liguid applicable (e.g. Polyethylene glycol or Atrisorb). The purpose of the present study was to evaluate whether or not in situ application of Atrisorb could be used as a barrier membrane for guided bone regeneration. Ten patients with insufficient alveolar ridge width for implant placement participated in the study. Atrisorb in conjunction with various bone grafts was used to treat 10 different sites, 3 sites treated prior to implant placement and 7 sites in conjunction with implant placement. Augmented sites were allowed to heal for 3 to 7 months, with mean healing time of 4.7 months. Healing was uneventful with no major complications. Two sites experienced a flap dehiscence accompanied by barrier exposure during the initial healing period. Secondary healing was achieved soon after with no signs of infection, giving Atrisorb a barrier exposure rate of 20% for the present study, which corresponds to favorably to that of resorbable membranes. The liquid membrane has the potential of being a viable alternative to traditional resorbable membranes for use in GBR procedures.",
+      "corpusId": 7327614,
+      "url": "https://api.semanticscholar.org/CorpusId:7327614",
+      "pubmed_id": "21991475",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.5402/2011/468282",
+        "matched_title": "A liquid membrane as a barrier membrane for guided bone regeneration.",
+        "matched_pubdate": "2011",
+        "matched_source": "ISRN Dent"
+      }
+    },
+    {
+      "title": "Effects of different oral barrier membranes on the efficacy and safety of guided bone regeneration in patients with dental implants: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "Haozhou Tang",
+          "id": "2366149917"
+        },
+        {
+          "name": "Yonghui Zhang",
+          "id": "2365960213"
+        }
+      ],
+      "year": 2025,
+      "venue": "Acta Odontologica Scandinavica",
+      "score": 0.5424708901500702,
+      "abstract": "Objective This study aims to systematically evaluate the effects of different oral barrier membranes on bone regeneration, focusing on their clinical efficacy and safety during dental implant procedures. Methods A comprehensive search was conducted in PubMed, EMBASE, ScienceDirect, Cochrane Library, CNKI, VIP, and CBM databases for case-control and cohort studies published between January 2002 and March 2025. Two independent researchers screened and extracted data, and statistical analysis was performed using RevMan 5.3. The study was registered in PROSPERO (CRD492390). Results A total of 11 clinical controlled and cohort studies with 1,003 patients were included. The absorbable membrane group demonstrated a significantly higher success rate (p < 0.05), greater bone graft thickness (p < 0.05), and fewer adverse reactions (p < 0.05). Meta-analysis showed no significant difference in osseointegration, total mineralised tissue, and non-mineralised tissue (p > 0.05). Conclusion Absorbable oral barrier membranes exhibit superior safety and efficacy profiles, making them a preferred choice for guided bone regeneration. However, further studies with higher methodological quality and longer follow-up durations are required.",
+      "corpusId": 279253123,
+      "url": "https://api.semanticscholar.org/CorpusId:279253123",
+      "pubmed_id": "40492364",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2340/aos.v84.43758",
+        "matched_title": "Effects of different oral barrier membranes on the efficacy and safety of guided bone regeneration in patients with dental implants: a systematic review and meta-analysis.",
+        "matched_pubdate": "2025 Jun 10",
+        "matched_source": "Acta Odontol Scand"
+      }
+    },
+    {
+      "title": "Effect of autogenous tooth bone graft with membrane on Class II furcation defects in dogs: A histologic and histomorphometric study",
+      "authors": [
+        {
+          "name": "Keon-il Yang",
+          "id": "51264922"
+        },
+        {
+          "name": "A. Cho",
+          "id": "2078502923"
+        },
+        {
+          "name": "Jin-Young Yang",
+          "id": "2144525465"
+        },
+        {
+          "name": "Hong-In Shin",
+          "id": "49881096"
+        },
+        {
+          "name": "Won-Pyo Lee",
+          "id": "8663886"
+        },
+        {
+          "name": "Byung-Ock Kim",
+          "id": "117193141"
+        },
+        {
+          "name": "and Sang-Joun Yu",
+          "id": "87565736"
+        }
+      ],
+      "year": 2018,
+      "venue": "unknown",
+      "score": 0.5056460821990841,
+      "abstract": "············································································································································································· The study evaluated the efficacy of combining autogenous tooth bone grafts with membranes in surgically created class II furcation defects. Thirty teeth of 10 dogs were assessed. Furcation defects (5 × 4 × 3 mm 3 ) were created in the lower third and fourth premolars. Defects in the control, experimental-1, and experimental-2 groups were treated with non-resorbable membranes only, autogenous tooth bone grafts with non-resorbable membranes, and autogenous tooth bone grafts with resorbable membranes, respectively. Healing patterns were observed 4 to 8 weeks after treatment. Mesio-distal sections were obtained and stained with hematoxylin and eosin, and histological and histomorphometrical analyses were performed. Four weeks after treatment, connective tissue and autogenous tooth bone graft materials with newly formed bone were observed. Partial recovery of periodontal ligament-like tissue and formation of cementum-like tissue at root surfaces also occurred. Eight weeks after treatment, mature bone tissue formation was noted. In addition, regular thickness of cementum-like tissue at root surfaces, and improved periodontal ligament-like tissue were observed. Areas of newly formed tissue were 92.2% ± 13.0%, 97.4% ± 4.4%, and 98.1% ± 2.8% at 4 weeks after treatment, and 96.7% ± 3.7%, 96.8% ± 5.7%, and 99.6% ± 0.8% by 8 weeks post-treatment, in the control, experimental-1, and experimental-2 groups, respectively. Regeneration of defective tissues occurred in the experimental group compared with the control group, but not significantly. This study showed that combining autogenous tooth bone grafts with membranes in class II furcation defects improves healing efficiency.",
+      "corpusId": 81265650,
+      "url": "https://api.semanticscholar.org/CorpusId:81265650",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Guided bone regeneration around endosseous implants using a resorbable membrane vs a PTFE membrane.",
+      "authors": [
+        {
+          "name": "H. Schliephake",
+          "id": "48715504"
+        },
+        {
+          "name": "M. Dard",
+          "id": "48478861"
+        },
+        {
+          "name": "H. Planck",
+          "id": "145410719"
+        },
+        {
+          "name": "H. Hierlemann",
+          "id": "3872886"
+        },
+        {
+          "name": "A. Jakob",
+          "id": "120498262"
+        }
+      ],
+      "year": 2000,
+      "venue": "Clinical Oral Implants Research",
+      "score": 0.49176765083601776,
+      "abstract": "",
+      "corpusId": 25430618,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11168214",
+      "pubmed_id": "11168214",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1034/j.1600-0501.2000.011003230.x",
+        "matched_title": "Guided bone regeneration around endosseous implants using a resorbable membrane vs a PTFE membrane.",
+        "matched_pubdate": "2000 Jun",
+        "matched_source": "Clin Oral Implants Res"
+      }
+    },
+    {
+      "title": "Lateral Guided Bone Regeneration Using a Novel Synthetic Bioresorbable Membrane: A Two Center Prospective Randomized Controlled Trial",
+      "authors": [
+        {
+          "name": "Michal Halperin-Sternfeld",
+          "id": "1402611105"
+        },
+        {
+          "name": "H. Zigdon-Giladi",
+          "id": "1399323216"
+        },
+        {
+          "name": "L. Shapira",
+          "id": "2717456"
+        },
+        {
+          "name": "A. Wilensky",
+          "id": "33189433"
+        }
+      ],
+      "year": 2018,
+      "venue": "Journal of Molecular and Clinical Medicine",
+      "score": 0.4912115627459022,
+      "abstract": "The aim of this study was to evaluate the outcomes of lateral guided bone regeneration (GBR) using a novel resorbable synthetic polyethylene-glycol/methacrylate (PEG/MET) membrane compared to a non-cross-linked collagen membrane (CM). Twentyeight patients with a potential implant site exhibiting insufficient bone width of ≤ 5 mm were included. Ridge width was measured intraoperatively at 1 mm and 4 mm apical to the crest and via cone-beam computed tomography at baseline and 6 months following GBR using either a PEG/MET or a CM in conjunction with an allograft. During implant placement, core biopsies were harvested and analyzed histomorphometrically. Width changes were calculated. Differences between groups were analyzed using two-sided t-test and Mann-Whitney U-test. The PEG/MET membrane was moldable and exhibited higher strength and stability compared to the CM. Nevertheless, it displayed higher exposure rate of 12/15, compared to 2/13 in the CM sites. At the time of implant insertion, 6 months following GBR, significant gain in bone width was observed in both groups. Mean ridge width at 1 mm and 4 mm apical to the crest was increased significantly from 2.06 ± 0.77 mm and 3.84 ± 1.23 mm to 3.84 ± 1.52 mm and 6.06 ± 2.03 mm (p = 0.0006 and p = 0.0009, respectively), with no clinical or radiographic differences between groups. Experimental sites contained more residual scaffold material than the controls (17.4 ± 3.3% and 8.6 ± 2.0%, p = 0.0566). However, bone and connective tissue area fraction were not statistically different between the groups. Overall, despite the higher exposure rate, the new PEG/MET membrane was as successful as a standard collagen membrane in lateral GBR and may have potential use in bone augmentation procedures. This study suggests the feasibility of synthetic membranes, which are not associated with disease transmission, as an attractive alternative to the commonly used CM of bovine or porcine origin.",
+      "corpusId": 108469600,
+      "url": "https://api.semanticscholar.org/CorpusId:108469600",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Guided bone regeneration",
+      "authors": [
+        {
+          "name": "Young-Kyun Kim",
+          "id": "47659318"
+        },
+        {
+          "name": "Jeong-Kui Ku",
+          "id": "46269710"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of the Korean Association of Oral and Maxillofacial Surgeons",
+      "score": 0.4893128108482508,
+      "abstract": "Guided bone regeneration (GBR) is a surgical procedure that utilizes bone grafts with barrier membranes to reconstruct small defects around dental implants. This procedure is commonly deployed on dehiscence or fenestration defects ≥2 mm, and mixing with autogenous bone is recommended on larger defects. Tension-free primary closure is a critical factor to prevent wound dehiscence, which is critical cause of GBR failure. A barrier membrane should be rigidly fixed without mobility. If the barrier is exposed, closed monitoring should be utilized to prevent secondary infection.",
+      "corpusId": 226205921,
+      "url": "https://api.semanticscholar.org/CorpusId:226205921",
+      "pubmed_id": "33122463",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.5125/jkaoms.2020.46.5.361",
+        "matched_title": "Guided bone regeneration.",
+        "matched_pubdate": "2020 Oct 31",
+        "matched_source": "J Korean Assoc Oral Maxillofac Surg"
+      }
+    },
+    {
+      "title": "Evaluating the Clinical Efficacy of Membrane-Assisted Regenerative Therapy in Peri-Implantitis Management: A Comprehensive Review Incorporating Systematic Review Evidence",
+      "authors": [
+        {
+          "name": "Young Joon Cho",
+          "id": "2284141514"
+        },
+        {
+          "name": "Yong Tak Jeong",
+          "id": "2308245699"
+        },
+        {
+          "name": "Hyun Nyun Woo",
+          "id": "2372086454"
+        },
+        {
+          "name": "Hyun Woo Cho",
+          "id": "2284402533"
+        },
+        {
+          "name": "Min Gu Kang",
+          "id": "2372079817"
+        },
+        {
+          "name": "Sung-Min Hwang",
+          "id": "2257138628"
+        },
+        {
+          "name": "Jae-Mok Lee",
+          "id": "2164729357"
+        }
+      ],
+      "year": 2025,
+      "venue": "Materials",
+      "score": 0.4877390004341533,
+      "abstract": "Peri-implantitis (PI) is characterized by inflammatory tissue destruction and alveolar bone loss surrounding dental implants, posing clinical challenges. To promote bone regeneration, clinicians often use resorbable or non-resorbable membranes in combination with bone grafts or biologic agents. Despite their widespread application in PI management, the clinical efficacy of these approaches remains uncertain. Therefore, this study aims to evaluate the role of membrane-assisted regenerative therapy in the management of PI. A systematic literature search was conducted in PubMed, Scopus, Cochrane Library, and Google Scholar following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA 2020) guidelines, with the protocol registered in PROSPERO (CRD420251089276). Sixty-nine studies met the inclusion criteria. The primary outcomes assessed were bone-fill gain and reduction in probing pocket depth (PPD). Although some studies reported improved bone-fill and PPD reduction with membrane-assisted regenerative therapy, the findings were not consistently significant. Future research should validate the clinical efficacy of membranes through well-designed randomized trials and develop advanced decontamination techniques and implant surface modifications that could enhance treatment predictability and patient outcomes. Overall, while membranes show potential clinical value in regenerative therapy, their necessity remains uncertain owing to variability in the current evidence.",
+      "corpusId": 283218566,
+      "url": "https://api.semanticscholar.org/CorpusId:283218566",
+      "pubmed_id": "41304071",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ma18225227",
+        "matched_title": "Evaluating the Clinical Efficacy of Membrane-Assisted Regenerative Therapy in Peri-Implantitis Management: A Comprehensive Review Incorporating Systematic Review Evidence.",
+        "matched_pubdate": "2025 Nov 18",
+        "matched_source": "Materials (Basel)"
+      }
+    },
+    {
+      "title": "Review of the Long-Term Outcomes of Guided Bone Regeneration and Autologous Bone Block Augmentation for Vertical Dental Restoration of Dental Implants",
+      "authors": [
+        {
+          "name": "Eliza Drăgan",
+          "id": "40334887"
+        },
+        {
+          "name": "A. Nemtoi",
+          "id": "15156361"
+        }
+      ],
+      "year": 2022,
+      "venue": "Medical Science Monitor",
+      "score": 0.4793856937319446,
+      "abstract": "Vertical bone resorption is a frequent consequence of tooth loss. Hence, implant-supported restorations imply, first of all, bone reconstruction. We aimed to review the current status of guided bone regeneration and autologous bone block augmentation for vertical dental restoration of dental implants. This review identified that between 2009 and 2022 there were few clinical studies that included more than 10 patients and a follow-up period of more than 5 years after bone restoration. The highest vertical bone gain was reported in the autologous bone grafting technique (4–7.6 mm), whereas the minimum augmentation was reported for one of the guided bone regeneration techniques. When comparing intraoral to extraoral bone blocks, the highest values for the mean vertical bone gains were obtained in the cases in which intraoral bone blocks were used as graft material. The highest rate of bone resorption was observed in the extraoral bone block group. Implant survival rate was not significantly influenced by surgical technique. Complications had a higher incidence in autologous bone block augmentation studies. Soft tissue recession showed similar results for guided bone regeneration as for autologous bone block augmentation. Vertical ridge augmentation is a predictable option for the reconstruction of alveolar ridges with severe atrophy, but complications can appear.",
+      "corpusId": 252513095,
+      "url": "https://api.semanticscholar.org/CorpusId:252513095",
+      "pubmed_id": "36253961",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.12659/msm.937433",
+        "matched_title": "Review of the Long-Term Outcomes of Guided Bone Regeneration and Autologous Bone Block Augmentation for Vertical Dental Restoration of Dental Implants.",
+        "matched_pubdate": "2022 Oct 18",
+        "matched_source": "Med Sci Monit"
+      }
+    },
+    {
+      "title": "Bioresorbable Collagen Membranes for Guided Bone Regeneration",
+      "authors": [
+        {
+          "name": "H. Tal",
+          "id": "3079224"
+        },
+        {
+          "name": "O. Moses",
+          "id": "84727641"
+        },
+        {
+          "name": "A. Kozlovsky",
+          "id": "145958939"
+        },
+        {
+          "name": "C. Nemcovsky",
+          "id": "5232595"
+        }
+      ],
+      "year": 2012,
+      "venue": "unknown",
+      "score": 0.4663955409147942,
+      "abstract": "Localized lack of bone volume in the jaws may be due to congenital, post-traumatic, postsurgical defects or different disease processes. Increasing the bone volume has long been an attractive field of basic and clinical research. The introduction of implant therapy, and the proven relationship between long-term prognosis of dental implants and adequate bone volume at the implant site (Lekholm et al. 1986), dramatically increased the interest of both clinicians and scientists in this field, making augmentation procedures an important part of contemporary implant therapy. Basically, four methods have been described to augment bone volume: a. osteoinduction, using appropriate growth factors (Reddi 1981; Urist 1965); b. osteoconduction, using grafting materials that serve as scaffolds for new bone growth (Buch et al. 1986; Reddi et al. 1987); c. distraction osteogenesis, by which a surgically induced bone fracture enables slow controlled pulling apart of the separated bone fragments (Ilizarov 1989a,b); d. guided bone regeneration, which allows selective bone tissue growth into a space maintained by tissue barriers (Dahlin et al. 1988, 1991a; Kostopoulos & Karring 1994; Nyman & Lang 1994). Among the different methods, guided bone regeneration (GBR) is the most popular and best documented for the treatment of localized bone defects in the jaws, probably due to its relative simplicity of use while allowing the placement of endosseous implants in areas of the jaw with bony defects and/or insufficient bone volume. Highly predictable success rates can be achieved using GBR; in fact, it has been shown that success rates of implants placed at GBR treated sites and sites without bone augmentation are comparable (Hammerle et al. 2002).",
+      "corpusId": 1341261,
+      "url": "https://api.semanticscholar.org/CorpusId:1341261",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Limitations and options using resorbable versus nonresorbable membranes for successful guided bone regeneration.",
+      "authors": [
+        {
+          "name": "N. Soldatos",
+          "id": "14197376"
+        },
+        {
+          "name": "Popi Stylianou",
+          "id": "14843771"
+        },
+        {
+          "name": "V. Koidou",
+          "id": "11056934"
+        },
+        {
+          "name": "N. Angelov",
+          "id": "2209221"
+        },
+        {
+          "name": "R. Yukna",
+          "id": "3552390"
+        },
+        {
+          "name": "G. Romanos",
+          "id": "145145085"
+        }
+      ],
+      "year": 2017,
+      "venue": "Quintessence International",
+      "score": 0.4587350712326612,
+      "abstract": "",
+      "corpusId": 46798211,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/27834419",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Membranes for Guided Bone Regeneration: A Road from Bench to Bedside",
+      "authors": [
+        {
+          "name": "Paola Aprile",
+          "id": "13230553"
+        },
+        {
+          "name": "D. Letourneur",
+          "id": "6147643"
+        },
+        {
+          "name": "T. Simon-Yarza",
+          "id": "1399931745"
+        }
+      ],
+      "year": 2020,
+      "venue": "Advanced Healthcare Materials",
+      "score": 0.45370240076039314,
+      "abstract": "Bone resorption can negatively influence the osseointegration of dental implants. Barrier membranes for guided bone regeneration (GBR) are used to exclude nonosteogenic tissues from influencing the bone healing process. In addition to the existing barrier membranes available on the market, a growing variety of membranes for GBR with tailorable physicochemical properties are under preclinical evaluation. Hence, the aim of this review is to provide a comprehensive description of materials used for GBR and to report the main industrial and regulatory aspects allowing the commercialization of these medical devices (MDs). In particular, a summary of the main attributes defining a GBR membrane is reported along with a description of commercially available and under development membranes. Finally, strategies for the scaling‐up of the manufacturing process and the regulatory framework of the main MD producers (USA, EU, Japan, China, and India) are presented. The description of the regulatory approval process of GBR membranes is representative of the typical path that medium‐ to high‐risk MDs have to follow for an effective medical translation, which is of fundamental importance to increase the impact of biomedical research on public health.",
+      "corpusId": 221383515,
+      "url": "https://api.semanticscholar.org/CorpusId:221383515",
+      "pubmed_id": "32864879",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/adhm.202000707",
+        "matched_title": "Membranes for Guided Bone Regeneration: A Road from Bench to Bedside.",
+        "matched_pubdate": "2020 Oct",
+        "matched_source": "Adv Healthc Mater"
+      }
+    },
+    {
+      "title": "Healing of dehiscence-type defects in implants placed together with different barrier membranes: a comparative clinical study.",
+      "authors": [
+        {
+          "name": "O. Moses",
+          "id": "84727641"
+        },
+        {
+          "name": "S. Pitaru",
+          "id": "6945929"
+        },
+        {
+          "name": "Z. Artzi",
+          "id": "6578823"
+        },
+        {
+          "name": "C. Nemcovsky",
+          "id": "5232595"
+        }
+      ],
+      "year": 2005,
+      "venue": "Clinical Oral Implants Research",
+      "score": 0.4536657931939021,
+      "abstract": "",
+      "corpusId": 23556715,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/15777331",
+      "pubmed_id": "15777331",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1111/j.1600-0501.2004.01100.x",
+        "matched_title": "Healing of dehiscence-type defects in implants placed together with different barrier membranes: a comparative clinical study.",
+        "matched_pubdate": "2005 Apr",
+        "matched_source": "Clin Oral Implants Res"
+      }
+    },
+    {
+      "title": "An Update Regarding the Use of Contemporary Dental Materials in Periodontal Regeneration",
+      "authors": [
+        {
+          "name": "D. Virvescu",
+          "id": "2082527177"
+        },
+        {
+          "name": "O. Nicolaiciuc",
+          "id": "83728993"
+        },
+        {
+          "name": "Gabriel Rotundu",
+          "id": "2328446761"
+        },
+        {
+          "name": "Florinel Cosmin Bida",
+          "id": "2179537146"
+        },
+        {
+          "name": "O. Butnaru",
+          "id": "2208093792"
+        },
+        {
+          "name": "Zinovia Surlari",
+          "id": "1581833762"
+        },
+        {
+          "name": "Mihaela Scurtu",
+          "id": "2381895117"
+        },
+        {
+          "name": "D. Budala",
+          "id": "1491175098"
+        },
+        {
+          "name": "I. Luchian",
+          "id": "8489791"
+        }
+      ],
+      "year": 2025,
+      "venue": "Materials",
+      "score": 0.4453944799231433,
+      "abstract": "Background: Periodontal regeneration has become a focal point in modern dental therapy, aiming to restore the form and function of lost periodontal structures. A literature search was conducted on the PubMed, Scopus, and Web of Science databases, focusing on studies published between 2000 and 2025 that addressed the clinical use of dental biomaterials in periodontal regeneration. Emphasis was placed on the use of bone grafts, guided tissue regeneration (GTR) membranes, enamel matrix derivatives, scaffolds, growth factors, and stem cell-based technologies. The review also outlines the limitations of current strategies, including unpredictable clinical responses, the rapid degradation of bioactive components, and variability in healing. Emerging directions, such as nanotechnology, gene-activated matrices, and 3D-printed scaffolds, are highlighted for their potential to improve predictability and personalization in periodontal therapy. This synthesis underscores both the progress and ongoing challenges in the field, emphasizing the need for continued research into material innovation and patient-specific solutions.",
+      "corpusId": 281611405,
+      "url": "https://api.semanticscholar.org/CorpusId:281611405",
+      "pubmed_id": "41010122",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ma18184278",
+        "matched_title": "An Update Regarding the Use of Contemporary Dental Materials in Periodontal Regeneration.",
+        "matched_pubdate": "2025 Sep 12",
+        "matched_source": "Materials (Basel)"
+      }
+    },
+    {
+      "title": "Comparison of Bone Resorption Rates after Intraoral Block Bone and Guided Bone Regeneration Augmentation for the Reconstruction of Horizontally Deficient Maxillary Alveolar Ridges",
+      "authors": [
+        {
+          "name": "B. A. Gultekin",
+          "id": "1896722"
+        },
+        {
+          "name": "Elçin Bedeloğlu",
+          "id": "6184415"
+        },
+        {
+          "name": "T. Kose",
+          "id": "3527675"
+        },
+        {
+          "name": "E. Mijiritsky",
+          "id": "3691712"
+        }
+      ],
+      "year": 2016,
+      "venue": "BioMed Research International",
+      "score": 0.44531533615297497,
+      "abstract": "Purpose. Bone atrophy after tooth loss may leave insufficient bone for implant placement. We compared volumetric changes after autogenous ramus block bone grafting (RBG) or guided bone regeneration (GBR) in horizontally deficient maxilla before implant placement. Materials and Methods. In this retrospective study, volumetric changes at RBG or GBR graft sites were evaluated using cone-beam computed tomography. The primary outcome variable was the volumetric resorption rate. Secondary outcomes were bone gain, graft success, and implant insertion torque. Results. Twenty-four patients (28 grafted sites) were included (GBR, 15; RBG, 13). One patient (RBG) suffered mucosal dehiscence at the recipient site 6 weeks after surgery, which healed spontaneously. Mean volume reduction in the GBR and RBG groups was 12.48 ± 2.67% and 7.20 ± 1.40%, respectively. GBR resulted in significantly more bone resorption than RBG (P < 0.001). Mean horizontal bone gain and width after healing were significantly greater in the GBR than in the RBG group (P = 0.002 and 0.005, resp.). Implant torque was similar between groups (P > 0.05). Conclusions. Both RBG and GBR hard-tissue augmentation techniques provide adequate bone graft volume and stability for implant insertion. However, GBR causes greater resorption at maxillary augmented sites than RBG, which clinicians should consider during treatment planning.",
+      "corpusId": 17618943,
+      "url": "https://api.semanticscholar.org/CorpusId:17618943",
+      "pubmed_id": "27847815",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2016/4987437",
+        "matched_title": "Comparison of Bone Resorption Rates after Intraoral Block Bone and Guided Bone Regeneration Augmentation for the Reconstruction of Horizontally Deficient Maxillary Alveolar Ridges.",
+        "matched_pubdate": "2016",
+        "matched_source": "Biomed Res Int"
+      }
+    },
+    {
+      "title": "Analyzing guided bone regeneration methods: A review of the literature",
+      "authors": [
+        {
+          "name": "A. B",
+          "id": "2318418147"
+        },
+        {
+          "name": "Anjali Bharat",
+          "id": "2318449756"
+        },
+        {
+          "name": "Amit Kumar Sharma",
+          "id": "2318570038"
+        },
+        {
+          "name": "Vikram Sharma",
+          "id": "2318727595"
+        },
+        {
+          "name": "Pooja Bharat",
+          "id": "2318501584"
+        },
+        {
+          "name": "Archana Bharat",
+          "id": "2415313313"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Dental Panacea",
+      "score": 0.4444077017341788,
+      "abstract": "Guided bone regeneration (GBR) is a surgical technique involving bone grafts and barrier membranes to repair minor defects near dental implants. It is typically used for dehiscence or fenestration defects ≥2 mm, often incorporating autogenous bone for larger defects. Achieving tension-free primary closure is essential to avoid wound dehiscence, a leading cause of GBR failure. Proper fixation of the barrier membrane without mobility is crucial. Continuous monitoring is necessary if the membrane becomes exposed to prevent secondary infections",
+      "corpusId": 272262035,
+      "url": "https://api.semanticscholar.org/CorpusId:272262035",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Comparative Efficacies of a 3D-Printed PCL/PLGA/β-TCP Membrane and a Titanium Membrane for Guided Bone Regeneration in Beagle Dogs",
+      "authors": [
+        {
+          "name": "J. Shim",
+          "id": "4922337"
+        },
+        {
+          "name": "Joo-Yun Won",
+          "id": "39690016"
+        },
+        {
+          "name": "Su-Jin Sung",
+          "id": "8000961"
+        },
+        {
+          "name": "Dong-Hyuk Lim",
+          "id": "2926980"
+        },
+        {
+          "name": "Won-Soo Yun",
+          "id": "9223565"
+        },
+        {
+          "name": "Young-Chan Jeon",
+          "id": "11493385"
+        },
+        {
+          "name": "Jung-Bo Huh",
+          "id": "34168454"
+        }
+      ],
+      "year": 2015,
+      "venue": "unknown",
+      "score": 0.44371008028091896,
+      "abstract": "This study was conducted to evaluate the effects of a 3D-printed resorbable polycaprolactone/poly(lactic-co-glycolic acid)/β-tricalcium phosphate (PCL/PLGA/β-TCP) membrane on bone regeneration and osseointegration in areas surrounding implants and to compare results with those of a non-resorbable titanium mesh membrane. After preparation of PCL/PLGA/β-TCP membranes using extrusion-based 3D printing technology; mechanical tensile testing and in vitro cell proliferation testing were performed. Implant surgery and guided bone regeneration were performed randomly in three groups (a no membrane group, a titanium membrane group, and a PCL/PLGA/β-TCP membrane group (n = 8 per group)). Histological and histometric analyses were conducted to evaluate effects on bone regeneration and osseointegration. Using the results of mechanical testing; a PCL/PLGA/β-TCP ratio of 2:6:2 was selected. The new bone areas (%) in buccal defects around implants were highest in the PCL/PLGA/β-TCP group and significantly higher than in the control group (p < 0.05). Bone-to-implant contact ratios (%) were also significantly higher in the PCL/PLGA/β-TCP and titanium groups than in the control group (p < 0.05). When the guided bone regeneration procedure was performed using the PCL/PLGA/β-TCP membrane; new bone formation around the implant and osseointegration were not inferior to those of the non-resorbable pre-formed titanium mesh membrane.",
+      "corpusId": 6360323,
+      "url": "https://api.semanticscholar.org/CorpusId:6360323",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Management of the exposure of a dense PTFE (d-PTFE) membrane in guided bone regeneration (GBR): a case report.",
+      "authors": [
+        {
+          "name": "P. Ghensi",
+          "id": "4125771"
+        },
+        {
+          "name": "W. Stablum",
+          "id": "16310825"
+        },
+        {
+          "name": "E. Bettio",
+          "id": "8661708"
+        },
+        {
+          "name": "Soldini Mc",
+          "id": "2233618496"
+        },
+        {
+          "name": "Tripi Tr",
+          "id": "83809585"
+        },
+        {
+          "name": "C. Soldini",
+          "id": "13166915"
+        }
+      ],
+      "year": 2017,
+      "venue": "Oral & Implantology",
+      "score": 0.4364611534200262,
+      "abstract": "Guided bone regeneration (GBR) is a well-established and generally predictable method for repairing alveolar ridge defects and preparing edentulous sites for implant placement. Standard GBR involves filling the space underneath a membrane with autogenous bone or a mixture composed of autogenous bone particles and allogeneic bone tissue or heterologous biomaterials. The use of a barrier membrane for GBR has sometimes been associated with complications, however - reportedly involving exposure, infection, and collapse - and the non-resorbable types of membrane seem to be involved more often than the resorbable solutions. Such complications may be severe enough to defeat the object of the GBR procedure. A non-resorbable high-density polytetrafluoroethylene (d-PTFE) membrane has recently been designed specifically for use in bone-augmentation procedures that seems to assure a good bone regeneration process even when the membrane is exposed to the oral cavity. This case report describes an exposure of a d-PTFE membrane occurring after a maxillary GBR procedure and how it was overcome successfully, enabling implants insertion.",
+      "corpusId": 19272570,
+      "url": "https://api.semanticscholar.org/CorpusId:19272570",
+      "pubmed_id": "29285337",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.11138/orl/2017.10.3.335",
+        "matched_title": "Management of the exposure of a dense PTFE (d-PTFE) membrane in guided bone regeneration (GBR): a case report.",
+        "matched_pubdate": "2017 Jul-Sep",
+        "matched_source": "Oral Implantol (Rome)"
+      }
+    },
+    {
+      "title": "Histological and Histomorphometric Effectiveness of the Barrier Membranes for Jawbone Regeneration: An Overview of More Than 30 Years’ Experience of Research Results of the Italian Implant Retrieval Center (1988–2020)",
+      "authors": [
+        {
+          "name": "M. Tumedei",
+          "id": "34047856"
+        },
+        {
+          "name": "C. F. Mourão",
+          "id": "2015560451"
+        },
+        {
+          "name": "S. D’Agostino",
+          "id": "2006742160"
+        },
+        {
+          "name": "M. Dolci",
+          "id": "34566751"
+        },
+        {
+          "name": "M. Di Cosola",
+          "id": "49742461"
+        },
+        {
+          "name": "A. Piattelli",
+          "id": "5625803"
+        },
+        {
+          "name": "A. Lucchese",
+          "id": "143737282"
+        }
+      ],
+      "year": 2021,
+      "venue": "Applied Sciences",
+      "score": 0.43078293369334447,
+      "abstract": "With the advent of implant dentistry, height and width of the bone site are fundamental to perform implant placements. There are several techniques to restore the amount of bone loss and one of them is guided bone regeneration, which is based on the employment of a membrane in order to bypass non-osteogenic cell invasion in the bone healing area, dispersing every interference with bone regeneration. Two expert reviewers performed a retrospective evaluation of all scientific papers published by the Implant Retrieval Center Laboratory of University “G. D’Annunzio” of Chieti-Pescara in the last three decades, and they implemented it by also similar conducting research on the main scientific databases, i.e., PubMed, Scopus, and EMBASE. The search was conducted up to December 2020, and a total of 843 articles published by the Implant Retrieval Center Laboratory of University “G.D’Annunzio” of Chieti-Pescara were identified and evaluated. After the application of inclusion and exclusion criteria, a total of 27 manuscripts were included for the qualitative synthesis: 8 animal studies, 17 human studies, and 2 in vitro articles. The present overview shows the importance of translational research for barrier membranes for bone regeneration, and additionally, the need for experts in different fields and research centers to produce high quality data in future research.",
+      "corpusId": 233663761,
+      "url": "https://api.semanticscholar.org/CorpusId:233663761",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Barrier Membranes for Guided Bone Regeneration (GBR): A Focus on Recent Advances in Collagen Membranes",
+      "authors": [
+        {
+          "name": "Yanru Ren",
+          "id": "46300583"
+        },
+        {
+          "name": "Lu Fan",
+          "id": "2147258722"
+        },
+        {
+          "name": "Said Alkildani",
+          "id": "2047508722"
+        },
+        {
+          "name": "Luo-wei Liu",
+          "id": "1997872602"
+        },
+        {
+          "name": "S. Emmert",
+          "id": "2134689545"
+        },
+        {
+          "name": "S. Najman",
+          "id": "6621544"
+        },
+        {
+          "name": "Denis Rimashevskiy",
+          "id": "40988308"
+        },
+        {
+          "name": "R. Schnettler",
+          "id": "1949466"
+        },
+        {
+          "name": "O. Jung",
+          "id": "2076048763"
+        },
+        {
+          "name": "Xin Xiong",
+          "id": "2069443632"
+        },
+        {
+          "name": "M. Barbeck",
+          "id": "5183349"
+        }
+      ],
+      "year": 2022,
+      "venue": "International Journal of Molecular Sciences",
+      "score": 0.43053687609351715,
+      "abstract": "Guided bone regeneration (GBR) has become a clinically standard modality for the treatment of localized jawbone defects. Barrier membranes play an important role in this process by preventing soft tissue invasion outgoing from the mucosa and creating an underlying space to support bone growth. Different membrane types provide different biological mechanisms due to their different origins, preparation methods and structures. Among them, collagen membranes have attracted great interest due to their excellent biological properties and desired bone regeneration results to non-absorbable membranes even without a second surgery for removal. This work provides a comparative summary of common barrier membranes used in GBR, focusing on recent advances in collagen membranes and their biological mechanisms. In conclusion, the review article highlights the biological and regenerative properties of currently available barrier membranes with a particular focus on bioresorbable collagen-based materials. In addition, the advantages and disadvantages of these biomaterials are highlighted, and possible improvements for future material developments are summarized.",
+      "corpusId": 254339084,
+      "url": "https://api.semanticscholar.org/CorpusId:254339084",
+      "pubmed_id": "36499315",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ijms232314987",
+        "matched_title": "Barrier Membranes for Guided Bone Regeneration (GBR): A Focus on Recent Advances in Collagen Membranes.",
+        "matched_pubdate": "2022 Nov 29",
+        "matched_source": "Int J Mol Sci"
+      }
+    },
+    {
+      "title": "Surgery Guidelines for Barrier Membranes in Guided Bone Regeneration (GBR)",
+      "authors": [
+        {
+          "name": "Rispoli",
+          "id": "2253326076"
+        },
+        {
+          "name": "Fontana",
+          "id": "2253326045"
+        },
+        {
+          "name": "Beretta",
+          "id": "2253299448"
+        },
+        {
+          "name": "CE Poggio",
+          "id": "2253318442"
+        },
+        {
+          "name": "C. Maiorana",
+          "id": "1578007790"
+        }
+      ],
+      "year": 2015,
+      "venue": "unknown",
+      "score": 0.4304438986475316,
+      "abstract": "C l i n M e d International Library Citation: Rispoli L, Fontana F, Beretta M, Poggio CE, Maiorana C (2015) Surgery Guidelines for Barrier Membranes in Guided Bone Regeneration (GBR). J Otolaryngol Rhinol 1:008 Received: May 30, 2015: Accepted: November 10, 2015: Published: November 12, 2015 Copyright: © 2015 Rispoli L, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Rispoli et al. J Otolaryngol Rhinol 2015, 1:2",
+      "corpusId": 136163175,
+      "url": "https://api.semanticscholar.org/CorpusId:136163175",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Silk Protein-Based Membrane for Guided Bone Regeneration",
+      "authors": [
+        {
+          "name": "Kwang-Jun Kwon",
+          "id": "37361746"
+        },
+        {
+          "name": "Hyun Seok",
+          "id": "6982288"
+        }
+      ],
+      "year": 2018,
+      "venue": "Applied Sciences",
+      "score": 0.426620381203722,
+      "abstract": "Silk derived from the silkworm is known for its excellent biological and mechanical properties. It has been used in various fields as a biomaterial, especially in bone tissue engineering scaffolding. Recently, silk protein-based biomaterial has been used as a barrier membrane scaffolding for guided bone regeneration (GBR). GBR promotes bone regeneration in bone defect areas using special barrier membranes. GBR membranes should have biocompatibility, biodegradability, cell occlusion, the mechanical properties of space-making, and easy clinical handling. Silk-based biomaterial has excellent biologic and mechanical properties that make it a good candidate to be used as GBR membranes. Recently, various forms of silk protein-based membranes have been introduced, demonstrating excellent bone regeneration ability, including osteogenic cell proliferation and osteogenic gene expression, and promoting new bone regeneration in vivo. In this article, we introduced the characteristics of silk protein as bone tissue engineering scaffolding and the recent application of such silk material as a GBR membrane. We also suggested future studies exploring additional uses of silk-based materials as GBR membranes.",
+      "corpusId": 116261366,
+      "url": "https://api.semanticscholar.org/CorpusId:116261366",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Effect of Simultaneous Immediate Implant Placement and Guided Bone Reconstruction with Ultra-Fine Titanium Mesh Membranes on Radiographic and Clinical Parameters after 18 Months of Loading",
+      "authors": [
+        {
+          "name": "M. Tallarico",
+          "id": "12013178"
+        },
+        {
+          "name": "F. M. Ceruso",
+          "id": "10745242"
+        },
+        {
+          "name": "L. Muzzi",
+          "id": "34843091"
+        },
+        {
+          "name": "S. Meloni",
+          "id": "5317395"
+        },
+        {
+          "name": "Yong-Jin Kim",
+          "id": "2108045164"
+        },
+        {
+          "name": "M. Gargari",
+          "id": "3594935"
+        },
+        {
+          "name": "Matteo Martinolli",
+          "id": "145837439"
+        }
+      ],
+      "year": 2019,
+      "venue": "Materials",
+      "score": 0.42642715966277267,
+      "abstract": "Background: The aim of the present prospective case series study was to evaluate the implant and prosthetic survival rates, complications and marginal bone loss using ultra-fine titanium mesh membrane with simultaneous implant placement, to provide space maintenance mandatory for guided bone reconstruction of alveolar bone defects. Materials and Methods: patients were recruited and treated at a private clinic in Rome, Italy, between March 2016 and October 2017. Self-tapping tapered implants were placed through a computer-guided template-assisted approach. Autogenous bone was placed alone over the exposed implant surface, then mixed with inorganic bovine bone material. Finally, the membrane was connected and shaped in order to securely enclose the graft area, and the healing cap was connected and screwed onto the height connector. Outcome measures were: implant and prosthetic failure, biological and mechanical complications, marginal and volumetric bone level changes, esthetic evaluation performed according to the pink aesthetic score (PES). Results: in total, seven patients (five women, two men) with a mean age of 52.7 ± 20.3 years (range: 27–71) received 10 self-tapping tapered implants and simultaneous guided bone regeneration with ultra-fine titanium mesh membranes. No implants and no prostheses failed during the entire follow-up period. One slightly membrane exposure was observed one month after implant placement in one patient. The mean marginal bone loss (MBL) at implant loading was 0.13 ± 0.09 mm (95% CI 0.08–0.19). At the 18-month follow-up examination, the mean MBL was 0.28 ± 0.33 mm (95% CI 0.07–0.50) The difference was not statistically significant (0.15 ± 0.31; 95% CI 0.05–0.35; P = 0.1888). The mean horizontal alveolar ridge width was 3.72 ± 1.08 mm (95% CI 3.22–4.22 mm). At the II-stage surgery, the mean bone width was 8.79 ± 0.98 mm (95% CI 8.51–9.07 mm). The mean bone gain was 5.06 ± 1.13 mm (95% CI 4.68–5.44 mm; P = 0.000). The mean volume of the grafted bone calculated using the superimposition technique was 0.99 ± 0.38 CC (95% CI 0.75–1.23 CC). The mean PES at implant loading was 8.2 ± 0.8 mm (95% CI 7.7–8.7). At the 18-month follow-up examination, the mean PES was 12.0 ± 0.7 mm (95% CI 11.5–12.5) The difference was statistically significant (3.8 ± 0.4; 95% CI 3.5–4.1; P = 0.0000); Conclusion: with the limitation of the present prospective study, the guided bone reconstruction using an ultra-fine titanium mesh membrane with simultaneous implant placement seems to provide good and stable results in implant/prosthesis success. Further research with a longer follow-up and a higher sample size are needed to confirm the results from this preliminary report.",
+      "corpusId": 167210892,
+      "url": "https://api.semanticscholar.org/CorpusId:167210892",
+      "pubmed_id": "31130717",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ma12101710",
+        "matched_title": "Effect of Simultaneous Immediate Implant Placement and Guided Bone Reconstruction with Ultra-Fine Titanium Mesh Membranes on Radiographic and Clinical Parameters after 18 Months of Loading.",
+        "matched_pubdate": "2019 May 26",
+        "matched_source": "Materials (Basel)"
+      }
+    },
+    {
+      "title": "Treatment of dehiscences and fenestrations around dental implants using resorbable and nonresorbable membranes associated with bone autografts: a comparative clinical study.",
+      "authors": [
+        {
+          "name": "M. Simion",
+          "id": "4617371"
+        },
+        {
+          "name": "U. Misitano",
+          "id": "14758598"
+        },
+        {
+          "name": "L. Gionso",
+          "id": "12990222"
+        },
+        {
+          "name": "A. Salvato",
+          "id": "50593806"
+        }
+      ],
+      "year": 1997,
+      "venue": "The International Journal of Oral and Maxillofacial Implants",
+      "score": 0.41676129034164766,
+      "abstract": "",
+      "corpusId": 6522653,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/9109265",
+      "pubmed_id": "9586453",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1111/j.1600-0501.1997.tb00004.x",
+        "matched_title": "Bacterial penetration through Resolut resorbable membrane in vitro. An histological and scanning electron microscopic study.",
+        "matched_pubdate": "1997 Feb",
+        "matched_source": "Clin Oral Implants Res"
+      }
+    },
+    {
+      "title": "The Effectiveness and Practicality of a Novel Barrier Membrane for the Open Window in Maxillary Sinus Augmentation with a Lateral Approach, with Risk Indicators for Bone Graft Displacement and Bone Height Decrease: A Prospective Study in Humans",
+      "authors": [
+        {
+          "name": "Kikue Yamaguchi",
+          "id": "16291453"
+        },
+        {
+          "name": "M. Munakata",
+          "id": "3934843"
+        },
+        {
+          "name": "Daisuke Sato",
+          "id": "2244346278"
+        },
+        {
+          "name": "Yuhei Kataoka",
+          "id": "1479574575"
+        },
+        {
+          "name": "R. Kawamata",
+          "id": "2516569"
+        }
+      ],
+      "year": 2023,
+      "venue": "Bioengineering",
+      "score": 0.3983569662735766,
+      "abstract": "Maxillary sinus augmentation with a lateral approach (MSA) is a well-established treatment. In this prospective study, we evaluated risk factors for postoperative bone graft displacement and reported the clinical application of long-term resorbable L-lactic acid/-caprolactone (PLA/PCL) as a barrier membrane to cover the open window in the lateral wall in MSA. Twenty-four patients underwent MSA according to the relevant criteria; CT data obtained before and 1 week (1 w) and 5–6 months (5 m) post-MSA, bone height changes, bone height reduction rates at 1 w and 5 m post-MSA, bone graft displacement measurements, and risk factors were examined. All patients showed bone height increments (p < 0.005). However, no difference was observed between 1 w and 5 m post-MSA. Bone graft displacement was observed in eight patients; the reduction rate from 1 w to 5 m post-MSA was 8.38% ± 4.88%. Sex, septa, maxillary sinus floor–palatal bone distance, and maxillary sinus floor–maxillary ostium distance were associated with bone graft displacement (p < 0.05). The height from the maxillary sinus floor to the palatal bone and the sinus angle influenced the augmentation degree (p < 0.05). The PLA/PCL membrane is compared favorably with other membranes and may be useful as a barrier membrane for the MSA open window.",
+      "corpusId": 262190675,
+      "url": "https://api.semanticscholar.org/CorpusId:262190675",
+      "pubmed_id": "37892840",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/bioengineering10101110",
+        "matched_title": "The Effectiveness and Practicality of a Novel Barrier Membrane for the Open Window in Maxillary Sinus Augmentation with a Lateral Approach, with Risk Indicators for Bone Graft Displacement and Bone Height Decrease: A Prospective Study in Humans.",
+        "matched_pubdate": "2023 Sep 22",
+        "matched_source": "Bioengineering (Basel)"
+      }
+    },
+    {
+      "title": "Collagen membranes: a review.",
+      "authors": [
+        {
+          "name": "P. Bunyaratavej",
+          "id": "1720372"
+        },
+        {
+          "name": "Hom-lay Wang",
+          "id": "2026959533"
+        }
+      ],
+      "year": 2001,
+      "venue": "The Journal of Periodontology",
+      "score": 0.3929578205550782,
+      "abstract": "",
+      "corpusId": 25173653,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11288796",
+      "pubmed_id": "11288796",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1902/jop.2001.72.2.215",
+        "matched_title": "Collagen membranes: a review.",
+        "matched_pubdate": "2001 Feb",
+        "matched_source": "J Periodontol"
+      }
+    },
+    {
+      "title": "Guided bone regeneration: materials and biological mechanisms revisited",
+      "authors": [
+        {
+          "name": "Ibrahim Elgali",
+          "id": "4075174"
+        },
+        {
+          "name": "Omar Omar",
+          "id": "144894281"
+        },
+        {
+          "name": "C. Dahlin",
+          "id": "144201842"
+        },
+        {
+          "name": "P. Thomsen",
+          "id": "145497688"
+        }
+      ],
+      "year": 2017,
+      "venue": "European Journal of Oral Sciences",
+      "score": 0.3924498506895982,
+      "abstract": "Guided bone regeneration (GBR) is commonly used in combination with the installment of titanium implants. The application of a membrane to exclude non‐osteogenic tissues from interfering with bone regeneration is a key principle of GBR. Membrane materials possess a number of properties which are amenable to modification. A large number of membranes have been introduced for experimental and clinical verification. This prompts the need for an update on membrane properties and the biological outcomes, as well as a critical assessment of the biological mechanisms governing bone regeneration in defects covered by membranes. The relevant literature for this narrative review was assessed after a MEDLINE/PubMed database search. Experimental data suggest that different modifications of the physicochemical and mechanical properties of membranes may promote bone regeneration. Nevertheless, the precise role of membrane porosities for the barrier function of GBR membranes still awaits elucidation. Novel experimental findings also suggest an active role of the membrane compartment per se in promoting the regenerative processes in the underlying defect during GBR, instead of being purely a passive barrier. The optimization of membrane materials by systematically addressing both the barrier and the bioactive properties is an important strategy in this field of research.",
+      "corpusId": 21622131,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/28833567",
+      "pubmed_id": "28833567",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1111/eos.12364",
+        "matched_title": "Guided bone regeneration: materials and biological mechanisms revisited.",
+        "matched_pubdate": "2017 Oct",
+        "matched_source": "Eur J Oral Sci"
+      }
+    },
+    {
+      "title": "The impact of thickness of resorbable membrane of human origin on the ossification of bone defects: a pathohistologic study.",
+      "authors": [
+        {
+          "name": "M. Bubalo",
+          "id": "4356116"
+        },
+        {
+          "name": "Z. Lazić",
+          "id": "31926947"
+        },
+        {
+          "name": "S. Matić",
+          "id": "92749410"
+        },
+        {
+          "name": "Zoran Tatić",
+          "id": "10053854"
+        },
+        {
+          "name": "Radomir Milović",
+          "id": "14447200"
+        },
+        {
+          "name": "Aleksandra Petkovic Curcin",
+          "id": "15189659"
+        },
+        {
+          "name": "D. Djurdjević",
+          "id": "46792984"
+        },
+        {
+          "name": "S. Loncarevic",
+          "id": "47780583"
+        }
+      ],
+      "year": 2012,
+      "venue": "Vojnosanitetski Pregled",
+      "score": 0.377539616107942,
+      "abstract": "BACKGROUND/AIM\nA wide range of resorbable and non-resorbable membranes have been investigated over the last two decades. The barrier membrane protects the defect from ingrowth of soft tissue cells and allows bone progenitor cells to develop bone within a blood clot that is formed beneath the barrier membrane. The membranes are applied to reconstruct small bony defect prior to implantation, to cover dehiscences and fenestrations around dental implants. The aim of this study was to evaluate the influence of human resorbable demineralized membrane (RHDM) thickness on bone regeneration.\n\n\nMETHODS\nThe experiment, approved by Ethical Committee, was performed on 6 dogs and conducted into three phases. Bone defects were created in all the 6 dogs on the left side of the mandible, 8 weeks after extraction of second, third and fourth premolars. One defect was covered with RHDM 100 micro thick, one with RHDM 200 micro thick, and the third defect left empty (control defect). The histopathological analysis was done 2, 4 and 6 months after the surgery. In the third phase samples of bone tissue were taken and subjected to histopathological analysis.\n\n\nRESULTS\nIn all the 6 dogs the defects treated with RHDM 200 micro thick showed higher level of bone regeneration in comparison with the defect treated with RHDM 100 micro thick and especially with empty defect.\n\n\nCONCLUSION\nOur results demonstrated that the thicker membrane showed the least soft tissue ingrowths and promoted better bone formation at 6 months compared with a thinner one.",
+      "corpusId": 15358871,
+      "url": "https://api.semanticscholar.org/CorpusId:15358871",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Photocrosslinkable Col/PCL/Mg composite membrane providing spatiotemporal maintenance and positive osteogenetic effects during guided bone regeneration",
+      "authors": [
+        {
+          "name": "Feilong Wang",
+          "id": "46429505"
+        },
+        {
+          "name": "D. Xia",
+          "id": "116735152"
+        },
+        {
+          "name": "Siyi Wang",
+          "id": "47673597"
+        },
+        {
+          "name": "Ranli Gu",
+          "id": "47336872"
+        },
+        {
+          "name": "Fan Yang",
+          "id": "145338244"
+        },
+        {
+          "name": "Xiao Zhao",
+          "id": "2111139697"
+        },
+        {
+          "name": "Xuenan Liu",
+          "id": "2151059674"
+        },
+        {
+          "name": "Yuan Zhu",
+          "id": "2117042479"
+        },
+        {
+          "name": "Hao Liu",
+          "id": "2143856921"
+        },
+        {
+          "name": "Yongxiang Xu",
+          "id": "2146648083"
+        },
+        {
+          "name": "Yunsong Liu",
+          "id": "10299514"
+        },
+        {
+          "name": "Yongsheng Zhou",
+          "id": "39370131"
+        }
+      ],
+      "year": 2021,
+      "venue": "Bioactive Materials",
+      "score": 0.37127050247157234,
+      "abstract": "Guided bone regeneration membranes have been effectively applied in oral implantology to repair bone defects. However, typical resorbable membranes composed of collagen (Col) have insufficient mechanical properties and high degradation rate, while non-resorbable membranes need secondary surgery. Herein, we designed a photocrosslinkable collagen/polycaprolactone methacryloyl/magnesium (Col/PCLMA/Mg) composite membrane that provided spatiotemporal support effect after photocrosslinking. Magnesium particles were added to the PCLMA solution and Col/PCLMA and Col/PCLMA/Mg membranes were developed; Col membranes and PCL membranes were used as controls. After photocrosslinking, an interpenetrating polymer network was observed by scanning electron microscopy (SEM) in Col/PCL and Col/PCL/Mg membranes. The elastic modulus, swelling behavior, cytotoxicity, cell attachment, and cell proliferation of the membranes were evaluated. Degradation behavior in vivo and in vitro was monitored according to mass change and by SEM. The membranes were implanted into calvarial bone defects of rats for 8 weeks. The Col/PCL and Col/PCL/Mg membranes displayed much higher elastic modulus (p < 0.05), and a lower swelling rate (p < 0.05), than Col membranes, and there were no differences in cell biocompatibility among groups (p > 0.05). The Col/PCL and Col/PCL/Mg membranes had lower degradation rates than the Col membranes, both in vivo and in vitro (p < 0.05). The Col/PCL/Mg groups showed enhanced osteogenic capability compared with the Col groups at week 8 (p < 0.05). The Col/PCL/Mg composite membrane represents a new strategy to display space maintenance and enhance osteogenic potential, which meets clinical needs.",
+      "corpusId": 243486778,
+      "url": "https://api.semanticscholar.org/CorpusId:243486778",
+      "pubmed_id": "35224291",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.bioactmat.2021.10.019",
+        "matched_title": "Photocrosslinkable Col/PCL/Mg composite membrane providing spatiotemporal maintenance and positive osteogenetic effects during guided bone regeneration.",
+        "matched_pubdate": "2022 Jul",
+        "matched_source": "Bioact Mater"
+      }
+    },
+    {
+      "title": "Randomized controlled clinical study assessing two membranes for guided bone regeneration of peri‐implant bone defects: 3‐year results",
+      "authors": [
+        {
+          "name": "Tobias Basler",
+          "id": "34687373"
+        },
+        {
+          "name": "N. Naenni",
+          "id": "15636873"
+        },
+        {
+          "name": "D. Schneider",
+          "id": "39716219"
+        },
+        {
+          "name": "C. Hämmerle",
+          "id": "144152658"
+        },
+        {
+          "name": "R. Jung",
+          "id": "6413389"
+        },
+        {
+          "name": "D. Thoma",
+          "id": "1936282"
+        }
+      ],
+      "year": 2018,
+      "venue": "Clinical Oral Implants Research",
+      "score": 0.36885752177780345,
+      "abstract": "",
+      "corpusId": 4891172,
+      "url": "https://doi.org/10.1111/clr.13147",
+      "pubmed_id": "29656495",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1111/clr.13147",
+        "matched_title": "Randomized controlled clinical study assessing two membranes for guided bone regeneration of peri-implant bone defects: 3-year results.",
+        "matched_pubdate": "2018 May",
+        "matched_source": "Clin Oral Implants Res"
+      }
+    },
+    {
+      "title": "Effects of 3D-Printed Polycaprolactone/β-Tricalcium Phosphate Membranes on Guided Bone Regeneration",
+      "authors": [
+        {
+          "name": "J. Shim",
+          "id": "4922337"
+        },
+        {
+          "name": "Joo-Yun Won",
+          "id": "39690016"
+        },
+        {
+          "name": "Jung Park",
+          "id": "46979066"
+        },
+        {
+          "name": "Ji-Hyeon Bae",
+          "id": "5857062"
+        },
+        {
+          "name": "Geunseon Ahn",
+          "id": "14197592"
+        },
+        {
+          "name": "Changhwan Kim",
+          "id": "2110273009"
+        },
+        {
+          "name": "Dong-Hyuk Lim",
+          "id": "2926980"
+        },
+        {
+          "name": "D. Cho",
+          "id": "145757217"
+        },
+        {
+          "name": "Won-Soo Yun",
+          "id": "9223565"
+        },
+        {
+          "name": "Eun-Bin Bae",
+          "id": "37726180"
+        },
+        {
+          "name": "Chang-Mo Jeong",
+          "id": "4330693"
+        },
+        {
+          "name": "Jung-Bo Huh",
+          "id": "34168454"
+        }
+      ],
+      "year": 2017,
+      "venue": "International Journal of Molecular Sciences",
+      "score": 0.36494878143524356,
+      "abstract": "This study was conducted to compare 3D-printed polycaprolactone (PCL) and polycaprolactone/β-tricalcium phosphate (PCL/β-TCP) membranes with a conventional commercial collagen membrane in terms of their abilities to facilitate guided bone regeneration (GBR). Fabricated membranes were tested for dry and wet mechanical properties. Fibroblasts and preosteoblasts were seeded into the membranes and rates and patterns of proliferation were analyzed using a kit-8 assay and by scanning electron microscopy. Osteogenic differentiation was verified by alizarin red S and alkaline phosphatase (ALP) staining. An in vivo experiment was performed using an alveolar bone defect beagle model, in which defects in three dogs were covered with different membranes. CT and histological analyses at eight weeks after surgery revealed that 3D-printed PCL/β-TCP membranes were more effective than 3D-printed PCL, and substantially better than conventional collagen membranes in terms of biocompatibility and bone regeneration and, thus, at facilitating GBR.",
+      "corpusId": 23462004,
+      "url": "https://api.semanticscholar.org/CorpusId:23462004",
+      "pubmed_id": "28441338",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ijms18050899",
+        "matched_title": "Effects of 3D-Printed Polycaprolactone/β-Tricalcium Phosphate Membranes on Guided Bone Regeneration.",
+        "matched_pubdate": "2017 Apr 25",
+        "matched_source": "Int J Mol Sci"
+      }
+    },
+    {
+      "title": "Current barrier membranes: titanium mesh and other membranes for guided bone regeneration in dental applications.",
+      "authors": [
+        {
+          "name": "Y. D. Rakhmatia",
+          "id": "12978955"
+        },
+        {
+          "name": "Y. Ayukawa",
+          "id": "4795628"
+        },
+        {
+          "name": "A. Furuhashi",
+          "id": "5885803"
+        },
+        {
+          "name": "K. Koyano",
+          "id": "1914317"
+        }
+      ],
+      "year": 2013,
+      "venue": "Journal of Prosthodontic Research",
+      "score": 0.359294543520563,
+      "abstract": "Research on guided bone regeneration (GBR) is still ongoing, with evidence mainly from preclinical studies. Various current barrier membranes should fulfill the main design criteria for GBR, such as biocompatibility, occlusivity, spaciousness, clinical manageability and the appropriate integration with the surrounding tissue. These GBR characteristics are required to provide the maximum membrane function and mechanical support to the tissue during bone formation. In this review, various commercially available, resorbable and non-resorbable membranes with different characteristics are discussed and summarized for their usefulness in preclinical studies. Membranes offer promising solutions in animal models; however, an ideal membrane has not been established yet for clinical applications. Every membrane type presents both advantages and disadvantages. Titanium mesh membranes offer superb mechanical properties for GBR treatment and its current efficacy in trials will be a focus in this review. A thorough understanding of the benefits and limitations inherent to various materials in specific clinical applications will be of great value and aid in the selection of an optimal membrane for GBR.",
+      "corpusId": 1451408,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/23347794",
+      "pubmed_id": "23347794",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.jpor.2012.12.001",
+        "matched_title": "Current barrier membranes: titanium mesh and other membranes for guided bone regeneration in dental applications.",
+        "matched_pubdate": "2013 Jan",
+        "matched_source": "J Prosthodont Res"
+      }
+    },
+    {
+      "title": "Guided Bone Regeneration with Collagen Membranes and Particulate Graft Materials: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        {
+          "name": "Bastian Wessing",
+          "id": "13709406"
+        },
+        {
+          "name": "Stefan Lettner",
+          "id": "3084673"
+        },
+        {
+          "name": "W. Zechner",
+          "id": "7369258"
+        }
+      ],
+      "year": 2017,
+      "venue": "The International Journal of Oral and Maxillofacial Implants",
+      "score": 0.3558062374062511,
+      "abstract": "",
+      "corpusId": 9765332,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/28938035",
+      "pubmed_id": "28938035",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.11607/jomi.5461",
+        "matched_title": "Guided Bone Regeneration with Collagen Membranes and Particulate Graft Materials: A Systematic Review and Meta-Analysis.",
+        "matched_pubdate": "2018 January/February",
+        "matched_source": "Int J Oral Maxillofac Implants"
+      }
+    },
+    {
+      "title": "Polymeric membranes for guided bone regeneration",
+      "authors": [
+        {
+          "name": "P. Gentile",
+          "id": "5784414"
+        },
+        {
+          "name": "V. Chiono",
+          "id": "6318522"
+        },
+        {
+          "name": "C. Tonda-Turo",
+          "id": "1398361735"
+        },
+        {
+          "name": "A. Ferreira",
+          "id": "143764647"
+        },
+        {
+          "name": "G. Ciardelli",
+          "id": "4048538"
+        }
+      ],
+      "year": 2011,
+      "venue": "Biotechnology Journal",
+      "score": 0.3537445209319224,
+      "abstract": "",
+      "corpusId": 26635942,
+      "url": "https://doi.org/10.1002/biot.201100294",
+      "pubmed_id": "21932249",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1002/biot.201100294",
+        "matched_title": "Polymeric membranes for guided bone regeneration.",
+        "matched_pubdate": "2011 Oct",
+        "matched_source": "Biotechnol J"
+      }
+    },
+    {
+      "title": "Mechanisms of Guided Bone Regeneration: A Review",
+      "authors": [
+        {
+          "name": "Jie Liu",
+          "id": "2146651107"
+        },
+        {
+          "name": "D. Kerns",
+          "id": "8374610"
+        }
+      ],
+      "year": 2014,
+      "venue": "Open Dentistry Journal",
+      "score": 0.34794882749408623,
+      "abstract": "Post-extraction crestal bone resorption is common and unavoidable which can lead to significant ridge dimensional changes. To regenerate enough bone for successful implant placement, Guided Bone Regeneration (GBR) is often required. GBR is a surgical procedure that uses barrier membranes with or without particulate bone grafts or/and bone substitutes. There are two approaches of GBR in implant therapy: GBR at implant placement (simultaneous approach) and GBR before implant placement to increase the alveolar ridge or improve ridge morphology (staged approach). Angiogenesis and ample blood supply play a critical role in promoting bone regeneration.",
+      "corpusId": 2237294,
+      "url": "https://pdfs.semanticscholar.org/3fbc/4558254f6053ffddc437a82e7956501923d5.pdf",
+      "pubmed_id": "24894890",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2174/1874210601408010056",
+        "matched_title": "Mechanisms of guided bone regeneration: a review.",
+        "matched_pubdate": "2014",
+        "matched_source": "Open Dent J"
+      }
+    },
+    {
+      "title": "How efficacious is the combination of substitute bone graft with autogenous bone graft in comparison with substitute bone graft alone in the horizontal bone gain? A systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "J. Meza-Mauricio",
+          "id": "1435269302"
+        },
+        {
+          "name": "C. Furquim",
+          "id": "13377256"
+        },
+        {
+          "name": "Leonardo Delfino dos Reis",
+          "id": "2047472710"
+        },
+        {
+          "name": "Marlon-Marx-Hilariano Maximiano",
+          "id": "2183468633"
+        },
+        {
+          "name": "G. Mendoza-azpur",
+          "id": "1403566803"
+        },
+        {
+          "name": "F. Muniz",
+          "id": "4290710"
+        },
+        {
+          "name": "G. Rasperini",
+          "id": "4847255"
+        },
+        {
+          "name": "M. Faveri",
+          "id": "144959115"
+        }
+      ],
+      "year": 2021,
+      "venue": "Journal of Clinical and Experimental Dentistry",
+      "score": 0.33315308766323565,
+      "abstract": "Background A systematic review (SR) was conducted to answer the following focused question based on PICO strategy: In patients who were submitted to horizontal guided bone regeneration, “how efficacious is the combination of substitute bone graft with autogenous bone graft in comparison with substitute bone graft alone, in terms of bone gain?” Material and Methods MEDLINE (PubMed), Scopus, Embase, Web of Science databases were searched, and hand searches were made up to June 2021, to find randomized clinical trials comparing the clinical effects of autogenous bone graft + substitute bone graft versus substitute bone graft alone in the treatment of horizontal guided bone regeneration. Results Four trials representing 109 individuals were included. All studies included in this SR used allogeneic bone graft. The meta-analysis did not show any statistically significant difference between the groups, for horizontal bone gain at a distance of 0 mm (MD: -0.46; 95%CI: -1.03 – 0.11) or at a distance of 4 to 5 mm from the top of the crestal alveolar ridge (MD: 0.17; 95%CI: -1.08 – 1.42). Conclusions Within limitations of this systematic review, it was concluded that the addition of autogenous bone graft to the allogeneic bone graft did not significantly increase the quantity of regenerated bone. Key words:Bone graft, bone regeneration, allograft.",
+      "corpusId": 239636550,
+      "url": "https://api.semanticscholar.org/CorpusId:239636550",
+      "pubmed_id": "36046167",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.4317/jced.59087",
+        "matched_title": "How efficacious is the combination of substitute bone graft with autogenous bone graft in comparison with substitute bone graft alone in the horizontal bone gain? A systematic review and meta-analysis.",
+        "matched_pubdate": "2022 Aug",
+        "matched_source": "J Clin Exp Dent"
+      }
+    }
+  ]
+}

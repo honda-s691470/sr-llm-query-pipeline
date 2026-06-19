@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41505363_2026",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR \"RA\"[tiab]) AND (\"telemedicine\"[Mesh] OR \"mobile applications\"[Mesh] OR \"mHealth\"[tiab] OR \"m-health\"[tiab] OR \"eHealth\"[tiab] OR \"e-health\"[tiab] OR \"telehealth\"[tiab] OR \"telemedicine\"[tiab] OR \"teleconsultation\"[tiab] OR \"telemonitoring\"[tiab] OR \"smartphone\"[tiab] OR \"mobile app\"[tiab] OR \"mobile application\"[tiab] OR \"health app\"[tiab] OR \"digital health\"[tiab] OR \"web-based\"[tiab] OR \"online platform\"[tiab] OR \"internet-based\"[tiab] OR \"remote monitoring\"[tiab] OR \"self-management\"[tiab] OR \"symptom tracking\"[tiab] OR \"wearable\"[tiab] OR \"smart health\"[tiab] OR \"electronic health\"[tiab] OR \"patient portal\"[tiab]) AND (\"randomized controlled trial\"[pt] OR \"randomized controlled trial\"[tiab] OR \"randomised controlled trial\"[tiab] OR \"RCT\"[tiab] OR \"random allocation\"[Mesh] OR \"randomly assigned\"[tiab])",
+  "status": "ok"
+}

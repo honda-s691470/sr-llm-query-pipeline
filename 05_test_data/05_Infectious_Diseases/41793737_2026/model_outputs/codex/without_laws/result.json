@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-13T15:39:32Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41793737_2026",
+  "domain_folder": "05_Infectious_Diseases",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"guided bone regeneration\"[tiab] OR GBR[tiab] OR (\"Bone Regeneration\"[Mesh] AND (guided[tiab] OR alveolar[tiab] OR dental[tiab]))) AND (membrane*[tiab] OR \"barrier membrane*\"[tiab]) AND ((resorbable[tiab] OR absorbable[tiab] OR bioresorbable[tiab] OR \"collagen membrane*\"[tiab]) OR (nonresorbable[tiab] OR \"non-resorbable\"[tiab] OR \"non absorbable\"[tiab] OR \"non-absorbable\"[tiab] OR PTFE[tiab] OR \"e-PTFE\"[tiab] OR \"expanded polytetrafluoroethylene\"[tiab] OR \"titanium mesh\"[tiab])) AND (compar*[tiab] OR versus[tiab] OR vs[tiab] OR control*[tiab] OR randomized[tiab] OR randomised[tiab] OR trial[tiab])) AND (english[lang] OR spanish[lang]) NOT (animals[mh] NOT humans[mh])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260313_162438\\codex\\05_Infectious_Diseases\\41793737_2026\\without_laws"
+}

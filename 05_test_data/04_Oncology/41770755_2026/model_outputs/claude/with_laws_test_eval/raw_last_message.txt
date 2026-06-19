@@ -1,0 +1,1 @@
+("Neoplasms"[Mesh] OR cancer[tiab] OR oncolog*[tiab] OR tumor[tiab] OR tumour[tiab] OR carcinoma[tiab] OR malignancy[tiab]) AND ("prehabilitation"[tiab] OR prehab[tiab] OR "pre-habilitation"[tiab] OR "preoperative rehabilitation"[tiab] OR "pretreatment rehabilitation"[tiab] OR "pre-treatment exercise"[tiab])

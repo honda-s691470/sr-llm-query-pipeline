@@ -1,0 +1,32 @@
+{
+  "target_name": "41522206_2026",
+  "pmid": "41522206",
+  "objectives": "To assess the impact of GLP-1 receptor agonists on all-cause mortality, major adverse cardiovascular events (MACE), and major adverse kidney events (MAKE) in adult kidney transplant recipients with type 2 diabetes mellitus, and to synthesize the limited available evidence to inform future research and clinical practice in this population.",
+  "inclusion_criteria": "Studies were eligible if they included adult (>=18 years) kidney transplant recipients with type 2 diabetes mellitus diagnosed either before or after transplantation, treated with any GLP-1 receptor agonist, reported at least one of the following outcomes: all-cause mortality, MACE, or MAKE, and used either a randomized controlled trial design or an observational design (prospective or retrospective cohort study).",
+  "exclusion_criteria": "Studies were excluded if they lacked a comparator group; were case reports, case series, editorials, letters, conference abstracts, or reviews; or did not report at least one primary outcome or provide sufficient data to extract effect estimates. Conference abstracts were specifically excluded because only full-text, peer-reviewed studies were considered eligible so that included data were complete, verifiable, and suitable for quality assessment.",
+  "pmid_query": "(\"Glucagon-Like Peptide 1 Receptor Agonists\"[Mesh] OR \"GLP-1 receptor agonist*\" OR \"GLP-1\" OR \"GLP-1 analogue\" OR \"Liraglutide\" OR \"Semaglutide\" OR \"Dulaglutide\" OR \"Exenatide\" OR \"Lixisenatide\") AND (\"Kidney transplant recipient\" OR \"Renal transplant recipient\" OR \"Kidney transplantation\" OR \"Renal transplantation\" OR \"Post-transplant patients\" OR \"Kidney allograft\" OR \"Renal allograft\" OR \"Graft function\" OR \"Transplant patients\"); searched in PubMed and adapted for Embase and Cochrane Library from inception to July 2025, with no language restrictions and manual screening of reference lists.",
+  "ref_selection_strategy": "ref_numbers",
+  "selected_ref_numbers": [
+    17,
+    18,
+    19,
+    21
+  ],
+  "selected_ref_nums_compact": "17-19,21",
+  "selection_evidence": "Results state that after full-text assessment, 4 studies met the inclusion criteria and were included in the final analysis. Table 1 then lists exactly four included studies with numbered references: Cohen et al. 2025 [19], Orandi et al. 2025 [17], Lin et al. 2025 [18], and Sahi et al. 2025 [21]. Results sections cross-check the same set: the mortality leave-one-out analysis explicitly names Lin, Sahi, and Orandi, while the MAKE/Table 2 definitions explicitly name Orandi, Lin, and Cohen. The reference list confirms that refs 17, 18, 19, and 21 are the corresponding literature studies.",
+  "notes": "source_eligibility.json appears to have misdetected the study count by capturing a cited prior meta-analysis; the included-study set was resolved from the main manuscript Results, Table 1, and Table 2. Git was not available in the shell, so staged-status could not be checked separately.",
+  "predicted_pmids": [
+    "40054529",
+    "40056927",
+    "39984953"
+  ],
+  "gold_pmids": [
+    "40054529",
+    "40056927",
+    "39984953"
+  ],
+  "generated_at": "2026-03-07T19:06:49.241394+00:00",
+  "pipeline": "auto_include_pipeline_v1",
+  "pmid_query_exact_source": "(\"Glucagon-Like Peptide 1 Receptor Agonists\"[Mesh] OR \"GLP-1 receptor agonist*\" OR \"GLP-1\" OR \"GLP-1 analogue\" OR \"Liraglutide\" OR \"Semaglutide\" OR \"Dulaglutide\" OR \"Exenatide\" OR \"Lixisenatide\") AND (\"Kidney transplant recipient\" OR \"Renal transplant recipient\" OR \"Kidney transplantation\" OR \"Renal transplantation\" OR \"Post-transplant patients\" OR \"Kidney allograft\" OR \"Renal allograft\" OR \"Graft function\" OR \"Transplant patients\")",
+  "pmid_query_repair_notes": "format_error: original pmid_query appended narrative database description after valid boolean string. Stripped trailing '; searched in PubMed and adapted for Embase and Cochrane Library from inception to July 2025, with no language restrictions and manual screening of reference lists.' Executable boolean core preserved exactly."
+}

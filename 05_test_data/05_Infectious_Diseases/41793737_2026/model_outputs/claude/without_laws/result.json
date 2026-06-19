@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "05_Infectious_Diseases",
+  "paper_folder": "41793737_2026",
+  "query": "(\"guided bone regeneration\"[tiab] OR \"guided bone regeneration\"[MeSH Terms] OR \"GBR\"[tiab]) AND (\"membrane\"[tiab] OR \"membranes\"[tiab] OR \"barrier membrane\"[tiab] OR \"barrier membranes\"[tiab]) AND (\"resorbable\"[tiab] OR \"absorbable\"[tiab] OR \"biodegradable\"[tiab] OR \"non-resorbable\"[tiab] OR \"nonresorbable\"[tiab] OR \"expanded polytetrafluoroethylene\"[tiab] OR \"ePTFE\"[tiab] OR \"titanium mesh\"[tiab] OR \"collagen membrane\"[tiab]) AND (\"bone formation\"[tiab] OR \"bone regeneration\"[tiab] OR \"new bone\"[tiab] OR \"bone graft\"[tiab] OR \"graft stability\"[tiab] OR \"membrane exposure\"[tiab] OR \"graft loss\"[tiab] OR \"complication\"[tiab] OR \"complications\"[tiab] OR \"failure\"[tiab] OR \"failures\"[tiab] OR \"bone resorption\"[tiab] OR \"infection\"[tiab]) AND (\"randomized controlled trial\"[pt] OR \"randomized\"[tiab] OR \"randomised\"[tiab] OR \"comparative study\"[pt] OR \"clinical trial\"[pt] OR \"controlled clinical trial\"[pt] OR \"prospective\"[tiab] OR \"retrospective\"[tiab])",
+  "status": "ok"
+}

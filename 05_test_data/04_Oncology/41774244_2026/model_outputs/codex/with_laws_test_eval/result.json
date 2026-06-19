@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T15:02:09Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41774244_2026",
+  "provider": "codex",
+  "model": "gpt-5.3-codex",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(((\"Lymphoma, Non-Hodgkin\"[Mesh] OR \"non-hodgkin lymphoma\"[tiab] OR nonhodgkin[tiab] OR NHL[tiab] OR \"B-cell lymphoma\"[tiab] OR \"T-cell lymphoma\"[tiab] OR \"diffuse large B-cell lymphoma\"[tiab] OR DLBCL[tiab] OR \"follicular lymphoma\"[tiab] OR \"mantle cell lymphoma\"[tiab] OR \"peripheral T-cell lymphoma\"[tiab]) AND (\"Survivors\"[Mesh] OR survivor*[tiab] OR survivorship[tiab] OR \"cancer survivor*\"[tiab] OR posttreatment[tiab] OR \"post-treatment\"[tiab] OR \"after treatment\"[tiab] OR \"treatment completion\"[tiab] OR \"completed treatment\"[tiab] OR remission[tiab] OR \"disease-free\"[tiab] OR \"off treatment\"[tiab])) AND (\"Quality of Life\"[Mesh] OR \"quality of life\"[tiab] OR QoL[tiab] OR HRQoL[tiab] OR \"health-related quality of life\"[tiab] OR \"well-being\"[tiab] OR wellbeing[tiab] OR \"patient-reported outcome*\"[tiab] OR PROM[tiab]) AND (factor*[tiab] OR determinant*[tiab] OR predictor*[tiab] OR correlat*[tiab] OR associat*[tiab] OR influenc*[tiab] OR impact*[tiab] OR barrier*[tiab] OR facilitator*[tiab])) AND english[lang] AND (\"2014/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])",
+  "query_length": 1098,
+  "gold_count": 19,
+  "total_hits": 163,
+  "hit_gold_count": 16,
+  "recall": 0.8421052631578947,
+  "nnr": 10.1875,
+  "f1": 0.17582417582417584,
+  "error_note": ""
+}

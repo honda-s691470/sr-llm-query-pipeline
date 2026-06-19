@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-03-17T11:04:29Z",
+  "provider": "gemini",
+  "condition": "without_laws",
+  "paper_folder": "41720985_2026",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "status": "ok",
+  "query": "(Hemangioma, Cavernous, Central Nervous System[Mesh] OR \"cavernous malformation*\"[tiab] OR \"cavernoma*\"[tiab] OR SCM[tiab]) AND (Spinal Cord[Mesh] OR \"spinal cord\"[tiab] OR spinal[tiab]) AND (Surgery[Mesh] OR surgery[tiab] OR surgical[tiab])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\manual_gemini\\02_Cardiovascular_Disease\\41720985_2026\\without_laws"
+}

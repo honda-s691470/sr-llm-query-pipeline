@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:23:34Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41792786_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Colorectal Neoplasms\"[Mesh] OR \"colorectal cancer\"[tiab] OR \"colon cancer\"[tiab] OR \"rectal cancer\"[tiab] OR \"colorectal carcinoma\"[tiab] OR \"colon carcinoma\"[tiab] OR \"rectal carcinoma\"[tiab]) AND (\"Heat-Shock Proteins\"[Mesh] OR \"heat shock protein\"[tiab] OR \"heat-shock protein\"[tiab] OR HSP[tiab] OR HSPs[tiab] OR \"HSP27\"[tiab] OR \"HSP60\"[tiab] OR \"HSP70\"[tiab] OR \"HSP90\"[tiab] OR \"HSPA\"[tiab] OR \"HSPB\"[tiab] OR \"HSPC\"[tiab] OR \"HSPD\"[tiab])",
+  "query_length": 448,
+  "gold_count": 20,
+  "total_hits": 1341,
+  "hit_gold_count": 20,
+  "recall": 1.0,
+  "nnr": 67.05,
+  "f1": 0.02939015429831007,
+  "error_note": ""
+}

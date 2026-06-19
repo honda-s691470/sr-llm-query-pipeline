@@ -1,0 +1,28 @@
+{
+  "query": "(\"Neoplasms\"[Mesh] OR cancer*[tiab] OR oncol*[tiab] OR tumor*[tiab] OR tumour*[tiab] OR malignancy[tiab]) AND (prehabilitation[tiab] OR \"pre-rehabilitation\"[tiab] OR \"prehabiliation\"[tiab]) AND (\"Telemedicine\"[Mesh] OR digital*[tiab] OR telehealth[tiab] OR mHealth[tiab] OR \"mobile health\"[tiab] OR wearable*[tiab] OR \"online\"[tiab] OR eHealth[tiab])",
+  "query_path": "05_test_data\\04_Oncology\\41770755_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data\\04_Oncology\\41770755_2026\\input_config_detailed.json",
+  "total_hits": 124,
+  "recall": 0.75,
+  "found_count": 9,
+  "total_gold": 12,
+  "mode": "open",
+  "timestamp_unix": 1781083243,
+  "missed_pmids": [
+    "32992759",
+    "36005070",
+    "38636115"
+  ],
+  "found_pmids": [
+    "30550454",
+    "33723969",
+    "33971869",
+    "34204531",
+    "36547143",
+    "36826089",
+    "37894406",
+    "37965450",
+    "38077622"
+  ],
+  "missed_count": 3
+}

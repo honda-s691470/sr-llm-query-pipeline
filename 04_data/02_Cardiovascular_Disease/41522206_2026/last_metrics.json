@@ -1,0 +1,10 @@
+{
+  "query": "(((\"Kidney Transplantation\"[Mesh] OR kidney transplant*[tiab] OR renal transplant*[tiab] OR kidney allograft*[tiab] OR renal allograft*[tiab]) AND (\"Glucagon-Like Peptide 1 Receptor Agonists\"[Mesh] OR GLP-1 receptor agonist*[tiab] OR GLP1 receptor agonist*[tiab] OR glucagon-like peptide-1 receptor agonist*[tiab] OR semaglutide[tiab] OR liraglutide[tiab] OR dulaglutide[tiab] OR exenatide[tiab] OR lixisenatide[tiab] OR tirzepatide[tiab]) AND (\"Diabetes Mellitus, Type 2\"[Mesh] OR type 2 diabetes[tiab] OR type 2 diabetic*[tiab] OR T2DM[tiab] OR diabetes mellitus type 2[tiab]))) AND ((\"Cohort Studies\"[Mesh]) AND english[lang] AND humans[mesh]))",
+  "total_hits": 19,
+  "recall": 1.0,
+  "found_count": 3,
+  "total_gold": 3,
+  "mode": "blind",
+  "timestamp_unix": 1773343677,
+  "missed_count": 0
+}

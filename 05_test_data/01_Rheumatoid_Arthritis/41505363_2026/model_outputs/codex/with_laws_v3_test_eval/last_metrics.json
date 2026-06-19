@@ -1,0 +1,34 @@
+{
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR RA[tiab]) AND (\"Telemedicine\"[Mesh] OR \"Mobile Applications\"[Mesh] OR telemedicine[tiab] OR telehealth[tiab] OR \"mobile health\"[tiab] OR mHealth[tiab] OR \"health app\"[tiab] OR smartphone*[tiab] OR \"digital health\"[tiab] OR wearable*[tiab] OR \"remote monitoring\"[tiab] OR eHealth[tiab] OR \"online platform\"[tiab]) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])",
+  "query_path": "05_test_data\\01_Rheumatoid_Arthritis\\41505363_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data\\01_Rheumatoid_Arthritis\\41505363_2026\\input_config_detailed.json",
+  "total_hits": 92,
+  "recall": 0.6666666666666666,
+  "found_count": 12,
+  "total_gold": 18,
+  "mode": "open",
+  "timestamp_unix": 1781083213,
+  "missed_pmids": [
+    "28106666",
+    "30309835",
+    "31038461",
+    "38126260",
+    "38152927",
+    "38498833"
+  ],
+  "found_pmids": [
+    "25574939",
+    "28511288",
+    "32026506",
+    "33020846",
+    "33559338",
+    "35048793",
+    "35248737",
+    "35389367",
+    "35818342",
+    "36410776",
+    "36799560",
+    "37058302"
+  ],
+  "missed_count": 6
+}

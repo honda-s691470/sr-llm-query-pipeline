@@ -1,0 +1,19 @@
+{
+  "query": "(\"Body Dysmorphic Disorders\"[Mesh] OR \"body dysmorphic disorder\"[tiab] OR BDD[tiab] OR dysmorphophobia[tiab] OR \"dysmorphic disorder\"[tiab]) AND (\"Neuroimaging\"[Mesh] OR neuroimaging[tiab] OR \"brain imaging\"[tiab] OR \"functional MRI\"[tiab] OR fMRI[tiab] OR \"magnetic resonance imaging\"[tiab] OR MRI[tiab] OR \"positron emission tomography\"[tiab] OR PET[tiab] OR \"brain activation\"[tiab] OR neurocircuitry[tiab] OR \"functional neuroimaging\"[tiab] OR \"structural MRI\"[tiab])",
+  "query_path": "04_data\\03_Psychiatry\\41694153_2026\\model_outputs\\codex\\with_laws_v2_training_eval\\normalized_query.txt",
+  "input_config_path": "04_data\\03_Psychiatry\\41694153_2026\\input_config.json",
+  "total_hits": 125,
+  "recall": 1.0,
+  "found_count": 4,
+  "total_gold": 4,
+  "mode": "open",
+  "timestamp_unix": 1781082119,
+  "missed_pmids": [],
+  "found_pmids": [
+    "18056550",
+    "20124119",
+    "21557897",
+    "32875486"
+  ],
+  "missed_count": 0
+}

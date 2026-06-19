@@ -1,0 +1,2786 @@
+{
+  "papers": [
+    {
+      "title": "Measuring Health-Related Quality of Life With Multimodal Data: Viewpoint",
+      "authors": [
+        {
+          "name": "I. Clay",
+          "id": "4889245"
+        },
+        {
+          "name": "Francesca K Cormack",
+          "id": "48873342"
+        },
+        {
+          "name": "Szymon Fedor",
+          "id": "2066233742"
+        },
+        {
+          "name": "L. Foschini",
+          "id": "1748978"
+        },
+        {
+          "name": "Giovanni Gentile",
+          "id": "1946638043"
+        },
+        {
+          "name": "C. van Hoof",
+          "id": "2145811580"
+        },
+        {
+          "name": "Priya Kumar",
+          "id": "2118922911"
+        },
+        {
+          "name": "F. Lipsmeier",
+          "id": "2019775"
+        },
+        {
+          "name": "Akane Sano",
+          "id": "2804453"
+        },
+        {
+          "name": "Benjamin L. Smarr",
+          "id": "2221240111"
+        },
+        {
+          "name": "B. Vandendriessche",
+          "id": "6911236"
+        },
+        {
+          "name": "Valeria De Luca",
+          "id": "2133553328"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Medical Internet Research",
+      "score": 0.9550666851180285,
+      "abstract": "The ability to objectively measure aspects of performance and behavior is a fundamental pillar of digital health, enabling digital wellness products, decentralized trial concepts, evidence generation, digital therapeutics, and more. Emerging multimodal technologies capable of measuring several modalities simultaneously and efforts to integrate inputs across several sources are further expanding the limits of what digital measures can assess. Experts from the field of digital health were convened as part of a multi-stakeholder workshop to examine the progress of multimodal digital measures in two key areas: detection of disease and the measurement of meaningful aspects of health relevant to the quality of life. Here we present a meeting report, summarizing key discussion points, relevant literature, and finally a vision for the immediate future, including how multimodal measures can provide value to stakeholders across drug development and care delivery, as well as three key areas where headway will need to be made if we are to continue to build on the encouraging progress so far: collaboration and data sharing, removal of barriers to data integration, and alignment around robust modular evaluation of new measurement capabilities.",
+      "corpusId": 249064054,
+      "url": "https://api.semanticscholar.org/CorpusId:249064054"
+    },
+    {
+      "title": "Predicting Symptoms of Depression and Anxiety Using Smartphone and Wearable Data",
+      "authors": [
+        {
+          "name": "Isaac Moshe",
+          "id": "1589469348"
+        },
+        {
+          "name": "Yannik Terhorst",
+          "id": "51261937"
+        },
+        {
+          "name": "Kennedy Opoku Asare",
+          "id": "2047525952"
+        },
+        {
+          "name": "L. Sander",
+          "id": "145567395"
+        },
+        {
+          "name": "Denzil Ferreira",
+          "id": "33763662"
+        },
+        {
+          "name": "H. Baumeister",
+          "id": "2847350"
+        },
+        {
+          "name": "D. Mohr",
+          "id": "50228835"
+        },
+        {
+          "name": "L. Pulkki-Råback",
+          "id": "1393658877"
+        }
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Psychiatry",
+      "score": 0.9332627014526546,
+      "abstract": "Background: Depression and anxiety are leading causes of disability worldwide but often remain undetected and untreated. Smartphone and wearable devices may offer a unique source of data to detect moment by moment changes in risk factors associated with mental disorders that overcome many of the limitations of traditional screening methods. Objective: The current study aimed to explore the extent to which data from smartphone and wearable devices could predict symptoms of depression and anxiety. Methods: A total of N = 60 adults (ages 24–68) who owned an Apple iPhone and Oura Ring were recruited online over a 2-week period. At the beginning of the study, participants installed the Delphi data acquisition app on their smartphone. The app continuously monitored participants' location (using GPS) and smartphone usage behavior (total usage time and frequency of use). The Oura Ring provided measures related to activity (step count and metabolic equivalent for task), sleep (total sleep time, sleep onset latency, wake after sleep onset and time in bed) and heart rate variability (HRV). In addition, participants were prompted to report their daily mood (valence and arousal). Participants completed self-reported assessments of depression, anxiety and stress (DASS-21) at baseline, midpoint and the end of the study. Results: Multilevel models demonstrated a significant negative association between the variability of locations visited and symptoms of depression (beta = −0.21, p = 0.037) and significant positive associations between total sleep time and depression (beta = 0.24, p = 0.023), time in bed and depression (beta = 0.26, p = 0.020), wake after sleep onset and anxiety (beta = 0.23, p = 0.035) and HRV and anxiety (beta = 0.26, p = 0.035). A combined model of smartphone and wearable features and self-reported mood provided the strongest prediction of depression. Conclusion: The current findings demonstrate that wearable devices may provide valuable sources of data in predicting symptoms of depression and anxiety, most notably data related to common measures of sleep.",
+      "corpusId": 231733996,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/33584388"
+    },
+    {
+      "title": "Actigraphic Correlates of Neuropsychiatric Disability in Adult Patients with Focal Epilepsy",
+      "authors": [
+        {
+          "name": "Mark A. Abboud",
+          "id": "2179423711"
+        },
+        {
+          "name": "Jessica L Kamen",
+          "id": "2155951098"
+        },
+        {
+          "name": "J. S. Bass",
+          "id": "145706026"
+        },
+        {
+          "name": "Lu Lin",
+          "id": "2157648229"
+        },
+        {
+          "name": "Jay R. Gavvala",
+          "id": "6238062"
+        },
+        {
+          "name": "Sindhu Rao",
+          "id": "153557327"
+        },
+        {
+          "name": "Stephen F. Smagula",
+          "id": "6131286"
+        },
+        {
+          "name": "Vijai Krishnan",
+          "id": "46178233"
+        }
+      ],
+      "year": 2022,
+      "venue": "bioRxiv",
+      "score": 0.9282646828980857,
+      "abstract": "Disability in patients with epilepsy (PWE) is multifactorial: beyond seizure frequency/severity, PWE are prone to a range of neuropsychiatric, cognitive, and somatic comorbidities that significantly impact quality of life. In this study, we explored how variations in epilepsy severity and the burden of self-reported somatic/neuropsychiatric symptoms are associated with disruptions to 24h activity patterns (rest-activity rhythms, RARs), determined through wrist accelerometry/actigraphy. Continuous multiday recordings were obtained from 59 adult patients with focal epilepsy (44% male, ages 18-72), who contemporaneously provided responses to a range of validated psychometric instruments to measure the burden of anxiety, depression, sleepiness, and somatic symptoms. As a comparator, we conducted a similar psychometric-actigraphic correlation in 1761 subjects of Hispanic origin (35% male, ages 18-65) from the Study of Latinos (SOL) Sueño Ancillary Study. RARs were analyzed via a sigmoidally-transformed cosine model (quantifying RAR amplitude, steepness, acrophase and robustness) and non-parametric measures to estimate RAR stability, fragmentation, and sleep. Compared with age- and sex-matched SOL subjects, RARs from PWE subjects featured a significantly diminished amplitude, a wider rest phase and significantly more total daily sleep. Within PWE, similar RAR distortions were associated with seizure intractability and/or anticonvulsant polytherapy. In contrast, high anxiety, depression, and somatic symptom scores were associated with diminished RAR robustness and a delayed acrophase. We applied the complete SOL Sueño database to train logistic regression models to dichotomously classify anxiety, depression and sleepiness symptoms using age, sex, body mass index and a range of non-collinear RAR parameters. When tested on PWE, these models predicted prevalent anxiety and depression symptoms with modest success (accuracy ∼70%) but failed to predict subjective sleepiness. Together, these results demonstrate that RAR features may vary with depression and anxiety symptoms in ambulatory patients with focal epilepsy, potentially offering a set of objective wearable-derived endpoints to adjunct routine clinical care and drug/device treatment trials. With larger actigraphic-psychometric datasets in PWE, we may identify RAR signatures that can more precisely distinguish between variations in seizure risk, the burden of anticonvulsant therapy and prevalent mood/anxiety symptoms.",
+      "corpusId": 253121686,
+      "url": "https://api.semanticscholar.org/CorpusId:253121686"
+    },
+    {
+      "title": "Wearable Artificial Intelligence for Anxiety and Depression: Scoping Review",
+      "authors": [
+        {
+          "name": "Alaa A. Abd-alrazaq",
+          "id": "1411490511"
+        },
+        {
+          "name": "Rawan AlSaad",
+          "id": "30535635"
+        },
+        {
+          "name": "S. Aziz",
+          "id": "2065989747"
+        },
+        {
+          "name": "Arfan Ahmed",
+          "id": "153137219"
+        },
+        {
+          "name": "K. Denecke",
+          "id": "2251210"
+        },
+        {
+          "name": "Mowafa J Househ",
+          "id": "2031828128"
+        },
+        {
+          "name": "Faisal Farooq",
+          "id": "2204830278"
+        },
+        {
+          "name": "Javaid Sheikh",
+          "id": "46333771"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Medical Internet Research",
+      "score": 0.9278709577634057,
+      "abstract": "Background Anxiety and depression are the most common mental disorders worldwide. Owing to the lack of psychiatrists around the world, the incorporation of artificial intelligence (AI) into wearable devices (wearable AI) has been exploited to provide mental health services. Objective This review aimed to explore the features of wearable AI used for anxiety and depression to identify application areas and open research issues. Methods We searched 8 electronic databases (MEDLINE, PsycINFO, Embase, CINAHL, IEEE Xplore, ACM Digital Library, Scopus, and Google Scholar) and included studies that met the inclusion criteria. Then, we checked the studies that cited the included studies and screened studies that were cited by the included studies. The study selection and data extraction were carried out by 2 reviewers independently. The extracted data were aggregated and summarized using narrative synthesis. Results Of the 1203 studies identified, 69 (5.74%) were included in this review. Approximately, two-thirds of the studies used wearable AI for depression, whereas the remaining studies used it for anxiety. The most frequent application of wearable AI was in diagnosing anxiety and depression; however, none of the studies used it for treatment purposes. Most studies targeted individuals aged between 18 and 65 years. The most common wearable device used in the studies was Actiwatch AW4 (Cambridge Neurotechnology Ltd). Wrist-worn devices were the most common type of wearable device in the studies. The most commonly used category of data for model development was physical activity data, followed by sleep data and heart rate data. The most frequently used data set from open sources was Depresjon. The most commonly used algorithm was random forest, followed by support vector machine. Conclusions Wearable AI can offer great promise in providing mental health services related to anxiety and depression. Wearable AI can be used by individuals for the prescreening assessment of anxiety and depression. Further reviews are needed to statistically synthesize the studies' results related to the performance and effectiveness of wearable AI. Given its potential, technology companies should invest more in wearable AI for the treatment of anxiety and depression.",
+      "corpusId": 254585121,
+      "url": "https://api.semanticscholar.org/CorpusId:254585121"
+    },
+    {
+      "title": "Deep learning paired with wearable passive sensing data predicts deterioration in anxiety disorder symptoms across 17-18 years.",
+      "authors": [
+        {
+          "name": "N. Jacobson",
+          "id": "39972662"
+        },
+        {
+          "name": "D. Lekkas",
+          "id": "1720920531"
+        },
+        {
+          "name": "R. Huang",
+          "id": "2030897915"
+        },
+        {
+          "name": "N. Thomas",
+          "id": "47187566"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Affective Disorders",
+      "score": 0.916116742923993,
+      "abstract": "",
+      "corpusId": 230784502,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/33401123"
+    },
+    {
+      "title": "Development of prediction models for screening depression and anxiety using smartphone and wearable-based digital phenotyping: protocol for the Smartphone and Wearable Assessment for Real-Time Screening of Depression and Anxiety (SWARTS-DA) observational study in Korea",
+      "authors": [
+        {
+          "name": "Yu-Bin Shin",
+          "id": "2280384632"
+        },
+        {
+          "name": "Ah Young Kim",
+          "id": "2368453380"
+        },
+        {
+          "name": "Seonmin Kim",
+          "id": "2367681995"
+        },
+        {
+          "name": "Min-Sup Shin",
+          "id": "2339866975"
+        },
+        {
+          "name": "J. Choi",
+          "id": "2155313023"
+        },
+        {
+          "name": "Kyunghun Lee",
+          "id": "2293173096"
+        },
+        {
+          "name": "Jisu Lee",
+          "id": "2274556978"
+        },
+        {
+          "name": "Sangwon Byun",
+          "id": "2046104"
+        },
+        {
+          "name": "Sujin Kim",
+          "id": "2360266079"
+        },
+        {
+          "name": "Heon-Jeong Lee",
+          "id": "2153344341"
+        },
+        {
+          "name": "Chul-Hyun Cho",
+          "id": "2178430161"
+        }
+      ],
+      "year": 2025,
+      "venue": "BMJ Open",
+      "score": 0.9134937093033579,
+      "abstract": "Introduction Depression and anxiety are highly prevalent mental health conditions that significantly affect quality of life and cause societal burdens. However, their detection and diagnosis rates remain low owing to the limitations of the current screening methods. With rapid technological advancements and the proliferation of consumer-grade wearable devices and smartphones, their integration into digital phenotyping research has enabled the unobtrusive screening for depression and anxiety in natural settings. The Smartphone and Wearable Assessment for Real-Time Screening of Depression and Anxiety study aims to develop prediction algorithms to identify individuals at risk for depressive and anxiety disorders, as well as those with mild-to-severe levels of either condition or both. By collecting comprehensive data using smartphones and smartwatches, this study aims to facilitate the translation of artificial intelligence-based early detection research into clinical impact, thereby potentially enhancing patient care through more accurate and timely interventions. Methods and analysis This cross-sectional observational study will enrol up to 2500 participants (at least 1000) aged 19-59 years from South Korea via social media outreach and clinical referrals. The eligible participants must use a compatible smartphone. Each participant will be followed up for 4 weeks. Data will be collected using a custom-developed smartphone application called PixelMood. Active data collection will include daily, weekly and monthly self-report questionnaires incorporating validated scales, such as the Patient Health Questionnaire-9 and Generalized Anxiety Disorder-7. Passive data from smartphones include information on physical activity, location, ambient light and smartphone usage patterns. Optionally, participants using the Apple Watch or Galaxy Watch devices can provide additional data on physiological responses and sleep health. The primary outcome will be the development of machine-learning algorithms to predict depression and anxiety based on these digital biomarkers. We will employ various machine-learning techniques, including random forest, support vector machine and deep-learning models. The secondary outcomes will include the association between digital biomarkers and clinical measures, and the feasibility and acceptability of data collection methods. Various features characterising mobile usage behaviours, physical/social activity, sleep patterns, resting physiological states and circadian rhythms will be exploited to serve as potential digital phenotyping markers. Advanced machine-learning and deep-learning techniques will be applied to multimodal data for model generation. Ethics and dissemination This study protocol was reviewed and approved by the Institutional Review Board of the Korea University Anam Hospital (approval number: 2023AN0506). The results of this study will be disseminated via multiple channels. The findings will be presented at local, national and international conferences in relevant fields, such as psychiatry, psychology and digital health. Manuscripts detailing the study results will be submitted to peer-reviewed journals for publication. Trial registration number The present study was registered with the Clinical Research Information Service (CRIS, https://cris.nih.go.kr; identifier: KCT0009183).",
+      "corpusId": 279452912,
+      "url": "https://api.semanticscholar.org/CorpusId:279452912"
+    },
+    {
+      "title": "Sleep, circadian rhythm, and physical activity patterns in depressive and anxiety disorders: A 2‐week ambulatory assessment study",
+      "authors": [
+        {
+          "name": "S. Difrancesco",
+          "id": "3446895"
+        },
+        {
+          "name": "F. Lamers",
+          "id": "2361959"
+        },
+        {
+          "name": "H. Riese",
+          "id": "1885607"
+        },
+        {
+          "name": "K. Merikangas",
+          "id": "144995928"
+        },
+        {
+          "name": "A. Beekman",
+          "id": "2090147772"
+        },
+        {
+          "name": "A. V. van Hemert",
+          "id": "7418295"
+        },
+        {
+          "name": "R. Schoevers",
+          "id": "6393723"
+        },
+        {
+          "name": "B.W.J.H. Penninx",
+          "id": "2090943057"
+        }
+      ],
+      "year": 2019,
+      "venue": "Depression and Anxiety",
+      "score": 0.9081841479992073,
+      "abstract": "Actigraphy may provide a more valid assessment of sleep, circadian rhythm (CR), and physical activity (PA) than self‐reported questionnaires, but has not been used widely to study the association with depression/anxiety and their clinical characteristics.",
+      "corpusId": 261053510,
+      "url": "https://api.semanticscholar.org/CorpusId:261053510"
+    },
+    {
+      "title": "Sleep patterns and risk of chronic disease as measured by long-term monitoring with commercial wearable devices in the All of Us Research Program",
+      "authors": [
+        {
+          "name": "Neil Zheng",
+          "id": "2312117570"
+        },
+        {
+          "name": "J. Annis",
+          "id": "2123017242"
+        },
+        {
+          "name": "Hiral Master",
+          "id": "2278799061"
+        },
+        {
+          "name": "Lide Han",
+          "id": "1631396146"
+        },
+        {
+          "name": "Karla Gleichauf",
+          "id": "2339997716"
+        },
+        {
+          "name": "Jack H. Ching",
+          "id": "2304903360"
+        },
+        {
+          "name": "Melody Nasser",
+          "id": "2213268813"
+        },
+        {
+          "name": "P. Coleman",
+          "id": "2312117008"
+        },
+        {
+          "name": "Stacy Desine",
+          "id": "150294537"
+        },
+        {
+          "name": "D. Ruderfer",
+          "id": "6223930"
+        },
+        {
+          "name": "John Hernandez",
+          "id": "2271600324"
+        },
+        {
+          "name": "L. Schneider",
+          "id": "2072259386"
+        },
+        {
+          "name": "Evan L. Brittain",
+          "id": "2293598619"
+        }
+      ],
+      "year": 2024,
+      "venue": "Nature Medicine",
+      "score": 0.9017378307121326,
+      "abstract": "Poor sleep health is associated with increased all-cause mortality and incidence of many chronic conditions. Previous studies have relied on cross-sectional and self-reported survey data or polysomnograms, which have limitations with respect to data granularity, sample size and longitudinal information. Here, using objectively measured, longitudinal sleep data from commercial wearable devices linked to electronic health record data from the All of Us Research Program, we show that sleep patterns, including sleep stages, duration and regularity, are associated with chronic disease incidence. Of the 6,785 participants included in this study, 71% were female, 84% self-identified as white and 71% had a college degree; the median age was 50.2 years (interquartile range = 35.7, 61.5) and the median sleep monitoring period was 4.5 years (2.5, 6.5). We found that rapid eye movement sleep and deep sleep were inversely associated with the odds of incident atrial fibrillation and that increased sleep irregularity was associated with increased odds of incident obesity, hyperlipidemia, hypertension, major depressive disorder and generalized anxiety disorder. Moreover, J-shaped associations were observed between average daily sleep duration and hypertension, major depressive disorder and generalized anxiety disorder. These findings show that sleep stages, duration and regularity are all important factors associated with chronic disease development and may inform evidence-based recommendations on healthy sleeping habits. In a cohort of 6,785 participants from the All of Us Research Program whose sleep was monitored by a Fitbit over a median of 4.5 years, sleep duration, stages and irregularity were associated with the incidence of obesity and a number of cardiovascular and psychological disorders.",
+      "corpusId": 271302079,
+      "url": "https://api.semanticscholar.org/CorpusId:271302079"
+    },
+    {
+      "title": "Co-Calibrating Physical and Psychological Outcomes and Consumer Wearable Activity Outcomes in Older Adults: An Evaluation of the coQoL Method",
+      "authors": [
+        {
+          "name": "Vlad Manea",
+          "id": "153398308"
+        },
+        {
+          "name": "K. Wac",
+          "id": "2852578"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Personalized Medicine",
+      "score": 0.8967581264752524,
+      "abstract": "Inactivity, lack of sleep, and poor nutrition predispose individuals to health risks. Patient-Reported Outcomes (PROs) assess physical behaviours and psychological states but are subject of self-reporting biases. Conversely, wearables are an increasingly accurate source of behavioural Technology-Reported Outcomes (TechROs). However, the extent to which PROs and TechROs provide convergent information is unknown. We propose the coQoL PRO-TechRO co-calibration method and report its feasibility, reliability, and human factors influencing data quality. Thirty-nine seniors provided 7.4 ± 4.4 PROs for physical activity (IPAQ), social support (MSPSS), anxiety/depression (GADS), nutrition (PREDIMED, SelfMNA), memory (MFE), sleep (PSQI), Quality of Life (EQ-5D-3L), and 295 ± 238 days of TechROs (Fitbit Charge 2) along two years. We co-calibrated PROs and TechROs by Spearman rank and reported human factors guiding coQoL use. We report high PRO—TechRO correlations (rS ≥ 0.8) for physical activity (moderate domestic activity—light+fair active duration), social support (family help—fair activity), anxiety/depression (numeric score—sleep duration), or sleep (duration to sleep—sleep duration) at various durations (7–120 days). coQoL feasibly co-calibrates constructs within physical behaviours and psychological states in seniors. Our results can inform designs of longitudinal observations and, whenever appropriate, personalized behavioural interventions.",
+      "corpusId": 226251669,
+      "url": "https://api.semanticscholar.org/CorpusId:226251669"
+    },
+    {
+      "title": "Association between heart rate variability metrics from a smartwatch and self-reported depression and anxiety symptoms: a four-week longitudinal study",
+      "authors": [
+        {
+          "name": "Y. T. Jo",
+          "id": "40897381"
+        },
+        {
+          "name": "Sang Won Lee",
+          "id": "2304301486"
+        },
+        {
+          "name": "Sungkyu Park",
+          "id": "2304331847"
+        },
+        {
+          "name": "Jungsun Lee",
+          "id": "2304213854"
+        }
+      ],
+      "year": 2024,
+      "venue": "Frontiers in Psychiatry",
+      "score": 0.8750888597961705,
+      "abstract": "Background Elucidating the association between heart rate variability (HRV) metrics obtained through non-invasive methods and mental health symptoms could provide an accessible approach to mental health monitoring. This study explores the correlation between HRV, estimated using photoplethysmography (PPG) signals, and self-reported symptoms of depression and anxiety. Methods A 4-week longitudinal study was conducted among 47 participants. Time–domain and frequency–domain HRV metrics were derived from PPG signals collected via smartwatches. Mental health symptoms were evaluated using the Patient Health Questionnaire-9 (PHQ-9) and Generalized Anxiety Disorder-7 (GAD-7) at baseline, week 2, and week 4. Results Among the investigated HRV metrics, RMSSD, SDNN, SDSD, LF, and the LF/HF ratio were significantly associated with the PHQ-9 score, although the number of significant correlations was relatively small. Furthermore, only SDNN, SDSD and LF showed significant correlations with the GAD-7 score. All HRV metrics showed negative correlations with self-reported clinical symptoms. Conclusions Our findings indicate the potential of PPG-derived HRV metrics in monitoring mental health, thereby providing a foundation for further research. Notably, parasympathetically biased HRV metrics showed weaker correlations with depression and anxiety scores. Future studies should validate these findings in clinically diagnosed patients.",
+      "corpusId": 270186718,
+      "url": "https://api.semanticscholar.org/CorpusId:270186718"
+    },
+    {
+      "title": "Impact of replacing sedentary behaviour with other movement behaviours on depression and anxiety symptoms: a prospective cohort study in the UK Biobank",
+      "authors": [
+        {
+          "name": "A. Kandola",
+          "id": "46347127"
+        },
+        {
+          "name": "B. del Pozo Cruz",
+          "id": "121425155"
+        },
+        {
+          "name": "D. P. Osborn",
+          "id": "2055104655"
+        },
+        {
+          "name": "B. Stubbs",
+          "id": "2878765"
+        },
+        {
+          "name": "K. Choi",
+          "id": "2353432989"
+        },
+        {
+          "name": "J. Hayes",
+          "id": "2151306314"
+        }
+      ],
+      "year": 2021,
+      "venue": "BMC Medicine",
+      "score": 0.8731761717132771,
+      "abstract": "Sedentary behaviour is potentially a modifiable risk factor for depression and anxiety disorders, but findings have been inconsistent. To assess the associations of sedentary behaviour with depression and anxiety symptoms and estimate the impact of replacing daily time spent in sedentary behaviours with sleep, light, or moderate to vigorous physical activity, using compositional data analysis methods. We conducted a prospective cohort study in 60,235 UK Biobank participants (mean age: 56; 56% female). Exposure was baseline daily movement behaviours (accelerometer-assessed sedentary behaviour and physical activity, and self-reported total sleep). Outcomes were depression and anxiety symptoms (Patient Health Questionnaire-9 and Generalised Anxiety Disorders-7) at follow-up. Replacing 60 min of sedentary behaviour with light activity, moderate-to-vigorous activity, and sleep was associated with lower depression symptom scores by 1.3% (95% CI, 0.4–2.1%), 12.5% (95% CI, 11.4–13.5%), and 7.6% (95% CI, 6.9–8.4%), and lower odds of possible depression by 0.95 (95% CI, 0.94–0.96), 0.75 (95% CI, 0.74–0.76), and 0.90 (95% CI, 0.90–0.91) at follow-up. Replacing 60 min of sedentary behaviour with moderate-to-vigorous activity and sleep was associated with lower anxiety symptom scores by 6.6% (95% CI, 5.5–7.6%) and 4.5% (95% CI, 3.7–5.2%), and lower odds of meeting the threshold for a possible anxiety disorder by 0.90 (95% CI, 0.89–0.90) and 0.97 (95%CI, 0.96–0.97) at follow-up. However, replacing 60 min of sedentary behaviour with light activity was associated with higher anxiety symptom scores by 4.5% (95% CI, 3.7–5.3%) and higher odds of a possible anxiety disorder by 1.07 (95% CI, 1.06–1.08). Sedentary behaviour is a risk factor for increased depression and anxiety symptoms in adults. Replacing sedentary behaviour with moderate-to-vigorous activity may reduce mental health risks, but more work is necessary to clarify the role of light activity.",
+      "corpusId": 235454059,
+      "url": "https://api.semanticscholar.org/CorpusId:235454059"
+    },
+    {
+      "title": "Machine Learning-Based Anxiety Detection in Older Adults Using Wristband Sensors and Context Feature",
+      "authors": [
+        {
+          "name": "R. K. Nath",
+          "id": "144413079"
+        },
+        {
+          "name": "H. Thapliyal",
+          "id": "2452409"
+        }
+      ],
+      "year": 2021,
+      "venue": "SN Computer Science",
+      "score": 0.8574137179666071,
+      "abstract": "This paper explores a novel method for anxiety detection in older adults using simple wristband sensors such as electrodermal activity (EDA) and photoplethysmogram (PPG) and a context-based feature. The proposed method for anxiety detection combines features from a single physiological signal with an experimental context-based feature to improve the performance of the anxiety detection model. The experimental data for this work are obtained from a year-long experiment on 41 healthy older adults (26 females and 15 males) in the age range 60-80 with mean age 73.36±5.25\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$73.36 \\pm 5.25$$\\end{document} during a Trier Social Stress Test (TSST) protocol. The anxiety level ground truth was obtained from State-Trait Anxiety Inventory (STAI), which is regarded as the gold standard to measure perceived anxiety. EDA and blood volume pulse (BVP) signals were recorded using a wrist-worn EDA and PPG sensor, respectively. 47 features were computed from EDA and BVP signal, out of which a final set of 24 significantly correlated features were selected for analysis. The phases of the experimental study are encoded as unique integers to generate the context feature vector. A combination of features from a single sensor with the context feature vector is used for training a machine learning model to distinguish between anxious and not-anxious states. Results and analysis showed that the EDA and BVP machine learning models that combined the context feature along with the physiological features achieved 3.37% and 6.41% higher accuracy, respectively, than the models that used only physiological features. Further, end-to-end processing of EDA and BVP signals was simulated for real-time anxiety level detection. This work demonstrates the practicality of the proposed anxiety detection method in facilitating long-term monitoring of anxiety in older adults using low-cost consumer devices.",
+      "corpusId": 235358327,
+      "url": "https://api.semanticscholar.org/CorpusId:235358327"
+    },
+    {
+      "title": "Panic Attack Prediction Using Wearable Devices and Machine Learning: Development and Cohort Study",
+      "authors": [
+        {
+          "name": "Chan-Hen Tsai",
+          "id": "1471610370"
+        },
+        {
+          "name": "Pei-Chen Chen",
+          "id": "2144370103"
+        },
+        {
+          "name": "Ding-Shan Liu",
+          "id": "2155790294"
+        },
+        {
+          "name": "Ying-Ying Kuo",
+          "id": "2140562101"
+        },
+        {
+          "name": "Tsung-Ting Hsieh",
+          "id": "2136683846"
+        },
+        {
+          "name": "Dai-Lun Chiang",
+          "id": "36482586"
+        },
+        {
+          "name": "F. Lai",
+          "id": "145497821"
+        },
+        {
+          "name": "Chia-Tung Wu",
+          "id": "2115395816"
+        }
+      ],
+      "year": 2021,
+      "venue": "JMIR Medical Informatics",
+      "score": 0.8529575198109983,
+      "abstract": "Background A panic attack (PA) is an intense form of anxiety accompanied by multiple somatic presentations, leading to frequent emergency department visits and impairing the quality of life. A prediction model for PAs could help clinicians and patients monitor, control, and carry out early intervention for recurrent PAs, enabling more personalized treatment for panic disorder (PD). Objective This study aims to provide a 7-day PA prediction model and determine the relationship between a future PA and various features, including physiological factors, anxiety and depressive factors, and the air quality index (AQI). Methods We enrolled 59 participants with PD (Diagnostic and Statistical Manual of Mental Disorders, 5th edition, and the Mini International Neuropsychiatric Interview). Participants used smartwatches (Garmin Vívosmart 4) and mobile apps to collect their sleep, heart rate (HR), activity level, anxiety, and depression scores (Beck Depression Inventory [BDI], Beck Anxiety Inventory [BAI], State-Trait Anxiety Inventory state anxiety [STAI-S], State-Trait Anxiety Inventory trait anxiety [STAI-T], and Panic Disorder Severity Scale Self-Report) in their real life for a duration of 1 year. We also included AQIs from open data. To analyze these data, our team used 6 machine learning methods: random forests, decision trees, linear discriminant analysis, adaptive boosting, extreme gradient boosting, and regularized greedy forests. Results For 7-day PA predictions, the random forest produced the best prediction rate. Overall, the accuracy of the test set was 67.4%-81.3% for different machine learning algorithms. The most critical variables in the model were questionnaire and physiological features, such as the BAI, BDI, STAI, MINI, average HR, resting HR, and deep sleep duration. Conclusions It is possible to predict PAs using a combination of data from questionnaires and physiological and environmental data.",
+      "corpusId": 241928076,
+      "url": "https://api.semanticscholar.org/CorpusId:241928076"
+    },
+    {
+      "title": "Smart Devices and Wearable Technologies to Detect and Monitor Mental Health Conditions and Stress: A Systematic Review",
+      "authors": [
+        {
+          "name": "B. Hickey",
+          "id": "153710275"
+        },
+        {
+          "name": "Taryn Chalmers",
+          "id": "51321548"
+        },
+        {
+          "name": "Phillip Newton",
+          "id": "2106134679"
+        },
+        {
+          "name": "Chin-Teng Lin",
+          "id": "2146114446"
+        },
+        {
+          "name": "D. Sibbritt",
+          "id": "5619059"
+        },
+        {
+          "name": "C. Mclachlan",
+          "id": "2665990"
+        },
+        {
+          "name": "R. Clifton-Bligh",
+          "id": "1398016015"
+        },
+        {
+          "name": "John Morley",
+          "id": "2068978617"
+        },
+        {
+          "name": "S. Lal",
+          "id": "2965210"
+        }
+      ],
+      "year": 2021,
+      "venue": "Italian National Conference on Sensors",
+      "score": 0.8336249689753684,
+      "abstract": "Recently, there has been an increase in the production of devices to monitor mental health and stress as means for expediting detection, and subsequent management of these conditions. The objective of this review is to identify and critically appraise the most recent smart devices and wearable technologies used to identify depression, anxiety, and stress, and the physiological process(es) linked to their detection. The MEDLINE, CINAHL, Cochrane Central, and PsycINFO databases were used to identify studies which utilised smart devices and wearable technologies to detect or monitor anxiety, depression, or stress. The included articles that assessed stress and anxiety unanimously used heart rate variability (HRV) parameters for detection of anxiety and stress, with the latter better detected by HRV and electroencephalogram (EGG) together. Electrodermal activity was used in recent studies, with high accuracy for stress detection; however, with questionable reliability. Depression was found to be largely detected using specific EEG signatures; however, devices detecting depression using EEG are not currently available on the market. This systematic review highlights that average heart rate used by many commercially available smart devices is not as accurate in the detection of stress and anxiety compared with heart rate variability, electrodermal activity, and possibly respiratory rate.",
+      "corpusId": 235227544,
+      "url": "https://pdfs.semanticscholar.org/9d0f/9f88896e1051713c49a95780dbced9d6d09d.pdf"
+    },
+    {
+      "title": "Digital phenotyping of generalized anxiety disorder: using artificial intelligence to accurately predict symptom severity using wearable sensors in daily life",
+      "authors": [
+        {
+          "name": "N. Jacobson",
+          "id": "39972662"
+        },
+        {
+          "name": "Brandon R. Feng",
+          "id": "2329560632"
+        }
+      ],
+      "year": 2022,
+      "venue": "Translational Psychiatry",
+      "score": 0.8332370706501654,
+      "abstract": "Background Generalized anxiety disorder (GAD) is a highly prevalent condition. Monitoring GAD symptoms requires substantial time, effort, and cost. The development of digital phenotypes of GAD may enable new scalable, timely, and inexpensive assessments of GAD symptoms. Method The current study used passive movement data collected within a large national cohort ( N  = 264) to assess GAD symptom severity. Results Using one week of movement data, machine learning models accurately predicted GAD symptoms across a continuum ( r  = 0.511) and accurately detected those individuals with elevated GAD symptoms (AUC = 0.892, 70.0% Sensitivity, 95.5% Specificity, Brier Score = 0.092). Those with a risk score at the 90 th percentile or above had 21 times the odds of having elevated GAD symptoms compared to those with lower risk scores. The risk score was most strongly associated with irritability, worry controllability, and restlessness (individual r s > 0.5). The risk scores for GAD were also discriminant of major depressive disorder symptom severity ( r  = 0.190). Limitations The current study examined the detection of GAD symptom severity rather than the prediction of GAD symptom severity across time. Furthermore, the instant sample of data did not include nighttime actigraphy, as participants were not asked to wear the actigraphs at night. Conclusions These results suggest that artificial intelligence can effectively utilize wearable movement data collected in daily life to accurately infer risk of GAD symptoms.",
+      "corpusId": 251599418,
+      "url": "https://doi.org/10.1038/s41398-022-02038-1"
+    },
+    {
+      "title": "Extending Anxiety Detection from Multimodal Wearables in Controlled Conditions to Real-World Environments",
+      "authors": [
+        {
+          "name": "Abdul E. Alkurdi",
+          "id": "104406127"
+        },
+        {
+          "name": "Maxine He",
+          "id": "2152345744"
+        },
+        {
+          "name": "Jonathan Cerna",
+          "id": "2296423742"
+        },
+        {
+          "name": "Jean L. Clore",
+          "id": "2335902551"
+        },
+        {
+          "name": "Richard B. Sowers",
+          "id": "2067178191"
+        },
+        {
+          "name": "Elizabeth T. Hsiao-Wecksler",
+          "id": "2248876811"
+        },
+        {
+          "name": "M. E. Hernandez",
+          "id": "2268032343"
+        }
+      ],
+      "year": 2025,
+      "venue": "Italian National Conference on Sensors",
+      "score": 0.830750339141207,
+      "abstract": "This study quantitatively evaluated whether and how machine learning (ML) models built by data from controlled conditions can fit real-world conditions. This study focused on feature-based models using wearable technology from real-world data collected from young adults, so as to provide insights into the models’ robustness and the specific challenges posed by diverse environmental noise. Feature-based models, particularly XGBoost and Decision Trees, demonstrated considerable resilience, maintaining higher accuracy and reliability across different noise levels. This investigation included an in-depth analysis of transfer learning, highlighting its potential and limitations in adapting models developed from standard datasets, like WESAD, to complex real-world scenarios. Moreover, this study analyzed the distributed feature importance across various physiological signals, such as electrodermal activity (EDA) and electrocardiography (ECG), considering their vulnerability to environmental factors. It was found that integrating multiple physiological data types could significantly enhance model robustness. The results underscored the need for a nuanced understanding of signal contributions to model efficacy, suggesting that feature-based models showed much promise in practical applications.",
+      "corpusId": 276454454,
+      "url": "https://api.semanticscholar.org/CorpusId:276454454"
+    },
+    {
+      "title": "Detecting Mental Disorders with Wearables: A Large Cohort Study",
+      "authors": [
+        {
+          "name": "R. Dai",
+          "id": "1486451872"
+        },
+        {
+          "name": "T. Kannampallil",
+          "id": "1798223"
+        },
+        {
+          "name": "Seunghwan Kim",
+          "id": "2144265469"
+        },
+        {
+          "name": "Vera Thornton",
+          "id": "73613192"
+        },
+        {
+          "name": "L. Bierut",
+          "id": "2922928"
+        },
+        {
+          "name": "Chenyang Lu",
+          "id": "2116819961"
+        }
+      ],
+      "year": 2023,
+      "venue": "International Conference on Internet-of-Things Design and Implementation",
+      "score": 0.8307292756885972,
+      "abstract": "Depression and anxiety are among the most prevalent mental disorders, and they are usually interconnected. Although these mental disorders have drawn increasing attention due to their tremendous negative impacts on working ability and job performance, over 50% of patients are not recognized or adequately treated. Recent literature has shown the potential of using wearables for expediting the detection of mental health disorders, as physical activities are reported to be related to some mental health disorders. However, most prior studies on mental health with wearables were limited to small cohorts. The feasibility of detecting mental disorders in the community with a large and diverse population remains an open question. In this paper, we study the problem of detecting depression and anxiety disorders with commercial wearable activity trackers based on a public dataset including 8,996 participants and 1,247 diagnosed with mental disorders. The large cohort is highly diverse, spanning a wide spectrum of age, race, ethnicity, and education levels. While prior studies were usually limited to shallow machine learning models and feature engineering to accommodate the small sample sizes, we develop an end-to-end deep model combining a transformer encoder and convolutional neural network to directly learn from daily wearable features and detect mental disorders. WearNet achieves an area Under the Receiver Operating Characteristic curve (AUROC) of 0.717 (S.D. 0.009) and an AUPRC of 0.487 (S.D. 0.008) in detecting mental disorders while outperforming traditional and state-of-the-art machine learning models. This work demonstrates the feasibility and promise of using wearables to detect mental disorders in a large and diverse community.",
+      "corpusId": 258333886,
+      "url": "https://api.semanticscholar.org/CorpusId:258333886"
+    },
+    {
+      "title": "Large-scale digital phenotyping: identifying depression and anxiety indicators in a general UK population with over 10,000 participants",
+      "authors": [
+        {
+          "name": "Yuezhou Zhang",
+          "id": "2145913187"
+        },
+        {
+          "name": "C. Stewart",
+          "id": "2246306885"
+        },
+        {
+          "name": "Y. Ranjan",
+          "id": "51903884"
+        },
+        {
+          "name": "P. Conde",
+          "id": "145603480"
+        },
+        {
+          "name": "H. Sankesara",
+          "id": "2141470790"
+        },
+        {
+          "name": "Z. Rashid",
+          "id": "3094273"
+        },
+        {
+          "name": "Shaoxiong Sun",
+          "id": "26934553"
+        },
+        {
+          "name": "Richard J. B. Dobson",
+          "id": "2215235732"
+        },
+        {
+          "name": "A. Folarin",
+          "id": "2133517"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Affective Disorders",
+      "score": 0.8291186309491733,
+      "abstract": "BACKGROUND\nDigital phenotyping offers a novel and cost-efficient approach for managing depression and anxiety. Previous studies, often limited to small-to-medium or specific populations, may lack generalizability.\n\n\nMETHODS\nWe conducted a cross-sectional analysis of data from 10,129 participants recruited from a UK-based general population between June 2020 and August 2022. Participants shared wearable (Fitbit) data and self-reported questionnaires on depression, anxiety, and mood via a study app. We examined correlations between mental health scores and wearable-derived features, demographics, health variables, and mood assessments. Unsupervised clustering was used to identify behavioural patterns associated with depression and anxiety. Furthermore, we employed separate XGBoost machine learning models to predict depression and anxiety severity and compared the performance using different subsets of features.\n\n\nRESULTS\nWe observed significant associations between the severity of depression and anxiety with several factors, including mood, age, gender, BMI, sleep patterns, physical activity, and heart rate. Clustering analysis revealed that participants simultaneously exhibiting lower physical activity levels and higher heart rates reported more severe symptoms. Prediction models incorporating all types of variables achieved the best performance (R2 = 0.41, MAE = 3.42 for depression; R2 = 0.31, MAE = 3.50 for anxiety) compared to those using subsets of variables. Several wearable-derived features were observed to have non-linear relationships with depression and anxiety in the prediction models.\n\n\nLIMITATIONS\nData collection during the COVID-19 pandemic may introduce biases.\n\n\nCONCLUSION\nThis study identified several indicators for depression and anxiety and highlighted the potential of digital phenotyping and machine learning technologies for rapid screening of mental disorders in general populations.",
+      "corpusId": 272881181,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/39892753"
+    },
+    {
+      "title": "Association between digital biomarkers and anxiety: a systematic review and meta‐analysis",
+      "authors": [
+        {
+          "name": "Y. Lau",
+          "id": "2202336972"
+        },
+        {
+          "name": "N. Chemas",
+          "id": "2339444406"
+        },
+        {
+          "name": "Heema Ajeet Gokani",
+          "id": "2151349889"
+        },
+        {
+          "name": "Rachel Morrell",
+          "id": "2276338184"
+        },
+        {
+          "name": "Zuzana Walker",
+          "id": "2237761936"
+        },
+        {
+          "name": "Harriet Demnitz-King",
+          "id": "1992799598"
+        },
+        {
+          "name": "N. Marchant",
+          "id": "2238257925"
+        }
+      ],
+      "year": 2024,
+      "venue": "Alzheimer's & Dementia",
+      "score": 0.8204501535466924,
+      "abstract": "Anxiety, both generalised anxiety disorder and anxiety symptoms, has been recognised as a risk factor and prodromal symptom of dementia. Digital biomarkers are gaining interest as proxy markers for mental health because they enable passive and continuous data collection, allowing for early detection. However, the association between digital biomarkers and anxiety remains unknown. This systematic review and meta‐analysis aimed to examine the association between digital biomarkers obtained from wrist‐worn wearables and anxiety symptoms in adults.",
+      "corpusId": 275433106,
+      "url": "https://api.semanticscholar.org/CorpusId:275433106"
+    },
+    {
+      "title": "A Survey of Passive Sensing for Workplace Wellbeing and Productivity",
+      "authors": [
+        {
+          "name": "Subigya Nepal",
+          "id": "1404370185"
+        },
+        {
+          "name": "Gonzalo J. Martínez",
+          "id": "143750085"
+        },
+        {
+          "name": "Shayan Mirjafari",
+          "id": "80334295"
+        },
+        {
+          "name": "Koustuv Saha",
+          "id": "12619623"
+        },
+        {
+          "name": "V. D. Swain",
+          "id": "9805088"
+        },
+        {
+          "name": "Xuhai Xu",
+          "id": "9551276"
+        },
+        {
+          "name": "Pino G. Audia",
+          "id": "2088693502"
+        },
+        {
+          "name": "M. Choudhury",
+          "id": "2583473"
+        },
+        {
+          "name": "A. Dey",
+          "id": "144021446"
+        },
+        {
+          "name": "A. Striegel",
+          "id": "144244615"
+        },
+        {
+          "name": "Andrew T. Campbell",
+          "id": "1399920413"
+        }
+      ],
+      "year": 2022,
+      "venue": "Interacción",
+      "score": 0.8103998542084129,
+      "abstract": "The modern workplace is undergoing a radical transformation, driven by technological advances that blur the boundaries between human capability and digital augmentation. At the forefront of this evolution is passive sensing technology - a suite of tools that quietly monitor and interpret human behavior without active user engagement. This paper examines how these technologies are reshaping our understanding of workplace dynamics, with a particular focus on employee wellbeing and productivity. Through a comprehensive review of recent research, we explore both the transformative potential and inherent challenges of passive sensing in professional environments. Our analysis reveals emerging patterns in how these technologies can support worker health and performance, while also highlighting critical gaps in current research and opportunities for future innovation. We conclude by outlining a roadmap for integrating passive sensing into future workplaces in ways that enhance human potential while preserving dignity and autonomy.",
+      "corpusId": 245837651,
+      "url": "https://api.semanticscholar.org/CorpusId:245837651"
+    },
+    {
+      "title": "Design, Recruitment, and Baseline Characteristics of a Virtual 1-Year Mental Health Study on Behavioral Data and Health Outcomes: Observational Study",
+      "authors": [
+        {
+          "name": "Shefali Kumar",
+          "id": "2053289"
+        },
+        {
+          "name": "J. Tran",
+          "id": "145954426"
+        },
+        {
+          "name": "E. Ramirez",
+          "id": "104226726"
+        },
+        {
+          "name": "Wei-Nchih Lee",
+          "id": "2021747"
+        },
+        {
+          "name": "L. Foschini",
+          "id": "1748978"
+        },
+        {
+          "name": "J. Juusola",
+          "id": "153161614"
+        }
+      ],
+      "year": 2019,
+      "venue": "JMIR Mental Health",
+      "score": 0.7993851764729188,
+      "abstract": "Background Depression and anxiety greatly impact daily behaviors, such as sleep and activity levels. With the increasing use of activity tracking wearables among the general population, there has been a growing interest in how data collected from these devices can be used to further understand the severity and progression of mental health conditions. Objective This virtual 1-year observational study was designed with the objective of creating a longitudinal data set combining self-reported health outcomes, health care utilization, and quality of life data with activity tracker and app-based behavioral data for individuals with depression and anxiety. We provide an overview of the study design, report on baseline health and behavioral characteristics of the study population, and provide initial insights into how behavioral characteristics differ between groups of individuals with varying levels of disease severity. Methods Individuals who were existing members of an online health community (Achievement, Evidation Health Inc) and were 18 years or older who had self-reported a diagnosis of depression or anxiety were eligible to enroll in this virtual 1-year study. Participants agreed to connect wearable activity trackers that captured data related to physical activity and sleep behavior. Mental health outcomes such as the Patient Health Questionnaire (PHQ-9), the Generalized Anxiety Disorder Questionnaire (GAD-7), mental health hospitalizations, and medication use were captured with surveys completed at baseline and months 3, 6, 9, and 12. In this analysis, we report on baseline characteristics of the sample, including mental health disease severity and health care utilization. Additionally, we explore the relationship between passively collected behavioral data and baseline mental health status and health care utilization. Results Of the 1304 participants enrolled in the study, 1277 individuals completed the baseline survey and 1068 individuals had sufficient activity tracker data. Mean age was 33 (SD 9) years, and the majority of the study population was female (77.2%, 994/1288) and identified as Caucasian (88.3%, 1137/1288). At baseline, 94.8% (1211/1277) of study participants reported experiencing depression or anxiety symptoms in the last year. This baseline analysis found that some passively tracked behavioral traits are associated with more severe forms of anxiety or depression. Individuals with depressive symptoms were less active than those with minimal depressive symptoms. Severe forms of depression were also significantly associated with inconsistent sleep patterns and more disordered sleep. Conclusions These initial findings suggest that longitudinal behavioral and health outcomes data may be useful for developing digital measures of health for mental health symptom severity and progression.",
+      "corpusId": 221188261,
+      "url": "https://api.semanticscholar.org/CorpusId:221188261"
+    },
+    {
+      "title": "Evidence of differences in diurnal electrodermal, temperature and heart rate patterns by mental health status in free-living data",
+      "authors": [
+        {
+          "name": "Daniel McDuff",
+          "id": "2269264443"
+        },
+        {
+          "name": "Isaac R. Galatzer-Levy",
+          "id": "2287936651"
+        },
+        {
+          "name": "Seamus D. Thomson",
+          "id": "2287939477"
+        },
+        {
+          "name": "Andrew Barakat",
+          "id": "2287940209"
+        },
+        {
+          "name": "C. Heneghan",
+          "id": "2287939802"
+        },
+        {
+          "name": "Samy Abdel-Ghaffar",
+          "id": "2287937249"
+        },
+        {
+          "name": "Jacob Sunshine",
+          "id": "2219035823"
+        },
+        {
+          "name": "Ming-Zher Poh",
+          "id": "2287939241"
+        },
+        {
+          "name": "Lindsey Sunden",
+          "id": "2287939378"
+        },
+        {
+          "name": "John B. Hernandez",
+          "id": "2307403848"
+        },
+        {
+          "name": "Allen Jiang",
+          "id": "2270322646"
+        },
+        {
+          "name": "Xin Liu",
+          "id": "2316890924"
+        },
+        {
+          "name": "Ari Winbush",
+          "id": "2270911393"
+        },
+        {
+          "name": "Benjamin W Nelson",
+          "id": "2297692086"
+        },
+        {
+          "name": "Nicholas B Allen",
+          "id": "2269914436"
+        }
+      ],
+      "year": 2024,
+      "venue": "BMJ Mental Health",
+      "score": 0.7942837017813225,
+      "abstract": "Background Electrodermal activity (EDA) is a measure of sympathetic arousal that has been linked to depression in laboratory experiments. However, the inability to measure EDA passively over time and in the real world has limited conclusions that can be drawn about EDA as an indicator of mental health status outside of controlled settings. Objective Recent smartwatches have begun to incorporate wrist-worn continuous EDA sensors that enable longitudinal measurement of sympathetic arousal in everyday life. This work (n=237, 4-week observation period) examines the association between passively collected, diurnal variations in EDA and symptoms of depression, anxiety and perceived stress in a large community sample. Methods We conducted a prospective, non-randomised study to investigate patterns and relationships between digital device use patterns, including sensor data from phones and wearables reflecting both behavioural and physiological processes, and self-reported measures of mental health and well-being. We recruited 395 participants who had a Fitbit Sense 2 device with the electrodermal sensor activated. We use a non-linear cosinor fitting method to estimate the difference in mesor, amplitude and phase, between the diurnal rhythms in heart rate (HR), heart rate variability (HRV) root mean square of successive differences, EDA, skin temperature and steps. Findings Subjects who exhibited elevated depressive and anxiety symptoms had higher tonic EDA, skin temperature and heart rate, despite not engaging in greater physical activity, compared with those that were not depressed or anxious. In contrast, subjects who exhibited elevated stress only exhibited higher skin temperature. Most strikingly, differences in EDA between those with high versus low symptoms were most prominent during the early morning. We did not observe amplitude or phase differences in the diurnal patterns. Conclusions Results indicate that participants with elevated depressive and anxiety symptoms have different diurnal physiological patterns. Specifically, EDA differences suggest elevated sympathetic activity throughout the day and in particular in the early morning. Clinical implications Our work suggests that electrodermal sensors may be practical and useful in measuring the physiological correlates of mental health symptoms in free-living contexts and that recent consumer smartwatches might be a tool for doing so.",
+      "corpusId": 271919128,
+      "url": "https://api.semanticscholar.org/CorpusId:271919128"
+    },
+    {
+      "title": "Identifying digital phenotypes of risk for Alzheimer's disease and related dementia among Hispanic/Latino persons living in the United States: A protocol for a prospective quantitative study",
+      "authors": [
+        {
+          "name": "Raeanne C. Moore",
+          "id": "2271631405"
+        },
+        {
+          "name": "Shay Nakahira",
+          "id": "2276568389"
+        },
+        {
+          "name": "L. Gallo",
+          "id": "2168758510"
+        },
+        {
+          "name": "A. P. Demos",
+          "id": "2306053796"
+        },
+        {
+          "name": "E. Sundermann",
+          "id": "4759029"
+        },
+        {
+          "name": "Douglas Galasko",
+          "id": "2255883705"
+        },
+        {
+          "name": "Lisa Delano-Wood",
+          "id": "2383117983"
+        },
+        {
+          "name": "Martha E Perez",
+          "id": "2275781103"
+        },
+        {
+          "name": "L. Betancourt",
+          "id": "2383121849"
+        },
+        {
+          "name": "Emma Churchill",
+          "id": "2383118377"
+        },
+        {
+          "name": "Kassandra Portillo",
+          "id": "2383121801"
+        },
+        {
+          "name": "Perla Rocha",
+          "id": "2383118639"
+        },
+        {
+          "name": "Paulina M Mendoza",
+          "id": "12771501"
+        },
+        {
+          "name": "Lina Scandalis",
+          "id": "2275214743"
+        },
+        {
+          "name": "Rebecca Daly",
+          "id": "2383118119"
+        },
+        {
+          "name": "M. Marquine",
+          "id": "2283985318"
+        }
+      ],
+      "year": 2025,
+      "venue": "Digital Health",
+      "score": 0.7910925758981444,
+      "abstract": "Objective Hispanic/Latino/a/x (hereafter Latino) persons living in the U.S. are at increased risk for Alzheimer's disease and related dementias (ADRD) compared to non-Latino Whites. Early detection of preclinical changes is crucial. The SALUD-Tech study aims to identify digital behavioral markers—“digital signatures”—of ADRD risk in diverse middle-aged and older Latinos using passive data from smartphones and smartwatches. Methods Participants include Latino adults aged 50–70 years living in southern California, with varying degrees of ADRD risk as defined by the presence of mild cognitive impairment and cardiovascular disease risk. Data collection began in April 2022 and will continue through 2026. Participants complete comprehensive laboratory assessments (neurobehavioral, medical, sociocultural, and psychiatric assessments). High-frequency data on sensors, keyboard dynamics, and phone use activity are collected for 30 days following the baseline visit. A subset of study participants completes 18- and 36-month longitudinal assessments; these participants are selected based on risk profiles and retention likelihood. All data are securely encrypted, de-identified, and collected respecting participant privacy and consent in accordance with ethical standards. Data analysis involves integrating multimodal data streams using machine learning to identify behavioral patterns associated with early cognitive decline. Results We anticipate 300 participants will be enrolled in the study. Study results will be published in peer-reviewed scientific journals. Discussion Early detection of ADRD risk using smartphone and wearable data could help reduce disparities by providing a low-cost, accessible tool. Ultimately, this approach may be integrated into clinical care to enable earlier interventions and reduce healthcare costs.",
+      "corpusId": 281700488,
+      "url": "https://api.semanticscholar.org/CorpusId:281700488"
+    },
+    {
+      "title": "Detecting Subclinical Social Anxiety Using Physiological Data From a Wrist-Worn Wearable: Small-Scale Feasibility Study",
+      "authors": [
+        {
+          "name": "Ruksana Shaukat-Jali",
+          "id": "2131560691"
+        },
+        {
+          "name": "N. van Zalk",
+          "id": "6765093"
+        },
+        {
+          "name": "D. Boyle",
+          "id": "40289916"
+        }
+      ],
+      "year": 2021,
+      "venue": "JMIR Formative Research",
+      "score": 0.7887222667077702,
+      "abstract": "Background Subclinical (ie, threshold) social anxiety can greatly affect young people’s lives, but existing solutions appear inadequate considering its rising prevalence. Wearable sensors may provide a novel way to detect social anxiety and result in new opportunities for monitoring and treatment, which would be greatly beneficial for persons with social anxiety, society, and health care services. Nevertheless, indicators such as skin temperature measured by wrist-worn sensors have not been used in prior work on physiological social anxiety detection. Objective This study aimed to investigate whether subclinical social anxiety in young adults can be detected using physiological data obtained from wearable sensors, including heart rate, skin temperature, and electrodermal activity (EDA). Methods Young adults (N=12) with self-reported subclinical social anxiety (measured using the widely used self-reported version of the Liebowitz Social Anxiety Scale) participated in an impromptu speech task. Physiological data were collected using an E4 Empatica wearable device. Using the preprocessed data and following a supervised machine learning approach, various classification algorithms such as Support Vector Machine, Decision Tree, Random Forest, and K-Nearest Neighbours (KNN) were used to develop models for 3 different contexts. Models were trained to differentiate (1) between baseline and socially anxious states, (2) among baseline, anticipation anxiety, and reactive anxiety states, and (3) social anxiety among individuals with social anxiety of differing severity. The predictive capability of the singular modalities was also explored in each of the 3 supervised learning experiments. The generalizability of the developed models was evaluated using 10-fold cross-validation as a performance index. Results With modalities combined, the developed models yielded accuracies between 97.54% and 99.48% when differentiating between baseline and socially anxious states. Models trained to differentiate among baseline, anticipation anxiety, and reactive anxiety states yielded accuracies between 95.18% and 98.10%. Furthermore, the models developed to differentiate between social anxiety experienced by individuals with anxiety of differing severity scores successfully classified with accuracies between 98.86% and 99.52%. Surprisingly, EDA was identified as the most effective singular modality when differentiating between baseline and social anxiety states, whereas ST was the most effective modality when differentiating anxiety among individuals with social anxiety of differing severity. Conclusions The results indicate that it is possible to accurately detect social anxiety as well as distinguish between levels of severity in young adults by leveraging physiological data collected from wearable sensors.",
+      "corpusId": 238422336,
+      "url": "https://pdfs.semanticscholar.org/7360/c1ddcb55f419c86ede89654d2bc060b26362.pdf"
+    },
+    {
+      "title": "Evaluation of the efficacy of group cognitive behavioral therapy on anxiety in college students based on wearable devices and mobile applications: a randomized controlled trial",
+      "authors": [
+        {
+          "name": "Yang Wang",
+          "id": "2256979063"
+        },
+        {
+          "name": "Keyin Zhou",
+          "id": "2258555086"
+        },
+        {
+          "name": "Zexin Lin",
+          "id": "2258670150"
+        },
+        {
+          "name": "Hantong Shen",
+          "id": "2395566394"
+        },
+        {
+          "name": "Rongxun Liu",
+          "id": "2298008761"
+        },
+        {
+          "name": "Zhao Su",
+          "id": "2263807110"
+        },
+        {
+          "name": "F. Womer",
+          "id": "5963493"
+        },
+        {
+          "name": "Yuxin Wang",
+          "id": "2281108239"
+        },
+        {
+          "name": "Yan Wei",
+          "id": "2219342746"
+        },
+        {
+          "name": "Rongxin Zhu",
+          "id": "2243014990"
+        },
+        {
+          "name": "Junjie Zheng",
+          "id": "2243313282"
+        },
+        {
+          "name": "Xizhe Zhang",
+          "id": "2258605369"
+        },
+        {
+          "name": "Fei Wang",
+          "id": "2268389669"
+        }
+      ],
+      "year": 2025,
+      "venue": "BMC Psychiatry",
+      "score": 0.7774079303981445,
+      "abstract": "Anxiety disorders are highly prevalent worldwide and have significant comorbidities including depression and substance use disorders. The global burden of anxiety disorders necessitates early intervention for high-risk populations, including college students facing stress during major life transitions. Objective measures and ecological momentary assessments may advance the development of early interventions. To test the efficacy of group cognitive-behavioral therapy (GCBT) intervention by implementing a randomized controlled trial and identifying potential objective measures. College students with a Generalized Anxiety Disorder Scale 7 scores ≥ 5 were randomized into GCBT (n = 31) and wait-list control (WLC; n = 28) groups. For both groups, self-reported symptom severity was assessed at baseline and follow-up in weeks 4, 8, and 28. Continuous heart rate and step counts measurements were captured by wearable sensors, along with ecological momentary assessments of mood and energy, which were obtained within 4 weeks of treatment. Compared to the WLC group, the GCBT group showed significant improvements in anxiety symptoms at week 28. Moreover, the GCBT group had significantly increased step counts and faster heart rates, more stable moods in the morning and evening, and better energy in the morning. Improvements in anxiety symptoms were closely associated with increases in step counts in the GCBT group. Preliminary findings suggest that GCBT is associated with improvements in anxiety symptoms in college students over the long term. Changes in daily heart rates and step counts were correlated with mood and energy levels, suggesting that physiological markers may be useful in assessing treatment response. ClinicalTrials.gov (NCT05913349), trial registration date: June 13, 2023 (retrospectively registered).",
+      "corpusId": 283436236,
+      "url": "https://api.semanticscholar.org/CorpusId:283436236"
+    },
+    {
+      "title": "Wave of change: assessing surf therapy’s psychological and physiological benefits for military veterans using wearable technology",
+      "authors": [
+        {
+          "name": "Jonathan E. Ossie",
+          "id": "2216945715"
+        }
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Psychology",
+      "score": 0.7266045879624475,
+      "abstract": "Mental health issues, particularly among military veterans, are a growing concern. Veterans disproportionately experience anxiety, depression, and PTSD, often exacerbated by combat-related stressors. While pharmacological treatments yield mixed outcomes, interest in nonpharmacological interventions like surf therapy is increasing; however, empirical evidence remains limited. This study evaluated the impact of a weeklong surf therapy program conducted by Operation Surf on 41 veterans with PTSD using a mixed-methods approach: self-reported surveys and wearable technology (Whoop bands) measuring physiological data. Psychological outcomes were assessed using GAD-7, PHQ-8, and PCL-5; physiological outcomes included heart rate variability (HRV) and sleep quality. Results revealed: A 59% reduction in general anxiety (GAD-7) immediately after the event (mean decrease = 7.38, p < 0.01), and 30% reduction at 30 days (p < 0.05). A 44% reduction in depression (PHQ-8) immediately after the event (mean decrease = 4.94, p < 0.01), and 30% reduction at 30 days (p < 0.01). A 38% reduction in PTSD symptoms (PCL-5) immediately post-event (mean decrease = 16.95, p < 0.01), and 35% reduction at 30 days (p < 0.01). Wearable technology indicated a statistically significant decrease in HRV during the intervention (p < 0.05), and sex-specific changes in deep and REM sleep, particularly in female participants. These findings demonstrate statistically and clinically meaningful improvements in psychological functioning and highlight the utility of wearable technology in evaluating complementary mental health interventions. While cost and stigma were not directly measured, the results support further investigation into the broader applicability and accessibility of surf therapy for veterans with PTSD.",
+      "corpusId": 281361962,
+      "url": "https://api.semanticscholar.org/CorpusId:281361962"
+    },
+    {
+      "title": "A Machine Learning Approach for Continuous Mining of Nonidentifiable Smartphone Data to Create a Novel Digital Biomarker Detecting Generalized Anxiety Disorder: Prospective Cohort Study",
+      "authors": [
+        {
+          "name": "Soumya Choudhary",
+          "id": "2162534377"
+        },
+        {
+          "name": "N. Thomas",
+          "id": "2038511764"
+        },
+        {
+          "name": "Sultan Alshamrani",
+          "id": "2253990985"
+        },
+        {
+          "name": "Girish Srinivasan",
+          "id": "2038510881"
+        },
+        {
+          "name": "Janine Ellenberger",
+          "id": "2162532758"
+        },
+        {
+          "name": "Usman Nawaz",
+          "id": "2348447762"
+        },
+        {
+          "name": "Roy Cohen",
+          "id": "2162588680"
+        }
+      ],
+      "year": 2022,
+      "venue": "JMIR Medical Informatics",
+      "score": 0.7172986520938698,
+      "abstract": "Background Anxiety is one of the leading causes of mental health disability around the world. Currently, a majority of the population who experience anxiety go undiagnosed or untreated. New and innovative ways of diagnosing and monitoring anxiety have emerged using smartphone sensor-based monitoring as a metric for the management of anxiety. This is a novel study as it adds to the field of research through the use of nonidentifiable smartphone usage to help detect and monitor anxiety remotely and in a continuous and passive manner. Objective This study aims to evaluate the accuracy of a novel mental behavioral profiling metric derived from smartphone usage for the identification and tracking of generalized anxiety disorder (GAD). Methods Smartphone data and self-reported 7-item GAD anxiety assessments were collected from 229 participants using an Android operating system smartphone in an observational study over an average of 14 days (SD 29.8). A total of 34 features were mined to be constructed as a potential digital phenotyping marker from continuous smartphone usage data. We further analyzed the correlation of these digital behavioral markers against each item of the 7-item Generalized Anxiety Disorder Scale (GAD-7) and its influence on the predictions of machine learning algorithms. Results A total of 229 participants were recruited in this study who had completed the GAD-7 assessment and had at least one set of passive digital data collected within a 24-hour period. The mean GAD-7 score was 11.8 (SD 5.7). Regression modeling was tested against classification modeling and the highest prediction accuracy was achieved from a binary XGBoost classification model (precision of 73%-81%; recall of 68%-87%; F1-score of 71%-79%; accuracy of 76%; area under the curve of 80%). Nonparametric permutation testing with Pearson correlation results indicated that the proposed metric (Mental Health Similarity Score [MHSS]) had a colinear relationship between GAD-7 Items 1, 3 and 7. Conclusions The proposed MHSS metric demonstrates the feasibility of using passively collected nonintrusive smartphone data and machine learning-based data mining techniques to track an individuals' daily anxiety levels with a 76% accuracy that directly relates to the GAD-7 scale.",
+      "corpusId": 251273650,
+      "url": "https://api.semanticscholar.org/CorpusId:251273650"
+    },
+    {
+      "title": "Harnessing Digital Phenotyping for Early Self-Detection of Psychological Distress",
+      "authors": [
+        {
+          "name": "Jana G. Zakai",
+          "id": "2377758834"
+        },
+        {
+          "name": "Sultan A. Alharthi",
+          "id": "2123126252"
+        }
+      ],
+      "year": 2025,
+      "venue": "Healthcare",
+      "score": 0.7052172781327232,
+      "abstract": "Psychological distress remains a significant public health concern, particularly among youth. With the growing integration of mobile and wearable technologies into daily life, digital phenotyping has emerged as a promising approach for early self-detection and intervention in psychological distress. Objectives: The study aims to determine how behavioral and device-derived data can be used to identify early signs of emotional distress and to develop and evaluate a prototype system that enables users to self-detect these early warning signs, ultimately supporting early intervention and improved mental health outcomes. Method: To achieve this, this study involved a multi-phase, mixed-method approach, combining literature review, system design, and user evaluation. It started with a scoping review to guide system design, followed by the design and development of a prototype system (ESFY) and a mixed-method evaluation to assess its feasibility and utility in detecting early signs of psychological distress through digital phenotyping. Results: The results demonstrate the potential of digital phenotyping to support early self-detection for psychological distress while highlighting practical considerations for future deployment. Conclusions: The findings highlight the value of integrating active and passive data streams, prioritizing transparency and user empowerment, and designing adaptable systems that respond to the diverse needs and concerns of end users. The recommendations outlined in this study serve as a foundation for the continued development of scalable, trustworthy, and effective digital mental health solutions.",
+      "corpusId": 280947401,
+      "url": "https://api.semanticscholar.org/CorpusId:280947401"
+    },
+    {
+      "title": "Feasibility of a wrist-worn wearable device for estimating mental health status in patients with mental illness",
+      "authors": [
+        {
+          "name": "K. Nakagome",
+          "id": "5339693"
+        },
+        {
+          "name": "M. Makinodan",
+          "id": "5432182"
+        },
+        {
+          "name": "Mitsuhiro Uratani",
+          "id": "3538643"
+        },
+        {
+          "name": "Masaki Kato",
+          "id": "2248263297"
+        },
+        {
+          "name": "Norio Ozaki",
+          "id": "2187348906"
+        },
+        {
+          "name": "S. Miyata",
+          "id": "6787784"
+        },
+        {
+          "name": "K. Iwamoto",
+          "id": "2468540"
+        },
+        {
+          "name": "N. Hashimoto",
+          "id": "96483382"
+        },
+        {
+          "name": "A. Toyomaki",
+          "id": "5925089"
+        },
+        {
+          "name": "Kazuo Mishima",
+          "id": "2067371199"
+        },
+        {
+          "name": "Masaya Ogasawara",
+          "id": "2106145000"
+        },
+        {
+          "name": "Masahiro Takeshima",
+          "id": "5286595"
+        },
+        {
+          "name": "Kazumichi Minato",
+          "id": "2086713726"
+        },
+        {
+          "name": "Toshikazu Fukami",
+          "id": "2005771989"
+        },
+        {
+          "name": "Marilyn K. Oba",
+          "id": "102784675"
+        },
+        {
+          "name": "Kazuyoshi Takeda",
+          "id": "2186542060"
+        },
+        {
+          "name": "Hideki Oi",
+          "id": "2086753311"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Psychiatry",
+      "score": 0.7045290334662601,
+      "abstract": "Object Real-world data from wearable devices has the potential to understand mental health status in everyday life. We aimed to investigate the feasibility of estimating mental health status using a wrist-worn wearable device (Fitbit Sense) that measures movement using a 3D accelerometer and optical pulse photoplethysmography (PPG). Methods Participants were 110 patients with mental illnesses from different diagnostic groups. The study was undertaken between 1 October 2020 and 31 March 2021. Participants wore a Fitbit Sense on their wrist and also completed the State–Trait Anxiety Inventory (STAI), Positive and Negative Affect Schedule (PANAS), and EuroQol 5 dimensions 5-level (EQ-5D-5L) during the study period. To determine heart rate (HR) variability (HRV), we calculated the sdnn (standard deviation of the normal-to-normal interval), coefficient of variation of R-R intervals, and mean HR separately for each sleep stage and the daytime. The association between mental health status and HR and HRV was analyzed. Results The following significant correlations were found in the wake after sleep onset stage within 3 days of mental health status assessment: sdnn, HR and STAI scores, HR and PANAS scores, HR and EQ-5D-5L scores. The association between mental health status and HR and HRV was stronger the closer the temporal distance between mental health status assessment and HR measurement. Conclusion A wrist-worn wearable device that measures PPG signals was feasible for use with patients with mental illness. Resting state HR and HRV could be used as an objective assessment of mental health status within a few days of measurement.",
+      "corpusId": 260069411,
+      "url": "https://api.semanticscholar.org/CorpusId:260069411"
+    },
+    {
+      "title": "An Explainable Anomaly Detection Framework for Monitoring Depression and Anxiety Using Consumer Wearable Devices",
+      "authors": [
+        {
+          "name": "Yuezhou Zhang",
+          "id": "2145913187"
+        },
+        {
+          "name": "A. Folarin",
+          "id": "2133517"
+        },
+        {
+          "name": "C. Stewart",
+          "id": "2246306885"
+        },
+        {
+          "name": "H. Sankesara",
+          "id": "2141470790"
+        },
+        {
+          "name": "Y. Ranjan",
+          "id": "51903884"
+        },
+        {
+          "name": "P. Conde",
+          "id": "145603480"
+        },
+        {
+          "name": "Akash Roy Choudhury",
+          "id": "150008766"
+        },
+        {
+          "name": "Shaoxiong Sun",
+          "id": "26934553"
+        },
+        {
+          "name": "Z. Rashid",
+          "id": "3094273"
+        },
+        {
+          "name": "Richard J. B. Dobson",
+          "id": "2215235732"
+        }
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "score": 0.6994150216037164,
+      "abstract": "Continuous monitoring of behavior and physiology via wearable devices offers a novel, objective method for the early detection of worsening depression and anxiety. In this study, we present an explainable anomaly detection framework that identifies clinically meaningful increases in symptom severity using consumer-grade wearable data. Leveraging data from 2,023 participants with defined healthy baselines, our LSTM autoencoder model learned normal health patterns of sleep duration, step count, and resting heart rate. Anomalies were flagged when self-reported depression or anxiety scores increased by>=5 points (a threshold considered clinically significant). The model achieved an adjusted F1-score of 0.80 (precision = 0.73, recall = 0.88) in detecting 393 symptom-worsening episodes across 341 participants, with higher performance observed for episodes involving concurrent depression and anxiety escalation (F1 = 0.84) and for more pronounced symptom changes (>=10-point increases, F1 = 0.85). Model interpretability was supported by SHAP-based analysis, which identified resting heart rate as the most influential feature in 71.4 percentage of detected anomalies, followed by physical activity and sleep. Together, our findings highlight the potential of explainable anomaly detection to enable personalized, scalable, and proactive mental health monitoring in real-world settings.",
+      "corpusId": 278339311,
+      "url": "https://api.semanticscholar.org/CorpusId:278339311"
+    },
+    {
+      "title": "Actigraphy monitoring in anxiety disorders: A mini-review of the literature",
+      "authors": [
+        {
+          "name": "Martin Pastre",
+          "id": "2178883177"
+        },
+        {
+          "name": "J. López-Castromán",
+          "id": "1387466416"
+        }
+      ],
+      "year": 2022,
+      "venue": "Frontiers in Psychiatry",
+      "score": 0.6910224954605849,
+      "abstract": "Sleep disturbances and changes of activity patterns are not uncommon in anxiety disorders, but they are rarely the object of attention. Actigraphic monitoring of day and night activity patterns could provide useful data to detect symptom worsening, prevent risk periods, and evaluate treatment efficacy in those disorders. Thus, we have conducted a systematic search of the scientific literature to find any original study using actigraphic monitoring to investigate activity and sleep patterns in patients affected by any type of anxiety disorder according to the definition of the DSM-5. We found only six studies fulfilling these criteria. Three studies report significant findings in patients suffering from anxiety disorders. Overall, the samples and methods are heterogeneous. Although the authors support the interest of actigraphic monitoring in anxiety disorders, the evidence to date is very limited.",
+      "corpusId": 251258567,
+      "url": "https://api.semanticscholar.org/CorpusId:251258567"
+    },
+    {
+      "title": "Wearable devices for anxiety assessment: a systematic review",
+      "authors": [
+        {
+          "name": "M. Elgendi",
+          "id": "1934350"
+        },
+        {
+          "name": "Karmen Markov",
+          "id": "2323846158"
+        },
+        {
+          "name": "Hangyu Liu",
+          "id": "2319220700"
+        },
+        {
+          "name": "M. de Vos",
+          "id": "2242576453"
+        },
+        {
+          "name": "Kinda Khalaf",
+          "id": "2398886808"
+        },
+        {
+          "name": "A. Khandoker",
+          "id": "34532945"
+        },
+        {
+          "name": "H. Jelinek",
+          "id": "2173278610"
+        },
+        {
+          "name": "Debkalpa Goswami",
+          "id": "46218671"
+        },
+        {
+          "name": "Carlo Menon",
+          "id": "2153523121"
+        }
+      ],
+      "year": 2026,
+      "venue": "Communications Medicine",
+      "score": 0.6635139371029629,
+      "abstract": "There is growing interest in using biosignals from wearable devices to assess anxiety disorders. Among these, electrocardiography is the most widely used due to its ability to monitor cardiovascular activity. Other signals, such as respiratory, electrodermal activity, and photoplethysmography, also show promise. This review aims to evaluate how these signals, individually and in combination, have been used for anxiety detection. We systematically reviewed 26 studies published between 2014 and 2024 that used wearable devices to collect signals for anxiety detection. Extracted information included study design, signal types, features, classification methods, and accuracy outcomes. Pooled accuracies were calculated to compare single-signal and multi-signal approaches. Here we show that approaches combining multiple signals outperform those using a single signal, with a pooled accuracy of 81.94% compared to 76.85%. Electrocardiography was the most reliable individual signal, with a pooled accuracy of 80.34% across 12 studies. However, the limited number of single-sensor studies and methodological variability limit conclusions about the superiority of any one modality. The most common features included mean heart rate and heart rate variability for electrocardiography, the mean inspiratory-to-expiratory time ratio for respiratory signals, mean skin conductance for electrodermal activity, and the mean heart rate for photoplethysmography. Support vector machine was the predominant classifier. This review underscores the clinical potential of wearable devices for anxiety detection, emphasizing the value of multimodal approaches. Future research should focus on refining algorithms, expanding sample sizes, and exploring diverse contexts to improve the accuracy and generalizability of these methods. Anxiety disorders are common, but detecting them in everyday life can be difficult. Wearable devices, such as smartwatches, can record body signals that change with anxiety, including heart activity, breathing, skin responses, and blood flow. We reviewed 26 studies from the past decade that tested these signals for detecting anxiety. We found that combining several signals gives more accurate results than using a single signal, while heart activity was the most reliable single signal. However, most studies were small, used different devices and methods to trigger and measure anxiety, making it difficult to draw firm conclusions. Overall, wearable devices show strong potential for anxiety detection, but future research needs larger, standardized studies before they can be widely used in daily life and healthcare. Elgendi and Markov et al. systematically review 26 studies on wearable devices that use physiological signals such as heart activity, breathing, skin responses, and blood flow to detect anxiety. They find that combining multiple signals improves accuracy over single-signal methods, highlighting the potential of wearables for anxiety detection.",
+      "corpusId": 284551534,
+      "url": "https://api.semanticscholar.org/CorpusId:284551534"
+    },
+    {
+      "title": "Correction: Wearable Artificial Intelligence for Anxiety and Depression: Scoping Review",
+      "authors": [
+        {
+          "name": "Alaa A. Abd-alrazaq",
+          "id": "1411490511"
+        },
+        {
+          "name": "Rawan AlSaad",
+          "id": "30535635"
+        },
+        {
+          "name": "S. Aziz",
+          "id": "2065989747"
+        },
+        {
+          "name": "Arfan Ahmed",
+          "id": "153137219"
+        },
+        {
+          "name": "K. Denecke",
+          "id": "2251210"
+        },
+        {
+          "name": "Mowafa J Househ",
+          "id": "2031828128"
+        },
+        {
+          "name": "Faisal Farooq",
+          "id": "2204830278"
+        },
+        {
+          "name": "Javaid Sheikh",
+          "id": "46333771"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Medical Internet Research",
+      "score": 0.6334506306380024,
+      "abstract": "[This corrects the article DOI: 10.2196/42672.].",
+      "corpusId": 256662928,
+      "url": "https://pdfs.semanticscholar.org/4fcf/83658a44c3a43eaeec6aecf1470f79a23b69.pdf"
+    },
+    {
+      "title": "Validation and Standardization of the Generalized Anxiety Disorder Screener (GAD-7) in the General Population",
+      "authors": [
+        {
+          "name": "B. Löwe",
+          "id": "47292459"
+        },
+        {
+          "name": "O. Decker",
+          "id": "144026862"
+        },
+        {
+          "name": "S. Müller",
+          "id": "2112729999"
+        },
+        {
+          "name": "E. Brähler",
+          "id": "2486596"
+        },
+        {
+          "name": "D. Schellberg",
+          "id": "5920840"
+        },
+        {
+          "name": "W. Herzog",
+          "id": "152752290"
+        },
+        {
+          "name": "P. Herzberg",
+          "id": "4816161"
+        }
+      ],
+      "year": 2008,
+      "venue": "Medical Care",
+      "score": 0.6209903936824909,
+      "abstract": "",
+      "corpusId": 16052239,
+      "url": "https://doi.org/10.1097/MLR.0b013e318160d093"
+    },
+    {
+      "title": "Personalised modelling of routine variability and affective states",
+      "authors": [
+        {
+          "name": "Adrien Choi",
+          "id": "2361752765"
+        },
+        {
+          "name": "D. Lottridge",
+          "id": "2248527243"
+        },
+        {
+          "name": "Jim Warren",
+          "id": "2146521473"
+        }
+      ],
+      "year": 2025,
+      "venue": "npj Digital Medicine",
+      "score": 0.6058555414374477,
+      "abstract": "Multimodal smartphone sensor data provide rich insights into real-world behavioural patterns associated with anxiety and depression symptoms. We propose that variability in daily routines across life aspects may act as a personalised digital marker, linking behaviours to self-reported affective states. Using non-negative matrix factorisation (NMF), we decomposed mobile sensing data into individual-specific routines and their weekly variability. Generalised linear models (GLMs) were built per individual to associate variability from specific sensing categories with anxiety or depression states. Using a large language model (LLM; GPT-4o), we translated the modelling results into more accessible language that potentially helps individuals engage with their own routine phenotypes for self-regulation insights. Population-level grouping of GLMs revealed significant between-group differences in mental health measures. The LLM output shows a potential to uncover personalised behavioural patterns and support self-understanding of mood-related drivers. This approach may also inform group-based interventions by identifying individuals likely to benefit from shared treatment strategies based on routine similarity.",
+      "corpusId": 281885061,
+      "url": "https://api.semanticscholar.org/CorpusId:281885061"
+    },
+    {
+      "title": "Clinical research on neurological and psychiatric diagnosis and monitoring using wearable devices: A literature review",
+      "authors": [
+        {
+          "name": "Jie Huang",
+          "id": "2411078807"
+        },
+        {
+          "name": "Huidi Wang",
+          "id": "2122310759"
+        },
+        {
+          "name": "Qiheng Wu",
+          "id": "67051232"
+        },
+        {
+          "name": "Jia Yin",
+          "id": "48330317"
+        },
+        {
+          "name": "Hongwei Zhou",
+          "id": "2157473866"
+        },
+        {
+          "name": "Yan He",
+          "id": "2245623069"
+        }
+      ],
+      "year": 2024,
+      "venue": "Interdisciplinary Medicine",
+      "score": 0.589588857639239,
+      "abstract": "Wearable devices have opened up exciting possibilities for monitoring and managing home health, particularly in the realm of neurological and psychiatric diseases. These devices capture signals related to physiological and behavioral changes, including heart rate, sleep patterns, and motor functions. Their emergence has resulted in significant advancements in the management of such conditions. Traditional clinical diagnosis and assessment methods heavily rely on patient reports and evaluations conducted by healthcare professionals, often leading to a detachment of patients from their home environment and creating additional burdens for both patients and healthcare providers. The increasing popularity of wearable devices offers a potential solution to these challenges. This review focuses on the clinical utility of wearable devices in diagnosing and monitoring neurological and psychiatric diseases. Through research findings and practical examples, we highlight the potential role of wearable devices in diagnosing and monitoring conditions such as autism spectrum disorder, depression, epilepsy, stroke prognosis, Parkinson's disease, dementia, and other diseases. Additionally, the review discusses the benefits and limitations of wearable devices in clinical applications, while highlighting the challenges they face. Finally, it provides prospects for enhancing the value of wearable devices in the monitoring and diagnosis of neurological and psychiatric diseases.",
+      "corpusId": 269745588,
+      "url": "https://api.semanticscholar.org/CorpusId:269745588"
+    },
+    {
+      "title": "Quantifying Digital Biomarkers for Well-Being: Stress, Anxiety, Positive and Negative Affect via Wearable Devices and Their Time-Based Predictions",
+      "authors": [
+        {
+          "name": "Berrenur Saylam",
+          "id": "40325208"
+        },
+        {
+          "name": "Özlem Durmaz Incel",
+          "id": "2915257"
+        }
+      ],
+      "year": 2023,
+      "venue": "Italian National Conference on Sensors",
+      "score": 0.5892838127393631,
+      "abstract": "Wearable devices have become ubiquitous, collecting rich temporal data that offers valuable insights into human activities, health monitoring, and behavior analysis. Leveraging these data, researchers have developed innovative approaches to classify and predict time-based patterns and events in human life. Time-based techniques allow the capture of intricate temporal dependencies, which is the nature of the data coming from wearable devices. This paper focuses on predicting well-being factors, such as stress, anxiety, and positive and negative affect, on the Tesserae dataset collected from office workers. We examine the performance of different methodologies, including deep-learning architectures, LSTM, ensemble techniques, Random Forest (RF), and XGBoost, and compare their performances for time-based and non-time-based versions. In time-based versions, we investigate the effect of previous records of well-being factors on the upcoming ones. The overall results show that time-based LSTM performs the best among conventional (non-time-based) RF, XGBoost, and LSTM. The performance even increases when we consider a more extended previous period, in this case, 3 past-days rather than 1 past-day to predict the next day. Furthermore, we explore the corresponding biomarkers for each well-being factor using feature ranking. The obtained rankings are compatible with the psychological literature. In this work, we validated them based on device measurements rather than subjective survey responses.",
+      "corpusId": 265047189,
+      "url": "https://api.semanticscholar.org/CorpusId:265047189"
+    },
+    {
+      "title": "Randomized controlled study of a digital data driven intervention for depressive and generalized anxiety symptoms",
+      "authors": [
+        {
+          "name": "Panagiotis Fatouros",
+          "id": "2257341135"
+        },
+        {
+          "name": "Charalambos Tsirmpas",
+          "id": "2066910"
+        },
+        {
+          "name": "Dimitrios Andrikopoulos",
+          "id": "32314041"
+        },
+        {
+          "name": "Sharon Kaplow",
+          "id": "2257342407"
+        },
+        {
+          "name": "Konstantinos Kontoangelos",
+          "id": "2278120259"
+        },
+        {
+          "name": "Charalabos Papageorgiou",
+          "id": "2257012690"
+        }
+      ],
+      "year": 2025,
+      "venue": "npj Digital Medicine",
+      "score": 0.5794535780459714,
+      "abstract": "As mental health disorders like Major Depressive Disorder and Generalized Anxiety Disorder rise globally, effective, scalable, and personalized treatments are urgently needed. This 16-week prospective, decentralized, randomized, waitlist-controlled study investigated the effectiveness of a digital data-driven therapeutic integrating wearable sensor data with a mobile app to deliver personalized CBT-based interventions for individuals with depressive and generalized anxiety symptoms. 200 adults were randomized to intervention or control groups, with 164 completing the study. The intervention group demonstrated significant reductions in depressive (mean change = −5.61, CI = −7.14, −4.08) and anxiety symptoms (mean change = −5.21, CI = −6.66, −3.76), compared to the control group, with medium-to-large effect sizes (r = 0.64 and r = 0.62, P < 0.001). Notably, these improvements were also observed in participants with clinically significant depression and anxiety, further reinforcing the potential of digital therapeutics in targeting more severe cases. These findings, combined with high engagement levels, suggest that data-driven digital health interventions could complement traditional treatments, though further research is needed to assess their long-term impact.",
+      "corpusId": 276479067,
+      "url": "https://api.semanticscholar.org/CorpusId:276479067"
+    },
+    {
+      "title": "Identifying Objective Physiological Markers and Modifiable Behaviors for Self-Reported Stress and Mental Health Status Using Wearable Sensors and Mobile Phones: Observational Study",
+      "authors": [
+        {
+          "name": "Akane Sano",
+          "id": "2804453"
+        },
+        {
+          "name": "Sara Taylor",
+          "id": "144996285"
+        },
+        {
+          "name": "Andrew W. McHill",
+          "id": "2148479"
+        },
+        {
+          "name": "A. Phillips",
+          "id": "2339241"
+        },
+        {
+          "name": "L. Barger",
+          "id": "5137082"
+        },
+        {
+          "name": "E. Klerman",
+          "id": "2045532"
+        },
+        {
+          "name": "Rosalind W. Picard",
+          "id": "1719389"
+        }
+      ],
+      "year": 2018,
+      "venue": "Journal of Medical Internet Research",
+      "score": 0.5787762305546194,
+      "abstract": "Background Wearable and mobile devices that capture multimodal data have the potential to identify risk factors for high stress and poor mental health and to provide information to improve health and well-being. Objective We developed new tools that provide objective physiological and behavioral measures using wearable sensors and mobile phones, together with methods that improve their data integrity. The aim of this study was to examine, using machine learning, how accurately these measures could identify conditions of self-reported high stress and poor mental health and which of the underlying modalities and measures were most accurate in identifying those conditions. Methods We designed and conducted the 1-month SNAPSHOT study that investigated how daily behaviors and social networks influence self-reported stress, mood, and other health or well-being-related factors. We collected over 145,000 hours of data from 201 college students (age: 18-25 years, male:female=1.8:1) at one university, all recruited within self-identified social groups. Each student filled out standardized pre- and postquestionnaires on stress and mental health; during the month, each student completed twice-daily electronic diaries (e-diaries), wore two wrist-based sensors that recorded continuous physical activity and autonomic physiology, and installed an app on their mobile phone that recorded phone usage and geolocation patterns. We developed tools to make data collection more efficient, including data-check systems for sensor and mobile phone data and an e-diary administrative module for study investigators to locate possible errors in the e-diaries and communicate with participants to correct their entries promptly, which reduced the time taken to clean e-diary data by 69%. We constructed features and applied machine learning to the multimodal data to identify factors associated with self-reported poststudy stress and mental health, including behaviors that can be possibly modified by the individual to improve these measures. Results We identified the physiological sensor, phone, mobility, and modifiable behavior features that were best predictors for stress and mental health classification. In general, wearable sensor features showed better classification performance than mobile phone or modifiable behavior features. Wearable sensor features, including skin conductance and temperature, reached 78.3% (148/189) accuracy for classifying students into high or low stress groups and 87% (41/47) accuracy for classifying high or low mental health groups. Modifiable behavior features, including number of naps, studying duration, calls, mobility patterns, and phone-screen-on time, reached 73.5% (139/189) accuracy for stress classification and 79% (37/47) accuracy for mental health classification. Conclusions New semiautomated tools improved the efficiency of long-term ambulatory data collection from wearable and mobile devices. Applying machine learning to the resulting data revealed a set of both objective features and modifiable behavioral features that could classify self-reported high or low stress and mental health groups in a college student population better than previous studies and showed new insights into digital phenotyping.",
+      "corpusId": 46998771,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29884610"
+    },
+    {
+      "title": "Digital Biomarkers for Depression Screening With Wearable Devices: Cross-sectional Study With Machine Learning Modeling",
+      "authors": [
+        {
+          "name": "Yu. M. Rykov",
+          "id": "102281005"
+        },
+        {
+          "name": "T. Thach",
+          "id": "144526137"
+        },
+        {
+          "name": "Iva Bojic",
+          "id": "48765714"
+        },
+        {
+          "name": "G. Christopoulos",
+          "id": "32164945"
+        },
+        {
+          "name": "J. Car",
+          "id": "3007050"
+        }
+      ],
+      "year": 2020,
+      "venue": "JMIR mHealth and uHealth",
+      "score": 0.5768301086026947,
+      "abstract": "Background Depression is a prevalent mental disorder that is undiagnosed and untreated in half of all cases. Wearable activity trackers collect fine-grained sensor data characterizing the behavior and physiology of users (ie, digital biomarkers), which could be used for timely, unobtrusive, and scalable depression screening. Objective The aim of this study was to examine the predictive ability of digital biomarkers, based on sensor data from consumer-grade wearables, to detect risk of depression in a working population. Methods This was a cross-sectional study of 290 healthy working adults. Participants wore Fitbit Charge 2 devices for 14 consecutive days and completed a health survey, including screening for depressive symptoms using the 9-item Patient Health Questionnaire (PHQ-9), at baseline and 2 weeks later. We extracted a range of known and novel digital biomarkers characterizing physical activity, sleep patterns, and circadian rhythms from wearables using steps, heart rate, energy expenditure, and sleep data. Associations between severity of depressive symptoms and digital biomarkers were examined with Spearman correlation and multiple regression analyses adjusted for potential confounders, including sociodemographic characteristics, alcohol consumption, smoking, self-rated health, subjective sleep characteristics, and loneliness. Supervised machine learning with statistically selected digital biomarkers was used to predict risk of depression (ie, symptom severity and screening status). We used varying cutoff scores from an acceptable PHQ-9 score range to define the depression group and different subsamples for classification, while the set of statistically selected digital biomarkers remained the same. For the performance evaluation, we used k-fold cross-validation and obtained accuracy measures from the holdout folds. Results A total of 267 participants were included in the analysis. The mean age of the participants was 33 (SD 8.6, range 21-64) years. Out of 267 participants, there was a mild female bias displayed (n=170, 63.7%). The majority of the participants were Chinese (n=211, 79.0%), single (n=163, 61.0%), and had a university degree (n=238, 89.1%). We found that a greater severity of depressive symptoms was robustly associated with greater variation of nighttime heart rate between 2 AM and 4 AM and between 4 AM and 6 AM; it was also associated with lower regularity of weekday circadian rhythms based on steps and estimated with nonparametric measures of interdaily stability and autocorrelation as well as fewer steps-based daily peaks. Despite several reliable associations, our evidence showed limited ability of digital biomarkers to detect depression in the whole sample of working adults. However, in balanced and contrasted subsamples comprised of depressed and healthy participants with no risk of depression (ie, no or minimal depressive symptoms), the model achieved an accuracy of 80%, a sensitivity of 82%, and a specificity of 78% in detecting subjects at high risk of depression. Conclusions Digital biomarkers that have been discovered and are based on behavioral and physiological data from consumer wearables could detect increased risk of depression and have the potential to assist in depression screening, yet current evidence shows limited predictive ability. Machine learning models combining these digital biomarkers could discriminate between individuals with a high risk of depression and individuals with no risk.",
+      "corpusId": 238089545,
+      "url": "https://api.semanticscholar.org/CorpusId:238089545"
+    },
+    {
+      "title": "Feasibility of Deploying Home-Based Digital Technology, Environmental Sensors, and Web-Based Surveys for Assessing Behavioral Symptoms and Identifying Their Precipitants in Older Adults: Longitudinal, Observational Study",
+      "authors": [
+        {
+          "name": "W. Au-Yeung",
+          "id": "1403463548"
+        },
+        {
+          "name": "Yan Liu",
+          "id": "2282429762"
+        },
+        {
+          "name": "Remonda Hanna",
+          "id": "2295175414"
+        },
+        {
+          "name": "Sarah Gothard",
+          "id": "2099728923"
+        },
+        {
+          "name": "Nathaniel K Rodrigues",
+          "id": "2034192521"
+        },
+        {
+          "name": "Cierra Leon Guerrero",
+          "id": "2295248528"
+        },
+        {
+          "name": "Z. Beattie",
+          "id": "2788219"
+        },
+        {
+          "name": "Jeffrey Kaye",
+          "id": "2257339617"
+        }
+      ],
+      "year": 2023,
+      "venue": "JMIR Formative Research",
+      "score": 0.5605441477775831,
+      "abstract": "Background Apathy, depression, and anxiety are prevalent neuropsychiatric symptoms experienced by older adults. Early detection, prevention, and intervention may improve outcomes. Objective We aim to demonstrate the feasibility of deploying web-based weekly questionnaires inquiring about the behavioral symptoms of older adults with normal cognition, mild cognitive impairment, or early-stage dementia and to demonstrate the feasibility of deploying an in-home technology platform for measuring participant behaviors and their environment. Methods The target population of this study is older adults with normal cognition, mild cognitive impairment, or early-stage dementia. This is an observational, longitudinal study with a study period of up to 9 months. The severity of participant behavioral symptoms (apathy, depression, and anxiety) was self-reported weekly through web-based surveys. Participants’ digital biomarkers were continuously collected at their personal residences and through wearables throughout the duration of the study. The indoor physical environment at each residence, such as light level, noise level, temperature, humidity, or air quality, was also measured using indoor environmental sensors. Feasibility was examined, and preliminary correlation analysis between the level of symptoms and the digital biomarkers and between the level of symptoms and the indoor environment was performed. Results At 13 months after recruitment began, a total of 9 participants had enrolled into this study. The participants showed high adherence rates in completing the weekly questionnaires (response rate: 275/278, 98.9%), and data collection using the digital technology appeared feasible and acceptable to the participants with few exceptions. Participants’ severity of behavioral symptoms fluctuated from week to week. Preliminary results show that the duration of sleep onset and noise level are positively correlated with the anxiety level in a subset of our participants. Conclusions This study is a step toward more frequent assessment of older adults’ behavioral symptoms and holistic in situ monitoring of older adults’ behaviors and their living environment. The goal of this study is to facilitate the development of objective digital biomarkers of neuropsychiatric symptoms and to identify in-home environmental factors that contribute to these symptoms.",
+      "corpusId": 268952717,
+      "url": "https://api.semanticscholar.org/CorpusId:268952717"
+    },
+    {
+      "title": "Depression deconstructed: Wearables and passive digital phenotyping for analyzing individual symptoms.",
+      "authors": [
+        {
+          "name": "D. Lekkas",
+          "id": "1720920531"
+        },
+        {
+          "name": "Joseph A. Gyorda",
+          "id": "2146757338"
+        },
+        {
+          "name": "George D. Price",
+          "id": "1486136128"
+        },
+        {
+          "name": "N. Jacobson",
+          "id": "39972662"
+        }
+      ],
+      "year": 2023,
+      "venue": "Behaviour Research and Therapy",
+      "score": 0.557503398954679,
+      "abstract": "",
+      "corpusId": 260463088,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/37544229"
+    },
+    {
+      "title": "Depression risk assessment with digital biomarkers from wearables: a cross-sectional study with machine learning modelling (Preprint)",
+      "authors": [
+        {
+          "name": "Yu. M. Rykov",
+          "id": "102281005"
+        },
+        {
+          "name": "T. Thach",
+          "id": "144526137"
+        },
+        {
+          "name": "Iva Bojic",
+          "id": "48765714"
+        },
+        {
+          "name": "George I. Christopoulos",
+          "id": "49941484"
+        },
+        {
+          "name": "J. Car",
+          "id": "3007050"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.5563362894946803,
+      "abstract": "\n BACKGROUND\n Depression is a highly prevalent mental disorder, however it remains undiagnosed and untreated in half of cases. Wearable activity trackers collect fine-grained sensor data characterizing behavior and physiology of users, which could be used for timely, unobtrusive, and scalable depression screening.\n \n \n OBJECTIVE\n This study examined the predictive ability of digital biomarkers based on behavioral and physiological data from consumer-grade wearables to detect risk of depression in working population.\n \n \n METHODS\n This was a cross-sectional study of 290 healthy working adults. Participants wore Fitbit Charge 2 for two weeks and completed a health survey including screening for depressive symptoms. We extracted a range of known and novel digital biomarkers characterizing physical activity, sleep patterns, and circadian rhythms from wearables using steps, heart rate (HR), energy expenditure, and sleep data. Associations between severity of depressive symptoms and digital biomarkers were examined with Spearman correlation and multiple regression analyses adjusted for potential confounders. Supervised machine learning was used to predict risk of depression (symptoms’ severity and screening status) from digital biomarkers. For performance evaluation we used k-fold cross-validation and obtained accuracy measures from the holdout folds.\n \n \n RESULTS\n 267 participants were included into analysis. 38 (14%) participants had PHQ-9 score equal or above 10 and were identified as depressed. Greater severity of depressive symptoms was significantly associated with greater variation of night-time HR between 2:00–4:00 am and 4:00–6:00 am, lower regularity of weekday circadian rhythms based on steps and HR, and fewer steps-based daily peaks. Our model predicted depression screening outcome with 78% accuracy (sensitivity–82% and specificity–75%) in the contrasted subsample consisting of participants with high and the lowest risk of depression.\n \n \n CONCLUSIONS\n Discovered digital biomarkers from consumer wearables could indicate increased risk of depression in working population, yet current evidence shows limited predictive ability. Combination of these digital biomarkers could discriminate individuals with high risk of depression from individuals with the lowest risk.\n",
+      "corpusId": 242899502,
+      "url": "https://api.semanticscholar.org/CorpusId:242899502"
+    },
+    {
+      "title": "A study of wrist-worn activity measurement as a potential real-world biomarker for late-life depression",
+      "authors": [
+        {
+          "name": "John T. O’Brien",
+          "id": "2242777333"
+        },
+        {
+          "name": "Peter Gallagher",
+          "id": "2239793508"
+        },
+        {
+          "name": "Daniel Stow",
+          "id": "2243061650"
+        },
+        {
+          "name": "Nils Y. Hammerla",
+          "id": "3128867"
+        },
+        {
+          "name": "Thomas Ploetz",
+          "id": "2268947958"
+        },
+        {
+          "name": "Michael J. Firbank",
+          "id": "2207924700"
+        },
+        {
+          "name": "C. Ladha",
+          "id": "2204248"
+        },
+        {
+          "name": "Karim Ladha",
+          "id": "49185584"
+        },
+        {
+          "name": "Dan Jackson",
+          "id": "2242773332"
+        },
+        {
+          "name": "R. Mcnaney",
+          "id": "2440800"
+        },
+        {
+          "name": "I. N. Ferrier",
+          "id": "2239793117"
+        },
+        {
+          "name": "Patrick Olivier",
+          "id": "2243059824"
+        }
+      ],
+      "year": 2016,
+      "venue": "Psychological Medicine",
+      "score": 0.5530124743566838,
+      "abstract": "Background Late-life depression (LLD) is associated with a decline in physical activity. Typically this is assessed by self-report questionnaires and, more recently, with actigraphy. We sought to explore the utility of a bespoke activity monitor to characterize activity profiles in LLD more precisely. Method The activity monitor was worn for 7 days by 29 adults with LLD and 30 healthy controls. Subjects underwent neuropsychological assessment and quality of life (QoL) (36-item Short-Form Health Survey) and activities of daily living (ADL) scales (Instrumental Activities of Daily Living Scale) were administered. Results Physical activity was significantly reduced in LLD compared with controls (t = 3.63, p < 0.001), primarily in the morning. LLD subjects showed slower fine motor movements (t = 3.49, p < 0.001). In LLD patients, activity reductions were related to reduced ADL (r = 0.61, p < 0.001), lower QoL (r = 0.65, p < 0.001), associative learning (r = 0.40, p = 0.036), and higher Montgomery–Åsberg Depression Rating Scale score (r = −0.37, p < 0.05). Conclusions Patients with LLD had a significant reduction in general physical activity compared with healthy controls. Assessment of specific activity parameters further revealed the correlates of impairments associated with LLD. Our study suggests that novel wearable technology has the potential to provide an objective way of monitoring real-world function.",
+      "corpusId": 15870770,
+      "url": "https://doi.org/10.1017/S0033291716002166"
+    },
+    {
+      "title": "Mood Prediction of Patients With Mood Disorders by Machine Learning Using Passive Digital Phenotypes Based on the Circadian Rhythm: Prospective Observational Cohort Study",
+      "authors": [
+        {
+          "name": "C. Cho",
+          "id": "38091073"
+        },
+        {
+          "name": "Taek Lee",
+          "id": "145147043"
+        },
+        {
+          "name": "Min-Gwan Kim",
+          "id": "9714115"
+        },
+        {
+          "name": "H. In",
+          "id": "1793283"
+        },
+        {
+          "name": "L. Kim",
+          "id": "5474937"
+        },
+        {
+          "name": "Heon-Jeong Lee",
+          "id": "1563927623"
+        }
+      ],
+      "year": 2019,
+      "venue": "Journal of Medical Internet Research",
+      "score": 0.5275171963856524,
+      "abstract": "Background Virtually, all organisms on Earth have their own circadian rhythm, and humans are no exception. Circadian rhythms are associated with various human states, especially mood disorders, and disturbance of the circadian rhythm is known to be very closely related. Attempts have also been made to derive clinical implications associated with mood disorders using the vast amounts of digital log that is acquired by digital technologies develop and using computational analysis techniques. Objective This study was conducted to evaluate the mood state or episode, activity, sleep, light exposure, and heart rate during a period of about 2 years by acquiring various digital log data through wearable devices and smartphone apps as well as conventional clinical assessments. We investigated a mood prediction algorithm developed with machine learning using passive data phenotypes based on circadian rhythms. Methods We performed a prospective observational cohort study on 55 patients with mood disorders (major depressive disorder [MDD] and bipolar disorder type 1 [BD I] and 2 [BD II]) for 2 years. A smartphone app for self-recording daily mood scores and detecting light exposure (using the installed sensor) were provided. From daily worn activity trackers, digital log data of activity, sleep, and heart rate were collected. Passive digital phenotypes were processed into 130 features based on circadian rhythms, and a mood prediction algorithm was developed by random forest. Results The mood state prediction accuracies for the next 3 days in all patients, MDD patients, BD I patients, and BD II patients were 65%, 65%, 64%, and 65% with 0.7, 0.69, 0.67, and 0.67 area under the curve (AUC) values, respectively. The accuracies of all patients for no episode (NE), depressive episode (DE), manic episode (ME), and hypomanic episode (HME) were 85.3%, 87%, 94%, and 91.2% with 0.87, 0.87, 0.958, and 0.912 AUC values, respectively. The prediction accuracy in BD II patients was distinctively balanced as high showing 82.6%, 74.4%, and 87.5% of accuracy (with generally good sensitivity and specificity) with 0.919, 0.868, and 0.949 AUC values for NE, DE, and HME, respectively. Conclusions On the basis of the theoretical basis of chronobiology, this study proposed a good model for future research by developing a mood prediction algorithm using machine learning by processing and reclassifying digital log data. In addition to academic value, it is expected that this study will be of practical help to improve the prognosis of patients with mood disorders by making it possible to apply actual clinical application owing to the rapid expansion of digital technology.",
+      "corpusId": 119525421,
+      "url": "https://api.semanticscholar.org/CorpusId:119525421"
+    },
+    {
+      "title": "Greater variability in daily sleep efficiency predicts depression and anxiety in young adults: Estimation of depression severity using the two-week sleep quality records of wearable devices",
+      "authors": [
+        {
+          "name": "Jae-A. Lim",
+          "id": "3487003"
+        },
+        {
+          "name": "J. Yun",
+          "id": "35488048"
+        },
+        {
+          "name": "Soo-Hee Choi",
+          "id": "2108644920"
+        },
+        {
+          "name": "Susan Park",
+          "id": "2107893719"
+        },
+        {
+          "name": "H. Suk",
+          "id": "47217010"
+        },
+        {
+          "name": "J. Jang",
+          "id": "2540539"
+        }
+      ],
+      "year": 2022,
+      "venue": "Frontiers in Psychiatry",
+      "score": 0.5256634332350638,
+      "abstract": "Objectives Sleep disturbances are associated with both the onset and progression of depressive disorders. It is important to capture day-to-day variability in sleep patterns; irregular sleep is associated with depressive symptoms. We used sleep efficiency, measured with wearable devices, as an objective indicator of daily sleep variability. Materials and methods The total sample consists of 100 undergraduate and graduate students, 60% of whom were female. All were divided into three groups (with major depressive disorder, mild depressive symptoms, and controls). Self-report questionnaires were completed at the beginning of the experiment, and sleep efficiency data were collected daily for 2 weeks using wearable devices. We explored whether the mean value of sleep efficiency, and its variability, predicted the severity of depression using dynamic structural equation modeling. Results More marked daily variability in sleep efficiency significantly predicted levels of depression and anxiety, as did the average person-level covariates (longer time in bed, poorer quality of life, lower extraversion, and higher neuroticism). Conclusion Large swings in day-to-day sleep efficiency and certain clinical characteristics might be associated with depression severity in young adults.",
+      "corpusId": 253372383,
+      "url": "https://api.semanticscholar.org/CorpusId:253372383"
+    },
+    {
+      "title": "Analysis of the correlation between physical activity level, sleep quality, and anxiety levels in middle-aged and older adults: a cross-sectional study",
+      "authors": [
+        {
+          "name": "Bin Tang",
+          "id": "2375304461"
+        },
+        {
+          "name": "Ying Hu",
+          "id": "2374151200"
+        },
+        {
+          "name": "Chuanjie Xu",
+          "id": "2115785005"
+        },
+        {
+          "name": "Nana Wang",
+          "id": "2374353986"
+        },
+        {
+          "name": "Yu Li",
+          "id": "2262330507"
+        },
+        {
+          "name": "Jianping Li",
+          "id": "2262253899"
+        }
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Public Health",
+      "score": 0.5242365944874475,
+      "abstract": "Objective This study aimed to investigate the associations between physical activity levels, sleep quality, and anxiety status in a cross-sectional sample of middle-aged and older adults. Materials and methods Anxiety was assessed using the Generalized Anxiety Disorder 7 (GAD-7) scale, and sleep quality was evaluated using the Pittsburgh Sleep Quality Index (PSQI). Physical activity levels were evaluated using the International Physical Activity Questionnaire (IPAQ). Multivariable logistic regression models were used to analyze the associations, adjusting for potential confounders such as age, gender, body mass index (BMI), smoking, and alcohol use. Results A total of 488 participants were included. Both good sleep quality and adherence to recommended physical activity levels were independently associated with a significantly reduced risk of anxiety (p < 0.001). Sleep quality, rather than sleep duration, emerged as a key factor of anxiety. Stratified analyses showed that these associations were more pronounced in females, non-smokers, and urban residents. Conclusion This study underscores the importance of sleep quality and physical activity in reducing anxiety risk. These findings suggest that integrated strategies promoting better sleep and increased physical activity may be effective for anxiety prevention and intervention among middle-aged and older adults.",
+      "corpusId": 282620310,
+      "url": "https://api.semanticscholar.org/CorpusId:282620310"
+    },
+    {
+      "title": "Posttraumatic stress disorder hyperarousal event detection using smartwatch physiological and activity data",
+      "authors": [
+        {
+          "name": "Mahnoosh Sadeghi",
+          "id": "72322224"
+        },
+        {
+          "name": "Anthony D. McDonald",
+          "id": "144808726"
+        },
+        {
+          "name": "F. Sasangohar",
+          "id": "49369102"
+        }
+      ],
+      "year": 2021,
+      "venue": "PLoS ONE",
+      "score": 0.5203329418459721,
+      "abstract": "Posttraumatic Stress Disorder (PTSD) is a psychiatric condition affecting nearly a quarter of the United States war veterans who return from war zones. Treatment for PTSD typically consists of a combination of in-session therapy and medication. However; patients often experience their most severe PTSD symptoms outside of therapy sessions. Mobile health applications may address this gap, but their effectiveness is limited by the current gap in continuous monitoring and detection capabilities enabling timely intervention. The goal of this article is to develop a novel method to detect hyperarousal events using physiological and activity-based machine learning algorithms. Physiological data including heart rate and body acceleration as well as self-reported hyperarousal events were collected using a tool developed for commercial off-the-shelf wearable devices from 99 United States veterans diagnosed with PTSD over several days. The data were used to develop four machine learning algorithms: Random Forest, Support Vector Machine, Logistic Regression and XGBoost. The XGBoost model had the best performance in detecting onset of PTSD symptoms with over 83% accuracy and an AUC of 0.70. Post-hoc SHapley Additive exPlanations (SHAP) additive explanation analysis showed that algorithm predictions were correlated with average heart rate, minimum heart rate and average body acceleration. Findings show promise in detecting onset of PTSD symptoms which could be the basis for developing remote and continuous monitoring systems for PTSD. Such systems may address a vital gap in just-in-time interventions for PTSD self-management outside of scheduled clinical appointments.",
+      "corpusId": 238227208,
+      "url": "https://api.semanticscholar.org/CorpusId:238227208"
+    },
+    {
+      "title": "The Passive Monitoring of Depression and Anxiety Among Workers Using Digital Biomarkers Based on Their Physical Activity and Working Conditions: 2-Week Longitudinal Study",
+      "authors": [
+        {
+          "name": "Kazuhiro Watanabe",
+          "id": "50643847"
+        },
+        {
+          "name": "A. Tsutsumi",
+          "id": "2071370295"
+        }
+      ],
+      "year": 2022,
+      "venue": "JMIR Formative Research",
+      "score": 0.5116841954036484,
+      "abstract": "Background Digital data on physical activity are useful for self-monitoring and preventing depression and anxiety. Although previous studies have reported machine or deep learning models that use physical activity for passive monitoring of depression and anxiety, there are no models for workers. The working population has different physical activity patterns from other populations, which is based on commuting, holiday patterns, physical demands, occupations, and industries. These working conditions are useful in optimizing the model used in predicting depression and anxiety. Further, recurrent neural networks increase predictive accuracy by using previous inputs on physical activity, depression, and anxiety. Objective This study evaluated the performance of a deep learning model optimized for predicting depression and anxiety in workers. Psychological distress was considered a depression and anxiety indicator. Methods A 2-week longitudinal study was conducted with workers in urban areas in Japan. Absent workers were excluded. In a daily survey, psychological distress was measured using a self-reported questionnaire. As features, activity time by intensity was determined using the Google Fit application. Additionally, we measured age, gender, occupations, employment status, work shift types, working hours, and whether the response date was a working or nonworking day. A deep learning model, using long short-term memory, was developed and validated to predict psychological distress the next day, using features of the previous day. Further, a 5-fold cross-validation method was used to evaluate the performance of the aforementioned model. As the primary indicator of performance, classification accuracy for the severity of the psychological distress (light, subthreshold, and severe) was considered. Results A total of 1661 days of supervised data were obtained from 236 workers, who were aged between 20 and 69 years. The overall classification accuracy for psychological distress was 76.3% (SD 0.04%). The classification accuracy for severe-, subthreshold-, and light-level psychological distress was 51.1% (SD 0.05%), 60.6% (SD 0.05%), and 81.6% (SD 0.04%), respectively. The model predicted a light-level psychological distress the next day after the participants had been involved in 3 peaks of activity (in the morning, noon, and evening) on the previous day. Lower activity levels were predicted as subthreshold- and severe-level psychological distress. Different predictive results were observed on the basis of occupations and whether the previous day was a working or nonworking day. Conclusions The developed deep learning model showed a similar performance as in previous studies and, in particular, high accuracy for light-level psychological distress. Working conditions and long short-term memory were useful in maintaining the model performance for monitoring depression and anxiety, using digitally recorded physical activity in workers. The developed model can be implemented in mobile apps and may further be practically used by workers to self-monitor and maintain their mental health state.",
+      "corpusId": 254093679,
+      "url": "https://api.semanticscholar.org/CorpusId:254093679"
+    },
+    {
+      "title": "Unobtrusive and Multimodal Wearable Sensing to Quantify Anxiety",
+      "authors": [
+        {
+          "name": "Yali Zheng",
+          "id": "2219015132"
+        },
+        {
+          "name": "T. C. H. Wong",
+          "id": "47328657"
+        },
+        {
+          "name": "Billy Leung",
+          "id": "38460082"
+        },
+        {
+          "name": "Carmen C. Y. Poon",
+          "id": "29369369"
+        }
+      ],
+      "year": 2016,
+      "venue": "IEEE Sensors Journal",
+      "score": 0.5048903278663006,
+      "abstract": "",
+      "corpusId": 42070663,
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7428822"
+    },
+    {
+      "title": "Identifying Neurobehavioral Biomarkers of Anxiety and Treatment Response Using Virtual Reality, Electroencephalography, Magnetic Resonance Imaging, and Related Multimodal Assessments: A Longitudinal Study Protocol",
+      "authors": [
+        {
+          "name": "H. Oh",
+          "id": "2400378603"
+        },
+        {
+          "name": "J. Cha",
+          "id": "2363969682"
+        },
+        {
+          "name": "Byung-Hoon Kim",
+          "id": "2382055869"
+        },
+        {
+          "name": "K. Oh",
+          "id": "2279238000"
+        },
+        {
+          "name": "Y. Shin",
+          "id": "2114100976"
+        },
+        {
+          "name": "Sang-Won Jeon",
+          "id": "2238605777"
+        },
+        {
+          "name": "S. Cho",
+          "id": "2275757745"
+        },
+        {
+          "name": "Junhyung Kim",
+          "id": "2302949341"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.4888697722481443,
+      "abstract": "Background/Objectives: Anxiety disorders are highly prevalent and impairing psychiatric conditions. Conventional diagnostic approaches based on symptom checklists lack biological specificity and often fail to guide treatment decisions effectively. This study protocol outlines a multidimensional, prospective investigation designed to identify behavioral and neurobiological biomarkers predictive of treatment response in individuals with anxiety-related symptoms, grounded in the Research Domain Criteria framework. Methods: This observational, longitudinal study (NCT06773585) will include a transdiagnostic sample of clinical anxiety group alongside a healthy control group (185 participants, including 145 patients with anxiety disorders and 40 healthy controls). Participants will undergo comprehensive baseline assessments, including clinical interviews, self-report questionnaires, a virtual reality (VR)-based behavioral task, electroencephalography (EEG), electrocardiography (ECG), and structural and functional brain magnetic resonance imaging. Follow-up assessments will be conducted at 2, 6, and 12 months, with recruitment and data collection planned from 2024 to 2029. These complementary modalities are integrated to capture behavioral, physiological, and neural indicators of anxiety and its treatment response. Multimodal baseline features will be used to construct machine-learning models predicting treatment response, defined as ≥40% reduction in anxiety severity scores. Longitudinal analyses will examine symptom trajectories and neural mechanisms associated with response. Neurobiological comparisons will be made across timepoints and between responders, non-responders, and healthy controls. Conclusions: By identifying objective, biologically grounded markers of anxiety and treatment response, our findings will contribute to the development of personalized assessment tools and scalable digital interventions for psychiatric care.",
+      "corpusId": 284119742,
+      "url": "https://api.semanticscholar.org/CorpusId:284119742"
+    },
+    {
+      "title": "Digital health tools for the passive monitoring of depression: a systematic review of methods",
+      "authors": [
+        {
+          "name": "V. de Angel",
+          "id": "52560669"
+        },
+        {
+          "name": "S. Lewis",
+          "id": "2150266699"
+        },
+        {
+          "name": "K. White",
+          "id": "2257634036"
+        },
+        {
+          "name": "C. Oetzmann",
+          "id": "2032063486"
+        },
+        {
+          "name": "D. Leightley",
+          "id": "3165223"
+        },
+        {
+          "name": "Emanuela Oprea",
+          "id": "2378606167"
+        },
+        {
+          "name": "G. Lavelle",
+          "id": "46998233"
+        },
+        {
+          "name": "F. Matcham",
+          "id": "3560932"
+        },
+        {
+          "name": "A. Pace",
+          "id": "2294845364"
+        },
+        {
+          "name": "D. Mohr",
+          "id": "50228835"
+        },
+        {
+          "name": "R. Dobson",
+          "id": "2066358850"
+        },
+        {
+          "name": "M. Hotopf",
+          "id": "3487589"
+        }
+      ],
+      "year": 2021,
+      "venue": "npj Digital Medicine",
+      "score": 0.4766350364004803,
+      "abstract": "The use of digital tools to measure physiological and behavioural variables of potential relevance to mental health is a growing field sitting at the intersection between computer science, engineering, and clinical science. We summarised the literature on remote measuring technologies, mapping methodological challenges and threats to reproducibility, and identified leading digital signals for depression. Medical and computer science databases were searched between January 2007 and November 2019. Published studies linking depression and objective behavioural data obtained from smartphone and wearable device sensors in adults with unipolar depression and healthy subjects were included. A descriptive approach was taken to synthesise study methodologies. We included 51 studies and found threats to reproducibility and transparency arising from failure to provide comprehensive descriptions of recruitment strategies, sample information, feature construction and the determination and handling of missing data. The literature is characterised by small sample sizes, short follow-up duration and great variability in the quality of reporting, limiting the interpretability of pooled results. Bivariate analyses show consistency in statistically significant associations between depression and digital features from sleep, physical activity, location, and phone use data. Machine learning models found the predictive value of aggregated features. Given the pitfalls in the combined literature, these results should be taken purely as a starting point for hypothesis generation. Since this research is ultimately aimed at informing clinical practice, we recommend improvements in reporting standards including consideration of generalisability and reproducibility, such as wider diversity of samples, thorough reporting methodology and the reporting of potential bias in studies with numerous features.",
+      "corpusId": 236173292,
+      "url": "https://doi.org/10.1038/s41746-021-00548-8"
+    },
+    {
+      "title": "Leveraging Machine Learning for Personalized Wearable Biomedical Devices: A Review",
+      "authors": [
+        {
+          "name": "Ali Olyanasab",
+          "id": "2176642306"
+        },
+        {
+          "name": "Mohsen Annabestani",
+          "id": "2284288405"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Personalized Medicine",
+      "score": 0.47448352144963296,
+      "abstract": "This review investigates the convergence of artificial intelligence (AI) and personalized health monitoring through wearable devices, classifying them into three distinct categories: bio-electrical, bio-impedance and electro-chemical, and electro-mechanical. Wearable devices have emerged as promising tools for personalized health monitoring, utilizing machine learning to distill meaningful insights from the expansive datasets they capture. Within the bio-electrical category, these devices employ biosignal data, such as electrocardiograms (ECGs), electromyograms (EMGs), electroencephalograms (EEGs), etc., to monitor and assess health. The bio-impedance and electro-chemical category focuses on devices measuring physiological signals, including glucose levels and electrolytes, offering a holistic understanding of the wearer's physiological state. Lastly, the electro-mechanical category encompasses devices designed to capture motion and physical activity data, providing valuable insights into an individual's physical activity and behavior. This review critically evaluates the integration of machine learning algorithms within these wearable devices, illuminating their potential to revolutionize healthcare. Emphasizing early detection, timely intervention, and the provision of personalized lifestyle recommendations, the paper outlines how the amalgamation of advanced machine learning techniques with wearable devices can pave the way for more effective and individualized healthcare solutions. The exploration of this intersection promises a paradigm shift, heralding a new era in healthcare innovation and personalized well-being.",
+      "corpusId": 267696107,
+      "url": "https://api.semanticscholar.org/CorpusId:267696107"
+    },
+    {
+      "title": "Large-scale wearable data reveal digital phenotypes for daily-life stress detection",
+      "authors": [
+        {
+          "name": "Elena Smets",
+          "id": "3394799"
+        },
+        {
+          "name": "E. R. Velazquez",
+          "id": "2071349624"
+        },
+        {
+          "name": "G. Schiavone",
+          "id": "49966592"
+        },
+        {
+          "name": "I. Chakroun",
+          "id": "3220567"
+        },
+        {
+          "name": "E. D'Hondt",
+          "id": "2034370949"
+        },
+        {
+          "name": "W. Raedt",
+          "id": "71855952"
+        },
+        {
+          "name": "Jan Cornelis",
+          "id": "2065288570"
+        },
+        {
+          "name": "Olivier Janssens",
+          "id": "3001762"
+        },
+        {
+          "name": "S. V. Hoecke",
+          "id": "1790767"
+        },
+        {
+          "name": "S. Claes",
+          "id": "4478744"
+        },
+        {
+          "name": "I. Diest",
+          "id": "7400201"
+        },
+        {
+          "name": "C. Hoof",
+          "id": "7858571"
+        }
+      ],
+      "year": 2018,
+      "venue": "npj Digital Medicine",
+      "score": 0.4707856393915325,
+      "abstract": "Physiological signals have shown to be reliable indicators of stress in laboratory studies, yet large-scale ambulatory validation is lacking. We present a large-scale cross-sectional study for ambulatory stress detection, consisting of 1002 subjects, containing subjects’ demographics, baseline psychological information, and five consecutive days of free-living physiological and contextual measurements, collected through wearable devices and smartphones. This dataset represents a healthy population, showing associations between wearable physiological signals and self-reported daily-life stress. Using a data-driven approach, we identified digital phenotypes characterized by self-reported poor health indicators and high depression, anxiety and stress scores that are associated with blunted physiological responses to stress. These results emphasize the need for large-scale collections of multi-sensor data, to build personalized stress models for precision medicine.",
+      "corpusId": 54480850,
+      "url": "https://api.semanticscholar.org/CorpusId:54480850"
+    },
+    {
+      "title": "A Method for Intelligent Allocation of Diagnostic Testing by Leveraging Data from Commercial Wearable Devices: A Case Study on COVID-19",
+      "authors": [
+        {
+          "name": "Jessilyn Dunn",
+          "id": "2248015311"
+        },
+        {
+          "name": "M. Shandhi",
+          "id": "9311171"
+        },
+        {
+          "name": "Peter Cho",
+          "id": "2285698199"
+        },
+        {
+          "name": "A. Roghanizad",
+          "id": "1413667514"
+        },
+        {
+          "name": "Karnika Singh",
+          "id": "2248183537"
+        },
+        {
+          "name": "W. Wang",
+          "id": "2285656398"
+        },
+        {
+          "name": "Oana M. Enache",
+          "id": "32547789"
+        },
+        {
+          "name": "Amanda Stern",
+          "id": "2161405854"
+        },
+        {
+          "name": "Rami Sbahi",
+          "id": "2161405897"
+        },
+        {
+          "name": "Bilge Tatar",
+          "id": "2161405899"
+        },
+        {
+          "name": "Sean Fiscus",
+          "id": "2161404272"
+        },
+        {
+          "name": "Qi Xuan Khoo",
+          "id": "2161404968"
+        },
+        {
+          "name": "Yvonne Kuo",
+          "id": "2161406251"
+        },
+        {
+          "name": "Xiao Lu",
+          "id": "2161494730"
+        },
+        {
+          "name": "Joseph Hsieh",
+          "id": "2161405999"
+        },
+        {
+          "name": "Alena Kalodzitsa",
+          "id": "122988681"
+        },
+        {
+          "name": "A. Bahmani",
+          "id": "2332985"
+        },
+        {
+          "name": "Arash Alavi",
+          "id": "2055787798"
+        },
+        {
+          "name": "Utsab Ray",
+          "id": "2122958294"
+        },
+        {
+          "name": "M. Snyder",
+          "id": "2144654544"
+        },
+        {
+          "name": "Geoffrey S. Ginsburg",
+          "id": "2248598345"
+        },
+        {
+          "name": "Dana K. Pasquale",
+          "id": "2265495161"
+        },
+        {
+          "name": "C. Woods",
+          "id": "2260458065"
+        },
+        {
+          "name": "Ryan J. Shaw",
+          "id": "2146670847"
+        }
+      ],
+      "year": 2022,
+      "venue": "Research Square",
+      "score": 0.4659059146605859,
+      "abstract": "Mass surveillance testing can help control outbreaks of infectious diseases such as COVID-19. However, diagnostic test shortages are prevalent globally and continue to occur in the US with the onset of new COVID-19 variants, demonstrating an unprecedented need for improving our current methods for mass surveillance testing. By targeting surveillance testing towards individuals who are most likely to be infected and, thus, increasing testing positivity rate (i.e., percent positive in the surveillance group), fewer tests are needed to capture the same number of positive cases. Here, we developed an Intelligent Testing Allocation (ITA) method by leveraging data from the CovIdentify study (6,765 participants) and the MyPHD study (8,580 participants), including smartwatch data from 1,265 individuals of whom 126 tested positive for COVID-19. Our rigorous model and parameter search uncovered the optimal time periods and aggregate metrics for monitoring continuous digital biomarkers to increase the positivity rate of COVID-19 diagnostic testing. We found that resting heart rate features distinguished between COVID-19 positive and negative cases earlier in the course of the infection than steps features, as early as ten and five days prior to the diagnostic test, respectively. We also found that including steps features increased the area under the receiver operating characteristic curve (AUC-ROC) by 7-11% when compared with RHR features alone, while including RHR features improved the AUC of the ITA model's precision-recall curve (AUC-PR) by 38-50% when compared with steps features alone. The best AUC-ROC (0.73 ± 0.14 and 0.77 on the cross-validated training set and independent test set, respectively) and AUC-PR (0.55 ± 0.21 and 0.24) were achieved by using data from a single device type (Fitbit) with high-resolution (minute-level) data. Finally, we show that ITA generates up to a 6.5-fold increase in the positivity rate in the cross-validated training set and up to a 3-fold increase in the positivity rate in the independent test set, including both symptomatic and asymptomatic (up to 27%) individuals. Our findings suggest that, if deployed on a large scale and without needing self-reported symptoms, the ITA method could improve allocation of diagnostic testing resources and reduce the burden of test shortages.",
+      "corpusId": 267846972,
+      "url": "https://api.semanticscholar.org/CorpusId:267846972"
+    },
+    {
+      "title": "Digital Assessment of Depression, Acute Stress, and Socioeconomic\n Disparities Using Wearable and Smartphone Devices Across the\n Lifespan",
+      "authors": [
+        {
+          "name": "Benjamin W. Nelson",
+          "id": "2394232"
+        },
+        {
+          "name": "K. Lockwood",
+          "id": "33305418"
+        },
+        {
+          "name": "Julio Vega",
+          "id": "145555233"
+        },
+        {
+          "name": "H. Harvie",
+          "id": "1393814175"
+        }
+      ],
+      "year": 0,
+      "venue": "TMS Proceedings 2021",
+      "score": 0.45942269814420517,
+      "abstract": "Traditional assessment of affective and behavioral functioning relies almost entirely on questionnaires, self-report interviews, and laboratory-based measurements. Although each of these approaches has important strengths, they are also subject to limitations. Recently, technological advances in mobile computing have allowed for the widespread adoption of consumer mobile technologies that may ameliorate many methodological limitations of traditional assessment methods as these devices contain a multitude of sensors enabling the scalable, unobtrusive, and ecologically valid collection of biobehavioral variables. Despite many review articles delineating the promise of these devices, research has largely been limited to single symptom profiles and homogenous populations. This symposium will address these gaps by presenting novel findings that utilize multimethod approaches (e.g., actigraphy, GPS, photoplethysmography, camera and light sensors) to examine how intensively longitudinal study designs leveraging consumer smartphone and wearable technology can be used to index mental health profiles, acute stress, and socioeconomic disparities across the lifespan and in diverse populations. First, Dr. Nelson will present a preregistered assessment of multiple clinical profiles using a computational psychiatry machine learning approach with large scale wearable data collection in a large nationally representative sample of adolescents. Second, Dr. Lockwood, will present a large-scale longitudinal study using newly-validated smartphone-based optic sensor to assess socioeconomic disparities. Third, Vega will present on how 6 months of smartphone sensor data during COVID-19 predicts weekly levels of depression and anxiety. Lastly, Harvie will present on how smartphone-based measures of photoplethysmography using a consumer wearable device tracks self-reported increases in perceived stress in children and adults.",
+      "corpusId": 248756646,
+      "url": "https://api.semanticscholar.org/CorpusId:248756646"
+    },
+    {
+      "title": "Combining actigraphy and experience sampling to assess physical activity and sleep in patients with psychosis: A feasibility study",
+      "authors": [
+        {
+          "name": "Lydia Pieters",
+          "id": "2060957068"
+        },
+        {
+          "name": "J. Deenik",
+          "id": "38718957"
+        },
+        {
+          "name": "Sabine de Vet",
+          "id": "2209721357"
+        },
+        {
+          "name": "P. Delespaul",
+          "id": "115816155"
+        },
+        {
+          "name": "P. V. van Harten",
+          "id": "46896083"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Psychiatry",
+      "score": 0.4567022532185481,
+      "abstract": "Background Sleep disorders and reduced physical activity are common in patients with psychosis and can be related to health-related outcomes such as symptomatology and functioning. Mobile health technologies and wearable sensor methods enable continuous and simultaneous monitoring of physical activity, sleep, and symptoms in one’s day-to-day environment. Only a few studies have applied simultaneous assessment of these parameters. Therefore, we aimed to examine the feasibility of the simultaneous monitoring of physical activity, sleep, and symptoms and functioning in psychosis. Methods Thirty three outpatients diagnosed with a schizophrenia or other psychotic disorder used an actigraphy watch and experience sampling method (ESM) smartphone app for 7 consecutive days to monitor physical activity, sleep, symptoms, and functioning. Participants wore the actigraphy watch during day and night and completed multiple short questionnaires (eight daily, one morning, and one evening) on their phone. Hereafter they completed evaluation questionnaires. Results Of the 33 patients (25 male), 32 (97.0%) used the ESM and actigraphy during the instructed timeframe. ESM response was good: 64.0% for the daily, 90.6% for morning, and 82.6% for evening questionnaire(s). Participants were positive about the use of actigraphy and ESM. Conclusion The combination of wrist-worn actigraphy and smartphone-based ESM is feasible and acceptable in outpatients with psychosis. These novel methods can help both clinical practice and future research to gain more valid insight into physical activity and sleep as biobehavioral markers linked to psychopathological symptoms and functioning in psychosis. This can be used to investigate relationships between these outcomes and thereby improve individualized treatment and prediction.",
+      "corpusId": 257172763,
+      "url": "https://api.semanticscholar.org/CorpusId:257172763"
+    },
+    {
+      "title": "How Anxiety State Influences Speech Parameters: A Network Analysis Study from a Real Stressed Scenario",
+      "authors": [
+        {
+          "name": "Qingyi Wang",
+          "id": "2290249253"
+        },
+        {
+          "name": "Feifei Xu",
+          "id": "2348026531"
+        },
+        {
+          "name": "Xianyang Wang",
+          "id": "2208083266"
+        },
+        {
+          "name": "Shengjun Wu",
+          "id": "2268633324"
+        },
+        {
+          "name": "Lei Ren",
+          "id": "2342244364"
+        },
+        {
+          "name": "Xufeng Liu",
+          "id": "2258410944"
+        }
+      ],
+      "year": 2025,
+      "venue": "Brain Science",
+      "score": 0.44030443721063095,
+      "abstract": "Background/Objectives: Voice analysis has shown promise in anxiety assessment, yet traditional approaches examining isolated acoustic features yield inconsistent results. This study aimed to explore the relationship between anxiety states and vocal parameters from a network perspective in ecologically valid settings. Methods: A cross-sectional study was conducted with 316 undergraduate students (191 males, 125 females; mean age 20.3 ± 0.85 years) who completed a standardized picture description task while their speech was recorded. Participants were categorized into low-anxiety (n = 119) and high-anxiety (n = 197) groups based on self-reported anxiety ratings. Five acoustic parameters—jitter, fundamental frequency (F0), formant frequencies (F1/F2), intensity, and speech rate—were analyzed using network analysis. Results: Network analysis revealed a robust negative relationship between jitter and state anxiety, with jitter as the sole speech parameter consistently linked to state anxiety in the total group. Additionally, higher anxiety levels were associated with a coupling between intensity and F1/F2, whereas the low-anxiety network displayed a sparser organization without intensity and F1/F2 connection. Conclusions: Anxiety could be recognized by speech parameter networks in ecological settings. The distinct pattern with the negative jitter-anxiety relationship in the total network and the connection between intensity and F1/2 in high-anxiety states suggest potential speech markers for anxiety assessment. These findings suggest that state anxiety may directly influence jitter and fundamentally restructure the relationships among speech features, highlighting the importance of examining jitter and speech parameter interactions rather than isolated values in speech detection of anxiety.",
+      "corpusId": 276704293,
+      "url": "https://api.semanticscholar.org/CorpusId:276704293"
+    },
+    {
+      "title": "Digital Biomarkers of Social Anxiety Severity: Digital Phenotyping Using Passive Smartphone Sensors",
+      "authors": [
+        {
+          "name": "N. Jacobson",
+          "id": "39972662"
+        },
+        {
+          "name": "Berta J. Summers",
+          "id": "6192397"
+        },
+        {
+          "name": "S. Wilhelm",
+          "id": "4198220"
+        }
+      ],
+      "year": 2019,
+      "venue": "Journal of Medical Internet Research",
+      "score": 0.4377661194947602,
+      "abstract": "Background Social anxiety disorder is a highly prevalent and burdensome condition. Persons with social anxiety frequently avoid seeking physician support and rarely receive treatment. Social anxiety symptoms are frequently underreported and underrecognized, creating a barrier to the accurate assessment of these symptoms. Consequently, more research is needed to identify passive biomarkers of social anxiety symptom severity. Digital phenotyping, the use of passive sensor data to inform health care decisions, offers a possible method of addressing this assessment barrier. Objective This study aims to determine whether passive sensor data acquired from smartphone data can accurately predict social anxiety symptom severity using a publicly available dataset. Methods In this study, participants (n=59) completed self-report assessments of their social anxiety symptom severity, depressive symptom severity, positive affect, and negative affect. Next, participants installed an app, which passively collected data about their movement (accelerometers) and social contact (incoming and outgoing calls and texts) over 2 weeks. Afterward, these passive sensor data were used to form digital biomarkers, which were paired with machine learning models to predict participants’ social anxiety symptom severity. Results The results suggested that these passive sensor data could be utilized to accurately predict participants’ social anxiety symptom severity (r=0.702 between predicted and observed symptom severity) and demonstrated discriminant validity between depression, negative affect, and positive affect. Conclusions These results suggest that smartphone sensor data may be utilized to accurately detect social anxiety symptom severity and discriminate social anxiety symptom severity from depressive symptoms, negative affect, and positive affect.",
+      "corpusId": 217548908,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/32348284"
+    },
+    {
+      "title": "Predicting obsessive-compulsive disorder episodes in adolescents using a wearable biosensor—A wrist angel feasibility study",
+      "authors": [
+        {
+          "name": "N. Lønfeldt",
+          "id": "1400566312"
+        },
+        {
+          "name": "Kristoffer Vinther Olesen",
+          "id": "2245011750"
+        },
+        {
+          "name": "Sneha Das",
+          "id": "2290837362"
+        },
+        {
+          "name": "A.-R. Cecilie Mora-Jensen",
+          "id": "2164988765"
+        },
+        {
+          "name": "A. Pagsberg",
+          "id": "5361689"
+        },
+        {
+          "name": "L. Clemmensen",
+          "id": "40318952"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Psychiatry",
+      "score": 0.43760699968068584,
+      "abstract": "Introduction Obsessive-compulsive disorders (OCD) are marked by distress, negative emotions, mental processes and behaviors that are reflected in physiological signals such as heart rate, electrodermal activity, and skin temperature. Continuous monitoring of physiological signals associated with OCD symptoms may make measures of OCD more objective and facilitate close monitoring of prodromal symptoms, treatment progress and risk of relapse. Thus, we explored the feasibility of capturing OCD events in the real world using an unobtrusive wrist worn biosensor and machine learning models. Methods Nine adolescents (ages 10–17 years) with mild to moderate-severe OCD were recruited from child and adolescent mental health services. Participants were asked to wear the biosensor in the lab during conditions of rest and exposure to OCD symptom-triggering stimuli and for up to 8 weeks in their everyday lives and register OCD events. We explored the relationships among physiological data, registered OCD events, age, OCD symptom severity and symptom types. In the machine learning models, we considered detection of OCD events as a binary classification problem. A nested cross-validation strategy with either random 10-folds, leave-one-subject-out, or leave-week(s)-out in both layers was used. We compared the performance of four models: logistic regression, random forest (RF), feedforward neural networks, and mixed-effect random forest (MERF). To explore the ability of the models to detect OCD events in new patients, we assessed the performance of participant-based generalized models. To explore the ability of models to detect OCD events in future, unseen data from the same patients, we compared the performance of temporal generalized models trained on multiple patients with personalized models trained on single patients. Results Eight of the nine participants collected biosensor signals totaling 2, 405 h and registered 1, 639 OCD events. Better performance was obtained when generalizing across time compared to across patients. Generalized temporal models trained on multiple patients were found to perform better than personalized models trained on single patients. RF and MERF models outperformed the other models in terms of accuracy in all cross-validation strategies, reaching 70% accuracy in random and participant cross-validation. Conclusion Our pilot results suggest that it is possible to detect OCD episodes in the everyday lives of adolescents using physiological signals captured with a wearable biosensor. Large scale studies are needed to train and test models capable of detecting and predicting episodes. Clinical trial registration ClinicalTrials.gov: NCT05064527, registered October 1, 2021.",
+      "corpusId": 263657900,
+      "url": "https://api.semanticscholar.org/CorpusId:263657900"
+    },
+    {
+      "title": "Design of a Remote Multiparametric Tool to Assess Mental Well-Being and Distress in Young People (mHealth Methods in Mental Health Research Project): Protocol for an Observational Study",
+      "authors": [
+        {
+          "name": "Thais Castro Ribeiro",
+          "id": "2133364946"
+        },
+        {
+          "name": "Esther García Pagès",
+          "id": "1920381547"
+        },
+        {
+          "name": "L. Ballester",
+          "id": "147281002"
+        },
+        {
+          "name": "G. Vilagut",
+          "id": "5089695"
+        },
+        {
+          "name": "Helena García Mieres",
+          "id": "2280572707"
+        },
+        {
+          "name": "Víctor Suárez Aragonès",
+          "id": "2293811728"
+        },
+        {
+          "name": "F. Amigo",
+          "id": "2051738906"
+        },
+        {
+          "name": "Raquel Bailón",
+          "id": "2240885826"
+        },
+        {
+          "name": "P. Mortier",
+          "id": "145119148"
+        },
+        {
+          "name": "Víctor Pérez Solá",
+          "id": "2293813067"
+        },
+        {
+          "name": "Antoni Serrano-Blanco",
+          "id": "2262005422"
+        },
+        {
+          "name": "Jordi Alonso",
+          "id": "2250388865"
+        },
+        {
+          "name": "Jordi Aguiló",
+          "id": "2280572851"
+        }
+      ],
+      "year": 2023,
+      "venue": "JMIR Research Protocols",
+      "score": 0.43087928305730766,
+      "abstract": "Background Mental health conditions have become a substantial cause of disability worldwide, resulting in economic burden and strain on the public health system. Incorporating cognitive and physiological biomarkers using noninvasive sensors combined with self-reported questionnaires can provide a more accurate characterization of the individual’s well-being. Biomarkers such as heart rate variability or those extracted from the electrodermal activity signal are commonly considered as indices of autonomic nervous system functioning, providing objective indicators of stress response. A model combining a set of these biomarkers can constitute a comprehensive tool to remotely assess mental well-being and distress. Objective This study aims to design and validate a remote multiparametric tool, including physiological and cognitive variables, to objectively assess mental well-being and distress. Methods This ongoing observational study pursues to enroll 60 young participants (aged 18-34 years) in 3 groups, including participants with high mental well-being, participants with mild to moderate psychological distress, and participants diagnosed with depression or anxiety disorder. The inclusion and exclusion criteria are being evaluated through a web-based questionnaire, and for those with a mental health condition, the criteria are identified by psychologists. The assessment consists of collecting mental health self-reported measures and physiological data during a baseline state, the Stroop Color and Word Test as a stress-inducing stage, and a final recovery period. Several variables related to heart rate variability, pulse arrival time, breathing, electrodermal activity, and peripheral temperature are collected using medical and wearable devices. A second assessment is carried out after 1 month. The assessment tool will be developed using self-reported questionnaires assessing well-being (short version of Warwick-Edinburgh Mental Well-being Scale), anxiety (Generalized Anxiety Disorder-7), and depression (Patient Health Questionnaire-9) as the reference. We will perform correlation and principal component analysis to reduce the number of variables, followed by the calculation of multiple regression models. Test-retest reliability, known-group validity, and predictive validity will be assessed. Results Participant recruitment is being carried out on a university campus and in mental health services. Recruitment commenced in October 2022 and is expected to be completed by June 2024. As of July 2023, we have recruited 41 participants. Most participants correspond to the group with mild to moderate psychological distress (n=20, 49%), followed by the high mental well-being group (n=13, 32%) and those diagnosed with a mental health condition (n=8, 20%). Data preprocessing is currently ongoing, and publication of the first results is expected by September 2024. Conclusions This study will establish an initial framework for a comprehensive mental health assessment tool, taking measurements from sophisticated devices, with the goal of progressing toward a remotely accessible and objectively measured approach that maintains an acceptable level of accuracy in clinical practice and epidemiological studies. Trial Registration OSF Registries N3GCH; https://doi.org/10.17605/OSF.IO/N3GCH International Registered Report Identifier (IRRID) DERR1-10.2196/51298",
+      "corpusId": 267121780,
+      "url": "https://api.semanticscholar.org/CorpusId:267121780"
+    },
+    {
+      "title": "Continuous measurement of stress levels in naturalistic settings using heart rate variability: An experience-sampling study driving a machine learning approach",
+      "authors": [
+        {
+          "name": "P. Cipresso",
+          "id": "1743009"
+        },
+        {
+          "name": "S. Serino",
+          "id": "1701562"
+        },
+        {
+          "name": "Francesca Borghesi",
+          "id": "5701408"
+        },
+        {
+          "name": "G. Tartarisco",
+          "id": "2103757"
+        },
+        {
+          "name": "G. Riva",
+          "id": "2084524476"
+        },
+        {
+          "name": "G. Pioggia",
+          "id": "144917392"
+        },
+        {
+          "name": "A. Gaggioli",
+          "id": "1700503"
+        }
+      ],
+      "year": 2021,
+      "venue": "ACTA IMEKO",
+      "score": 0.42099716491492783,
+      "abstract": "Developing automatic methods to measure psychological stress in everyday life has become an important research challenge. Here, we describe the design and implementation of a personalized mobile system for the detection of psychological stress episodes based on Heart-Rate Variability (HRV) indices. The system's architecture consists of three main modules: a mobile acquisition module; an analysis-decision module; and a visualization-reporting module. Once the stress level is calculated by the mobile system, the visualization-reporting module of the mobile application displays the current stress level of the user. We carried out an experience-sampling study, involving 15 participants, monitored longitudinally, for a total of 561 ECG analyzed, to select the HRV features which best correlate with self-reported stress levels. Drawing on these results, a personalized classification system is able to automatically detect stress events from those HRV features, after a training phase in which the system learns from the subjective responses given by the user. Finally, the performance of the classification task was evaluated on the empirical dataset using the leave one out cross-validation process. Preliminary findings suggest that incorporating self-reported psychological data in the system's knowledge base allows for a more accurate and personalized definition of the stress response measured by HRV indices.",
+      "corpusId": 245714373,
+      "url": "https://api.semanticscholar.org/CorpusId:245714373"
+    },
+    {
+      "title": "Joint Modeling of Heterogeneous Sensing Data for Depression Assessment via Multi-task Learning",
+      "authors": [
+        {
+          "name": "Jin Lu",
+          "id": "143829418"
+        },
+        {
+          "name": "Chao Shang",
+          "id": "143711518"
+        },
+        {
+          "name": "Chaoqun Yue",
+          "id": "2556266"
+        },
+        {
+          "name": "Reynaldo Morillo",
+          "id": "7409771"
+        },
+        {
+          "name": "Shweta Ware",
+          "id": "4103602"
+        },
+        {
+          "name": "Jayesh Kamath",
+          "id": "2782343"
+        },
+        {
+          "name": "Athanasios Bamis",
+          "id": "3331666"
+        },
+        {
+          "name": "Alexander Russell",
+          "id": "1994641589"
+        },
+        {
+          "name": "B. Wang",
+          "id": "145952971"
+        },
+        {
+          "name": "J. Bi",
+          "id": "38370684"
+        }
+      ],
+      "year": 2018,
+      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+      "score": 0.41366224114205474,
+      "abstract": "",
+      "corpusId": 4342577,
+      "url": "http://dl.acm.org/citation.cfm?id=3191753"
+    },
+    {
+      "title": "Using Wearable Devices and Speech Data for Personalized Machine Learning in Early Detection of Mental Disorders: Protocol for a Participatory Research Study",
+      "authors": [
+        {
+          "name": "Ramon E. Diaz-Ramos",
+          "id": "2247830793"
+        },
+        {
+          "name": "Isabella Noriega",
+          "id": "2210311570"
+        },
+        {
+          "name": "Luis A. Trejo",
+          "id": "2247832997"
+        },
+        {
+          "name": "Eleni Stroulia",
+          "id": "1719731"
+        }
+      ],
+      "year": 2023,
+      "venue": "JMIR Research Protocols",
+      "score": 0.3996013304435481,
+      "abstract": "Background Early identification of mental disorder symptoms is crucial for timely treatment and reduction of recurring symptoms and disabilities. A tool to help individuals recognize warning signs is important. We posit that such a tool would have to rely on longitudinal analysis of patterns and trends in the individual’s daily activities and mood, which can now be captured through data from wearable activity trackers, speech recordings from mobile devices, and the individual’s own description of their mental state. In this paper, we describe such a tool developed by our team to detect early signs of depression, anxiety, and stress. Objective This study aims to examine three questions about the effectiveness of machine learning models constructed based on multimodal data from wearables, speech, and self-reports: (1) How does speech about issues of personal context differ from speech while reading a neutral text, what type of speech data are more helpful in detecting mental health indicators, and how is the quality of the machine learning models influenced by multilanguage data? (2) Does accuracy improve with longitudinal data collection and how, and what are the most important features? and (3) How do personalized machine learning models compare against population-level models? Methods We collect longitudinal data to aid machine learning in accurately identifying patterns of mental disorder symptoms. We developed an app that collects voice, physiological, and activity data. Physiological and activity data are provided by a variety of off-the-shelf fitness trackers, that record steps, active minutes, duration of sleeping stages (rapid eye movement, deep, and light sleep), calories consumed, distance walked, heart rate, and speed. We also collect voice recordings of users reading specific texts and answering open-ended questions chosen randomly from a set of questions without repetition. Finally, the app collects users’ answers to the Depression, Anxiety, and Stress Scale. The collected data from wearable devices and voice recordings will be used to train machine learning models to predict the levels of anxiety, stress, and depression in participants. Results The study is ongoing, and data collection will be completed by November 2023. We expect to recruit at least 50 participants attending 2 major universities (in Canada and Mexico) fluent in English or Spanish. The study will include participants aged between 18 and 35 years, with no communication disorders, acute neurological diseases, or history of brain damage. Data collection complied with ethical and privacy requirements. Conclusions The study aims to advance personalized machine learning for mental health; generate a data set to predict Depression, Anxiety, and Stress Scale results; and deploy a framework for early detection of depression, anxiety, and stress. Our long-term goal is to develop a noninvasive and objective method for collecting mental health data and promptly detecting mental disorder symptoms. International Registered Report Identifier (IRRID) DERR1-10.2196/48210",
+      "corpusId": 263005264,
+      "url": "https://api.semanticscholar.org/CorpusId:263005264"
+    },
+    {
+      "title": "Optimizing Social Support in Oncology with Digital Platforms",
+      "authors": [
+        {
+          "name": "Dimos Katsaros",
+          "id": "2084593326"
+        },
+        {
+          "name": "James Hawthorne",
+          "id": "2084603311"
+        },
+        {
+          "name": "Jay Patel",
+          "id": "14421149"
+        },
+        {
+          "name": "Kaitlin Pothier",
+          "id": "2149749534"
+        },
+        {
+          "name": "T. Aungst",
+          "id": "2320962"
+        },
+        {
+          "name": "Chris Franzese",
+          "id": "2084606403"
+        }
+      ],
+      "year": 2022,
+      "venue": "JMIR Cancer",
+      "score": 0.39205211203194457,
+      "abstract": "Increased cancer prevalence and survival rates coupled with earlier patient discharges from hospitals have created a greater need for social support. Cancer care is both short term and long term, requiring acute treatments, treatments for remission, and long-term screenings and treatment regimens. Health care systems are already overwhelmed and often struggle to provide social support systems for everyone. Caregivers are limited in number, and even when they are available, they often lack necessary information, skills, or resources to meet the needs of patients with cancer. The act of caregiving presents various challenges, and caregivers themselves often need social support as well. Despite these needs, most social support programs are targeted toward patients alone. Given the prevalence of cancer and known needs of these patients and their caregivers, the ability to identify those who need social support is crucial. Further, the scalability and overall availability of social support programs is vital for successful patient care. This paper establishes the benefits of social support for both patients and caregivers coping with cancer treatments, explores innovative ways of identifying patients who may need social support using digital tools, and reviews potential advantages of digital social support programs.",
+      "corpusId": 245893230,
+      "url": "https://api.semanticscholar.org/CorpusId:245893230"
+    },
+    {
+      "title": "Digital phenotyping from wearables using AI characterizes psychiatric disorders and identifies genetic associations",
+      "authors": [
+        {
+          "name": "Jason J Liu",
+          "id": "2354931999"
+        },
+        {
+          "name": "Beatrice Borsari",
+          "id": "88739183"
+        },
+        {
+          "name": "Yunyang Li",
+          "id": "2284461865"
+        },
+        {
+          "name": "Susanna X. Liu",
+          "id": "2326982034"
+        },
+        {
+          "name": "Yuan Gao",
+          "id": "2292513313"
+        },
+        {
+          "name": "Xin Xin",
+          "id": "2354793729"
+        },
+        {
+          "name": "S. Lou",
+          "id": "50195469"
+        },
+        {
+          "name": "Matthew Jensen",
+          "id": "2268194188"
+        },
+        {
+          "name": "Diego Garrido-Martín",
+          "id": "2326925753"
+        },
+        {
+          "name": "T. Verplaetse",
+          "id": "6077822"
+        },
+        {
+          "name": "Garrett I. Ash",
+          "id": "2286164736"
+        },
+        {
+          "name": "Jing Zhang",
+          "id": "2289807226"
+        },
+        {
+          "name": "Matthew J. Girgenti",
+          "id": "2268480599"
+        },
+        {
+          "name": "Walter Roberts",
+          "id": "2343879592"
+        },
+        {
+          "name": "Marc H. Gerstein",
+          "id": "152573911"
+        }
+      ],
+      "year": 2024,
+      "venue": "medRxiv",
+      "score": 0.39201785946240325,
+      "abstract": "Psychiatric disorders are complex and influenced by both genetic and environmental factors. However, studying the full spectrum of these disorders is hindered by practical limitations on measuring human behavior. This highlights the need for novel technologies that can measure behavioral changes at an intermediate level between diagnosis and genotype. Wearable devices are a promising tool in precision medicine, since they can record physiological measurements over time in response to environmental stimuli and do so at low cost and minimal invasiveness. Here we analyzed wearable and genetic data from a cohort of the Adolescent Brain Cognitive Development study. We generated >250 wearable-derived features and used them as intermediate phenotypes in an interpretable AI modeling framework to assign risk scores and classify adolescents with psychiatric disorders. Our model identifies key physiological processes and leverages their temporal patterns to achieve a higher performance than has been previously possible. To investigate how these physiological processes relate to the underlying genetic architecture of psychiatric disorders, we also utilized these intermediate phenotypes in univariate and multivariate GWAS. We identified a total of 29 significant genetic loci and 52 psychiatric-associated genes, including ELFN1 and ADORA3. These results show that wearable-derived continuous features enable a more precise representation of psychiatric disorders and exhibit greater detection power compared to categorical diagnostic labels. In summary, we demonstrate how consumer wearable technology can facilitate dimensional approaches in precision psychiatry and uncover etiological linkages between behavior and genetics.",
+      "corpusId": 272828714,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/39399036"
+    },
+    {
+      "title": "The chain-mediating effects of negative physical sensation and experiential avoidance on exercise anxiety in college students",
+      "authors": [
+        {
+          "name": "Yi Wang",
+          "id": "2154459768"
+        },
+        {
+          "name": "Jing Tian",
+          "id": "2136088642"
+        },
+        {
+          "name": "Qingxuan Yang",
+          "id": "2149537960"
+        }
+      ],
+      "year": 2024,
+      "venue": "Frontiers in Psychology",
+      "score": 0.3504627342091789,
+      "abstract": "Purpose The present study aimed to explore the potential mediating role of negative physical sensation and experiential avoidance in the association between endurance exercise and exercise anxiety among university students. Method In this study, a questionnaire method was employed to conduct the Adolescent Athlete Non-Intellectual Factors Survey Scale on 1,200 college students. From this sample, 287 individuals with exercise anxiety were identified through an endurance exercise test and the Acceptance and Action Questionnaire (AAQ-II) subsequently administered as well as The Borg Rating of Perceived Exertion (RPE). Subsequently, statistical analyses including correlation, regression, and mediation were performed using SPSS26 as the analytical tool. Additionally, the bias-corrected nonparametric percentile Bootstrap method was used to test for the mediating effects and estimate the confidence intervals with 5,000 iterations, and the confidence interval (CI) was set at 95%. Finally, in AMOS24, a mediating construct was established by incorporating exercise anxiety as the dependent variable, endurance exercise behavior as the independent variable, and negative physical sensations and experiential avoidance as the mediating variables (R = 0.619, R2 = 0.384). A path analytic procedure was employed to test the hypotheses while percentile bootstrap analysis was conducted to examine the indirect effects. Results The results show that endurance exercise negatively predicts negative physical sensations (β = −0.48, p < 0.001), negative physical sensation positively predicts experiential avoidance (β = 0.36, p < 0.001) and exercise anxiety (β = 0.40, p < 0.001), and experiential avoidance positively predicts exercise anxiety (β = 0.26, p < 0.001). Conclusion There were significant correlations among endurance exercise, negative physical sensation, experiential avoidance and exercise anxiety. Endurance exercise affects exercise anxiety through two ways: (1) endurance exercise → negative physical sensation → exercise anxiety; (2) endurance exercise → negative physical sensation → experiential avoidance → exercise anxiety. Negative physical sensations and experiential avoidance play mediating and chain-mediating roles between endurance exercise and exercise anxiety.",
+      "corpusId": 274328463,
+      "url": "https://api.semanticscholar.org/CorpusId:274328463"
+    },
+    {
+      "title": "Mental Health for All: The Case for Investing in Digital Mental Health to Improve Global Outcomes, Access, and Innovation in Low-Resource Settings",
+      "authors": [
+        {
+          "name": "Manuel Faria",
+          "id": "2261824103"
+        },
+        {
+          "name": "Stella Tan Pei Zin",
+          "id": "2261822513"
+        },
+        {
+          "name": "Roman Chestnov",
+          "id": "2261815232"
+        },
+        {
+          "name": "A. Novak",
+          "id": "2135271835"
+        },
+        {
+          "name": "S. Lev‐Ari",
+          "id": "2148842"
+        },
+        {
+          "name": "M. Snyder",
+          "id": "2144654544"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.35041451480186325,
+      "abstract": "Mental health disorders are an increasing global public health concern that contribute to morbidity, mortality, disability, and healthcare costs across the world. Biomedical and psychological research has come a long way in identifying the importance of mental health and its impact on behavioral risk factors, physiological health, and overall quality of life. Despite this, access to psychological and psychiatric services remains widely unavailable and is a challenge for many healthcare systems, particularly those in developing countries. This review article highlights the strengths and opportunities brought forward by digital mental health in narrowing this divide. Further, it points to the economic and societal benefits of effectively managing mental illness, making a case for investing resources into mental healthcare as a larger priority for large non-governmental organizations and individual nations across the globe.",
+      "corpusId": 264501319,
+      "url": "https://api.semanticscholar.org/CorpusId:264501319"
+    },
+    {
+      "title": "Using digital phenotyping to capture depression symptom variability: detecting naturalistic variability in depression symptoms across one year using passively collected wearable movement and sleep data",
+      "authors": [
+        {
+          "name": "George D. Price",
+          "id": "1486136128"
+        },
+        {
+          "name": "Michael V. Heinz",
+          "id": "1720888578"
+        },
+        {
+          "name": "S. Song",
+          "id": "2273522778"
+        },
+        {
+          "name": "M. Nemesure",
+          "id": "40964036"
+        },
+        {
+          "name": "N. Jacobson",
+          "id": "39972662"
+        }
+      ],
+      "year": 2023,
+      "venue": "Translational Psychiatry",
+      "score": 0.3317680320003102,
+      "abstract": "Major Depressive Disorder (MDD) presents considerable challenges to diagnosis and management due to symptom variability across time. Only recent work has highlighted the clinical implications for interrogating depression symptom variability. Thus, the present work investigates how sociodemographic, comorbidity, movement, and sleep data is associated with long-term depression symptom variability. Participant information included ( N  = 939) baseline sociodemographic and comorbidity data, longitudinal, passively collected wearable data, and Patient Health Questionnaire-9 (PHQ-9) scores collected over 12 months. An ensemble machine learning approach was used to detect long-term depression symptom variability via: (i) a domain-driven feature selection approach and (ii) an exhaustive feature-inclusion approach. SHapley Additive exPlanations (SHAP) were used to interrogate variable importance and directionality. The composite domain-driven and exhaustive inclusion models were both capable of moderately detecting long-term depression symptom variability ( r  = 0.33 and r  = 0.39, respectively). Our results indicate the incremental predictive validity of sociodemographic, comorbidity, and passively collected wearable movement and sleep data in detecting long-term depression symptom variability.",
+      "corpusId": 266157669,
+      "url": "https://doi.org/10.1038/s41398-023-02669-y"
+    },
+    {
+      "title": "Unlocking the potential of wearable device wear time to enhance postpartum depression screening and detection",
+      "authors": [
+        {
+          "name": "Eric Hurwitz",
+          "id": "2190359015"
+        },
+        {
+          "name": "Samantha Meltzer-Brody",
+          "id": "2283020843"
+        },
+        {
+          "name": "Z. Butzin-Dozier",
+          "id": "2042801404"
+        },
+        {
+          "name": "Rena C Patel",
+          "id": "2325146637"
+        },
+        {
+          "name": "N. Elhadad",
+          "id": "134509639"
+        },
+        {
+          "name": "Melissa A. Haendel",
+          "id": "2237677943"
+        }
+      ],
+      "year": 2024,
+      "venue": "medRxiv",
+      "score": 0.3307318977734955,
+      "abstract": "Postpartum depression (PPD) is a mood disorder affecting one in seven women after childbirth that is often under-screened and under-detected. If not diagnosed and treated, PPD is associated with long-term developmental challenges in the child and maternal morbidity. Wearable technologies, such as smartwatches and fitness trackers (e.g., Fitbit), offer continuous and longitudinal digital phenotyping for mood disorder diagnosis and monitoring, with device wear time being an important yet understudied aspect. Using the All of Us Research Program (AoURP) dataset, we assessed the percentage of days women with PPD wore Fitbit devices across pre-pregnancy, pregnancy, postpartum, and PPD periods, as determined by electronic health records. Wear time was compared in women with and without PPD using linear regression models. Results showed a strong trend that women in the PPD cohort wore their Fitbits more those without PPD during the postpartum (PPD: mean=72.9%, SE=13.8%; non-PPD: mean=58.9%, SE=12.2%, P-value=0.09) and PPD time periods (PPD: mean=70.7%, SE=14.5%; non-PPD: mean=55.6%, SE=12.9%, P-value=0.08). We hypothesize this may be attributed to hypervigilance, given the common co-occurrence of anxiety symptoms among women with PPD. Future studies should assess the link between PPD, hypervigilance, and wear time patterns. We envision that device wear patterns with digital biomarkers like sleep and physical activity could enhance early PPD detection using machine learning by alerting clinicians to potential concerns facilitating timely screenings, which may have implications for other mental health disorders.",
+      "corpusId": 273178449,
+      "url": "https://api.semanticscholar.org/CorpusId:273178449"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "provider": "gemini",
+  "condition": "without_laws",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41641734_2026",
+  "query": "((\"solitary pulmonary nodule\"[MeSH Terms] OR \"solitary pulmonary nodule\"[Title/Abstract] OR \"solitary pulmonary nodules\"[Title/Abstract] OR \"lung nodule\"[Title/Abstract] OR \"lung nodules\"[Title/Abstract] OR \"pulmonary nodule\"[Title/Abstract] OR \"pulmonary nodules\"[Title/Abstract] OR \"SPN\"[Title/Abstract] OR \"SPNs\"[Title/Abstract]) AND (incidental[Title/Abstract] OR incidentally[Title/Abstract]) AND (malignan*[Title/Abstract] OR cancer*[Title/Abstract] OR \"Lung Neoplasms\"[MeSH Terms] OR \"risk factors\"[MeSH Terms] OR \"risk factors\"[Title/Abstract] OR \"incidence\"[MeSH Terms] OR incidence[Title/Abstract]))",
+  "status": "ok"
+}

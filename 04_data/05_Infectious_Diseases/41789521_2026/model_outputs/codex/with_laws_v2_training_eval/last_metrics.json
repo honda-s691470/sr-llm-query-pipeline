@@ -1,0 +1,39 @@
+{
+  "query": "(\"Tuberculosis\"[Mesh] OR tuberculosis[tiab] OR TB[tiab] OR \"mycobacterium tuberculosis\"[tiab] OR \"pulmonary tuberculosis\"[tiab]) AND (\"Smoking\"[Mesh] OR smoking[tiab] OR \"tobacco use\"[tiab] OR smoker*[tiab] OR cigarette*[tiab] OR \"tobacco smoking\"[tiab] OR \"current smoker\"[tiab]) AND (Chinese[tiab] OR China[tiab] OR \"Chinese population\"[tiab] OR \"mainland China\"[tiab] OR \"Hong Kong\"[tiab] OR Taiwan[tiab] OR \"Han Chinese\"[tiab] OR \"Chinese people\"[tiab])",
+  "query_path": "04_data\\05_Infectious_Diseases\\41789521_2026\\model_outputs\\codex\\with_laws_v2_training_eval\\normalized_query.txt",
+  "input_config_path": "04_data\\05_Infectious_Diseases\\41789521_2026\\input_config.json",
+  "total_hits": 283,
+  "recall": 0.6956521739130435,
+  "found_count": 16,
+  "total_gold": 23,
+  "mode": "open",
+  "timestamp_unix": 1781082128,
+  "missed_pmids": [
+    "25859996",
+    "26504395",
+    "37283941",
+    "38087246",
+    "38741890",
+    "38848041",
+    "9368822"
+  ],
+  "found_pmids": [
+    "15282201",
+    "16898374",
+    "19674472",
+    "25359352",
+    "28384350",
+    "30738995",
+    "34059890",
+    "34332089",
+    "35902191",
+    "36211970",
+    "36389154",
+    "36778540",
+    "37515804",
+    "38314308",
+    "38594108",
+    "39238358"
+  ],
+  "missed_count": 7
+}

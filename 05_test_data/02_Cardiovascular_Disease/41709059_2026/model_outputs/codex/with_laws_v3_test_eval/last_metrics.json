@@ -1,0 +1,36 @@
+{
+  "query": "(\"Coronary Artery Disease\"[Mesh] OR \"coronary artery disease\"[tiab] OR CAD[tiab] OR \"coronary heart disease\"[tiab] OR \"myocardial infarction\"[tiab] OR \"ischemic heart disease\"[tiab] OR \"heart disease\"[tiab]) AND (\"Carnitine\"[Mesh] OR \"L-carnitine\"[tiab] OR carnitine[tiab] OR levocarnitine[tiab] OR \"acetyl-L-carnitine\"[tiab] OR \"acetylcarnitine\"[tiab])",
+  "query_path": "05_test_data\\02_Cardiovascular_Disease\\41709059_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data\\02_Cardiovascular_Disease\\41709059_2026\\input_config_detailed.json",
+  "total_hits": 442,
+  "recall": 0.75,
+  "found_count": 15,
+  "total_gold": 20,
+  "mode": "open",
+  "timestamp_unix": 1781083222,
+  "missed_pmids": [
+    "26110005",
+    "26754058",
+    "32082707",
+    "35781619",
+    "40994005"
+  ],
+  "found_pmids": [
+    "11399244",
+    "15591005",
+    "16685128",
+    "17955358",
+    "23597877",
+    "24762466",
+    "25044037",
+    "25092108",
+    "25701337",
+    "27317162",
+    "28343218",
+    "29241711",
+    "32816578",
+    "39329040",
+    "8746285"
+  ],
+  "missed_count": 5
+}

@@ -1,0 +1,17 @@
+{
+  "query": "(\n  (\n    \"Body Dysmorphic Disorders\"[Mesh]\n    OR \"body dysmorphic disorder\"[tiab]\n  )\n  AND\n  (\n    \"Magnetic Resonance Imaging\"[Mesh]\n    OR \"visual processing\"[tiab]\n  )\n)\nAND\n(english[lang] AND journal article[pt] AND humans[mh] NOT review[pt] NOT comment[pt] NOT letter[pt])",
+  "total_hits": 65,
+  "recall": 1.0,
+  "found_count": 4,
+  "total_gold": 4,
+  "mode": "open",
+  "timestamp_unix": 1773325721,
+  "missed_pmids": [],
+  "found_pmids": [
+    "18056550",
+    "20124119",
+    "21557897",
+    "32875486"
+  ],
+  "missed_count": 0
+}

@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:50:32Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41770755_2026",
+  "domain_folder": "04_Oncology",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Neoplasms\"[Mesh] OR cancer*[tiab] OR neoplasm*[tiab] OR oncolog*[tiab] OR tumor*[tiab] OR tumour*[tiab] OR malignan*[tiab]) AND (prehabilitat*[tiab] OR pre-habilitat*[tiab] OR teleprehabilitat*[tiab]) AND (multimodal*[tiab] OR \"multi-modal\"[tiab] OR ((exercis*[tiab] OR \"physical activ*\"[tiab]) AND (nutrition*[tiab] OR diet*[tiab]) AND (psycholog*[tiab] OR psychosocial*[tiab] OR \"mental health\"[tiab] OR anxi*[tiab] OR depress*[tiab]))) AND (digital*[tiab] OR telehealth[tiab] OR telemedicine[tiab] OR ehealth[tiab] OR mhealth[tiab] OR \"mobile app*\"[tiab] OR smartphone*[tiab] OR \"web-based\"[tiab] OR online[tiab] OR remote*[tiab] OR virtual*[tiab] OR wearable*[tiab] OR \"fitness tracker*\"[tiab] OR \"activity tracker*\"[tiab] OR \"Telemedicine\"[Mesh] OR \"Mobile Applications\"[Mesh] OR \"Remote Consultation\"[Mesh] OR \"Wearable Electronic Devices\"[Mesh]) AND (\"2008/01/01\"[Date - Publication] : \"3000\"[Date - Publication]) AND english[lang] AND NOT (review[pt] OR systematic review[pt] OR meta-analysis[pt] OR editorial[pt] OR comment[pt] OR letter[pt]))",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\04_Oncology\\41770755_2026\\without_laws"
+}

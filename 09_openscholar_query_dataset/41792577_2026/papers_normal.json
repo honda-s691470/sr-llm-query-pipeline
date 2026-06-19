@@ -1,0 +1,3251 @@
+{
+  "papers": [
+    {
+      "title": "The Current State and Progress of Mpox Vaccine Research",
+      "authors": [
+        {
+          "name": "Xinlong Wang",
+          "id": "2284526265"
+        },
+        {
+          "name": "Zhixia Gu",
+          "id": "2275201383"
+        },
+        {
+          "name": "Shugui Sheng",
+          "id": "2275239882"
+        },
+        {
+          "name": "Rui Song",
+          "id": "2243968312"
+        },
+        {
+          "name": "Ronghua Jin",
+          "id": "2270377809"
+        }
+      ],
+      "year": 2024,
+      "venue": "China CDC Weekly",
+      "score": 0.9007604509137337,
+      "abstract": "On July 23, 2022, the World Health Organization (WHO) declared the monkeypox (mpox) outbreak a “Public Health Emergency of International Concern.” Since 2022, outbreaks of mpox in many countries around the world have primarily resulted in fatalities among immunocompromised individuals, such as untreated HIV/AIDS patients. Since the eradication of smallpox was declared by the WHO in 1980, the global vaccination against smallpox has been gradually discontinued. China also stopped routine smallpox vaccination in 1981. The protective effect of the smallpox vaccine has decreased over time due to aging and declining immunity in those who were vaccinated. For individuals, timely vaccination against smallpox is an effective means of protection against mpox. However, due to safety concerns with the smallpox vaccine and the limitations of current mpox vaccines, there is no vaccine that is safe, effective, and has low side effects applied in clinical settings. This article provides a comprehensive review of the development of mpox virus (MPXV) vaccines, their application in special populations, and the current state of vaccine research, considering the etiology, transmission, and prevention of the MPXV. Vaccination, as an effective method of epidemic prevention, can provide long-term immune protection and effectively reduce the severity of infection. However, as there is no licensed specific MPXV vaccine available globally, the vaccines currently used for mpox prevention are mostly smallpox vaccines. These smallpox vaccines can offer some degree of protection against mpox by activating cross-protection in the body.",
+      "corpusId": 267725820,
+      "url": "https://pdfs.semanticscholar.org/723c/175360bb69fd1b2d5fdfbc02086f7a14d92c.pdf"
+    },
+    {
+      "title": "Vaccines against mpox: MVA-BN and LC16m8",
+      "authors": [
+        {
+          "name": "John D. Grabenstein",
+          "id": "2239664589"
+        },
+        {
+          "name": "Adam Hacker",
+          "id": "2137273972"
+        }
+      ],
+      "year": 2024,
+      "venue": "Expert Review of Vaccines",
+      "score": 0.9001623118707048,
+      "abstract": "ABSTRACT Introduction Global outbreaks involving mpox clade IIb began in mid-2022. Today, clade IIb and clade I outbreaks continue. Reliable mpox vaccines can prevent serious mpox disease and death. Areas covered Globally, two vaccines hold mpox indications, regardless of mpox viral clade: MVA-BN (Bavarian Nordic) and LC16m8 (KM Biologics). This review summarizes the human and pivotal animal data establishing safety and efficacy for MVA-BN and LC16m8, including real-world evidence gathered during mpox outbreaks from 2022 through 2024. Expert opinion Some regulatory decisions for MVA-BN and LC16m8 followed pathways based on surrogate outcomes, including lethal-challenge studies in nonhuman primates, among other atypical aspects. Nonetheless, MVA-BN and LC16m8 hold unencumbered registration in multiple countries. Effectiveness of MVA-BN as primary preventive vaccination (PPV) in humans against clade IIb mpox is clear from real-world studies; effectiveness of LC16m8 against clade IIb is likely from surrogate endpoints. Effectiveness of MVA-BN and LC16m8 as PPV against more-lethal clade I is likely, based on animal-challenge studies with multiple orthopoxvirus species and other studies. Both vaccines have solid safety records. MVA-BN’s replication incompetence favors adoption, whereas LC16m8 has more pediatric data. Additional real-world evidence, in additional geographic settings and special populations (e.g. pregnancy, immune suppression, atopic dermatitis), is needed. Plain Language Summary Situation Mpox outbreaks spread globally in 2022, hospitalizing many people. Many recent mpox cases in Africa occur in children. Two vaccines, known as MVA-BN and LC16m8, can help prevent mpox. MVA-BN MVA-BN protects animals from lethal doses of mpox and similar viruses. During outbreaks, MVA-BN lowered the chance of mpox disease by 62% to 85%. In people already exposed to mpox, MVA-BN reduced disease risk by 20%. MVA-BN may help reduce how serious mpox cases are, even if this vaccine does not block infection fully. MVA-BN cannot grow inside the body, making it very safe, even in children. Side effects include pain, redness, swelling, and itching. Some people feel muscle pain, headache, fatigue, nausea, or chills after vaccination. Several million people have received MVA-BN so far, including thousands of people living with HIV. LC16m8 LC16m8 protects animals from lethal doses of mpox and similar viruses. There are not much data about LC16m8 used during mpox outbreaks. LC16m8 contains a weakened virus. Side effects include fever, fatigue, redness, swollen lymph nodes, and itching. Vaccine virus can spread to other parts of the body. Over 90,000 people have received LC16m8 so far. No significant safety signals were found after these doses, including 50,000 children. People who are immunosuppressed, have certain skin diseases, or are pregnant should not be given LC16m8. Mpox vaccine recommendations Health officials recommend mpox vaccine for people at risk, including children.",
+      "corpusId": 271959747,
+      "url": "https://api.semanticscholar.org/CorpusId:271959747"
+    },
+    {
+      "title": "Vaccines and Antiviral Therapies for Mpox Virus in Pregnant and Breastfeeding Women: Efficacy and Maternal–Child Outcomes",
+      "authors": [
+        {
+          "name": "Maryum Imran",
+          "id": "2276468601"
+        },
+        {
+          "name": "Myra Sohail",
+          "id": "2308574542"
+        },
+        {
+          "name": "Javeria Kamran",
+          "id": "2312620409"
+        },
+        {
+          "name": "S. Q. Abbas",
+          "id": "2309307861"
+        },
+        {
+          "name": "Khadija Azeem",
+          "id": "2384210676"
+        },
+        {
+          "name": "Emmanuel Korir",
+          "id": "2373038040"
+        }
+      ],
+      "year": 2025,
+      "venue": "Viruses",
+      "score": 0.8941903825649163,
+      "abstract": "Mpox (formerly known as monkeypox), the major public health concern of 2022, has elicited much attention globally. In addition to the usual symptoms observed in smallpox virus infections, infected mothers were found to hold a possible risk of transmission to newborns during delivery. This review aimed to summarize recent clinical trials that involved antiviral therapy, vaccines, immunoglobulin therapy, and other pharmacological interventions specifically for treating infected pregnant women. A comprehensive search was performed using databases such as PubMed, Google Scholar, and Medline to find appropriate disease management strategies. Amongst the vaccines and antivirals being used for treatment, vaccines such as Modified Vaccinia Ankara (MVA/MVA-BN) and Lister clone 16-medium pocket size-8 (LC16m8), while prophylactically effective, have been deemed unsafe for pregnant and lactating females. Antivirals like Tecovirimat, on the other hand, are considered to be a better alternative, but they are not without risks that may outweigh the potential benefits. Additionally, efforts to reduce maternal and fetal complications include administering the MVA-BN vaccine and awareness campaigns regarding herd immunity. Therefore, necessary precautions, prophylactic vaccinations in high-risk outbreak regions, and symptomatic treatment in pregnant and lactating females currently appear to be more feasible approaches against the mpox virus.",
+      "corpusId": 277287914,
+      "url": "https://pdfs.semanticscholar.org/c4aa/51438db77ea575d6b64a4698c5c6e8fd9001.pdf"
+    },
+    {
+      "title": "Harnessing Artificial Intelligence and Innovative Vaccines for Mpox Diagnosis and Control: A Comprehensive Narrative Review",
+      "authors": [
+        {
+          "name": "E. Ernest-Okonofua",
+          "id": "2302219162"
+        },
+        {
+          "name": "Zainab Abdullahi Zubairu",
+          "id": "2369831360"
+        },
+        {
+          "name": "M. O. Oduoye",
+          "id": "2178910692"
+        },
+        {
+          "name": "Maryam Tariq",
+          "id": "2339845507"
+        },
+        {
+          "name": "Syed Muhammad",
+          "id": "2339849708"
+        },
+        {
+          "name": "Zainab Siddiqua",
+          "id": "2372163037"
+        },
+        {
+          "name": "Monica Vuyyuru",
+          "id": "2372160896"
+        },
+        {
+          "name": "Benjamin Wafula",
+          "id": "2372166623"
+        },
+        {
+          "name": "Riaz Akhtar",
+          "id": "2363982953"
+        },
+        {
+          "name": "Abdulbasit G. Fasasi",
+          "id": "2396291895"
+        },
+        {
+          "name": "S. C. Ubechu",
+          "id": "2221275784"
+        },
+        {
+          "name": "Bakare Sikiru Olayinka",
+          "id": "2372157014"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Primary Care & Community Health",
+      "score": 0.8772996518124474,
+      "abstract": "Background: The re-emergence of monkeypox (mpox) has triggered a global alert and galvanized efforts toward a scientific reappraisal of the disease. Aim: This study aims to provide a review of the use of Artificial Intelligence (AI) and novel vaccines in reducing the burden of mpox. Methodology: A narrative review was conducted according to Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) guidelines through electronic databases including PubMed, Google Scholar, ResearchGate, and Web of Science (WOS), using keywords such as Mpox, machine learning, deep learning, diagnosis and novel vaccines between the last 5 years (2019-2024). Included studies comprised clinical trials, cross-sectional studies, systematic reviews, meta-analyses, case reports, and case series written in the English language. Result: The diagnosis of mpox has been greatly aided by the use of AI, including machine learning (ML), deep learning (DL), artificial neural network (ANN), convolutional neural network (CNN), and transfer learning (TL). AI can help with the development of novel diagnostic tests, increasing the accuracy and speed of mpox detection, which is critical for successful epidemic management. Reported model accuracies for mpox lesion classification and disease trend prediction ranged from 83 to 99.8%, underscoring the high potential of AI-based tools in this field. Vaccines developed against smallpox, such as ACAM2000, LC16m8, and MVA-BN (JYNNEOS), have shown partial efficacy in preventing mpox transmission, providing cross-protection against mpox due to the genetic similarity between the 2 viruses. Conclusion: AI has proven to be significant in mpox detection, treatment, and prevention. Future directions should be focused on healthcare professionals to establish the validity and reliability of the models, a measure of the algorithm’s robustness, and the continuous auditing of AI systems.",
+      "corpusId": 280038857,
+      "url": "https://api.semanticscholar.org/CorpusId:280038857"
+    },
+    {
+      "title": "579. Safety and Immunogenicity of Mpox Vaccination in Adolescents",
+      "authors": [
+        {
+          "name": "M. F. C. Mary Healy",
+          "id": "2342888545"
+        },
+        {
+          "name": "M. M. C. Buddy Creech",
+          "id": "2342875058"
+        },
+        {
+          "name": "MD Sharon E. Frey",
+          "id": "2342888892"
+        },
+        {
+          "name": "MD Andrea Lerner",
+          "id": "2342885054"
+        },
+        {
+          "name": "M. D. Kay Tomashek",
+          "id": "2342888258"
+        },
+        {
+          "name": "MD John H. Beigel",
+          "id": "2342888679"
+        }
+      ],
+      "year": 2025,
+      "venue": "Open Forum Infectious Diseases",
+      "score": 0.7748769203981309,
+      "abstract": "Abstract Background Monkeypox (Mpox) is a global public health threat. In the current Democratic Republic of Congo (DRC) mpox outbreak, children < 15 years of age comprise 70% of cases and 88% of deaths. Modified Vaccinia Ankara-Bavarian Nordic (MVA-BN) vaccine is a live attenuated, non-replicating orthopoxvirus vaccine licensed in the US to prevent smallpox and mpox. MVA-BN is not approved in persons < 18 years of age (though is available in some countries under emergency use authorization). Geometric Mean Titers of Vaccinia-Specific PRNT by Time Point and Age Group Methods We conducted a Phase 2, open-label, multisite clinical trial to evaluate the safety and immunogenicity of two 1x108 TCID50 doses of MVA-BN vaccine administered subcutaneously 28 days apart in adolescents aged 12-17 years compared to adults aged 18-50 years (NCT05740982). A planned interim analysis evaluated safety through Day 210 (180 days post dose 2) and immunogenicity through Day 43 (14 days post dose 2). Results Three hundred fifteen adolescents (161 [51%] aged 12-14 years, 160 [51%] male, 216 [69%] white, 251 [80%] not Hispanic or Latino) were compared to 211 adults (94 [45%] male, 145 [69%] white, 149 [71%] not Hispanic or Latino). Solicited systemic and local events, and unsolicited adverse events (AEs), were similar in both groups. Dizziness was more common in adolescents (9 events in 8/315 (3%) versus none in adults) but similar to rates reported after other adolescent vaccines. Overall, MVA-BN was well tolerated. Day 43 antibody responses, based on vaccinia virus (Western Reserve strain) plaque-reduction neutralization titer (PRNT) assay geometric mean titer (GMT), elicited by MVA-BN in adolescents (470.3 [95% CI: 422.3, 523.8]) were non-inferior to the response in adults (293.2 [95% CI: 249.8, 344.2]); GMT ratio: 1.60 [95% CI: 1.32, 1.95]) (Figure). Conclusion The interim data demonstrate MVA-BN vaccine is well-tolerated and the peak GMT met prespecified non-inferiority criteria for adolescents as compared to adults. These findings are relevant to adolescents in the US and in areas where Mpox is endemic. Evaluations in younger children are urgently needed to extend protection to those who are most vulnerable. Disclosures C. Mary Healy, MD, FIDSA, Dexcom Inc: Stocks/Bonds (Public Company)|Hillevax, Inc: Member of Advisory board|Intuitive Surgical Inc: Stocks/Bonds (Public Company)|Quidel Corporation: Stocks/Bonds (Public Company)|Vapotherm: Stocks/Bonds (Public Company) C. Buddy Creech, MD, MPH, CommenseBio: Advisor/Consultant|GSK: Advisor/Consultant|Moderna: Advisor/Consultant|Moderna: Grant/Research Support|TDCowen: Advisor/Consultant|UpToDate: Honoraria|Vedanta: Grant/Research Support Sharon E. Frey, MD, Bavarian Nordic: Grant/Research Support|Saint Louis University (SLU): Grant/Research Support",
+      "corpusId": 275989726,
+      "url": "https://api.semanticscholar.org/CorpusId:275989726"
+    },
+    {
+      "title": "Risks Associated With Smallpox Vaccination in Pregnancy: A Systematic Review and Meta-analysis",
+      "authors": [
+        {
+          "name": "M. Badell",
+          "id": "2042475"
+        },
+        {
+          "name": "D. Meaney-Delman",
+          "id": "1390029497"
+        },
+        {
+          "name": "M. Tuuli",
+          "id": "6929693"
+        },
+        {
+          "name": "S. Rasmussen",
+          "id": "4110292"
+        },
+        {
+          "name": "B. Petersen",
+          "id": "37804335"
+        },
+        {
+          "name": "J. Sheffield",
+          "id": "4895212"
+        },
+        {
+          "name": "R. Beigi",
+          "id": "4226342"
+        },
+        {
+          "name": "I. Damon",
+          "id": "3604047"
+        },
+        {
+          "name": "D. Jamieson",
+          "id": "3826163"
+        }
+      ],
+      "year": 2015,
+      "venue": "Obstetrics and Gynecology",
+      "score": 0.7686153285699974,
+      "abstract": "",
+      "corpusId": 43887409,
+      "url": "https://doi.org/10.1097/AOG.0000000000000857"
+    },
+    {
+      "title": "Maternal–Fetal Implications of Mpox Infection: Current Evidence",
+      "authors": [
+        {
+          "name": "Stefany Silva Pereira",
+          "id": "2349313659"
+        },
+        {
+          "name": "A. Braga",
+          "id": "2181469245"
+        },
+        {
+          "name": "Beatriz Bussi Rosolen",
+          "id": "2348623534"
+        },
+        {
+          "name": "Talita Almeida Durães",
+          "id": "2365825169"
+        },
+        {
+          "name": "Marcela Fermoselle de Vita Silva",
+          "id": "2402990299"
+        },
+        {
+          "name": "Giovanna Alves de Britto",
+          "id": "2402993782"
+        },
+        {
+          "name": "Giuliana Augustinelli Sales",
+          "id": "2402993842"
+        },
+        {
+          "name": "G. Y. Callado",
+          "id": "2218350645"
+        },
+        {
+          "name": "Camilla Martins dos Santos Maia",
+          "id": "2402993994"
+        },
+        {
+          "name": "Évelyn Traina",
+          "id": "2407922873"
+        },
+        {
+          "name": "E. Araujo Júnior",
+          "id": "2315346849"
+        },
+        {
+          "name": "G. Tonni",
+          "id": "2179314052"
+        },
+        {
+          "name": "R. Granese",
+          "id": "2260430255"
+        }
+      ],
+      "year": 2026,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.7651277025442053,
+      "abstract": "Mpox is an emerging zoonotic infection caused by the Monkeypox virus, an Orthopoxvirus with increasing global relevance following the 2022 multinational outbreak. Historically endemic to Central and West Africa, the disease has evolved from sporadic zoonotic transmission to sustained human-to-human spread, particularly through close physical and intimate contact. Clinical manifestations typically include fever, lymphadenopathy, and progressive mucocutaneous lesions, although severity varies according to viral clade, immune status, and comorbidities. The 2022 outbreak, predominantly associated with the Clade IIb variant, was characterized by milder disease, localized lesions, and reduced mortality compared with the more virulent Clade I variant. Despite this, severe outcomes remain possible, particularly in vulnerable groups such as children, pregnant individuals, immunocompromised patients, and persons with extensive dermatological disorders. Diagnosis relies primarily on polymerase chain reaction testing from lesion-derived samples, with genomic sequencing serving as a complementary tool for epidemiological surveillance. Management is largely supportive, though antivirals such as tecovirimat may be considered in severe cases or in high-risk populations. Data regarding therapeutic safety in pregnancy are limited; however, tecovirimat appears to have the most favorable profile, whereas cidofovir and brincidofovir remain contraindicated. Prevention strategies include targeted vaccination with the non-replicating Modified Vaccinia Ankara–Bavarian Nordic vaccine, used for both pre- and post-exposure prophylaxis, particularly in individuals at elevated risk. Given the evolving epidemiological profile, the potential for vertical transmission, and the risk of adverse perinatal outcomes, Mpox infection during pregnancy poses unique clinical challenges. This review synthesizes current evidence on virology, clinical presentation, diagnosis, prevention, and management, with an emphasis on obstetric considerations and public health implications.",
+      "corpusId": 284526551,
+      "url": "https://api.semanticscholar.org/CorpusId:284526551"
+    },
+    {
+      "title": "MONKEYPOX AND PREGNANCY: FORECASTING THE RISKS.",
+      "authors": [
+        {
+          "name": "Pradip Dashraath",
+          "id": "2097807652"
+        },
+        {
+          "name": "K. Nielsen‐Saines",
+          "id": "1387470315"
+        },
+        {
+          "name": "A. Rimoin",
+          "id": "5317021"
+        },
+        {
+          "name": "Citra N Z Mattar",
+          "id": "51265157"
+        },
+        {
+          "name": "A. Panchaud",
+          "id": "35884799"
+        },
+        {
+          "name": "D. Baud",
+          "id": "5816393"
+        }
+      ],
+      "year": 2022,
+      "venue": "American Journal of Obstetrics and Gynecology",
+      "score": 0.7649637695469031,
+      "abstract": "",
+      "corpusId": 251661319,
+      "url": "https://api.semanticscholar.org/CorpusId:251661319"
+    },
+    {
+      "title": "Monkeypox and the perinatal period: what does maternal–fetal medicine need to know?",
+      "authors": [
+        {
+          "name": "K. Yan",
+          "id": "144023397"
+        },
+        {
+          "name": "Lukun Tang",
+          "id": "2190839443"
+        },
+        {
+          "name": "Feifan Xiao",
+          "id": "152224416"
+        },
+        {
+          "name": "Peng Zhang",
+          "id": "2034181817"
+        },
+        {
+          "name": "Chunxue Lu",
+          "id": "2116759170"
+        },
+        {
+          "name": "Li-Yuan Hu",
+          "id": "2314688119"
+        },
+        {
+          "name": "Lai-shuan Wang",
+          "id": "2108759301"
+        },
+        {
+          "name": "G. Cheng",
+          "id": "7497304"
+        },
+        {
+          "name": "Wen-Hao Zhou",
+          "id": "2107305971"
+        }
+      ],
+      "year": 2022,
+      "venue": "World Journal of Pediatrics",
+      "score": 0.7604438887886635,
+      "abstract": "Background After the global elimination of smallpox, monkeypox has become the most threatening orthopoxvirus to human health. Very few studies have been reported on pregnant women and newborns. In the case of monkeypox infection, the virus can cause serious adverse pregnancy events in women, which can lead to fetal or neonatal death. Data sources We made a comprehensive review after an extensive literature search in the PubMed/Medline database and websites concerning smallpox and monkeypox. Results Two case reports reported a total of nine pregnant women, six of whom had fetal deaths. In the autopsy of a stillbirth, researchers found that the placenta was infected with monkeypox virus, but the mechanism of infection remains unclear. Smallpox vaccine should be administered to acutely exposed pregnant women and newborns. Several novel recombinant vaccinia immunogloblin (rVIG) and human-specific monoclonal antibodies are being developed for the prevention and treatment of monkeypox virus infection. After the fetus was delivered, the newborn should take a bath as soon as possible to remove the amniotic fluid and dirt from the body. The appropriate isolation protocol for the newborn should be selected according to the infection status of the mother. It is not known whether monkeypox virus is present in breast milk, and pasteurized breast milk can be given to newborns when breastfeeding is considered. Conclusion This review presents an overview of monkeypox in the perinatal period and guides the future research direction.",
+      "corpusId": 253521591,
+      "url": "https://api.semanticscholar.org/CorpusId:253521591"
+    },
+    {
+      "title": "IMVAMUNE®: modified vaccinia Ankara strain as an attenuated smallpox vaccine",
+      "authors": [
+        {
+          "name": "J. Kennedy",
+          "id": "49289945"
+        },
+        {
+          "name": "R. Greenberg",
+          "id": "4706534"
+        }
+      ],
+      "year": 2009,
+      "venue": "Expert Review of Vaccines",
+      "score": 0.7592150167679038,
+      "abstract": "Smallpox vaccines based on replicating vaccinia virus are known to elicit rare yet serious adverse events, particularly in human populations with immune deficiency, atopic dermatitis and at the extremes of age. A vaccine that induces protective immune responses equivalent to first-generation smallpox vaccines while reducing the risk for severe adverse events is critical for a national stockpile of smallpox vaccines. Modified vaccinia Ankara (MVA) has been proposed as an immediate solution for vaccination of high-risk individuals. Bavarian Nordic’s vaccine MVA-BN® (IMVAMUNE®) is a MVA strain that is replication incompetent in mammalian cell lines. IMVAMUNE has been administered to more than 1900 human subjects to date, including high-risk populations (e.g., people diagnosed with atopic dermatitis or infected with HIV) in which standard replicating vaccines are contraindicated. We review the Phase I clinical trial safety profile and immune responses and compare them with other smallpox vaccines, including ACAM2000™ and Dryvax®.",
+      "corpusId": 35854977,
+      "url": "https://api.semanticscholar.org/CorpusId:35854977"
+    },
+    {
+      "title": "Monkeypox infection and pregnancy in lower and middle-income countries: Precautions & recommendations",
+      "authors": [
+        {
+          "name": "Omar Abu-Azzam",
+          "id": "1671065895"
+        },
+        {
+          "name": "Mohammad Abu-Jeyyab",
+          "id": "2180961020"
+        },
+        {
+          "name": "Mohammad Daradkeh",
+          "id": "2231955412"
+        },
+        {
+          "name": "Sadeen Zein Eldeen",
+          "id": "2309569302"
+        },
+        {
+          "name": "Saja Zuaiter",
+          "id": "2214030748"
+        },
+        {
+          "name": "Mohammad Al-Mseadeen",
+          "id": "2309568883"
+        },
+        {
+          "name": "A. Sindiani",
+          "id": "123695752"
+        },
+        {
+          "name": "E. Alshdaifat",
+          "id": "1606926235"
+        }
+      ],
+      "year": 2024,
+      "venue": "Revista Brasileira de Ginecologia e Obstetrícia",
+      "score": 0.7095726380272643,
+      "abstract": "Abstract Monkeypox (MPX), an orthopoxviral disease endemic in Africa, is now a public health emergency of international concern (PHEIC) as declared by the World Health Organization in July 2023. Although it is generally mild, the overall case fatality rate was reported to be 3%, and the basic reproduction number (R0) is > 1 in men who have sex with men (MSM, i.e., Portugal (1.4), the United Kingdom (1.6), and Spain (1.8)). However, R0 is < 1 in other settings. In concordance with the smallpox virus, it is also expected to increase the risk of adverse outcomes for both the mother and the fetus. The outcomes of the disease in an immunocompromised state of pregnancy are scary, showing high mortality and morbidity of both mother and fetus, with up to a 75% risk of fetal side effects and a 25% risk of severe maternal diseases. Therefore, it warrants timely diagnosis and intervention. The reverse transcription polymerase chain reaction (RT PCR) test is the standard approach to diagnosis. We summarized the recent findings of MPX on pregnancy, and the associated risk factors. We also give recommendations for active fetal surveillance, perinatal care, and good reporting to improve outcomes. The available vaccines have shown promise for primary disease prevention.",
+      "corpusId": 270937887,
+      "url": "https://api.semanticscholar.org/CorpusId:270937887"
+    },
+    {
+      "title": "Monkeypox in pregnancy: clinical recommendation by the World Association of Perinatal Medicine-WAPM and the Perinatal Medicine Foundation-PMF",
+      "authors": [
+        {
+          "name": "C. Villalaín",
+          "id": "49852504"
+        },
+        {
+          "name": "C. Şen",
+          "id": "49196788"
+        },
+        {
+          "name": "Karel Allegeart",
+          "id": "2189275203"
+        },
+        {
+          "name": "E. Huertas",
+          "id": "74922135"
+        },
+        {
+          "name": "M. Stanojevic",
+          "id": "50653871"
+        }
+      ],
+      "year": 2022,
+      "venue": "Perinatal Journal",
+      "score": 0.7054195762230857,
+      "abstract": "The World Health Organization in May 2022 declared the monkeypox virus (MPXV) a health emergency. Since then, over 45,355 cases have been reported, mostly from countries where the disease is not endemic. At the moment, most confirmed cases with travel history are reported to countries in Europe and North America, rather than West or Central Africa where the monkeypox virus is endemic. Its transmission depends on large respiratory droplets and skin-to-skin or skin-to-lesion close physical contact, including oral, anal, and vaginal intercourse therefore, women are also at risk of acquiring it. Given few data available, women's and clinicians' concerns about the uncertainty of the clinical course and management are more than understandable, especially so after the SARS-CoV-2 pandemic. Lessons must be learnt from our prior mistakes and pregnant individuals should be included in international registries as well as any studies evaluating new treatments or vaccines. The following recommendation aims to provide the latest evidence about the effect of MPXV in pregnancy as well as recommendations for clinical management. [ FROM AUTHOR]",
+      "corpusId": 253216754,
+      "url": "https://api.semanticscholar.org/CorpusId:253216754"
+    },
+    {
+      "title": "Safety Monitoring of JYNNEOS Vaccine During the 2022 Mpox Outbreak — United States, May 22–October 21, 2022",
+      "authors": [
+        {
+          "name": "J. Duffy",
+          "id": "145734003"
+        },
+        {
+          "name": "P. Marquez",
+          "id": "134588366"
+        },
+        {
+          "name": "P. Moro",
+          "id": "145390809"
+        },
+        {
+          "name": "Eric S. Weintraub",
+          "id": "38899724"
+        },
+        {
+          "name": "Yon C. Yu",
+          "id": "10033023"
+        },
+        {
+          "name": "Peter Boersma",
+          "id": "143630365"
+        },
+        {
+          "name": "J. Donahue",
+          "id": "34921180"
+        },
+        {
+          "name": "J. Glanz",
+          "id": "6923699"
+        },
+        {
+          "name": "Kristin Goddard",
+          "id": "39269832"
+        },
+        {
+          "name": "S. Hambidge",
+          "id": "4136267"
+        },
+        {
+          "name": "Bruno J Lewin",
+          "id": "47915195"
+        },
+        {
+          "name": "N. Lewis",
+          "id": "3473276"
+        },
+        {
+          "name": "Douglas Rouse",
+          "id": "2195310254"
+        },
+        {
+          "name": "T. Shimabukuro",
+          "id": "5280431"
+        }
+      ],
+      "year": 2022,
+      "venue": "MMWR. Morbidity and mortality weekly report",
+      "score": 0.6972181993767069,
+      "abstract": "JYNNEOS (Modified Vaccinia Ankara vaccine, Bavarian Nordic) is recommended in the United States for persons exposed to or at high risk for exposure to Monkeypox virus during the 2022 monkeypox (mpox) outbreak (1). JYNNEOS is a live, nonreplicating viral vaccine licensed for the prevention of smallpox and mpox in adults aged ≥18 years, administered as a 0.5-mL 2-dose series given 28 days apart by subcutaneous injection (2). On August 9, 2022, the Food and Drug Administration (FDA) issued an Emergency Use Authorization (EUA) for administration of 0.1 mL doses by intradermal injection for adults aged ≥18 years as a strategy to increase vaccine supply, and administration of 0.5 mL doses subcutaneously for persons aged <18 years (3). During May 22-October 21, 2022, a total of 987,294 JYNNEOS vaccine doses were administered in the United States. CDC has monitored JYNNEOS vaccine safety using the Vaccine Adverse Event Reporting System (VAERS) and the Vaccine Safety Datalink (VSD) for vaccine recipients of all ages, and through single-patient emergency Investigational New Drug (EIND) procedures for persons aged <18 years vaccinated before August 9, 2022. The most common adverse health events reported to VAERS for adults were nonserious and included injection site reactions, which was consistent with the prelicensure studies. Adverse health events were reported at similar rates for doses received by intradermal and subcutaneous administration. Serious adverse events were rare in adults, and no serious adverse events have been identified among persons aged <18 years. Overall, postlicensure and postauthorization surveillance to date support JYNNEOS vaccine safety.",
+      "corpusId": 254495754,
+      "url": "https://api.semanticscholar.org/CorpusId:254495754"
+    },
+    {
+      "title": "Personalized immunization against Mpox Clades I and Ib: Strategies to combat the emerging epidemic",
+      "authors": [
+        {
+          "name": "Deepak Kumar",
+          "id": "2326258292"
+        },
+        {
+          "name": "Rishabha Malviya",
+          "id": "2875052"
+        },
+        {
+          "name": "Shriyansh Srivastava",
+          "id": "115679905"
+        },
+        {
+          "name": "S. Sridhar",
+          "id": "4720024"
+        },
+        {
+          "name": "S. Talath",
+          "id": "12249778"
+        },
+        {
+          "name": "J. Shareef",
+          "id": "14545095"
+        },
+        {
+          "name": "Bhupendra G. Prajapati",
+          "id": "2332683975"
+        }
+      ],
+      "year": 2025,
+      "venue": "Infectious Medicine",
+      "score": 0.643381010418732,
+      "abstract": "Highlight • MVA-BN (JYNNEOS) vaccine reduced infection by 65% in high-risk patients within 7 days and 79% by day 14.• The WHO recommends LC16-KMB for high-risk groups in Mpox-affected areas, suitable for pre- and post-exposure use.• Comparative studies show MVA-BN as the leading U.S. vaccine with strong efficacy and minimal side effects.• The OrthopoxVac, a fourth-generation vaccine, offers expanded protection against orthopoxvirus infections and it is used in Russia.• The SMART clinical trial in Africa aims to assess the efficacy of MVA-BN for post-exposure prophylaxis, particularly in household exposures.",
+      "corpusId": 275699139,
+      "url": "https://api.semanticscholar.org/CorpusId:275699139"
+    },
+    {
+      "title": "Monkeypox Virus: Epidemiology, Virology, Diagnosis, Vaccine, and Therapeutics",
+      "authors": [
+        {
+          "name": "Yunzheng Yan",
+          "id": "51237755"
+        },
+        {
+          "name": "Yaqin Sun",
+          "id": "2111003777"
+        },
+        {
+          "name": "Guangyan Sun",
+          "id": "2238912146"
+        },
+        {
+          "name": "Cheng Niu",
+          "id": "2402451409"
+        },
+        {
+          "name": "Xinyuan Zhao",
+          "id": "2402434097"
+        },
+        {
+          "name": "Min Zhao",
+          "id": "2314835108"
+        },
+        {
+          "name": "Tongyao Liu",
+          "id": "2268643143"
+        },
+        {
+          "name": "Suyue Zhang",
+          "id": "2402538410"
+        },
+        {
+          "name": "Hui Zhai",
+          "id": "2402464477"
+        },
+        {
+          "name": "Ankang Liu",
+          "id": "2290539320"
+        },
+        {
+          "name": "Shouzhi Yu",
+          "id": "2116696194"
+        },
+        {
+          "name": "Shuyuan Pan",
+          "id": "2347892556"
+        },
+        {
+          "name": "Wu Zhong",
+          "id": "2288108004"
+        },
+        {
+          "name": "Yuntao Zhang",
+          "id": "2279229790"
+        },
+        {
+          "name": "Song Li",
+          "id": "2288235947"
+        }
+      ],
+      "year": 2026,
+      "venue": "MedComm",
+      "score": 0.6366746933779627,
+      "abstract": "Since 2022, mpox epidemics have been sustaining and escalating over the world, posing a significant public health challenge. While significant progress has been made in diagnostic methodologies, prophylactic vaccines, and therapeutic interventions to mitigate monkeypox virus (MPXV) infection, scientific understanding of MPXV and related orthopoxviruses continues to evolve progressively. In order to keep pace with recent advancements, herein we review progress in mpox research from five key perspectives. This article first summarizes the latest epidemiological profiles, incorporating different viral lineages globally and in China, while highlighting their evolutionary history and distinct clinical characteristics. The virological profiles of MPXV shed light on its complete infectious lifecycle and the formation of distinct virus particle types. Clinically approved classical detection methods and emerging novel testing techniques are provided, establishing a framework for early diagnosis of mpox patients. The efficacy and safety of both licensed vaccines and those under development are analyzed to underscore their value in preventing mpox infection. Additionally, progress in approved and newly identified potential therapeutic agents is summarized and discussed, aiming to provide insights for further drug development and clinical treatment strategies.",
+      "corpusId": 284465468,
+      "url": "https://api.semanticscholar.org/CorpusId:284465468"
+    },
+    {
+      "title": "Global perspectives on smallpox vaccine against monkeypox: a comprehensive meta-analysis and systematic review of effectiveness, protection, safety and cross-immunogenicity",
+      "authors": [
+        {
+          "name": "Hao Liu",
+          "id": "2299359252"
+        },
+        {
+          "name": "Wenjing Wang",
+          "id": "2300807812"
+        },
+        {
+          "name": "Yang Zhang",
+          "id": "2278444619"
+        },
+        {
+          "name": "Fuchun Wang",
+          "id": "2299600668"
+        },
+        {
+          "name": "Junyi Duan",
+          "id": "2266743659"
+        },
+        {
+          "name": "Tao Huang",
+          "id": "2299499425"
+        },
+        {
+          "name": "Xiaojie Huang",
+          "id": "2245616055"
+        },
+        {
+          "name": "Tong Zhang",
+          "id": "2278194453"
+        }
+      ],
+      "year": 2024,
+      "venue": "Emerging Microbes and Infections",
+      "score": 0.612263908392689,
+      "abstract": "ABSTRACT A large outbreak of monkeypox occurred in 2022, and most people lack immunity to orthopoxvirus. Smallpox vaccination is essential for preventing further smallpox outbreaks. This study evaluated the effectiveness, protection, safety, and cross-immunogenicity of smallpox vaccine in preventing monkeypox infection. PubMed, Embase, Scopus, and Web of Science were searched from database inception to 10 March 2024. We included studies involving “monkeypox virus” and “vaccinations”, and excluded reviews, animal studies, and articles with missing or duplicate data. A total of 37 studies with 57,693 participants were included in the final analysis. The effectiveness data showed that monkeypox infection rates were lower in the smallpox-vaccinated group than in the unvaccinated group (risk ratio [RR]: 0.46; 95% confidence interval [CI]: 0.31–0.68). The protection data showed that smallpox vaccination effectively reduced the risk of severe monkeypox infection (RR: 0.61; 95% CI: 0.42–0.87). Third-generation vaccines showed greater efficacy (RR: 0.36, 95% CI: 0.22–0.56) than first-generation vaccines. The number of doses of smallpox vaccine has no significant effect on monkeypox. Safety data showed that adverse reactions after smallpox vaccination were mainly mild and included local erythema, swelling, induration, itching, and pain. Meanwhile, we found that smallpox vaccination could induce the production of neutralizing antibodies against monkeypox. Our findings offer compelling evidence supporting the clinical application of the smallpox vaccine for preventing monkeypox and advocate that high-risk groups should be prioritized for receiving one dose of the smallpox vaccine if the vaccine stockpile is low.",
+      "corpusId": 271570154,
+      "url": "https://api.semanticscholar.org/CorpusId:271570154"
+    },
+    {
+      "title": "An open-label, non-randomized study investigating the safety and efficacy of smallpox vaccine, LC16, as post-exposure prophylaxis for mpox",
+      "authors": [
+        {
+          "name": "N. Tomita",
+          "id": "2052955587"
+        },
+        {
+          "name": "J. Terada-Hirashima",
+          "id": "1990720396"
+        },
+        {
+          "name": "Y. Uemura",
+          "id": "4828975"
+        },
+        {
+          "name": "Yosuke Shimizu",
+          "id": "2147312586"
+        },
+        {
+          "name": "H. Iwasaki",
+          "id": "2212329120"
+        },
+        {
+          "name": "Rina Yano",
+          "id": "2229087139"
+        },
+        {
+          "name": "Tetsuya Suzuki",
+          "id": "2108444451"
+        },
+        {
+          "name": "S. Saito",
+          "id": "2269553"
+        },
+        {
+          "name": "N. Okumura",
+          "id": "32553014"
+        },
+        {
+          "name": "W. Sugiura",
+          "id": "2073485526"
+        },
+        {
+          "name": "N. Ohmagari",
+          "id": "3969642"
+        },
+        {
+          "name": "M. Ujiie",
+          "id": "34597008"
+        }
+      ],
+      "year": 2023,
+      "venue": "Human Vaccines & Immunotherapeutics",
+      "score": 0.610827665324977,
+      "abstract": "ABSTRACT Mpox is an acute exanthematous disease caused by the monkeypox virus. Since May 2022, it has spread as a community-acquired infection, mainly in Europe and the United States, and urgent measures to prevent this infection were also required in Japan. In this study, we investigated the post-exposure prophylaxis of mpox and safety after inoculating the smallpox vaccine. Participants in close contact with patients with mpox were inoculated with “Freeze-dried cell culture Smallpox Vaccine LC16,” within 14 days after close contact. Six cases were registered, and all the participants were inoculated. No mpox symptoms or related complications were observed in the participants for 21 days after the close contact. Adverse events due to inoculation, such as rash, fever, lymphadenopathy, and local reaction at the inoculation site (comprising erythema, swelling, induration, and pain) were observed in the participants; however, all inoculation-related events were non-severe and non-serious, and the participants recovered during the 28-day observation period. The findings of this study suggest that inoculation with LC16 is an effective post-exposure prophylaxis in individuals who had close contact with patients with mpox. Further large-scale studies are warranted to validate these findings.",
+      "corpusId": 260772961,
+      "url": "https://api.semanticscholar.org/CorpusId:260772961"
+    },
+    {
+      "title": "Paediatric, maternal, and congenital mpox: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "Nuria Sanchez Clemente",
+          "id": "6799457"
+        },
+        {
+          "name": "C. Coles",
+          "id": "2072322623"
+        },
+        {
+          "name": "E. Paixão",
+          "id": "5086823"
+        },
+        {
+          "name": "E. Brickley",
+          "id": "7906642"
+        },
+        {
+          "name": "Elizabeth Whittaker",
+          "id": "2238293685"
+        },
+        {
+          "name": "T. Alfvén",
+          "id": "4175001"
+        },
+        {
+          "name": "Stephen Rulisa",
+          "id": "2241672306"
+        },
+        {
+          "name": "N. A. Agudelo Higuita",
+          "id": "9683215"
+        },
+        {
+          "name": "P. Torpiano",
+          "id": "2238295261"
+        },
+        {
+          "name": "Priyesh Agravat",
+          "id": "65988461"
+        },
+        {
+          "name": "Emma V Thorley",
+          "id": "2286230894"
+        },
+        {
+          "name": "S. Drysdale",
+          "id": "6525470"
+        },
+        {
+          "name": "K. Le Doare",
+          "id": "4391978"
+        },
+        {
+          "name": "J. Muyembe Tamfum",
+          "id": "7642437"
+        }
+      ],
+      "year": 2024,
+      "venue": "Lancet Global Health",
+      "score": 0.6099677109341002,
+      "abstract": "Summary Background Although mpox has been detected in paediatric populations in central and west Africa for decades, evidence synthesis on paediatric, maternal, and congenital mpox, and the use of vaccines and therapeutics in these groups, is lacking. A systematic review is therefore indicated to set the research agenda. Methods We conducted a systematic review and meta-analysis, searching articles in Embase, Global Health, MEDLINE, CINAHL, Web of Science, Scopus, SciELO, and WHO databases from inception to April 17, 2023. We included studies reporting primary data on at least one case of confirmed, suspected, or probable paediatric, maternal, or congenital mpox in humans or the use of third-generation smallpox or mpox vaccines, targeted antivirals, or immune therapies in at least one case in our population of interest. We included clinical trials and observational studies in humans and excluded reviews, commentaries, and grey literature. A pooled estimate of the paediatric case fatality ratio was obtained using random-effects meta-analysis. This study is registered with PROSPERO (CRD420223336648). Findings Of the 61 studies, 53 reported paediatric outcomes (n=2123 cases), seven reported maternal or congenital outcomes (n=32 cases), two reported vaccine safety (n=28 recipients), and three reported transmission during breastfeeding (n=4 cases). While a subset of seven observational studies (21 children and 12 pregnant individuals) reported uneventful treatment with tecovirimat, there were no randomised trials reporting safety or efficacy for any therapeutic agent. Among children, the commonest clinical features included rash (86 [100%] of 86), fever (63 [73%] of 86), and lymphadenopathy (40 [47%] of 86). Among pregnant individuals, rash was reported in 23 (100%) of 23; fever and lymphadenopathy were less common (six [26%] and three [13%] of 23, respectively). Most paediatric complications (12 [60%] of 20) arose from secondary bacterial infections. The pooled paediatric case fatality ratio was 11% (95% CI 4–20), I2=75%. Data from 12 pregnancies showed half resulted in fetal death. Research on vaccine and immune globulin safety remains scarce for children and absent for pregnant individuals. Interpretation Our review highlights critical knowledge gaps in the epidemiology, prevention, and treatment of mpox in children and pregnant individuals, especially those residing in endemic countries. Increased funding, international collaboration, and equitable research is needed to inform mpox control strategies tailored for at-risk communities in endemic countries. Funding None. Translations For the French, Spanish and Portuguese translations of the abstract see Supplementary Materials section.",
+      "corpusId": 267889762,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/38401556"
+    },
+    {
+      "title": "Vaccines in Dermatology—Present and Future: A Review",
+      "authors": [
+        {
+          "name": "E. Goh",
+          "id": "2342691176"
+        },
+        {
+          "name": "J. Chavatte",
+          "id": "4662985"
+        },
+        {
+          "name": "Raymond Lin",
+          "id": "2342101054"
+        },
+        {
+          "name": "Lisa F P Ng",
+          "id": "2267523158"
+        },
+        {
+          "name": "Laurent Rénia",
+          "id": "2279892906"
+        },
+        {
+          "name": "H. Oon",
+          "id": "47700557"
+        }
+      ],
+      "year": 2025,
+      "venue": "Vaccines",
+      "score": 0.6076242024221488,
+      "abstract": "Dermatological vaccines have emerged as critical tools in preventing and managing a wide spectrum of skin conditions ranging from infectious diseases to malignancies. By synthesizing evidence from existing literature, this review aims to comprehensively evaluate the efficacy, safety, and immunogenicity of vaccines used in dermatology, including both approved vaccines and those currently being researched. Vaccines discussed in this paper include those targeting dermatoses and malignancies (e.g., acne vulgaris, atopic dermatitis, and melanoma); infectious diseases (e.g., human papillomavirus (HPV); varicella zoster virus (VZV); herpes zoster (HZ); warts; smallpox; mpox (monkeypox); hand, foot, and mouth disease (HFMD); candidiasis and Group B Streptococcus (GBS); and neglected tropical diseases (e.g., Buruli ulcer, leprosy, and leishmaniasis). Through this review, we aim to provide a detailed understanding of the role of vaccines in dermatology, identify knowledge gaps, and propose areas for future research.",
+      "corpusId": 275941264,
+      "url": "https://api.semanticscholar.org/CorpusId:275941264"
+    },
+    {
+      "title": "P-1395. Safety and Effectiveness of LC16m8 for Pre-Exposure Prophylaxis Against mpox in High-Risk Population: An Open-Label Randomized Trial",
+      "authors": [
+        {
+          "name": "N. Okumura",
+          "id": "2305111759"
+        },
+        {
+          "name": "E. Morino",
+          "id": "2287612636"
+        },
+        {
+          "name": "H. Nomoto",
+          "id": "32092590"
+        },
+        {
+          "name": "M. Yanagi",
+          "id": "2305112344"
+        },
+        {
+          "name": "Kozue Takahashi",
+          "id": "2249713610"
+        },
+        {
+          "name": "H. Iwasaki",
+          "id": "2212329120"
+        },
+        {
+          "name": "Y. Uemura",
+          "id": "2305117765"
+        },
+        {
+          "name": "Y. Shimizu",
+          "id": "2305113643"
+        },
+        {
+          "name": "D. Mizushima",
+          "id": "2305130070"
+        },
+        {
+          "name": "K. Fukushima",
+          "id": "2305057061"
+        },
+        {
+          "name": "E. Kinai",
+          "id": "5717676"
+        },
+        {
+          "name": "D. Shiojiri",
+          "id": "26385173"
+        },
+        {
+          "name": "I. Itoda",
+          "id": "2305119719"
+        },
+        {
+          "name": "Y. Onoue",
+          "id": "2342901680"
+        },
+        {
+          "name": "Y. Kobori",
+          "id": "2305115436"
+        },
+        {
+          "name": "F. Nakamura",
+          "id": "2305112961"
+        },
+        {
+          "name": "D. Tokita",
+          "id": "2213980859"
+        },
+        {
+          "name": "W. Sugiura",
+          "id": "2305116325"
+        },
+        {
+          "name": "N. Ohmagari",
+          "id": "3969642"
+        },
+        {
+          "name": "M. Ujiie",
+          "id": "34597008"
+        }
+      ],
+      "year": 2025,
+      "venue": "Open Forum Infectious Diseases",
+      "score": 0.6029445106481445,
+      "abstract": "Abstract Background Since May 2022, the incidence of mpox cases has surged outside endemic regions. Although vaccination remains pivotal in mpox prevention, data on LC16m8, a third-generation smallpox vaccine, are scant. We provided LC16m8 pre-exposure prophylaxis opportunities to high-risk individuals, including those with HIV, and conducted a randomized controlled trial to assess LC16m8’s effectiveness in mpox prevention and safety. Methods Our multicenter randomized open-label trial enrolled men and women aged ≥18 years at high mpox risk who provided written consent. Participants were randomly assigned 1:1 to early or late vaccination groups, receiving vaccinations approximately 70 days apart. Primary endpoint: vaccine effectiveness (VE) against mpox development between early and late vaccinations. VE against severe mpox, symptoms, “take” incidence, and adverse events were secondary endpoints. Results A total of 1,135 participants were recruited; 570 and 565 were assigned to early and late vaccination groups, respectively; 530 and 476 were vaccinated. Median age: 41 years; 99.7% were male; 89.7% Japanese; and 34.4% HIV-infected. No mpox cases occurred during the observation period, precluding VE calculation. “Take” rates: 90.3% (HIV-infected), 94.6% (uninfected). Adverse events related to the study were observed in 96.6% and 98.0% of the HIV-infected and uninfected participants, respectively. No fatal adverse events were observed; serious adverse events (SAE): 0.6% (HIV-infected), 0.5% (uninfected). One HIV-uninfected participant reported pulmonary embolism and deep vein thrombosis as a causally undeniable SAE. Local skin reactions: 96.6% (HIV-infected), 97.9% (uninfected); systemic reactions: 63.6% (HIV-infected), 64.2% (uninfected). Conclusion LC16m8’s effectiveness in mpox prevention remains inconclusive. Yet, its use in well-controlled HIV-infected and -uninfected individuals showed no significant safety concerns, suggesting potential for targeted vaccination strategies in at-risk groups. Disclosures All Authors: No reported disclosures",
+      "corpusId": 275989133,
+      "url": "https://api.semanticscholar.org/CorpusId:275989133"
+    },
+    {
+      "title": "Effectiveness and Safety of the MVA–BN Vaccine against Mpox in At-Risk Individuals in the United States (USMVAc)",
+      "authors": [
+        {
+          "name": "Soowoo Back",
+          "id": "2305945336"
+        },
+        {
+          "name": "Bethany Knox",
+          "id": "2305833850"
+        },
+        {
+          "name": "Ciara Coakley",
+          "id": "2223131333"
+        },
+        {
+          "name": "N. Deltour",
+          "id": "6458704"
+        },
+        {
+          "name": "Emmanuelle Jacquot",
+          "id": "2223124119"
+        },
+        {
+          "name": "Hanaya Raad",
+          "id": "2051248319"
+        },
+        {
+          "name": "E. Garry",
+          "id": "34536812"
+        }
+      ],
+      "year": 2024,
+      "venue": "Vaccines",
+      "score": 0.5974864316003291,
+      "abstract": "The mpox 2022 outbreak was declared a public health emergency in July 2022. In August 2022, the MVA–BN vaccine received emergency use authorization in the United States (US) to target at-risk groups. This study (EUPAS104386) used HealthVerity’s administrative US healthcare data to generate real-world evidence for MVA–BN vaccine effectiveness and safety to prevent mpox disease in men who have sex with men (MSM) and transgender women, the most affected population during the 2022 mpox outbreak. Fully vaccinated subjects (two doses ≥ 28 days apart) were initially matched with five unvaccinated subjects on calendar date, age, US region, and insurance type. Subjects were followed from index date (14 days after the second dose) until death or data end to ascertain mpox occurrence. After propensity score adjustment, the MVA–BN vaccine effectiveness against mpox disease was 89% (95% CI: 12%, 99%) among those fully vaccinated; attenuated to 64% (95% CI: 40%, 78%) among those with any dose and 70% (95% CI: 44%, 84%) for those with only a single dose. One pericarditis adverse event of special interest was observed when the risk window was extended to 28 days. These results contribute to the totality of evidence supporting the favorable benefit/risk profile of the MVA–BN vaccine.",
+      "corpusId": 270405632,
+      "url": "https://api.semanticscholar.org/CorpusId:270405632"
+    },
+    {
+      "title": "Efficacy and Safety of the Smallpox Vaccine for Postexposure Prophylaxis in Monkeypox: Protocol for an Open-Labeled, Single-Armed Study",
+      "authors": [
+        {
+          "name": "Rina Yano",
+          "id": "2229087139"
+        },
+        {
+          "name": "J. Terada-Hirashima",
+          "id": "1990720396"
+        },
+        {
+          "name": "Y. Uemura",
+          "id": "4828975"
+        },
+        {
+          "name": "N. Tomita",
+          "id": "2052955587"
+        },
+        {
+          "name": "Yosuke Shimizu",
+          "id": "2147312586"
+        },
+        {
+          "name": "H. Iwasaki",
+          "id": "2212329120"
+        },
+        {
+          "name": "N. Okumura",
+          "id": "32553014"
+        },
+        {
+          "name": "Tetsuya Suzuki",
+          "id": "2108444451"
+        },
+        {
+          "name": "S. Saito",
+          "id": "2269553"
+        },
+        {
+          "name": "M. Ujiie",
+          "id": "34597008"
+        },
+        {
+          "name": "W. Sugiura",
+          "id": "2073485526"
+        },
+        {
+          "name": "N. Ohmagari",
+          "id": "3969642"
+        }
+      ],
+      "year": 2023,
+      "venue": "JMIR Research Protocols",
+      "score": 0.5966082723295091,
+      "abstract": "Background In May 2022, a case of monkeypox (currently known as “mpox”) with no history of overseas travel was reported in the United Kingdom, followed by reports of infections reported in Europe, the United States, and other countries worldwide. Due to the significant overlap in immune responses among viruses of the genus Orthopoxvirus (including smallpox virus, mpox virus, and vaccinia virus), it is believed that cross-immunity can be achieved by administering the smallpox virus vaccine. In Japan, a smallpox vaccine (LC16m8 strain vaccine) has been approved; however, there was no regulatory approval for the mpox vaccine during the design of this study. Although it is believed that individuals exposed to the mpox virus may receive smallpox vaccination as mpox prophylaxis, the existing evidence is not clear. Objective The primary objective was to evaluate the efficacy of the LC16m8 strain vaccine, approved for smallpox in Japan, for postexposure prophylaxis against mpox when administered to close contacts of individuals with mpox. The secondary objective was to investigate the safety of the vaccine for postexposure prophylaxis against mpox. Methods The study aimed to enroll 100 vaccinated participants who had been identified as close contacts of individuals with mpox. Consent was obtained, and the participants are inoculated with the vaccine. Daily recordings of symptoms (body temperature, headache, rash, and side effects) were made until day 21 and then again on day 28. Furthermore, additional evaluations of adverse events were performed by the investigators on days 7, 14, 21, and 28. Considering that the maximum incubation period for mpox is 21 days, the primary end point is the presence or absence of the disease 21 days after close contact. The primary analysis focused on cases within 4 days of intense contact as it has been reported that vaccination within this timeframe can reduce the incidence of the disease. Results The first trial participant was enrolled on July 28, 2022, and the research period concluded in March 2023. The study results will be published in a peer-reviewed scientific journal. Conclusions This study allowed us to investigate the efficacy and safety of the LC16m8 strain vaccine in postexposure prophylaxis against mpox. Trial Registration Japan Registry of Clinical Trials jRCTs031220137; https://jrct.niph.go.jp/en-latest-detail/jRCTs031220137 International Registered Report Identifier (IRRID) DERR1-10.2196/46955",
+      "corpusId": 261120636,
+      "url": "https://api.semanticscholar.org/CorpusId:261120636"
+    },
+    {
+      "title": "Safety of Administering Live Vaccines during Pregnancy: A Systematic Review and Meta-Analysis of Pregnancy Outcomes",
+      "authors": [
+        {
+          "name": "Almudena Laris-González",
+          "id": "1423044127"
+        },
+        {
+          "name": "Daniel Bernal-Serrano",
+          "id": "2282150776"
+        },
+        {
+          "name": "A. Jarde",
+          "id": "7375122"
+        },
+        {
+          "name": "B. Kampmann",
+          "id": "4885713"
+        }
+      ],
+      "year": 2020,
+      "venue": "Vaccines",
+      "score": 0.5907283586135035,
+      "abstract": "Live-attenuated vaccines (LAV) are currently contraindicated during pregnancy, given uncertain safety records for the mother–infant pair. LAV might, however, play an important role to protect them against serious emerging diseases, such as Ebola and Lassa fever. For this systematic review we searched relevant databases to identify studies published up to November 2019. Controlled observational studies reporting pregnancy outcomes after maternal immunization with LAV were included. The ROBINS-I tool was used to assess risk of bias. Pooled odds ratios (OR) were obtained under a random-effects model. Of 2831 studies identified, fifteen fulfilled inclusion criteria. Smallpox, rubella, poliovirus, yellow fever and dengue vaccines were assessed in these studies. No association was found between vaccination and miscarriage (OR 0.98, 95% CI 0.87–1.10), stillbirth (OR 1.04, 95% CI 0.74–1.48), malformations (OR 1.09, 95% CI 0.98–1.21), prematurity (OR 0.99, 95% CI 0.90–1.08) or neonatal death (OR 1.06, 95% CI 0.68–1.65) overall. However, increased odds of malformations (OR 1.24; 95% CI 1.03–1.49) and miscarriage after first trimester immunization (OR 4.82; 95% CI 2.38–9.77) was found for smallpox vaccine. Thus, we did not find evidence of harm related to LAV other than smallpox with regards to pregnancy outcomes, but quality of evidence was very low. Overall risks appear to be small and have to be balanced against potential benefits for the mother-infant pair.",
+      "corpusId": 212709105,
+      "url": "https://api.semanticscholar.org/CorpusId:212709105"
+    },
+    {
+      "title": "Monkeypox breakthrough infections and side-effects: Clarion call for nex-gen novel vaccine",
+      "authors": [
+        {
+          "name": "R. Mohapatra",
+          "id": "4166650"
+        },
+        {
+          "name": "Snehasis Mishra",
+          "id": "2183520227"
+        },
+        {
+          "name": "A. Rabaan",
+          "id": "9005502"
+        },
+        {
+          "name": "A. Mohanty",
+          "id": "40604461"
+        },
+        {
+          "name": "B. Padhi",
+          "id": "9408521"
+        },
+        {
+          "name": "R. Sah",
+          "id": "33326954"
+        }
+      ],
+      "year": 2023,
+      "venue": "new microbes and new infections",
+      "score": 0.5899579454642994,
+      "abstract": "Ranjan K. Mohapatra Department of Chemistry, Government College of Engineering, Keonjhar, 758002, Odisha, India Snehasish Mishra School of Biotechnology, Campus-11, KIIT Deemed-to-be-University, Bhubaneswar, 751024, Odisha, India Ali A. Rabaan Molecular Diagnostic Laboratory, Johns Hopkins Aramco Healthcare, Dhahran, 31311, Saudi Arabia, College of Medicine, Alfaisal University, Riyadh, 11533, Saudi Arabia and Department of Public Health and Nutrition, The University of Haripur, Haripur, 22610, Pakistan Aroop Mohanty Department of Microbiology, All India Institute of Medical Sciences, Gorakhpur, India Bijaya Kumar Padhi Department of Community Medicine and School of Public Health, Postgraduate Institute of Medical Education and Research, India Ranjit Sah Tribhuvan University Teaching Hospital, Institute of Medicine, Kathmandu, Nepal, Dr. D.Y. Patil Medical College, Hospital and Research Centre, Dr. D.Y. Patil Vidyapeeth, Pune, Maharashtra, India and Harvard Medical School, Boston, MA, 02115, USA",
+      "corpusId": 256054213,
+      "url": "https://api.semanticscholar.org/CorpusId:256054213"
+    },
+    {
+      "title": "Mpox and pregnancy: A call for inclusion of pregnant patients in future research",
+      "authors": [
+        {
+          "name": "E. Rosenfeld",
+          "id": "38403621"
+        },
+        {
+          "name": "T. Rosen",
+          "id": "3897837"
+        }
+      ],
+      "year": 2023,
+      "venue": "Case Reports in Women's Health",
+      "score": 0.5383073589636393,
+      "abstract": "Mpox (formally known as monkeypox) was a rare viral disease in the United States but is endemic to Central and West Africa. Mpox is a zoonotic viral infection that results in a rash similar to smallpox and was declared by the World Health Organization as a public health emergency in July 2022. Mpox is the name recommended by the World Health Organization, which has changed the name from “monkeypox” to avoid the stigma associated with naming diseases after animals or locations. While the disease is typically mild in humans, it can cause severe complications in pregnant persons, including miscarriage and intrauterine fetal demise. Little is known about the disease course during pregnancy and the mechanism for fetal demise. This article aims to highlight the importance of improving our understanding of mpox infection in pregnancy, to develop effective strategies for prevention and management. The mpox virus is a double-stranded DNA virus that is part of the Orthopoxvirus genus of viruses in the Poxvirdae family. Mpox virus has two subtypes: Clade I, which was previously referred to as Congo Basin, is known to cause more severe illness; and Clade II, previously referred to as West African, is currently the predominant strand in the United States. Mpox can be transmitted by direct contact, prolonged exposure to respiratory secretions, or contact with contaminated items or surfaces [1]. As of March 15, 2023, mpox virus has been reported in all 50 states for a composite of 30,262 cases and 38 deaths [2]. The mpox initial infection typically presents with fever, malaise, lymphadenopathy, and myalgia followed by a rash that presents 1 to 4 days the after initial presentation of symptoms. Rashes are usually vesicular or pustular and first appear in the genital, anal, or oral regions. Hospitalizations have occurred in 13% of patients and the incidence of death has been 1 in 796 infections [1,2]. Mpox virus can cause complications like kidney injury, ulcerative pharyngitis, or myocarditis. Infection is diagnosed by an Orthopoxvirus polymerase chain reaction. If Orthopoxvirus is found on polymerase chain reaction, a mpox virus specific testing is performed for confirmation [1]. The pathogenesis of mpox is not well understood, particularly in the context of pregnancy. The mechanism by which mpox penetrates the maternal-placental-fetal barrier is poorly understood. However, the limited literature on mpox infection during pregnancy has highlighted devastating consequences in some cases. A recent meta-analysis by D'Antonio et al. evaluated the outcomes of 7 cases of mpox infection during pregnancy. These cases were reported from 1983 to 2018 and were limited to African countries where mpox virus is endemic. They reported that 62% had vertical transmission. Miscarriage occurred in 67% of first-trimester infections and 82% of second-trimester infections resulted in an intrauterine fetal demise. In this meta-analysis there were no reports of maternal deaths [3]. There is a single case of mpox infection during pregnancy published during the current outbreak, which resulted in the birth of a healthy neonate [4]. Characteristic ultrasound findings have not been established. However, similar to other viruses in the Orthopoxvirus genus, mpox is known to be associated with fetal anomalies such as hepatomegaly and hydrops. Neonates have been born with congenital mpox infection and stillborn fetuses have also been reported to have the characteristic skin findings with presence of mpox infection identified in tissue [1]. Although most mpox infections are mild, about 5% require some sort of treatment. Antivirals and vaccinia immune globulin are available but there is limited data on their effectiveness. The Centers for Disease Control and Prevention advocates that pregnant, lactating and recently pregnant people are prioritized in obtaining treatment for an infection. However, there is no human data on the safety profile of these drugs during organogenesis, pregnancy, or lactation. There are two vaccines available. The first is ACAM2000, which is a replicating viral vaccine historically used for the prevention of smallpox. It has been linked with pregnancy loss and congenital defects so is contraindicated during pregnancy. JYNNEOS is a nonreplicating viral vaccine approved for both smallpox and mpox disease. Animal studies have been reassuring in pregnancy and the Society of Maternal Fetal Medicined advocates that it is not withheld from pregnant people. However, due to the limited supply, it is currently only available to those with known or suspected exposure to mpox [1]. However, increasing vaccine hesitancy in the United States and worldwide could negatively influence strategies to reduce the burden of disease, even when the vaccine becomes more widely available. The Centers for Disease Control and Prevention advocates for early",
+      "corpusId": 258496297,
+      "url": "https://api.semanticscholar.org/CorpusId:258496297"
+    },
+    {
+      "title": "Systematic Review on the Efficacy, Effectiveness, Safety, and Immunogenicity of Monkeypox Vaccine",
+      "authors": [
+        {
+          "name": "R. M. Ghazy",
+          "id": "84420283"
+        },
+        {
+          "name": "E. Elrewany",
+          "id": "2051708636"
+        },
+        {
+          "name": "A. Gebreal",
+          "id": "2202960691"
+        },
+        {
+          "name": "Rony ElMakhzangy",
+          "id": "2124358195"
+        },
+        {
+          "name": "N. Fadl",
+          "id": "123298072"
+        },
+        {
+          "name": "E. Elbanna",
+          "id": "2193365631"
+        },
+        {
+          "name": "Mahmoud M. Tolba",
+          "id": "2042832428"
+        },
+        {
+          "name": "E. Hammad",
+          "id": "2187824871"
+        },
+        {
+          "name": "N. Youssef",
+          "id": "2240879609"
+        },
+        {
+          "name": "Hazem Abosheaishaa",
+          "id": "1662745073"
+        },
+        {
+          "name": "Elsayed Eldeeb Mehana Hamouda",
+          "id": "2266604447"
+        },
+        {
+          "name": "Zeyad Elsayed Eldeeb Mehana",
+          "id": "2266606014"
+        },
+        {
+          "name": "A. A. Al Zomia",
+          "id": "2188290592"
+        },
+        {
+          "name": "Raad Ahmed A Alnami",
+          "id": "2266599878"
+        },
+        {
+          "name": "Emad Ali Saeed Salma",
+          "id": "2266603113"
+        },
+        {
+          "name": "A. Alqahtani",
+          "id": "2304676118"
+        },
+        {
+          "name": "Abdulaziz Alshehri",
+          "id": "2311950467"
+        },
+        {
+          "name": "M. Hussein",
+          "id": "2265662536"
+        }
+      ],
+      "year": 2023,
+      "venue": "Vaccines",
+      "score": 0.5365844927860667,
+      "abstract": "Background: The variation in the reported vaccine safety and effectiveness could contribute to the high rates of vaccine hesitancy among the general population and healthcare workers in areas where monkeypox (mpox) is circulating. In this review, our objective was to evaluate the safety, immunogenicity, effectiveness, and efficacy of the mpox vaccines. Methods: An extensive search for articles across multiple databases was performed, including searching six databases (PubMed Central, PubMed Medline, Scopus, Web of Science, Cochrane, ProQuest), two pre-print databases (European PMC Preprint and MedRxiv), and Google Scholar. Results: A total of 4290 citations were retrieved from the included databases. Following the removal of duplicates and the initial screening of records, a total of 36 studies were included into the analysis. Additionally, we identified five more studies through manual searches, resulting in a total of 41 eligible articles for qualitative synthesis. The study findings revealed that mpox vaccines demonstrate the ability to generate adequate antibodies; however, their effectiveness may decrease over time, exhibiting varying safety profiles. Most of the included studies consistently reported substantial levels of effectiveness and efficacy against mpox. Interestingly, the number of vaccine doses administered was found to influence the degree of immunogenicity, subsequently impacting the overall effectiveness and efficacy of the vaccines. Furthermore, we found that smallpox vaccines exhibited a form of cross-protection against mpox. Conclusions: Vaccines can be used to prevent mpox and effectively control its spread.",
+      "corpusId": 265183818,
+      "url": "https://api.semanticscholar.org/CorpusId:265183818"
+    },
+    {
+      "title": "Safety and Efficacy of Repurposed Smallpox Vaccines Against Mpox: A Critical Review of ACAM2000, JYNNEOS, and LC16",
+      "authors": [
+        {
+          "name": "M. Wahid",
+          "id": "2292005551"
+        },
+        {
+          "name": "Raju K. Mandal",
+          "id": "2332016579"
+        },
+        {
+          "name": "M. Sikander",
+          "id": "4962779"
+        },
+        {
+          "name": "Mohammad Rashid Khan",
+          "id": "2333901745"
+        },
+        {
+          "name": "Shafiul Haque",
+          "id": "2240063853"
+        },
+        {
+          "name": "Nachiket Nagda",
+          "id": "2368346906"
+        },
+        {
+          "name": "Faraz Ahmad",
+          "id": "2275113400"
+        },
+        {
+          "name": "Alfonso J Rodriguez-Morales",
+          "id": "2243776991"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Epidemiology and Global Health",
+      "score": 0.5316128314912069,
+      "abstract": "Since 2022, outbreaks of monkeypox (Mpox), which is caused by the monkeypox virus (MPXV), have been documented in more than 116 nations, making it a serious danger to world health. Despite being self-limiting in most cases, Mpox can lead to severe illness and even death, especially among high-risk populations like the LGBTQI + community. Hence, there is an urgent need for effective prevention and treatment strategies, with vaccination playing a crucial role. This paper explores the safety and efficacy of three key vaccines; ACAM2000, JYNNEOS, and LC16 that are repurposed from smallpox vaccines to combat Mpox. ACAM2000, a replication-competent vaccinia virus vaccine, has shown high effectiveness but is associated with serious adverse reactions, including myocarditis and progressive vaccinia. JYNNEOS, a modified vaccinia Ankara vaccine, offers a more favorable safety profile with fewer severe side effects, demonstrating 82% vaccine effectiveness in preventing Mpox. LC16, another smallpox vaccine, shows strong protective efficacy in animal models and excellent safety outcomes in human trials. Our assessment of the available primary data suggests that amongst the three candidates, JYNNEOS emerges as the most promising candidate for widespread use due to its strong effectiveness and superior safety profile. However, while Mpox vaccines provide robust protection, their varying safety profiles highlight the need for tailored vaccination strategies based on individual health factors. The authors therefore emphasize balancing vaccine efficacy with safety risks, particularly in vulnerable populations. Further research and surveillance are essential to optimize vaccination strategies and control Mpox outbreaks worldwide.",
+      "corpusId": 279584905,
+      "url": "https://api.semanticscholar.org/CorpusId:279584905"
+    },
+    {
+      "title": "Protecting pregnancy during pandemics: What recent outbreaks teach us",
+      "authors": [
+        {
+          "name": "Annette K. Regan",
+          "id": "2143224613"
+        },
+        {
+          "name": "Flor M. Muñoz",
+          "id": "2282258726"
+        }
+      ],
+      "year": 2025,
+      "venue": "Human Vaccines & Immunotherapeutics",
+      "score": 0.5294373769106443,
+      "abstract": "ABSTRACT Public health emergences often place pregnant people at a greater risk of severe disease. In this commentary, we highlight some of the insights from recent public health emergencies, spanning the 2009 influenza A/H1N1 pandemic to the recent mpox outbreaks. These epidemics have resulted in a large amount of perinatal pharmacovigilance expertise and capacity, improving the ability to conduct post-authorization evaluation of the safety of vaccines and other therapeutics during pregnancy. Although pregnant people have not historically been included in the clinical development of vaccines and other therapeutics intended for the general population, experiences from more recent public health emergencies show this trend is changing, with ongoing clinical trials either including or specifically targeting pregnant people. Pandemics and other public health emergencies that strain the healthcare system can disrupt routine prenatal care, birthing, and post-delivery care practices and this should be considered as part of pandemic planning. Finally, experiences from several epidemics show that vaccination during pregnancy is achievable, but vaccination rates during pregnancy are often suboptimal. A better understanding of vaccine hesitancy and acceptance during pregnancy and evidence-based strategies to address such hesitancy remain needed to better protect pregnant people against emerging infectious disease threats.",
+      "corpusId": 283720929,
+      "url": "https://api.semanticscholar.org/CorpusId:283720929"
+    },
+    {
+      "title": "Exploring monkeypox virus antibody levels: insights from human immunological research",
+      "authors": [
+        {
+          "name": "Jing Wu",
+          "id": "2364850119"
+        },
+        {
+          "name": "Xiaomin Zhang",
+          "id": "2293446434"
+        }
+      ],
+      "year": 2025,
+      "venue": "Virology Journal",
+      "score": 0.5177787767518734,
+      "abstract": "Monkeypox(mpox) is a zoonotic disease caused by the monkeypox virus (MPXV), which was previously endemic to West and Central Africa. However, it has recently appeared in several non-endemic countries beyond Africa. On July 23, 202 WHO declared mpox outbreak a public health emergency of international concern, a declaration reaffirmed on August 14, 2024. In this context, understanding the antibody levels of MPXV in the population has become crucial, especially given the historical cross-protection provided by smallpox vaccination. To provide a comprehensive overview of the current understanding of MPXV antibody levels and the protective efficacy of smallpox vaccination, we conducted a review of the existing literature. We reviewed relevant studies published in peer-reviewed journals from 1958 to 2025, focusing on those that reported research on MPXV antibodies and the effects of smallpox vaccination. Here, we review the research progress of MPXV and smallpox virus(VARV) in epidemiology, etiology, mutation and mechanism of virus infection, clinical characteristics and vaccine application. In addition, the differences in MPXV levels in different populations and the cross-protective effect of smallpox vaccine against mpox were also discussed. Our review indicates that MPXV antibody levels are closely related to the level of immunity in the population, particularly among individuals who have received smallpox vaccination. This narrative review aims to synthesize existing evidence on the role of smallpox vaccination in protecting against mpox and to offer evidence-based guidance for public health policy. We aim to establish a theoretical foundation and practical recommendations for future research and mpox prevention strategies. The level of immunity to MPXV in the human population after smallpox vaccination. Administering the smallpox vaccine leads to the production of antibodies that combat MPXV infection The level of immunity to MPXV in the human population after smallpox vaccination. Administering the smallpox vaccine leads to the production of antibodies that combat MPXV infection",
+      "corpusId": 279055096,
+      "url": "https://api.semanticscholar.org/CorpusId:279055096"
+    },
+    {
+      "title": "Cardiac Safety of Modified Vaccinia Ankara for Vaccination against Smallpox in a Young, Healthy Study Population",
+      "authors": [
+        {
+          "name": "E. Zitzmann-Roth",
+          "id": "1400859906"
+        },
+        {
+          "name": "F. von Sonnenburg",
+          "id": "113871359"
+        },
+        {
+          "name": "S. de la Motte",
+          "id": "47824214"
+        },
+        {
+          "name": "Nathaly Arndtz-Wiedemann",
+          "id": "102119307"
+        },
+        {
+          "name": "A. von Krempelhuber",
+          "id": "6561660"
+        },
+        {
+          "name": "N. Uebler",
+          "id": "6198198"
+        },
+        {
+          "name": "J. Vollmar",
+          "id": "40468142"
+        },
+        {
+          "name": "G. Virgin",
+          "id": "50003184"
+        },
+        {
+          "name": "P. Chaplin",
+          "id": "5885895"
+        }
+      ],
+      "year": 2015,
+      "venue": "PLoS ONE",
+      "score": 0.5137655967448237,
+      "abstract": "Background Conventional smallpox vaccines based on replicating vaccinia virus (VV) strains (e.g. Lister Elstree, NYCBOH) are associated with a high incidence of myo-/pericarditis, a severe inflammatory cardiac complication. A new smallpox vaccine candidate based on a non-replicating Modified Vaccinia Ankara (MVA) poxvirus has been assessed for cardiac safety in a large placebo-controlled clinical trial. Methods Cardiac safety of one and two doses of MVA compared to placebo was assessed in 745 healthy subjects. Vaccinia-naïve subjects received either one dose of MVA and one dose of placebo, two doses of MVA, or two doses of placebo by subcutaneous injection four weeks apart; vaccinia-experienced subjects received a single dose of MVA. Solicited and unsolicited adverse events (AE) and cardiac safety parameters (recorded as Adverse Events of Special Interest, AESI) were monitored after each injection. Results A total of 5 possibly related AESI (3 cases of palpitations, 2 of tachycardia) were reported during the study. No case of myo- or pericarditis occurred. One possibly related serious AE (SAE) was reported during the 6-month follow-up period (sarcoidosis). The most frequently observed AEs were injection site reactions. Conclusions Vaccination with MVA was safe and well tolerated and did not increase the risk for development of myo-/pericarditis. Trial Registration ClinicalTrials.gov NCT00316524",
+      "corpusId": 19135654,
+      "url": "https://api.semanticscholar.org/CorpusId:19135654"
+    },
+    {
+      "title": "Smallpox vaccination and adverse reactions. Guidance for clinicians.",
+      "authors": [
+        {
+          "name": "J. Cono",
+          "id": "4144264"
+        },
+        {
+          "name": "Christine G. Casey",
+          "id": "7012349"
+        },
+        {
+          "name": "D. Bell",
+          "id": "144080223"
+        }
+      ],
+      "year": 2003,
+      "venue": "MMWR Recommendations and Reports",
+      "score": 0.5083587749465541,
+      "abstract": "",
+      "corpusId": 1559867,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/12617510"
+    },
+    {
+      "title": "Smallpox vaccines for biodefense: need and feasibility",
+      "authors": [
+        {
+          "name": "A. Artenstein",
+          "id": "4974021"
+        },
+        {
+          "name": "J. Grabenstein",
+          "id": "1420121848"
+        }
+      ],
+      "year": 2008,
+      "venue": "Expert Review of Vaccines",
+      "score": 0.49680141706048303,
+      "abstract": "Smallpox, eradicated as a cause of natural disease through an intensive global effort in the later part of the 20th Century, has resurfaced as a possible agent of bioterrorism. For this reason, there is renewed interest in smallpox vaccines. Live vaccinia virus, an orthopoxvirus related to smallpox, has a long and successful clinical track record as an effective smallpox vaccine; however, its use is associated with uncommon yet serious adverse events. This has led to a surge of recent research into newer-generation smallpox vaccines with improved safety profiles and retained efficacy. This article will review the history of smallpox vaccines, assess the status of newer-generation vaccines and examine the overall risk-versus-benefit profile of smallpox vaccination.",
+      "corpusId": 33855724,
+      "url": "https://api.semanticscholar.org/CorpusId:33855724"
+    },
+    {
+      "title": "Safety and Efficacy of Post-Eradication Smallpox Vaccine as an Mpox Vaccine: A Systematic Review with Meta-Analysis",
+      "authors": [
+        {
+          "name": "Shelia Malone",
+          "id": "2204198820"
+        },
+        {
+          "name": "A. Mitra",
+          "id": "144771382"
+        },
+        {
+          "name": "Nwanne Onumah",
+          "id": "2121448394"
+        },
+        {
+          "name": "A. Brown",
+          "id": "2111050387"
+        },
+        {
+          "name": "L. M. Jones",
+          "id": "2205123196"
+        },
+        {
+          "name": "Da’Chirion Tresvant",
+          "id": "2205217875"
+        },
+        {
+          "name": "C. Susan Brown",
+          "id": "2150155184"
+        },
+        {
+          "name": "Austine U Onyia",
+          "id": "2205252542"
+        },
+        {
+          "name": "Faith Iseguede",
+          "id": "2123973201"
+        }
+      ],
+      "year": 2023,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "score": 0.4930059212718229,
+      "abstract": "According to the World Health Organization, 83,339 laboratory-confirmed cases, including 72 deaths, of mpox (formerly known as monkeypox), have been reported from 110 locations globally as of 20 December 2022, making the disease a public health concern. Most of the cases (56,171, 67.4%) were reported from countries in North America. Limited data on vaccine effectiveness in the current mpox outbreak are available. However, the modified vaccinia virus (smallpox vaccine) has been predicted to prevent or reduce the severity of the mpox infection. The present study of systematic review and meta-analysis aimed to evaluate the modified vaccinia vaccine’s safety and efficacy on mpox by using reported randomized clinical trials. Following guidelines from the Cochrane Collaboration and PRISMA, multiple databases including PubMed, PLOS ONE, Google Scholar, British Medical Journal, and the U. S. National Library of Medicine were searched. Out of 13,294 research articles initially identified, 187 were screened after removing duplicates. Following the inclusion and exclusion criteria, the meta-analysis included ten studies with 7430 patients. Three researchers independently assessed the risk of bias in the included study. The pooled results suggest that the vaccinia-exposed group had fewer side effects when compared to the vaccinia naïve group (odds ratio: 1.66; 95% CI: 1.07–2.57; p = 0.03). Overall, the modified vaccinia has proven safe and effective in both vaccinia naïve and previously exposed groups, with higher efficacy in the previously exposed groups.",
+      "corpusId": 256717456,
+      "url": "https://pdfs.semanticscholar.org/1f7e/c63ad618fa5e2677510add7035b4d4c53de8.pdf"
+    },
+    {
+      "title": "Mpox unveiled: Global epidemiology, treatment advances, and prevention strategies",
+      "authors": [
+        {
+          "name": "Anna Bogacka",
+          "id": "2351388019"
+        },
+        {
+          "name": "Agnieszka Wroczyńska",
+          "id": "2316609381"
+        },
+        {
+          "name": "Weronika Rymer",
+          "id": "39870452"
+        },
+        {
+          "name": "Paweł Grzesiowski",
+          "id": "2311941401"
+        },
+        {
+          "name": "Ravi Kant",
+          "id": "2354779582"
+        },
+        {
+          "name": "Maciej Grzybek",
+          "id": "2279523954"
+        },
+        {
+          "name": "M. Parczewski",
+          "id": "2330206106"
+        }
+      ],
+      "year": 2025,
+      "venue": "One Health",
+      "score": 0.49217661311021216,
+      "abstract": "Mpox (monkeypox), caused by the monkeypox virus (MPXV), is a zoonotic disease from the Poxviridae family, closely related to smallpox. It presents with high fever, rash, and pustules, with human-to-human transmission first reported in the Democratic Republic of Congo in 1970. Historically, such transmissions were rare, but since 2022, an alarming global surge in infections began, originating in the United Kingdom. By mid-2024, 99,176 cases and 208 deaths were reported in 116 countries, prompting the World Health Organization (WHO) to declare Mpox a Public Health Emergency of International Concern (PHEIC) twice, in 2022 and 2024. Although vaccines for smallpox have shown partial efficacy against MPOX, viral transmission persists, and there is no specific therapy or vaccine developed solely for Mpox. Current treatments rely on therapies designed for smallpox, including antivirals like tecovirimat, brincidofovir, and cidofovir. The aim of this review is to provide an updated overview of the epidemiology, clinical presentation, and management strategies of MPOX. We discuss recent progress in diagnosis, treatment, and vaccine development while addressing key prevention strategies. Mpox risk remains high in regions like the Democratic Republic of Congo, moderate in other African countries, and lower globally, particularly among men who have sex with men (MSM), where sexual transmission predominates. Diagnosis is based on clinical presentation, confirmed by PCR testing of skin lesions or swabs, while HIV testing is recommended for adults with Mpox. Preventive measures, including isolation and the use of personal protective equipment (PPE), are essential, alongside the use of two available vaccines, Jynneos and ACAM2000, which show partial efficacy against Mpox.",
+      "corpusId": 277714544,
+      "url": "https://api.semanticscholar.org/CorpusId:277714544"
+    },
+    {
+      "title": "Human monkeypox: a comparison of the characteristics of the new epidemic to the endemic disease",
+      "authors": [
+        {
+          "name": "S. Sukhdeo",
+          "id": "79318530"
+        },
+        {
+          "name": "Sharmistha Mishra",
+          "id": "2239586317"
+        },
+        {
+          "name": "Sharon Walmsley",
+          "id": "2237901813"
+        }
+      ],
+      "year": 2022,
+      "venue": "BMC Infectious Diseases",
+      "score": 0.488691980866543,
+      "abstract": "In May 2022, a new global outbreak of mpox (formerly, human monkeypox) emerged that was declared a public health emergency of international concern by the World Health Organization on July 23, 2022. With new patterns of person-to-person spread within sexual networks in nonendemic countries and several differences from the classic disease course, we performed a comprehensive review of existing literature on human monkeypox to discuss epidemiology, modes of transmission, clinical presentation and asymptomatic infection, diagnostics, therapeutics, and vaccines with the primary aim to identify important areas for future research of this new epidemic form of the disease. A comprehensive literature search was performed of all published literature to August 15, 2022. Historically, in regions of monkeypox virus endemicity, human outbreaks have occurred related to discrete zoonotic events. The animal reservoir is unknown, but the virus has been isolated from rodents. Traditionally, transmission occurred by direct or indirect contact with an infected animal. In nonendemic countries affected in the 2022 outbreak, almost exclusive person-to-person spread has been observed, and most cases are connected to sexual networks of gay, bisexual, and other men who have sex with men. After an incubation period of approximately 13 days, in traditional human cases affected persons developed a febrile prodrome preceding a rash that started on the face and body, spread centrifugally to the palms and soles and healed monomorphically over two to four weeks. However, in the 2022 outbreak, the febrile illness is often absent or occurs after the onset of the rash. The rash presents primarily in the anogenital region and face before disseminating throughout the body, with lesions displaying regional pleomorphism. There is a paucity of data for the role of antiviral agents or vaccines. The epidemiology and clinical course of mpox has changed in the 2022 epidemic from that observed with the endemic disease. There is an urgent need to establish rapid and collaborative research platforms to diagnose, treat and prevent disease and inform important public health and other strategies to stop the spread of disease.",
+      "corpusId": 260432814,
+      "url": "https://api.semanticscholar.org/CorpusId:260432814"
+    },
+    {
+      "title": "Mpox: Clinical Outcomes and Impact of Vaccination in People with and without HIV: A Population-Wide Study",
+      "authors": [
+        {
+          "name": "R. Martín-Iguacel",
+          "id": "1400974426"
+        },
+        {
+          "name": "C. Pericas",
+          "id": "2219761002"
+        },
+        {
+          "name": "A. Bruguera",
+          "id": "32718783"
+        },
+        {
+          "name": "Gemma Rosell",
+          "id": "2265268237"
+        },
+        {
+          "name": "Erica Martínez",
+          "id": "2267153559"
+        },
+        {
+          "name": "Yesika Díaz",
+          "id": "2239205010"
+        },
+        {
+          "name": "Lucía Alonso",
+          "id": "2239204543"
+        },
+        {
+          "name": "D. Nomah",
+          "id": "2124467729"
+        },
+        {
+          "name": "J. L. Blanco",
+          "id": "2252580795"
+        },
+        {
+          "name": "P. Domingo",
+          "id": "2259394127"
+        },
+        {
+          "name": "Patricia Álvarez-López",
+          "id": "1517011972"
+        },
+        {
+          "name": "M. S. Linares",
+          "id": "144108024"
+        },
+        {
+          "name": "Consuelo Vilades Laborda",
+          "id": "2265268401"
+        },
+        {
+          "name": "Arantxa Mera",
+          "id": "2265270500"
+        },
+        {
+          "name": "Sonia Calzado Isbert",
+          "id": "2008195067"
+        },
+        {
+          "name": "I. Johansen",
+          "id": "2964102"
+        },
+        {
+          "name": "J. M. Miró",
+          "id": "2243449745"
+        },
+        {
+          "name": "J. Casabona",
+          "id": "2241926959"
+        },
+        {
+          "name": "J. Llibre",
+          "id": "145804103"
+        }
+      ],
+      "year": 2023,
+      "venue": "Microorganisms",
+      "score": 0.4868112918545571,
+      "abstract": "We investigated differences in mpox clinical outcomes in people with HIV (PWH) and without HIV (PWoH) and the impact of vaccination in Catalonia, Spain. We used surveillance data and the PISCIS HIV cohort. We included all confirmed mpox cases (May–December 2022). Of 2122 mpox cases, the majority had mild disease, 56% were Spanish, and 24% were from Latin America. A total of 40% were PWH, with a median CD4+T-cell of 715 cells/μL; 83% had HIV-RNA < 50 copies/mL; and 1.8% CD4+T-cell < 200 cells/μL. PWH had no increased risk for complications, except those with CD4+T-cell < 200 cells/μL. PWH with CD4+T-cell < 200 cells/μL were more likely to be from Latin America, had more generalized exanthema, and required hospitalization more frequently (p = 0.001). Diagnosis of other sexually transmitted infections (STIs) was common, both at mpox diagnosis (17%) and two years before (43%). Dose-sparing smallpox intradermal vaccination was accompanied by a sharp decrease in mpox incidence in both populations (p < 0.0001). In conclusion, unless immunosuppressed, PWH were not at increased risk of severe disease or hospitalization. Mpox is a marker of high-risk sexual behavior and was associated with high HIV and STI rates, supporting the need for screening in all mpox cases. Ethnicity disparities demonstrate the need for interventions to ensure equitable healthcare access. Dose-sparing smallpox vaccination retained effectiveness.",
+      "corpusId": 265001783,
+      "url": "https://api.semanticscholar.org/CorpusId:265001783"
+    },
+    {
+      "title": "Evaluating the Immunogenicity and Safety of a Smallpox Vaccine to Monkeypox in Healthy Japanese Adults: A Single-Arm Study",
+      "authors": [
+        {
+          "name": "N. Tomita",
+          "id": "2052955587"
+        },
+        {
+          "name": "E. Morino",
+          "id": "5185366"
+        },
+        {
+          "name": "J. Terada-Hirashima",
+          "id": "1990720396"
+        },
+        {
+          "name": "Y. Uemura",
+          "id": "4828975"
+        },
+        {
+          "name": "Yosuke Shimizu",
+          "id": "2147312586"
+        },
+        {
+          "name": "S. Saito",
+          "id": "2269553"
+        },
+        {
+          "name": "Tetsuya Suzuki",
+          "id": "2108444451"
+        },
+        {
+          "name": "N. Okumura",
+          "id": "32553014"
+        },
+        {
+          "name": "H. Iwasaki",
+          "id": "2212329120"
+        },
+        {
+          "name": "H. Ebihara",
+          "id": "144160410"
+        },
+        {
+          "name": "M. Shimojima",
+          "id": "31453071"
+        },
+        {
+          "name": "W. Sugiura",
+          "id": "2073485526"
+        },
+        {
+          "name": "N. Ohmagari",
+          "id": "3969642"
+        },
+        {
+          "name": "M. Ujiie",
+          "id": "34597008"
+        }
+      ],
+      "year": 2023,
+      "venue": "Life",
+      "score": 0.48627104107668306,
+      "abstract": "Monkeypox (mpox) is an acute exanthematous disease caused by the monkeypox virus (MPXV). Since May 2022, patients with mpox have been reported worldwide, mainly in Europe and the Americas. In Japan, LC16”KMB,” which is a smallpox vaccine derived from a dried cell culture, against mpox, has been approved. Although inoculation with a smallpox vaccine has been recommended to prevent MPXV infection, the immunogenicity of the smallpox vaccine against the MPXV is unclear, and information regarding postvaccination safety is scarce. We present the protocol for a single-arm open-label study to investigate the immunogenicity and safety of LC16”KMB” against the MPXV in healthy Japanese adults. The primary endpoint is the seroconversion rate of neutralizing antibodies against the MPXV on postvaccination day 28. The secondary endpoints are the seroconversion rates against the MPXV on postvaccination days 14 and 168; the seroconversion rates against the vaccinia virus on postvaccination days 14, 28, and 168; the incidence of mpox until day 168; and adverse and serious adverse events until postvaccination days 28 and 168. These results will pave the way for larger comparative studies using other smallpox vaccines to evaluate the test vaccine’s safety and efficacy in preventing mpox.",
+      "corpusId": 257567635,
+      "url": "https://api.semanticscholar.org/CorpusId:257567635"
+    },
+    {
+      "title": "Real-world effectiveness of mpox (monkeypox) vaccines: a systematic review",
+      "authors": [
+        {
+          "name": "Mingda Xu",
+          "id": "2153557990"
+        },
+        {
+          "name": "Caifen Liu",
+          "id": "2144908871"
+        },
+        {
+          "name": "Zhanwei Du",
+          "id": "2241778765"
+        },
+        {
+          "name": "Yuan Bai",
+          "id": "49953660"
+        },
+        {
+          "name": "Zhen Wang",
+          "id": "2118455000"
+        },
+        {
+          "name": "Chao Gao",
+          "id": "2114086770"
+        }
+      ],
+      "year": 2023,
+      "venue": "medRxiv",
+      "score": 0.4855920465825863,
+      "abstract": "Understanding the effectiveness of smallpox vaccines against mpox in humans can inform public health preparedness for mpox prophylaxis during the 2022 outbreak. However, the efficacy of current vaccines against mpox has been inferred from animal and immunogenicity studies and has barely been demonstrated in human clinical trials. Thus, we conducted a systematic literature review to estimate the real-world effectiveness of mpox vaccines. The study showed a pooled estimate of 0.89 (95% CI: 0.86-0.91) for the third-generation smallpox vaccine (MVA-BN) effectiveness during the 2022 outbreak. The results showed that the incidence of mpox was significantly lower in the vaccinated group than in the unvaccinated group. Considering the potential mutations, side effects, and breakthrough infections, it is recommended to develop a next-generation vaccine that is more effective and safer for future mpox outbreaks.",
+      "corpusId": 257579889,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/37040341"
+    },
+    {
+      "title": "Effect of prior immunisation with smallpox vaccine for protection against human Mpox: A systematic review",
+      "authors": [
+        {
+          "name": "Fahima Akter",
+          "id": "2324328413"
+        },
+        {
+          "name": "Tahira Binte Hasan",
+          "id": "2213041651"
+        },
+        {
+          "name": "Farhana Alam",
+          "id": "12159121"
+        },
+        {
+          "name": "Aurpy Das",
+          "id": "2212856845"
+        },
+        {
+          "name": "Shanta Afrin",
+          "id": "2398686719"
+        },
+        {
+          "name": "Sadia Maisha",
+          "id": "2199238806"
+        },
+        {
+          "name": "A. Masud",
+          "id": "9496457"
+        },
+        {
+          "name": "Saif-Ur-Rahman Km",
+          "id": "2175637127"
+        }
+      ],
+      "year": 2023,
+      "venue": "Reviews in Medical Virology",
+      "score": 0.4837780234999382,
+      "abstract": "Monkeypox is an emerging threat to humans since a new outbreak in May 2022. It is hypothesised that increasing the immunologically naive population after the cessation of the smallpox vaccination campaign in the 1980s is one of the leading causes of it. A literature search was conducted using different electronic databases including MEDLINE (through PubMed), SCOPUS, Web of Science, Cochrane library, and EMBASE for relevant studies. After duplication removal, abstract and title screening, and full‐text screening were done, the data were extracted, tabulated, and analysed. The risk of bias was assessed following the Risk of Bias Assessment tool for Non‐randomised Studies. We found a total of 1068 relevant articles and finally, we included 6 articles including 2083 participants. The studies suggested that smallpox is 80.7% efficacious to prevent human monkeypox and the immunity provided by prior smallpox vaccination is long‐lasting. Moreover, the smallpox vaccination decreases the risk of human monkeypox by 5.2‐folds. Two cross‐sectional studies based on the Democratic Republic of the Congo (DRC) including a total of around 1800 monkeypox cases found that unvaccinated participants had 2.73 and 9.64‐fold increased risk of monkeypox compared to the vaccinated participants. Other studies in USA and Spain also demonstrated that unvaccinated people were more prone to develop monkeypox than vaccinated people. Furthermore, monkeypox incidence has increased by 20 folds, 30 years after the cessation of the smallpox vaccination campaign in DRC. Evidence‐based preventive and therapeutic agents are still not available for human monkeypox. Further study should be done to explore the role of the smallpox vaccine in preventing human monkeypox.",
+      "corpusId": 257856763,
+      "url": "https://api.semanticscholar.org/CorpusId:257856763"
+    },
+    {
+      "title": "Ocular Manifestations of Mpox and Other Poxvirus Infections: Clinical Insights and Emerging Therapeutic and Preventive Strategies",
+      "authors": [
+        {
+          "name": "Yuan Zong",
+          "id": "2261431094"
+        },
+        {
+          "name": "Yaru Zou",
+          "id": "2261453816"
+        },
+        {
+          "name": "Mingming Yang",
+          "id": "2200108819"
+        },
+        {
+          "name": "Jing Zhang",
+          "id": "2155700180"
+        },
+        {
+          "name": "Zizhen Ye",
+          "id": "2363133705"
+        },
+        {
+          "name": "Jiaxin Deng",
+          "id": "2363131543"
+        },
+        {
+          "name": "Kyoko Ohno-Matsui",
+          "id": "2317860028"
+        },
+        {
+          "name": "K. Kamoi",
+          "id": "3874634"
+        }
+      ],
+      "year": 2025,
+      "venue": "Vaccines",
+      "score": 0.4749484131287165,
+      "abstract": "Poxvirus infections, particularly those caused by the monkeypox virus, have emerged as significant public health threats. Ocular manifestations constitute a severe potential clinical complication associated with these infections, potentially resulting in permanent visual impairment in afflicted patients. This review aimed to examine the clinical spectrum of ocular manifestations associated with mpox and other poxvirus infections and to evaluate current management strategies alongside emerging therapeutic interventions and prevention strategies. A comprehensive literature search was performed across major databases to identify studies reporting ocular involvement in poxviral infections. Ocular involvement in poxviral infections ranges from mild conjunctivitis and eyelid lesions to severe keratitis with potential vision loss. Mpox-related ocular manifestations are more prevalent in unvaccinated and immunocompromised individuals. Although early antiviral intervention and supportive care are critical, clinical outcomes vary considerably across viral clades. Emerging evidence indicates that tecovirimat may reduce lesion severity, although its impact on accelerating recovery remains limited. Moreover, vaccine strategies, particularly the MVA-BN (JYNNEOS) vaccine, appear to decrease ocular complications, despite regional disparities in access and implementation. Ocular complications pose a significant clinical challenge in mpox and related poxviral infections. This review highlights the need for early diagnosis and integrated treatment approaches that combine antiviral therapy, supportive care, and targeted vaccination. Further research is essential to refine treatment protocols and assess the long-term outcomes in diverse patient populations.",
+      "corpusId": 278826549,
+      "url": "https://api.semanticscholar.org/CorpusId:278826549"
+    },
+    {
+      "title": "Vaccine effectiveness of 3rd generation mpox vaccines against mpox and disease severity: A systematic review and meta-analysis.",
+      "authors": [
+        {
+          "name": "Lauren Pischel",
+          "id": "7346692"
+        },
+        {
+          "name": "Brett A. Martini",
+          "id": "115004610"
+        },
+        {
+          "name": "Na Yu",
+          "id": "2276087475"
+        },
+        {
+          "name": "David Cacesse",
+          "id": "2307760480"
+        },
+        {
+          "name": "Mahder Tracy",
+          "id": "2307758804"
+        },
+        {
+          "name": "K. Kharbanda",
+          "id": "2334978888"
+        },
+        {
+          "name": "Noureen Ahmed",
+          "id": "2273639826"
+        },
+        {
+          "name": "K. Patel",
+          "id": "2087113934"
+        },
+        {
+          "name": "A. Grimshaw",
+          "id": "2306894569"
+        },
+        {
+          "name": "Amyn A. Malik",
+          "id": "2269967573"
+        },
+        {
+          "name": "G. Goshua",
+          "id": "15145548"
+        },
+        {
+          "name": "Saad B. Omer",
+          "id": "2261490348"
+        }
+      ],
+      "year": 2024,
+      "venue": "Vaccine",
+      "score": 0.4426485192876482,
+      "abstract": "INTRODUCTION\nBefore the global mpox outbreak which began in 2022, the real-world vaccine effectiveness (VE) of mpox vaccines was unknown. We quantified the VE in the global population of 3rd generation or later mpox vaccines (MVA-BN, LC16m8, OrthopoxVac) compared with unvaccinated or other vaccinated states for infection, hospitalization and death. VE was stratified by 1-dose and 2-doses and post-exposure prophylaxis (PEP).\n\n\nMETHODS\nStudies were included if they measured vaccine efficacy or effectiveness in humans. Animal studies and immunogenicity studies were excluded. MEDLINE, Web of Science, Google Scholar, Embase, MedRxiv and grey literature were searched from January 1st, 1970, with the last search run on November 3, 2023 (Prospero, CRD42022345240). Risk of publication bias was assessed via funnel plots and Egger's test, and study quality via Newcastle-Ottawa scales.\n\n\nRESULTS\nA total of 11,892 records were identified via primary search, 3,223 via citation chasing. Thirty-three studies were identified of 3rd generation vaccines, 32 of which were MVA-BN. Two additional studies were re-analysis of existing data. Most of these studies were focused on gay, bisexual, or other men who have sex with men between the ages of 18-49 in May to October of 2022. VE of 1 dose of MVA-BN was 76% (95%CI 64-88%) from twelve studies. VE of 2 doses was 82% (95%CI 72-92%) from six studies. VE of MVA-BN PEP against mpox was 20% (95%CI -24-65%) from seven studies. All VE are calculated from random effects estimates. 18/33(55%) studies were rated as poor, 3/33(9%) as fair and 12/33(36%) as good. Studies included in the meta-analysis had higher quality: 11/16 (69%) were rated as good quality.\n\n\nCONCLUSION\nBoth 1 and 2 doses of MVA-BN are highly effective at preventing mpox. Effectiveness estimates, specifically of PEP are limited by immortal time bias, predominant mode of mpox transmission, and real-world vaccine timing of administration.",
+      "corpusId": 270666756,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/38906763"
+    },
+    {
+      "title": "Smallpox during Pregnancy and Maternal Outcomes",
+      "authors": [
+        {
+          "name": "H. Nishiura",
+          "id": "144350369"
+        }
+      ],
+      "year": 2006,
+      "venue": "Emerging Infectious Diseases",
+      "score": 0.4384289296027852,
+      "abstract": "A historical study evaluated maternal outcomes in pregnancy complicated by smallpox. The overall case fatality was estimated to be 34.3% (95% confidence interval [CI] 31.4–37.1), and the proportion of miscarriage or premature birth was estimated to be 39.9% (95% CI 36.5–43.2). Vaccination before pregnancy reduced the risk for death.",
+      "corpusId": 1931381,
+      "url": "https://pdfs.semanticscholar.org/3d4a/966507389197db0ac76c9f2ea3194be11035.pdf"
+    },
+    {
+      "title": "Estimated Effectiveness of JYNNEOS Vaccine in Preventing Mpox: A Multijurisdictional Case-Control Study — United States, August 19, 2022–March 31, 2023",
+      "authors": [
+        {
+          "name": "Alexandra F Dalton",
+          "id": "13608162"
+        },
+        {
+          "name": "A. Diallo",
+          "id": "153908088"
+        },
+        {
+          "name": "A. Chard",
+          "id": "4158164"
+        },
+        {
+          "name": "Danielle L. Moulia",
+          "id": "14066261"
+        },
+        {
+          "name": "Nicholas P. Deputy",
+          "id": "8691874"
+        },
+        {
+          "name": "A. Fothergill",
+          "id": "10272566"
+        },
+        {
+          "name": "Ian Kracalik",
+          "id": "4008154"
+        },
+        {
+          "name": "C. Wegner",
+          "id": "153190677"
+        },
+        {
+          "name": "Tiffanie M. Markus",
+          "id": "47376352"
+        },
+        {
+          "name": "P. Pathela",
+          "id": "6434210"
+        },
+        {
+          "name": "W. Still",
+          "id": "1841835668"
+        },
+        {
+          "name": "Sam Hawkins",
+          "id": "47735833"
+        },
+        {
+          "name": "A. Mangla",
+          "id": "14566215"
+        },
+        {
+          "name": "N. Ravi",
+          "id": "31268102"
+        },
+        {
+          "name": "Erin Licherdell",
+          "id": "2197288418"
+        },
+        {
+          "name": "Amber Britton",
+          "id": "50627781"
+        },
+        {
+          "name": "R. Lynfield",
+          "id": "6445741"
+        },
+        {
+          "name": "M. Sutton",
+          "id": "1820743145"
+        },
+        {
+          "name": "Amberjean P. Hansen",
+          "id": "152126734"
+        },
+        {
+          "name": "Gabriela S. Betancourt",
+          "id": "15215338"
+        },
+        {
+          "name": "Jemma V. Rowlands",
+          "id": "40392936"
+        },
+        {
+          "name": "S. Chai",
+          "id": "40080472"
+        },
+        {
+          "name": "R. Fisher",
+          "id": "1990322234"
+        },
+        {
+          "name": "Phoebe Danza",
+          "id": "1825977196"
+        },
+        {
+          "name": "M. Farley",
+          "id": "5222221"
+        },
+        {
+          "name": "J. Zipprich",
+          "id": "5546090"
+        },
+        {
+          "name": "Gregory Prahl",
+          "id": "2217839286"
+        },
+        {
+          "name": "K. Wendel",
+          "id": "39439062"
+        },
+        {
+          "name": "L. Niccolai",
+          "id": "2902045"
+        },
+        {
+          "name": "J. Castilho",
+          "id": "5603753"
+        },
+        {
+          "name": "D. Payne",
+          "id": "2266396"
+        },
+        {
+          "name": "A. Cohn",
+          "id": "7995890"
+        },
+        {
+          "name": "Leora R. Feldstein",
+          "id": "5254581"
+        },
+        {
+          "name": "Kayla Saadeh",
+          "id": "98077795"
+        },
+        {
+          "name": "Robert E Snyder",
+          "id": "35670446"
+        },
+        {
+          "name": "Madeline Anderson",
+          "id": "2109789722"
+        },
+        {
+          "name": "Vanessa Aryana Anguiano",
+          "id": "2219570435"
+        },
+        {
+          "name": "J. Nadle",
+          "id": "7719608"
+        },
+        {
+          "name": "G. Rothrock",
+          "id": "3869498"
+        },
+        {
+          "name": "Sydney A. Jones",
+          "id": "2148310423"
+        },
+        {
+          "name": "Lauren Duval",
+          "id": "113530289"
+        },
+        {
+          "name": "R. Herlihy",
+          "id": "11013849"
+        },
+        {
+          "name": "Ginger Stringer",
+          "id": "2076695469"
+        },
+        {
+          "name": "Robyn Weber",
+          "id": "2216310397"
+        },
+        {
+          "name": "Quyen Phan",
+          "id": "2372887176"
+        },
+        {
+          "name": "L. Sosa",
+          "id": "40411746"
+        },
+        {
+          "name": "J. Meek",
+          "id": "32297412"
+        },
+        {
+          "name": "Michelle Lee",
+          "id": "2184015837"
+        },
+        {
+          "name": "Allison S. Morrow",
+          "id": "2218403894"
+        },
+        {
+          "name": "Christina Willut",
+          "id": "2180999966"
+        },
+        {
+          "name": "J. Carlson",
+          "id": "2086843688"
+        },
+        {
+          "name": "Kevin F. Kamis",
+          "id": "6598213"
+        },
+        {
+          "name": "Masayo Nishiyama",
+          "id": "2124464612"
+        },
+        {
+          "name": "Gena Simien",
+          "id": "2218783370"
+        },
+        {
+          "name": "J. Colasanti",
+          "id": "2074789659"
+        },
+        {
+          "name": "Tamsin M. van der Woude",
+          "id": "2218719552"
+        },
+        {
+          "name": "Roxanne Archer",
+          "id": "2007645829"
+        },
+        {
+          "name": "L. Finn",
+          "id": "143672014"
+        },
+        {
+          "name": "J. Lam",
+          "id": "77488903"
+        },
+        {
+          "name": "Bret D. Moulton",
+          "id": "12104084"
+        },
+        {
+          "name": "Erin Peterson",
+          "id": "2059366050"
+        },
+        {
+          "name": "R. Bolan",
+          "id": "2071675017"
+        },
+        {
+          "name": "Gabriel Garcia-Lopez",
+          "id": "2218729027"
+        },
+        {
+          "name": "K. Como‐Sabetti",
+          "id": "1402290210"
+        },
+        {
+          "name": "Anna Ruff",
+          "id": "1672383698"
+        },
+        {
+          "name": "Dakota Schneider",
+          "id": "146547313"
+        },
+        {
+          "name": "T. Robinson",
+          "id": "32018661"
+        },
+        {
+          "name": "Bridget J. Anderson",
+          "id": "4900458"
+        },
+        {
+          "name": "Kerianne Engesser",
+          "id": "2129410776"
+        },
+        {
+          "name": "S. McGuire",
+          "id": "144043759"
+        },
+        {
+          "name": "Adam Rowe",
+          "id": "2144824230"
+        },
+        {
+          "name": "Christopher Pride",
+          "id": "2081300789"
+        },
+        {
+          "name": "Jaxon Mitchell",
+          "id": "2148746457"
+        },
+        {
+          "name": "Yelena Tourkina",
+          "id": "2218725214"
+        },
+        {
+          "name": "P. Cieslak",
+          "id": "1796495"
+        },
+        {
+          "name": "M. Fill",
+          "id": "87996469"
+        },
+        {
+          "name": "Caleb Wiedeman",
+          "id": "6316828"
+        },
+        {
+          "name": "G. Dumyati",
+          "id": "4440848"
+        },
+        {
+          "name": "C. Felsen",
+          "id": "10439635"
+        },
+        {
+          "name": "J. Lewnard",
+          "id": "4246341"
+        },
+        {
+          "name": "Bentley Akoko",
+          "id": "2218748015"
+        },
+        {
+          "name": "Kristyne Mansilla-Dubon",
+          "id": "2218693357"
+        },
+        {
+          "name": "D. Ndi",
+          "id": "24009431"
+        },
+        {
+          "name": "H. Talbot",
+          "id": "1726750"
+        },
+        {
+          "name": "Sweta Tiwari",
+          "id": "2070549345"
+        },
+        {
+          "name": "Dayna Wyatt",
+          "id": "39544945"
+        }
+      ],
+      "year": 2023,
+      "venue": "MMWR. Morbidity and mortality weekly report",
+      "score": 0.43603349478158476,
+      "abstract": "As of March 31, 2023, more than 30,000 monkeypox (mpox) cases had been reported in the United States in an outbreak that has disproportionately affected gay, bisexual, and other men who have sex with men (MSM) and transgender persons (1). JYNNEOS vaccine (Modified Vaccinia Ankara vaccine, Bavarian Nordic) was approved by the Food and Drug Administration (FDA) in 2019 for the prevention of smallpox and mpox via subcutaneous injection as a 2-dose series (0.5 mL per dose, administered 4 weeks apart) (2). To expand vaccine access, an Emergency Use Authorization was issued by FDA on August 9, 2022, for dose-sparing intradermal injection of JYNNEOS as a 2-dose series (0.1 mL per dose, administered 4 weeks apart) (3). Vaccination was available to persons with known or presumed exposure to a person with mpox (postexposure prophylaxis [PEP]), as well as persons at increased risk for mpox or who might benefit from vaccination (preexposure mpox prophylaxis [PrEP]) (4). Because information on JYNNEOS vaccine effectiveness (VE) is limited, a matched case-control study was conducted in 12 U.S. jurisdictions,† including nine Emerging Infections Program sites and three Epidemiology and Laboratory Capacity sites,§ to evaluate VE against mpox among MSM and transgender adults aged 18-49 years. During August 19, 2022-March 31, 2023, a total of 309 case-patients were matched to 608 control patients. Adjusted VE was 75.2% (95% CI = 61.2% to 84.2%) for partial vaccination (1 dose) and 85.9% (95% CI = 73.8% to 92.4%) for full vaccination (2 doses). Adjusted VE for full vaccination by subcutaneous, intradermal, and heterologous routes of administration was 88.9% (95% CI = 56.0% to 97.2%), 80.3% (95% CI = 22.9% to 95.0%), and 86.9% (95% CI = 69.1% to 94.5%), respectively. Adjusted VE for full vaccination among immunocompromised participants was 70.2% (95% CI = -37.9% to 93.6%) and among immunocompetent participants was 87.8% (95% CI = 57.5% to 96.5%). JYNNEOS is effective at reducing the risk for mpox. Because duration of protection of 1 versus 2 doses remains unknown, persons at increased risk for mpox exposure should receive the 2-dose series as recommended by the Advisory Committee on Immunization Practices (ACIP),¶ regardless of administration route or immunocompromise status.",
+      "corpusId": 258787559,
+      "url": "https://pdfs.semanticscholar.org/08b0/fa5a758fb62303723cc88936f987f32a8008.pdf"
+    },
+    {
+      "title": "Immunogenicity and Safety of Modified Vaccinia Ankara (MVA) Vaccine—A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+      "authors": [
+        {
+          "name": "Lior Nave",
+          "id": "2141767044"
+        },
+        {
+          "name": "I. Margalit",
+          "id": "8505876"
+        },
+        {
+          "name": "Noam Tau",
+          "id": "31730518"
+        },
+        {
+          "name": "I. Cohen",
+          "id": "2187085124"
+        },
+        {
+          "name": "D. Yelin",
+          "id": "12839903"
+        },
+        {
+          "name": "F. Lienert",
+          "id": "6897177"
+        },
+        {
+          "name": "D. Yahav",
+          "id": "2690631"
+        }
+      ],
+      "year": 2023,
+      "venue": "Vaccines",
+      "score": 0.42781186498298535,
+      "abstract": "Prevention of mpox has become an important public health interest. We aimed to evaluate the safety and immunogenicity of the Modified Vaccinia Ankara (MVA) vaccine. We conducted a systematic review and meta-analysis of randomized-controlled trials (RCTs) comparing MVA versus no intervention, placebo, or another vaccine. Outcomes included safety and immunogenicity outcomes. We also performed a systematic review of RCTs evaluating various MVA regimens. Fifteen publications were included in the quantitative meta-analysis. All but one (ACAM2000) compared MVA with placebo. We found that cardiovascular adverse events following two MVA doses were significantly more common compared to placebo (relative risk [RR] 4.07, 95% confidence interval [CI] 1.10–15.10), though serious adverse events (SAEs) were not significantly different. Following a single MVA dose, no difference was demonstrated in any adverse event outcomes. Seroconversion rates were significantly higher compared with placebo after a single or two doses. None of the RCTs evaluated clinical effectiveness in preventing mpox. This meta-analysis provides reassuring results concerning the immunogenicity and safety of MVA. Further studies are needed to confirm the immunogenicity of a single dose and its clinical effectiveness. A single vaccine dose may be considered according to vaccine availability, with preference for two doses.",
+      "corpusId": 261135350,
+      "url": "https://api.semanticscholar.org/CorpusId:261135350"
+    },
+    {
+      "title": "Monkeypox and pregnancy: what do obstetricians need to know?",
+      "authors": [
+        {
+          "name": "A. Khalil",
+          "id": "122196344"
+        },
+        {
+          "name": "A. Samara",
+          "id": "82416075"
+        },
+        {
+          "name": "P. O’Brien",
+          "id": "1515903383"
+        },
+        {
+          "name": "E. Morris",
+          "id": "152439900"
+        },
+        {
+          "name": "T. Draycott",
+          "id": "46648818"
+        },
+        {
+          "name": "C. Lees",
+          "id": "1394044404"
+        },
+        {
+          "name": "S. Ladhani",
+          "id": "2071692358"
+        }
+      ],
+      "year": 2022,
+      "venue": "Ultrasound in Obstetrics and Gynecology",
+      "score": 0.42661620146826,
+      "abstract": "",
+      "corpusId": 249276183,
+      "url": "https://doi.org/10.1002/uog.24968"
+    },
+    {
+      "title": "Effectiveness of historical smallpox vaccination against mpox clade II in men in Denmark, France, the Netherlands and Spain, 2022",
+      "authors": [
+        {
+          "name": "S. Colombe",
+          "id": "23190171"
+        },
+        {
+          "name": "Silvia Funke",
+          "id": "2309804535"
+        },
+        {
+          "name": "Anders Koch",
+          "id": "2306322427"
+        },
+        {
+          "name": "Manon R Haverkate",
+          "id": "2253161258"
+        },
+        {
+          "name": "Susana Monge",
+          "id": "2243976557"
+        },
+        {
+          "name": "A. Barret",
+          "id": "50466501"
+        },
+        {
+          "name": "Aisling M Vaughan",
+          "id": "78170950"
+        },
+        {
+          "name": "S. Hahné",
+          "id": "2238199949"
+        },
+        {
+          "name": "C. V. van Ewijk",
+          "id": "5918406"
+        },
+        {
+          "name": "H. Emborg",
+          "id": "2057390"
+        },
+        {
+          "name": "Sebastian von Schreeb",
+          "id": "40560595"
+        },
+        {
+          "name": "Asunción Díaz",
+          "id": "2256338764"
+        },
+        {
+          "name": "Carmen Olmedo",
+          "id": "2261009291"
+        },
+        {
+          "name": "Laura Zanetti",
+          "id": "2295635378"
+        },
+        {
+          "name": "D. Levy-Bruhl",
+          "id": "2248335431"
+        },
+        {
+          "name": "Luís Alves de Sousa",
+          "id": "2141221485"
+        },
+        {
+          "name": "José Hagan",
+          "id": "2279214719"
+        },
+        {
+          "name": "Nathalie Nicolay",
+          "id": "2251153478"
+        },
+        {
+          "name": "Richard Pebody",
+          "id": "2240270421"
+        }
+      ],
+      "year": 2024,
+      "venue": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
+      "score": 0.41950152809902913,
+      "abstract": "Background In 2022, a global monkeypox virus (MPXV) clade II epidemic occurred mainly among men who have sex with men. Until early 1980s, European smallpox vaccination programmes were part of worldwide smallpox eradication efforts. Having received smallpox vaccine > 20 years ago may provide some cross-protection against MPXV. Aim To assess the effectiveness of historical smallpox vaccination against laboratory-confirmed mpox in 2022 in Europe. Methods European countries with sufficient data on case vaccination status and historical smallpox vaccination coverage were included. We selected mpox cases born in these countries during the height of the national smallpox vaccination campaigns (latest 1971), male, with date of onset before 1 August 2022. We estimated vaccine effectiveness (VE) and corresponding 95% CI for each country using logistic regression as per the Farrington screening method. We calculated a pooled estimate using a random effects model. Results In Denmark, France, the Netherlands and Spain, historical smallpox vaccination coverage was high (80–90%) until the end of the 1960s. VE estimates varied widely (40–80%, I2 = 82%), possibly reflecting different booster strategies. The pooled VE estimate was 70% (95% CI: 23–89%). Conclusion Our findings suggest residual cross-protection by historical smallpox vaccination against mpox caused by MPXV clade II in men with high uncertainty and heterogeneity. Individuals at high-risk of exposure should be offered mpox vaccination, following national recommendations, regardless of prior smallpox vaccine history, until further evidence becomes available. There is an urgent need to conduct similar studies in sub-Saharan countries currently affected by the MPXV clade I outbreak.",
+      "corpusId": 271927749,
+      "url": "https://api.semanticscholar.org/CorpusId:271927749"
+    },
+    {
+      "title": "Reduction in the risk of mpox infection after MVA-BN vaccination in individuals on HIV pre-exposure prophylaxis: a Spanish cohort study",
+      "authors": [
+        {
+          "name": "M. Fontán-Vela",
+          "id": "2268649182"
+        },
+        {
+          "name": "V. Hernando",
+          "id": "3611438"
+        },
+        {
+          "name": "C. Olmedo",
+          "id": "5596086"
+        },
+        {
+          "name": "E. Coma",
+          "id": "3184046"
+        },
+        {
+          "name": "M. Martinez",
+          "id": "2219748155"
+        },
+        {
+          "name": "D. Moreno",
+          "id": "122588632"
+        },
+        {
+          "name": "N. Lorusso",
+          "id": "2261018138"
+        },
+        {
+          "name": "M. V. Vázquez Torres",
+          "id": "115055390"
+        },
+        {
+          "name": "J. F. Barbas del Buey",
+          "id": "1990735619"
+        },
+        {
+          "name": "J. Roig",
+          "id": "48687627"
+        },
+        {
+          "name": "E. Pastor",
+          "id": "145410195"
+        },
+        {
+          "name": "A. Galmés Truyols",
+          "id": "10324358"
+        },
+        {
+          "name": "F. Artigues Serra",
+          "id": "2007558838"
+        },
+        {
+          "name": "R. S. Sancho Martínez",
+          "id": "11430325"
+        },
+        {
+          "name": "P. Latasa Zamalloa",
+          "id": "2261016714"
+        },
+        {
+          "name": "O. Pérez Martínez",
+          "id": "1390005593"
+        },
+        {
+          "name": "A. Vázquez Estepa",
+          "id": "2218651328"
+        },
+        {
+          "name": "A. García Rojas",
+          "id": "29002814"
+        },
+        {
+          "name": "A. B. Barreno Estévez",
+          "id": "2167579033"
+        },
+        {
+          "name": "A. Sánchez-Migallón Naranjo",
+          "id": "2218654097"
+        },
+        {
+          "name": "J. P. Pérez Martín",
+          "id": "2152527542"
+        },
+        {
+          "name": "P. Peces Jiménez",
+          "id": "2218652539"
+        },
+        {
+          "name": "R. Morales Romero",
+          "id": "2218652537"
+        },
+        {
+          "name": "J. Castilla",
+          "id": "4667909"
+        },
+        {
+          "name": "M. García Cenoz",
+          "id": "4740809"
+        },
+        {
+          "name": "M. Huerta",
+          "id": "2056533587"
+        },
+        {
+          "name": "A. Boone",
+          "id": "119550773"
+        },
+        {
+          "name": "M. J. Macías Ortiz",
+          "id": "2167577410"
+        },
+        {
+          "name": "V. Álvarez Río",
+          "id": "2218652535"
+        },
+        {
+          "name": "M. J. Rodríguez Recio",
+          "id": "12404417"
+        },
+        {
+          "name": "M. Merino Díaz",
+          "id": "2218652532"
+        },
+        {
+          "name": "B. Berradre Sáenz",
+          "id": "2218651487"
+        },
+        {
+          "name": "M. Teresa-Villegas",
+          "id": "2218651250"
+        },
+        {
+          "name": "Limi",
+          "id": "2102825144"
+        }
+      ],
+      "year": 2023,
+      "venue": "medRxiv",
+      "score": 0.40960571325263473,
+      "abstract": "Objectives: To assess the effectiveness of at least one-dose of the Modified Vaccinia Ankara-Bavaria Nordic (MVA-BN) smallpox vaccine, administered pre-exposure, against mpox virus (MPXV) infection in persons receiving pre-exposure prophylaxis for HIV (HIV-PrEP). Design: Retrospective cohort, constructed by deterministic linkage of electronic health records. Setting: 15 of 19 regions in Spain (>95% population), between July 12 and December 12, 2022 Participants: Men >=18 years, receiving HIV-PrEP as of July 12 and with no previous MPXV infection or vaccination against mpox. Interventions: On each day, we matched individuals receiving a first dose of MVA-BN vaccine pre-exposure and unvaccinated controls of the same age (minus/plus 5 years) and region. Main outcome measures: We estimated the risk of laboratory-confirmed infection with MPXV using a Kaplan-Meier estimator and calculated risk ratios (RR) and vaccine effectiveness (VE=1-RR). Results: We included 5,660 matched pairs, with a median follow-up of 62 days (interquartile range 24-97). Mpox cumulative incidence was 5.6 per 1,000 (25 cases) in unvaccinated and 3.5 per 1,000 (18 cases) in vaccinated; last case occurred at 63 and 17 days after enrolment, respectively. No effect was found during days 0-6 post-vaccination (VE -38.3; 95% confidence interval (95%CI): -332.7; 46.4), but VE was 65% in [≥]7 days (95%CI 22.9; 88.0) and 79% in [≥]14 days (95%CI 33.3; 100.0) after vaccination. Conclusion: At least one dose of MVA-BN vaccine offered protection against mpox in a most-at-risk population. Because the incidence of mpox was decreasing shortly after the vaccination campaign began, we can only assess its effectiveness shortly after vaccination. Further studies need to assess the VE of a second dose and the duration of protection over time.",
+      "corpusId": 258997978,
+      "url": "https://api.semanticscholar.org/CorpusId:258997978"
+    },
+    {
+      "title": "Mpox: Exploring Epidemiology, Disease Outcomes, and Preventative Vaccination Among People with HIV During the Ongoing Outbreaks",
+      "authors": [
+        {
+          "name": "C. Orkin",
+          "id": "2237901135"
+        },
+        {
+          "name": "Ralph Torgler",
+          "id": "2281811395"
+        },
+        {
+          "name": "R. Dawson",
+          "id": "2055516461"
+        },
+        {
+          "name": "Ian W. Holloway",
+          "id": "2263524142"
+        },
+        {
+          "name": "Christian Hoffmann",
+          "id": "2289814503"
+        }
+      ],
+      "year": 2025,
+      "venue": "Viruses",
+      "score": 0.3997369229625701,
+      "abstract": "Human mpox, caused by the mpox virus, is a reemerging viral zoonosis that has gained global attention due to recent Clade IIb outbreaks outside of Africa, as well as ongoing Clade Ia and Ib outbreaks in the Democratic Republic of Congo (DRC) and surrounding regions. Since the start of these outbreaks in 2022, approximately 160,000 people have been affected across more than 100 countries. People with human immunodeficiency virus (HIV; hereafter referred to as PWH) have been disproportionately affected, accounting for approximately 50% of all cases. Mpox is typically a self-limiting illness causing smallpox-like symptoms lasting 2–4 weeks, which can cause significant pain and morbidity. People with uncontrolled or advanced HIV face an elevated risk of severe mpox, secondary complications, and worse outcomes. Vaccination with second- and third-generation vaccinia-based smallpox vaccines has emerged as an important tool in mpox prevention, alongside behavioural modification to mitigate risk. However, only the third-generation, live-attenuated, non-replicating vaccine, modified vaccinia Ankara (MVA-BN [Bavarian Nordic]), is approved for use in PWH. Real-world estimates suggest that two doses of MVA-BN administered as pre-exposure prophylaxis confers vaccine effectiveness in the range of 66–90%. Additionally, MVA-BN has been widely demonstrated to have an acceptable safety profile. This narrative review explores the changing epidemiology, clinical manifestations, and outcomes of mpox in PWH. We also summarise evidence from the Clade IIb outbreaks on the effectiveness and safety of MVA-BN among PWH. Despite progress in our understanding, knowledge gaps persist regarding vaccine performance in individuals with advanced immunosuppression. Furthermore, due to the emergent nature of outbreaks in the DRC and surrounding areas, limited information is available regarding implications for PWH in the context of Clade Ia and Ib. We aim to provide healthcare providers, community stakeholders, and researchers with a foundational understanding of mpox in PWH and the role of MVA-BN in mpox prevention among this group, while highlighting areas of uncertainty. These insights may be helpful in the planning of future research and to inform strategies for the prevention and management of mpox among PWH, particularly those with advanced or uncontrolled HIV.",
+      "corpusId": 283235122,
+      "url": "https://api.semanticscholar.org/CorpusId:283235122"
+    },
+    {
+      "title": "Unveiling the Outcomes of Mpox in Pregnancy: A Systematic Review and Single-Arm Meta-Analysis",
+      "authors": [
+        {
+          "name": "I. Gde",
+          "id": "52112323"
+        },
+        {
+          "name": "Sastra Winata",
+          "id": "52110487"
+        },
+        {
+          "name": "Leonardo Leonardo",
+          "id": "2269256877"
+        },
+        {
+          "name": "Rosalia Sylfiasari",
+          "id": "2269355399"
+        },
+        {
+          "name": "Angeline Ekafentie",
+          "id": "2351327387"
+        },
+        {
+          "name": "S. Sinaga",
+          "id": "2300977954"
+        },
+        {
+          "name": "Fenyta Christyani",
+          "id": "2244379745"
+        },
+        {
+          "name": "PhD M.Biomed",
+          "id": "2354196908"
+        }
+      ],
+      "year": 2025,
+      "venue": "Infection & Chemotherapy",
+      "score": 0.3834726372881138,
+      "abstract": "Background The global resurgence of mpox, formerly monkeypox, poses an emerging threat to pregnant women due to immunological changes and potential vertical transmission, yet its impact on pregnancy remains underexplored. This study aims to pioneer a comprehensive assessment of pregnancy outcomes and the risks of vertical transmission associated with mpox infection during pregnancy. Materials and Methods Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, we searched three databases up to September 2024 for studies on pregnant women with mpox confirmed by quantitative polymerase chain reaction. Primary outcomes were composite adverse pregnancy outcomes: miscarriage or fetal death, congenital anomalies, and chorioamnionitis; the secondary outcome was vertical transmission. Study quality was assessed using Joanna Briggs Institute tools. Statistical analysis employed R software using a one-proportion model with Freeman-Tukey transformation and random-effects meta-analysis (restricted maximum-likelihood estimator, Knapp-Hartung adjustment), presenting estimated proportions with 95% confidence intervals (CIs). Results Six studies (three case series, three case reports) comprising 11 singleton pregnancies were included. Diagnoses occurred in the first (27.3%), second (45.4%), and third trimesters (27.3%). Among the five genotypically identified Mpox cases, 20.0% were classified Clade I and 80.0% as Clade II. Meta-analysis indicated that an estimated 63% (95% CI, 43–83%) of pregnancies experienced composite adverse pregnancy outcomes. Specifically, miscarriage or fetal death occurred in 62% (95% CI, 21–102%), congenital anomalies in 50% (95% CI, 21–80%), and chorioamnionitis in 78% (95% CI, 44–96%). Vertical transmission was observed in 79% (95% CI, 6–151%). Despite small sample sizes leading to wide confidence intervals, high estimated proportions suggest that mpox severely impacts pregnancy outcomes, likely linked to maternal inflammation, placental invasion, and significant fetal risks from vertical transmission. Conclusion Mpox infection during pregnancy appears to be associated with high rates of adverse pregnancy outcomes and vertical transmission. Further large-scale studies are warranted to confirm these findings and develop preventive and management strategies mitigating this emerging threat.",
+      "corpusId": 277199247,
+      "url": "https://api.semanticscholar.org/CorpusId:277199247"
+    },
+    {
+      "title": "Mpox (Monkeypox) Infection During Pregnancy",
+      "authors": [
+        {
+          "name": "Mindy M. Sampson",
+          "id": "20509042"
+        },
+        {
+          "name": "Gray Magee",
+          "id": "46570815"
+        },
+        {
+          "name": "Evan Schrader",
+          "id": "2132954799"
+        },
+        {
+          "name": "K. Dantuluri",
+          "id": "1390009758"
+        },
+        {
+          "name": "Areej Bukhari",
+          "id": "2394383977"
+        },
+        {
+          "name": "Catherine L. Passaretti",
+          "id": "2352050100"
+        },
+        {
+          "name": "Lorene A. Temming",
+          "id": "8050045"
+        },
+        {
+          "name": "Michael Leonard",
+          "id": "2268437573"
+        },
+        {
+          "name": "J. Philips",
+          "id": "79955735"
+        },
+        {
+          "name": "David A. Weinrib",
+          "id": "9822331"
+        }
+      ],
+      "year": 2023,
+      "venue": "Obstetrics and Gynecology",
+      "score": 0.37887087595690827,
+      "abstract": "",
+      "corpusId": 257583856,
+      "url": "https://doi.org/10.1097/AOG.0000000000005170"
+    },
+    {
+      "title": "Maternal and neonatal outcomes after infection with monkeypox virus clade I during pregnancy in DR Congo: a pooled, prospective cohort study",
+      "authors": [
+        {
+          "name": "E. Vakaniaki",
+          "id": "112955140"
+        },
+        {
+          "name": "Isaac Barhishindi",
+          "id": "2300477381"
+        },
+        {
+          "name": "Ange Mubiala",
+          "id": "2331806244"
+        },
+        {
+          "name": "E. B. Malembaka",
+          "id": "67160916"
+        },
+        {
+          "name": "Lydia Braunack-Mayer",
+          "id": "1401661425"
+        },
+        {
+          "name": "Bruce Nganga",
+          "id": "2355827099"
+        },
+        {
+          "name": "S. Sabiti Nundu",
+          "id": "2400404438"
+        },
+        {
+          "name": "I. Brosius",
+          "id": "32881743"
+        },
+        {
+          "name": "Stefanie Bracke",
+          "id": "2191381730"
+        },
+        {
+          "name": "E. Bangwen",
+          "id": "2192464107"
+        },
+        {
+          "name": "E. De Vos",
+          "id": "2308565832"
+        },
+        {
+          "name": "R. Colebunders",
+          "id": "2270563325"
+        },
+        {
+          "name": "Mireille Ngale",
+          "id": "2400404551"
+        },
+        {
+          "name": "Gabriel Kayembe",
+          "id": "2400409071"
+        },
+        {
+          "name": "Christian Tshongo",
+          "id": "2400404234"
+        },
+        {
+          "name": "A. Dilu",
+          "id": "2312540750"
+        },
+        {
+          "name": "C. Tshimanga",
+          "id": "2312535794"
+        },
+        {
+          "name": "J. Biampata",
+          "id": "2148565186"
+        },
+        {
+          "name": "P. M. Bugeme",
+          "id": "2219462897"
+        },
+        {
+          "name": "Nsengi Y Ntamabyaliro",
+          "id": "16012619"
+        },
+        {
+          "name": "B. Kirenga",
+          "id": "2311855721"
+        },
+        {
+          "name": "M. Wayengera",
+          "id": "5452025"
+        },
+        {
+          "name": "J. S. Siewe Fodjo",
+          "id": "52187486"
+        },
+        {
+          "name": "David Lupande Mwenebitu",
+          "id": "2323529369"
+        },
+        {
+          "name": "A. Rimoin",
+          "id": "5317021"
+        },
+        {
+          "name": "T. Wawina-Bokalanga",
+          "id": "1423327296"
+        },
+        {
+          "name": "K. Vercauteren",
+          "id": "2244551129"
+        },
+        {
+          "name": "D. Mukadi-Bamuleka",
+          "id": "2111596056"
+        },
+        {
+          "name": "J. Muyembe‐Tamfum",
+          "id": "1390066234"
+        },
+        {
+          "name": "S. Krasemann",
+          "id": "5470131"
+        },
+        {
+          "name": "J. Kindrachuk",
+          "id": "2268661208"
+        },
+        {
+          "name": "Andrew S. Azman",
+          "id": "2316015742"
+        },
+        {
+          "name": "Véronique Nussenblatt",
+          "id": "2244554581"
+        },
+        {
+          "name": "Ian Crozier",
+          "id": "2326574830"
+        },
+        {
+          "name": "Lori E Dodd",
+          "id": "2308085064"
+        },
+        {
+          "name": "O. Tshiani-Mbaya",
+          "id": "2184350990"
+        },
+        {
+          "name": "S. Ahuka-Mundeke",
+          "id": "1399033405"
+        },
+        {
+          "name": "A. Amuri-Aziza",
+          "id": "2281228968"
+        },
+        {
+          "name": "J. Makangara-Cigolo",
+          "id": "2281228381"
+        },
+        {
+          "name": "Fiston Mpinda-Isekusu",
+          "id": "2406217043"
+        },
+        {
+          "name": "E. Kinganda-Lusamaki",
+          "id": "1742192334"
+        },
+        {
+          "name": "Raphaël Lumembe-Numbi",
+          "id": "2154816006"
+        },
+        {
+          "name": "Y. Mujula",
+          "id": "2296592494"
+        },
+        {
+          "name": "P. Munganga",
+          "id": "2331271486"
+        },
+        {
+          "name": "J. Tshomba",
+          "id": "2331273187"
+        },
+        {
+          "name": "S. Houben",
+          "id": "2326482546"
+        },
+        {
+          "name": "C. Van Dijck",
+          "id": "2331273242"
+        },
+        {
+          "name": "N. Hoff",
+          "id": "5033118"
+        },
+        {
+          "name": "Sydney Merritt",
+          "id": "2293039680"
+        },
+        {
+          "name": "M. Peeters",
+          "id": "2268661481"
+        },
+        {
+          "name": "R. Kojan",
+          "id": "1434756661"
+        },
+        {
+          "name": "Léandre Mutimbwa-Mambo",
+          "id": "2306457394"
+        },
+        {
+          "name": "Jenestin Babingwa Munga",
+          "id": "2342695636"
+        },
+        {
+          "name": "Steeven Bilembo Kitwanda",
+          "id": "2342696795"
+        },
+        {
+          "name": "Divin Mazambi Mambo",
+          "id": "2342694729"
+        },
+        {
+          "name": "F. M. Kumbana",
+          "id": "2331273182"
+        },
+        {
+          "name": "James Wakilongo Zangilwa",
+          "id": "2342694675"
+        },
+        {
+          "name": "C. Kacita",
+          "id": "2305315269"
+        },
+        {
+          "name": "Esto Bahizire",
+          "id": "7010528"
+        },
+        {
+          "name": "W. Bapolisi",
+          "id": "19211187"
+        },
+        {
+          "name": "Bertin C Bisimwa",
+          "id": "51893398"
+        },
+        {
+          "name": "A. Nyalundja",
+          "id": "1971017518"
+        },
+        {
+          "name": "M. Bbuye",
+          "id": "2125413309"
+        },
+        {
+          "name": "Claudine Mukashyaka",
+          "id": "1753451736"
+        },
+        {
+          "name": "Marina Saleeb",
+          "id": "2372051211"
+        },
+        {
+          "name": "Yves Jacquemyn",
+          "id": "2325442632"
+        },
+        {
+          "name": "Samir Kumar-Singh",
+          "id": "2253052068"
+        },
+        {
+          "name": "Osama A. A. Mohamed",
+          "id": "2349690801"
+        },
+        {
+          "name": "Rosine Ali",
+          "id": "1434756863"
+        },
+        {
+          "name": "Michael Kombozi Basika",
+          "id": "2406217100"
+        },
+        {
+          "name": "Esaie Kindombe",
+          "id": "2406216824"
+        },
+        {
+          "name": "Mays Kisala",
+          "id": "3617774"
+        },
+        {
+          "name": "Augustin Ibanda",
+          "id": "1434757393"
+        },
+        {
+          "name": "Baudouin Matiba Baudouin",
+          "id": "2406216246"
+        },
+        {
+          "name": "G. Mukendi",
+          "id": "2312536364"
+        },
+        {
+          "name": "P. Mutombo",
+          "id": "2088921807"
+        },
+        {
+          "name": "Tona Lutete",
+          "id": "2406217707"
+        },
+        {
+          "name": "Mariano Lusakibanza",
+          "id": "2355823119"
+        },
+        {
+          "name": "Y. Lula",
+          "id": "41034710"
+        },
+        {
+          "name": "P. Kabuni",
+          "id": "2089680523"
+        },
+        {
+          "name": "Hippy Lonza",
+          "id": "2406220457"
+        },
+        {
+          "name": "Sylvain Mulumba",
+          "id": "2406217705"
+        },
+        {
+          "name": "Henri Mutomboh",
+          "id": "2406216821"
+        },
+        {
+          "name": "Yves-Ninon Kumuamba",
+          "id": "2406217134"
+        },
+        {
+          "name": "Jules Alonga",
+          "id": "2215046177"
+        },
+        {
+          "name": "Claude Shosongo",
+          "id": "2406216819"
+        },
+        {
+          "name": "Katherine Cone",
+          "id": "2076959583"
+        },
+        {
+          "name": "Trust Faraja Patrick Kazuba Salomon Mashupe Levi Stephan Mukika Bugale Shangula Bugwaja Ngai Jackson",
+          "id": "2406216817"
+        },
+        {
+          "name": "T. F. Mukika",
+          "id": "2341844450"
+        },
+        {
+          "name": "P. K. Bugale",
+          "id": "2341851759"
+        },
+        {
+          "name": "S. M. Shangula",
+          "id": "2341849298"
+        },
+        {
+          "name": "L. Bugwaja",
+          "id": "2341855720"
+        },
+        {
+          "name": "S. Ngai",
+          "id": "2347317484"
+        },
+        {
+          "name": "J. Jackson",
+          "id": "2347333092"
+        },
+        {
+          "name": "N. Low",
+          "id": "2268661925"
+        },
+        {
+          "name": "P. Katoto",
+          "id": "2320623889"
+        },
+        {
+          "name": "P. Mbala-Kingebeni",
+          "id": "1399033419"
+        },
+        {
+          "name": "Laurens Liesenborghs",
+          "id": "2306488613"
+        }
+      ],
+      "year": 2025,
+      "venue": "The Lancet",
+      "score": 0.37467698785777465,
+      "abstract": "Summary Background Monkeypox virus (MPXV) has been linked to vertical transmission, but systematic data are scarce. We aimed to describe the sociodemographic, clinical, and virological characteristics and assess the frequency and determinants of adverse outcomes in pregnant women with MPXV clade I infection. Methods In this prospective cohort study, we pooled data from three cohort studies (MBOTE-SK, PREGMPOX, and Uvira mpox) and one randomised controlled trial (PALM007) conducted in the South Kivu, Maniema, and Sankuru provinces of DR Congo between Dec 29, 2022, and June 20, 2025. Pregnant women and adolescent girls with a PCR-confirmed diagnosis of mpox were followed up throughout hospitalisation for mpox, delivery, and until discharge during the postpartum period. We extracted data on sociodemographic characteristics, MPXV exposure, clinical and obstetric presentation, and laboratory results. In a univariable analysis, we examined factors associated with the following adverse outcomes: spontaneous or missed abortion (<20 weeks of gestation), stillbirth (≥20 weeks of gestation), preterm birth (<37 weeks of gestation), live birth of a neonate with macroscopic mpox-like lesions, early (first 7 days) neonatal death, congenital anomaly, or maternal death (during pregnancy or discharge postpartum). Findings We collected data from 89 pregnant women in the first (25 [28%]), second (31 [35%]), and third (33 [37%]) trimesters across all four studies: MBOTE-SK (36 [40%]), PREGMPOX (24 [27%]), PALM007 (25 [28%]), and Uvira mpox (four [4%]). All participants recovered from mpox; no maternal deaths were reported. During hospitalisation for mpox, fetal loss was reported in 17 (19%) women. Final pregnancy outcomes were known for 69 (78%) participants; adverse outcomes were reported in 35 (51%) women (95% CI 38–63), including fetal loss in 31 (45%; 95% CI 33–57; 16 [52%] spontaneous abortions, four [13%] missed abortions, and 11 [35%] stillbirths). Of the 38 live births, four neonates had congenital mpox-like lesions; one infant died a few hours after birth. No preterm births or congenital abnormalities were recorded. MPXV infection during the first trimester was associated with a higher risk of adverse pregnancy outcomes than during the second (risk ratio [RR] 0·6 [95% CI 0·4–0·9]) and third (0·2 [0·1–0·4]) trimesters (p=0·0008). Adverse outcomes were also associated with high viral load in skin lesions (PCR cycle threshold ≤30; RR 3·5 [95% CI 1·0–12·3]; p=0·045), direct sexual contact with the index case (1·6 [1·1–2·4]; p=0·026), positive HIV status (2·0 [1·4–2·9]; p=0·0002), and the presence of genital lesions (1·9 [1·1–3·2]; p=0·025). Interpretation MPXV clade I infection in pregnancy is associated with a high risk of fetal loss and congenital infection, particularly during the first trimester. Targeted preventive and clinical strategies are urgently needed to protect pregnant women and their infants in settings that are endemic and epidemic for mpox. Funding The European and Developing Countries Clinical Trials Partnership, the Belgian Directorate-General Development Cooperation and Humanitarian Aid, the Swiss National Science Foundation, the Research Foundation–Flanders, the Gates Foundation, the Intramural Research Program of the National Institutes of Health, and the National Cancer Institute.",
+      "corpusId": 284131571,
+      "url": "https://api.semanticscholar.org/CorpusId:284131571"
+    },
+    {
+      "title": "Vaccination for Mpox (Monkeypox) Infection in Humans: From Basic Science to Real-World Effectiveness",
+      "authors": [
+        {
+          "name": "K. See",
+          "id": "2238068243"
+        }
+      ],
+      "year": 2024,
+      "venue": "Vaccines",
+      "score": 0.3599805862470044,
+      "abstract": "Human mpox (previously known as monkeypox) is a multi-system disease caused by an orthopox DNA virus [...].",
+      "corpusId": 273245899,
+      "url": "https://api.semanticscholar.org/CorpusId:273245899"
+    },
+    {
+      "title": "Pathogenicity and virulence of monkeypox at the human-animal-ecology interface",
+      "authors": [
+        {
+          "name": "Md Mazharul Islam",
+          "id": "152993043"
+        },
+        {
+          "name": "P. Dutta",
+          "id": "2037713309"
+        },
+        {
+          "name": "R. Rashid",
+          "id": "2210485375"
+        },
+        {
+          "name": "S. Jaffery",
+          "id": "2210482369"
+        },
+        {
+          "name": "A. Islam",
+          "id": "1439738780"
+        },
+        {
+          "name": "E. Farag",
+          "id": "16037523"
+        },
+        {
+          "name": "S. Zughaier",
+          "id": "5934919"
+        },
+        {
+          "name": "D. Bansal",
+          "id": "40377127"
+        },
+        {
+          "name": "M. Hassan",
+          "id": "144209232"
+        }
+      ],
+      "year": 2023,
+      "venue": "Virulence",
+      "score": 0.3523815646670029,
+      "abstract": "ABSTRACT Monkeypox (Mpox) was mostly limited to Central and Western Africa, but recently it has been reported globally. The current review presents an update on the virus, including ecology and evolution, possible drivers of transmission, clinical features and management, knowledge gaps, and research priorities to reduce the disease transmission. The origin, reservoir(s) and the sylvatic cycle of the virus in the natural ecosystem are yet to be confirmed. Humans acquire the infection through contact with infected animals, humans, and natural hosts. The major drivers of disease transmission include trapping, hunting, bushmeat consumption, animal trade, and travel to endemic countries. However, in the 2022 epidemic, the majority of the infected humans in non-endemic countries had a history of direct contact with clinical or asymptomatic persons through sexual activity. The prevention and control strategies should include deterring misinformation and stigma, promoting appropriate social and behavioural changes, including healthy life practices, instituting contact tracing and management, and using the smallpox vaccine for high-risk people. Additionally, longer-term preparedness should be emphasized using the One Health approach, such as systems strengthening, surveillance and detection of the virus across regions, early case detection, and integrating measures to mitigate the socio-economic effects of outbreaks.",
+      "corpusId": 257309833,
+      "url": "https://api.semanticscholar.org/CorpusId:257309833"
+    },
+    {
+      "title": "Mpox and Lessons Learned in the Light of the Recent Outbreak: A Narrative Review",
+      "authors": [
+        {
+          "name": "K. Protopapas",
+          "id": "5586707"
+        },
+        {
+          "name": "D. Dimopoulou",
+          "id": "40472985"
+        },
+        {
+          "name": "Nikolaos Kalesis",
+          "id": "2326358716"
+        },
+        {
+          "name": "K. Akinosoglou",
+          "id": "46904180"
+        },
+        {
+          "name": "C. Moschopoulos",
+          "id": "1713619405"
+        }
+      ],
+      "year": 2024,
+      "venue": "Viruses",
+      "score": 0.351954713600329,
+      "abstract": "According to the WHO, more than 90,000 cases of mpox have been reported since the 2022 worldwide outbreak, which resulted in 167 deaths, while a new outbreak in Africa since 2023 has resulted in over 18,000 cases and 617 deaths. Mpox is a zoonosis caused by the monkeypox virus, a double-stranded DNA virus belonging to the Orthopoxvirus genus, which causes smallpox-like illness. Until 2022, cases were predominately located in West and Central Africa, with only sporadic cases and outbreaks reported in other parts of the world. During the 2022 outbreak, the primary mode of transmission was sexual contact among men who have sex with men. The changing epidemiology of mpox resulted in new disease phenotypes and populations at risk, disproportionally affecting people who live with HIV. Commonly presenting as a mild, self-limiting illness, mpox can cause severe and protracted disease in people with HIV with a CD4 count < 200 cell/mm3. The global emergence of mpox that followed and intersected with COVID-19 mobilized the scientific community and healthcare stakeholders to provide accurate diagnostics, preventive vaccines and treatment to those most affected. Despite existing gaps, this rapid response helped to contain the outbreak, but challenges remain as new variants emerge. Preparedness and readiness to respond to the next outbreak is crucial in order to minimize the impact to the most vulnerable.",
+      "corpusId": 273411229,
+      "url": "https://api.semanticscholar.org/CorpusId:273411229"
+    },
+    {
+      "title": "Mpox: An emerging or re-emerging infection with a potential colossal burden on healthcare globally",
+      "authors": [
+        {
+          "name": "Chikwelu L. Obi",
+          "id": "2308156495"
+        },
+        {
+          "name": "N. Mkolo",
+          "id": "89313859"
+        },
+        {
+          "name": "L. L. Mugivhisa",
+          "id": "1686348172"
+        },
+        {
+          "name": "Modupe O. Ogunrombi",
+          "id": "6610911"
+        },
+        {
+          "name": "M. M. Mphephu",
+          "id": "2294519884"
+        },
+        {
+          "name": "C. Naidoo",
+          "id": "1734001575"
+        }
+      ],
+      "year": 2025,
+      "venue": "African Journal of Laboratory Medicine",
+      "score": 0.3512458110624475,
+      "abstract": "The World Health Organization identified mpox (formerly known as monkeypox), as a resurgent zoonotic epidemic caused by the mpox virus. It is an emerging and re-emerging pathogen with a range of hosts and geographical distribution worldwide. Peer-reviewed scientific articles from 1958 to 29 August 2024 related to global mpox research were extracted from Web of ScienceTM Core Collection and Google Scholar Databases to gauge the extent of the infection. Mpox is marked by a recent resurgence of infections across continents, with Africa being the hardest-hit region. The mpox re-emergence has shown a new mechanism of transmission, with several causes such as a rise in the number of unvaccinated individuals, behaviour risk factors, waning immunity, genetic evolution, and environmental circumstances. Preventive and control measures of mpox include vaccination and patient isolation, while treatment involves antivirals and antibiotics for secondary bacterial infections. Laboratory diagnosis entailing polymerase chain reaction can be effective for routine purposes, but results of serological tests must be interpreted with caution, because of cross-reacting determinants among orthopoxviruses. The structure and classification of the mpox virus, clinical manifestations, pathophysiology, epidemiology, historical antecedent, therapeutics, vaccines, and laboratory diagnosis of the disease are explicated, showcasing mpox as an emerging or re-emerging infection with a potential colossal burden on healthcare, and its classification as an international public health emergency by the World Health Organization. What this study adds This review provides the global situation of mpox as an emerging or re-emerging infection, warranting its designation as an international public health emergency.",
+      "corpusId": 279062775,
+      "url": "https://api.semanticscholar.org/CorpusId:279062775"
+    },
+    {
+      "title": "Potential of MRNA vaccines for mpox prevention: current evidence and future directions",
+      "authors": [
+        {
+          "name": "Toufik Abdul-Rahman",
+          "id": "2295378109"
+        },
+        {
+          "name": "Ogungbemi Evelyn Faith",
+          "id": "2264083670"
+        },
+        {
+          "name": "Oyinbolaji A Ajetunmobi",
+          "id": "2226728454"
+        },
+        {
+          "name": "Hala Ibrahim Thaalibi",
+          "id": "2329687271"
+        },
+        {
+          "name": "C. G. Ikele",
+          "id": "2239923361"
+        },
+        {
+          "name": "Gargi Gautam",
+          "id": "2357820469"
+        },
+        {
+          "name": "Faith O Omotayo",
+          "id": "2267164488"
+        },
+        {
+          "name": "Poulami Roy",
+          "id": "2280091193"
+        },
+        {
+          "name": "Alhazan Amir Adebayo",
+          "id": "2357749653"
+        },
+        {
+          "name": "Muslimat Abolore Mojeed",
+          "id": "2372929124"
+        },
+        {
+          "name": "Tolulope Taiwo Kareem",
+          "id": "2372929038"
+        },
+        {
+          "name": "Halima Ali",
+          "id": "2359975900"
+        },
+        {
+          "name": "Rebecca Grace Atieno",
+          "id": "2372936264"
+        },
+        {
+          "name": "Esther Ademeta",
+          "id": "2219914359"
+        },
+        {
+          "name": "Neil Garg",
+          "id": "2214337284"
+        },
+        {
+          "name": "P. Ashinze",
+          "id": "2244465795"
+        },
+        {
+          "name": "G. Y. Scott",
+          "id": "2176794684"
+        }
+      ],
+      "year": 2025,
+      "venue": "Annals of Medicine and Surgery",
+      "score": 0.33781714312314426,
+      "abstract": "In 2022, the presumption of monkeypox (mpox) to be of limited epidemiology shifted when a global outbreak was announced. Being a member of the Orthopoxvirus genus in the Poxviridae family, it’d been reported in over 82 countries with over 17 000 confirmed cases by July 2022, thus showing its capability for spreading rapidly. As the smallpox vaccine offers 85% cross-immunity against mpox, the outbreak highlighted the attenuation of global immunity against orthopoxviruses after the cessation of vaccination campaigns against smallpox. The mortality of this virus is higher in vulnerable populations such as children, pregnant women, the elderly, and immunosuppressed individuals. With treatment methods being limited to off-label use of antivirals, the need for urgent and efficient preventative measures is emphasized. At present, JYNNEOS (Modified Vaccinia Ankara-Bavarian Nordic), showing favorable safety, and ACAM2000, a live attenuated virus with a high risk of side effects, are two vaccines that are indicated for mpox immunization. However, neither of them has proven full safety, efficacy, and widespread accessibility against mpox. Hence, the use of mRNA vaccines has emerged as a better alternative to traditional vaccinations, as they leverage synthetic messenger RNA to instruct host cells to produce antigens, eliciting both humoral and cellular immune responses. Though they provided rapid scalability, adaptability to emerging viral variants, and an established safety profile after the COVID-19 pandemic, their usage in preventing mpox remains an area of research. This paper elucidates the potential of mRNA technology to address the unmet needs in mpox prevention. It also highlights the need for genomic surveillance, immunological insights, and innovative delivery systems.",
+      "corpusId": 280118331,
+      "url": "https://api.semanticscholar.org/CorpusId:280118331"
+    },
+    {
+      "title": "Efficacy of smallpox vaccines against Mpox infections in humans",
+      "authors": [
+        {
+          "name": "M. Christodoulidou",
+          "id": "2382534953"
+        },
+        {
+          "name": "N. Mabbott",
+          "id": "2246603298"
+        }
+      ],
+      "year": 2023,
+      "venue": "Immunotherapy Advances",
+      "score": 0.33277704794921653,
+      "abstract": "Summary The Mpox virus (MPXV) is endemic in certain countries in Central and West Africa, where several mammalian species, especially rodents, are natural reservoirs. However, the MPXV can infect nonhuman primates and cause zoonotic infections in humans after close contact with an infected animal. Human-to-human transmission of MPXV can also occur through direct close contact with an infected individual or infected materials. In May 2022 an initial cluster of human Mpox cases was identified in the UK, with the first case confirmed in a patient who had recently travelled to Nigeria. The infection subsequently spread via human-to-human transmission within the UK and Mpox cases began to appear in many other countries around the world where the MPXV is not endemic. No specific treatments for MPXV infection in humans are available. However, data from studies undertaken in Zaire in the 1980s revealed that those with a history of smallpox vaccination during the global smallpox eradication campaign also had good cross-protection against MPXV infection. However, the vaccines used during the global eradication campaign are no longer available. During the 2022 global Mpox outbreak over a million doses of the Modified Vaccinia Ankara–Bavarian Nordic (MVA–BN) smallpox vaccine were offered either as pre or postexposure prophylaxis to those at high risk of MPXV infection. Here, we review what has been learned about the efficacy of smallpox vaccines in reducing the incidence of MPXV infections in high-risk close contacts.",
+      "corpusId": 264487634,
+      "url": "https://pdfs.semanticscholar.org/c49a/9c9ab7d8daa83245c4650b0e4dfa2961c401.pdf"
+    }
+  ]
+}

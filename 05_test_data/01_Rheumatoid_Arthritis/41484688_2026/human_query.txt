@@ -1,0 +1,1 @@
+("inflammatory arthritis"[All Fields] OR "arthritis, rheumatoid"[MeSH Terms] OR "rheumatoid arthritis"[All Fields] OR "early arthritis"[All Fields]) AND ("early referral*"[All Fields] OR "reducing delay*"[All Fields] OR "referring patient*"[All Fields] OR "patient referral"[All Fields] OR "early diagnos*"[All Fields])

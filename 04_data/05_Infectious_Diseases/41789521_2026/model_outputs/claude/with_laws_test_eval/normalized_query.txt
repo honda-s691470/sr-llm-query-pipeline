@@ -1,0 +1,1 @@
+("Tuberculosis"[Mesh] OR tuberculosis[tiab] OR TB[tiab] OR "pulmonary tuberculosis"[tiab]) AND ("Smoking"[Mesh] OR smok*[tiab] OR tobacco[tiab] OR cigarette*[tiab] OR "tobacco use"[tiab]) AND (Chinese[tiab] OR China[tiab] OR "Han Chinese"[tiab] OR "Chinese population"[tiab] OR "mainland China"[tiab] OR Taiwan[tiab] OR "Hong Kong"[tiab] OR Macau[tiab] OR "overseas Chinese"[tiab])

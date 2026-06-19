@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41709059_2026",
+  "query": "(\"L-carnitine\"[tiab] OR \"levocarnitine\"[tiab] OR \"carnitine\"[tiab] OR \"L carnitine\"[tiab] OR \"Carnitine\"[MeSH Terms]) AND (\"coronary artery disease\"[tiab] OR \"coronary heart disease\"[tiab] OR \"ischemic heart disease\"[tiab] OR \"ischaemic heart disease\"[tiab] OR \"myocardial infarction\"[tiab] OR \"myocardial ischemia\"[tiab] OR \"acute coronary syndrome\"[tiab] OR \"angina\"[tiab] OR \"CAD\"[tiab] OR \"Coronary Artery Disease\"[MeSH Terms] OR \"Myocardial Infarction\"[MeSH Terms] OR \"Myocardial Ischemia\"[MeSH Terms] OR \"Acute Coronary Syndrome\"[MeSH Terms]) AND (\"cardiac function\"[tiab] OR \"oxidative stress\"[tiab] OR \"inflammation\"[tiab] OR \"anti-inflammatory\"[tiab] OR \"antioxidant\"[tiab] OR \"mortality\"[tiab] OR \"arrhythmia\"[tiab] OR \"arrhythmias\"[tiab] OR \"reinfarction\"[tiab] OR \"heart failure\"[tiab] OR \"ejection fraction\"[tiab] OR \"lipid peroxidation\"[tiab] OR \"free radical\"[tiab] OR \"cytokine\"[tiab] OR \"malondialdehyde\"[tiab] OR \"superoxide dismutase\"[tiab] OR \"troponin\"[tiab] OR \"ventricular function\"[tiab] OR \"survival\"[tiab] OR \"cardiovascular outcome\"[tiab] OR \"cardiovascular outcomes\"[tiab] OR \"Oxidative Stress\"[MeSH Terms] OR \"Inflammation\"[MeSH Terms] OR \"Arrhythmias, Cardiac\"[MeSH Terms] OR \"Heart Failure\"[MeSH Terms] OR \"Mortality\"[MeSH Terms])",
+  "status": "ok"
+}

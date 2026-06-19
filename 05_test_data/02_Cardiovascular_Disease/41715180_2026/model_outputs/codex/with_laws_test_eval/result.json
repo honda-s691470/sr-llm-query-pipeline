@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:41:59Z",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41715180_2026",
+  "provider": "codex",
+  "model": "gpt-5.3-codex",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Heart Failure\"[Mesh] OR \"Ventricular Dysfunction, Left\"[Mesh] OR \"heart failure\"[tiab] OR \"cardiac failure\"[tiab] OR \"congestive heart failure\"[tiab] OR \"chronic heart failure\"[tiab] OR \"acute heart failure\"[tiab] OR \"left ventricular dysfunction\"[tiab] OR HF[tiab]) AND (\"Prognosis\"[Mesh] OR \"Risk Assessment\"[Mesh] OR \"Models, Statistical\"[Mesh] OR \"Machine Learning\"[Mesh] OR \"Artificial Intelligence\"[Mesh] OR prognos*[tiab] OR predict*[tiab] OR \"risk stratification\"[tiab] OR \"risk score\"[tiab] OR \"risk scores\"[tiab] OR \"risk model\"[tiab] OR \"risk models\"[tiab] OR \"risk equation\"[tiab] OR \"risk equations\"[tiab] OR \"prediction model\"[tiab] OR \"prediction models\"[tiab] OR \"predictive model\"[tiab] OR \"predictive models\"[tiab] OR \"prognostic model\"[tiab] OR \"prognostic models\"[tiab] OR \"clinical prediction rule\"[tiab] OR \"clinical prediction rules\"[tiab] OR \"multivariable model\"[tiab] OR \"multivariable models\"[tiab] OR \"multivariable regression\"[tiab] OR \"regression model\"[tiab] OR \"regression models\"[tiab] OR \"Cox model\"[tiab] OR \"Cox models\"[tiab] OR \"machine learning\"[tiab] OR \"artificial intelligence\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"random forest\"[tiab] OR \"random forests\"[tiab] OR \"external validation\"[tiab] OR \"model validation\"[tiab]))",
+  "query_length": 1292,
+  "gold_count": 44,
+  "total_hits": 125431,
+  "hit_gold_count": 44,
+  "recall": 1.0,
+  "nnr": 2850.7045454545455,
+  "f1": 0.0007013349272763497,
+  "error_note": ""
+}

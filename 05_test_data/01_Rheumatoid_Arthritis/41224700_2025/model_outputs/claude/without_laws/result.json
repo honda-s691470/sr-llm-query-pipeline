@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41224700_2025",
+  "query": "(\"oral contraceptive*\"[tiab] OR \"oral contraception\"[tiab] OR \"contraceptive pill*\"[tiab] OR \"birth control pill*\"[tiab] OR \"combined oral contraceptive*\"[tiab] OR \"hormonal contraceptive*\"[tiab] OR OC[tiab] OR OCP[tiab] OR \"the pill\"[tiab] OR \"contraceptives, oral\"[mh]) AND (\"rheumatoid arthritis\"[tiab] OR \"rheumatoid arthritis\"[mh]) AND (\"risk\"[tiab] OR \"incidence\"[tiab] OR \"hazard ratio\"[tiab] OR \"relative risk\"[tiab] OR \"odds ratio\"[tiab] OR \"association\"[tiab]) AND (\"cohort study\"[tiab] OR \"cohort studies\"[tiab] OR \"prospective study\"[tiab] OR \"retrospective study\"[tiab] OR \"prospective cohort\"[tiab] OR \"retrospective cohort\"[tiab] OR \"cohort\"[mh])",
+  "status": "ok"
+}

@@ -1,0 +1,8 @@
+{
+  "provider": "gemini",
+  "condition": "without_laws",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41108024_2025",
+  "query": "((\"arthritis, rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[TW]) AND (\"pain\"[Mesh] OR \"pain\"[TW] OR \"analgesics\"[Mesh] OR \"analgesic*\"[TW] OR \"analgesia\"[Mesh] OR \"analgesia\"[TW]) AND (\"randomized controlled trial\"[PT] OR \"controlled clinical trial\"[PT] OR \"randomized\"[TW] OR \"randomised\"[TW] OR \"placebo\"[TW] OR \"trial\"[TIAB] OR \"cohort studies\"[Mesh] OR \"cohort\"[TW] OR \"case-control studies\"[Mesh] OR \"case-control\"[TW]) AND \"humans\"[Mesh] AND (\"adult\"[Mesh] OR \"adult\"[TW]))",
+  "status": "ok"
+}

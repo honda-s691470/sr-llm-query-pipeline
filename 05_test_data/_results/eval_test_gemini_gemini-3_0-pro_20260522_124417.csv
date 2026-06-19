@@ -1,0 +1,2 @@
+generated_at,domain_folder,paper_folder,provider,model,condition,returncode,status,query,query_length,gold_count,total_hits,hit_gold_count,recall,nnr,f1,error_note
+2026-05-22T10:44:18Z,03_Psychiatry,41796365_2026,gemini,gemini-3.0-pro,with_laws_test_eval,1,provider_failed,,0,9,0,0,0.0,0.0,0.0,provider_failed

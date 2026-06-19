@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:23:18Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41781907_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Breast Neoplasms\"[Mesh] OR \"breast cancer\"[tiab] OR \"breast carcinoma\"[tiab] OR \"breast tumour\"[tiab] OR \"breast tumor\"[tiab]) AND (\"Genetic Variation\"[Mesh] OR \"germline\"[tiab] OR \"germline variant\"[tiab] OR \"germline mutation\"[tiab] OR \"single nucleotide polymorphism\"[tiab] OR SNP[tiab] OR \"polymorphism\"[tiab] OR \"BRCA1\"[tiab] OR \"BRCA2\"[tiab] OR \"pathogenic variant\"[tiab] OR \"hereditary\"[tiab])",
+  "query_length": 402,
+  "gold_count": 54,
+  "total_hits": 38473,
+  "hit_gold_count": 53,
+  "recall": 0.9814814814814816,
+  "nnr": 725.9056603773585,
+  "f1": 0.0027513172580268387,
+  "error_note": ""
+}

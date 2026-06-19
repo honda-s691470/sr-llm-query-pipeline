@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-03-17T11:04:28Z",
+  "provider": "gemini",
+  "condition": "without_laws",
+  "paper_folder": "41804118_2026",
+  "domain_folder": "03_Psychiatry",
+  "status": "ok",
+  "query": "(Depression[Mesh] OR Depressive Disorder[Mesh] OR depression[tiab] OR depressive[tiab]) AND (Asia, Western[Mesh] OR Asia, Central[Mesh] OR \"south asian*\"[tiab] OR indian*[tiab] OR pakistani*[tiab] OR bangladeshi*[tiab] OR sri lankan*[tiab] OR afghan*[tiab] OR nepalese[tiab]) AND (United Kingdom[Mesh] OR United States[Mesh] OR Canada[Mesh] OR Australia[Mesh] OR New Zealand[Mesh] OR UK[tiab] OR USA[tiab] OR Canada[tiab] OR Australia[tiab] OR \"new zealand\"[tiab] OR diaspora*[tiab])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\manual_gemini\\03_Psychiatry\\41804118_2026\\without_laws"
+}

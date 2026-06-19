@@ -1,0 +1,24 @@
+{
+  "query": "(\"Depression\"[Mesh] OR \"Depressive Disorder\"[Mesh] OR depression[tiab] OR \"depressive symptoms\"[tiab] OR \"mental distress\"[tiab]) AND (Pakistani[tiab] OR Bangladeshi[tiab] OR Indian[tiab] OR \"South Asian\"[tiab] OR \"Asian diaspora\"[tiab] OR diaspora[tiab] OR immigrant*[tiab] OR \"ethnic minority\"[tiab] OR Afghan[tiab] OR Nepalese[tiab] OR \"Sri Lankan\"[tiab] OR \"United Kingdom\"[Mesh] OR \"United States\"[Mesh] OR \"Canada\"[Mesh] OR \"Australia\"[Mesh] OR UK[tiab] OR USA[tiab] OR Canada[tiab] OR Australia[tiab] OR \"New Zealand\"[tiab])",
+  "query_path": "05_test_data\\03_Psychiatry\\41804118_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data\\03_Psychiatry\\41804118_2026\\input_config_detailed.json",
+  "total_hits": 64404,
+  "recall": 0.875,
+  "found_count": 7,
+  "total_gold": 8,
+  "mode": "open",
+  "timestamp_unix": 1781083237,
+  "missed_pmids": [
+    "8636920"
+  ],
+  "found_pmids": [
+    "10939423",
+    "11459379",
+    "15551723",
+    "16838089",
+    "19857378",
+    "28786331",
+    "8588535"
+  ],
+  "missed_count": 1
+}

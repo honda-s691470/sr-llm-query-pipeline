@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-03-17T11:04:28Z",
+  "provider": "gemini",
+  "condition": "without_laws",
+  "paper_folder": "41708995_2026",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "status": "ok",
+  "query": "(Ischemic Stroke[Mesh] OR \"ischemic stroke*\"[tiab] OR \"ischaemic stroke*\"[tiab] OR AIS[tiab]) AND (Biomarkers[Mesh] OR biomarker*[tiab] OR \"fluid biomarker*\"[tiab] OR protein*[tiab] OR metabolite*[tiab]) AND (\"stroke mimic*\"[tiab] OR mimic*[tiab])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\manual_gemini\\02_Cardiovascular_Disease\\41708995_2026\\without_laws"
+}

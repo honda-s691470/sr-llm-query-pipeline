@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "03_Psychiatry",
+  "paper_folder": "41802227_2026",
+  "query": "(anxiety[tiab] OR \"anxiety disorder\"[tiab] OR \"generalized anxiety\"[tiab] OR \"anxiety symptoms\"[tiab] OR \"Anxiety Disorders\"[MeSH Terms] OR \"Anxiety\"[MeSH Terms]) AND (wearable[tiab] OR wearables[tiab] OR \"wrist-worn\"[tiab] OR \"wrist worn\"[tiab] OR smartwatch[tiab] OR smartwatches[tiab] OR \"smart watch\"[tiab] OR fitbit[tiab] OR actigraphy[tiab] OR accelerometer[tiab] OR \"Wearable Electronic Devices\"[MeSH Terms] OR \"Actigraphy\"[MeSH Terms]) AND (\"digital biomarker\"[tiab] OR \"digital biomarkers\"[tiab] OR \"heart rate\"[tiab] OR \"heart rate variability\"[tiab] OR \"HRV\"[tiab] OR \"sleep\"[tiab] OR \"physical activity\"[tiab] OR \"step count\"[tiab] OR \"skin conductance\"[tiab] OR \"electrodermal\"[tiab] OR \"galvanic skin\"[tiab] OR \"photoplethysmography\"[tiab] OR \"PPG\"[tiab] OR \"accelerometry\"[tiab] OR \"movement\"[tiab])",
+  "status": "ok"
+}

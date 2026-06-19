@@ -1,0 +1,8 @@
+{
+  "provider": "gemini",
+  "condition": "without_laws",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41224700_2025",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR \"RA\"[tiab]) AND (\"Contraceptives, Oral\"[Mesh] OR \"oral contraceptive*\"[tiab] OR \"oral contraception\"[tiab] OR \"OC\"[tiab] OR \"birth control pill*\"[tiab]) AND (\"Cohort Studies\"[Mesh] OR cohort*[tiab] OR prospective*[tiab] OR retrospective*[tiab])",
+  "status": "ok"
+}

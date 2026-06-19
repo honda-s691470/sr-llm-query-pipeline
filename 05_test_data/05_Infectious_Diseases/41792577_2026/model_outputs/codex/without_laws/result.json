@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-13T15:37:36Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41792577_2026",
+  "domain_folder": "05_Infectious_Diseases",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Smallpox Vaccine\"[Mesh] OR (smallpox[tiab] AND vaccin*[tiab]) OR (monkeypox[tiab] AND vaccin*[tiab]) OR (mpox[tiab] AND vaccin*[tiab]) OR (vaccinia[tiab] AND vaccin*[tiab]) OR \"MVA-BN\"[tiab] OR \"MVA BN\"[tiab] OR \"modified vaccinia Ankara\"[tiab] OR JYNNEOS[tiab] OR IMVANEX[tiab] OR IMVAMUNE[tiab] OR ACAM2000[tiab] OR Dryvax[tiab] OR LC16m8[tiab] OR NYCBH[tiab] OR \"Aventis Pasteur Smallpox Vaccine\"[tiab] OR APSV[tiab]) AND (\"Pregnancy\"[Mesh] OR pregnan*[tiab] OR maternal[tiab] OR antenatal[tiab] OR prenatal[tiab] OR \"Infant, Newborn\"[Mesh] OR \"Infant\"[Mesh] OR \"Child\"[Mesh] OR \"Adolescent\"[Mesh] OR neonat*[tiab] OR newborn*[tiab] OR infant*[tiab] OR child*[tiab] OR adolescen*[tiab] OR pediatric*[tiab] OR paediatric*[tiab] OR teen*[tiab]))",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260313_162438\\codex\\05_Infectious_Diseases\\41792577_2026\\without_laws"
+}

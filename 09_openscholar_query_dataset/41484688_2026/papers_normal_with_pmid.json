@@ -1,0 +1,1836 @@
+{
+  "papers": [
+    {
+      "title": "Diagnosis of Early Rheumatoid Arthritis: what the Non-Specialist Needs to Know",
+      "authors": [
+        {
+          "name": "E. Suresh",
+          "id": "39550098"
+        }
+      ],
+      "year": 2004,
+      "venue": "unknown",
+      "score": 0.8013052938239065,
+      "abstract": "",
+      "corpusId": 208259354,
+      "url": "https://doi.org/10.1177/014107680409700903",
+      "pubmed_id": "15340020",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1177/014107680409700903",
+        "matched_title": "Diagnosis of early rheumatoid arthritis: what the non-specialist needs to know.",
+        "matched_pubdate": "2004 Sep",
+        "matched_source": "J R Soc Med"
+      }
+    },
+    {
+      "title": "The journey of rheumatoid arthritis patients: a review of reported lag times from the onset of symptoms",
+      "authors": [
+        {
+          "name": "A. S. Barhamain",
+          "id": "22734326"
+        },
+        {
+          "name": "Rami Magliah",
+          "id": "22715075"
+        },
+        {
+          "name": "Mohammad H. Shaheen",
+          "id": "22815513"
+        },
+        {
+          "name": "Shurooq F Munassar",
+          "id": "22783859"
+        },
+        {
+          "name": "A. M. Falemban",
+          "id": "22770009"
+        },
+        {
+          "name": "M. M. Alshareef",
+          "id": "2333801229"
+        },
+        {
+          "name": "Hani M Almoallim",
+          "id": "3946761"
+        }
+      ],
+      "year": 2017,
+      "venue": "Open Access Rheumatology : Research and Reviews",
+      "score": 0.7949694720326417,
+      "abstract": "Background Even after achieving tremendous advances in diagnosis and treatment of rheumatoid arthritis (RA), many of the patients undergo delays in diagnosis and initiation of treatment, which leads to worsening of the condition and poor prognosis. Objective The objective of this study was to perform a literature review to quantify the lag times in diagnosis and treatment of RA and study the reported factors associated with it. Methods The authors searched literature published until September 2016 in electronic full-text and abstract databases and hand-searched the suitable articles. Results The weighted average of median lag time from symptom onset to therapy was 11.79 months (12 studies, 5,512 patients, range 3.6–24.0 months). Lag1 was 3.14 months (onset of symptoms to first physician consultant; 12 studies, 6,055 patients, range 0–5.7 months); lag2 was 2.13 months (physician visit to RA specialist referral; 13 studies, 34,767 patients, range 0.5–6.6 months); lag3 was 2.91 months (consultation with rheumatologist to diagnosis; 3 studies, 563 patients, range 0–5 months), lag4 was 2.14 months (diagnosis to initiation of disease-modifying antirheumatic drug therapy; 5 studies, 30,685 patients, range 0–2.2 months). Numerous patient-and physician-related factors like gender, ethnicity, primary care physician knowledge of the condition, availability of diagnostics, and so on were responsible for the delays. Conclusion This review estimated the delay times and identified the main factors for delay in RA patients in diagnosis and initiation of treatment. A most plausible solution to this is coordinated effort by the rheumatology and primary care physicians.",
+      "corpusId": 26250954,
+      "url": "https://api.semanticscholar.org/CorpusId:26250954",
+      "pubmed_id": "28814904",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2147/oarrr.s138830",
+        "matched_title": "The journey of rheumatoid arthritis patients: a review of reported lag times from the onset of symptoms.",
+        "matched_pubdate": "2017",
+        "matched_source": "Open Access Rheumatol"
+      }
+    },
+    {
+      "title": "Determining early referral criteria for patients with suspected inflammatory arthritis presenting to primary care physicians: a cross-sectional study",
+      "authors": [
+        {
+          "name": "Hani M Almoallim",
+          "id": "3946761"
+        },
+        {
+          "name": "N. Janoudi",
+          "id": "3631474"
+        },
+        {
+          "name": "S. Attar",
+          "id": "4330513"
+        },
+        {
+          "name": "Mohammed A. Garout",
+          "id": "5949514"
+        },
+        {
+          "name": "S. Algohary",
+          "id": "10706580"
+        },
+        {
+          "name": "M. I. Siddiqui",
+          "id": "27404997"
+        },
+        {
+          "name": "Hanan Alosaimi",
+          "id": "2084853688"
+        },
+        {
+          "name": "A. Ibrahim",
+          "id": "50304675"
+        },
+        {
+          "name": "Amira Badokhon",
+          "id": "10762643"
+        },
+        {
+          "name": "Z. Algasemi",
+          "id": "10680744"
+        }
+      ],
+      "year": 2017,
+      "venue": "Open Access Rheumatology : Research and Reviews",
+      "score": 0.7212060812095012,
+      "abstract": "Objective Early diagnosis and initiation of treatment for inflammatory arthritis can greatly improve patient outcome. We aimed to provide standardized and validated criteria for use by primary care physicians (PCPs) in the identification of individuals requiring referral to a rheumatologist. Patients and methods We analyzed the predictive value of a wide variety of demographic variables, patient-reported complaints, physical examination results, and biomarkers in order to identify the most useful factors for indicating a requirement for referral. Patients for this cross-sectional study were enrolled from various centers of the city of Jeddah, Saudi Arabia, if they were ≥18 years of age and presented to a PCP with small joint pain that had been present for more than 6 weeks. A total of 203 patients were enrolled, as indicated by the sample size calculation. Each patient underwent a standardized physical examination, which was subsequently compared to ultrasound findings. Biomarker analysis and a patient interview were also carried out. Results were then correlated with the final diagnosis made by a rheumatologist. Results A total of 9 variables were identified as having high specificity and good predictive value: loss of appetite, swelling of metacarpophalangeal joint 2 or 5, swelling of proximal inter-phalangeal joint 2 or 3, wrist swelling, wrist tenderness, a positive test for rheumatoid factor, and a positive test for anti-citrullinated protein antibodies. Conclusion Nine variables should be the basis of early referral criteria. It should aid PCPs in making appropriate early referrals of patients with suspected inflammatory arthritis, accelerating diagnosis and initiation of treatment.",
+      "corpusId": 35052778,
+      "url": "https://api.semanticscholar.org/CorpusId:35052778",
+      "pubmed_id": "28490909",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2147/oarrr.s134780",
+        "matched_title": "Determining early referral criteria for patients with suspected inflammatory arthritis presenting to primary care physicians: a cross-sectional study.",
+        "matched_pubdate": "2017",
+        "matched_source": "Open Access Rheumatol"
+      }
+    },
+    {
+      "title": "Clinimetric properties of the Chinese version of the early inflammatory arthritis detection tool",
+      "authors": [
+        {
+          "name": "Ming-Chi Lu",
+          "id": "3486918"
+        },
+        {
+          "name": "M. Koo",
+          "id": "145763162"
+        },
+        {
+          "name": "N. Lai",
+          "id": "145549429"
+        }
+      ],
+      "year": 2015,
+      "venue": "BMC Musculoskeletal Disorders",
+      "score": 0.6920254514225781,
+      "abstract": "BackgroundTimely rheumatologic referral and management are crucial for patients with potential inflammatory arthritis. To meet this need, tools such as the early inflammatory arthritis (EIA) detection tool was developed and has been evaluated in Western populations. The aims of this study were to translate the English version of the EIA detection tool to Chinese and to determine its clinimetric properties in Taiwanese patients.MethodsTwenty controls and 111 patients with established diagnosis of osteoarthritis, rheumatoid arthritis, systemic autoimmune diseases, psoriatic arthritis, and ankylosing spondylitis were recruited from a regional hospital in south Taiwan. Multivariate logistic regression analysis was used to evaluate the independent and significant variables associated with diagnosis by rheumatologists. A prediction model was also developed for differentiating between patients with inflammatory arthritis and those with non-inflammatory arthritis musculoskeletal conditions.ResultsThe Chinese version of the EIA detection tool showed acceptable internal consistency (KR-20 coefficient 0.78) and test-retest reliability (κ statistic ranged from 0.43 to 0.94). A prediction model consisting of three EIA detection tool items (joint pain, swelling in hands or wrists, and ever been told to have rheumatoid arthritis) and sex was able to differentiate inflammatory arthritis and non-inflammatory arthritis musculoskeletal conditions with a sensitivity of 0.84, a specificity of 0.86, a positive predictive value of 0.92, and a negative predictive value of 0.76.ConclusionsThe Chinese version of the EIA detection tool showed good clinimetric properties in this study population and it can be used to differentiate Taiwanese patients with inflammatory arthritis and non-inflammatory arthritis musculoskeletal conditions.",
+      "corpusId": 1876747,
+      "url": "https://api.semanticscholar.org/CorpusId:1876747",
+      "pubmed_id": "26346703",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12891-015-0706-z",
+        "matched_title": "Clinimetric properties of the Chinese version of the early inflammatory arthritis detection tool.",
+        "matched_pubdate": "2015 Sep 7",
+        "matched_source": "BMC Musculoskelet Disord"
+      }
+    },
+    {
+      "title": "Development and assessment of a predictive model for early diagnosis of rheumatoid arthritis in southwest China: A new nomogram",
+      "authors": [
+        {
+          "name": "Naidan Zhang",
+          "id": "1439446561"
+        },
+        {
+          "name": "Chai Ji",
+          "id": "2052295925"
+        },
+        {
+          "name": "X. Bao",
+          "id": "1516141457"
+        },
+        {
+          "name": "Chengliang Yuan",
+          "id": "47177385"
+        }
+      ],
+      "year": 2023,
+      "venue": "Medicine",
+      "score": 0.6393578854092338,
+      "abstract": "Rheumatoid arthritis (RA) is a disease complicated with inflammatory synovitis, which seriously affects the life quality of patients. Early diagnosis is important for prognosis of RA. Here, we aimed to develop and assess a model for early diagnosis of RA in southwest China. A nomogram including 44 patients with an early diagnosis of RA was developed. Variables were filtered by least absolute contraction selection operator and multiple logistic regression. The efficiency and clinical application range were evaluated. This nomogram showed that rheumatoid factor, erythrocyte sedimentation rate, RA33, facet joint and knee joint had high positive predictive value for RA. The area under curve was 0.920 [95% confidence interval (CI): 0.865–0.975]. In the validation model, area under curve was 0.942 (95% CI: 0.893–0.991). Calibration and decision curve suggested that this nomogram was helpful within the threshold probability range of 0.02 to 1.00. Using this nomogram will help clinicians in the early diagnosis of RA. Laboratory indicators such as rheumatoid factor, erythrocyte sedimentation rate, RA33, and clinical symptoms such as morning stiffness, facet joint and knee joint are very important, which deserves the attention of clinicians.",
+      "corpusId": 257714879,
+      "url": "https://api.semanticscholar.org/CorpusId:257714879",
+      "pubmed_id": "36961142",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1097/md.0000000000033386",
+        "matched_title": "Development and assessment of a predictive model for early diagnosis of rheumatoid arthritis in southwest China: A new nomogram.",
+        "matched_pubdate": "2023 Mar 24",
+        "matched_source": "Medicine (Baltimore)"
+      }
+    },
+    {
+      "title": "Classification criteria of early rheumatoid arthritis and validation of its performance in a multi-centre cohort.",
+      "authors": [
+        {
+          "name": "Jinxia Zhao",
+          "id": "2339435849"
+        },
+        {
+          "name": "Yin Su",
+          "id": "48576611"
+        },
+        {
+          "name": "Ru Li",
+          "id": "117020624"
+        },
+        {
+          "name": "H. Ye",
+          "id": "9753112"
+        },
+        {
+          "name": "Q-F Zou",
+          "id": "103381773"
+        },
+        {
+          "name": "Yongfei Fang",
+          "id": "3099340"
+        },
+        {
+          "name": "Huaxiang Liu",
+          "id": "8424693"
+        },
+        {
+          "name": "Xing-fu Li",
+          "id": "6674915"
+        },
+        {
+          "name": "Jialong Guo",
+          "id": "8572889"
+        },
+        {
+          "name": "L. Bi",
+          "id": "35244755"
+        },
+        {
+          "name": "F. Gu",
+          "id": "144948110"
+        },
+        {
+          "name": "Lingyun Sun",
+          "id": "51040239"
+        },
+        {
+          "name": "Y. Mei",
+          "id": "15008641"
+        },
+        {
+          "name": "Zhiyi Zhang",
+          "id": "2019868725"
+        },
+        {
+          "name": "Li-na Chen",
+          "id": "2115513288"
+        },
+        {
+          "name": "P. Zhu",
+          "id": "144180895"
+        },
+        {
+          "name": "Guangtao Li",
+          "id": "46438965"
+        },
+        {
+          "name": "Zhuoli Zhang",
+          "id": "1664651693"
+        },
+        {
+          "name": "X. Leng",
+          "id": "50176591"
+        },
+        {
+          "name": "Yan Zhao",
+          "id": "2213350531"
+        },
+        {
+          "name": "Li Jiang",
+          "id": "2112640944"
+        },
+        {
+          "name": "H. Zou",
+          "id": "6641417"
+        },
+        {
+          "name": "Yi Zhao",
+          "id": "2143936033"
+        },
+        {
+          "name": "Yi Liu",
+          "id": "2153629905"
+        },
+        {
+          "name": "Lei Li",
+          "id": "2151533123"
+        },
+        {
+          "name": "Hongyuan Wang",
+          "id": "49528116"
+        },
+        {
+          "name": "Xiangyuan Liu",
+          "id": "3060255"
+        },
+        {
+          "name": "Zhanguo Li",
+          "id": "115419430"
+        }
+      ],
+      "year": 2014,
+      "venue": "Clinical and Experimental Rheumatology",
+      "score": 0.63641019517975,
+      "abstract": "",
+      "corpusId": 35155917,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/25190289",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Rheumatoid arthritis classifi cation criteria : an American College of Rheumatology / European League Against Rheumatism collaborative initiative",
+      "authors": [
+        {
+          "name": "D. Aletaha",
+          "id": "5935354"
+        },
+        {
+          "name": "T. Neogi",
+          "id": "3301474"
+        },
+        {
+          "name": "A. Silman",
+          "id": "77994979"
+        },
+        {
+          "name": "Julia Funovits",
+          "id": "9882678"
+        },
+        {
+          "name": "D. Felson",
+          "id": "1969437"
+        },
+        {
+          "name": "C. Bingham",
+          "id": "5906337"
+        },
+        {
+          "name": "N. Birnbaum",
+          "id": "8594303"
+        },
+        {
+          "name": "G. Burmester",
+          "id": "5812443"
+        },
+        {
+          "name": "V. Bykerk",
+          "id": "6731582"
+        },
+        {
+          "name": "M. Cohen",
+          "id": "2111361841"
+        },
+        {
+          "name": "B. Combe",
+          "id": "12729201"
+        },
+        {
+          "name": "K. Costenbader",
+          "id": "3510819"
+        },
+        {
+          "name": "M. Dougados",
+          "id": "28311545"
+        },
+        {
+          "name": "P. Emery",
+          "id": "144375041"
+        },
+        {
+          "name": "G. Ferraccioli",
+          "id": "50275306"
+        },
+        {
+          "name": "J. Hazes",
+          "id": "4712446"
+        },
+        {
+          "name": "K. Hobbs",
+          "id": "49919967"
+        },
+        {
+          "name": "T. Huizinga",
+          "id": "145220106"
+        },
+        {
+          "name": "A. Kavanaugh",
+          "id": "152159323"
+        },
+        {
+          "name": "J. Kay",
+          "id": "144957140"
+        },
+        {
+          "name": "T. Kvien",
+          "id": "5230112"
+        },
+        {
+          "name": "T. Laing",
+          "id": "1822068"
+        },
+        {
+          "name": "P. Mease",
+          "id": "6092548"
+        },
+        {
+          "name": "H. Ménard",
+          "id": "4652140"
+        },
+        {
+          "name": "L. Moreland",
+          "id": "143923757"
+        },
+        {
+          "name": "R. Naden",
+          "id": "8208965"
+        },
+        {
+          "name": "T. Pincus",
+          "id": "4471338"
+        },
+        {
+          "name": "J. Smolen",
+          "id": "144593831"
+        },
+        {
+          "name": "E. Stanisławska-Biernat",
+          "id": "1403350600"
+        },
+        {
+          "name": "D. Symmons",
+          "id": "3609537"
+        },
+        {
+          "name": "P. Tak",
+          "id": "6006074"
+        },
+        {
+          "name": "K. Upchurch",
+          "id": "47113795"
+        },
+        {
+          "name": "Í. Vencovský",
+          "id": "2085976407"
+        },
+        {
+          "name": "F. Wolfe",
+          "id": "144408777"
+        },
+        {
+          "name": "G. Hawker",
+          "id": "145303338"
+        }
+      ],
+      "year": 2010,
+      "venue": "unknown",
+      "score": 0.6250300690668144,
+      "abstract": "",
+      "corpusId": 1191830,
+      "url": "https://api.semanticscholar.org/CorpusId:1191830",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "2010 Rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative.",
+      "authors": [
+        {
+          "name": "D. Aletaha",
+          "id": "5935354"
+        },
+        {
+          "name": "T. Neogi",
+          "id": "3301474"
+        },
+        {
+          "name": "A. Silman",
+          "id": "2239463852"
+        },
+        {
+          "name": "Julia Funovits",
+          "id": "9882678"
+        },
+        {
+          "name": "D. Felson",
+          "id": "1969437"
+        },
+        {
+          "name": "C. Bingham",
+          "id": "5906337"
+        },
+        {
+          "name": "Neal S Birnbaum",
+          "id": "2239462378"
+        },
+        {
+          "name": "G. Burmester",
+          "id": "2056564187"
+        },
+        {
+          "name": "V. Bykerk",
+          "id": "6731582"
+        },
+        {
+          "name": "M. Cohen",
+          "id": "2111361841"
+        },
+        {
+          "name": "B. Combe",
+          "id": "12729201"
+        },
+        {
+          "name": "K. Costenbader",
+          "id": "3510819"
+        },
+        {
+          "name": "M. Dougados",
+          "id": "2240266167"
+        },
+        {
+          "name": "P. Emery",
+          "id": "2238268808"
+        },
+        {
+          "name": "G. Ferraccioli",
+          "id": "2091438611"
+        },
+        {
+          "name": "J. Hazes",
+          "id": "4712446"
+        },
+        {
+          "name": "K. Hobbs",
+          "id": "49919967"
+        },
+        {
+          "name": "T. Huizinga",
+          "id": "2239464176"
+        },
+        {
+          "name": "A. Kavanaugh",
+          "id": "2078924916"
+        },
+        {
+          "name": "Jonathan Kay",
+          "id": "2235212848"
+        },
+        {
+          "name": "T. Kvien",
+          "id": "5230112"
+        },
+        {
+          "name": "Timothy J. Laing",
+          "id": "2239460384"
+        },
+        {
+          "name": "P. Mease",
+          "id": "6092548"
+        },
+        {
+          "name": "Henri A. Ménard",
+          "id": "2262587286"
+        },
+        {
+          "name": "Larry W. Moreland",
+          "id": "2238269136"
+        },
+        {
+          "name": "R. Naden",
+          "id": "8208965"
+        },
+        {
+          "name": "Theodore Pincus",
+          "id": "2239315668"
+        },
+        {
+          "name": "J. Smolen",
+          "id": "2237806762"
+        },
+        {
+          "name": "E. Stanisławska-Biernat",
+          "id": "1403350600"
+        },
+        {
+          "name": "D. Symmons",
+          "id": "3609537"
+        },
+        {
+          "name": "P. Tak",
+          "id": "6006074"
+        },
+        {
+          "name": "K. Upchurch",
+          "id": "47113795"
+        },
+        {
+          "name": "J. Vencovský",
+          "id": "2208914669"
+        },
+        {
+          "name": "F. Wolfe",
+          "id": "2237719062"
+        },
+        {
+          "name": "G. Hawker",
+          "id": "2070319984"
+        }
+      ],
+      "year": 2010,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.6158942135719494,
+      "abstract": "",
+      "corpusId": 261725984,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/20872595",
+      "pubmed_id": "20872595",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/art.27584",
+        "matched_title": "2010 Rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative.",
+        "matched_pubdate": "2010 Sep",
+        "matched_source": "Arthritis Rheum"
+      }
+    },
+    {
+      "title": "The 2010 American College of Rheumatology/European League Against Rheumatism classification criteria for rheumatoid arthritis: Phase 2 methodological report.",
+      "authors": [
+        {
+          "name": "T. Neogi",
+          "id": "3301474"
+        },
+        {
+          "name": "D. Aletaha",
+          "id": "5935354"
+        },
+        {
+          "name": "A. Silman",
+          "id": "77994979"
+        },
+        {
+          "name": "R. Naden",
+          "id": "8208965"
+        },
+        {
+          "name": "D. Felson",
+          "id": "1969437"
+        },
+        {
+          "name": "R. Aggarwal",
+          "id": "2977981"
+        },
+        {
+          "name": "C. Bingham",
+          "id": "5906337"
+        },
+        {
+          "name": "N. Birnbaum",
+          "id": "8594303"
+        },
+        {
+          "name": "G. Burmester",
+          "id": "5812443"
+        },
+        {
+          "name": "V. Bykerk",
+          "id": "6731582"
+        },
+        {
+          "name": "M. Cohen",
+          "id": "2111361841"
+        },
+        {
+          "name": "B. Combe",
+          "id": "12729201"
+        },
+        {
+          "name": "K. Costenbader",
+          "id": "3510819"
+        },
+        {
+          "name": "M. Dougados",
+          "id": "28311545"
+        },
+        {
+          "name": "P. Emery",
+          "id": "144375041"
+        },
+        {
+          "name": "G. Ferraccioli",
+          "id": "50275306"
+        },
+        {
+          "name": "J. Hazes",
+          "id": "4712446"
+        },
+        {
+          "name": "K. Hobbs",
+          "id": "49919967"
+        },
+        {
+          "name": "T. Huizinga",
+          "id": "145220106"
+        },
+        {
+          "name": "A. Kavanaugh",
+          "id": "152159323"
+        },
+        {
+          "name": "J. Kay",
+          "id": "144957140"
+        },
+        {
+          "name": "D. Khanna",
+          "id": "144998963"
+        },
+        {
+          "name": "T. Kvien",
+          "id": "5230112"
+        },
+        {
+          "name": "T. Laing",
+          "id": "1822068"
+        },
+        {
+          "name": "K. Liao",
+          "id": "38625334"
+        },
+        {
+          "name": "P. Mease",
+          "id": "6092548"
+        },
+        {
+          "name": "H. Ménard",
+          "id": "4652140"
+        },
+        {
+          "name": "L. Moreland",
+          "id": "143923757"
+        },
+        {
+          "name": "R. Nair",
+          "id": "40523910"
+        },
+        {
+          "name": "T. Pincus",
+          "id": "4471338"
+        },
+        {
+          "name": "S. Ringold",
+          "id": "6644747"
+        },
+        {
+          "name": "J. Smolen",
+          "id": "144593831"
+        },
+        {
+          "name": "E. Stanisławska-Biernat",
+          "id": "1403350600"
+        },
+        {
+          "name": "D. Symmons",
+          "id": "3609537"
+        },
+        {
+          "name": "P. Tak",
+          "id": "6006074"
+        },
+        {
+          "name": "K. Upchurch",
+          "id": "47113795"
+        },
+        {
+          "name": "J. Vencovský",
+          "id": "4078783"
+        },
+        {
+          "name": "F. Wolfe",
+          "id": "144408777"
+        },
+        {
+          "name": "G. Hawker",
+          "id": "145303338"
+        }
+      ],
+      "year": 2010,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.6146206401996689,
+      "abstract": "",
+      "corpusId": 2382087,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/20872596",
+      "pubmed_id": "20872596",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/art.27580",
+        "matched_title": "The 2010 American College of Rheumatology/European League Against Rheumatism classification criteria for rheumatoid arthritis: Phase 2 methodological report.",
+        "matched_pubdate": "2010 Sep",
+        "matched_source": "Arthritis Rheum"
+      }
+    },
+    {
+      "title": "Sensitivity and specificity of the American College of Rheumatology 1987 criteria for the diagnosis of rheumatoid arthritis according to disease duration: a systematic literature review and meta-analysis",
+      "authors": [
+        {
+          "name": "F. Banal",
+          "id": "2083396445"
+        },
+        {
+          "name": "M. Dougados",
+          "id": "28311545"
+        },
+        {
+          "name": "C. Combescure",
+          "id": "3920486"
+        },
+        {
+          "name": "L. Gossec",
+          "id": "6012850"
+        }
+      ],
+      "year": 2008,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.6066252864415523,
+      "abstract": "",
+      "corpusId": 23642699,
+      "url": "https://doi.org/10.1136/ard.2008.093187",
+      "pubmed_id": "18728049",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/ard.2008.093187",
+        "matched_title": "Sensitivity and specificity of the American College of Rheumatology 1987 criteria for the diagnosis of rheumatoid arthritis according to disease duration: a systematic literature review and meta-analysis.",
+        "matched_pubdate": "2009 Jul",
+        "matched_source": "Ann Rheum Dis"
+      }
+    },
+    {
+      "title": "Performance of the 2010 ACR/EULAR classification criteria for rheumatoid arthritis: a systematic literature review",
+      "authors": [
+        {
+          "name": "H. Radner",
+          "id": "5609786"
+        },
+        {
+          "name": "T. Neogi",
+          "id": "3301474"
+        },
+        {
+          "name": "J. Smolen",
+          "id": "144593831"
+        },
+        {
+          "name": "D. Aletaha",
+          "id": "5935354"
+        }
+      ],
+      "year": 2013,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.6043198208782394,
+      "abstract": "",
+      "corpusId": 24469714,
+      "url": "https://doi.org/10.1136/annrheumdis-2013-203284",
+      "pubmed_id": "23592710",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/annrheumdis-2013-203284",
+        "matched_title": "Performance of the 2010 ACR/EULAR classification criteria for rheumatoid arthritis: a systematic literature review.",
+        "matched_pubdate": "2014 Jan",
+        "matched_source": "Ann Rheum Dis"
+      }
+    },
+    {
+      "title": "Performance of the 2010 Classification Criteria for Rheumatoid Arthritis: A Systematic Literature Review and a Meta-Analysis",
+      "authors": [
+        {
+          "name": "G. Sakellariou",
+          "id": "34190205"
+        },
+        {
+          "name": "C. Scirè",
+          "id": "4065714"
+        },
+        {
+          "name": "A. Zambon",
+          "id": "35277276"
+        },
+        {
+          "name": "R. Caporali",
+          "id": "2535511"
+        },
+        {
+          "name": "C. Montecucco",
+          "id": "47702438"
+        }
+      ],
+      "year": 2013,
+      "venue": "PLoS ONE",
+      "score": 0.6021816952735191,
+      "abstract": "Objectives To evaluate the performance of the American College of Rheumatology (ACR)/European League Against Rheumatism (EULAR) 2010 classification criteria for rheumatoid arthritis (RA) with a systematic literature review and a meta-analysis. Methods PubMed, Embase, Cochrane Library and the abstracts of the ACR and EULAR meetings (2010–2012) were searched for original articles or abstracts with the following inclusion criteria: 1) recent onset arthritis, with at least one swollen joint and no alternative diagnosis; 2) the ACR/EULAR 2010 criteria as index test; 3) the prescription of methotrexate (MTX) or disease modifying antirheumatic drugs (DMARDs) at any time during follow-up as reference standard. Data were pooled using the bivariate model. Three meta-analyses were performed with MTX (primary analysis), DMARDs or their combination (secondary analyses) as reference standard. Heterogeneity was formally tested and explored performing an influence analysis. Results The search identified 1,277 references. Six full papers and 4 abstracts met the inclusion criteria. With MTX as reference standard, sensitivity (95% confidence interval, CI) was 0.80 (0.74,0.85), specificity 0.61 (0.56,0.67), positive likelihood ratio (LR) 2.11 (1.92,2.32), negative LR 0.31 (0.25,0.38) and the diagnostic odds ratio (DOR) was 6.74 (5.49,8.28). Using DMARDs as reference standard, sensitivity was 0.73 (0.64,0.80), specificity was 0.74 (0.68,0.79), LR+2.85 (2.53,3.22), LR− 0.35 (0.27,0.45) and DOR 8.03 (6.4,10.09). Using the combination of MTX and DMARDs as reference standard, intermediate results were obtained. The influence analysis detected one potentially influential study. However, its exclusion from the meta-analysis did not have a clinically relevant impact on the results. Conclusions The new classification criteria have good sensitivity, lower specificity and an overall moderate diagnostic accuracy. These results confirm that the criteria have classificative and not diagnostic function.",
+      "corpusId": 1681518,
+      "url": "https://api.semanticscholar.org/CorpusId:1681518",
+      "pubmed_id": "23437156",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0056528",
+        "matched_title": "Performance of the 2010 classification criteria for rheumatoid arthritis: a systematic literature review and a meta-analysis.",
+        "matched_pubdate": "2013",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "The 2010 American College of Rheumatology/European League Against Rheumatism classification criteria for rheumatoid arthritis: Methodological Report Phase I",
+      "authors": [
+        {
+          "name": "Julia Funovits",
+          "id": "9882678"
+        },
+        {
+          "name": "D. Aletaha",
+          "id": "5935354"
+        },
+        {
+          "name": "V. Bykerk",
+          "id": "6731582"
+        },
+        {
+          "name": "B. Combe",
+          "id": "12729201"
+        },
+        {
+          "name": "M. Dougados",
+          "id": "28311545"
+        },
+        {
+          "name": "P. Emery",
+          "id": "144375041"
+        },
+        {
+          "name": "D. Felson",
+          "id": "1969437"
+        },
+        {
+          "name": "G. Hawker",
+          "id": "145303338"
+        },
+        {
+          "name": "J. Hazes",
+          "id": "4712446"
+        },
+        {
+          "name": "T. Huizinga",
+          "id": "145220106"
+        },
+        {
+          "name": "J. Kay",
+          "id": "144957140"
+        },
+        {
+          "name": "T. Kvien",
+          "id": "5230112"
+        },
+        {
+          "name": "J. Smolen",
+          "id": "144593831"
+        },
+        {
+          "name": "D. Symmons",
+          "id": "3609537"
+        },
+        {
+          "name": "P. Tak",
+          "id": "6006074"
+        },
+        {
+          "name": "A. Silman",
+          "id": "77994979"
+        }
+      ],
+      "year": 2010,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.596792348717776,
+      "abstract": "",
+      "corpusId": 38243554,
+      "url": "https://doi.org/10.1136/ard.2010.130310",
+      "pubmed_id": "20699242",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/ard.2010.130310",
+        "matched_title": "The 2010 American College of Rheumatology/European League Against Rheumatism classification criteria for rheumatoid arthritis: methodological report phase I.",
+        "matched_pubdate": "2010 Sep",
+        "matched_source": "Ann Rheum Dis"
+      }
+    },
+    {
+      "title": "Misdiagnosis of Rheumatoid Arthritis in a Long-Term Cohort of Early Arthritis Based on the ACR-1987 Classification Criteria",
+      "authors": [
+        {
+          "name": "M. Leu Agelii",
+          "id": "134422686"
+        },
+        {
+          "name": "I. Hafström",
+          "id": "5141901"
+        },
+        {
+          "name": "B. Svensson",
+          "id": "144345571"
+        },
+        {
+          "name": "S. Ajeganova",
+          "id": "4738567"
+        },
+        {
+          "name": "K. Forslind",
+          "id": "6393362"
+        },
+        {
+          "name": "M. Andersson",
+          "id": "153428275"
+        },
+        {
+          "name": "I. Gjertsson",
+          "id": "6863679"
+        }
+      ],
+      "year": 2022,
+      "venue": "Open Access Rheumatology : Research and Reviews",
+      "score": 0.5948097155576646,
+      "abstract": "Objective Correct diagnosis of early rheumatoid arthritis (RA) is essential for optimal treatment choices. No pathognomonic test is available, and diagnosis is based on classification criteria, which can result in misdiagnosis. Here, we examined the differences between actual and misdiagnosed RA cases in a long-term cohort of patients included based on the ACR-1987 classification criteria. Methods Patients in the BARFOT (Better Anti-Rheumatic PharmacOTherapy) cohort (n=2543) with at least four follow-up visits during the initial 5 years from enrolment were assessed, and a change in diagnosis was reported by the treating rheumatologist. The groups were analysed with respect to the individual classification criteria, antibodies to citrullinated proteins (ACPA), disease activity (DAS28) and radiographic changes from inclusion up to 2 years. Results Forty-five patients (1.8%) were misdiagnosed (RA-change group). When compared to those in the RA-change group, the patients who kept their diagnosis (RA-keep) were more often RF positive (64% vs 21%, p<0.001) or ACPA positive (59% vs 8%, p<0.001). They were also more likely to fulfil more than four ACR-1987 criteria (64% vs 33%, p<0.001) and to have radiographic changes at inclusion (RA-keep 27% vs RA-change 12%, p=0.04). The groups had a similar evolution of DAS28 and its components as well as of radiological joint destruction. Conclusion Diagnosis of RA according to the ACR-1987 criteria had a high precision in this long-term cohort. A diagnosis of RA should be re-evaluated in patients who do not fulfil more than four ACR-1987 criteria especially in patients negative for RF.",
+      "corpusId": 252448739,
+      "url": "https://api.semanticscholar.org/CorpusId:252448739",
+      "pubmed_id": "36172258",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2147/oarrr.s372724",
+        "matched_title": "Misdiagnosis of Rheumatoid Arthritis in a Long-Term Cohort of Early Arthritis Based on the ACR-1987 Classification Criteria.",
+        "matched_pubdate": "2022",
+        "matched_source": "Open Access Rheumatol"
+      }
+    },
+    {
+      "title": "Validation of a Prediction Rule for the Diagnosis of Rheumatoid Arthritis in Patients with Recent Onset Undifferentiated Arthritis",
+      "authors": [
+        {
+          "name": "Z. Bedrán",
+          "id": "6103612"
+        },
+        {
+          "name": "C. Quiroz",
+          "id": "40483314"
+        },
+        {
+          "name": "J. Rosa",
+          "id": "39536560"
+        },
+        {
+          "name": "L. Catoggio",
+          "id": "81880749"
+        },
+        {
+          "name": "E. Soriano",
+          "id": "144385235"
+        }
+      ],
+      "year": 2013,
+      "venue": "International Journal of Rheumatology",
+      "score": 0.5818940902822862,
+      "abstract": "Objectives. To validate van der Helm-van Mil score (vHvM) and new ACR/EULAR criteria for the diagnosis of rheumatoid arthritis (RA) in patients with undifferentiated arthritis (UA). Patients and Methods. Adult patients with UA (swelling ≥2 joints of less than 6 months duration, without diagnosis, and never treated with disease modifying drugs). Results. Ninety-one patients were included. Mean age: 55.6 years (SD: 17.4), 74% females. Median symptoms duration was 2 months (IR: 1–4 months). Mean van der Helm-van Mil score was 6.9 (SD: 2). After a mean followup of 6.2 months (SD: 6), 40.7% patients fulfilled ACR 1987 RA classification criteria, 28.6% fulfilled other diagnostic criteria, and 31% remained as UA. Receiver operator characteristic curve's (ROC's) area under the curve (AUC) for the vHvM score for diagnosis of RA was 0.83. A cutoff value of 6.94 showed sensitivity of 81% and 79.7% specificity. For the new ACR/EULAR criteria, the ROC AUC was 0.93, and a value equal to or greater than 6 showed 86.5% sensitivity and 87% specificity. Conclusion. van der Helm-van Mil prediction score and the new ACR/EULAR criteria proved to be valuable for the diagnosis of RA in patients with early UA.",
+      "corpusId": 14292015,
+      "url": "https://api.semanticscholar.org/CorpusId:14292015",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "The Need to Better Classify and Diagnose Early and Very Early Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "H. Zeidler",
+          "id": "1738416"
+        }
+      ],
+      "year": 2012,
+      "venue": "Journal of Rheumatology",
+      "score": 0.5814033372377586,
+      "abstract": "",
+      "corpusId": 962662,
+      "url": "https://doi.org/10.3899/jrheum.110967",
+      "pubmed_id": "22174195",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.3899/jrheum.110967",
+        "matched_title": "The need to better classify and diagnose early and very early rheumatoid arthritis.",
+        "matched_pubdate": "2012 Feb",
+        "matched_source": "J Rheumatol"
+      }
+    },
+    {
+      "title": "Performance of the 2010 ACR/EULAR classification criteria for rheumatoid arthritis in a prospective early arthritis cohort in Kerala, India",
+      "authors": [
+        {
+          "name": "V. Ravindran",
+          "id": "39710020"
+        },
+        {
+          "name": "A. Abdulaziz",
+          "id": "14000180"
+        },
+        {
+          "name": "P. V. Bhargavan",
+          "id": "9906222"
+        }
+      ],
+      "year": 2014,
+      "venue": "unknown",
+      "score": 0.580280135904848,
+      "abstract": "Abstract Objectives In this prospective study we evaluated (i) whether the 2010 ACR/EULAR criteria would include patients who were classified as early rheumatoid arthritis (RA) according to the 1987 ACR criteria, and (ii) outcome by classification of patients who were initially classified as undifferentiated arthritis (UA). Methods Eligible cohort (all patients with at least one clinically swollen joint) consisted of 134 patients, of which 120 had clinical diagnosis of RA. All patients were classified using both 1987 and the 2010 criteria at the beginning of the study and 1 year later. Results Out of 134 eligible patients 102 were classified as RA based on 1987 criteria. A total of 82 (80%) out of 102 patients were seropositive for RA, i.e. positive for either rheumatoid factor (RF) or anti-citrullinated peptide antibody (ACPA). According to the 2010 criteria, 86 (84%) out of the 102 patients were classified as having RA. Among the 82 seropositive patients, only 1 (1.21%) patient was classified as not having RA whereas, among 20 patients who had seronegative (both for RF and ACPA) RA, 15 (75%) patients were not classified as RA according to the 2010 criteria. Sensitivity and specificity of the 2010 criteria was 96.67% and 92.86%, respectively, compared with 85% and 85.71% by 1987 criteria. 25% of initial UA patients were reclassified as RA by the 2010 criteria at 1 year. Conclusions The 2010 criteria did not identify a substantial proportion of seronegative RA classified by the 1987 criteria. Therefore due care must be taken when applying the new criteria to patients with arthritis who are seronegative.",
+      "corpusId": 56828275,
+      "url": "https://api.semanticscholar.org/CorpusId:56828275",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "A systematic literature review of strategies promoting early referral and reducing delays in the diagnosis and management of inflammatory arthritis",
+      "authors": [
+        {
+          "name": "É. Villeneuve",
+          "id": "4065105"
+        },
+        {
+          "name": "J. Nam",
+          "id": "6889762"
+        },
+        {
+          "name": "M. Bell",
+          "id": "49511343"
+        },
+        {
+          "name": "C. Deighton",
+          "id": "4988131"
+        },
+        {
+          "name": "D. Felson",
+          "id": "1969437"
+        },
+        {
+          "name": "J. Hazes",
+          "id": "4712446"
+        },
+        {
+          "name": "I. McInnes",
+          "id": "3893481"
+        },
+        {
+          "name": "A. Silman",
+          "id": "77994979"
+        },
+        {
+          "name": "D. Solomon",
+          "id": "1832962"
+        },
+        {
+          "name": "A. Thompson",
+          "id": "121760456"
+        },
+        {
+          "name": "P. White",
+          "id": "145505652"
+        },
+        {
+          "name": "V. Bykerk",
+          "id": "6731582"
+        },
+        {
+          "name": "P. Emery",
+          "id": "144375041"
+        }
+      ],
+      "year": 2012,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.5762333440491397,
+      "abstract": "",
+      "corpusId": 23611469,
+      "url": "https://doi.org/10.1136/annrheumdis-2011-201063",
+      "pubmed_id": "22532640",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/annrheumdis-2011-201063",
+        "matched_title": "A systematic literature review of strategies promoting early referral and reducing delays in the diagnosis and management of inflammatory arthritis.",
+        "matched_pubdate": "2013 Jan",
+        "matched_source": "Ann Rheum Dis"
+      }
+    },
+    {
+      "title": "Delay in referral of rheumatoid arthritis patients to rheumatology clinic",
+      "authors": [
+        {
+          "name": "S. Saad",
+          "id": "32897543"
+        },
+        {
+          "name": "Najwa Khalil Alhaj",
+          "id": "2003402135"
+        }
+      ],
+      "year": 2020,
+      "venue": "Egyptian Rheumatology and Rehabilitation",
+      "score": 0.5319249312066583,
+      "abstract": "Rheumatoid arthritis (RA) is an inflammatory connective tissue disease with both articular and extra articular manifestations. Early diagnosis and proper treatment affect strongly the patients’ quality of life. In the early phase of the disease, effective treatment and strict monitoring would help to achieve remission within the shortest period. Delay in detection of these cases and consequently late referral to a rheumatologist result in loss of the golden time when effective treatment must start. Delay of patients’ referral by the family physician was the most statistically significant factor responsible for the delay in starting of a specific therapy for RA. Clear guidelines according to 2016 update of the EULAR recommendations for the management of early arthritis (Combe et al., Ann Rheum Dis 76:948–959, 2017) must be known to all primary care physicians to suspect RA and to avoid delay in referral of patients.",
+      "corpusId": 224947295,
+      "url": "https://api.semanticscholar.org/CorpusId:224947295",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Rheumatoid Arthritis: Early Diagnosis and Treatment.",
+      "authors": [
+        {
+          "name": "J. Cush",
+          "id": "4691020"
+        }
+      ],
+      "year": 2021,
+      "venue": "The Medical clinics of North America",
+      "score": 0.49401412831748703,
+      "abstract": "",
+      "corpusId": 231937395,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/33589108",
+      "pubmed_id": "33589108",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.mcna.2020.10.006",
+        "matched_title": "Rheumatoid Arthritis: Early Diagnosis and Treatment.",
+        "matched_pubdate": "2021 Mar",
+        "matched_source": "Med Clin North Am"
+      }
+    },
+    {
+      "title": "Can Synovial Pathobiology Integrate with Current Clinical and Imaging Prediction Models to Achieve Personalized Health Care in Rheumatoid Arthritis?",
+      "authors": [
+        {
+          "name": "F. Humby",
+          "id": "4882021"
+        },
+        {
+          "name": "F. Al Balushi",
+          "id": "2261013775"
+        },
+        {
+          "name": "G. Lliso",
+          "id": "49733827"
+        },
+        {
+          "name": "A. Cauli",
+          "id": "5013079"
+        },
+        {
+          "name": "C. Pitzalis",
+          "id": "4964301"
+        }
+      ],
+      "year": 2017,
+      "venue": "Frontiers in Medicine",
+      "score": 0.43540976921234537,
+      "abstract": "Although great progress has been made in the past decade toward understanding the pathogenesis of rheumatoid arthritis (RA), clinicians remain some distance from a goal of personalized health care. The capacity to diagnose RA early, predict prognosis, and moreover predict response to biologic therapies has been a research focus for many years. How currently available clinical prediction models can facilitate such goals is reviewed in this article. In addition, the role of current imaging techniques in this regard is also discussed. Finally, the authors review the current literature regarding synovial biomarkers and consider whether integration of synovial pathobiology into clinical prediction algorithms may enhance their predictive value.",
+      "corpusId": 13731901,
+      "url": "https://api.semanticscholar.org/CorpusId:13731901",
+      "pubmed_id": "28516086",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fmed.2017.00041",
+        "matched_title": "Can Synovial Pathobiology Integrate with Current Clinical and Imaging Prediction Models to Achieve Personalized Health Care in Rheumatoid Arthritis?",
+        "matched_pubdate": "2017",
+        "matched_source": "Front Med (Lausanne)"
+      }
+    },
+    {
+      "title": "Do it fast! Early access to specialized care improved long-term outcomes in rheumatoid arthritis: data from the REAL multicenter observational study",
+      "authors": [
+        {
+          "name": "C. Albuquerque",
+          "id": "39945204"
+        },
+        {
+          "name": "Ana Paula Monteiro Gomides Reis",
+          "id": "143891251"
+        },
+        {
+          "name": "Ana Beatriz Vargas- Santos",
+          "id": "2124669834"
+        },
+        {
+          "name": "M. Bértolo",
+          "id": "2435075"
+        },
+        {
+          "name": "P. L. Júnior",
+          "id": "4453299"
+        },
+        {
+          "name": "R. N. Neubarth Giorgi",
+          "id": "2215181400"
+        },
+        {
+          "name": "S. Radominski",
+          "id": "6293970"
+        },
+        {
+          "name": "M. Guimarães",
+          "id": "34142653"
+        },
+        {
+          "name": "K. Bonfiglioli",
+          "id": "2305724750"
+        },
+        {
+          "name": "Maria de Fátima L Cunha Sauma",
+          "id": "2215181398"
+        },
+        {
+          "name": "I. Pereira",
+          "id": "1818218"
+        },
+        {
+          "name": "C. Brenol",
+          "id": "4850031"
+        },
+        {
+          "name": "Licia Maria Henrique Mota",
+          "id": "2215181522"
+        },
+        {
+          "name": "L. Santos-Neto",
+          "id": "1403245329"
+        },
+        {
+          "name": "G. R. C. Castelar Pinheiro",
+          "id": "1416935985"
+        }
+      ],
+      "year": 2023,
+      "venue": "Advances in Rheumatology",
+      "score": 0.42345561810179927,
+      "abstract": "Background Early rheumatoid arthritis (RA) offers an opportunity for better treatment outcomes. In real-life settings, grasping this opportunity might depend on access to specialized care. We evaluated the effects of early versus late assessment by the rheumatologist on the diagnosis, treatment initiation and long-term outcomes of RA under real-life conditions. Methods Adults meeting the ACR/EULAR (2010) or ARA (1987) criteria for RA were included. Structured interviews were conducted. The specialized assessment was deemed “early” when the rheumatologist was the first or second physician consulted after symptoms onset, and “late” when performed afterwards. Delays in RA diagnosis and treatment were inquired. Disease activity (DAS28-CRP) and physical function (HAQ-DI) were evaluated. Student’s t, Mann-Whitney U, chi-squared and correlation tests, and multiple linear regression were performed. For sensitivity analysis, a propensity score-matched subsample of early- vs. late-assessed participants was derived based on logistic regression. The study received ethical approval; all participants signed informed consent. Results We included 1057 participants (89.4% female, 56.5% white); mean (SD) age: 56.9 (11.5) years; disease duration: 173.1 (114.5) months. Median (IQR) delays from symptoms onset to both RA diagnosis and initial treatment coincided: 12 (6–36) months, with no significant delay between diagnosis and treatment. Most participants (64.6%) first sought a general practitioner. Notwithstanding, 80.7% had the diagnosis established only by the rheumatologist. Only a minority (28.7%) attained early RA treatment (≤ 6 months of symptoms). Diagnostic and treatment delays were strongly correlated (rho 0.816; p < 0.001). The chances of missing early treatment more than doubled when the assessment by the rheumatologist was belated (OR 2.77; 95% CI: 1.93, 3.97). After long disease duration, late-assessed participants still presented lower chances of remission/low disease activity (OR 0.74; 95% CI: 0.55, 0.99), while the early-assessed ones showed better DAS28-CRP and HAQ-DI scores (difference in means [95% CI]: -0.25 [-0.46, -0.04] and − 0.196 [-0.306, -0.087] respectively). The results in the propensity-score matched subsample confirmed those observed in the original (whole) sample. Conclusions Early diagnosis and treatment initiation in patients with RA was critically dependent on early access to the rheumatologist; late specialized assessment was associated with worse long-term clinical outcomes.",
+      "corpusId": 258293617,
+      "url": "https://api.semanticscholar.org/CorpusId:258293617",
+      "pubmed_id": "37095556",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s42358-023-00301-7",
+        "matched_title": "Do it fast! Early access to specialized care improved long-term outcomes in rheumatoid arthritis: data from the REAL multicenter observational study.",
+        "matched_pubdate": "2023 Apr 24",
+        "matched_source": "Adv Rheumatol"
+      }
+    },
+    {
+      "title": "Delays between the onset of symptoms and first rheumatology consultation in patients with rheumatoid arthritis in the UK: an observational study",
+      "authors": [
+        {
+          "name": "R. Stack",
+          "id": "40383837"
+        },
+        {
+          "name": "Peter Nightingale",
+          "id": "2257678291"
+        },
+        {
+          "name": "Clare Jinks",
+          "id": "2392026336"
+        },
+        {
+          "name": "Karen Shaw",
+          "id": "2257745271"
+        },
+        {
+          "name": "Sandy Herron-Marx",
+          "id": "2257745747"
+        },
+        {
+          "name": "Rob Horne",
+          "id": "2257739075"
+        },
+        {
+          "name": "Chris Deighton",
+          "id": "2257739141"
+        },
+        {
+          "name": "P. Kiely",
+          "id": "2241611938"
+        },
+        {
+          "name": "C. Mallen",
+          "id": "2241138533"
+        },
+        {
+          "name": "K. Raza",
+          "id": "2241216325"
+        }
+      ],
+      "year": 2019,
+      "venue": "BMJ Open",
+      "score": 0.3794562767330424,
+      "abstract": "Objective To investigate delays from symptom onset to rheumatology assessment for patients with a new onset of rheumatoid arthritis (RA) or unclassified arthritis. Methods Newly presenting adults with either RA or unclassified arthritis were recruited from rheumatology clinics. Data on the length of time between symptom onset and first seeing a GP (patient delay), between first seeing a general practitioner (GP) and being referred to a rheumatologist (general practitioner delay) and being seen by a rheumatologist following referral (hospital delay) were captured. Results 822 patients participated (563 female, mean age 55 years). The median time between symptom onset and seeing a rheumatologist was 27.2 weeks (IQR 14.1–66 weeks); only 20% of patients were seen within the first 3 months following symptom onset. The median patient delay was 5.4 weeks (IQR 1.4–26.3 weeks). Patients who purchased over-the-counter medications or used ice/heat packs took longer to seek help than those who did not. In addition, those with a palindromic or an insidious symptom onset delayed for longer than those with a non-palindromic or acute onset. The median general practitioner delay was 6.9 weeks (IQR 2.3–20.3 weeks). Patients made a mean of 4 GP visits before being referred. The median hospital delay was 4.7 weeks (IQR 2.9–7.5 weeks). Conclusion This study identified delays at all levels in the pathway towards assessment by a rheumatologist. However, delays in primary care were particularly long. Patient delay was driven by the nature of symptom onset. Complex multi-faceted interventions to promote rapid help seeking and to facilitate prompt onward referral from primary care should be developed.",
+      "corpusId": 263954170,
+      "url": "https://doi.org/10.1136/bmjopen-2018-024361",
+      "pubmed_id": "30837252",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/bmjopen-2018-024361",
+        "matched_title": "Delays between the onset of symptoms and first rheumatology consultation in patients with rheumatoid arthritis in the UK: an observational study.",
+        "matched_pubdate": "2019 Mar 4",
+        "matched_source": "BMJ Open"
+      }
+    },
+    {
+      "title": "How to diagnose rheumatoid arthritis early: a prediction model for persistent (erosive) arthritis.",
+      "authors": [
+        {
+          "name": "H. Visser",
+          "id": "143767543"
+        },
+        {
+          "name": "S. le Cessie",
+          "id": "145517649"
+        },
+        {
+          "name": "K. Vos",
+          "id": "145806976"
+        },
+        {
+          "name": "F. Breedveld",
+          "id": "35101188"
+        },
+        {
+          "name": "J. Hazes",
+          "id": "87722634"
+        }
+      ],
+      "year": 2002,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.37547105861053004,
+      "abstract": "",
+      "corpusId": 36122545,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11840437",
+      "pubmed_id": "11840437",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/art.10117",
+        "matched_title": "How to diagnose rheumatoid arthritis early: a prediction model for persistent (erosive) arthritis.",
+        "matched_pubdate": "2002 Feb",
+        "matched_source": "Arthritis Rheum"
+      }
+    },
+    {
+      "title": "Ability of the American College of Rheumatology 1987 criteria to predict rheumatoid arthritis in patients with early arthritis and classification of these patients two years later.",
+      "authors": [
+        {
+          "name": "A. Saraux",
+          "id": "5371080"
+        },
+        {
+          "name": "Jean-Marie Berthelot",
+          "id": "2132942667"
+        },
+        {
+          "name": "G�rard Chal�s",
+          "id": "2231594745"
+        },
+        {
+          "name": "C. Le Hénaff",
+          "id": "5570225"
+        },
+        {
+          "name": "J. Thorel",
+          "id": "122342860"
+        },
+        {
+          "name": "S. Hoang",
+          "id": "34811591"
+        },
+        {
+          "name": "Isabelle Valls",
+          "id": "2235292402"
+        },
+        {
+          "name": "Val�rie Devauchelle",
+          "id": "2235290815"
+        },
+        {
+          "name": "Antoine Martin",
+          "id": "2166431318"
+        },
+        {
+          "name": "D. Baron",
+          "id": "47674766"
+        },
+        {
+          "name": "Y. Pennec",
+          "id": "122663769"
+        },
+        {
+          "name": "E. Botton",
+          "id": "33657060"
+        },
+        {
+          "name": "J. Mary",
+          "id": "144294824"
+        },
+        {
+          "name": "P. Le Goff",
+          "id": "39753521"
+        },
+        {
+          "name": "P. Youinou",
+          "id": "145954211"
+        }
+      ],
+      "year": 2001,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.3730732079497986,
+      "abstract": "",
+      "corpusId": 22382530,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11710704",
+      "pubmed_id": "11710704",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/1529-0131(200111)44:11<2485::aid-art428>3.0.co;2-s",
+        "matched_title": "Ability of the American College of Rheumatology 1987 criteria to predict rheumatoid arthritis in patients with early arthritis and classification of these patients two years later.",
+        "matched_pubdate": "2001 Nov",
+        "matched_source": "Arthritis Rheum"
+      }
+    },
+    {
+      "title": "Sensitivity and specificity of 2010 rheumatoid arthritis classification criteria.",
+      "authors": [
+        {
+          "name": "Y. Kaneko",
+          "id": "5523348"
+        },
+        {
+          "name": "M. Kuwana",
+          "id": "4000522"
+        },
+        {
+          "name": "H. Kameda",
+          "id": "35022102"
+        },
+        {
+          "name": "T. Takeuchi",
+          "id": "143723979"
+        }
+      ],
+      "year": 2011,
+      "venue": "Rheumatology",
+      "score": 0.3605437801433014,
+      "abstract": "",
+      "corpusId": 35807779,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/21292733",
+      "pubmed_id": "21292733",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1093/rheumatology/keq442",
+        "matched_title": "Sensitivity and specificity of 2010 rheumatoid arthritis classification criteria.",
+        "matched_pubdate": "2011 Jul",
+        "matched_source": "Rheumatology (Oxford)"
+      }
+    },
+    {
+      "title": "'Lost time'. Patients with early inflammatory/rheumatoid arthritis and their experiences of delays in Primary Care.",
+      "authors": [
+        {
+          "name": "Frances Chilton",
+          "id": "39021921"
+        },
+        {
+          "name": "E. Bradley",
+          "id": "32192365"
+        },
+        {
+          "name": "T. Mitchell",
+          "id": "7944797"
+        }
+      ],
+      "year": 2021,
+      "venue": "Musculoskeletal Care",
+      "score": 0.3551768695151962,
+      "abstract": "BACKGROUND\nEarly referral forms a crucial part in early inflammatory/rheumatoid arthritis (EI/RA) recovery. Delayed decisions to refer can lead to severe incapacity and emotional distress for individuals and family and feelings of lost time. How patients with EI/RA experience early referral decisions in Primary Care is an under explored area and warrants further investigation.\n\n\nAIM\nTo explore how patients newly diagnosed with EI/RA experienced their early contacts with Primary Care as they negotiated their journey through the referral process into secondary care.\n\n\nDESIGN AND SETTING\nQualitative face-to-face interviews with newly diagnosed EI/RA patients.\n\n\nMETHODS\nIn-depth semi-structured interviews were conducted to explore patients' experiences of referral from first symptoms to General Practitioner referral. All participants were interviewed within 2 weeks of being diagnosed in Secondary Care. Data analysis was conducted using interpretative phenomenological analysis.\n\n\nFINDINGS\nAll participants in this study described having experienced struggles with their navigation through Primary Care towards diagnosis and specialist EI/RA services. This struggle comprised five key elements: 'family persuasion', 'lack of continuity in care', 'pushing for referral', 'strained relations' and 'lost time'.\n\n\nCONCLUSION\nThe delays experienced by patients when attempting to reach an early referral decision in Primary Care cause frustration for those presenting with EI/RA, partly because they do not feel heard. There is a significant impact on patients and their families when referral to specialist care is delayed.",
+      "corpusId": 232232421,
+      "url": "https://api.semanticscholar.org/CorpusId:232232421",
+      "pubmed_id": "33720502",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/msc.1546",
+        "matched_title": "'Lost time'. Patients with early inflammatory/rheumatoid arthritis and their experiences of delays in Primary Care.",
+        "matched_pubdate": "2021 Dec",
+        "matched_source": "Musculoskeletal Care"
+      }
+    },
+    {
+      "title": "Facilitators and barriers in diagnosing rheumatoid arthritis as described by general practitioners: a Danish study based on focus group interviews",
+      "authors": [
+        {
+          "name": "Anne Sofie Baymler Lundberg",
+          "id": "2086761796"
+        },
+        {
+          "name": "B. Esbensen",
+          "id": "5018038"
+        },
+        {
+          "name": "M. B. Jensen",
+          "id": "1918054"
+        },
+        {
+          "name": "E. Hauge",
+          "id": "4391373"
+        },
+        {
+          "name": "A. Thurah",
+          "id": "4312049"
+        }
+      ],
+      "year": 2021,
+      "venue": "Scandinavian Journal of Primary Health Care",
+      "score": 0.3520929926632994,
+      "abstract": "Abstract Objective To explore the perspectives of general practitioners (GPs) on facilitators and barriers in diagnosing rheumatoid arthritis (RA). Design Qualitative study based on focus group interviews, and using latent thematic analysis. Setting General practices from Central Region Denmark. Subjects Eleven GPs participated in three different focus groups. Forty percent were female, the mean age was 53 years (range 37–64), and the mean since medical licensing was 16 years (range 5–23). Sixty percent of the GPs worked in an area served by a university hospital, and 40% were served by a regional hospital. Main outcome measure Themes describing experiences and reflections about facilitators and barriers in diagnosing Rheumatoid Arthritis. Results Four themes emerged: (A) If the patient is not a textbook example, (B) The importance of maintaining the gatekeeper function, (C) Difficulties in referral of patients to the rheumatologist, and (D) Laboratory tests—can they be trusted? Barriers were identified in all themes, but facilitators only in A, C, and D. The overarching theme was Like finding a needle in a haystack. Conclusion The GPs found several barriers for diagnosing RA (symptom awareness, GP’s gatekeeper function, suboptimal collaboration with rheumatologists and limitations in laboratory tests). They identified education, more specific tests and better access to rheumatologists as possible facilitators for diagnosing RA. To facilitate earlier referral of suspected RA in general practice and strengthen mutual information and collaboration, future research should focus on these facilitators and barriers. Keypoints Early diagnosis is essential for the prognosis of RA, and the diagnostic process begins in general practice. Suggested facilitators: training courses in interpretation of laboratory tests and the clinical manifestation of RA, and videos on joint examinations. Suggested barriers: compliance with the gatekeeper function, suboptimal collaboration with rheumatologists, limitations of laboratory tests, and diversity of clinical manifestations.",
+      "corpusId": 233428844,
+      "url": "https://api.semanticscholar.org/CorpusId:233428844",
+      "pubmed_id": "33905289",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1080/02813432.2021.1913925",
+        "matched_title": "Facilitators and barriers in diagnosing rheumatoid arthritis as described by general practitioners: a Danish study based on focus group interviews.",
+        "matched_pubdate": "2021 Jun",
+        "matched_source": "Scand J Prim Health Care"
+      }
+    },
+    {
+      "title": "Defining Disease Phenotypes in Primary Care Electronic Health Records by a Machine Learning Approach: A Case Study in Identifying Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "Shang-Ming Zhou",
+          "id": "47707528"
+        },
+        {
+          "name": "Fabiola Fernandez-Gutierrez",
+          "id": "1409264580"
+        },
+        {
+          "name": "J. Kennedy",
+          "id": "30820145"
+        },
+        {
+          "name": "R. Cooksey",
+          "id": "2551064"
+        },
+        {
+          "name": "M. Atkinson",
+          "id": "1726702"
+        },
+        {
+          "name": "S. Denaxas",
+          "id": "48144767"
+        },
+        {
+          "name": "S. Siebert",
+          "id": "47218935"
+        },
+        {
+          "name": "W. Dixon",
+          "id": "1916507"
+        },
+        {
+          "name": "T. O'Neill",
+          "id": "1404323041"
+        },
+        {
+          "name": "E. Choy",
+          "id": "4091447"
+        },
+        {
+          "name": "C. Sudlow",
+          "id": "144621538"
+        },
+        {
+          "name": "S. Brophy",
+          "id": "1881352"
+        }
+      ],
+      "year": 2016,
+      "venue": "PLoS ONE",
+      "score": 0.3516985154389012,
+      "abstract": "Objectives 1) To use data-driven method to examine clinical codes (risk factors) of a medical condition in primary care electronic health records (EHRs) that can accurately predict a diagnosis of the condition in secondary care EHRs. 2) To develop and validate a disease phenotyping algorithm for rheumatoid arthritis using primary care EHRs. Methods This study linked routine primary and secondary care EHRs in Wales, UK. A machine learning based scheme was used to identify patients with rheumatoid arthritis from primary care EHRs via the following steps: i) selection of variables by comparing relative frequencies of Read codes in the primary care dataset associated with disease case compared to non-disease control (disease/non-disease based on the secondary care diagnosis); ii) reduction of predictors/associated variables using a Random Forest method, iii) induction of decision rules from decision tree model. The proposed method was then extensively validated on an independent dataset, and compared for performance with two existing deterministic algorithms for RA which had been developed using expert clinical knowledge. Results Primary care EHRs were available for 2,238,360 patients over the age of 16 and of these 20,667 were also linked in the secondary care rheumatology clinical system. In the linked dataset, 900 predictors (out of a total of 43,100 variables) in the primary care record were discovered more frequently in those with versus those without RA. These variables were reduced to 37 groups of related clinical codes, which were used to develop a decision tree model. The final algorithm identified 8 predictors related to diagnostic codes for RA, medication codes, such as those for disease modifying anti-rheumatic drugs, and absence of alternative diagnoses such as psoriatic arthritis. The proposed data-driven method performed as well as the expert clinical knowledge based methods. Conclusion Data-driven scheme, such as ensemble machine learning methods, has the potential of identifying the most informative predictors in a cost-effective and rapid way to accurately and reliably classify rheumatoid arthritis or other complex medical conditions in primary care EHRs.",
+      "corpusId": 7096697,
+      "url": "https://api.semanticscholar.org/CorpusId:7096697",
+      "pubmed_id": "27135409",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0154515",
+        "matched_title": "Defining Disease Phenotypes in Primary Care Electronic Health Records by a Machine Learning Approach: A Case Study in Identifying Rheumatoid Arthritis.",
+        "matched_pubdate": "2016",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Preventive interventions in individuals at risk for Rheumatoid Arthritis: State of the art and perspectives",
+      "authors": [
+        {
+          "name": "A. H. van der Helm-van Mil",
+          "id": "2298422187"
+        }
+      ],
+      "year": 2023,
+      "venue": "Joint Bone Spine",
+      "score": 0.33914498439126006,
+      "abstract": "During the last decade, the outlook for patients with rheumatoid arthritis (RA) has improved greatly, especially for patients with autoantibody-positive RA. To further improve long-term disease outcomes, the field has turned to investigating the efficacy of treatment initiated in the pre-arthritic phase of RA, based on the adage “the sooner the better.” In this review, the concept of prevention is evaluated and different risk stages are being examined for their pre-test risks of RA development. These risks affect the post-test risk of biomarkers used at these stages and, consequently, the accuracy with which the risk of RA can be estimated. Furthermore, through their effect on accurate risk stratification, these pre-test risks ultimately also associate with the likelihood of false-negative trial results (the so-called “clinicostatistical tragedy”). Outcome measures to assess preventive effects are evaluated and relate to either the occurrence of disease itself or to the severity of risk factors for RA development. Results of recently completed prevention studies are discussed in the light of these theoretical considerations. The results vary, but clear prevention of RA has not been demonstrated. While some treatments (e.g. methotrexate) persistently reduced symptom severity, physical disability, and the severity of imaging joint inflammation, other treatments were not reported to produce long-lasting effects (hydroxychloroquine, rituximab, atorvastatin). The review concludes with future perspectives regarding the design of new prevention studies and considerations and requirements before findings can be implemented in daily practice in individuals at risk of RA attending rheumatology practices.",
+      "corpusId": 256921001,
+      "url": "https://api.semanticscholar.org/CorpusId:256921001",
+      "pubmed_id": "36796580",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.jbspin.2023.105543",
+        "matched_title": "Preventive interventions in individuals at risk for Rheumatoid Arthritis: State of the art and perspectives.",
+        "matched_pubdate": "2023 Jul",
+        "matched_source": "Joint Bone Spine"
+      }
+    },
+    {
+      "title": "Increased primary care use for musculoskeletal symptoms, infections and comorbidities in the years before the diagnosis of inflammatory arthritis",
+      "authors": [
+        {
+          "name": "M. Beers-Tas",
+          "id": "1435154279"
+        },
+        {
+          "name": "M. Nielen",
+          "id": "52318526"
+        },
+        {
+          "name": "J. Twisk",
+          "id": "144324144"
+        },
+        {
+          "name": "J. Korevaar",
+          "id": "2515844"
+        },
+        {
+          "name": "D. van Schaardenburg",
+          "id": "5287662"
+        }
+      ],
+      "year": 2020,
+      "venue": "RMD Open",
+      "score": 0.3176159784159753,
+      "abstract": "Objectives Little is known about relevant events in the at-risk phase of rheumatoid arthritis before the development of clinically apparent inflammatory arthritis (IA). The present study assessed musculoskeletal symptoms, infections and comorbidity in future IA patients. Methods In a nested case–control study using electronic health records of general practitioners, the frequency and timing of 192 symptoms or diseases were evaluated before a diagnosis of IA, using the International Classification of Primary Care coding system. Cases were 2314 adults with a new diagnosis IA between 2012 and 2016; controls were matched 1:2. The frequency of primary care visits was compared using logistic regression. Results The frequency of visits for musculoskeletal symptoms (mostly of shoulders, wrists, fingers and knees) and carpal tunnel syndrome was significantly higher in IA patients vs controls within the final 1.5 years before diagnosis, with ORs of 3.2 (95% CI 2.8 to 3.5), 2.8 (95% CI 2.5 to 3.1) and 2.5 (95% CI 2.2 to 2.8) at 6, 12 and 18 months before diagnosis, respectively. Also, infections (notably of the genital and urinary tracts), IA-comorbidities and chronic diseases were more prevalent in cases than controls, but more evenly spread out over the whole 6-year period before IA. A decision tree was created including all symptoms and diseases. Conclusion There was an increased frequency of primary care visits for musculoskeletal symptoms, infections and comorbidities prior to the diagnosis of IA. This diverging trend is present for 4–6 years, but becomes statistically significant 1.5 years before the diagnosis. Validation of these results is warranted.",
+      "corpusId": 220439978,
+      "url": "https://api.semanticscholar.org/CorpusId:220439978",
+      "pubmed_id": "32641448",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1136/rmdopen-2019-001163",
+        "matched_title": "Increased primary care use for musculoskeletal symptoms, infections and comorbidities in the years before the diagnosis of inflammatory arthritis.",
+        "matched_pubdate": "2020 Jul",
+        "matched_source": "RMD Open"
+      }
+    }
+  ]
+}

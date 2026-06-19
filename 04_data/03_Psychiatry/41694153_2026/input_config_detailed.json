@@ -1,0 +1,34 @@
+{
+  "target_name": "41694153_2026",
+  "pmid": "41694153",
+  "objectives": "To synthesize the latest findings on the neurobiology of body dysmorphic disorder (BDD), quantify brain activation patterns with activation likelihood estimation (ALE) meta-analysis, and propose an updated BDD neurocircuitry model.",
+  "inclusion_criteria": "All studies regarding neuroimaging and functional neurochemistry research in BDD were considered. Studies were included if they met the following eligibility criteria: full-text availability in English, publication in a peer-reviewed journal, BDD diagnosed per DSM criteria, and demographically matched healthy control participants.",
+  "exclusion_criteria": "Exclusion criteria included systematic reviews, meta-analyses, book chapters, conference abstracts, studies on subclinical BDD, or studies involving BDD participants without subsetting a specific BDD cohort.",
+  "pmid_query": "The literature was searched using the PubMed/MEDLINE, PsycInfo, and Embase databases; reference lists of relevant articles were also examined. The final search was conducted on May 15, 2025, with no date restrictions. Search terms were: ((body dysmorphic disorder [MeSH Terms]) OR \"body dysmorphic disorder\" OR \"body dysmorphia\" OR \"BDD\" OR \"body dysmorphic*\") AND (neuro* OR brain OR neurobiology OR neuroimaging OR EEG OR electroencephalography OR MEG OR magnetoencephalography OR SPECT OR \"single-photon emission computed tomography\" OR PET OR \"positron emission tomography\" OR MRI OR fMRI OR \"magnetic resonance imaging\" OR DTI OR \"diffusion tensor imaging\" OR functional OR structural OR connectome OR network).",
+  "ref_selection_strategy": "ref_numbers",
+  "selected_ref_numbers": [
+    36,
+    37,
+    38,
+    43
+  ],
+  "selected_ref_nums_compact": "36-38,43",
+  "selection_evidence": "PRISMA/Results state that 38 studies were included in the systematic review, but the quantitative meta-analysis was narrower. The Results section explicitly states: four studies were included in the ALE-based meta-analysis and identifies them as references 36-38 and 43 (Table S5). Table 1 summarizes 7 morphometric MRI studies from the qualitative review, not the ALE meta-analysis set.",
+  "notes": "Selected studies are the 4 studies actually included in the quantitative ALE meta-analysis, not all 38 studies included in the broader systematic review.",
+  "predicted_pmids": [
+    "21557897",
+    "20124119",
+    "18056550",
+    "32875486"
+  ],
+  "gold_pmids": [
+    "21557897",
+    "20124119",
+    "18056550",
+    "32875486"
+  ],
+  "generated_at": "2026-03-07T17:21:18.236519+00:00",
+  "pipeline": "auto_include_pipeline_v1",
+  "pmid_query_exact_source": "((body dysmorphic disorder[MeSH Terms]) OR \"body dysmorphic disorder\" OR \"body dysmorphia\" OR \"BDD\" OR \"body dysmorphic*\") AND (neuro* OR brain OR neurobiology OR neuroimaging OR EEG OR electroencephalography OR MEG OR magnetoencephalography OR SPECT OR \"single-photon emission computed tomography\" OR PET OR \"positron emission tomography\" OR MRI OR fMRI OR \"magnetic resonance imaging\" OR DTI OR \"diffusion tensor imaging\" OR functional OR structural OR connectome OR network)",
+  "pmid_query_repair_notes": "format_error: original pmid_query prepended narrative lead-in ('The literature was searched using ... Search terms were:') before valid boolean. Stripped leading prose. Trailing period also removed. Boolean core preserved exactly."
+}

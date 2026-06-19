@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41108024_2025",
+  "query": "(\"rheumatoid arthritis\"[tiab] OR \"rheumatoid arthritis\"[mh]) AND (\"pain\"[tiab] OR \"pain management\"[tiab] OR analges*[tiab] OR \"pain relief\"[tiab]) AND (NSAID*[tiab] OR \"non-steroidal anti-inflammatory\"[tiab] OR opioid*[tiab] OR acetaminophen[tiab] OR paracetamol[tiab] OR \"COX-2\"[tiab] OR \"cyclooxygenase-2\"[tiab] OR biologic*[tiab] OR corticosteroid*[tiab] OR \"physical therapy\"[tiab] OR physiotherapy[tiab] OR \"occupational therapy\"[tiab] OR acupuncture[tiab] OR \"cognitive behavioral therapy\"[tiab] OR CBT[tiab] OR hypnotherapy[tiab] OR \"ultrasound therapy\"[tiab] OR thermotherapy[tiab] OR \"laser therapy\"[tiab] OR electrotherapy[tiab] OR balneotherapy[tiab] OR \"neural training\"[tiab] OR \"functional training\"[tiab] OR ergotherapy[tiab]) AND (\"randomized controlled trial\"[pt] OR \"randomized controlled trial\"[tiab] OR \"randomised controlled trial\"[tiab] OR \"cohort study\"[tiab] OR \"case-control\"[tiab] OR \"case-controlled\"[tiab] OR \"prospective study\"[tiab] OR \"retrospective study\"[tiab])",
+  "status": "ok"
+}

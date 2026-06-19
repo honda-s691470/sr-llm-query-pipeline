@@ -1,0 +1,1 @@
+("L-carnitine" OR "L-carnitine supplementation") AND ("coronary artery disease" OR "ischemic heart disease")

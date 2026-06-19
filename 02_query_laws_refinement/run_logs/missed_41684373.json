@@ -1,0 +1,103 @@
+[
+  {
+    "pmid": "23493733",
+    "title": "The impact of green tea and coffee consumption on the reduced risk of stroke incidence in Japanese population: the Japan public health center-based study cohort.",
+    "abstract": "Few prospective studies have examined the impact of both green tea and coffee consumption on strokes. We investigated the association of the combination of those consumption with stroke incidence in a general population.\nWe studied 82 369 Japanese (aged 45-74 years; without cardiovascular disease [CVD] or cancer in 1995 and 1998 for Cohort I and II, respectively) who received 13 years of mean follow-up through the end of 2007. Green tea and coffee consumption was assessed by self-administered food frequency questionnaire at baseline.\nIn the 1 066 718 person-years of follow-up, we documented the incidence of strokes (n=3425) and coronary heart disease (n=910). Compared with seldom drinking green tea, the multivariable-adjusted hazard ratios (95% confidence intervals) of all strokes were 0.86 (0.78-0.95) and 0.80 (0.73-0.89) in green tea 2 to 3 and ≥ 4 cups/d, respectively. Higher green tea consumption was associated with inverse risks of CVD and strokes subtypes. Compared with seldom drinking coffee, the multivariable-adjusted hazard ratios (95% confidence intervals) of all strokes were 0.89 (0.80-0.99), 0.80 (0.72-0.90), and 0.81 (0.72-0.91) for coffee 3 to 6 times/week and 1 and ≥ 2 times/day, respectively. Coffee consumption was associated with an inverse risk of CVD and cerebral infarction. Higher green tea or coffee consumption reduced the risks of CVD and stroke subtypes (especially in intracerebral hemorrhage, P for interaction between green tea and coffee=0.04). None of the significant association was observed in coronary heart disease.\nHigher green tea and coffee consumption were inversely associated with risk of CVD and stroke in general population.",
+    "mesh_terms": [
+      "Aged",
+      "Coffee",
+      "Cohort Studies",
+      "Coronary Disease",
+      "Female",
+      "Humans",
+      "Incidence",
+      "Japan",
+      "Male",
+      "Middle Aged",
+      "Prospective Studies",
+      "Public Health",
+      "Risk",
+      "Sex Factors",
+      "Smoking",
+      "Stroke",
+      "Tea"
+    ]
+  },
+  {
+    "pmid": "28159800",
+    "title": "Revised Framingham Stroke Risk Profile to Reflect Temporal Trends.",
+    "abstract": "Age-adjusted stroke incidence has decreased over the past 50 years, likely as a result of changes in the prevalence and impact of various stroke risk factors. An updated version of the Framingham Stroke Risk Profile (FSRP) might better predict current risks in the FHS (Framingham Heart Study) and other cohorts. We compared the accuracy of the standard (old) and of a revised (new) version of the FSRP in predicting the risk of all-stroke and ischemic stroke and validated this new FSRP in 2 external cohorts, the 3C (3 Cities) and REGARDS (Reasons for Geographic and Racial Differences in Stroke) studies.\nWe computed the old FSRP as originally described and a new model that used the most recent epoch-specific risk factor prevalence and hazard ratios for individuals ≥55 years of age and for the subsample ≥65 years of age (to match the age range in REGARDS and 3C studies, respectively) and compared the efficacy of these models in predicting 5- and 10-year stroke risks.\nThe new FSRP was a better predictor of current stroke risks in all 3 samples than the old FSRP (calibration χ2 of new/old FSRP: in men: 64.0/12.1, 59.4/30.6, and 20.7/12.5; in women: 42.5/4.1, 115.4/90.3, and 9.8/6.5 in FHS, REGARDS, and 3C, respectively). In the REGARDS, the new FSRP was a better predictor among whites compared with blacks.\nA more contemporaneous, new FSRP better predicts current risks in 3 large community samples and could serve as the basis for examining geographic and racial differences in stroke risk and the incremental diagnostic utility of novel stroke risk factors.",
+    "mesh_terms": [
+      "Aged",
+      "Cohort Studies",
+      "Female",
+      "Follow-Up Studies",
+      "Humans",
+      "Kaplan-Meier Estimate",
+      "Male",
+      "Middle Aged",
+      "Predictive Value of Tests",
+      "Prevalence",
+      "Proportional Hazards Models",
+      "Risk Factors",
+      "Stroke"
+    ]
+  },
+  {
+    "pmid": "29060556",
+    "title": "Comparing deep neural network and other machine learning algorithms for stroke prediction in a large-scale population-based electronic medical claims database.",
+    "abstract": "Electronic medical claims (EMCs) can be used to accurately predict the occurrence of a variety of diseases, which can contribute to precise medical interventions. While there is a growing interest in the application of machine learning (ML) techniques to address clinical problems, the use of deep-learning in healthcare have just gained attention recently. Deep learning, such as deep neural network (DNN), has achieved impressive results in the areas of speech recognition, computer vision, and natural language processing in recent years. However, deep learning is often difficult to comprehend due to the complexities in its framework. Furthermore, this method has not yet been demonstrated to achieve a better performance comparing to other conventional ML algorithms in disease prediction tasks using EMCs. In this study, we utilize a large population-based EMC database of around 800,000 patients to compare DNN with three other ML approaches for predicting 5-year stroke occurrence. The result shows that DNN and gradient boosting decision tree (GBDT) can result in similarly high prediction accuracies that are better compared to logistic regression (LR) and support vector machine (SVM) approaches. Meanwhile, DNN achieves optimal results by using lesser amounts of patient data when comparing to GBDT method.",
+    "mesh_terms": [
+      "Algorithms",
+      "Databases, Factual",
+      "Humans",
+      "Machine Learning",
+      "Neural Networks, Computer",
+      "Stroke",
+      "Support Vector Machine"
+    ]
+  },
+  {
+    "pmid": "30441548",
+    "title": "Improving Young Stroke Prediction by Learning with Active Data Augmenter in a Large-Scale Electronic Medical Claims Database.",
+    "abstract": "Electronic medical claims (EMC) database has been successfully used for predicting occurrences of stroke and a variety of other diseases. However, inadequate predictive performances have been observed in cases of rare occurrences due to both insufficient training samples and highly imbalanced class distribution. In this work, our aim is to improve stroke prediction, especially for young age group (25-45 year-old) in a large population-based EMC database (552,898 subjects). We learn a young stroke predictive deep neural network model using a novel active data augmenter. The augmenter selects the most informative EHR data samples from old age stroke patients. This approach achieves 9.3% and 8.2% area under the receiver operating characteristic curve (AUC) value improvements compared to training directly with only young age group data and training all age groups data, respectively. We further provide analyses on the AUC values obtained as a function of the training data size, and the amount and the type of augmented data samples.",
+    "mesh_terms": [
+      "Adult",
+      "Area Under Curve",
+      "Databases, Factual",
+      "Forecasting",
+      "Humans",
+      "Machine Learning",
+      "Middle Aged",
+      "Neural Networks, Computer",
+      "ROC Curve",
+      "Stroke"
+    ]
+  },
+  {
+    "pmid": "33444330",
+    "title": "Polygenic risk scores in cardiovascular risk prediction: A cohort study and modelling analyses.",
+    "abstract": "Polygenic risk scores (PRSs) can stratify populations into cardiovascular disease (CVD) risk groups. We aimed to quantify the potential advantage of adding information on PRSs to conventional risk factors in the primary prevention of CVD.\nUsing data from UK Biobank on 306,654 individuals without a history of CVD and not on lipid-lowering treatments (mean age [SD]: 56.0 [8.0] years; females: 57%; median follow-up: 8.1 years), we calculated measures of risk discrimination and reclassification upon addition of PRSs to risk factors in a conventional risk prediction model (i.e., age, sex, systolic blood pressure, smoking status, history of diabetes, and total and high-density lipoprotein cholesterol). We then modelled the implications of initiating guideline-recommended statin therapy in a primary care setting using incidence rates from 2.1 million individuals from the Clinical Practice Research Datalink. The C-index, a measure of risk discrimination, was 0.710 (95% CI 0.703-0.717) for a CVD prediction model containing conventional risk predictors alone. Addition of information on PRSs increased the C-index by 0.012 (95% CI 0.009-0.015), and resulted in continuous net reclassification improvements of about 10% and 12% in cases and non-cases, respectively. If a PRS were assessed in the entire UK primary care population aged 40-75 years, assuming that statin therapy would be initiated in accordance with the UK National Institute for Health and Care Excellence guidelines (i.e., for persons with a predicted risk of ≥10% and for those with certain other risk factors, such as diabetes, irrespective of their 10-year predicted risk), then it could help prevent 1 additional CVD event for approximately every 5,750 individuals screened. By contrast, targeted assessment only among people at intermediate (i.e., 5% to <10%) 10-year CVD risk could help prevent 1 additional CVD event for approximately every 340 individuals screened. Such a targeted strategy could help prevent 7% more CVD events than conventional risk prediction alone. Potential gains afforded by assessment of PRSs on top of conventional risk factors would be about 1.5-fold greater than those provided by assessment of C-reactive protein, a plasma biomarker included in some risk prediction guidelines. Potential limitations of this study include its restriction to European ancestry participants and a lack of health economic evaluation.\nOur results suggest that addition of PRSs to conventional risk factors can modestly enhance prediction of first-onset CVD and could translate into population health benefits if used at scale.",
+    "mesh_terms": [
+      "Adult",
+      "Aged",
+      "Biomarkers",
+      "Cardiovascular Diseases",
+      "Cohort Studies",
+      "Female",
+      "Heart Disease Risk Factors",
+      "Humans",
+      "Incidence",
+      "Male",
+      "Middle Aged",
+      "Risk Assessment",
+      "United Kingdom"
+    ]
+  },
+  {
+    "pmid": "37388187",
+    "title": "Development of a predictive risk stratification tool to identify the population over age 45 at risk for new-onset stroke within 7 years.",
+    "abstract": "With the acceleration of the aging process of society, stroke has become a major health problem in the middle-aged and elderly population. A number of new stroke risk factors have been recently found. It is necessary to develop a predictive risk stratification tool using multidimensional risk factors to identify people at high risk for stroke.\nThe study included 5,844 people (age ≥ 45 years) who participated in the China Health and Retirement Longitudinal Study in 2011 and its follow-up up to 2018. The population samples were divided into training set and validation set according to 1:1. A LASSO Cox screening was performed to identify the predictors of new-onset stroke. A nomogram was developed, and the population was stratified according to the score calculated through the X-tile program. Internal and external verifications of the nomogram were performed by ROC and calibration curves, and the Kaplan-Meier method was applied to identify the performance of the risk stratification system.\nThe LASSO Cox regression screened out 13 candidate predictors from 50 risk factors. Finally, nine predictors, including low physical performance and the triglyceride-glucose index, were included in the nomogram. The nomogram's overall performance was good in both internal and external validations (AUCs at 3-, 5-, and 7-year periods were 0.71, 0.71, and 0.71 in the training set and 0.67, 0.65, and 0.66 in the validation set, respectively). The nomogram was proven to excellently discriminate between the low-, moderate-, and high-risk groups, with a prevalence of 7-year new-onset stroke of 3.36, 8.32, and 20.13%, respectively (P < 0.001).\nThis research developed a clinical predictive risk stratification tool that can effectively identify the different risks of new-onset stroke in 7 years in the middle-aged and elderly Chinese population.",
+    "mesh_terms": []
+  }
+]

@@ -1,0 +1,1 @@
+((("Stroke"[Mesh]) OR ((((((Stroke*[Title/Abstract]) OR (Cerebrovascular Accident*[Title/Abstract])) OR (Cerebrovascular Apoplexy[Title/Abstract])) OR (Brain Vascular Accident*[Title/Abstract])) OR (Apoplexy[Title/Abstract])) OR (CVAs[Title/Abstract]))) AND (("Arthritis, Rheumatoid"[Mesh]) OR (Rheumatoid Arthritis[Title/Abstract]))) AND (("risk"[Mesh]) OR (risk[Title/Abstract]))

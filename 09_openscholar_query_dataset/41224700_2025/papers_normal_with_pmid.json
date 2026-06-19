@@ -1,0 +1,3143 @@
+{
+  "papers": [
+    {
+      "title": "The Role of Estrogens in Rheumatoid Arthritis Physiopathology",
+      "authors": [
+        {
+          "name": "M. F. Romo-García",
+          "id": "1413927974"
+        },
+        {
+          "name": "M. Zapata-Zúñiga",
+          "id": "1413937054"
+        },
+        {
+          "name": "J. A. Enciso-Moreno",
+          "id": "1398490585"
+        },
+        {
+          "name": "J. Castañeda-Delgado",
+          "id": "1398717463"
+        }
+      ],
+      "year": 2020,
+      "venue": "Rheumatoid Arthritis - Other Perspectives towards a Better Practice",
+      "score": 0.9672730720395482,
+      "abstract": "Rheumatoid arthritis (RA) is a chronic, inflammatory joint disease that can lead to irreversible disability. It affects women in a higher proportion than men (3:1 cases). Several reports suggest a link between female sexual hormones (estrogens) and RA features. It’s been described that biological processes where basal estrogen levels are altered like in menstruation, pregnancy, and menopause modifies RA onset, flare, disease severity, and inflammation. Estrogens have a direct action upon the immune system though ERα and ERβ receptors, which have distinct affinity to estrogen concentrations and modifications and have effects upon RA in a dose and receptor dependent manner. The studies focused on dose dependent response at experimental settings reveal a wide (from 25 pg/L to several μg/L) and even contradictory spectrum of effects in patients and cells. This chapter summarizes the contributions and effects of estrogens in RA physiopathology, clinical features, and discusses the possible contributions of estrogen administration and concentration of hormone replacement therapy (HRT) to improve the quality of life and reduce the symptoms of RA patients based on the knowledge of the biology of these hormones.",
+      "corpusId": 225270697,
+      "url": "https://api.semanticscholar.org/CorpusId:225270697",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Effects of oral contraceptives and menopausal hormone therapy on the risk of rheumatoid arthritis: a prospective cohort study",
+      "authors": [
+        {
+          "name": "Fatemeh Hadizadeh",
+          "id": "2248903296"
+        },
+        {
+          "name": "Therese Johansson",
+          "id": "2062765894"
+        },
+        {
+          "name": "Åsa Johansson",
+          "id": "2243931176"
+        },
+        {
+          "name": "T. Karlsson",
+          "id": "14824597"
+        },
+        {
+          "name": "W. Ek",
+          "id": "5515465"
+        }
+      ],
+      "year": 2023,
+      "venue": "Rheumatology",
+      "score": 0.8616862179002878,
+      "abstract": "Abstract Objectives Oral contraceptives (OC) and menopausal hormone therapy (MHT) contain exogenous sex hormones and are used by millions of women around the world. However, their effect on the development of rheumatoid arthritis (RA) is still debated and the current literature suggests that they may exert opposite effects on the risk of RA. The present study aimed to estimate the effects of exogenous hormones on the development of RA, both during the reproductive lifespan and later in life. Methods The association between OC and RA, as well as between MHT and late-onset RA (LORA), was investigated using time-dependent Cox regression modelling in white British women from the UK Biobank (n = 236 602 and n = 102 466, respectively) and replicated in women from all ethnic groups. Results OC use was associated with a decreased risk of RA in ever-users [hazard ratio (HR) = 0.89; 95% CI = 0.82–0.96], as well as in current (HR = 0.81; 0.73–0.91) and former users (HR = 0.92; 0.84 –1.00), compared with never-users. In contrast, MHT use was associated with an increased risk of LORA in ever-users (HR = 1.16; 1.06–1.26) as well as in former users (HR = 1.13; 1.03–1.24) compared with never-users. Conclusion OC use appears to protect against RA, while MHT may increase the risk of LORA. This study provides new insights into the possible inverse effect of exposure to different exogenous sex hormones on the risk of RA.",
+      "corpusId": 263254695,
+      "url": "https://api.semanticscholar.org/CorpusId:263254695",
+      "pubmed_id": "37773999",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1093/rheumatology/kead513",
+        "matched_title": "Effects of oral contraceptives and menopausal hormone therapy on the risk of rheumatoid arthritis: a prospective cohort study.",
+        "matched_pubdate": "2024 Aug 1",
+        "matched_source": "Rheumatology (Oxford)"
+      }
+    },
+    {
+      "title": "Do breast-feeding and other reproductive factors influence future risk of rheumatoid arthritis? Results from the Nurses' Health Study.",
+      "authors": [
+        {
+          "name": "E. Karlson",
+          "id": "2542696"
+        },
+        {
+          "name": "L. Mandl",
+          "id": "5822407"
+        },
+        {
+          "name": "S. Hankinson",
+          "id": "6640100"
+        },
+        {
+          "name": "F. Grodstein",
+          "id": "50753255"
+        }
+      ],
+      "year": 2004,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.8588478294487356,
+      "abstract": "",
+      "corpusId": 25351680,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/15529351",
+      "pubmed_id": "15529351",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/art.20621",
+        "matched_title": "Do breast-feeding and other reproductive factors influence future risk of rheumatoid arthritis? Results from the Nurses' Health Study.",
+        "matched_pubdate": "2004 Nov",
+        "matched_source": "Arthritis Rheum"
+      }
+    },
+    {
+      "title": "Breast feeding, but not use of oral contraceptives, is associated with a reduced risk of rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "M. Pikwer",
+          "id": "5593981"
+        },
+        {
+          "name": "U. Bergström",
+          "id": "5055725"
+        },
+        {
+          "name": "J. Nilsson",
+          "id": "144358123"
+        },
+        {
+          "name": "L. Jacobsson",
+          "id": "1400716052"
+        },
+        {
+          "name": "G. Berglund",
+          "id": "1712277"
+        },
+        {
+          "name": "C. Turesson",
+          "id": "6584791"
+        }
+      ],
+      "year": 2008,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.856159875453882,
+      "abstract": "",
+      "corpusId": 23410049,
+      "url": "https://doi.org/10.1136/ard.2007.084707",
+      "pubmed_id": "18477739",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/ard.2007.084707",
+        "matched_title": "Breast feeding, but not use of oral contraceptives, is associated with a reduced risk of rheumatoid arthritis.",
+        "matched_pubdate": "2009 Apr",
+        "matched_source": "Ann Rheum Dis"
+      }
+    },
+    {
+      "title": "Oral contraceptives and the risk of rheumatoid arthritis in women: A systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "L. Luo",
+          "id": "2243131134"
+        },
+        {
+          "name": "Hejing Pan",
+          "id": "2306710574"
+        },
+        {
+          "name": "Xuanlin Li",
+          "id": "2256940664"
+        },
+        {
+          "name": "Lin Huang",
+          "id": "2256951211"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of International Medical Research",
+      "score": 0.8559732663375702,
+      "abstract": "Objectives The relationship between the use of oral contraceptives and the risk of rheumatoid arthritis remains unclear. The objective of this meta-analysis was to comprehensively evaluate the association between oral contraceptive use and rheumatoid arthritis risk. Methods A systematic search was conducted in PubMed, EMBASE, and Cochrane Library databases for cohort studies published from 1980 to July 2024. Studies were assessed for bias using the Newcastle–Ottawa Scale. Two investigators independently screened abstracts and full-text articles and graded the certainty of evidence according to the Grading of Recommendations Assessment, Development and Evaluation approach. Data were analyzed using random effects models, and publication bias was evaluated using funnel plots and Egger test. A leave-one-out sensitivity analysis was performed, which demonstrated the robustness of the overall pooled estimate. Results Twelve cohort studies (1989–2024) with 1,126,554 participants were included. There was no significant overall association between oral contraceptive use and rheumatoid arthritis risk (relative risk = 0.96, 95% confidence interval: 0.93–1.00, I2 = 0.0%, p = 0.920). However, subgroup analysis revealed that oral contraceptive use for ≤5 years was associated with a higher risk of rheumatoid arthritis (relative risk = 1.08, 95% confidence interval: 1.01–1.16, I2 = 59.4%, p = 0.043). Current oral contraceptive use was linked to a reduced risk of rheumatoid arthritis (relative risk = 0.86, 95% confidence interval: 0.77–0.95, I2 = 0.0%, p = 0.840), while past oral contraceptive use showed no such association (relative risk = 0.94, 95% confidence interval: 0.87–1.02, I2 = 0.0%, p = 0.961). No publication bias was detected in the included studies (p = 0.183, Egger test). Conclusions This meta-analysis found no overall protective effect of oral contraceptive use on the risk of rheumatoid arthritis but suggested that current oral contraceptive use may lower the risk. Caution must be exercised while interpreting these results, particularly in studies with shorter follow-up periods, wherein the association might be stronger.",
+      "corpusId": 282990777,
+      "url": "https://api.semanticscholar.org/CorpusId:282990777",
+      "pubmed_id": "41224700",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1177/03000605251391940",
+        "matched_title": "Oral contraceptives and the risk of rheumatoid arthritis in women: A systematic review and meta-analysis.",
+        "matched_pubdate": "2025 Nov",
+        "matched_source": "J Int Med Res"
+      }
+    },
+    {
+      "title": "Environmental risk factors differ between rheumatoid arthritis with and without auto-antibodies against cyclic citrullinated peptides",
+      "authors": [
+        {
+          "name": "M. Pedersen",
+          "id": "32236866"
+        },
+        {
+          "name": "S. Jacobsen",
+          "id": "40048979"
+        },
+        {
+          "name": "M. Klarlund",
+          "id": "6288938"
+        },
+        {
+          "name": "B. V. Pedersen",
+          "id": "3379536"
+        },
+        {
+          "name": "A. Wiik",
+          "id": "145374567"
+        },
+        {
+          "name": "J. Wohlfahrt",
+          "id": "2350904"
+        },
+        {
+          "name": "M. Frisch",
+          "id": "3051596"
+        }
+      ],
+      "year": 2006,
+      "venue": "Arthritis Research & Therapy",
+      "score": 0.8438496744326116,
+      "abstract": "The aim of this study was to evaluate new and previously hypothesised non-genetic risk factors for serologic subtypes of rheumatoid arthritis (RA) defined by the presence or absence of auto-antibodies to cyclic citrullinated peptides (CCP). In a national case-control study, we included 515 patients recently diagnosed with RA according to the American College of Rheumatology 1987 classification criteria and 769 gender- and age-matched population controls. Telephone interviews provided information about non-genetic exposures, and serum samples for patients were tested for anti-CCP-antibodies. Associations between exposure variables and risk of anti-CCP-positive and anti-CCP-negative RA were evaluated using logistic regression. A series of RA subtype-specific risk factors were identified. Tobacco smoking (odds ratio [OR] = 1.65; 95% confidence interval: 1.03–2.64, for >20 versus 0 pack-years) was selectively associated with risk of anti-CCP-positive RA, whereas alcohol consumption exhibited an inverse dose-response association with this RA subtype (OR = 1.98, 1.22–3.19, for 0 versus >0–5 drinks per week). Furthermore, coffee consumption (OR = 2.18; 1.07–4.42, for >10 versus 0 cups per day), ever use of oral contraceptives (OR = 1.65; 1.06–2.57) and having a first-degree relative with schizophrenia (OR = 4.18; 1.54–11.3) appeared more strongly associated with risk of anti-CCP-positive RA. Obesity was selectively associated with risk of anti-CCP-negative RA, with obese individuals being at more than 3-fold increased risk of this subtype compared with normal-weight individuals (OR = 3.45; 1.73–6.87). Age at menarche was the only examined factor that was significantly associated with both serologic subtypes of RA (p-trends = 0.01); women with menarche at age ≥ 15 years had about twice the risk of either RA subtype compared with women with menarche at age ≤ 12 years. Major differences in risk factor profiles suggest distinct etiologies for anti-CCP-positive and anti-CCP-negative RA.",
+      "corpusId": 1675193,
+      "url": "https://doi.org/10.1186/ar2022",
+      "pubmed_id": "16872514",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1186/ar2022",
+        "matched_title": "Environmental risk factors differ between rheumatoid arthritis with and without auto-antibodies against cyclic citrullinated peptides.",
+        "matched_pubdate": "2006",
+        "matched_source": "Arthritis Res Ther"
+      }
+    },
+    {
+      "title": "Reduction in incidence of rheumatoid arthritis associated with oral contraceptives. Royal College of General Practitioners' Oral Contraception Study.",
+      "authors": [],
+      "year": 1978,
+      "venue": "The Lancet",
+      "score": 0.837971057445167,
+      "abstract": "",
+      "corpusId": 125433,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/76118",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Strong combined gene-environment effects in anti-cyclic citrullinated peptide-positive rheumatoid arthritis: a nationwide case-control study in Denmark.",
+      "authors": [
+        {
+          "name": "M. Pedersen",
+          "id": "32236866"
+        },
+        {
+          "name": "S. Jacobsen",
+          "id": "40048979"
+        },
+        {
+          "name": "P. Garred",
+          "id": "3521164"
+        },
+        {
+          "name": "H. Madsen",
+          "id": "114445821"
+        },
+        {
+          "name": "M. Klarlund",
+          "id": "6288938"
+        },
+        {
+          "name": "A. Svejgaard",
+          "id": "4268883"
+        },
+        {
+          "name": "B. V. Pedersen",
+          "id": "3379536"
+        },
+        {
+          "name": "J. Wohlfahrt",
+          "id": "2350904"
+        },
+        {
+          "name": "M. Frisch",
+          "id": "3051596"
+        }
+      ],
+      "year": 2007,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.8301730775399362,
+      "abstract": "",
+      "corpusId": 21623406,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/17469102",
+      "pubmed_id": "17469102",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/art.22597",
+        "matched_title": "Strong combined gene-environment effects in anti-cyclic citrullinated peptide-positive rheumatoid arthritis: a nationwide case-control study in Denmark.",
+        "matched_pubdate": "2007 May",
+        "matched_source": "Arthritis Rheum"
+      }
+    },
+    {
+      "title": "Hormonal and reproductive factors in relation to the risk of rheumatoid arthritis in women: a prospective cohort study with 223 526 participants",
+      "authors": [
+        {
+          "name": "Ling-Qiong Jiang",
+          "id": "2163732887"
+        },
+        {
+          "name": "Ruo-Di Zhang",
+          "id": "2163590526"
+        },
+        {
+          "name": "H. A. Musonye",
+          "id": "1413597795"
+        },
+        {
+          "name": "Hao-Yun Zhao",
+          "id": "2278623947"
+        },
+        {
+          "name": "Yi-Sheng He",
+          "id": "1665543133"
+        },
+        {
+          "name": "Chan-Na Zhao",
+          "id": "18097201"
+        },
+        {
+          "name": "Tian He",
+          "id": "2275900478"
+        },
+        {
+          "name": "Tian Tian",
+          "id": "2276681267"
+        },
+        {
+          "name": "Zhao-Xing Gao",
+          "id": "2223411380"
+        },
+        {
+          "name": "Yang Fang",
+          "id": "2163748156"
+        },
+        {
+          "name": "Peng Wang",
+          "id": "2239825199"
+        },
+        {
+          "name": "Jing Ni",
+          "id": "2239185461"
+        },
+        {
+          "name": "Hai‐Feng Pan",
+          "id": "2237247273"
+        }
+      ],
+      "year": 2024,
+      "venue": "RMD Open",
+      "score": 0.805165024628626,
+      "abstract": "Objective This study aimed to examine rheumatoid arthritis (RA) risk associated with hormonal and reproductive factors in women from the large cohort of the UK Biobank. Methods Data on hormonal and reproductive factors in women were collected from a prospective cohort of 223 526 UK Biobank participants. The potential relationship between reproductive factors and RA risk was assessed using restricted cubic spline. Hazard ratios (HR) were estimated using Cox proportional hazard regressions. Results During a median follow-up of 12.39 years, 3313 women with RA were identified. Age at menarche >14 years was associated with a greater RA risk (HR 1.13, 95% CI 1.02 to 1.26) compared with menarche at 13. The multiple adjusted HR for RA in women with menopause at <45 years was 1.46. Reproductive years <33 increased the risk of RA (HR 1.39, 95% CI 1.21 to 1.59). Compared with those with 2 children, women with ≥4 children were associated with a higher risk of RA (HR 1.18, 95% CI 1.04 to 1.34). Women who had a hysterectomy (HR 1.40, 95% CI 1.25 to 1.56) or oophorectomy (HR 1.21, 95% CI 1.08 to 1.35) had a higher risk of RA than those without a hysterectomy or oophorectomy. Both hormone replacement therapy (HRT) use (HR 1.46, 95% CI 1.35 to 1.57) and HRT duration (HR 1.02, 95% CI 1.01 to 1.03) were associated with a higher risk of RA. Conclusions Some hormonal and reproductive factors were associated with a higher risk of RA. Hormonal and reproductive factors should be considered in risk assessment and formulating management plans in female patients with RA.",
+      "corpusId": 266873508,
+      "url": "https://api.semanticscholar.org/CorpusId:266873508",
+      "pubmed_id": "38195516",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1136/rmdopen-2023-003338",
+        "matched_title": "Hormonal and reproductive factors in relation to the risk of rheumatoid arthritis in women: a prospective cohort study with 223 526 participants.",
+        "matched_pubdate": "2024 Jan 9",
+        "matched_source": "RMD Open"
+      }
+    },
+    {
+      "title": "Environment and Lifestyle: Their Influence on the Risk of RA",
+      "authors": [
+        {
+          "name": "C. Salliot",
+          "id": "3553818"
+        },
+        {
+          "name": "Yann Nguyen",
+          "id": "153690770"
+        },
+        {
+          "name": "M. Boutron‐Ruault",
+          "id": "1388894949"
+        },
+        {
+          "name": "R. Seror",
+          "id": "5625939"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.7919354609008924,
+      "abstract": "Background: Rheumatoid arthritis (RA) is a complex disease in which environmental agents are thought to interact with genetic factors that lead to triggering of autoimmunity. Methods: We reviewed environmental, hormonal, and dietary factors that have been suggested to be associated with the risk of RA. Results: Smoking is the most robust factor associated with the risk of RA, with a clear gene–environment interaction. Among other inhalants, silica may increase the risk of RA in men. There is less evidence for pesticides, pollution, and other occupational inhalants. Regarding female hormonal exposures, there is some epidemiological evidence, although not consistent in the literature, to suggest a link between hormonal factors and the risk of RA. Regarding dietary factors, available evidence is conflicting. A high consumption of coffee seems to be associated with an increased risk of RA, whereas a moderate consumption of alcohol is inversely associated with the risk of RA, and there is less evidence regarding other food groups. Dietary pattern analyses (Mediterranean diet, the inflammatory potential of the diet, or diet quality) suggested a potential benefit of dietary modifications for individuals at high risk of RA. Conclusion: To date, smoking and silica exposure have been reproducibly demonstrated to trigger the emergence of RA. However, many other environmental factors have been studied, mostly with a case-control design. Results were conflicting and studies rarely considered potential gene–environment interactions. There is a need for large scale prospective studies and studies in predisposed individuals to better understand and prevent the disease and its course.",
+      "corpusId": 222156716,
+      "url": "https://api.semanticscholar.org/CorpusId:222156716",
+      "pubmed_id": "32993091",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/jcm9103109",
+        "matched_title": "Environment and Lifestyle: Their Influence on the Risk of RA.",
+        "matched_pubdate": "2020 Sep 26",
+        "matched_source": "J Clin Med"
+      }
+    },
+    {
+      "title": "Exogenous sex hormones and the risk of rheumatoid arthritis.",
+      "authors": [
+        {
+          "name": "M. Hernández-Ávila",
+          "id": "1422004508"
+        },
+        {
+          "name": "M. Liang",
+          "id": "4148311"
+        },
+        {
+          "name": "W. Willett",
+          "id": "2132591752"
+        },
+        {
+          "name": "M. Stampfer",
+          "id": "144118015"
+        },
+        {
+          "name": "G. Colditz",
+          "id": "2169402573"
+        },
+        {
+          "name": "B. Rosner",
+          "id": "2054533097"
+        },
+        {
+          "name": "R. Chang",
+          "id": "2320759"
+        },
+        {
+          "name": "C. Hennekens",
+          "id": "4870531"
+        },
+        {
+          "name": "F. Speizer",
+          "id": "4179476"
+        }
+      ],
+      "year": 1990,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.7858972740096843,
+      "abstract": "",
+      "corpusId": 32035410,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/2369431",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Associations of Oral Contraceptive Use With Cardiovascular Disease and All‐Cause Death: Evidence From the UK Biobank Cohort Study",
+      "authors": [
+        {
+          "name": "Weijuan Dou",
+          "id": "2075465366"
+        },
+        {
+          "name": "Yan Huang",
+          "id": "2155605763"
+        },
+        {
+          "name": "Xuesong Liu",
+          "id": "2151061307"
+        },
+        {
+          "name": "Chensihan Huang",
+          "id": "1825674729"
+        },
+        {
+          "name": "Junling Huang",
+          "id": "2215110634"
+        },
+        {
+          "name": "Bingyan Xu",
+          "id": "1825718736"
+        },
+        {
+          "name": "Linjie Yang",
+          "id": "2145500994"
+        },
+        {
+          "name": "Yating Liu",
+          "id": "2209556979"
+        },
+        {
+          "name": "Xuzhen Lei",
+          "id": "2142357685"
+        },
+        {
+          "name": "Xu Li",
+          "id": "2229446480"
+        },
+        {
+          "name": "Junfeng Huang",
+          "id": "2118224641"
+        },
+        {
+          "name": "Jiayang Lin",
+          "id": "51260737"
+        },
+        {
+          "name": "Deying Liu",
+          "id": "1878480"
+        },
+        {
+          "name": "Peizhen Zhang",
+          "id": "2115511980"
+        },
+        {
+          "name": "Jiaqing Shao",
+          "id": "2111877292"
+        },
+        {
+          "name": "Changqin Liu",
+          "id": "1482411392"
+        },
+        {
+          "name": "Huijie Zhang",
+          "id": "2108658992"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease",
+      "score": 0.7785743939355125,
+      "abstract": "Background The associations of oral contraceptive (OC) use with cardiovascular disease (CVD) and all‐cause death remains unclear. We aimed to determine the associations of OC use with incident CVD and all‐cause death. Methods and Results This cohort study included 161 017 women who had no CVD at baseline and reported their OC use. We divided OC use into ever use and never use. Cox proportional hazard models were used to calculate hazard ratios and 95% CIs for cardiovascular outcomes and death. Overall, 131 131 (81.4%) of 161 017 participants reported OC use at baseline. The multivariable‐adjusted hazard ratios for OC ever users versus never users were 0.92 (95% CI, 0.86–0.99) for all‐cause death, 0.91 (95% CI, 0.87–0.96) for incident CVD events, 0.88 (95% CI, 0.81–0.95) for coronary heart disease, 0.87 (95% CI, 0.76–0.99) for heart failure, and 0.92 (95% CI, 0.84–0.99) for atrial fibrillation. However, no significant associations of OC use with CVD death, myocardial infarction, or stroke were observed. Furthermore, the associations of OC use with CVD events were stronger among participants with longer durations of use (P for trend<0.001). Conclusions OC use was not associated with an increased risk of CVD events and all‐cause death in women and may even produce an apparent net benefit. In addition, the beneficial effects appeared to be more apparent in participants with longer durations of use.",
+      "corpusId": 260827702,
+      "url": "https://api.semanticscholar.org/CorpusId:260827702",
+      "pubmed_id": "37581386",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1161/jaha.123.030105",
+        "matched_title": "Associations of Oral Contraceptive Use With Cardiovascular Disease and All-Cause Death: Evidence From the UK Biobank Cohort Study.",
+        "matched_pubdate": "2023 Aug 15",
+        "matched_source": "J Am Heart Assoc"
+      }
+    },
+    {
+      "title": "Association Between the Use of Oral Contraceptives and the Development of Rheumatoid Arthritis: A Systematic Review and Meta-Analysis",
+      "authors": [
+        {
+          "name": "A. Marino",
+          "id": "2052737355"
+        },
+        {
+          "name": "D. Currado",
+          "id": "51497888"
+        },
+        {
+          "name": "O. Berardicurti",
+          "id": "6813205"
+        },
+        {
+          "name": "Marta Vomero",
+          "id": "2273220056"
+        },
+        {
+          "name": "Lyubomyra Kun",
+          "id": "2271449751"
+        },
+        {
+          "name": "Letizia Pia Di Corcia",
+          "id": "2283057940"
+        },
+        {
+          "name": "E. Corberi",
+          "id": "2283060259"
+        },
+        {
+          "name": "F. Trunfio",
+          "id": "2164793945"
+        },
+        {
+          "name": "F. Saracino",
+          "id": "2249266379"
+        },
+        {
+          "name": "Ludovica Lamberti",
+          "id": "2321695856"
+        },
+        {
+          "name": "Leonardo Frascà",
+          "id": "2303950084"
+        },
+        {
+          "name": "A. Battista",
+          "id": "2410214727"
+        },
+        {
+          "name": "M. Alfano",
+          "id": "2392575100"
+        },
+        {
+          "name": "Manuela Pietramale",
+          "id": "2352443459"
+        },
+        {
+          "name": "S. Schiavone",
+          "id": "1995503254"
+        },
+        {
+          "name": "R. Giacomelli",
+          "id": "2425791493"
+        },
+        {
+          "name": "L. Navarini",
+          "id": "5869095"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.7750467335953279,
+      "abstract": "Background: Rheumatoid arthritis (RA) is a chronic inflammatory joint disease that significantly impacts quality of life, particularly among women. Previous studies have suggested that oral contraceptive (OC) use may influence RA risk, but conflicting findings from earlier meta-analyses necessitate an updated analysis incorporating more recent data. Methods: We conducted a systematic review and meta-analysis of observational studies on OC use and RA risk by searching MedLine (via PubMed), Scopus, and Cochrane Databases up to September 2024. Results: Our analysis demonstrated that current or prior use of OCs is associated with a statistically significant reduction in RA risk (OR 0.80, 95% CI 0.70–0.91). In contrast, the associations for current use (OR 0.59, 95% CI 0.34–1.02) and past use (OR 0.83, 95% CI 0.69–1.01) were less definitive, likely due to substantial heterogeneity among studies. Cumulative meta-analysis revealed a modest temporal trend toward a protective effect of OC use. Conclusions: This meta-analysis supports a protective association between current or prior OC use and the development of RA, highlighting the potential role of hormonal factors in RA pathogenesis.",
+      "corpusId": 277835201,
+      "url": "https://api.semanticscholar.org/CorpusId:277835201",
+      "pubmed_id": "40283539",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/jcm14082710",
+        "matched_title": "Association Between the Use of Oral Contraceptives and the Development of Rheumatoid Arthritis: A Systematic Review and Meta-Analysis.",
+        "matched_pubdate": "2025 Apr 15",
+        "matched_source": "J Clin Med"
+      }
+    },
+    {
+      "title": "Oral contraceptives, reproductive factors and risk of inflammatory bowel disease",
+      "authors": [
+        {
+          "name": "H. Khalili",
+          "id": "3704928"
+        },
+        {
+          "name": "L. Higuchi",
+          "id": "3558443"
+        },
+        {
+          "name": "A. Ananthakrishnan",
+          "id": "2034658"
+        },
+        {
+          "name": "J. Richter",
+          "id": "144407496"
+        },
+        {
+          "name": "D. Feskanich",
+          "id": "3517509"
+        },
+        {
+          "name": "C. Fuchs",
+          "id": "1710084"
+        },
+        {
+          "name": "A. Chan",
+          "id": "2168928633"
+        }
+      ],
+      "year": 2012,
+      "venue": "Gut",
+      "score": 0.772838135249378,
+      "abstract": "",
+      "corpusId": 206957003,
+      "url": "https://doi.org/10.1136/gutjnl-2012-302362",
+      "pubmed_id": "22619368",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/gutjnl-2012-302362",
+        "matched_title": "Oral contraceptives, reproductive factors and risk of inflammatory bowel disease.",
+        "matched_pubdate": "2013 Aug",
+        "matched_source": "Gut"
+      }
+    },
+    {
+      "title": "The protective effect of the oral contraceptive pill on rheumatoid arthritis: an overview of the analytic epidemiological studies using meta-analysis.",
+      "authors": [
+        {
+          "name": "T. Spector",
+          "id": "2112877498"
+        },
+        {
+          "name": "M. Hochberg",
+          "id": "1962410373"
+        }
+      ],
+      "year": 1990,
+      "venue": "Journal of Clinical Epidemiology",
+      "score": 0.7690867299314115,
+      "abstract": "",
+      "corpusId": 9278023,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/2147033",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Meta-analysis of oral contraceptives and rheumatoid arthritis risk in women",
+      "authors": [
+        {
+          "name": "S. Qi",
+          "id": "2053993449"
+        },
+        {
+          "name": "Rui Xin",
+          "id": "2066180662"
+        },
+        {
+          "name": "Weina Guo",
+          "id": "2770669"
+        },
+        {
+          "name": "Yan Liu",
+          "id": "2157170020"
+        }
+      ],
+      "year": 2014,
+      "venue": "Therapeutics and Clinical Risk Management",
+      "score": 0.756053185861533,
+      "abstract": "Background and objectives Epidemiological investigations of the relationship between oral contraceptives and rheumatoid arthritis (RA) risk have reported controversial results. Therefore, a meta-analysis of case-control or cohort studies was performed to evaluate the role of oral contraceptives in relation to risk of developing RA. Methods Eligible studies were identified from databases PubMed and EMBASE by searching and reviewing references. Random effect models were utilized to summarize the relative risk (RR) estimates with 95% confidence intervals (CIs). Results A total of 12 case-control studies and five cohort studies were eligible for our analysis. No statistically significant association was observed between oral contraceptives and RA risk (RR=0.88, 95% CI=0.75–1.03). In the subgroup of geographic area, a decreased risk of borderline significance was observed for oral contraceptive users in European studies (RR=0.79, 95% CI=0.62–1.01), but this association did not emerge in the North American studies group (RR=0.99, 95% CI=0.81–1.21). No evidence for publication bias was detected (P for Egger’s test =0.231). Conclusion Our results of meta-analysis do not support the hypothesis of a protective effect of oral contraceptives on the risk for RA in women.",
+      "corpusId": 7899927,
+      "url": "https://pdfs.semanticscholar.org/20c9/e1210f20ed916dfa69bd48a63131ab594c2c.pdf",
+      "pubmed_id": "25395857",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2147/tcrm.s70867",
+        "matched_title": "Meta-analysis of oral contraceptives and rheumatoid arthritis risk in women.",
+        "matched_pubdate": "2014",
+        "matched_source": "Ther Clin Risk Manag"
+      }
+    },
+    {
+      "title": "The effect of oral contraceptives and estrogen replacement therapy on the risk of rheumatoid arthritis: a population based study.",
+      "authors": [
+        {
+          "name": "M. Doran",
+          "id": "31413783"
+        },
+        {
+          "name": "C. Crowson",
+          "id": "5034070"
+        },
+        {
+          "name": "W. O'Fallon",
+          "id": "2271803241"
+        },
+        {
+          "name": "S. Gabriel",
+          "id": "3317169"
+        }
+      ],
+      "year": 2004,
+      "venue": "Journal of Rheumatology",
+      "score": 0.7249571855331115,
+      "abstract": "",
+      "corpusId": 22035468,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/14760786",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Oral contraceptives, breastfeeding and the risk of developing rheumatoid arthritis: results from the Swedish EIRA study",
+      "authors": [
+        {
+          "name": "C. Orellana",
+          "id": "145599433"
+        },
+        {
+          "name": "S. Saevarsdottir",
+          "id": "145290000"
+        },
+        {
+          "name": "L. Klareskog",
+          "id": "153728702"
+        },
+        {
+          "name": "E. Karlson",
+          "id": "2542696"
+        },
+        {
+          "name": "L. Alfredsson",
+          "id": "6611041"
+        },
+        {
+          "name": "C. Bengtsson",
+          "id": "6878810"
+        }
+      ],
+      "year": 2017,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.7205466476076752,
+      "abstract": "Objectives To study whether oral contraceptive (OC) use or breastfeeding (BF) influence the risk of rheumatoid arthritis (RA), stratifying the cases by presence/absence of anticitrullinated protein antibodies (ACPA), and whether these factors interact with known risk factors in the development of ACPA-positive RA. Methods Women aged ≥18 years, participants in the population-based case–control Swedish Epidemiological Investigation of RA study (2641 cases/4251 controls), completed an extensive questionnaire regarding OC, BF and potential confounders. We calculated ORs, with 95% CIs, adjusted for age, residential area, smoking and alcohol consumption. Attributable proportion due to interaction (AP) was estimated to evaluate presence of interaction. Results Compared with never users, ever and past OC users had a decreased risk of ACPA-positive RA (OR=0.84 (95% CI 0.74 to 0.96); OR=0.83 (95% CI 0.73 to 0.95), respectively). No significant associations were found for ACPA-negative RA. Long duration of OC use (>7 years vs never use) decreased the risk of both ACPA-positive (p=0.0037) and ACPA-negative RA (p=0.0356). A history of long BF decreased the risk only of ACPA-positive RA in a dose-dependent manner (p=0.0086), but this trend did not remain after adjustments. A significant interaction was observed between the lack of OC use and smoking (AP=0.28 (95% CI 0.14–0.42)) on the risk of ACPA-positive RA. No interactions were found for BF. Conclusions OC decreased the risk of RA, especially ACPA-positive RA, where an interaction with smoking was observed. A long duration of OC use decreased the risk of both disease subsets. We could not confirm an association between BF and a decreased risk of either ACPA-positive or ACPA-negative RA.",
+      "corpusId": 7914021,
+      "url": "https://doi.org/10.1136/annrheumdis-2017-211620",
+      "pubmed_id": "28818831",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/annrheumdis-2017-211620",
+        "matched_title": "Oral contraceptives, breastfeeding and the risk of developing rheumatoid arthritis: results from the Swedish EIRA study.",
+        "matched_pubdate": "2017 Nov",
+        "matched_source": "Ann Rheum Dis"
+      }
+    },
+    {
+      "title": "Do oral contraceptives prevent rheumatoid arthritis?",
+      "authors": [
+        {
+          "name": "D. J. Junco",
+          "id": "49129685"
+        },
+        {
+          "name": "J. F. Annegers",
+          "id": "2244916649"
+        },
+        {
+          "name": "Harvinder S. Luthra",
+          "id": "2249856461"
+        },
+        {
+          "name": "C. B. Coulam",
+          "id": "2237566952"
+        },
+        {
+          "name": "L. T. Kurland",
+          "id": "2246295242"
+        }
+      ],
+      "year": 1985,
+      "venue": "Journal of the American Medical Association (JAMA)",
+      "score": 0.7114411395779461,
+      "abstract": "",
+      "corpusId": 21773635,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/4046123",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Combined Oral Contraception and Obesity Are Strong Predictors of Low-Grade Inflammation in Healthy Individuals: Results from the Danish Blood Donor Study (DBDS)",
+      "authors": [
+        {
+          "name": "Cecilie J. Sørensen",
+          "id": "1406222073"
+        },
+        {
+          "name": "O. Pedersen",
+          "id": "144886764"
+        },
+        {
+          "name": "M. Petersen",
+          "id": "40556836"
+        },
+        {
+          "name": "E. Sørensen",
+          "id": "1406247494"
+        },
+        {
+          "name": "Sebastian Kotzé",
+          "id": "4318451"
+        },
+        {
+          "name": "L. Thørner",
+          "id": "1401055197"
+        },
+        {
+          "name": "H. Hjalgrim",
+          "id": "6981864"
+        },
+        {
+          "name": "A. Rigas",
+          "id": "33874058"
+        },
+        {
+          "name": "B. Møller",
+          "id": "1400839726"
+        },
+        {
+          "name": "K. Rostgaard",
+          "id": "4282120"
+        },
+        {
+          "name": "Mads Riiskjær",
+          "id": "8428602"
+        },
+        {
+          "name": "H. Ullum",
+          "id": "3453230"
+        },
+        {
+          "name": "C. Erikstrup",
+          "id": "3453733"
+        }
+      ],
+      "year": 2014,
+      "venue": "PLoS ONE",
+      "score": 0.6858127580640996,
+      "abstract": "Background C-reactive protein (CRP) is a well-established marker of inflammation. The level of CRP is affected by several lifestyle factors. A slightly increased CRP level, also known as low-grade inflammation (LGI), is associated with increased risk of several diseases, especially cardiovascular disease. The aim of this study was to identify predictors of increased CRP levels in healthy individuals. We therefore assessed CRP in a large cohort of blood donors. Methods We measured plasma CRP levels in 15,684 participants from the Danish Blood Donor Study. CRP was measured by a commercial assay. Furthermore, all participants completed a standard questionnaire on smoking status, alcohol consumption, physical activity, diet, and various body measurements. Female participants also reported the use of contraception, childbirth, and menopausal status. The relationship between LGI (defined here as a plasma CRP level between 3 mg/L and 10 mg/L) and predictors was explored by multivariable logistic regression analysis. Results were presented as odds ratios (OR) with 95% confidence intervals (CI). Results We found LGI in a total of 1,561 (10.0%) participants. LGI was more frequent in women using combined oral contraception (OC) (29.9%) than in men (6.1%) and women not using OC (7.9%). Among premenopausal women, OC was the strongest predictor of LGI (odds ratio = 8.98, p<0.001). Additionally, body mass index (BMI) and waist circumference were positively associated with LGI. Conclusion High BMI and abdominal obesity strongly predicted LGI among healthy individuals. However, the most striking finding was the high prevalence of LGI among premenopausal women who used combined oral contraception. Although the significance of CRP as a marker of inflammation is well known, the role of CRP in pathogenesis is still uncertain. The impact of oral contraception on CRP levels should nevertheless be considered when CRP is used in risk assessment.",
+      "corpusId": 1083287,
+      "url": "https://api.semanticscholar.org/CorpusId:1083287",
+      "pubmed_id": "24516611",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0088196",
+        "matched_title": "Combined oral contraception and obesity are strong predictors of low-grade inflammation in healthy individuals: results from the Danish Blood Donor Study (DBDS).",
+        "matched_pubdate": "2014",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Menopausal factors and risk of seropositive rheumatoid arthritis in postmenopausal women: a nationwide cohort study of 1.36 million women",
+      "authors": [
+        {
+          "name": "Y. Eun",
+          "id": "46174169"
+        },
+        {
+          "name": "K. Jeon",
+          "id": "32297865"
+        },
+        {
+          "name": "Kyungdo Han",
+          "id": "144326312"
+        },
+        {
+          "name": "Dahye Kim",
+          "id": "153586350"
+        },
+        {
+          "name": "Hyungjin Kim",
+          "id": "2109643326"
+        },
+        {
+          "name": "Jaejoon Lee",
+          "id": "2108395305"
+        },
+        {
+          "name": "Dong-Yun Lee",
+          "id": "47381769"
+        },
+        {
+          "name": "J. Yoo",
+          "id": "153790140"
+        },
+        {
+          "name": "D. Shin",
+          "id": "46714279"
+        }
+      ],
+      "year": 2020,
+      "venue": "Scientific Reports",
+      "score": 0.6764563531643137,
+      "abstract": "In previous literature regarding development of rheumatoid arthritis (RA), female reproductive factors have been described as protective factors, risk factors, or irrelevant, leading to inconsistent results. The aim of this study was to investigate the effect of female reproductive factors on the incidence of seropositive RA. A large population-based retrospective cohort of the National Health Insurance Service data in South Korea was used. Postmenopausal women who participated in both cardiovascular and breast cancer screening in 2009 were included and followed until date of seropositive RA diagnosis, death, or December 31, 2018. Multivariable-adjusted Cox proportional hazards model was used to assess the association between reproductive factors and incident seropositive RA. Of 1,357,736 postmenopausal women, 6056 women were diagnosed with seropositive RA, and the incidence rate was 54.16 cases/100,000 person-years. Reproductive factors other than hormone replacement therapy (HRT) were not significantly associated with seropositive RA incidence. Postmenopausal women who used HRT ≥ 5 years were associated with a higher aHR of incident seropositive RA than never-users (aHR 1.25; 95% CI 1.09–1.44). Alcohol consumption less than 30 g per day (aHR 0.80; 95% CI 0.74–0.87), regular physical activity (aHR 0.90; 95% CI 0.84–0.97), diabetes mellitus (aHR 0.85; 95% CI 0.78–0.93), and cancer (aHR 0.77; 95% CI 0.64–0.92) were associated with lower risk of seropositive RA. Most female reproductive factors did not significantly affect the development of seropositive RA in postmenopausal women. Only HRT is associated with a small but significant increase in risk of seropositive RA.",
+      "corpusId": 227190115,
+      "url": "https://doi.org/10.1038/s41598-020-77841-1",
+      "pubmed_id": "33247198",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1038/s41598-020-77841-1",
+        "matched_title": "Menopausal factors and risk of seropositive rheumatoid arthritis in postmenopausal women: a nationwide cohort study of 1.36 million women.",
+        "matched_pubdate": "2020 Nov 27",
+        "matched_source": "Sci Rep"
+      }
+    },
+    {
+      "title": "Female hormonal exposures and risk of rheumatoid arthritis in the French E3N-EPIC cohort study.",
+      "authors": [
+        {
+          "name": "C. Salliot",
+          "id": "3553818"
+        },
+        {
+          "name": "Yann Nguyen",
+          "id": "153690770"
+        },
+        {
+          "name": "G. Gusto",
+          "id": "145020404"
+        },
+        {
+          "name": "A. Gelot",
+          "id": "40057387"
+        },
+        {
+          "name": "Juliette Gambaretti",
+          "id": "7963542"
+        },
+        {
+          "name": "X. Mariette",
+          "id": "153126605"
+        },
+        {
+          "name": "M. Boutron‐Ruault",
+          "id": "1388894949"
+        },
+        {
+          "name": "R. Seror",
+          "id": "5625939"
+        }
+      ],
+      "year": 2021,
+      "venue": "Rheumatology",
+      "score": 0.6756313968363744,
+      "abstract": "",
+      "corpusId": 234022201,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/33547777",
+      "pubmed_id": "33547777",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1093/rheumatology/keab101",
+        "matched_title": "Female hormonal exposures and risk of rheumatoid arthritis in the French E3N-EPIC cohort study.",
+        "matched_pubdate": "2021 Oct 2",
+        "matched_source": "Rheumatology (Oxford)"
+      }
+    },
+    {
+      "title": "Breastfeeding practice, oral contraceptive use and risk of rheumatoid arthritis among Chinese women: the Guangzhou Biobank Cohort Study.",
+      "authors": [
+        {
+          "name": "P. Adab",
+          "id": "3729818"
+        },
+        {
+          "name": "C. Jiang",
+          "id": "2331202408"
+        },
+        {
+          "name": "E. Rankin",
+          "id": "50639140"
+        },
+        {
+          "name": "Y. Tsang",
+          "id": "39412069"
+        },
+        {
+          "name": "T. Lam",
+          "id": "145568237"
+        },
+        {
+          "name": "J. Barlow",
+          "id": "2068308031"
+        },
+        {
+          "name": "G. Thomas",
+          "id": "2234176427"
+        },
+        {
+          "name": "W. Zhang",
+          "id": "39340686"
+        },
+        {
+          "name": "K. Cheng",
+          "id": "144244798"
+        }
+      ],
+      "year": 2014,
+      "venue": "Rheumatology",
+      "score": 0.6720525883152878,
+      "abstract": "",
+      "corpusId": 25284124,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/24395920",
+      "pubmed_id": "24395920",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1093/rheumatology/ket456",
+        "matched_title": "Breastfeeding practice, oral contraceptive use and risk of rheumatoid arthritis among Chinese women: the Guangzhou Biobank Cohort Study.",
+        "matched_pubdate": "2014 May",
+        "matched_source": "Rheumatology (Oxford)"
+      }
+    },
+    {
+      "title": "Population-based cohort study of oral contraceptive use and risk of depression",
+      "authors": [
+        {
+          "name": "Therese Johansson",
+          "id": "2062765894"
+        },
+        {
+          "name": "S. V. Larsen",
+          "id": "2334261955"
+        },
+        {
+          "name": "M. Bui",
+          "id": "2631260"
+        },
+        {
+          "name": "W. Ek",
+          "id": "5515465"
+        },
+        {
+          "name": "T. Karlsson",
+          "id": "14824597"
+        },
+        {
+          "name": "A. Johansson",
+          "id": "2080125286"
+        }
+      ],
+      "year": 2023,
+      "venue": "Epidemiology and Psychiatric Sciences",
+      "score": 0.6678616027205786,
+      "abstract": "Abstract Aim Research on the effect of oral contraceptive (OC) use on the risk of depression shows inconsistent findings, especially in adult OC users. One possible reason for this inconsistency is the omission of women who discontinue OCs due to adverse mood effects, leading to healthy user bias. To address this issue, we aim to estimate the risk of depression that is associated with the initiation of OCs as well as the effect of OC use on lifetime risk of depression. Methods This is a population-based cohort study based on data from 264,557 women from the UK Biobank. Incidence of depression was addressed via interviews, inpatient hospital or primary care data. The hazard ratio (HR) between OC use and incident depression was estimated by multivariable Cox regression with OC use as a time-varying exposure. To validate causality, we examined familial confounding in 7,354 sibling pairs. Results We observed that the first 2 years of OC use were associated with a higher rate of depression compared to never users (HR = 1.71, 95% confidence interval [CI]: 1.55–1.88). Although the risk was not as pronounced beyond the first 2 years, ever OC use was still associated with an increased lifetime risk of depression (HR = 1.05, 95% CI: 1.01–1.09). Previous OC use were associated with a higher rate of depression compared to never users, with adolescent OC users driving the increased hazard (HR = 1.18, 95% CI: 1.12–1.25). No significant association were observed among adult OC users who had previously used OCs (HR = 1.00, 95% CI: 0.95–1.04). Notably, the sibling analysis provided further evidence for a causal effect of OC use on the risk of depression. Conclusions Our findings suggest that the use of OCs, particularly during the first 2 years, increases the risk of depression. Additionally, OC use during adolescence might increase the risk of depression later in life. Our results are consistent with a causal relationship between OC use and depression, as supported by the sibling analysis. This study highlights the importance of considering the healthy user bias as well as family-level confounding in studies of OC use and mental health outcomes. Physicians and patients should be aware of this potential risk when considering OCs, and individualized risk–benefit assessments should be conducted.",
+      "corpusId": 259132386,
+      "url": "https://api.semanticscholar.org/CorpusId:259132386",
+      "pubmed_id": "37303201",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1017/s2045796023000525",
+        "matched_title": "Population-based cohort study of oral contraceptive use and risk of depression.",
+        "matched_pubdate": "2023 Jun 12",
+        "matched_source": "Epidemiol Psychiatr Sci"
+      }
+    },
+    {
+      "title": "Reduction of the risk of rheumatoid arthritis among women who take oral contraceptives.",
+      "authors": [
+        {
+          "name": "J. Hazes",
+          "id": "87722634"
+        },
+        {
+          "name": "B. Dijkmans",
+          "id": "80152864"
+        },
+        {
+          "name": "J. Vandenbroucke",
+          "id": "3701822"
+        },
+        {
+          "name": "R. de Vries",
+          "id": "49747330"
+        },
+        {
+          "name": "A. Cats",
+          "id": "4239356"
+        }
+      ],
+      "year": 1990,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.6666848390706935,
+      "abstract": "",
+      "corpusId": 6317198,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/2306289",
+      "pubmed_id": "2306289",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/art.1780330204",
+        "matched_title": "Reduction of the risk of rheumatoid arthritis among women who take oral contraceptives.",
+        "matched_pubdate": "1990 Feb",
+        "matched_source": "Arthritis Rheum"
+      }
+    },
+    {
+      "title": "Breast cancer risk during oral contraceptive use in women with high polygenic risk",
+      "authors": [
+        {
+          "name": "Christina Chatsatourian",
+          "id": "2395746282"
+        },
+        {
+          "name": "V. Lo Faro",
+          "id": "1694468822"
+        },
+        {
+          "name": "T. Karlsson",
+          "id": "14824597"
+        },
+        {
+          "name": "Fatemeh Hadizadeh",
+          "id": "2248903296"
+        },
+        {
+          "name": "Åsa Johansson",
+          "id": "2210097707"
+        }
+      ],
+      "year": 2025,
+      "venue": "Breast Cancer Research",
+      "score": 0.6628922303143734,
+      "abstract": "Oral contraceptive (OC) use is widespread globally. Despite their significant benefits, concerns persist about a potential rise in breast cancer risk linked to their use. Genetic predisposition also influences breast cancer risk; however, its interaction with OC use remains inconclusive. This study aims to explore the association between OC use and breast cancer risk in women with varying genetic predispositions to breast cancer, as measured by polygenic risk scores (PRS). A total of 257,185 white female participants from the UK Biobank were included. Time-varying Cox regression was used to estimate hazard ratios (HRs) with 95% confidence intervals (CIs) to examine the association between OC and invasive breast cancer events, stratified by PRS. Age was used as the primary time scale, and analyses were adjusted for year of birth, Townsend Deprivation Index, body mass index, smoking status, age at menarche, menopausal status, family history of breast cancer, parity, hormone replacement therapy use, history of hysterectomy, as well as genetic principal components. Current use of OC was associated with an increased risk of breast cancer, with a HR of 1.21 (95% CI: 1.03–1.41). In contrast, previous use showed no association (HR = 0.99, 95% CI: 0.92–1.05). Genetic risk, as measured by the PRS, was strongly associated with breast cancer risk (P < 0.001). Individuals in the highest PRS decile had approximately three times higher risk compared to those in the mid deciles. Importantly, for the association between current OC use and breast cancer risk, a statistically significant trend was observed across both PRS deciles (P = 0.04) and tertiles (P = 0.05), with decreasing HRs as genetic risk increased. Specifically, the HR for current OC use was 1.43 (95% CI: 1.02–2.01) in the lowest PRS tertile, 1.14 (95% CI: 0.89–1.45) in the middle tertile, and 0.96 (95% CI: 0.80–1.14) in the highest tertile. Both OC use and a high PRS increase the risk of breast cancer. There is a trend toward a decreased relative risk associated with OC use among those with higher genetic predisposition. Therefore, there is no evidence to suggest that women with a high genetic risk for breast cancer are more adversely affected by OC use.",
+      "corpusId": 283455575,
+      "url": "https://api.semanticscholar.org/CorpusId:283455575",
+      "pubmed_id": "41327462",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s13058-025-02177-5",
+        "matched_title": "Breast cancer risk during oral contraceptive use in women with high polygenic risk.",
+        "matched_pubdate": "2025 Dec 1",
+        "matched_source": "Breast Cancer Res"
+      }
+    },
+    {
+      "title": "Oral contraceptives and the incidence of multiple sclerosis",
+      "authors": [
+        {
+          "name": "Miguel A. Hernán",
+          "id": "2244959501"
+        },
+        {
+          "name": "M. Hohol",
+          "id": "2244440237"
+        },
+        {
+          "name": "M. Olek",
+          "id": "4589807"
+        },
+        {
+          "name": "D. Spiegelman",
+          "id": "2240040884"
+        },
+        {
+          "name": "A. Ascherio",
+          "id": "35950275"
+        }
+      ],
+      "year": 2000,
+      "venue": "Neurology",
+      "score": 0.6579950535604687,
+      "abstract": "",
+      "corpusId": 34386109,
+      "url": "https://doi.org/10.1212/WNL.55.6.848",
+      "pubmed_id": "10994007",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1212/WNL.55.6.848",
+        "matched_title": "Oral contraceptives and the incidence of multiple sclerosis.",
+        "matched_pubdate": "2000 Sep 26",
+        "matched_source": "Neurology"
+      }
+    },
+    {
+      "title": "Epidemiologic studies of environmental agents and systemic autoimmune diseases.",
+      "authors": [
+        {
+          "name": "Maureen D. Mayes",
+          "id": "2156994799"
+        }
+      ],
+      "year": 1999,
+      "venue": "Environmental Health Perspectives",
+      "score": 0.6562775302549708,
+      "abstract": "Systemic lupus erythematosus and systemic scleroderma are autoimmune diseases thought to have an exogenous trigger. This review summarizes relevant case-control and cohort studies that investigated exogenous sex hormones, silica, silicone, solvents, pesticides, mercuric chloride, and hair dyes as putative risk factors for the development of these diseases. These studies indicate that estrogen replacement therapy in postmenopausal women increases the risk of developing lupus, scleroderma, and Raynaud disease, although the increase in risk is relatively modest. Oral contraceptives may also play a role in disease susceptibility in lupus but not apparently in scleroderma. Environmental endocrine modulators, in the form of pesticides, may represent another opportunity for estrogenlike effects to occur, but there is scant evidence that these agents play a role in human systemic autoimmune disease. Although exposure to silica dust increases the risk of scleroderma in men occupied in the industry, this does not explain most male scleroderma cases. When this exposure was investigated among women, no significant risk was found. Additionally, silicone in implanted devices as well as occupational exposure to silicone-containing compounds did not pose an increased risk among women for scleroderma. The role of solvent exposure has been investigated as a risk factor for scleroderma with mixed findings. One study suggested a potential role in male patients or in those individuals with Scl-70 antibody positivity either male or female. Two other studies were unable to corroborate this finding. Mercuric chloride causes antifibrillarin antibodies and immune complex glomerulonephritis in susceptible mouse strains. Antifibrillarin antibodies, but not glomerulonephritis, occur in a subset of scleroderma patients and preliminary evidence suggests that mercury levels may be higher in this group of individuals. Hair products have been studied as possibly raising the risk of developing lupus, since such products contain an aromatic amine similar to a compound known to cause drug-induced lupus. A 1986 study suggested a positive association, but two subsequent studies did not support this association.",
+      "corpusId": 14330736,
+      "url": "https://api.semanticscholar.org/CorpusId:14330736",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Breast cancer and the pill--a further report from the Royal College of General Practitioners' oral contraception study.",
+      "authors": [
+        {
+          "name": "C. Kay",
+          "id": "2251634062"
+        },
+        {
+          "name": "PC Hannaford",
+          "id": "120736360"
+        }
+      ],
+      "year": 1988,
+      "venue": "British Journal of Cancer",
+      "score": 0.6520935067711214,
+      "abstract": "An analysis of the occurrence of breast cancer in this long-term prospective cohort study shows a significant relative risk (RR) in women who have ever used oral contraceptives (OC) of 3.33 in women age 30 to 34 years at diagnosis and an RR of 5.88 (P = 0.0011) in women who were parity 1 at the time of diagnosis. In women below the age of 35 years the RR of 2.38 was not significant. There was no increased risk in women over the age of 35 years. A significant trend relating to duration of use was demonstrable in women who were parity 1 in the analysis of both current and ever-users. An analysis by time since stopping OC use revealed a significant trend in all ever-users, but the trends were much steeper in women of parity 1 or aged 30 to 34 years at diagnosis. There was no evidence that the increased rates in OC users were related to the oestrogen or progestogen dose. The 5 year survival rate in users diagnosed under the age of 35 years was significantly poorer than in comparable non-users. It is possible that the increased rates in younger OC users might be due to an accelerated presentation of breast cancer in those women who would otherwise have been diagnosed at a later time. The non-significant excess risk in users under 35 years of age was approximately 1 in 7,000 users per year. The unresolved discrepancies between the results of the published studies make it impossible at the present time to decide whether or not OC use is associated with an increased risk of breast cancer.",
+      "corpusId": 17302765,
+      "url": "https://api.semanticscholar.org/CorpusId:17302765",
+      "pubmed_id": "3219280",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/bjc.1988.285",
+        "matched_title": "Breast cancer and the pill--a further report from the Royal College of General Practitioners' oral contraception study.",
+        "matched_pubdate": "1988 Nov",
+        "matched_source": "Br J Cancer"
+      }
+    },
+    {
+      "title": "Effects of oral contraceptives on rheumatoid arthritis in Korean menopausal women: A nationwide cross-sectional study.",
+      "authors": [
+        {
+          "name": "Han Saem Jeong",
+          "id": "2136396994"
+        },
+        {
+          "name": "S. Hong",
+          "id": "4929815"
+        },
+        {
+          "name": "S. Choi",
+          "id": "3848934"
+        },
+        {
+          "name": "Jaehoon Kim",
+          "id": "2116670680"
+        },
+        {
+          "name": "G. Song",
+          "id": "5157481"
+        },
+        {
+          "name": "J. Jung",
+          "id": "153909090"
+        }
+      ],
+      "year": 2018,
+      "venue": "Maturitas",
+      "score": 0.6492213852575669,
+      "abstract": "",
+      "corpusId": 13994305,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29704913",
+      "pubmed_id": "29704913",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.maturitas.2018.03.017",
+        "matched_title": "Effects of oral contraceptives on rheumatoid arthritis in Korean menopausal women: A nationwide cross-sectional study.",
+        "matched_pubdate": "2018 Jun",
+        "matched_source": "Maturitas"
+      }
+    },
+    {
+      "title": "Health benefits of combined oral contraceptives – a narrative review",
+      "authors": [
+        {
+          "name": "H. J. T. Coelingh Bennink",
+          "id": "2250259757"
+        },
+        {
+          "name": "Femke A M van Gennip",
+          "id": "1438924660"
+        },
+        {
+          "name": "Mireille Gerrits",
+          "id": "2400081648"
+        },
+        {
+          "name": "Jan F M Egberts",
+          "id": "2288497358"
+        },
+        {
+          "name": "K. Gemzell-Danielsson",
+          "id": "2239081404"
+        },
+        {
+          "name": "Helena Kopp-Kallner",
+          "id": "2288497324"
+        }
+      ],
+      "year": 2024,
+      "venue": "European journal of contraception & reproductive health care",
+      "score": 0.6471008618661239,
+      "abstract": "Abstract Purpose This review presents an update of the non-contraceptive health benefits of the combined oral contraceptive pill. Methods We conducted a literature search for (review) articles that discussed the health benefits of combined oral contraceptives (COCs), in the period from 1980 to 2023. Results We identified 21 subjective and/or objective health benefits of COCs related to (i) the reproductive tract, (ii) non-gynaecological benign disorders and (iii) malignancies. Reproductive tract benefits are related to menstrual bleeding(including anaemia and toxic shock syndrome), dysmenorrhoea, migraine, premenstrual syndrome (PMS), ovarian cysts, Polycystic Ovary Syndrome (PCOS), androgen related symptoms, ectopic pregnancy, hypoestrogenism, endometriosis and adenomyosis, uterine fibroids and pelvic inflammatory disease (PID). Non-gynaecological benefits are related to benign breast disease, osteoporosis, rheumatoid arthritis, multiple sclerosis, asthma and porphyria. Health benefits of COCs related to cancer are lower risks of endometrial cancer, ovarian cancer and colorectal cancer. Conclusions The use of combined oral contraceptives is accompanied with a range of health benefits, to be balanced against its side-effects and risks. Several health benefits of COCs are a reason for non-contraceptive COC prescription.",
+      "corpusId": 268086300,
+      "url": "https://api.semanticscholar.org/CorpusId:268086300",
+      "pubmed_id": "38426312",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1080/13625187.2024.2317295",
+        "matched_title": "Health benefits of combined oral contraceptives - a narrative review.",
+        "matched_pubdate": "2024 Apr",
+        "matched_source": "Eur J Contracept Reprod Health Care"
+      }
+    },
+    {
+      "title": "Pregnancy and oral contraceptive use do not significantly influence outcome in long term rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "K. Drossaers-Bakker",
+          "id": "1398844181"
+        },
+        {
+          "name": "A. Zwinderman",
+          "id": "66375855"
+        },
+        {
+          "name": "D. van Zeben",
+          "id": "5547235"
+        },
+        {
+          "name": "F. Breedveld",
+          "id": "35101188"
+        },
+        {
+          "name": "J. Hazes",
+          "id": "143955913"
+        }
+      ],
+      "year": 2002,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.6129055537330265,
+      "abstract": "",
+      "corpusId": 24936971,
+      "url": "https://doi.org/10.1136/ard.61.5.405",
+      "pubmed_id": "11959763",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/ard.61.5.405",
+        "matched_title": "Pregnancy and oral contraceptive use do not significantly influence outcome in long term rheumatoid arthritis.",
+        "matched_pubdate": "2002 May",
+        "matched_source": "Ann Rheum Dis"
+      }
+    },
+    {
+      "title": "Estrogen and other female reproductive risk factors are not strongly associated with the development of rheumatoid arthritis in elderly women.",
+      "authors": [
+        {
+          "name": "L. Merlino",
+          "id": "145671205"
+        },
+        {
+          "name": "J. Cerhan",
+          "id": "2333298"
+        },
+        {
+          "name": "L. Criswell",
+          "id": "6268211"
+        },
+        {
+          "name": "T. Mikuls",
+          "id": "144656316"
+        },
+        {
+          "name": "K. Saag",
+          "id": "145087123"
+        }
+      ],
+      "year": 2003,
+      "venue": "Seminars in Arthritis & Rheumatism",
+      "score": 0.6110462661022935,
+      "abstract": "",
+      "corpusId": 9128420,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/14625816",
+      "pubmed_id": "14625816",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/s0049-0172(03)00084-2",
+        "matched_title": "Estrogen and other female reproductive risk factors are not strongly associated with the development of rheumatoid arthritis in elderly women.",
+        "matched_pubdate": "2003 Oct",
+        "matched_source": "Semin Arthritis Rheum"
+      }
+    },
+    {
+      "title": "Oral contraceptives do not modify the risk of a second attack and disability accrual in a prospective cohort of women with a clinically isolated syndrome and early multiple sclerosis",
+      "authors": [
+        {
+          "name": "S. Otero-Romero",
+          "id": "1390168999"
+        },
+        {
+          "name": "P. Carbonell-Mirabent",
+          "id": "1413778762"
+        },
+        {
+          "name": "L. Midaglia",
+          "id": "152357660"
+        },
+        {
+          "name": "Maria Zuluaga",
+          "id": "2059834212"
+        },
+        {
+          "name": "I. Galán",
+          "id": "65755583"
+        },
+        {
+          "name": "Á. Cobo-Calvo",
+          "id": "1396694845"
+        },
+        {
+          "name": "J. Río",
+          "id": "144197305"
+        },
+        {
+          "name": "G. Arrambide",
+          "id": "5868870"
+        },
+        {
+          "name": "Á. Vidal-Jordana",
+          "id": "1398420939"
+        },
+        {
+          "name": "J. Castilló",
+          "id": "2151113984"
+        },
+        {
+          "name": "B. Rodríguez-Acevedo",
+          "id": "1403374843"
+        },
+        {
+          "name": "M. Comabella",
+          "id": "2554862"
+        },
+        {
+          "name": "Marta Rodríguez",
+          "id": "151133360"
+        },
+        {
+          "name": "C. Tur",
+          "id": "144882586"
+        },
+        {
+          "name": "C. Auger",
+          "id": "31992531"
+        },
+        {
+          "name": "À. Rovira",
+          "id": "144857812"
+        },
+        {
+          "name": "J. Sastre-Garriga",
+          "id": "1397742012"
+        },
+        {
+          "name": "X. Montalban",
+          "id": "1883723"
+        },
+        {
+          "name": "M. Tintoré",
+          "id": "118422453"
+        }
+      ],
+      "year": 2021,
+      "venue": "Multiple Sclerosis",
+      "score": 0.6082036337483312,
+      "abstract": "Objective: To evaluate whether oral contraceptive (OC) use is associated with the risk of a second attack and disability accrual in women with a clinically isolated syndrome (CIS) and early multiple sclerosis (MS). Methods: Reproductive information from women included in the Barcelona CIS prospective cohort was collected through a self-reported cross-sectional survey. We examined the relationship of OC exposure with the risk of a second attack and confirmed Expanded Disability Status Scale of 3.0 using multivariate Cox regression models, adjusted by age, topography of CIS, oligoclonal bands, baseline brain T2 lesions, body size at menarche, smoking, and disease-modifying treatment (DMT). OC and DMT exposures were considered as time-varying variables. Findings were confirmed with sensitivity analyses using propensity score models. Results: A total of 495 women were included, 389 (78.6%) referred to ever use OC and 341 (68.9%) started OC before the CIS. Exposure to OC was not associated with a second attack (adjusted hazard ratio (aHR) = 0.73, 95% confidence interval (CI) = 0.33–1.61) or disability accrual (aHR = 0.81, 95% CI = 0.17–3.76). Sensitivity analyses confirmed these results. Conclusion: OC use does not modify the risk of second attack or disability accrual in patients with CIS and early MS, once considered as a time-dependent exposure and adjusted by other potential confounders.",
+      "corpusId": 244713695,
+      "url": "https://api.semanticscholar.org/CorpusId:244713695",
+      "pubmed_id": "34841948",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1177/13524585211053001",
+        "matched_title": "Oral contraceptives do not modify the risk of a second attack and disability accrual in a prospective cohort of women with a clinically isolated syndrome and early multiple sclerosis.",
+        "matched_pubdate": "2022 May",
+        "matched_source": "Mult Scler"
+      }
+    },
+    {
+      "title": "Oral contraception, parity, breast feeding, and severity of rheumatoid arthritis.",
+      "authors": [
+        {
+          "name": "C. Jorgensen",
+          "id": "49621842"
+        },
+        {
+          "name": "M. Picot",
+          "id": "4149229"
+        },
+        {
+          "name": "C. Bologna",
+          "id": "144623086"
+        },
+        {
+          "name": "J. Sany",
+          "id": "6096243"
+        }
+      ],
+      "year": 1996,
+      "venue": "Annals of the Rheumatic Diseases",
+      "score": 0.6078597529877832,
+      "abstract": "",
+      "corpusId": 4779175,
+      "url": "https://doi.org/10.1136/ard.55.2.94",
+      "pubmed_id": "8712873",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/ard.55.2.94",
+        "matched_title": "Oral contraception, parity, breast feeding, and severity of rheumatoid arthritis.",
+        "matched_pubdate": "1996 Feb",
+        "matched_source": "Ann Rheum Dis"
+      }
+    },
+    {
+      "title": "Passive smoking in childhood and adulthood and risk of rheumatoid arthritis in women: results from the French E3N cohort study",
+      "authors": [
+        {
+          "name": "Yann Nguyen",
+          "id": "153690770"
+        },
+        {
+          "name": "C. Salliot",
+          "id": "3553818"
+        },
+        {
+          "name": "A. Gelot",
+          "id": "40057387"
+        },
+        {
+          "name": "X. Mariette",
+          "id": "153126605"
+        },
+        {
+          "name": "M. Boutron‐Ruault",
+          "id": "1388894949"
+        },
+        {
+          "name": "R. Seror",
+          "id": "5625939"
+        }
+      ],
+      "year": 2022,
+      "venue": "RMD Open",
+      "score": 0.6058090673305525,
+      "abstract": "Objective The association between passive smoking exposure in childhood or in adulthood, and the risk of rheumatoid arthritis (RA) has been incompletely investigated. We aimed to assess the relationship between exposure to passive smoking and the risk of incident RA in a French prospective cohort of healthy women. Methods The E3N Study (Etude Epidémiologique auprès des femmes de la Mutuelle générale de l’Education Nationale) is a French prospective cohort of women included in 1990. Exposures to passive smoking were assessed using self-reported questionnaires. RA cases were self-reported and subsequently validated. Cox proportional hazards regression models adjusted for age and for potential confounders were used to estimate HRs and 95% CIs for incident RA. Results Among 79 806 women, 698 incident cases of RA were identified; 10 810 (13.5%) women were exposed to passive smoking in childhood, and 42 807 (53.6%) in adulthood. Median age at inclusion was 47.8 years. Passive smoking in childhood and in adulthood was associated with RA risk in all models (HRs (95% CIs) 1.24 (1.01 to 1.51) and 1.19 (1.02 to 1.40), respectively). The absolute risk of RA among never smokers with exposure to passive smoking in childhood and/or adulthood (47.6/100 000 person-years) was close to the risk of ever smokers with no passive smoking exposure (47.2/100 000 person-years), while it was highest in ever smokers also exposed to passive smoking (53.7/100 000 person-years). Conclusion Exposure to passive smoking in childhood and/or adulthood increases the risk of RA by the same order than active smoking. Such exposure should be suppressed, especially in individuals at risk of RA.",
+      "corpusId": 247083649,
+      "url": "https://api.semanticscholar.org/CorpusId:247083649",
+      "pubmed_id": "35197361",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1136/rmdopen-2021-001980",
+        "matched_title": "Passive smoking in childhood and adulthood and risk of rheumatoid arthritis in women: results from the French E3N cohort study.",
+        "matched_pubdate": "2022 Feb",
+        "matched_source": "RMD Open"
+      }
+    },
+    {
+      "title": "A prospective investigation of oral contraceptive use and breast cancer mortality: findings from the Swedish women’s lifestyle and health cohort",
+      "authors": [
+        {
+          "name": "U. Nur",
+          "id": "5766510"
+        },
+        {
+          "name": "Darline K. El Reda",
+          "id": "15768467"
+        },
+        {
+          "name": "D. Hashim",
+          "id": "4427981"
+        },
+        {
+          "name": "E. Weiderpass",
+          "id": "51475687"
+        }
+      ],
+      "year": 2019,
+      "venue": "BMC Cancer",
+      "score": 0.6047356029556289,
+      "abstract": "The association between oral contraceptive (OC) use and long-term mortality remains uncertain and previous studies have reported conflicting findings. We aim to assess the long-term impact of OC use on all-cause and cancer-specific mortality. Out of 49,259 participants, we analysed data on 2120 (4.3%) women diagnosed with first primary breast cancer between 1993 and 2012, in the Swedish Women’s Lifestyle and Health Study. Kaplan–Meier plots were used to graph the hazard of mortality in association with oral contraceptives use, stage of disease and hormone receptors status at diagnosis. Cox proportional hazard model were used to estimate hazard ratios (HR) between OC use and all-cause mortality. The same association was studied for breast cancer-specific mortality by modelling the log cumulative mortality risk, adjusting for clinical stage at diagnosis, hormone receptor status, body mass index and smoking. Among 2120 women with breast cancer, 1268 (84%) reported ever use of OC and 254 died within 10 years of diagnosis. The risk of death for OC ever-users relative to never-users was: HR = 1.13 (95% CI: 0.66–1.94) for all-cause mortality and HR = 1.29 (95% CI: 0.53–3.18) for breast cancer-specific mortality. A high percentage of women (42.9%) were diagnosed at early stage disease (stage I). Among women with primary breast cancer, OC ever-users compared to never- users did not have a higher all-cause or breast cancer specific-mortality, after the adjustment of risk factors.",
+      "corpusId": 199551611,
+      "url": "https://api.semanticscholar.org/CorpusId:199551611",
+      "pubmed_id": "31412822",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12885-019-5985-6",
+        "matched_title": "A prospective investigation of oral contraceptive use and breast cancer mortality: findings from the Swedish women's lifestyle and health cohort.",
+        "matched_pubdate": "2019 Aug 14",
+        "matched_source": "BMC Cancer"
+      }
+    },
+    {
+      "title": "Rheumatoid arthritis activity and severity in relation to commonly used contraceptive methods in a cohort of Egyptian female patients",
+      "authors": [
+        {
+          "name": "H. Fayed",
+          "id": "47653950"
+        },
+        {
+          "name": "H. Hatem",
+          "id": "8216648"
+        },
+        {
+          "name": "Eleishi",
+          "id": "117704313"
+        },
+        {
+          "name": "Heba A Kamal Nouran",
+          "id": "118084240"
+        },
+        {
+          "name": "I. Mahmoud",
+          "id": "49582030"
+        }
+      ],
+      "year": 2017,
+      "venue": "unknown",
+      "score": 0.6038484194472904,
+      "abstract": "Background: Objective: To study the impact/effect of commonly used contraceptive methods on rheumatoid arthritis (RA) disease activity, severity, and damage in a cohort of Egyptian female RA patients. \nMethods: Two hundred female RA patients were enrolled and divided into two groups; non-contraception users (50 patients) and contraception users (150 patients). The latter group was further subdivided according to the method of contraceptive method used into: 89 intrauterine device (IUD)-users; 45 combined oral contraceptives (COC)-users; 16 injectables-users. All patients underwent thorough history taking with special emphasis on contraception history, clinical examination, and assessment by routine laboratory tests, rheumatoid factor (RF) and antibodies to citrullinated protein antigens (ACPA). Rheumatoid arthritis disease activity was assessed using Disease Activity Score 28 using CRP (DAS28/ CRP), while RA disease severity was assessed using Rheumatoid Arthritis Severity Scale (RASS). Bilateral hand x-rays were done and interpreted by the Short Erosion Scale (SES). \nResults: The percentage of ACPA seropositivity among IUD-users was 75.3%; the highest among all studied subgroups. IUD-users showed significantly higher ACPA titers (p=0.020), as well as longer disease duration (p=0.021) compared to other methods-users. The RASS was significantly higher in injectables-users in comparison to other methods-users followed by the IUD-users (p=0.008). COC-users had the least RASS. However, there were no significant differences regarding DAS28/CRP or SES between different contraceptive methods-users. There was positive correlation between ACPA titers and RASS. \nConclusion: The increased ACPA positivity as well as higher ACPA titers in women who are currently IUD-users suggests a possible etiopathogenic role for IUD in onset and perpetuation of RA disease. Mechanisms by which IUD could increase RA-related autoimmunity risk were discussed. Whether cessation of IUD use in RA patients might improve their current state of disease need further study.",
+      "corpusId": 54912685,
+      "url": "https://api.semanticscholar.org/CorpusId:54912685",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Rheumatoid arthritis and cancer risk in the Million Women Study",
+      "authors": [
+        {
+          "name": "TienYu Owen Yang",
+          "id": "2202541793"
+        },
+        {
+          "name": "S. Floud",
+          "id": "5749704"
+        },
+        {
+          "name": "G. Reeves",
+          "id": "2274116707"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Epidemiology",
+      "score": 0.601669687318776,
+      "abstract": "Abstract Background Most previous studies of rheumatoid arthritis (RA) and cancer risk have lacked information on potential confounding factors. We investigated RA-associated cancer risks in a large cohort of women in the UK, taking account of shared risk factors. Methods In 1996–2001, women aged 50–64, who were invited for routine breast screening at 66 National Health Service (NHS) screening centres in England and Scotland, were also invited to take part in the Million Women Study. Participants provided information on sociodemographic, lifestyle and health-related factors, including RA, and were followed up for cancers and deaths. Cox regression yielded RA-associated hazard ratios (HRs) of 20 cancers, adjusted for 10 characteristics including smoking status and adiposity. Results Around 1.3 million women (half of those invited) were recruited into the study. In minimally adjusted analyses, RA was associated with the risk of 13 of the 20 cancers. After additional adjustment for lifestyle factors, many of these associations were attenuated but there remained robust evidence of RA-associated increases in the risk of lung (HR 1.21, 95% confidence interval 1.15–1.26), lymphoid (1.25, 1.18–1.33), myeloid (1.12, 1.01–1.25), cervical (1.39, 1.11–1.75) and oropharyngeal (1.40, 1.21–1.61) cancers, and decreases in the risk of endometrial (0.84, 0.77–0.91) and colorectal (0.82, 0.77–0.87) cancers. Conclusions After taking account of shared risk factors, RA is positively associated with lung and certain blood and infection-related cancers, and inversely associated with colorectal cancer. These findings are consistent with existing hypotheses around immune response, susceptibility to infections, and chronic inflammation. The inverse association observed for endometrial cancer merits further investigation.",
+      "corpusId": 268081348,
+      "url": "https://api.semanticscholar.org/CorpusId:268081348",
+      "pubmed_id": "38423106",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1093/ije/dyae006",
+        "matched_title": "Rheumatoid arthritis and cancer risk in the Million Women Study.",
+        "matched_pubdate": "2024 Feb 14",
+        "matched_source": "Int J Epidemiol"
+      }
+    },
+    {
+      "title": "Menopausal hormone therapy and risk of seropositive rheumatoid arthritis: A nationwide cohort study in Korea.",
+      "authors": [
+        {
+          "name": "J. Yuk",
+          "id": "3743935"
+        },
+        {
+          "name": "Yong-soo Seo",
+          "id": "2248116222"
+        },
+        {
+          "name": "Yo Han Im",
+          "id": "2258387314"
+        },
+        {
+          "name": "Ji Hyoun Kim",
+          "id": "52142133"
+        }
+      ],
+      "year": 2023,
+      "venue": "Seminars in Arthritis & Rheumatism",
+      "score": 0.599765071218548,
+      "abstract": "",
+      "corpusId": 264116331,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/37857046",
+      "pubmed_id": "37857046",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.semarthrit.2023.152280",
+        "matched_title": "Menopausal hormone therapy and risk of seropositive rheumatoid arthritis: A nationwide cohort study in Korea.",
+        "matched_pubdate": "2023 Dec",
+        "matched_source": "Semin Arthritis Rheum"
+      }
+    },
+    {
+      "title": "The pill, parity, and rheumatoid arthritis.",
+      "authors": [
+        {
+          "name": "T. Spector",
+          "id": "2099446"
+        },
+        {
+          "name": "T. Spector",
+          "id": "2112877498"
+        },
+        {
+          "name": "E. Roman",
+          "id": "152574333"
+        },
+        {
+          "name": "A. Silman",
+          "id": "77994979"
+        }
+      ],
+      "year": 1990,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.5989302366131863,
+      "abstract": "",
+      "corpusId": 31820004,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/2363734",
+      "pubmed_id": "2363734",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/art.1780330604",
+        "matched_title": "The pill, parity, and rheumatoid arthritis.",
+        "matched_pubdate": "1990 Jun",
+        "matched_source": "Arthritis Rheum"
+      }
+    },
+    {
+      "title": "Why are women predisposed to autoimmune rheumatic diseases?",
+      "authors": [
+        {
+          "name": "J. E. Oliver",
+          "id": "6667600"
+        },
+        {
+          "name": "A. Silman",
+          "id": "77994979"
+        }
+      ],
+      "year": 2009,
+      "venue": "Arthritis Research & Therapy",
+      "score": 0.5957628554360309,
+      "abstract": "The majority of autoimmune diseases predominate in females. In searching for an explanation for this female excess, most attention has focused on hormonal changes - both exogenous changes (for example, oral contraceptive pill) and fluctuations in endogenous hormone levels particularly related to menstruation and pregnancy history. Other reasons include genetic differences, both direct (influence of genes on sex chromosomes) and indirect (such as microchimerism), as well as gender differences in lifestyle factors. These will all be reviewed, focusing on the major autoimmune connective tissue disorders: rheumatoid arthritis, systemic lupus erythematosus and scleroderma.",
+      "corpusId": 1519998,
+      "url": "https://doi.org/10.1186/ar2825",
+      "pubmed_id": "19863777",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1186/ar2825",
+        "matched_title": "Why are women predisposed to autoimmune rheumatic diseases?",
+        "matched_pubdate": "2009",
+        "matched_source": "Arthritis Res Ther"
+      }
+    },
+    {
+      "title": "Helper T cells: A potential target for sex hormones to ameliorate rheumatoid arthritis? (Review)",
+      "authors": [
+        {
+          "name": "Quanjun Niu",
+          "id": "2322911269"
+        },
+        {
+          "name": "Junhang Hao",
+          "id": "2411086837"
+        },
+        {
+          "name": "Zhen Li",
+          "id": "2370526939"
+        },
+        {
+          "name": "Huiping Zhang",
+          "id": "2427432844"
+        }
+      ],
+      "year": 2024,
+      "venue": "Molecular Medicine Reports",
+      "score": 0.5870601354312709,
+      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease whose etiology is not fully understood. Defective peripheral immune tolerance and subsequent mis-differentiation and aberrant infiltration of synovium by various immune cells, especially helper T (Th) cells, play an important role in the development of RA. There are significant sex differences in RA, but the results of studies on the effects of sex hormones on RA have been difficult to standardize and hormone replacement therapy has been limited by the potential for serious side effects. Existing research has amply demonstrated that cellular immune responses are largely determined by sex and that sex hormones play a key role in Th cell responses. Based on the aforementioned background and the plasticity of Th cells, it is reasonable to hypothesize that the action of sex hormones on Th cells will hopefully become a therapeutic target for RA. The present review discussed the role of various Th cell subsets in the pathogenesis of RA and also explored the role of sex hormones on the phenotype and function of these aberrantly regulated immune cells in RA as well as other pathologic effects on RA.",
+      "corpusId": 272898966,
+      "url": "https://api.semanticscholar.org/CorpusId:272898966",
+      "pubmed_id": "39370806",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3892/mmr.2024.13339",
+        "matched_title": "Helper T cells: A potential target for sex hormones to ameliorate rheumatoid arthritis? (Review).",
+        "matched_pubdate": "2024 Dec",
+        "matched_source": "Mol Med Rep"
+      }
+    },
+    {
+      "title": "Association of oral contraceptives use and lung cancer risk among women: an updated meta-analysis based on cohort and case-control studies.",
+      "authors": [
+        {
+          "name": "Wei Wu",
+          "id": "50224973"
+        },
+        {
+          "name": "Zhihua Yin",
+          "id": "1689450"
+        },
+        {
+          "name": "P. Guan",
+          "id": "143647320"
+        },
+        {
+          "name": "Yangwu Ren",
+          "id": "7800540"
+        },
+        {
+          "name": "Baosen Zhou",
+          "id": "5046883"
+        }
+      ],
+      "year": 2014,
+      "venue": "Asian Pacific Journal of Cancer Prevention",
+      "score": 0.5847359684465129,
+      "abstract": "BACKGROUND\nPrevious studies on the association of oral contraceptives (OC) use and lung cancer generated inconsistent findings. The aim of this study was to confirm any definite correlation between OC use and lung cancer risk.\n\n\nMETHODS\nPublications were reviewed and obtained through PubMed and EMBASE databases literature search up to November, 2013. Reference lists from retrieved articles were also reviewed. The language of publication was restricted to English. A meta-analysis was performed to evaluate the association by calculating pooled odds ratios (ORs) and 95% confidence intervals (CIs).\n\n\nRESULTS\nA total of 14 studies consisting of 9 case- control studies and 5 cohort studies were finally included in this meta-analysis. There was no significant association observed between OC use and lung cancer risk in the overall analysis (OR=0.91; 95% CI=0.81-1.03). There was a significant protective effect in Europe (OR=0.74; 95% CI=0.60-0.91) and a borderline significant protective effect with an adenocarcinoma histology (OR=0.90; 95% CI=0.80-1.01) in subgroup analyses. No association was observed for methodological quality of study, study design, smoking status and case number of study.\n\n\nCONCLUSION\nThis meta-analysis suggests that OC use is not likely to be associated with the risk of lung cancer at all. While a significant protective effect of OC use on lung cancer was observed in Europe, interpretation should be cautious because of the potential biases of low-quality studies. At the same time, more attention should be paid to the possible association of OC use with adenocarcinoma of lung. Our findings require further research, with well-conducted and large-scale epidemiological studies to confirm effects of OC use on lung cancer.",
+      "corpusId": 16634942,
+      "url": "https://api.semanticscholar.org/CorpusId:16634942",
+      "pubmed_id": "24606442",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.7314/apjcp.2014.15.3.1205",
+        "matched_title": "Association of oral contraceptives use and lung cancer risk among women: an updated meta-analysis based on cohort and case-control studies.",
+        "matched_pubdate": "2014",
+        "matched_source": "Asian Pac J Cancer Prev"
+      }
+    },
+    {
+      "title": "A Roadmap for Investigating Preclinical Autoimmunity Using Patient-Oriented and Epidemiologic Study Designs: Example of Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "E. Kowalski",
+          "id": "2152278290"
+        },
+        {
+          "name": "G. Qian",
+          "id": "2152281097"
+        },
+        {
+          "name": "K. Vanni",
+          "id": "40202203"
+        },
+        {
+          "name": "J. Sparks",
+          "id": "144508761"
+        }
+      ],
+      "year": 2022,
+      "venue": "Frontiers in Immunology",
+      "score": 0.5838609283338415,
+      "abstract": "Background & Aims Rheumatoid arthritis (RA) is a prototypic autoimmune disease causing inflammatory polyarthritis that affects nearly 1% of the population. RA can lead to joint destruction and disability along with increased morbidity and mortality. Similar to other autoimmune diseases, RA has distinct preclinical phases corresponding to genetic risk, lifestyle risk factors, autoantibody development, and non-specific symptoms prior to clinical diagnosis. This narrative review will detail observational studies for RA risk and clinical trials for RA prevention as a roadmap to investigating preclinical autoimmunity that could be applied to other diseases. Methods In this narrative review, we summarized previous and ongoing research studies investigating RA risk and prevention, categorizing them related to their design and preclinical phases. Results We detailed the following types of studies investigating RA risk and prevention: retrospective population-based and administrative datasets; prospective studies (case-control and cohort; some enrolling based on genetics, first-degree relative status, elevated biomarkers, or early symptoms/arthritis); and randomized clinical trials. These correspond to all preclinical RA phases (genetic, lifestyle, autoimmunity, early signs/symptoms). Previous and ongoing randomized controlled trials have enrolled individuals at very elevated risk for RA based on biomarkers, symptoms, imaging abnormalities, or early signs/symptoms. Conclusion We detailed the rich variety of study designs that is necessary to investigate distinct preclinical phases of an autoimmune disease such as RA. However, further progress is needed to fully elucidate the pathogenesis of RA that may ultimately lead to prevention or delay of disease onset.",
+      "corpusId": 249020424,
+      "url": "https://api.semanticscholar.org/CorpusId:249020424",
+      "pubmed_id": "35693829",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fimmu.2022.890996",
+        "matched_title": "A Roadmap for Investigating Preclinical Autoimmunity Using Patient-Oriented and Epidemiologic Study Designs: Example of Rheumatoid Arthritis.",
+        "matched_pubdate": "2022",
+        "matched_source": "Front Immunol"
+      }
+    },
+    {
+      "title": "Epidemiology and genetics of rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "A. Silman",
+          "id": "77994979"
+        },
+        {
+          "name": "J. E. Pearson",
+          "id": "39651742"
+        }
+      ],
+      "year": 2002,
+      "venue": "Arthritis Research",
+      "score": 0.5826824158253486,
+      "abstract": "Chapter summary The prevalence of rheumatoid arthritis (RA) is relatively constant in many populations, at 0.5–1.0%. However, a high prevalence of RA has been reported in the Pima Indians (5.3%) and in the Chippewa Indians (6.8%). In contrast, low occurrences have been reported in populations from China and Japan. These data support a genetic role in disease risk. Studies have so far shown that the familial recurrence risk in RA is small compared with other autoimmune diseases. The main genetic risk factor of RA is the HLA DRB1 alleles, and this has consistently been shown in many populations throughout the world. The strongest susceptibility factor so far has been the HLA DRB1*0404 allele. Tumour necrosis factor alleles have also been linked with RA. However, it is estimated that these genes can explain only 50% of the genetic effect. A number of other non-MHC genes have thus been investigated and linked with RA (e.g. corticotrophin releasing hormone, oestrogen synthase, IFN-γ and other cytokines). Environmental factors have also been studied in relation to RA. Female sex hormones may play a protective role in RA; for example, the use of the oral contraceptive pill and pregnancy are both associated with a decreased risk. However, the postpartum period has been highlighted as a risk period for the development of RA. Furthermore, breastfeeding after a first pregnancy poses the greatest risk. Exposure to infection may act as a trigger for RA, and a number of agents have been implicated (e.g. Epstein–Barr virus, parvovirus and some bacteria such as Proteus and Mycoplasma). However, the epidemiological data so far are inconclusive. There has recently been renewed interest in the link between cigarette smoking and RA, and the data presented so far are consistent with and suggestive of an increased risk.",
+      "corpusId": 15361449,
+      "url": "https://api.semanticscholar.org/CorpusId:15361449",
+      "pubmed_id": "11920391",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/art.508",
+        "matched_title": "The changing face of rheumatoid arthritis: why the decline in incidence?",
+        "matched_pubdate": "2002 Mar",
+        "matched_source": "Arthritis Rheum"
+      }
+    },
+    {
+      "title": "The lack of associations between rheumatoid arthritis and both nulliparity and infertility.",
+      "authors": [
+        {
+          "name": "Janet E. Pope",
+          "id": "2248201744"
+        },
+        {
+          "name": "Nicholas Bellamy",
+          "id": "2237297047"
+        },
+        {
+          "name": "A. Stevens",
+          "id": "2053988080"
+        }
+      ],
+      "year": 1999,
+      "venue": "Seminars in Arthritis & Rheumatism",
+      "score": 0.5814583593425804,
+      "abstract": "",
+      "corpusId": 36299094,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/10342392",
+      "pubmed_id": "10342392",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/s0049-0172(99)80019-5",
+        "matched_title": "The lack of associations between rheumatoid arthritis and both nulliparity and infertility.",
+        "matched_pubdate": "1999 Apr",
+        "matched_source": "Semin Arthritis Rheum"
+      }
+    },
+    {
+      "title": "The Risk of Oral Contraceptives in the Etiology of Inflammatory Bowel Disease: A Meta-Analysis",
+      "authors": [
+        {
+          "name": "J. Cornish",
+          "id": "2086226446"
+        },
+        {
+          "name": "E. Tan",
+          "id": "143705885"
+        },
+        {
+          "name": "C. Simillis",
+          "id": "7758256"
+        },
+        {
+          "name": "S. Clark",
+          "id": "2240947820"
+        },
+        {
+          "name": "J. Teare",
+          "id": "143897601"
+        },
+        {
+          "name": "P. Tekkis",
+          "id": "4841221"
+        }
+      ],
+      "year": 2008,
+      "venue": "American Journal of Gastroenterology",
+      "score": 0.5721420831689434,
+      "abstract": "",
+      "corpusId": 1723092,
+      "url": "https://doi.org/10.1111/j.1572-0241.2008.02064.x",
+      "pubmed_id": "18684177",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1111/j.1572-0241.2008.02064.x",
+        "matched_title": "The risk of oral contraceptives in the etiology of inflammatory bowel disease: a meta-analysis.",
+        "matched_pubdate": "2008 Sep",
+        "matched_source": "Am J Gastroenterol"
+      }
+    },
+    {
+      "title": "Diminished incidence of severe rheumatoid arthritis associated with oral contraceptive use.",
+      "authors": [
+        {
+          "name": "D. van Zeben",
+          "id": "5547235"
+        },
+        {
+          "name": "J. Hazes",
+          "id": "87722634"
+        },
+        {
+          "name": "J. Vandenbroucke",
+          "id": "3701822"
+        },
+        {
+          "name": "B. Dijkmans",
+          "id": "21775138"
+        },
+        {
+          "name": "A. Cats",
+          "id": "4239356"
+        }
+      ],
+      "year": 1990,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.5702347994827385,
+      "abstract": "",
+      "corpusId": 19950518,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/2222531",
+      "pubmed_id": "2222531",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/art.1780331002",
+        "matched_title": "Diminished incidence of severe rheumatoid arthritis associated with oral contraceptive use.",
+        "matched_pubdate": "1990 Oct",
+        "matched_source": "Arthritis Rheum"
+      }
+    },
+    {
+      "title": "What is the impact of sex hormones on the pathogenesis of rheumatoid arthritis?",
+      "authors": [
+        {
+          "name": "C. Raine",
+          "id": "49177199"
+        },
+        {
+          "name": "I. Giles",
+          "id": "47418856"
+        }
+      ],
+      "year": 2022,
+      "venue": "Frontiers in Medicine",
+      "score": 0.5555355661679333,
+      "abstract": "Rheumatoid arthritis (RA) is the most common inflammatory rheumatic disease and has a female predominance of around 3:1. The relationship between sex hormones and RA has been of great interest to researchers ever since Philip Hench's observations in the 1930's regarding spontaneous disease amelioration in pregnancy. Extensive basic scientific work has demonstrated the immunomodulatory actions of sex hormones but this therapeutic potential has not to date resulted in successful clinical trials in RA. Epidemiological data regarding both endogenous and exogenous hormonal factors are inconsistent, but declining estrogen and/or progesterone levels in the menopause and post-partum appear to increase the risk and severity of RA. This review assimilates basic scientific, epidemiological and clinical trial data to provide an overview of the current understanding of the relationship between sex hormones and RA, focusing on estrogen, progesterone and androgens.",
+      "corpusId": 250959647,
+      "url": "https://api.semanticscholar.org/CorpusId:250959647",
+      "pubmed_id": "35935802",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fmed.2022.909879",
+        "matched_title": "What is the impact of sex hormones on the pathogenesis of rheumatoid arthritis?",
+        "matched_pubdate": "2022",
+        "matched_source": "Front Med (Lausanne)"
+      }
+    },
+    {
+      "title": "Oral contraceptives and rheumatoid arthritis: further evidence for a preventive effect.",
+      "authors": [
+        {
+          "name": "J. P. Vandenbroucke",
+          "id": "2241652429"
+        },
+        {
+          "name": "J. P. Vandenbroucke",
+          "id": "2241652429"
+        },
+        {
+          "name": "J. W. Boersma",
+          "id": "2245486319"
+        },
+        {
+          "name": "J. W. Boersma",
+          "id": "2245486319"
+        },
+        {
+          "name": "J. Festen",
+          "id": "2245486364"
+        },
+        {
+          "name": "J. Festen",
+          "id": "2245486364"
+        },
+        {
+          "name": "H. A. Valkenburg",
+          "id": "2245488632"
+        },
+        {
+          "name": "H. A. Valkenburg",
+          "id": "2245488632"
+        },
+        {
+          "name": "A. Cats",
+          "id": "2245488613"
+        },
+        {
+          "name": "A. Cats",
+          "id": "2245488613"
+        },
+        {
+          "name": "O. Huber-Bruning",
+          "id": "2245486466"
+        },
+        {
+          "name": "O. Huber-Bruning",
+          "id": "2245486466"
+        },
+        {
+          "name": "Johannes J. Rasker",
+          "id": "2245486712"
+        },
+        {
+          "name": "Johannes J. Rasker",
+          "id": "2245486712"
+        }
+      ],
+      "year": 1982,
+      "venue": "The Lancet",
+      "score": 0.5484746332752195,
+      "abstract": "",
+      "corpusId": 21852943,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/6126710",
+      "pubmed_id": "6126710",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/s0140-6736(82)90809-1",
+        "matched_title": "Oral contraceptives and rheumatoid arthritis: further evidence for a preventive effect.",
+        "matched_pubdate": "1982 Oct 16",
+        "matched_source": "Lancet"
+      }
+    },
+    {
+      "title": "Influence of female hormonal factors, in relation to autoantibodies and genetic markers, on the development of rheumatoid arthritis in northern Sweden: a case–control study",
+      "authors": [
+        {
+          "name": "E. Berglin",
+          "id": "116302059"
+        },
+        {
+          "name": "H. Kokkonen",
+          "id": "3117159"
+        },
+        {
+          "name": "E. Einarsdottir",
+          "id": "4049506"
+        },
+        {
+          "name": "A. Ågren",
+          "id": "117392378"
+        },
+        {
+          "name": "S. R. Dahlqvist",
+          "id": "3665687"
+        }
+      ],
+      "year": 2010,
+      "venue": "Scandinavian Journal of Rheumatology",
+      "score": 0.5337115547859699,
+      "abstract": "",
+      "corpusId": 207459253,
+      "url": "https://doi.org/10.3109/03009741003742763",
+      "pubmed_id": "20560812",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.3109/03009741003742763",
+        "matched_title": "Influence of female hormonal factors, in relation to autoantibodies and genetic markers, on the development of rheumatoid arthritis in northern Sweden: a case-control study.",
+        "matched_pubdate": "2010 Nov",
+        "matched_source": "Scand J Rheumatol"
+      }
+    },
+    {
+      "title": "Oral contraceptives and the risk of rheumatoid arthritis: a meta-analysis of a conflicting literature.",
+      "authors": [
+        {
+          "name": "Isabelle Romieu",
+          "id": "2238495859"
+        },
+        {
+          "name": "M. Hernández-Ávila",
+          "id": "2239024227"
+        },
+        {
+          "name": "Matthew H. Liang",
+          "id": "2240593310"
+        }
+      ],
+      "year": 1989,
+      "venue": "British Journal of Rheumatology",
+      "score": 0.5281570065552819,
+      "abstract": "",
+      "corpusId": 5559658,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/2819343",
+      "pubmed_id": "2819343",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1093/rheumatology/xxviii.suppl_1.13",
+        "matched_title": "Oral contraceptives and the risk of rheumatoid arthritis: a meta-analysis of a conflicting literature.",
+        "matched_pubdate": "1989",
+        "matched_source": "Br J Rheumatol"
+      }
+    },
+    {
+      "title": "Absence of protective effect of oral contraceptive use on the development of rheumatoid arthritis: a meta‐analysis of observational studies",
+      "authors": [
+        {
+          "name": "Qi Chen",
+          "id": "2115811691"
+        },
+        {
+          "name": "Zhichao Jin",
+          "id": "7304197"
+        },
+        {
+          "name": "Chun Xiang",
+          "id": "8107744"
+        },
+        {
+          "name": "Q. Cai",
+          "id": "145547735"
+        },
+        {
+          "name": "Wentao Shi",
+          "id": "49833236"
+        },
+        {
+          "name": "Jia He",
+          "id": "36078997"
+        }
+      ],
+      "year": 2014,
+      "venue": "International Journal of Rheumatic Diseases",
+      "score": 0.5208362521611071,
+      "abstract": "",
+      "corpusId": 206950322,
+      "url": "https://doi.org/10.1111/1756-185X.12413",
+      "pubmed_id": "25196669",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1111/1756-185X.12413",
+        "matched_title": "Absence of protective effect of oral contraceptive use on the development of rheumatoid arthritis: a meta-analysis of observational studies.",
+        "matched_pubdate": "2014 Sep",
+        "matched_source": "Int J Rheum Dis"
+      }
+    },
+    {
+      "title": "Early menopause and severity of rheumatoid arthritis in women older than 45 years",
+      "authors": [
+        {
+          "name": "M. Pikwer",
+          "id": "5593981"
+        },
+        {
+          "name": "J. Nilsson",
+          "id": "144358123"
+        },
+        {
+          "name": "U. Bergström",
+          "id": "5055725"
+        },
+        {
+          "name": "L. Jacobsson",
+          "id": "152692998"
+        },
+        {
+          "name": "C. Turesson",
+          "id": "6584791"
+        }
+      ],
+      "year": 2012,
+      "venue": "Arthritis Research & Therapy",
+      "score": 0.5178627662718583,
+      "abstract": "IntroductionWe aimed to investigate whether recognized hormonal predictors of rheumatoid arthritis (RA) also influence the severity of RA.MethodsOne hundred thirty-four incident RA cases identified by four different local and national registers, who had participated in a community-based health survey between 1991 and 1996, were included. By a retrospective structured review of the medical records, information on the use of disease-modifying antirheumatic drugs (DMARDs), erosions on radiographs, rheumatoid factor (RF) status, and disability measured by using the health assessment questionnaire (HAQ) were collected. The variables were added to the SPSS TwoStep Cluster Analysis to reveal natural groupings of RA severity. Known hormonal predictors analyzed were breastfeeding history, history of oral contraceptive (OC) use, and menopausal age.ResultsThe mean age at RA diagnosis was 63.4 years; 72% were RF positive, and 28% had received biological treatment. Three clusters were identified, one with severe RA, one with mild/moderate RF-positive RA, and one with mild/moderate RF-negative RA. A significant difference (P = 0.005) was found in the distribution of clusters between patients with a history of early menopause compared with those with menopause after 45 years, with a higher proportion with mild/moderate RF-negative RA in the early-menopause subset. No major difference in severity of the disease was noted depending on OC use or history of breastfeeding.ConclusionsEarly menopause was associated with a milder form of RA. Hormonal changes may influence pathways that are distinct from those leading to severe, progressive disease.",
+      "corpusId": 15087240,
+      "url": "https://api.semanticscholar.org/CorpusId:15087240",
+      "pubmed_id": "22901865",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/ar4021",
+        "matched_title": "Early menopause and severity of rheumatoid arthritis in women older than 45 years.",
+        "matched_pubdate": "2012 Aug 17",
+        "matched_source": "Arthritis Res Ther"
+      }
+    },
+    {
+      "title": "Lifetime female hormonal exposure and risk of rheumatoid arthritis in postmenopausal women: results from the French E3N cohort.",
+      "authors": [
+        {
+          "name": "C. Salliot",
+          "id": "3553818"
+        },
+        {
+          "name": "Y. Nguyen",
+          "id": "2250433795"
+        },
+        {
+          "name": "A. Gelot",
+          "id": "40057387"
+        },
+        {
+          "name": "X. Mariette",
+          "id": "153126605"
+        },
+        {
+          "name": "M. Boutron‐Ruault",
+          "id": "1388894949"
+        },
+        {
+          "name": "R. Seror",
+          "id": "5625939"
+        }
+      ],
+      "year": 2022,
+      "venue": "Joint Bone Spine",
+      "score": 0.48450888095884154,
+      "abstract": "",
+      "corpusId": 247247030,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/35259476",
+      "pubmed_id": "35259476",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.jbspin.2022.105374",
+        "matched_title": "Lifetime female hormonal exposure and risk of rheumatoid arthritis in postmenopausal women: Results from the French E3N cohort.",
+        "matched_pubdate": "2022 Oct",
+        "matched_source": "Joint Bone Spine"
+      }
+    },
+    {
+      "title": "Noncontraceptive hormones and rheumatoid arthritis in perimenopausal and postmenopausal women.",
+      "authors": [
+        {
+          "name": "J. Vandenbroucke",
+          "id": "3701822"
+        },
+        {
+          "name": "J. Witteman",
+          "id": "31925313"
+        },
+        {
+          "name": "H. Valkenburg",
+          "id": "4275898"
+        },
+        {
+          "name": "J. Boersma",
+          "id": "38414649"
+        },
+        {
+          "name": "A. Cats",
+          "id": "4239356"
+        },
+        {
+          "name": "J. Festen",
+          "id": "1992540950"
+        },
+        {
+          "name": "Arend P. Hartman",
+          "id": "2227988719"
+        },
+        {
+          "name": "O. Huber-Bruning",
+          "id": "1416936541"
+        },
+        {
+          "name": "J. Rasker",
+          "id": "1391036976"
+        },
+        {
+          "name": "J. Weber",
+          "id": "2117836015"
+        }
+      ],
+      "year": 1986,
+      "venue": "Journal of the American Medical Association (JAMA)",
+      "score": 0.47977448358183566,
+      "abstract": "",
+      "corpusId": 44727817,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/3944948",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "DO THE COMMONLY USED CONTRACEPTIVE METHODS HAVE A ROLE ON THE ACTIVITY OF RHEUMATOID ARTHRITIS?",
+      "authors": [
+        {
+          "name": "L. Alfred",
+          "id": "2158546982"
+        },
+        {
+          "name": "Mervat A. Reda",
+          "id": "80610728"
+        },
+        {
+          "name": "I. Amin",
+          "id": "4864858"
+        },
+        {
+          "name": "Reem El Mallah",
+          "id": "2309762780"
+        }
+      ],
+      "year": 2021,
+      "venue": "Ain Shams Medical Journal",
+      "score": 0.47931853456874396,
+      "abstract": "Background: Rheumatoid arthritis (RA) is one of the most common autoimmune diseases of connective tissue. Women are affected by RA 3 times more than men, and because most of them are in the reproductive age and they have to be on a teratogenic drugs (disease modifying antirheumatic drugs DMARDs as methotrexate, leflunamide) for a long periods, so there is a big need to clarify the contraceptive method that should be used by those women. Aim of the Work: we aimed to explore the association of the RA activity and the commonly used female contraceptive methods in a sample of Egyptian females. Patients and Methods: Fifty female RA patients were enrolled and divided into two groups; contraceptive methods users(40 patients), which was further subdivided into intra uterine cupper device (IUCD) users(15 patients),oral contraceptive pills(OC) users(13pateints) and injectables users(12 patients), and noncontraceptive methods users(control group) (10 patients). All patients underwent thorough history taking with special emphasis on contraception history, clinical examination, and assessment by routine laboratory tests, rheumatoid factor (RF) and antibodies to citrullinated protein antigens (ACPA). Rheumatoid arthritis disease activity was assessed using Disease Activity Score 28 using CRP (DAS28/ CRP), while RA disease severity was assessed using Rheumatoid Arthritis Severity Scale (RASS). Results: The RASS was significantly higher in injectables-users in comparison to other methods-users followed by the IUCD-users with the highest significant difference between the injectables and OCs (P=0.002), and the DAS28\\CRP was significantly higher in IUCD users followed by the injectables users with the highest significant difference between the IUCD and OCs (P=0.009). the highest CRP and ACPA was among the IUCD users with the highest significant difference in CRP level between the IUCD users and the control group (P=0.030) and the highest significant difference in ACPA level between the IUCD users and the OCs users (P=0.004). About 64 % of all patients used IUCD prior to the onset of RA, The RA patients who used IUCD prior to the onset of RA had a higher ACPA titers than those with disease onset preceding IUCD use with high statistical significance(P=0.004), Also, on performing a correlation between the duration passed since first use of IUCD and the disease duration, There was a significant positive correlation between them (i.e. the earlier the first exposure to IUCD the longer the disease duration) (r=0.425) Department of Physical Medicine, Rheumatology & Rehabilitation, Faculty of Medicine, Ain Shams University, Egypt. Department of Physical Medicine, *Rheumatology & Rehabititation, El Sahel teaching hospital(2) Corresponding author:",
+      "corpusId": 247389781,
+      "url": "https://api.semanticscholar.org/CorpusId:247389781",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Effect of oral contraceptive pills on rheumatoid arthritis disease activity in women: A randomized clinical trial",
+      "authors": [
+        {
+          "name": "L. Amini",
+          "id": "47217592"
+        },
+        {
+          "name": "M. Kalhor",
+          "id": "28312910"
+        },
+        {
+          "name": "A. Haghighi",
+          "id": "39858214"
+        },
+        {
+          "name": "N. Seyedfatemi",
+          "id": "28062300"
+        },
+        {
+          "name": "F. Hosseini",
+          "id": "122119877"
+        }
+      ],
+      "year": 2018,
+      "venue": "Medical Journal of The Islamic Republic of Iran",
+      "score": 0.4781571631422238,
+      "abstract": "Background: Rheumatoid arthritis is one of the most common autoimmune diseases. Because immunological changes can be induced by steroid hormones, it seems that oral contraceptive pills can affect the severity of the disease. In this study, we examined the effect of oral contraceptive pills on rheumatoid arthritis activity in women. Methods: This blinded randomized clinical control trial was performed in the selected rheumatology centers in Tehran, Iran, in 2011. A total of 100 women with rheumatoid arthritis were included (50 in the intervention and 50 in the control groups), and those in the intervention group took oral contraceptive pills intermittently for 8 weeks. Disease activity was measured at 1 and 9 weeks based on DAS-28, which includes the number of tender joints, number of swollen joints, ESR, and GH. Data were analyzed using SPSS-16, and significance level was set at p≤0.05. This study was registered in IRCT (number: 138904224364N1) and all interventions were done after receiving confirmation from the Ethical Committee of Tehran University of Medical Sciences (Code: 250/ 6441). Results: After administering oral contraceptive pills to the intervention group, we found significant differences between the 2 groups in disease activity and severity scores (p=0.04). Intervention group showed lower swollen joints score (p=0.02), lower joint tenderness score (p=0.02), and lower general health score (p=0.001) than the control group. Conclusion: According to the results of this study, oral contraceptive pills can improve rheumatoid arthritis activity and severity. As these pills are used for contraception, women with rheumatoid arthritis can benefit from both effects of these pills.",
+      "corpusId": 54875704,
+      "url": "https://api.semanticscholar.org/CorpusId:54875704",
+      "pubmed_id": "30643736",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.14196/mjiri.32.61",
+        "matched_title": "Effect of oral contraceptive pills on rheumatoid arthritis disease activity in women: A randomized clinical trial.",
+        "matched_pubdate": "2018",
+        "matched_source": "Med J Islam Repub Iran"
+      }
+    },
+    {
+      "title": "Impact of oral contraceptives and breastfeeding on disease activity in a sample of Egyptian rheumatoid arthritis patients",
+      "authors": [
+        {
+          "name": "S. Elsayed",
+          "id": "84672391"
+        },
+        {
+          "name": "Doris M. Henry",
+          "id": "2036652627"
+        },
+        {
+          "name": "Esam M. Abu Elfadl",
+          "id": "2126323538"
+        }
+      ],
+      "year": 2020,
+      "venue": "Egyptian Rheumatology and Rehabilitation",
+      "score": 0.47654161419466695,
+      "abstract": "Women are more affected by rheumatoid arthritis (RA) than men and the incidence of RA in women increases around the age of menopause indicating that hormonal factors may have a role in disease pathogenesis and progression. Despite several studies on the role of sex hormones and oral contraceptives (OCs) in RA patients, the effect of combined oral contraceptives on RA disease activity is still controversial, and since few studies have been performed in Egypt on this issue so we aimed to study the effect of OCs, breastfeeding, and prolactin on disease activity and their relation to the titer of autoantibodies in female Egyptian RA patients. One hundred twenty married female RA patients were classified into three groups based on the OCs use (n = 40 each); current, past and non-users and according to lactation into three groups; lactating using OCs (n = 22), lactating not using OCs (n = 30), and non-lactating (n = 68). Our patients were using combined estrogen-progestin oral contraceptives. Clinical manifestations, disease activity, and laboratory findings were determined. The clinical manifestations including arthritis, and morning stiffness were significantly reduced in current users in comparison to past and non-users. Mean DAS28 was reduced significantly (p < 0.05) in current and past users of OCs. Also, using OCs during lactation reduced the clinical manifestations significantly. Lactating women who were not using OCs had significantly high DAS28 and ESR (p < 0.05) in comparison to lactating using OCs and non-lactating. On the other hand, using OCs reduced serum prolactin significantly. Lactating women not using OCs had significantly high serum prolactin (p < 0.05) and (p < 0.001) in comparison to lactating using OCs and non-lactating respectively which was correlated with DAS28 score. Oral contraceptives may be considered in RA female patients not only as a suitable birth control method but also it has a controlling effect on disease activity even during lactation. Oral contraceptives ameliorate disease activity in RA patients",
+      "corpusId": 228913733,
+      "url": "https://api.semanticscholar.org/CorpusId:228913733",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Oral contraceptives and MS disease activity in a contemporary real-world cohort",
+      "authors": [
+        {
+          "name": "R. Bove",
+          "id": "1780501"
+        },
+        {
+          "name": "Kelsey A. Rankin",
+          "id": "50175973"
+        },
+        {
+          "name": "A. Chua",
+          "id": "35220324"
+        },
+        {
+          "name": "Taylor J Saraceno",
+          "id": "7216900"
+        },
+        {
+          "name": "N. Sattarnezhad",
+          "id": "7703256"
+        },
+        {
+          "name": "Emily Greeke",
+          "id": "5326199"
+        },
+        {
+          "name": "F. Stuart",
+          "id": "145614788"
+        },
+        {
+          "name": "Allison LaRussa",
+          "id": "11347031"
+        },
+        {
+          "name": "B. Glanz",
+          "id": "5709028"
+        },
+        {
+          "name": "T. Chitnis",
+          "id": "2468396"
+        }
+      ],
+      "year": 2018,
+      "venue": "Multiple Sclerosis",
+      "score": 0.47425112538737246,
+      "abstract": "",
+      "corpusId": 3285979,
+      "url": "https://doi.org/10.1177/1352458517692420",
+      "pubmed_id": "28155573",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1177/1352458517692420",
+        "matched_title": "Oral contraceptives and MS disease activity in a contemporary real-world cohort.",
+        "matched_pubdate": "2018 Feb",
+        "matched_source": "Mult Scler"
+      }
+    },
+    {
+      "title": "The relationship between oral contraceptive use and functional outcome in women with recent-onset inflammatory polyarthritis: results from the Norfolk Arthritis Register.",
+      "authors": [
+        {
+          "name": "Elizabeth M. Camacho",
+          "id": "2056270284"
+        },
+        {
+          "name": "Mark Lunt",
+          "id": "2240066874"
+        },
+        {
+          "name": "T. Farragher",
+          "id": "3765236"
+        },
+        {
+          "name": "S. Verstappen",
+          "id": "3529467"
+        },
+        {
+          "name": "D. Bunn",
+          "id": "6491285"
+        },
+        {
+          "name": "D. Symmons",
+          "id": "2091233701"
+        }
+      ],
+      "year": 2011,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.46810514696196054,
+      "abstract": "",
+      "corpusId": 38723892,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/21520011",
+      "pubmed_id": "21520011",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/art.30416",
+        "matched_title": "The relationship between oral contraceptive use and functional outcome in women with recent-onset inflammatory polyarthritis: results from the Norfolk Arthritis Register.",
+        "matched_pubdate": "2011 Aug",
+        "matched_source": "Arthritis Rheum"
+      }
+    },
+    {
+      "title": "Rheumatoid Arthritis and Breast-Feeding in Korea: The Fifth Korea National Health and Nutrition Examination Survey (2010-2012)",
+      "authors": [
+        {
+          "name": "Bo-ram Choi",
+          "id": "49026694"
+        },
+        {
+          "name": "Moon-Hee Kwon",
+          "id": "81063490"
+        }
+      ],
+      "year": 2015,
+      "venue": "unknown",
+      "score": 0.46782431527737367,
+      "abstract": "Female hormonal and reproductive factors such as breast-feeding, oral contraception and early life factors are reported to be implicated in the risk of rheumatoid arthritis. In order to assess the association of rheumatoid arthritis and breast-feeding, we analyzed the data from 4,584 women of aged 40-64 with using the 5 th KNHANES. As results, breast-feeding duration (>24M) was significantly associated with preventing the rheumatoid arthritis and was also observed the trend of longer breast-feeding duration and lowering rheumatoid arthritis. BMI (<18.5) was also the contributing factor on increasing the risk of rheumatoid arthritis, while age at menarche, education level, smoking and use of oral contraceptives were not related with the risk of rheumatoid arthritis. It might be important to recommend the proper breast-feeding duration policy and further research on the factors of the biological mechanism to prevent the rheumatoid arthritis onset and developing burden in the future.",
+      "corpusId": 70557330,
+      "url": "https://api.semanticscholar.org/CorpusId:70557330",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Regulatory T Cell Proportion and Phenotype Are Altered in Women Using Oral Contraception",
+      "authors": [
+        {
+          "name": "L. M. Moldenhauer",
+          "id": "8282673"
+        },
+        {
+          "name": "M. Jin",
+          "id": "2028834958"
+        },
+        {
+          "name": "Jasmine J Wilson",
+          "id": "2115381241"
+        },
+        {
+          "name": "Ella S. Green",
+          "id": "35283852"
+        },
+        {
+          "name": "D. J. Sharkey",
+          "id": "39533386"
+        },
+        {
+          "name": "M. Salkeld",
+          "id": "5914898"
+        },
+        {
+          "name": "T. C. Bristow",
+          "id": "2174834384"
+        },
+        {
+          "name": "M. L. Hull",
+          "id": "40172167"
+        },
+        {
+          "name": "G. Dekker",
+          "id": "1845668"
+        },
+        {
+          "name": "S. Robertson",
+          "id": "1732901"
+        }
+      ],
+      "year": 2022,
+      "venue": "Endocrinology",
+      "score": 0.46605205711802866,
+      "abstract": "Abstract Regulatory T (Treg) cells are a specialized CD4+ T cell subpopulation that are essential for immune homeostasis, immune tolerance, and protection against autoimmunity. There is evidence that sex-steroid hormones estrogen and progesterone modulate Treg cell abundance and phenotype in women. Since natural oscillations in these hormones are modified by hormonal contraceptives, we examined whether oral contraception (OC) use impacts Treg cells and related T cell populations. T cells were analyzed by multiparameter flow cytometry in peripheral blood collected across the menstrual cycle from healthy women either using OC or without hormonal contraception and from age-matched men. Compared to naturally cycling women, women using OC had fewer Treg cells and an altered Treg cell phenotype. Notably, Treg cells exhibiting a strongly suppressive phenotype, defined by high FOXP3, CD25, Helios, HLADR, CTLA4, and Ki67, comprised a lower proportion of total Treg cells, particularly in the early- and mid-cycle phases. The changes were moderate compared to more substantial differences in Treg cells between women and men, wherein women had fewer Treg cells—especially of the effector memory Treg cell subset—associated with more T helper type 1 (Th1) cells and CD8+ T cells and lower Treg:Th1 cell and Treg:CD8+ T cell ratios than men. These findings imply that OC can modulate the number and phenotype of peripheral blood Treg cells and raise the possibility that Treg cells contribute to the physiological changes and altered disease susceptibility linked with OC use.",
+      "corpusId": 250282567,
+      "url": "https://api.semanticscholar.org/CorpusId:250282567",
+      "pubmed_id": "35786711",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1210/endocr/bqac098",
+        "matched_title": "Regulatory T Cell Proportion and Phenotype Are Altered in Women Using Oral Contraception.",
+        "matched_pubdate": "2022 Sep 1",
+        "matched_source": "Endocrinology"
+      }
+    },
+    {
+      "title": "Preliminary findings from a case-control study of the risk of rheumatoid arthritis in relation to oral contraceptive use.",
+      "authors": [
+        {
+          "name": "Thomas D. Koepsell",
+          "id": "2272816098"
+        },
+        {
+          "name": "C. Dugowson",
+          "id": "9926481"
+        },
+        {
+          "name": "Lynda F. Voigt",
+          "id": "2272626353"
+        },
+        {
+          "name": "L. Bley",
+          "id": "145202173"
+        },
+        {
+          "name": "J. Nelson",
+          "id": "2107303078"
+        },
+        {
+          "name": "J. Daling",
+          "id": "144415132"
+        },
+        {
+          "name": "D. Setterholm",
+          "id": "14141290"
+        },
+        {
+          "name": "C. Stephens",
+          "id": "145741365"
+        },
+        {
+          "name": "Carol L. Ure",
+          "id": "2227343516"
+        },
+        {
+          "name": "J. Ballard",
+          "id": "101542140"
+        },
+        {
+          "name": "A. Peterson",
+          "id": "2272515323"
+        }
+      ],
+      "year": 1989,
+      "venue": "British Journal of Rheumatology",
+      "score": 0.4636897994663643,
+      "abstract": "",
+      "corpusId": 32986759,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/2819353",
+      "pubmed_id": "2819353",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1093/rheumatology/xxviii.suppl_1.41",
+        "matched_title": "Preliminary findings from a case-control study of the risk of rheumatoid arthritis in relation to oral contraceptive use.",
+        "matched_pubdate": "1989",
+        "matched_source": "Br J Rheumatol"
+      }
+    },
+    {
+      "title": "Safety of Hormonal Replacement Therapy and Oral Contraceptives in Systemic Lupus Erythematosus: A Systematic Review and Meta-Analysis",
+      "authors": [
+        {
+          "name": "A. Rojas-Villarraga",
+          "id": "1401556889"
+        },
+        {
+          "name": "J. Torres-González",
+          "id": "1420214667"
+        },
+        {
+          "name": "Á. Ruiz-Sternberg",
+          "id": "1399534617"
+        }
+      ],
+      "year": 2014,
+      "venue": "PLoS ONE",
+      "score": 0.43896007175408774,
+      "abstract": "Background There is conflicting data regarding exogenous sex hormones [oral contraceptives (OC) and hormonal replacement therapy (HRT)] exposure and different outcomes on Systemic Lupus Erythematosus (SLE). The aim of this work is to determine, through a systematic review and meta-analysis the risks associated with estrogen use for women with SLE as well as the association of estrogen with developing SLE. Methods and Findings MEDLINE, EMBASE, SciElo, BIREME and the Cochrane library (1982 to July 2012), were databases from which were selected and reviewed (PRISMA guidelines) randomized controlled trials, cross-sectional, case-control and prospective or retrospective nonrandomized, comparative studies without language restrictions. Those were evaluated by two investigators who extracted information on study characteristics, outcomes of interest, risk of bias and summarized strength of evidence. A total of 6,879 articles were identified; 20 full-text articles were included. Thirty-two meta-analyses were developed. A significant association between HRT exposure (Random model) and an increased risk of developing SLE was found (Rate Ratio: 1.96; 95%-CI: 1.51–2.56; P-value<0.001). One of eleven meta-analyses evaluating the risk for SLE associated with OC exposure had a marginally significant result. There were no associations between HRT or OC exposure and specific outcomes of SLE. It was not always possible to Meta-analyze all the available data. There was a wide heterogeneity of SLE outcome measurements and estrogen therapy administration. Conclusion An association between HRT exposure and SLE causality was observed. No association was found when analyzing the risk for SLE among OC users, however since women with high disease activity/Thromboses or antiphospholipid-antibodies were excluded from most of the studies, caution should be exercised in interpreting the present results. To identify risk factors that predispose healthy individuals to the development of SLE who are planning to start HRT or OC is suggested.",
+      "corpusId": 4580290,
+      "url": "https://api.semanticscholar.org/CorpusId:4580290",
+      "pubmed_id": "25137236",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0104303",
+        "matched_title": "Safety of hormonal replacement therapy and oral contraceptives in systemic lupus erythematosus: a systematic review and meta-analysis.",
+        "matched_pubdate": "2014",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Postmenopausal hormone therapy and the risk of rheumatoid arthritis: results from the Swedish EIRA population-based case-control study",
+      "authors": [
+        {
+          "name": "C. Orellana",
+          "id": "145599433"
+        },
+        {
+          "name": "S. Saevarsdottir",
+          "id": "145290000"
+        },
+        {
+          "name": "L. Klareskog",
+          "id": "153728702"
+        },
+        {
+          "name": "E. Karlson",
+          "id": "2542696"
+        },
+        {
+          "name": "L. Alfredsson",
+          "id": "6611041"
+        },
+        {
+          "name": "C. Bengtsson",
+          "id": "6878810"
+        }
+      ],
+      "year": 2015,
+      "venue": "European Journal of Epidemiology",
+      "score": 0.4203784309550574,
+      "abstract": "To study the association between postmenopausal hormone therapy (PMH) use and the risk of rheumatoid arthritis (RA) stratifying the cases by the presence/absence of antibodies against citrullinated peptides (ACPA). A subset of the Epidemiological Investigation of RA (EIRA), a population-based case-control study, comprising postmenopausal women aged 50–70 living in Sweden, between 2006 and 2011 was analysed (523 cases and 1057 controls). All participants answered an extensive questionnaire, including questions regarding PMH use and potential confounders (education, smoking, BMI, oral contraceptives, reproductive factors). We calculated odds ratios (OR) of developing ACPA-positive/-negative RA, with 95 % confidence intervals (CI) and adjusted for age, residential area and smoking. Current users of PMH had a decreased risk of ACPA-positive RA compared with never users (OR 0.6, 95 % CI 0.3–0.9). The decreased risk was observed mainly in the age-group 50–59 years (OR 0.3, 95 % CI 0.1–0.8) but not in the age-group 60–70 years (OR 0.8, 95 % CI 0.4–1.4). Among current users of a combined therapy (estrogen plus progestogens) an OR of 0.3 (95 % CI 0.1–0.7) of ACPA-positive RA was observed, while no significant association was found among women who used estrogen only (OR 0.8, 95 % CI 0.5–1.6). No association between PMH use and ACPA-negative RA was found. PMH use might reduce the risk of ACPA-positive RA in post-menopausal women over 50 years of age, but not of ACPA-negative RA. The negative influence of this treatment on the risk of other chronic conditions cannot be overlooked.",
+      "corpusId": 14359353,
+      "url": "https://doi.org/10.1007/s10654-015-0004-y",
+      "pubmed_id": "25762170",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1007/s10654-015-0004-y",
+        "matched_title": "Postmenopausal hormone therapy and the risk of rheumatoid arthritis: results from the Swedish EIRA population-based case-control study.",
+        "matched_pubdate": "2015 May",
+        "matched_source": "Eur J Epidemiol"
+      }
+    },
+    {
+      "title": "Oral contraceptives and rheumatoid arthritis: results from a primary care-based incident case-control study.",
+      "authors": [
+        {
+          "name": "P. Brennan",
+          "id": "144462699"
+        },
+        {
+          "name": "C. Bankhead",
+          "id": "3978248"
+        },
+        {
+          "name": "A. Silman",
+          "id": "77994979"
+        },
+        {
+          "name": "D. Symmons",
+          "id": "3609537"
+        }
+      ],
+      "year": 1997,
+      "venue": "Seminars in Arthritis & Rheumatism",
+      "score": 0.412751459883018,
+      "abstract": "",
+      "corpusId": 8573141,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/9213380",
+      "pubmed_id": "9213380",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/s0049-0172(97)80025-x",
+        "matched_title": "Oral contraceptives and rheumatoid arthritis: results from a primary care-based incident case-control study.",
+        "matched_pubdate": "1997 Jun",
+        "matched_source": "Semin Arthritis Rheum"
+      }
+    },
+    {
+      "title": "Oral contraceptive use and breast cancer.",
+      "authors": [
+        {
+          "name": "E. Baulieu",
+          "id": "2259277110"
+        },
+        {
+          "name": "G. Benagiano",
+          "id": "2244939495"
+        },
+        {
+          "name": "Ivo Brosens",
+          "id": "2250716191"
+        },
+        {
+          "name": "Cooke Id",
+          "id": "66111367"
+        },
+        {
+          "name": "J. Goldzieher",
+          "id": "77562991"
+        },
+        {
+          "name": "Hammerstein Jw",
+          "id": "1387393026"
+        },
+        {
+          "name": "A. Haspels",
+          "id": "78521730"
+        },
+        {
+          "name": "E. Johannisson",
+          "id": "5176645"
+        },
+        {
+          "name": "B. Lunenfeld",
+          "id": "2292700897"
+        },
+        {
+          "name": "M. Potts",
+          "id": "2259330106"
+        }
+      ],
+      "year": 1987,
+      "venue": "British Journal of Cancer",
+      "score": 0.3845054113399547,
+      "abstract": "Sir In this issue, McPherson et al. (1987) report a case control study of oral contraceptive (OC) use and breast cancer. They concentrated on the 351 pairs of women under 45 years at diagnosis and found a significantly elevated relative risk (2.6) associated with more than 4 years of use before the first full term pregnancy. There was, however, no increase in risk in nulliparous women less than 45 or those who had used OC before the age of 25. The authors evaluate their data critically but a number of points appear worthy of further comment. As they emphasise their results are at variance with the large study of Stadel et al. (1985) as well as the five cohort studies (Lipnick et al., 1986) which did not find such increased risk. On the other hand Meirik et al. (1986) showed an increased risk in Swedish women under 40 associated with eight or more years of OC use and Pike et al. (1983) reported an increased risk associated with long term use of some preparations before the age of 25 whereas the current authors do not, highlighting the contradictory conclusions of successive contributions to this field. Contraceptive history in breast cancer patients is known as an aetiologically potentially relevant factor so prior to the study patients may frequently have answered questions on this subject creating a systematic bias in recall. A control group of married women does not necessarily have the same history of sexual activity as ever-married women and the pattern of former pill use in hospital patients may not be representative of that of the general population. The controls in the second part of this study (1980-1984) showed a larger number with arthritis, skin or musculo-skeletal disorders than the first part. Although the excess of long term use of oral contraceptives is not confined to cases matched with these controls it does account for a major proportion. Oral contraceptives are known to affect some skin diseases adversely (RCGP, 1974), former use in controls may therefore be less. Conversely rheumatoid arthritis, the major component of 'arthritis/musculo-skeletal disorder' is known to derive benefit from OC use (Wingrave et al., 1978) which may be greater in those subjects. The least plausible conclusion of the study is the adverse effect of ethinyl oestradiol. Although the peak plasma level achieved is lower than in those taking mestranol the area under the concentration/time curve is virtually the same for mestranol and ethinyl oestradiol (Goldzieher et al., 1980), and as they are interconverted it is hard to imagine a differential effect. The authors hypothesise a latent effect of at least 10 years between long term early OC exposure and an increased risk of breast cancer diagnosis based on a theoretical model (McPherson et al., 1986). It will be important for other workers to consider this in their experimental designs, particularly as the data of the present study relate to many products no longer used and do not incriminate modern low dose ethinyl oestradiol containing pills. With the above reservations about bias in this case control study it is not at all clear that pooled data of different populations over different time frames will resolve outstanding questions as the authors suggest. An uncritical response to the present data may lead to unjustified anxiety and an unnecessary change of contraceptive practice or even cessation followed by unwanted pregnancy as has previously been seen. Nevertheless similar careful analyses are still needed to resolve any relationship between breast cancer and OC use. Yours etc., E.E. Baulieu, Paris, France G. Benagiano, Rome, Italy I. Brosens, Leuven, Belgium I.D. Cooke, Sheffield, UK J.W. Goldzieher, Houston, USA J.W. Hammerstein, West Berlin, Germany A. Haspels, Utrecht, Netherlands E. Johannisson, Geneva, Switzerland B. Lunenfeld, Tel Aviv, Israel M. Potts, North Carolina, USA (Members, International Committee for Research in Reproduction)",
+      "corpusId": 1223889,
+      "url": "https://api.semanticscholar.org/CorpusId:1223889",
+      "pubmed_id": "3426942",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/bjc.1987.272",
+        "matched_title": "Oral contraceptive use and breast cancer.",
+        "matched_pubdate": "1987 Nov",
+        "matched_source": "Br J Cancer"
+      }
+    },
+    {
+      "title": "Oral Contraceptives and Multiple Sclerosis/Clinically Isolated Syndrome Susceptibility",
+      "authors": [
+        {
+          "name": "K. Hellwig",
+          "id": "117255943"
+        },
+        {
+          "name": "Lie-Hong Chen",
+          "id": "10087808"
+        },
+        {
+          "name": "F. Z. Stancyzk",
+          "id": "6481783"
+        },
+        {
+          "name": "A. Langer-Gould",
+          "id": "1398164960"
+        }
+      ],
+      "year": 2016,
+      "venue": "PLoS ONE",
+      "score": 0.35168691787846224,
+      "abstract": "Background The incidence of multiple sclerosis (MS) is rising in women. Objective To determine whether the use of combined oral contraceptives (COCs) are associated with MS risk and whether this varies by progestin content. Methods We conducted a nested case-control study of females ages 14–48 years with incident MS or clinically isolated syndrome (CIS) 2008–2011 from the membership of Kaiser Permanente Southern California. Controls were matched on age, race/ethnicity and membership characteristics. COC use up to ten years prior to symptom onset was obtained from the complete electronic health record. Results We identified 400 women with incident MS/CIS and 3904 matched controls. Forty- percent of cases and 32% of controls had used COCs prior to symptom onset. The use of COCs was associated with a slightly increased risk of MS/CIS (adjusted OR = 1.52, 95%CI = 1.21–1.91; p<0.001). This risk did not vary by duration of COC use. The association varied by progestin content being more pronounced for levenorgestrol (adjusted OR = 1.75, 95%CI = 1.29–2.37; p<0.001) than norethindrone (adjusted OR = 1.57, 95%CI = 1.16–2.12; p = 0.003) and absent for the newest progestin, drospirenone (p = 0.95). Conclusions Our findings should be interpreted cautiously. While the use of some combination oral contraceptives may contribute to the rising incidence of MS in women, an unmeasured confounder associated with the modern woman’s lifestyle is a more likely explanation for this weak association.",
+      "corpusId": 1539945,
+      "url": "https://pdfs.semanticscholar.org/ff46/9ac69ae66cf46079cdcb760d71840b1eab63.pdf",
+      "pubmed_id": "26950301",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0149094",
+        "matched_title": "Oral Contraceptives and Multiple Sclerosis/Clinically Isolated Syndrome Susceptibility.",
+        "matched_pubdate": "2016",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Women’s Health: Contemporary Management of MS in Pregnancy and Post-Partum",
+      "authors": [
+        {
+          "name": "Kelly Tisovic",
+          "id": "83996912"
+        },
+        {
+          "name": "L. Amezcua",
+          "id": "2106210"
+        }
+      ],
+      "year": 2019,
+      "venue": "Biomedicines",
+      "score": 0.3475073653849079,
+      "abstract": "Multiple sclerosis (MS) primarily affects women in childbearing age and is associated with an increased risk of adverse post-partum outcomes. Relapses and now fetal exposure to disease modifying treatments in the early phase of pregnancy and thereafter are of concern. Safe and effective contraception is required for women who wish to delay or avoid pregnancy while on disease-modifying treatments. Counseling and planning is essential to assess the risk of both fetal and maternal complications, particularly now in the era of highly efficient and riskier therapies. The purpose of this review is to provide a practical framework using the available data surrounding pregnancy in MS with the goal of optimizing outcomes during this phase in MS.",
+      "corpusId": 128359391,
+      "url": "https://api.semanticscholar.org/CorpusId:128359391",
+      "pubmed_id": "31010259",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/biomedicines7020032",
+        "matched_title": "Women's Health: Contemporary Management of MS in Pregnancy and Post-Partum.",
+        "matched_pubdate": "2019 Apr 19",
+        "matched_source": "Biomedicines"
+      }
+    },
+    {
+      "title": "Reproductive health and rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "Mohammad Erfan Ranjbaran",
+          "id": "2325929664"
+        },
+        {
+          "name": "Maryam Kazemi",
+          "id": "2278374315"
+        }
+      ],
+      "year": 2024,
+      "venue": "BMC Rheumatology",
+      "score": 0.3415781450254212,
+      "abstract": "The prevalence of Rheumatoid Arthritis (RA) has been steadily increasing over the last thirty years, particularly among women. Due to the conflicting results of various studies on the link between rheumatoid arthritis and reproductive health, we have undertaken this study to explore their relationship. This cross-sectional study utilized primary data from5557 women involved in the Fasa Persian Cohort in the years 2013 to 2018. The study examined the frequency of RA and its association with various factors related to reproductive health, including age at first pregnancy, number of alive children, history of abortion, and infertility. SPSS software was utilized for data analysis, with the significance level set at p < 0.05. 5557 women with an average age of 48.6 ± 9.5 years participated. Of these women, 7.2% were diagnosed with rheumatoid disease, with an average onset age of 38.2 ± 15.2. The study did not find a significant correlation between RA and factors such as number of pregnancies, age at first pregnancy, duration of breastfeeding and number of children. The study suggests that the experience of RA is independent of gynecological, obstetric factors, or reproductive life. This finding may provide reassurance to women affected by RA.",
+      "corpusId": 273348288,
+      "url": "https://api.semanticscholar.org/CorpusId:273348288",
+      "pubmed_id": "39402633",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s41927-024-00429-z",
+        "matched_title": "Reproductive health and rheumatoid arthritis.",
+        "matched_pubdate": "2024 Oct 15",
+        "matched_source": "BMC Rheumatol"
+      }
+    }
+  ]
+}

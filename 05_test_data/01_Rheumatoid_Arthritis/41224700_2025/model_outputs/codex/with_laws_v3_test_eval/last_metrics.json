@@ -1,0 +1,28 @@
+{
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR RA[tiab]) AND (\"Contraceptives, Oral\"[Mesh] OR \"oral contraceptive\"[tiab] OR \"oral contraceptives\"[tiab] OR \"combined oral contraceptive\"[tiab] OR \"oral contraception\"[tiab] OR \"contraceptive pill\"[tiab] OR \"birth control pill\"[tiab])",
+  "query_path": "05_test_data\\01_Rheumatoid_Arthritis\\41224700_2025\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data\\01_Rheumatoid_Arthritis\\41224700_2025\\input_config_detailed.json",
+  "total_hits": 273,
+  "recall": 0.8333333333333334,
+  "found_count": 10,
+  "total_gold": 12,
+  "mode": "open",
+  "timestamp_unix": 1781083204,
+  "missed_pmids": [
+    "37857046",
+    "38195516"
+  ],
+  "found_pmids": [
+    "14625816",
+    "15529351",
+    "21520011",
+    "2241261",
+    "2369431",
+    "24395920",
+    "28859327",
+    "33547777",
+    "3621942",
+    "37773999"
+  ],
+  "missed_count": 2
+}

@@ -1,0 +1,130 @@
+--- Missed Papers Context (sampled) ---
+Sample size: 1 / Missed count: 1
+Seed: 1773329223
+Sampled PMIDs: 30364177
+
+MEDLINE FIELDS OF INTEREST:
+- TI: Title
+- AB: Abstract
+- MH: MeSH Headings
+
+
+PMID- 30364177
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191003
+LR  - 20191007
+IS  - 1664-3224 (Electronic)
+IS  - 1664-3224 (Linking)
+VI  - 9
+DP  - 2018
+TI  - Schistosoma mansoni Egg-Released IPSE/alpha-1 Dampens Inflammatory Cytokine 
+      Responses via Basophil Interleukin (IL)-4 and IL-13.
+PG  - 2293
+LID - 10.3389/fimmu.2018.02293 [doi]
+LID - 2293
+AB  - Schistosomes control inflammation in their hosts via highly effective mechanisms 
+      such as induction of Tregs, Bregs, and alternatively activated macrophages 
+      (AAMs). Notably, IPSE/alpha-1, the major secretory product from Schistosoma 
+      mansoni eggs, triggers basophils to release interleukin (IL)-4 and IL-13. Both 
+      cytokines are essential for AAM induction, suggesting an important role for 
+      IPSE/alpha-1 in inflammation control. Here, we show by in vitro co-culture 
+      experiments that IPSE/alpha-1-induced basophil IL-4/IL-13 inhibited 
+      pro-inflammatory cytokine release from human LPS-activated monocytes. This effect 
+      was cell/cell contact-independent but dependent on IL-4, since it was abrogated 
+      in the presence of anti-IL-4 antibodies. Importantly, the IPSE/alpha-1-induced 
+      IL-4/IL-13 release from basophils was amplified in the presence of LPS. Moreover, 
+      monocytes co-cultured in the presence of LPS with IPSE/alpha-1-stimulated 
+      basophils adopted an AAM-like phenotype as assessed by elevated expression of 
+      CD206 and CD209. The putative in vivo relevance of these findings was supported 
+      by immunohistological staining of S. mansoni-infected murine tissue revealing 
+      close physical contact between IPSE/alpha-1 and basophils in schistosome egg 
+      granulomas. Taken together, we found that IPSE/alpha-1 dampens inflammatory 
+      cytokine responses by triggering basophil IL-4/IL-13, in particular in the 
+      context of TLR activation, thereby turning inflammatory monocytes into 
+      anti-inflammatory AAMs. This might represent a mechanism used by schistosomes to 
+      control inflammation in the host.
+FAU - Knuhr, Katrin
+AU  - Knuhr K
+AD  - Experimental Pneumology, Research Center Borstel, Airway Research Center North, 
+      Member of the German Center for Lung Research (DZL), Borstel, Germany.
+FAU - Langhans, Kristina
+AU  - Langhans K
+AD  - Experimental Pneumology, Research Center Borstel, Airway Research Center North, 
+      Member of the German Center for Lung Research (DZL), Borstel, Germany.
+FAU - Nyenhuis, Sandra
+AU  - Nyenhuis S
+AD  - Experimental Pneumology, Research Center Borstel, Airway Research Center North, 
+      Member of the German Center for Lung Research (DZL), Borstel, Germany.
+FAU - Viertmann, Kerstin
+AU  - Viertmann K
+AD  - Experimental Pneumology, Research Center Borstel, Airway Research Center North, 
+      Member of the German Center for Lung Research (DZL), Borstel, Germany.
+FAU - Kildemoes, Anna M Overgaard
+AU  - Kildemoes AMO
+AD  - Section for Parasitology and Aquatic Pathobiology, Faculty of Health and Medical 
+      Sciences, University of Copenhagen, Copenhagen, Denmark.
+FAU - Doenhoff, Michael J
+AU  - Doenhoff MJ
+AD  - School of Life Sciences, University of Nottingham, Nottingham, United Kingdom.
+FAU - Haas, Helmut
+AU  - Haas H
+AD  - helminGuard, Suelfeld, Germany.
+FAU - Schramm, Gabriele
+AU  - Schramm G
+AD  - Experimental Pneumology, Research Center Borstel, Airway Research Center North, 
+      Member of the German Center for Lung Research (DZL), Borstel, Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20181010
+PL  - Switzerland
+TA  - Front Immunol
+JT  - Frontiers in immunology
+JID - 101560960
+RN  - 0 (Antigens, Helminth)
+RN  - 0 (Cytokines)
+RN  - 0 (Inflammation Mediators)
+RN  - 0 (Interleukin-13)
+RN  - 0 (Recombinant Proteins)
+RN  - 207137-56-2 (Interleukin-4)
+RN  - 37341-29-0 (Immunoglobulin E)
+SB  - IM
+MH  - Animals
+MH  - Antigens, Helminth/*immunology
+MH  - Basophils/*immunology/*metabolism
+MH  - Cytokines/*metabolism
+MH  - Humans
+MH  - Immunoglobulin E/immunology
+MH  - Inflammation Mediators/*metabolism
+MH  - Interleukin-13/metabolism
+MH  - Interleukin-4/metabolism
+MH  - Mice
+MH  - Monocytes/immunology/metabolism
+MH  - Recombinant Proteins/metabolism
+MH  - Schistosoma mansoni/*immunology
+MH  - Schistosomiasis mansoni/*immunology/parasitology
+PMC - PMC6191518
+OTO - NOTNLM
+OT  - IPSE/alpha-1
+OT  - Interleukin-13
+OT  - Interleukin-4
+OT  - Schistosoma mansoni
+OT  - Toll-like receptor
+OT  - alternatively activated macrophages
+OT  - basophils
+OT  - inflammation
+EDAT- 2018/10/27 06:00
+MHDA- 2019/10/08 06:00
+PMCR- 2018/01/01
+CRDT- 2018/10/27 06:00
+PHST- 2018/05/04 00:00 [received]
+PHST- 2018/09/17 00:00 [accepted]
+PHST- 2018/10/27 06:00 [entrez]
+PHST- 2018/10/27 06:00 [pubmed]
+PHST- 2019/10/08 06:00 [medline]
+PHST- 2018/01/01 00:00 [pmc-release]
+AID - 10.3389/fimmu.2018.02293 [doi]
+PST - epublish
+SO  - Front Immunol. 2018 Oct 10;9:2293. doi: 10.3389/fimmu.2018.02293. eCollection 
+      2018.

@@ -1,0 +1,42 @@
+{
+  "query": "(\"Renal Insufficiency, Chronic\"[Mesh] OR \"chronic kidney disease\"[tiab] OR CKD[tiab] OR \"renal failure, chronic\"[tiab] OR \"kidney failure, chronic\"[tiab] OR hemodialysis[tiab] OR haemodialysis[tiab] OR dialysis[tiab] OR \"end-stage renal disease\"[tiab] OR ESRD[tiab] OR \"end-stage kidney disease\"[tiab]) AND (\"Advance Care Planning\"[Mesh] OR \"advance care planning\"[tiab] OR \"advance directive\"[tiab] OR \"Advance Directives\"[Mesh] OR \"goals of care\"[tiab] OR \"end-of-life care\"[tiab] OR \"palliative care planning\"[tiab] OR \"ACP\"[tiab])",
+  "query_path": "04_data\\03_Psychiatry\\41582599_2026\\model_outputs\\codex\\with_laws_v2_training_eval\\normalized_query.txt",
+  "input_config_path": "04_data\\03_Psychiatry\\41582599_2026\\input_config.json",
+  "total_hits": 977,
+  "recall": 0.8846153846153846,
+  "found_count": 23,
+  "total_gold": 26,
+  "mode": "open",
+  "timestamp_unix": 1781082116,
+  "missed_pmids": [
+    "32045328",
+    "33451263",
+    "39114398"
+  ],
+  "found_pmids": [
+    "12808172",
+    "15909773",
+    "15983964",
+    "19205027",
+    "20420992",
+    "22458336",
+    "24201135",
+    "25721712",
+    "26141307",
+    "26806003",
+    "27272317",
+    "27510741",
+    "27803566",
+    "29389053",
+    "31349844",
+    "33187506",
+    "34935332",
+    "36514730",
+    "36708263",
+    "37743635",
+    "38289604",
+    "39212935",
+    "8372837"
+  ],
+  "missed_count": 3
+}

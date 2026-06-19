@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41770755_2026",
+  "query": "(\"prehabilitation\"[tiab] OR \"pre-habilitation\"[tiab] OR \"preoperative rehabilitation\"[tiab] OR \"pretreatment rehabilitation\"[tiab]) AND (\"cancer\"[tiab] OR \"neoplasm\"[tiab] OR \"neoplasms\"[MeSH] OR \"tumor\"[tiab] OR \"tumour\"[tiab] OR \"oncology\"[tiab]) AND (\"digital\"[tiab] OR \"telehealth\"[tiab] OR \"telemedicine\"[tiab] OR \"mHealth\"[tiab] OR \"mobile health\"[tiab] OR \"wearable\"[tiab] OR \"app\"[tiab] OR \"application\"[tiab] OR \"eHealth\"[tiab] OR \"e-health\"[tiab] OR \"online\"[tiab] OR \"internet\"[tiab] OR \"remote\"[tiab]) AND (\"multimodal\"[tiab] OR \"multi-modal\"[tiab] OR \"exercise\"[tiab] OR \"nutrition\"[tiab] OR \"psychological\"[tiab])",
+  "status": "ok"
+}

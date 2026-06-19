@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:39:12Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41484688_2026",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR \"suspected rheumatoid arthritis\"[tiab]) OR ((\"early arthritis\"[tiab] OR \"inflammatory arthritis\"[tiab] OR \"early inflammatory arthritis\"[tiab]) AND (rheumatoid[tiab] OR diagnos*[tiab]))) AND (\"Referral and Consultation\"[Mesh] OR refer*[tiab] OR referral[tiab] OR triage[tiab] OR \"early referral\"[tiab]) AND (criteria[tiab] OR criterion[tiab] OR rule*[tiab] OR algorithm*[tiab] OR tool*[tiab] OR score*[tiab] OR checklist*[tiab] OR pathway*[tiab] OR \"clinical prediction\"[tiab] OR \"prediction model\"[tiab] OR \"decision support\"[tiab]) AND (\"2001/01/01\"[Date - Publication] : \"2023/10/31\"[Date - Publication])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\01_Rheumatoid_Arthritis\\41484688_2026\\without_laws"
+}

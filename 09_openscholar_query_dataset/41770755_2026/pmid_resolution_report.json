@@ -1,0 +1,28 @@
+{
+  "target_dir": "public_release\\09_openscholar_query_dataset\\41770755_2026",
+  "files": [
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41770755_2026\\papers_deep.json",
+      "output_file": "public_release\\09_openscholar_query_dataset\\41770755_2026\\papers_deep_with_pmid.json",
+      "paper_count": 279,
+      "resolved_count": 252,
+      "resolved_rate": 0.9032258064516129,
+      "doi_count": 67,
+      "title_only_resolved_count": 0,
+      "error_count": 0
+    },
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41770755_2026\\papers_normal.json",
+      "output_file": "public_release\\09_openscholar_query_dataset\\41770755_2026\\papers_normal_with_pmid.json",
+      "paper_count": 69,
+      "resolved_count": 67,
+      "resolved_rate": 0.9710144927536232,
+      "doi_count": 6,
+      "title_only_resolved_count": 0,
+      "error_count": 0
+    }
+  ],
+  "total_papers": 348,
+  "total_resolved": 319,
+  "overall_resolved_rate": 0.9166666666666666
+}

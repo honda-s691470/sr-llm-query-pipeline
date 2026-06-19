@@ -1,0 +1,37 @@
+{
+  "query": "(\"transcranial random noise stimulation\"[tiab] OR tRNS[tiab] OR \"random noise stimulation\"[tiab] OR \"transcranial noise stimulation\"[tiab]) AND (\"Mental Disorders\"[Mesh] OR \"psychiatric disorder\"[tiab] OR \"psychiatric disorders\"[tiab] OR \"mental disorder\"[tiab] OR \"mental illness\"[tiab] OR depression[tiab] OR schizophrenia[tiab] OR anxiety[tiab] OR ADHD[tiab] OR dyslexia[tiab] OR \"attention deficit\"[tiab] OR \"obsessive-compulsive\"[tiab] OR \"bipolar\"[tiab])",
+  "query_path": "04_data\\03_Psychiatry\\41582468_2026\\model_outputs\\codex\\with_laws_v2_training_eval\\normalized_query.txt",
+  "input_config_path": "04_data\\03_Psychiatry\\41582468_2026\\input_config_detailed.json",
+  "total_hits": 85,
+  "recall": 0.9523809523809523,
+  "found_count": 20,
+  "total_gold": 21,
+  "mode": "open",
+  "timestamp_unix": 1781082112,
+  "missed_pmids": [
+    "38146280"
+  ],
+  "found_pmids": [
+    "22425412",
+    "23517664",
+    "25129852",
+    "28681715",
+    "30826318",
+    "31899509",
+    "33086145",
+    "33096356",
+    "33561725",
+    "35966992",
+    "36294806",
+    "36359217",
+    "37528107",
+    "37963422",
+    "38157711",
+    "38556535",
+    "38610090",
+    "39915614",
+    "40032021",
+    "40678092"
+  ],
+  "missed_count": 1
+}

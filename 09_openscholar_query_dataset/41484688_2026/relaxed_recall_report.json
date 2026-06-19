@@ -1,0 +1,141 @@
+{
+  "target_dir": "public_release\\09_openscholar_query_dataset\\41484688_2026",
+  "gold_path": "05_test_data\\01_Rheumatoid_Arthritis\\41484688_2026\\gold_pmids.json",
+  "fuzzy_threshold_same_year": 0.95,
+  "fuzzy_threshold_near_year": 0.98,
+  "reports": [
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41484688_2026\\papers_normal_with_pmid.json",
+      "paper_count": 31,
+      "gold_count": 17,
+      "tp_pmid_exact": 2,
+      "tp_title_year_exact_additional": 0,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 2,
+      "tp_relaxed_total": 2,
+      "recall_pmid_exact": 0.11764705882352941,
+      "recall_strict": 0.11764705882352941,
+      "recall_relaxed": 0.11764705882352941,
+      "matched_pmids_pmid_exact": [
+        "15340020",
+        "28490909"
+      ],
+      "matched_pmids_strict": [
+        "15340020",
+        "28490909"
+      ],
+      "matched_pmids_relaxed": [
+        "15340020",
+        "28490909"
+      ],
+      "exact_title_year_details": [],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "11874828",
+        "15588968",
+        "16396980",
+        "17571266",
+        "19289413",
+        "22319078",
+        "23568381",
+        "25156328",
+        "25179851",
+        "27979873",
+        "27991858",
+        "29506017",
+        "34553506",
+        "35042555",
+        "38395497"
+      ]
+    },
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41484688_2026\\papers_deep_with_pmid.json",
+      "paper_count": 154,
+      "gold_count": 17,
+      "tp_pmid_exact": 7,
+      "tp_title_year_exact_additional": 2,
+      "tp_title_year_fuzzy_additional": 1,
+      "tp_strict_total": 9,
+      "tp_relaxed_total": 10,
+      "recall_pmid_exact": 0.4117647058823529,
+      "recall_strict": 0.5294117647058824,
+      "recall_relaxed": 0.5882352941176471,
+      "matched_pmids_pmid_exact": [
+        "11874828",
+        "15340020",
+        "16396980",
+        "27979873",
+        "27991858",
+        "28490909",
+        "35042555"
+      ],
+      "matched_pmids_strict": [
+        "11874828",
+        "15340020",
+        "16396980",
+        "19289413",
+        "27979873",
+        "27991858",
+        "28490909",
+        "29506017",
+        "35042555"
+      ],
+      "matched_pmids_relaxed": [
+        "11874828",
+        "15340020",
+        "16396980",
+        "19289413",
+        "27979873",
+        "27991858",
+        "28490909",
+        "29506017",
+        "35042555",
+        "38395497"
+      ],
+      "exact_title_year_details": [
+        {
+          "gold_pmid": "19289413",
+          "gold_title": "Management of rheumatoid arthritis: summary of NICE guidance.",
+          "gold_year": "2009",
+          "matched_title": "Management of rheumatoid arthritis: summary of NICE guidance",
+          "matched_year": "2009",
+          "matched_pubmed_id": "",
+          "matched_corpusId": "26806724",
+          "source_file": "papers_deep_with_pmid.json"
+        },
+        {
+          "gold_pmid": "29506017",
+          "gold_title": "Effectiveness of a Referral Program for rheumatoid arthritis and axial spondyloarthritis Diagnosis at Primary Care Centers in Portugal - SIARA STUDY.",
+          "gold_year": "2018",
+          "matched_title": "Effectiveness of a Referral Program for rheumatoid arthritis and axial spondyloarthritis Diagnosis at Primary Care Centers in Portugal - SIARA STUDY.",
+          "matched_year": "2018",
+          "matched_pubmed_id": "30521453",
+          "matched_corpusId": "4487012",
+          "source_file": "papers_deep_with_pmid.json"
+        }
+      ],
+      "fuzzy_title_year_details": [
+        {
+          "gold_pmid": "38395497",
+          "gold_title": "Clinical features of patients with hands arthralgia referred from primary care physicians to rheumatologists: A cohort study.",
+          "gold_year": "2024",
+          "matched_title": "Clinical features of patients with hands arthralgia referred from primary care physicians to rheumatologists: A cohort study.",
+          "matched_year": "2023",
+          "matched_pubmed_id": "",
+          "matched_corpusId": "260274555",
+          "ratio": 1.0,
+          "source_file": "papers_deep_with_pmid.json"
+        }
+      ],
+      "unmatched_gold_pmids_after_relaxed": [
+        "15588968",
+        "17571266",
+        "22319078",
+        "23568381",
+        "25156328",
+        "25179851",
+        "34553506"
+      ]
+    }
+  ]
+}

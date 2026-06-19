@@ -1,0 +1,1588 @@
+{
+  "papers": [
+    {
+      "title": "Adolescent Psychedelic Use and Psychotic or Manic Symptoms",
+      "authors": [
+        {
+          "name": "Otto Simonsson",
+          "id": "2284750092"
+        },
+        {
+          "name": "M. Mosing",
+          "id": "5546014"
+        },
+        {
+          "name": "Walter Osika",
+          "id": "2290994845"
+        },
+        {
+          "name": "Fredrik Ullén",
+          "id": "2289186622"
+        },
+        {
+          "name": "Henrik Larsson",
+          "id": "2284476186"
+        },
+        {
+          "name": "Yi Lu",
+          "id": "35650144"
+        },
+        {
+          "name": "L. Wesseldijk",
+          "id": "3569587"
+        }
+      ],
+      "year": 2024,
+      "venue": "JAMA psychiatry",
+      "score": 0.5492906647299414,
+      "abstract": "Key Points Question Is there an association between psychedelic use and psychotic or manic symptoms in adolescents? Findings In a cross-sectional study of 16 255 adolescent twins, psychedelic use was significantly associated with lower rates of psychotic symptoms when adjusting for other drug use. Psychedelic use was significantly associated with more manic symptoms for individuals with a higher genetic vulnerability to schizophrenia or bipolar I disorder than for individuals with a lower genetic vulnerability. Meaning The findings suggest that psychedelic use may be associated with lower rates of psychotic symptoms but the association between psychedelic use and manic symptoms seems to be associated with genetic vulnerability.",
+      "corpusId": 268371250,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/38477889",
+      "pubmed_id": "38477889",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1001/jamapsychiatry.2024.0047",
+        "matched_title": "Adolescent Psychedelic Use and Psychotic or Manic Symptoms.",
+        "matched_pubdate": "2024 Jun 1",
+        "matched_source": "JAMA Psychiatry"
+      }
+    },
+    {
+      "title": "Substance use and psychotic-like experiences in young people: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "S. Matheson",
+          "id": "7722402"
+        },
+        {
+          "name": "Mallory Laurie",
+          "id": "2190819300"
+        },
+        {
+          "name": "K. Laurens",
+          "id": "3575676"
+        }
+      ],
+      "year": 2022,
+      "venue": "Psychological Medicine",
+      "score": 0.5446568618391029,
+      "abstract": "Abstract This study aimed to systematically review and synthesise the available evidence on the prevalence and associations between psychotic-like experiences (PLEs) and substance use in children and adolescents aged ⩽17 years, prior to the typical age of development of prodromal symptoms of psychosis. As substance use has been associated with earlier age of psychosis onset and more severe illness, identifying risk processes in the premorbid phase of the illness may offer opportunities to prevent the development of prodromal symptoms and psychotic illness. MEDLINE, PsycINFO, and CINAHL databases were searched for chart review, case-control, cohort, twin, and cross-sectional studies. Study reporting was assessed using the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) checklist, and pooled evidence was evaluated using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. Searches identified 55 studies that met inclusion criteria. Around two-in-five substance users reported PLEs [rate = 0.41, 95% confidence interval (CI) 0.32–0.51; low quality evidence], and one-in-five with PLEs reported using substances (rate = 0.19, 95% CI 0.12–0.28; moderate-to-high quality evidence). Substance users were nearly twice as likely to report PLEs than non-users [odds ratio (OR) 1.77, 95% CI 1.55–2.02; moderate quality evidence], and those with PLEs were twice as likely to use substances than those not reporting PLEs (OR 1.93, 95% CI 1.55–2.41; very low quality evidence). Younger age was associated with greater odds of PLEs in substance users compared to non-users. Young substance users may represent a subclinical at-risk group for psychosis. Developing early detection and intervention for both substance use and PLEs may reduce long-term adverse outcomes.",
+      "corpusId": 253521293,
+      "url": "https://api.semanticscholar.org/CorpusId:253521293",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Childhood and adolescent psychotic experiences and risk of mental disorder: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "C. Healy",
+          "id": "50842939"
+        },
+        {
+          "name": "R. Brannigan",
+          "id": "40893674"
+        },
+        {
+          "name": "Niamh Dooley",
+          "id": "40897665"
+        },
+        {
+          "name": "H. Coughlan",
+          "id": "3525468"
+        },
+        {
+          "name": "M. Clarke",
+          "id": "145304228"
+        },
+        {
+          "name": "I. Kelleher",
+          "id": "2469810"
+        },
+        {
+          "name": "M. Cannon",
+          "id": "144851483"
+        }
+      ],
+      "year": 2019,
+      "venue": "Psychological Medicine",
+      "score": 0.5388115848651107,
+      "abstract": "Abstract Background Psychotic experiences (PEs) are common in childhood and adolescence and their association with mental disorders is well-established. We aim to conduct a quantitative synthesis the literature on the relationship between childhood and adolescent PEs and (i) any mental disorder; and (ii) specific categories of mental disorder, while stratifying by study design. Method Three electronic databases (PUBMED, PsycINFO and EMBASE) were searched from inception to August 2017 for all the published literature on childhood and adolescent PEs and mental disorder (outcome) in non-help-seeking community samples. Study quality was assessed using a recognised quality assessment tool for observational studies. Two authors conducted independent data extraction. Pooled odds ratios were calculated for mental disorders using random-effects models. Additional analyses were conducted investigating different categories of mental disorder while stratifying by study design. Results Fourteen studies from 13 community samples (n = 29 517) were identified with 9.8% of participants reporting PEs. PEs were associated with a three-fold increased risk of any mental disorder [odds ratio (OR) 3.08, confidence interval (CI) 2.26–4.21, k = 12]. PEs were associated with four-fold increase risk of psychotic disorder (OR 3.96, CI 2.03–7.73, population-attributable-fraction: 23.2%, k = 5). In addition, PEs were associated with an increased risk of affective disorders, anxiety disorders, behavioural disorders and substance-use disorders. Few longitudinal studies have investigated childhood and adolescent PEs and subsequent non-psychotic disorders which limited a meaningful synthesis and interpretation of these results. Conclusion This meta-analysis confirms that PEs are prevalent in childhood and adolescent community samples and are associated with a variety of mental disorders beyond psychotic disorders. Further longitudinal research is necessary to fully determine the longitudinal relationship between PEs and non-psychotic disorders.",
+      "corpusId": 155092059,
+      "url": "https://api.semanticscholar.org/CorpusId:155092059",
+      "pubmed_id": "31088578",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1017/s0033291719000485",
+        "matched_title": "Childhood and adolescent psychotic experiences and risk of mental disorder: a systematic review and meta-analysis.",
+        "matched_pubdate": "2019 Jul",
+        "matched_source": "Psychol Med"
+      }
+    },
+    {
+      "title": "Prevalence of psychotic symptoms in childhood and adolescence: a systematic review and meta-analysis of population-based studies",
+      "authors": [
+        {
+          "name": "I. Kelleher",
+          "id": "2469810"
+        },
+        {
+          "name": "D. Connor",
+          "id": "20051202"
+        },
+        {
+          "name": "M. Clarke",
+          "id": "145304228"
+        },
+        {
+          "name": "N. Devlin",
+          "id": "40456225"
+        },
+        {
+          "name": "M. Harley",
+          "id": "2319483"
+        },
+        {
+          "name": "M. Cannon",
+          "id": "144851483"
+        }
+      ],
+      "year": 2012,
+      "venue": "Psychological Medicine",
+      "score": 0.5364957008601176,
+      "abstract": "Background Psychotic symptoms occur more frequently in the general population than psychotic disorder and index risk for psychopathology. Multiple studies have reported on the prevalence of these symptoms using self-report questionnaires or clinical interviews but there is a lack of consensus about the prevalence of psychotic symptoms among children and adolescents. Method We conducted a systematic review of all published literature on psychotic symptom prevalence in two age groups, children aged 9–12 years and adolescents aged 13–18 years, searching through electronic databases PubMed, Ovid Medline, PsycINFO and EMBASE up to June 2011, and extracted prevalence rates. Results We identified 19 population studies that reported on psychotic symptom prevalence among children and adolescents. The median prevalence of psychotic symptoms was 17% among children aged 9–12 years and 7.5% among adolescents aged 13–18 years. Conclusions Psychotic symptoms are relatively common in young people, especially in childhood. Prevalence is higher in younger (9–12 years) compared to older (13–18 years) children.",
+      "corpusId": 8279499,
+      "url": "https://doi.org/10.1017/S0033291711002960",
+      "pubmed_id": "22225730",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1017/S0033291711002960",
+        "matched_title": "Prevalence of psychotic symptoms in childhood and adolescence: a systematic review and meta-analysis of population-based studies.",
+        "matched_pubdate": "2012 Sep",
+        "matched_source": "Psychol Med"
+      }
+    },
+    {
+      "title": "Heterogeneity in assessing the risk of developing a psychotic disorder given a previous subclinical psychotic-like experience in children and adolescents: A systematic review and meta-analysis.",
+      "authors": [
+        {
+          "name": "Isaiah J Burton",
+          "id": "2322029923"
+        },
+        {
+          "name": "P. Tibbo",
+          "id": "3921872"
+        },
+        {
+          "name": "Nicole Ponto",
+          "id": "2322027441"
+        },
+        {
+          "name": "C. Crocker",
+          "id": "4892638"
+        }
+      ],
+      "year": 2024,
+      "venue": "Psychiatry Research",
+      "score": 0.5324879593456969,
+      "abstract": "Psychotic-like experiences (PLEs) are common in the general population. Child and adolescent PLEs are the most prevalent and linked with future psychotic disorders. Significant heterogeneity in PLE assessment has obscured its clinical utility to identify psychosis-prone trajectories and improve clinical outcomes. This meta-analysis aimed to assess i) PLE prevalence in children and adolescents and ii) their relationship with subsequent psychotic disorder while exploring sources of heterogeneity. PubMed, Embase, PsycINFO, and CINAHL databases were searched in August 2023 for population-based longitudinal studies that assessed child or adolescent PLEs and early adulthood psychotic outcomes. Six studies were included (n = 16,560), showing a pooled PLE prevalence of 17.3 %. Child and adolescent PLEs were associated with an increased risk of psychotic disorder in early adulthood (unadjusted OR = 3.80, 95 % CI: 2.31-6.26), with a population attributable fraction of 32.6 %. Significant heterogeneity in the strength of this relationship (I2 = 70 %, p = .01) was related to assessment type (self-report vs. interview). This review contends that interview-based PLE assessments could more accurately identify children or adolescents on a path towards psychosis and are better suited for psychotic risk identification. Further research is needed to elucidate interactions between PLEs and other psychotic risk factors.",
+      "corpusId": 272764769,
+      "url": "https://api.semanticscholar.org/CorpusId:272764769",
+      "pubmed_id": "39378536",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.psychres.2024.116207",
+        "matched_title": "Heterogeneity in assessing the risk of developing a psychotic disorder given a previous subclinical psychotic-like experience in children and adolescents: A systematic review and meta-analysis.",
+        "matched_pubdate": "2024 Dec",
+        "matched_source": "Psychiatry Res"
+      }
+    },
+    {
+      "title": "Diagnostic outcome of self-reported hallucinations in a community sample of adolescents",
+      "authors": [
+        {
+          "name": "D. Dhossche",
+          "id": "3758734"
+        },
+        {
+          "name": "R. Ferdinand",
+          "id": "2174582"
+        },
+        {
+          "name": "J. Ende",
+          "id": "7389686"
+        },
+        {
+          "name": "Marijke B. Hofstra",
+          "id": "117908222"
+        },
+        {
+          "name": "F. Verhulst",
+          "id": "3058144"
+        }
+      ],
+      "year": 2002,
+      "venue": "Psychological Medicine",
+      "score": 0.514999265299782,
+      "abstract": "",
+      "corpusId": 26660483,
+      "url": "https://doi.org/10.1017/S003329170200555X",
+      "pubmed_id": "12102376",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1017/S003329170200555X",
+        "matched_title": "Diagnostic outcome of self-reported hallucinations in a community sample of adolescents.",
+        "matched_pubdate": "2002 May",
+        "matched_source": "Psychol Med"
+      }
+    },
+    {
+      "title": "Psychedelic use and psychiatric risks",
+      "authors": [
+        {
+          "name": "Otto Simonsson",
+          "id": "2005358101"
+        },
+        {
+          "name": "Simon B. Goldberg",
+          "id": "6383773"
+        },
+        {
+          "name": "R. Chambers",
+          "id": "2238681623"
+        },
+        {
+          "name": "W. Osika",
+          "id": "3783742"
+        },
+        {
+          "name": "Charlotta Simonsson",
+          "id": "2261383026"
+        },
+        {
+          "name": "Peter S. Hendricks",
+          "id": "2260625129"
+        }
+      ],
+      "year": 2023,
+      "venue": "Psychopharmacology",
+      "score": 0.4520226511449626,
+      "abstract": "Research on psychedelics has recently shown promising results in the treatment of various psychiatric disorders, but relatively little remains known about the psychiatric risks associated with naturalistic use of psychedelics. The objective of the current study was to investigate associations between naturalistic psychedelic use and psychiatric risks. Using a sample representative of the US adult population with regard to sex, age, and ethnicity (N=2822), this study investigated associations between lifetime naturalistic psychedelic use, lifetime unusual visual experiences, and past 2-week psychotic symptoms. Among respondents who reported lifetime psychedelic use (n=613), 1.3% reported having been told by a doctor or other medical professional that they had hallucinogen persisting perception disorder. In covariate-adjusted linear regression models, lifetime psychedelic use was associated with more unusual visual experiences at any point across the lifetime, but no association was observed between lifetime psychedelic use and past 2-week psychotic symptoms. There was an interaction between lifetime psychedelic use and family (but not personal) history of psychotic or bipolar disorders on past 2-week psychotic symptoms such that psychotic symptoms were highest among respondents who reported lifetime psychedelic use and a family history of psychotic or bipolar disorders and lowest among those who reported lifetime psychedelic use and no family history of psychotic or bipolar disorders. Although the results in this study should be interpreted with caution, the findings suggest that lifetime naturalistic use of psychedelics might be associated with more unusual visual experiences across the lifetime, as well as more psychotic symptoms in the past 2 weeks for individuals with a family history of psychotic or bipolar disorders and the reverse for those without such a family history. Future research should distinguish between different psychotic and bipolar disorders and should also utilize other research designs (e.g., longitudinal) and variables (e.g., polygenic risk scores) to better understand potential cause-and-effect relationships.",
+      "corpusId": 264438133,
+      "url": "https://api.semanticscholar.org/CorpusId:264438133",
+      "pubmed_id": "37874345",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s00213-023-06478-5",
+        "matched_title": "Psychedelic use and psychiatric risks.",
+        "matched_pubdate": "2025 Jul",
+        "matched_source": "Psychopharmacology (Berl)"
+      }
+    },
+    {
+      "title": "Association between circulating levels of C-reactive protein and positive and negative symptoms of psychosis in adolescents in a general population birth cohort",
+      "authors": [
+        {
+          "name": "G. Khandaker",
+          "id": "40515640"
+        },
+        {
+          "name": "J. Stochl",
+          "id": "6222839"
+        },
+        {
+          "name": "S. Zammit",
+          "id": "47190052"
+        },
+        {
+          "name": "G. Lewis",
+          "id": "144055053"
+        },
+        {
+          "name": "R. Dantzer",
+          "id": "2379980"
+        },
+        {
+          "name": "Peter B. Jones",
+          "id": "144091182"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Psychiatric Research",
+      "score": 0.41304714051016495,
+      "abstract": "Background Schizophrenia is associated with elevated levels of circulating C-reactive protein (CRP) and other inflammatory markers, but it is unclear whether these associations extend to psychotic symptoms occurring in adolescence in the general population. A symptom-based approach may provide important clues for apparent trans-diagnostic effect of inflammation, which is also associated with depression and other psychiatric disorders. Methods Based on data from 2421 participants from the Avon Longitudinal Study of Parents and Children birth cohort, we examined associations of serum CRP levels assessed around age 16 with ten positive and ten negative symptoms of psychosis assessed using questionnaires around age 17, using both individual symptoms and symptom dimension scores as outcomes. Regression models were adjusted for sex, body mass index, depressive symptoms, substance use, and other potential confounders. Results Most prevalent positive symptoms were paranoid ideation (4.8%), visual (4.3%) and auditory (3.5%) hallucinations. Negative symptoms were more strongly correlated with concurrent depressive symptoms (r=0.51; P < 0.001) than positive symptoms (rpb=0.19; P < 0.001). The associations of CRP with positive and negative symptom dimension scores were similar. At individual symptom level, after adjusting for potential confounders including depressive symptoms, CRP was associated with auditory hallucinations (adjusted OR = 2.22; 95% CI, 1.04–4.76) and anhedonia (adjusted OR = 1.13; 95% CI, 1.02–1.26). Conclusions Inflammation is associated with sub-clinical psychotic symptoms in young people in general population. Association of CRP with symptoms commonly shared between mood and psychotic disorders, such as auditory hallucinations and anhedonia, could be one explanation for the apparent trans-diagnostic effect of inflammation.",
+      "corpusId": 227159005,
+      "url": "https://api.semanticscholar.org/CorpusId:227159005",
+      "pubmed_id": "33229033",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.jpsychires.2020.11.028",
+        "matched_title": "Association between circulating levels of C-reactive protein and positive and negative symptoms of psychosis in adolescents in a general population birth cohort.",
+        "matched_pubdate": "2021 Nov",
+        "matched_source": "J Psychiatr Res"
+      }
+    },
+    {
+      "title": "Psychotic Like Experiences in Healthy Adolescents are Underpinned by Lower Fronto-Temporal Cortical Gyrification: a Study from the IMAGEN Consortium",
+      "authors": [
+        {
+          "name": "R. Maitra",
+          "id": "36156203"
+        },
+        {
+          "name": "C. Horne",
+          "id": "20917019"
+        },
+        {
+          "name": "O. O’Daly",
+          "id": "1423377916"
+        },
+        {
+          "name": "E. Papanastasiou",
+          "id": "37918850"
+        },
+        {
+          "name": "C. Gaser",
+          "id": "98002032"
+        }
+      ],
+      "year": 2022,
+      "venue": "Schizophrenia bulletin",
+      "score": 0.4099871706180287,
+      "abstract": "Abstract Background and Hypothesis Psychotic Like Experiences (PLEs) are widely prevalent in children and adolescents and increase the risk of developing psychosis. Cortical gyrification characterizes brain development from in utero till about the first 2 years of life and can be measured in later years as static gyrification changes demonstrating neurodevelopment and dynamic gyrification changes reflecting brain maturation during adolescence. We hypothesized that PLEs would be associated with static cortical gyrification changes reflecting a neurodevelopmental abnormality. Study Design We studied 1252 adolescents recruited in the IMAGEN consortium. We used a longitudinal study design, with Magnetic Resonance Imaging measurements at age 14 years and age 19 years; measurement of PLEs using the Community Assessment of Psychic Experiences (CAPE) questionnaire at age 19 years; and clinical diagnoses at age 23 years. Study Results Our results show static gyrification changes in adolescents with elevated PLEs on 3 items of the CAPE—voice hearing, unusual experiences of receiving messages, and persecutory ideas—with lower cortical gyrification in fronto-temporal regions in the left hemisphere. This group also demonstrated dynamic gyrification changes with higher cortical gyrification in right parietal cortex in late adolescence; a finding that we replicated in an independent sample of patients with first-episode psychosis. Adolescents with high PLEs were also 5.6 times more likely to transition to psychosis in adulthood by age 23 years. Conclusions This is the largest study in adolescents that demonstrates fronto-temporal abnormality of cortical gyrification as a potential biomarker for vulnerability to PLEs and transition to psychosis.",
+      "corpusId": 252875717,
+      "url": "https://api.semanticscholar.org/CorpusId:252875717",
+      "pubmed_id": "36226895",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1093/schbul/sbac132",
+        "matched_title": "Psychotic Like Experiences in Healthy Adolescents are Underpinned by Lower Fronto-Temporal Cortical Gyrification: a Study from the IMAGEN Consortium.",
+        "matched_pubdate": "2023 Mar 15",
+        "matched_source": "Schizophr Bull"
+      }
+    },
+    {
+      "title": "Cannabis and Psychosis: A Review of the Risk Factors Involved",
+      "authors": [
+        {
+          "name": "M. B. Amar",
+          "id": "3396011"
+        }
+      ],
+      "year": 2020,
+      "venue": "American Journal of Plant Sciences",
+      "score": 0.4078602608734094,
+      "abstract": "Abundant literature suggests the hypothesis that \ncannabis use leads to the onset of psychotic symptoms. However, the nature of \nthe association and the causal link remain controversial. This review aims to \nidentify the risk factors involved in the etiopathogenesis of psychosis or \npsychotic features. Our electronic search found 1653 studies published until \nMarch 1st 2020. Longitudinal studies and literature reviews were \nselected if they addressed specifically the issues of the cannabis/psychosis \nrelationship and the eventual risk factors involved. Our systematic review \nidentified six potential risk factors involved in the association. They are, in \ndecreasing importance, the dose-response relationship (quantity, frequency and \nduration of cannabis use), the early age of cannabis consumption, genetic \nsusceptibility, childhood trauma, cigarette smoking and urban environment. In \ncontrast, a significant inverse relationship exists between cannabidiol (CBD) \nand psychosis: cannabidiol is associated with less psychotic symptoms and \nmanifests antipsychotic properties. Further studies are needed to establish a \nclear causal relationship between cannabis and psychosis and to identify the \nqualitative and quantitative contribution of specific risk factors on its onset \nand sustainability.",
+      "corpusId": 230636130,
+      "url": "https://api.semanticscholar.org/CorpusId:230636130",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Substance-Induced Psychoses: An Updated Literature Review",
+      "authors": [
+        {
+          "name": "A. Fiorentini",
+          "id": "6433826"
+        },
+        {
+          "name": "Filippo Cantù",
+          "id": "1486453163"
+        },
+        {
+          "name": "Camilla Crisanti",
+          "id": "1871135834"
+        },
+        {
+          "name": "G. Cereda",
+          "id": "1965933352"
+        },
+        {
+          "name": "L. Oldani",
+          "id": "5008043"
+        },
+        {
+          "name": "P. Brambilla",
+          "id": "3110755"
+        }
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Psychiatry",
+      "score": 0.3816733045985488,
+      "abstract": "Background: On the current psychopharmacological panorama, the variety of substances able to provoke an episode of acute psychosis is rapidly increasing. Such psychotic episodes are classified according to the major category of symptoms: positive, negative, or cognitive psychotic episodes. On one hand, the abuse of methamphetamines, cannabis, and cocaine plays a big role in increasing the incidence of episodes resembling a psychotic disorder. On the other hand, the progress in terms of pharmacodynamics knowledge has led to the synthesis of new drugs, such as cannabinoids and cathinone's, which have rapidly entered into the common pool of abusers' habits. Regarding these newly synthesized substances of abuse, further clinical studies are needed to understand their psychogenic properties. The topic of this review is complicated due to the frequent abuse of psychotomimetic drugs by patients affected by psychotic disorders, a fact that makes it extremely difficult to distinguish between an induced psychosis and a re-exacerbation of a previously diagnosed disorder. Methods: The present narrative review summarizes results from clinical studies, thus investigating the psychotogenic properties of abused substances and the psychotic symptoms they can give rise to. It also discusses the association between substance abuse and psychosis, especially with regards to the differential diagnosis between a primary vs. a substance-induced psychotic disorder. Findings: Our findings support the theory that psychosis due to substance abuse is commonly observed in clinical practice. The propensity to develop psychosis seems to be a function of the severity of use and addiction. Of note, from a phenomenological point of view, it is possible to identify some elements that may help clinicians involved in differential diagnoses between primary and substance-induced psychoses. There remains a striking paucity of information on the outcomes, treatments, and best practices of substance-induced psychotic episodes.",
+      "corpusId": 245387491,
+      "url": "https://api.semanticscholar.org/CorpusId:245387491",
+      "pubmed_id": "35002789",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fpsyt.2021.694863",
+        "matched_title": "Substance-Induced Psychoses: An Updated Literature Review.",
+        "matched_pubdate": "2021",
+        "matched_source": "Front Psychiatry"
+      }
+    },
+    {
+      "title": "Hopelessness, Suicidality, and Co-Occurring Substance Use among Adolescent Hallucinogen Users—A National Survey Study",
+      "authors": [
+        {
+          "name": "Saral Desai",
+          "id": "2150184387"
+        },
+        {
+          "name": "Vidisha Jain",
+          "id": "2192153709"
+        },
+        {
+          "name": "Sona Xavier",
+          "id": "2180588321"
+        },
+        {
+          "name": "Wei Du",
+          "id": "2072591811"
+        }
+      ],
+      "year": 2022,
+      "venue": "Children",
+      "score": 0.37392920109582656,
+      "abstract": "(1) Objectives: Hallucinogens are being explored as a potential treatment of psychiatric disorders. Micro dosing of illicitly purchased hallucinogen drugs is on the rise despite conclusive benefits. We aimed to evaluate the prevalence and odds of hopelessness, suicidality, and co-occurring substance use among adolescent hallucinogen users. (2) Methods: We performed a retrospective analysis of the Centers for Disease Control and Prevention’s Youth Risk Behavior Surveillance System (YRBSS) 2001–2019 data that nationally represents school-going US adolescents. We identified hallucinogen use based on the survey questions, exploring the use of hallucinogens (LSD, PCP, mescaline, and mushrooms). (3) Results: Out of a total of 125,550 respondents, 8.4% reported using hallucinogens. Overall, the trend of hallucinogen use decreased from 13.3% (2001) to 7.0% (2019) (pTrend < 0.0001). Hallucinogen users were at high odds of feeling sad and hopeless (aOR: 1.40; 95%CI: 1.21–1.61; p < 0.0001), considering suicide (aOR: 1.36; 95%CI: 1.08–1.70; p = 0.009), and planning suicide (aOR: 1.49; 95%CI: 1.19–1.86; p = 0.001). Additionally, adolescent hallucinogen users had a higher prevalence of alcohol, cigarette, e-cigarette, marijuana, synthetic marijuana, inhalants, heroin, cocaine, methamphetamine, and ecstasy use. (4) Conclusions: The overall trend of hallucinogen use decreased among school-going American adolescents. We found a high prevalence of co-occurring substance use among hallucinogen users. We found that hallucinogen users were at high odds of feeling sad, hopeless, and considering and planning suicide. Further research is needed to explore the effects of recreational hallucinogen use among the adolescent population.",
+      "corpusId": 254314750,
+      "url": "https://api.semanticscholar.org/CorpusId:254314750",
+      "pubmed_id": "36553349",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/children9121906",
+        "matched_title": "Hopelessness, Suicidality, and Co-Occurring Substance Use among Adolescent Hallucinogen Users-A National Survey Study.",
+        "matched_pubdate": "2022 Dec 5",
+        "matched_source": "Children (Basel)"
+      }
+    },
+    {
+      "title": "Trajectories of adolescent psychotic-like experiences and early cannabis exposure: Results from a Finnish Birth Cohort Study.",
+      "authors": [
+        {
+          "name": "Alexander Denissoff",
+          "id": "2051880851"
+        },
+        {
+          "name": "A. Mustonen",
+          "id": "144572247"
+        },
+        {
+          "name": "J. Miettunen",
+          "id": "2273927"
+        },
+        {
+          "name": "Anni-Emilia Alakokkare",
+          "id": "2048121350"
+        },
+        {
+          "name": "J. Veijola",
+          "id": "3035546"
+        },
+        {
+          "name": "James G. Scott",
+          "id": "143985958"
+        },
+        {
+          "name": "M. Sami",
+          "id": "38687802"
+        },
+        {
+          "name": "S. Niemelä",
+          "id": "1877400"
+        }
+      ],
+      "year": 2022,
+      "venue": "Schizophrenia Research",
+      "score": 0.37190473088121984,
+      "abstract": "BACKGROUND\nLongitudinal studies examining the effect of cannabis exposure (CE) on the prognosis of adolescents with psychotic-like experiences (PLEs) are scarce. We examined trajectories of mental health in adolescents with PLEs and cannabis exposure.\n\n\nMETHODS\nThe Northern Finland Birth Cohort 1986 (n = 6552) with linkage to nationwide register data was used. Information on lifetime cannabis exposure was collected when participants were aged 15/16. Register-based outcome data on diagnoses made in clinical practice were obtained until age 33. Logistic regression was used to study the association of PLE/CE patterns and subsequent psychiatric disorders. The group with neither PLEs nor CE was utilized as the reference group. Parental psychiatric disorders, family structure, sex, frequent alcohol intoxications, daily smoking and illicit substance use other than cannabis were adjusted for.\n\n\nRESULTS\nIn all, 6552 subjects (49.2 % males) were included in analysis. PLEs with cannabis exposure were associated with any psychiatric disorder (OR = 2.59; 95 % CI 1.82-3.68), psychotic disorders (OR = 3.86; 95 % CI 1.83-8.11), mood disorders (OR 4.07; 95 % CI 2.74-6.04), depressive disorders (OR = 4.35; 95 % CI 2.93-6.48), anxiety disorders (OR = 2.06; 95 % CI 1.34-3.17) and substance use disorders (OR = 2.26; 95 % CI 1.13-4.50) compared to reference group. Effect sizes were greater for group with both PLEs and cannabis use than for group with PLEs only.\n\n\nCONCLUSIONS\nEarly-onset cannabis use is an adverse prognostic marker for adolescents with PLEs after extensive confounder control including other substance use.",
+      "corpusId": 249961966,
+      "url": "https://api.semanticscholar.org/CorpusId:249961966",
+      "pubmed_id": "35753121",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.schres.2022.06.014",
+        "matched_title": "Trajectories of adolescent psychotic-like experiences and early cannabis exposure: Results from a Finnish Birth Cohort Study.",
+        "matched_pubdate": "2022 Aug",
+        "matched_source": "Schizophr Res"
+      }
+    },
+    {
+      "title": "The CannTeen Study: Cannabis use disorder, depression, anxiety, and psychotic-like symptoms in adolescent and adult cannabis users and age-matched controls",
+      "authors": [
+        {
+          "name": "W. Lawn",
+          "id": "5124936"
+        },
+        {
+          "name": "C. Mokrysz",
+          "id": "4351304"
+        },
+        {
+          "name": "R. Lees",
+          "id": "2038109747"
+        },
+        {
+          "name": "K. Trinci",
+          "id": "2148603810"
+        },
+        {
+          "name": "K. Petrilli",
+          "id": "80967033"
+        },
+        {
+          "name": "M. Skumlien",
+          "id": "66650468"
+        },
+        {
+          "name": "A. Borissova",
+          "id": "47712955"
+        },
+        {
+          "name": "S. Ofori",
+          "id": "2155216207"
+        },
+        {
+          "name": "Catherine I V Bird",
+          "id": "1797435630"
+        },
+        {
+          "name": "G. Jones",
+          "id": "49397581"
+        },
+        {
+          "name": "M. Bloomfield",
+          "id": "144914875"
+        },
+        {
+          "name": "R. Das",
+          "id": "2118212713"
+        },
+        {
+          "name": "M. Wall",
+          "id": "2502005"
+        },
+        {
+          "name": "T. Freeman",
+          "id": "47826802"
+        },
+        {
+          "name": "V. Curran",
+          "id": "143840148"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Psychopharmacology",
+      "score": 0.36573209843868687,
+      "abstract": "Background: Adolescence is characterised by psychological and neural development. Cannabis harms may be accentuated during adolescence. We hypothesised that adolescents would be more vulnerable to the associations between cannabis use and mental health and addiction problems than adults. Method: As part of the ‘CannTeen’ study, we conducted a cross-sectional analysis. There were 274 participants: split into groups of adolescent users (n = 76; 16–17 years old) and controls (n = 63), and adult users (n = 71; 26–29 years old) and controls (n = 64). Among users, cannabis use frequency ranged from 1 to 7 days/week, while controls had 0–10 lifetime exposures to cannabis. Adolescent and adult cannabis users were matched on cannabis use frequency (mean=4 days/week). We measured Diagnostic and Statistical Manual (DSM-5) Cannabis Use Disorder (CUD), Beck Depression Inventory, Beck Anxiety Inventory and Psychotomimetic States Inventory-adapted. Results: After adjustment for covariates, adolescent users were more likely to have severe CUD than adult users (odd ratio = 3.474, 95% confidence interval (CI) = 1.501–8.036). Users reported greater psychotic-like symptoms than controls (b = 6.004, 95% CI = 1.211–10.796) and adolescents reported greater psychotic-like symptoms than adults (b = 5.509, 95% CI = 1.070–9.947). User-group was not associated with depression or anxiety. No significant interactions between age-group and user-group were identified. Exploratory analyses suggested that cannabis users with severe CUD had greater depression and anxiety levels than cannabis users without severe CUD. Conclusion: Adolescent cannabis users are more likely than adult cannabis users to have severe CUD. Adolescent cannabis users have greater psychotic-like symptoms than adult cannabis users and adolescent controls, through an additive effect. There was no evidence of an amplified vulnerability to cannabis-related increases in subclinical depression, anxiety or psychotic-like symptoms in adolescence. However, poorer mental health was associated with the presence of severe CUD.",
+      "corpusId": 246993880,
+      "url": "https://api.semanticscholar.org/CorpusId:246993880",
+      "pubmed_id": "35772419",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1177/02698811221108956",
+        "matched_title": "The CannTeen Study: Cannabis use disorder, depression, anxiety, and psychotic-like symptoms in adolescent and adult cannabis users and age-matched controls.",
+        "matched_pubdate": "2022 Dec",
+        "matched_source": "J Psychopharmacol"
+      }
+    },
+    {
+      "title": "Epidemiology of Psychotic Disorders Based on Demographic Variables in Iranian Children and Adolescents",
+      "authors": [
+        {
+          "name": "S. Alavi",
+          "id": "5629867"
+        },
+        {
+          "name": "Mohammad Reza Mohammadi",
+          "id": "143943305"
+        },
+        {
+          "name": "Zahra Hooshyari",
+          "id": "51295776"
+        },
+        {
+          "name": "S. Kalhori",
+          "id": "2089722316"
+        },
+        {
+          "name": "Mona salehi",
+          "id": "46428409"
+        },
+        {
+          "name": "Maryam Salmanian",
+          "id": "6984918"
+        },
+        {
+          "name": "A. Khaleghi",
+          "id": "47466341"
+        },
+        {
+          "name": "Hadi Zarafshan",
+          "id": "4374066"
+        },
+        {
+          "name": "Ameneh Ahmadi",
+          "id": "47993850"
+        },
+        {
+          "name": "K. Kamali",
+          "id": "2104435"
+        },
+        {
+          "name": "N. Ahmadi",
+          "id": "153632540"
+        }
+      ],
+      "year": 2021,
+      "venue": "Iranian Journal of Psychiatry",
+      "score": 0.36352763039016145,
+      "abstract": "Objective: Psychosis is still among the most debilitating and severe mental disorders. The main objective of the present study was to investigate the estimated prevalence of psychotic disorders and finding the main predictors of psychotic disorders among Iranian children and adolescents. Method : Our total sample consisted of 30 553 individuals (49% males and 51%females) from 30 provinces of Iran, aged between 6 and 18 years, who were selected via cluster sampling method from rural and urban areas of all provinces. The data were analyzed using descriptive statistical analysis and multiple logistic regression method. Results: The results of multiple regression analysis showed that prevalence estimate of psychotic disorders was 0.25%. It was 0.3% and 0.2% in males and females, respectively. The age of 10-14 (OR = 2.24; 95% CI, 1.11-4.55) and the age of 15-18 (OR = 3.42; 95% CI, 1.74-6.75) were significant positive predictors, whereas none of the demographic variables were predictors for psychotic symptoms. Conclusion: This research highlights the main predictors of psychosis in children and adolescents. The study design also allowed a better understanding of predictors of psychotic disorders. The assessment of the prevalence of psychiatric disorders, particularly their comorbidities, may help to prevent mental illnesses in children and adolescents.",
+      "corpusId": 234079842,
+      "url": "https://api.semanticscholar.org/CorpusId:234079842",
+      "pubmed_id": "34054977",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.18502/ijps.v16i1.5372",
+        "matched_title": "Epidemiology of Psychotic Disorders Based on Demographic Variables in Iranian Children and Adolescents.",
+        "matched_pubdate": "2021 Jan",
+        "matched_source": "Iran J Psychiatry"
+      }
+    },
+    {
+      "title": "Psychotic-Like Experiences in a Community Sample of Adolescents: Implications for the Continuum Model of Psychosis and Prediction of Schizophrenia",
+      "authors": [
+        {
+          "name": "A. Yung",
+          "id": "3261320"
+        },
+        {
+          "name": "B. Nelson",
+          "id": "36581886"
+        },
+        {
+          "name": "K. Baker",
+          "id": "50555280"
+        },
+        {
+          "name": "J. Buckby",
+          "id": "5175904"
+        },
+        {
+          "name": "G. Baksheev",
+          "id": "4848233"
+        },
+        {
+          "name": "E. Cosgrave",
+          "id": "2735204"
+        }
+      ],
+      "year": 2009,
+      "venue": "Australian and New Zealand journal of psychiatry (Print)",
+      "score": 0.3585419447206944,
+      "abstract": "",
+      "corpusId": 26994871,
+      "url": "https://doi.org/10.1080/00048670802607188",
+      "pubmed_id": "19153919",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1080/00048670802607188",
+        "matched_title": "Psychotic-like experiences in a community sample of adolescents: implications for the continuum model of psychosis and prediction of schizophrenia.",
+        "matched_pubdate": "2009 Feb",
+        "matched_source": "Aust N Z J Psychiatry"
+      }
+    },
+    {
+      "title": "Association of Trauma Type, Age of Exposure, and Frequency in Childhood and Adolescence With Psychotic Experiences in Early Adulthood",
+      "authors": [
+        {
+          "name": "J. Croft",
+          "id": "47079995"
+        },
+        {
+          "name": "Jon Heron",
+          "id": "2245121116"
+        },
+        {
+          "name": "Christoph Teufel",
+          "id": "2251768946"
+        },
+        {
+          "name": "Mary Cannon",
+          "id": "2239959475"
+        },
+        {
+          "name": "Dieter Wolke",
+          "id": "2241763099"
+        },
+        {
+          "name": "A. Thompson",
+          "id": "2250531752"
+        },
+        {
+          "name": "Lotte C. Houtepen",
+          "id": "143634849"
+        },
+        {
+          "name": "S. Zammit",
+          "id": "2249120031"
+        }
+      ],
+      "year": 2018,
+      "venue": "JAMA psychiatry",
+      "score": 0.3543314933108797,
+      "abstract": "Importance Cross-sectional and longitudinal studies have consistently reported associations between childhood trauma and psychotic experiences and disorders. However, few studies have examined whether the age of exposure or specific trauma types are differently associated with the risk of developing psychotic experiences. Objective To examine whether exposure to trauma, assessed at multiple age periods between 0 and 17 years of age, is associated with an increased risk of psychotic experiences by age 18 years and whether this association varies according to trauma type as well as age and frequency of exposure. Design, Setting, and Participants This study used data from the Avon Longitudinal Study of Parents and Children, a large population-based birth cohort in the United Kingdom that recruited women who resided in the Avon Health Authority area and had an expected delivery date between April 1, 1991, and December 31, 1992. Data on psychotic experiences were included in the study, along with trauma variables derived from assessments completed by the parents or self-reported by the participants. The variables represent exposure to any trauma type between ages 0 and 17 years; any trauma type within a distinct age period: early childhood (0-4.9 years), middle childhood (5-10.9 years), or adolescence (11-17 years); specific trauma types between ages 0 and 17 years; and specific trauma types within early childhood, middle childhood, or adolescence. Data were analyzed from January 9, 2017, to November 30, 2017. Main Outcomes and Measures Suspected or definite psychotic experiences were assessed using the psychosis-like symptoms semistructured interview at age 12 years and then at age 18 years. Results The sample of 4433 participants included 2504 (56.5%) females, with a mean (SD) age of 17.8 (0.38) years. Exposure to any trauma up to age 17 years was associated with increased odds of psychotic experiences at age 18 years (adjusted odds ratio, 2.91; 95% CI, 2.15-3.93). All trauma types from age 0 to 17 years were associated with an increased odds of psychotic experiences. The population-attributable fraction for childhood and adolescent trauma on psychotic experiences at age 18 years was 45% (95% CI, 25%-60%). Effect sizes for most trauma types were greater for exposure that was more proximal to the outcome, although CIs overlapped with those for more distal trauma. Evidence supported dose-response associations for exposure to multiple trauma types and at multiple age periods. In an analysis aimed at minimizing reverse causality, adolescent trauma was also associated with past-year incident psychotic experiences at age 18 years. Conclusions and Relevance These findings are consistent with the thesis that trauma could have a causal association with psychotic experiences; if so, identification of modifiable mediators is required to inform prevention strategies.",
+      "corpusId": 263489171,
+      "url": "https://api.semanticscholar.org/CorpusId:263489171",
+      "pubmed_id": "30477014",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1001/jamapsychiatry.2018.3155",
+        "matched_title": "Association of Trauma Type, Age of Exposure, and Frequency in Childhood and Adolescence With Psychotic Experiences in Early Adulthood.",
+        "matched_pubdate": "2019 Jan 1",
+        "matched_source": "JAMA Psychiatry"
+      }
+    },
+    {
+      "title": "Hallucinogen-related disorders in a national sample of adolescents: the influence of ecstasy/MDMA use.",
+      "authors": [
+        {
+          "name": "Li-Tzy Wu",
+          "id": "75179658"
+        },
+        {
+          "name": "C. Ringwalt",
+          "id": "82707509"
+        },
+        {
+          "name": "R. Weiss",
+          "id": "2015891"
+        },
+        {
+          "name": "D. Blazer",
+          "id": "79439454"
+        }
+      ],
+      "year": 2009,
+      "venue": "Drug and Alcohol Dependence",
+      "score": 0.35323182666031716,
+      "abstract": "",
+      "corpusId": 29425790,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/19500920",
+      "pubmed_id": "19500920",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.drugalcdep.2009.04.014",
+        "matched_title": "Hallucinogen-related disorders in a national sample of adolescents: the influence of ecstasy/MDMA use.",
+        "matched_pubdate": "2009 Sep 1",
+        "matched_source": "Drug Alcohol Depend"
+      }
+    },
+    {
+      "title": "M24. NETWORK STRUCTURE OF PSYCHOPATHOLOGY SYMPTOMS IN A COMMUNITY SAMPLE OF YOUTH",
+      "authors": [
+        {
+          "name": "Emily Wang",
+          "id": "1712239425"
+        },
+        {
+          "name": "Rose Mary Xavier",
+          "id": "1713162858"
+        }
+      ],
+      "year": 2020,
+      "venue": "Schizophrenia bulletin",
+      "score": 0.3511180658821804,
+      "abstract": "Abstract Background The field of network psychometrics has developed into a promising alternative to the common cause theory and depicts mental health disorders as arising from the interactions between individual symptoms. Currently, major depressive disorder and post-traumatic stress disorder have been the two main disorders studied using network models. In this study, we aimed to examine the network structure of psychopathology symptoms in a community youth sample to detect the most influential symptoms. We also identify influential bridge symptoms which may lead to comorbidities. Methods The sample (n = 2875) was taken from the Philadelphia Neurodevelopmental Cohort and comprised of youth between the ages of 11–21. 112 variables corresponding to 17 psychopathology symptom groups were used to build the network model. We estimated the network structure using a mixed graphical model. Edges were estimated using a pairwise weighted adjacency matrix with EBIC regularization at a default gamma level of 0.25. The relative influence of each node was determined using predictability and centrality measurements including node strength, closeness, and betweenness. A network was similarly created to detect the most influential bridge symptoms using community clusters. Results The network generated from 17 psychopathology symptom domains (comprising ADD, agoraphobia, conduct disorder, depression, generalized anxiety disorder, mania, OCD, ODD, panic disorder, phobia, psychosis, PTSD, general probes, separation anxiety, psychosis prodromal symptoms, social anxiety and suicide) had several distinct cluster regions and two independent psychosis prodromal symptom nodes. No negative associations were observed in the network. The strongest edge regression coefficient (1.593) was detected between a general screening probe asking whether the subject had received previous treatment and a psychosis variable related to hallucination. An OCD item eliciting subject’s fear over accidentally doing something bad had the greatest average centrality measurement (2.317) followed closely by a conduct disorder item eliciting if the subject had ever threatened someone (2.254). Two depression items - irritability (2.228) and depressive mood (1.825) had the largest average bridge centrality values. History of inpatient treatment (0.997), fear of traveling in a car (0.989) and compulsive checking (0.989) had the largest predictability values, suggesting they could potentially be effective intervention targets. Discussion OCD and conduct disorder symptoms had the largest centrality values and are influential symptoms that could potentially be used to more effectively screen youth for mental health disorders. Depression symptoms had the largest bridge centrality values and should be targeted to prevent comorbidity of associated symptoms. Understanding psychopathology symptom networks could potentially lead to greater insights for prevention and individualizing treatments.",
+      "corpusId": 264222305,
+      "url": "https://api.semanticscholar.org/CorpusId:264222305",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Longitudinal associations between psychotic experiences and disordered eating behaviours in adolescence: a UK population-based study",
+      "authors": [
+        {
+          "name": "F. Solmi",
+          "id": "1939915"
+        },
+        {
+          "name": "Daniel R. Melamed",
+          "id": "3632080"
+        },
+        {
+          "name": "G. Lewis",
+          "id": "144055053"
+        },
+        {
+          "name": "J. Kirkbride",
+          "id": "3126437"
+        }
+      ],
+      "year": 2018,
+      "venue": "The Lancet Child & Adolescent Health",
+      "score": 0.350013067639845,
+      "abstract": "Summary Background Psychotic experiences might represent non-specific markers of poor mental health in adolescence. However, only a few predominantly cross-sectional studies have tested their association with disordered eating behaviours in adolescent and adult populations. The aim of this study was to explore the association between psychotic experiences at age 13 years, and disordered eating behaviours and body-mass index (BMI) at age 18 years. Methods We used data from the Avon Longitudinal Study of Parents and Children, a longitudinal birth cohort based in Avon (England, UK) including mothers with an expected delivery date between April 1, 1991, and Dec 31, 1992, and their children. Psychotic experiences (such as delusions and hallucinations) and BMI were measured at clinical assessments when children were nearly aged 13 years, and data on disordered eating behaviours (ie, presence of binge eating, purging, fasting, or excessive exercise for weight loss; any of these behaviours [included to increase statistical power]; and number of behaviours [included to investigate severity]) were obtained via a postal questionnaire that used adapted questions from the Youth Risk Behaviour Surveillance System questionnaire at approximately age 18 years. For each outcome, we ran a univariable model and four multivariable models (logistic, linear [for BMI], or negative binomial [for the number of behaviours] regression), progressively adjusting for child and maternal sociodemographic, physical, and mental health characteristics (including child's sex, and maternal age, marital status, and highest academic qualification); autistic traits at age 7 years (measured with the Social and Communication Disorder Checklist); baseline BMI at age 13 years, and depressive symptoms at baseline (ie, at age 13 years when psychotic experiences were measured: childs' symptoms measured with the Moods and feelings Questionnaire, and maternal symptoms measured at 32 weeks' gestation with the Edinburgh Postnatal Depression Scale). We imputed missing outcome and covariate data. Findings Our sample included 6361 children, of whom 734 (12%) reported psychotic experiences at age 13 years. In univariable models, psychotic experiences were associated with greater odds of reporting any disordered eating behaviours (odds ratio [OR] 1·92, 95% CI 1·46–2·52; p<0·0001), and more severe symptoms (as measured by the number of disordered eating behaviours: 0·58, 0·32–0·84; p<0·0001) at age 18 years. These associations were slightly attenuated by adjustment for maternal and child characteristics (any disordered eating behaviours OR 1·82, 95% CI 1·35–2·44, p<0·0001; number of disordered eating behaviours 0·49, 95% CI 0·23–0·75, p<0·00001), autistic traits at age 7 years (any disordered eating behaviours OR 1·80, 95% CI 1·34–2·41, p<0·0001; number of disordered eating behaviours 0·48, 95% CI 0·22–0·74, p<0·00001), and BMI (any disordered-eating behaviours OR 1·83, 95% CI 1·36–2·46, p<0·0001; number of disordered-eating behaviours 0·32, 95% CI 0·06–0·57, p<0·00001) Adjusting for baseline depressive symptoms attenuated, but not removed, these associations (any disordered eating OR 1·50, 95% CI 1·10–2·03, p=0·010; more severe symptoms 0·32, 0·06–0·57, p=0·017). Psychotic experiences were also associated with greater binge eating, purging, and fasting behaviours, although some associations weakened after controlling for depressive symptoms. We noted no associations between psychotic experiences and excessive exercise or BMI in any of the models. Interpretation Our findings suggested that psychotic experiences are markers of increased risk for several disordered eating behaviours in late adolescence, possibly by indicating more severe psychopathology in early adolescence. More research investigating shared risk factors for psychotic experiences and eating disorders is warranted to elucidate shared and specific causal pathways. Funding Wellcome Trust, the Royal Society, University College London Hospitals National Institute for Health Research Biomedical Research Centre, UK Medical Research Council, and the University of Bristol.",
+      "corpusId": 51807925,
+      "url": "https://api.semanticscholar.org/CorpusId:51807925",
+      "pubmed_id": "30119718",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/s2352-4642(18)30180-9",
+        "matched_title": "Longitudinal associations between psychotic experiences and disordered eating behaviours in adolescence: a UK population-based study.",
+        "matched_pubdate": "2018 Aug",
+        "matched_source": "Lancet Child Adolesc Health"
+      }
+    },
+    {
+      "title": "Clinical phenotypes of psychosis and reoffending risk among justice-involved adolescents: a population-based cohort study",
+      "authors": [
+        {
+          "name": "E. Akpanekpo",
+          "id": "2169949164"
+        },
+        {
+          "name": "T. Butler",
+          "id": "2240943877"
+        }
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Psychiatry",
+      "score": 0.3499430980875702,
+      "abstract": "Background High reoffending rates among justice-involved adolescents necessitate identifying modifiable risk factors. Given the elevated prevalence of psychosis in this group compared to the general adolescent population, determining its contribution requires differentiation by clinical phenotypes and quantification of associated risk. This study aimed to determine the association between clinical phenotypes of psychosis and reoffending among justice-involved adolescents. Method We conducted a retrospective cohort study using linked administrative health and justice data (2001-2021) from New South Wales, Australia. Justice-involved adolescents (10–17 years) with a diagnosed psychotic disorder identified from hospital/emergency records (n=236) were matched (approx. 1:3) on age, sex, and index offense year to controls without psychosis (n=679). Time to first general and violent reoffending conviction within 24 months was analyzed using stratified Cox proportional hazards models, adjusting for confounders. Results Compared to controls, schizophrenia-related psychosis was significantly associated with increased hazards of general reoffending (adjusted Hazard Ratio [aHR]=1.51, 95% CI: 1.10–2.07) and violent reoffending (aHR=2.71, 95% CI: 1.87–3.94). Substance-induced psychosis also showed significantly increased hazards for general reoffending (aHR=3.09, 95% CI: 1.73–5.50) and violent reoffending (aHR=2.87, 95% CI: 1.49–5.56). Conclusions Non-affective psychoses significantly elevate reoffending risk among justice-involved adolescents, with different magnitudes of risk associated with schizophrenia-related and substance-induced psychosis. Findings highlight the need for nuanced risk assessment and targeted strategies, including routine screening, early intervention, and integrated care pathways within the youth justice system.",
+      "corpusId": 282301196,
+      "url": "https://api.semanticscholar.org/CorpusId:282301196",
+      "pubmed_id": "41200221",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fpsyt.2025.1663025",
+        "matched_title": "Clinical phenotypes of psychosis and reoffending risk among justice-involved adolescents: a population-based cohort study.",
+        "matched_pubdate": "2025",
+        "matched_source": "Front Psychiatry"
+      }
+    },
+    {
+      "title": "Aberrant default mode connectivity in adolescents with early-onset psychosis: A resting state fMRI study.",
+      "authors": [
+        {
+          "name": "E. Hilland",
+          "id": "6159897"
+        },
+        {
+          "name": "Cecilie U. Johannessen",
+          "id": "5407048"
+        },
+        {
+          "name": "R. Jonassen",
+          "id": "46616005"
+        },
+        {
+          "name": "D. Alnæs",
+          "id": "3285214"
+        },
+        {
+          "name": "K. Jørgensen",
+          "id": "1394946022"
+        },
+        {
+          "name": "C. Barth",
+          "id": "50318082"
+        },
+        {
+          "name": "D. Andreou",
+          "id": "7452081"
+        },
+        {
+          "name": "S. Nerland",
+          "id": "5100738"
+        },
+        {
+          "name": "L. Wortinger",
+          "id": "4904182"
+        },
+        {
+          "name": "R. Smelror",
+          "id": "40902361"
+        },
+        {
+          "name": "Kirsten Wedervang-Resell",
+          "id": "1404684105"
+        },
+        {
+          "name": "H. Bohman",
+          "id": "6530753"
+        },
+        {
+          "name": "M. Lundberg",
+          "id": "2071119461"
+        },
+        {
+          "name": "L. Westlye",
+          "id": "2765463"
+        },
+        {
+          "name": "O. Andreassen",
+          "id": "1777021"
+        },
+        {
+          "name": "E. Jönsson",
+          "id": "143633314"
+        },
+        {
+          "name": "I. Agartz",
+          "id": "2775316"
+        }
+      ],
+      "year": 2021,
+      "venue": "NeuroImage: Clinical",
+      "score": 0.34904019668341274,
+      "abstract": "Abnormal default mode network (DMN) connectivity has been found in schizophrenia and other psychotic disorders. However, there are limited studies on early onset psychosis (EOP), and their results show lack of agreement. Here, we investigated within-network DMN connectivity in EOP compared to healthy controls (HC), and its relationship to clinical characteristics. A sample of 68 adolescent patients with EOP (mean age 16.53 ± 1.12 [SD] years, females 66%) and 95 HC (mean age 16.24 ± 1.50 [SD], females 60%) from two Scandinavian cohorts underwent resting state functional magnetic resonance imaging (rsfMRI). A group independent component analysis (ICA) was performed to identify the DMN across all participants. Dual regression was used to estimate spatial maps reflecting each participant's DMN network, which were compared between EOP and HC using voxel-wise general linear models and permutation-based analyses. Subgroup analyses were performed within the patient group, to explore associations between diagnostic subcategories and current use of psychotropic medication in relation to connectivity strength. The analysis revealed significantly reduced DMN connectivity in EOP compared to HC in the posterior cingulate cortex, precuneus, fusiform cortex, putamen, pallidum, amygdala, and insula. The subgroup analysis in the EOP group showed strongest deviations for affective psychosis, followed by other psychotic disorders and schizophrenia. There was no association between DMN connectivity strength and the current use of psychotropic medication. In conclusion, the findings demonstrate weaker DMN connectivity in adolescent patients with EOP compared to healthy peers, and differential effects across diagnostic subcategories, which may inform our understanding of underlying disease mechanisms in EOP.",
+      "corpusId": 244038543,
+      "url": "https://api.semanticscholar.org/CorpusId:244038543",
+      "pubmed_id": "34883402",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.nicl.2021.102881",
+        "matched_title": "Aberrant default mode connectivity in adolescents with early-onset psychosis: A resting state fMRI study.",
+        "matched_pubdate": "2022",
+        "matched_source": "Neuroimage Clin"
+      }
+    },
+    {
+      "title": "An item response theory analysis of DSM-IV criteria for hallucinogen abuse and dependence in adolescents.",
+      "authors": [
+        {
+          "name": "Li-Tzy Wu",
+          "id": "75179658"
+        },
+        {
+          "name": "Jeng-Jong Pan",
+          "id": "1913890"
+        },
+        {
+          "name": "Chongming Yang",
+          "id": "3807136"
+        },
+        {
+          "name": "B. Reeve",
+          "id": "5258311"
+        },
+        {
+          "name": "D. Blazer",
+          "id": "79439454"
+        }
+      ],
+      "year": 2010,
+      "venue": "Addictive Behaviours",
+      "score": 0.34825954717101104,
+      "abstract": "",
+      "corpusId": 13157424,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/19896773",
+      "pubmed_id": "19896773",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.addbeh.2009.10.009",
+        "matched_title": "An item response theory analysis of DSM-IV criteria for hallucinogen abuse and dependence in adolescents.",
+        "matched_pubdate": "2010 Mar",
+        "matched_source": "Addict Behav"
+      }
+    },
+    {
+      "title": "Cannabis use in adolescence and risk for adult psychosis: longitudinal prospective study",
+      "authors": [
+        {
+          "name": "L. Arseneault",
+          "id": "5925498"
+        },
+        {
+          "name": "M. Cannon",
+          "id": "144851483"
+        },
+        {
+          "name": "R. Poulton",
+          "id": "3716794"
+        },
+        {
+          "name": "R. Murray",
+          "id": "2234176827"
+        },
+        {
+          "name": "A. Caspi",
+          "id": "5279665"
+        },
+        {
+          "name": "T. Moffitt",
+          "id": "4758579"
+        }
+      ],
+      "year": 2002,
+      "venue": "British medical journal",
+      "score": 0.34771753419715057,
+      "abstract": "",
+      "corpusId": 38589294,
+      "url": "https://doi.org/10.1136/bmj.325.7374.1212",
+      "pubmed_id": "12446537",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/bmj.325.7374.1212",
+        "matched_title": "Cannabis use in adolescence and risk for adult psychosis: longitudinal prospective study.",
+        "matched_pubdate": "2002 Nov 23",
+        "matched_source": "BMJ"
+      }
+    },
+    {
+      "title": "Life time use of illicit substances among adolescents and young people hospitalized in psychiatric hospital",
+      "authors": [
+        {
+          "name": "P. Engelgardt",
+          "id": "6946621"
+        },
+        {
+          "name": "M. Krzyżanowski",
+          "id": "4181323"
+        },
+        {
+          "name": "Malgorzata Borkowska-Sztachańska",
+          "id": "1484666540"
+        },
+        {
+          "name": "A. Wasilewska",
+          "id": "47959754"
+        },
+        {
+          "name": "Michał Ciucias",
+          "id": "2203808271"
+        }
+      ],
+      "year": 2023,
+      "venue": "Scientific Reports",
+      "score": 0.3462450994105512,
+      "abstract": "Adolescents are known to be particularly vulnerable, compared to children and adults, to initiation of substance use and progression to problematic use. This study aimed to examine the prevalence and type of illicit drug use in a population of adolescents and young adults who were hospitalized in a psychiatric hospital. The purpose of the study was also to find the link between age, sex, type of admission and particular mental disorders and using psychoactive substances at least once in a lifetime. A 12-month retrospective cross-sectional analysis of medical records compiled for adolescent and youth psychiatric patients who had been admitted to the Regional Psychiatric Hospital in Olsztyn, Poland, between October 1, 2018, and September 30, 2019, was conducted. After analyzing the available medical records, 506 cases were included and analyzed. Data for the study were collected in an Excel spreadsheet from discharge reports, including data from psychiatric examinations, especially anamnesis. Subsequently, statistical calculations were performed. Lifetime prevalence of any illicit substance use (34.0%) was common. The most frequently used drug was Cannabis (29.2%), the next New Psychoactive Substance—NPS (14.2%) and Amphetamine (13.0%). The higher number of people declaring to take illicit substances was proportional to the increasing age. Except for the group 10–15 years, the subject group was dominated by males. The highest, statistically significant percentage of patients who declared taking illicit substances in general, was found in people with diagnoses F20–F29 (schizophrenia, schizotypal and delusional disorders) (55%), additionally, we found a statistically significant association between NPS use and these diagnoses. Only in the group of patients diagnosed with eating disorders no one declared taking psychoactive substances. However, the correlation between taking illicit drugs and the subgroups with diagnosed psychiatric diseases should be treated with caution because of the small sample size in some cases. Our findings have shown the significant prevalence of the phenomenon in this population. These data highlight the need to explore this population at high risk carefully.",
+      "corpusId": 256462714,
+      "url": "https://api.semanticscholar.org/CorpusId:256462714",
+      "pubmed_id": "36725976",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/s41598-023-28603-2",
+        "matched_title": "Life time use of illicit substances among adolescents and young people hospitalized in psychiatric hospital.",
+        "matched_pubdate": "2023 Feb 1",
+        "matched_source": "Sci Rep"
+      }
+    },
+    {
+      "title": "Association of Prenatal Exposure to Population-Wide Folic Acid Fortification With Altered Cerebral Cortex Maturation in Youths",
+      "authors": [
+        {
+          "name": "H. Eryilmaz",
+          "id": "3170593"
+        },
+        {
+          "name": "Kevin F. Dowling",
+          "id": "40523162"
+        },
+        {
+          "name": "Franklin C. Huntington",
+          "id": "40268985"
+        },
+        {
+          "name": "Anais Rodriguez-Thompson",
+          "id": "1422186113"
+        },
+        {
+          "name": "T. Soare",
+          "id": "13271003"
+        },
+        {
+          "name": "L. M. Beard",
+          "id": "47125807"
+        },
+        {
+          "name": "Hang Lee",
+          "id": "2143329434"
+        },
+        {
+          "name": "J. Blossom",
+          "id": "2870655"
+        },
+        {
+          "name": "R. Gollub",
+          "id": "1950749"
+        },
+        {
+          "name": "E. Susser",
+          "id": "5166386"
+        },
+        {
+          "name": "R. Gur",
+          "id": "144762538"
+        },
+        {
+          "name": "M. Calkins",
+          "id": "1837911"
+        },
+        {
+          "name": "R. Gur",
+          "id": "2406788"
+        },
+        {
+          "name": "T. Satterthwaite",
+          "id": "2213003"
+        },
+        {
+          "name": "J. Roffman",
+          "id": "2294317"
+        }
+      ],
+      "year": 2018,
+      "venue": "JAMA psychiatry",
+      "score": 0.34523248666536094,
+      "abstract": "Importance Presently, 81 countries mandate the fortification of grain products with folic acid to lessen the risk of neural tube defects in the developing fetus. Epidemiologic data on severe mental illness suggest potentially broader effects of prenatal folate exposure on postnatal brain development, but this link remains unsubstantiated by biological evidence. Objective To evaluate associations among fetal folic acid exposure, cortical maturation, and psychiatric risk in youths. Design, Setting, and Participants A retrospective, observational clinical cohort study was conducted at Massachusetts General Hospital (MGH) among 292 youths 8 to 18 years of age born between January 1993 and December 2001 (inclusive of folic acid fortification rollout ±3.5 years) with normative results of clinical magnetic resonance imaging, divided into 3 age-matched groups based on birthdate and related level of prenatal folic acid fortification exposure (none, partial, or full). Magnetic resonance imaging was performed between January 2005 and March 2015. Two independent, observational, community-based cohorts (Philadelphia Neurodevelopmental Cohort [PNC] and National Institutes of Health Magnetic Resonance Imaging Study of Normal Brain Development [NIH]) comprising 1078 youths 8 to 18 years of age born throughout (PNC, 1992-2003) or before (NIH, 1983-1995) the rollout of folic acid fortification were studied for replication, clinical extension, and specificity. Statistical analysis was conducted from 2015 to 2018. Exposures United States–mandated grain product fortification with folic acid, introduced in late 1996 and fully in effect by mid-1997. Main Outcomes and Measures Differences in cortical thickness among nonexposed, partially exposed, and fully exposed youths (MGH) and underlying associations between age and cortical thickness (all cohorts). Analysis of the PNC cohort also examined the association of age–cortical thickness slopes with the odds of psychotic symptoms. Results The MGH cohort (139 girls and 153 boys; mean [SD] age, 13.3 [2.3] years) demonstrated exposure-associated cortical thickness increases in bilateral frontal and temporal regions (9.9% to 11.6%; corrected P < .001 to P = .03) and emergence of quadratic (delayed) age-associated thinning in temporal and parietal regions (&bgr; = –11.1 to –13.9; corrected P = .002). The contemporaneous PNC cohort (417 girls and 444 boys; mean [SD] age, 13.5 [2.7] years) also exhibited exposure-associated delays of cortical thinning (&bgr; = –1.59 to –1.73; corrected P < .001 to P = .02), located in similar regions and with similar durations of delay as in the MGH cohort. Flatter thinning profiles in frontal, temporal, and parietal regions were associated with lower odds of psychosis spectrum symptoms in the PNC cohort (odds ratio, 0.37-0.59; corrected P < .05). All identified regions displayed earlier thinning in the nonexposed NIH cohort (118 girls and 99 boys; mean [SD] age, 13.3 [2.6] years). Conclusions and Relevance The results of this study suggest an association between gestational exposure to fortification of grain products with folic acid and altered cortical development and, in turn, with reduction in the risk of psychosis in youths.",
+      "corpusId": 49676638,
+      "url": "https://api.semanticscholar.org/CorpusId:49676638",
+      "pubmed_id": "29971329",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1001/jamapsychiatry.2018.1381",
+        "matched_title": "Association of Prenatal Exposure to Population-Wide Folic Acid Fortification With Altered Cerebral Cortex Maturation in Youths.",
+        "matched_pubdate": "2018 Sep 1",
+        "matched_source": "JAMA Psychiatry"
+      }
+    },
+    {
+      "title": "Psychedelics and Mental Health: A Population Study",
+      "authors": [
+        {
+          "name": "T. S. Krebs",
+          "id": "6546262"
+        },
+        {
+          "name": "P. Johansen",
+          "id": "122875603"
+        }
+      ],
+      "year": 2013,
+      "venue": "PLoS ONE",
+      "score": 0.3431645299193906,
+      "abstract": "Background The classical serotonergic psychedelics LSD, psilocybin, mescaline are not known to cause brain damage and are regarded as non-addictive. Clinical studies do not suggest that psychedelics cause long-term mental health problems. Psychedelics have been used in the Americas for thousands of years. Over 30 million people currently living in the US have used LSD, psilocybin, or mescaline. Objective To evaluate the association between the lifetime use of psychedelics and current mental health in the adult population. Method Data drawn from years 2001 to 2004 of the National Survey on Drug Use and Health consisted of 130,152 respondents, randomly selected to be representative of the adult population in the United States. Standardized screening measures for past year mental health included serious psychological distress (K6 scale), mental health treatment (inpatient, outpatient, medication, needed but did not receive), symptoms of eight psychiatric disorders (panic disorder, major depressive episode, mania, social phobia, general anxiety disorder, agoraphobia, posttraumatic stress disorder, and non-affective psychosis), and seven specific symptoms of non-affective psychosis. We calculated weighted odds ratios by multivariate logistic regression controlling for a range of sociodemographic variables, use of illicit drugs, risk taking behavior, and exposure to traumatic events. Results 21,967 respondents (13.4% weighted) reported lifetime psychedelic use. There were no significant associations between lifetime use of any psychedelics, lifetime use of specific psychedelics (LSD, psilocybin, mescaline, peyote), or past year use of LSD and increased rate of any of the mental health outcomes. Rather, in several cases psychedelic use was associated with lower rate of mental health problems. Conclusion We did not find use of psychedelics to be an independent risk factor for mental health problems.",
+      "corpusId": 11926822,
+      "url": "https://pdfs.semanticscholar.org/dbde/2f19fa4ecc9c04d8ac84c6ff2861169f0dc6.pdf",
+      "pubmed_id": "23976938",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0063972",
+        "matched_title": "Psychedelics and mental health: a population study.",
+        "matched_pubdate": "2013",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Fingertip advanced glycation end products and psychotic symptoms among adolescents",
+      "authors": [
+        {
+          "name": "M. Miyashita",
+          "id": "6903327"
+        },
+        {
+          "name": "S. Yamasaki",
+          "id": "2644044"
+        },
+        {
+          "name": "S. Ando",
+          "id": "4367611"
+        },
+        {
+          "name": "Kazuhiro Suzuki",
+          "id": "2150937948"
+        },
+        {
+          "name": "K. Toriumi",
+          "id": "4302847"
+        },
+        {
+          "name": "Y. Horiuchi",
+          "id": "40385688"
+        },
+        {
+          "name": "Akane Yoshikawa",
+          "id": "37837016"
+        },
+        {
+          "name": "Atsushi Imai",
+          "id": "2075053967"
+        },
+        {
+          "name": "Yukihiro Nagase",
+          "id": "5179629"
+        },
+        {
+          "name": "Yasuhiro Miyano",
+          "id": "2106025875"
+        },
+        {
+          "name": "Tomoko Inoue",
+          "id": "2109907554"
+        },
+        {
+          "name": "K. Endo",
+          "id": "49879194"
+        },
+        {
+          "name": "Yuko Morimoto",
+          "id": "2105574411"
+        },
+        {
+          "name": "M. Morita",
+          "id": "2055959669"
+        },
+        {
+          "name": "T. Kiyono",
+          "id": "2007935130"
+        },
+        {
+          "name": "Satoshi Usami",
+          "id": "5179985"
+        },
+        {
+          "name": "Y. Okazaki",
+          "id": "36249736"
+        },
+        {
+          "name": "T. Furukawa",
+          "id": "2058736127"
+        },
+        {
+          "name": "M. Hiraiwa-Hasegawa",
+          "id": "1398925048"
+        },
+        {
+          "name": "M. Itokawa",
+          "id": "3794591"
+        },
+        {
+          "name": "K. Kasai",
+          "id": "2099925"
+        },
+        {
+          "name": "A. Nishida",
+          "id": "48798085"
+        },
+        {
+          "name": "Makoto Arai",
+          "id": "2106697502"
+        }
+      ],
+      "year": 2021,
+      "venue": "npj Schizophrenia",
+      "score": 0.34094182345073576,
+      "abstract": "Case control studies have suggested that advanced glycation end products play a key role in the pathophysiology of chronic schizophrenia. However, the longitudinal association between advanced glycation end products and psychotic symptoms among drug-naïve adolescents remains unclear. This study examined whether advanced glycation end products could predict the trajectory of psychotic symptoms in drug-naive adolescents using data from prospective population-based biomarker subsample study of the Tokyo Teen Cohort. A total of 277 community-dwelling adolescents aged 13 years without antipsychotic medication were analyzed. Fingertip advanced glycation end products were measured in adolescents using noninvasive technology that can be used quickly. The trajectory of psychotic symptoms in a 12-month follow-up was assessed by experienced psychiatrists using a semi-structured interview. Of the 277 participants, 13 (4.7%) experienced persistent psychotic symptoms (psychotic symptoms at baseline and follow-up), 65 (23.5%) experienced transient psychotic symptoms (psychotic symptoms at baseline or follow-up), and 199 (71.8%) did not have psychotic symptoms. Multinomial logistic regression analysis adjusted for age and sex revealed that baseline fingertip advanced glycation end products might predict the risk of persistent psychotic symptoms (odds ratio = 1.68; 95% confidence interval, 1.05–2.69; P  = 0.03). Altogether, fingertip advanced glycation end products potentially predicted the trajectory of psychotic symptoms among drug-naive adolescents, which indicated its involvement in the pathophysiology of early psychosis. Further studies are required to identify strategies to reduce adolescent advanced glycation end products, which may contribute to preventing the onset of psychosis.",
+      "corpusId": 236984408,
+      "url": "https://api.semanticscholar.org/CorpusId:236984408",
+      "pubmed_id": "34385440",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/s41537-021-00167-y",
+        "matched_title": "Fingertip advanced glycation end products and psychotic symptoms among adolescents.",
+        "matched_pubdate": "2021 Aug 12",
+        "matched_source": "NPJ Schizophr"
+      }
+    },
+    {
+      "title": "Shared Etiology of Psychotic Experiences and Depressive Symptoms in Adolescence: A Longitudinal Twin Study",
+      "authors": [
+        {
+          "name": "H. Zavos",
+          "id": "3786487"
+        },
+        {
+          "name": "T. Eley",
+          "id": "143896420"
+        },
+        {
+          "name": "P. McGuire",
+          "id": "2046974"
+        },
+        {
+          "name": "R. Plomin",
+          "id": "2611761"
+        },
+        {
+          "name": "A. Cardno",
+          "id": "6923219"
+        },
+        {
+          "name": "D. Freeman",
+          "id": "145331574"
+        },
+        {
+          "name": "A. Ronald",
+          "id": "145465071"
+        }
+      ],
+      "year": 2016,
+      "venue": "Schizophrenia bulletin",
+      "score": 0.3371554850658563,
+      "abstract": "Psychotic disorders and major depression, both typically adult-onset conditions, often co-occur. At younger ages psychotic experiences and depressive symptoms are often reported in the community. We used a genetically sensitive longitudinal design to investigate the relationship between psychotic experiences and depressive symptoms in adolescence. A representative community sample of twins from England and Wales was employed. Self-rated depressive symptoms, paranoia, hallucinations, cognitive disorganization, grandiosity, anhedonia, and parent-rated negative symptoms were collected when the twins were age 16 (N = 9618) and again on a representative subsample 9 months later (N = 2873). Direction and aetiology of associations were assessed using genetically informative cross-lagged models. Depressive symptoms were moderately correlated with paranoia, hallucinations, and cognitive disorganization. Lower correlations were observed between depression and anhedonia, and depression and parent-rated negative symptoms. Nonsignificant correlations were observed between depression and grandiosity. Largely the same genetic effects influenced depression and paranoia, depression and hallucinations, and depression and cognitive disorganization. Modest overlap in environmental influences also played a role in the associations. Significant bi-directional longitudinal associations were observed between depression and paranoia. Hallucinations and cognitive disorganization during adolescence were found to impact later depression, even after controlling for earlier levels of depression. Our study shows that psychotic experiences and depression, as traits in the community, have a high genetic overlap in mid-adolescence. Future research should test the prediction stemming from our longitudinal results, namely that reducing or ameliorating positive and cognitive psychotic experiences in adolescence would decrease later depressive symptoms.",
+      "corpusId": 269425,
+      "url": "https://api.semanticscholar.org/CorpusId:269425",
+      "pubmed_id": "26994398",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1093/schbul/sbw021",
+        "matched_title": "Shared Etiology of Psychotic Experiences and Depressive Symptoms in Adolescence: A Longitudinal Twin Study.",
+        "matched_pubdate": "2016 Sep",
+        "matched_source": "Schizophr Bull"
+      }
+    },
+    {
+      "title": "Childhood theory of mind does not predict psychotic experiences and social functioning in a general population sample of adolescents",
+      "authors": [
+        {
+          "name": "L. Steenhuis",
+          "id": "6238021"
+        },
+        {
+          "name": "G. Pijnenborg",
+          "id": "5042401"
+        },
+        {
+          "name": "J. van os",
+          "id": "38069207"
+        },
+        {
+          "name": "A. Aleman",
+          "id": "145591647"
+        },
+        {
+          "name": "M. Nauta",
+          "id": "2787660"
+        },
+        {
+          "name": "A. Bartels-Velthuis",
+          "id": "1397382190"
+        }
+      ],
+      "year": 2019,
+      "venue": "PLoS ONE",
+      "score": 0.334747053047919,
+      "abstract": "Aims Theory of Mind (ToM) is often impaired in early and chronic phases of psychosis and it is often suggested that poor ToM is a trait vulnerability for psychosis. The aim of this study was to examine in an adolescent sample whether childhood ToM abilities can predict psychotic experiences over a period of six years and whether this is mediated by social functioning. To examine whether ToM is a specific predictor for psychosis, symptoms of depression and anxiety were also examined. Materials and methods A baseline case-control sample (T0: age 7–8 years) with and without auditory vocal hallucinations (AVH) in the general population was assessed after five years (T1: age 12–13 years) on ToM ability (ToM Storybook Frank), and after eleven years (T2: age 18–19 years) on psychotic experiences (Community Assessment of Psychic Experiences; CAPE), depressive and anxiety symptoms (Depression Anxiety and Stress Scale; DASS-21), and social functioning (Groningen Questionnaire on Social Behaviour; GSVG-45). Analyses were conducted on a subsample of 157 adolescents aged 18–19 years (T2) who had data available on ToM ability at T1. Results ToM at T1 was not predictive of psychotic experiences after six years (from age 12–13 to age 18–19) and social functioning was also not a mediator. ToM was not associated with psychopathology in general (depressive and anxiety symptoms) over six years (from age 12–13 to age 18–19). Conclusions The current study found no evidence for a longitudinal association between ToM ability and psychotic experiences, social functioning, and symptoms of depression and anxiety, in adolescence.",
+      "corpusId": 71716233,
+      "url": "https://api.semanticscholar.org/CorpusId:71716233",
+      "pubmed_id": "30818390",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0213165",
+        "matched_title": "Childhood theory of mind does not predict psychotic experiences and social functioning in a general population sample of adolescents.",
+        "matched_pubdate": "2019",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Drug Dependence and Psychotic Symptoms: A Retrospective Study of Adolescents Who Abuse Drugs at Al-Amal Hospital in Jeddah, Saudi Arabia",
+      "authors": [
+        {
+          "name": "O. Alibrahim",
+          "id": "9664334"
+        },
+        {
+          "name": "Nagi A. M. Elawad",
+          "id": "9651957"
+        },
+        {
+          "name": "Y. A. Misau",
+          "id": "9644719"
+        },
+        {
+          "name": "Tarteel M. Shaikh",
+          "id": "9653357"
+        },
+        {
+          "name": "N. Allam",
+          "id": "9655620"
+        }
+      ],
+      "year": 2012,
+      "venue": "Journal of Public Health in Africa",
+      "score": 0.3312001089001421,
+      "abstract": "Drug abuse is reported to be on the increase among young persons using illicit substances but little is known about the frequency with which they occur, the symptoms on presentation to health institutions, and the different substances abused. To establish this, we reviewed patient data collected at Al-Amal Hospital in Jeddah Kingdom of Saudi Arabia on young persons who are refered to the hospital for problems related to drug abuse. Data on 69 adolescent drug users were reviewed and analyzed using the Composite International Diagnostic Interview - Substance Abuse Model (CIDI-SAM) to assess dependence on substances including amphetamines, cannabis, cocaine, and opioids. Furthermore, we assessed the adolescents’ data on history of delusions and hallucinations in the context of use of, or withdrawal from, these specific substances. Our analysis shows that 10 to 79.6% of users of amphetamines, cannabis, cocaine, and opiates met DSM-III-R dependence criteria for each specific substance. The prevalence of psychotic symptoms associated with each specific substance ranged from users with no diagnosis to users with severe dependence as follows: amphetamines (3-100%), cannabis (7-60.0%), cocaine (5-70.7%), and opiates (4-88%). The risk of psychotic symptoms increased for respondents who abused (OR=7.2) or had mild (OR=8.1), moderate (OR=20.0), or severe dependence (OR=14.0) on cocaine when compared to those who were users with no diagnosis. A similar pattern was evident in cannabis, opiate, and amphetamine users. In conclusion, most adolescent drug users in Saudi Arabia who are dependent on illicit substances experience psychotic symptoms in the context of use of, or withdrawal from, these substances. Psychotic symptoms increased with the severity of the disorders associated with use of all four substances. These findings underscore the importance of developing services to target this population; a population at risk of developing psychotic symptoms.",
+      "corpusId": 15776325,
+      "url": "https://api.semanticscholar.org/CorpusId:15776325",
+      "pubmed_id": "28299079",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.4081/jphia.2012.e5",
+        "matched_title": "Drug Dependence and Psychotic Symptoms: A Retrospective Study of Adolescents Who Abuse Drugs at Al-Amal Hospital in Jeddah, Saudi Arabia.",
+        "matched_pubdate": "2012 Mar 7",
+        "matched_source": "J Public Health Afr"
+      }
+    },
+    {
+      "title": "Trajectories of childhood internalizing and externalizing psychopathology and psychotic-like experiences in adolescence: A prospective population-based cohort study",
+      "authors": [
+        {
+          "name": "Kristin S. Lancefield",
+          "id": "7478680"
+        },
+        {
+          "name": "Alessandra Raudino",
+          "id": "38442652"
+        },
+        {
+          "name": "J. Downs",
+          "id": "39236860"
+        },
+        {
+          "name": "K. Laurens",
+          "id": "3575676"
+        }
+      ],
+      "year": 2016,
+      "venue": "Development and Psychopathology",
+      "score": 0.32566653139915985,
+      "abstract": "Abstract Adolescent internalizing and externalizing psychopathology is strongly associated with adult psychiatric morbidity, including psychotic disorders. This study examined whether internalizing or externalizing trajectories (continuity/discontinuity of symptoms) from middle childhood were associated with adolescent psychotic-like experiences (PLEs). Prospective data were collected from a community sample of 553 children (mean age = 10.4 years; 50% male) and their primary caregivers. Participants completed questionnaire reports of internalizing and externalizing psychopathology and PLEs at baseline, and again approximately 2 years later. Logistic regression was used to examine the association of adolescent PLEs with four trajectories of internalizing and externalizing psychopathology (persistent, incident, remitting, and none), controlling for a range of potential confounders and sampling bias. Significant associations were identified between adolescent PLEs and the incident internalizing (adjusted odds ratio [adj. OR] = 2.96; 95% confidence interval [CI] = 1.60–5.49) and externalizing psychopathology (adj. OR = 2.14; 95% CI = 1.11–4.14) trajectories, as well as the persistent internalizing (adj. OR = 1.90; 95% CI = 1.13–3.18) and externalizing (adj. OR = 1.81, 95% CI = 1.02–3.19) trajectories. Children with remitting psychopathology trajectories were no more likely to present later PLEs than those who never experienced psychopathology. While for many individuals symptoms and illness remit during development without intervention, this study provides important insights regarding potential targets and timing for delivery of early intervention and prevention programs.",
+      "corpusId": 45628233,
+      "url": "https://api.semanticscholar.org/CorpusId:45628233",
+      "pubmed_id": "26856897",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1017/s0954579415001108",
+        "matched_title": "Trajectories of childhood internalizing and externalizing psychopathology and psychotic-like experiences in adolescence: A prospective population-based cohort study.",
+        "matched_pubdate": "2016 May",
+        "matched_source": "Dev Psychopathol"
+      }
+    },
+    {
+      "title": "Cannabis, schizophrenia genetic risk, and psychotic experiences: a cross-sectional study of 109,308 participants from the UK Biobank",
+      "authors": [
+        {
+          "name": "Michael Wainberg",
+          "id": "39866492"
+        },
+        {
+          "name": "Grace R. Jacobs",
+          "id": "50169590"
+        },
+        {
+          "name": "M. di Forti",
+          "id": "6395648"
+        },
+        {
+          "name": "S. Tripathy",
+          "id": "39063110"
+        }
+      ],
+      "year": 2021,
+      "venue": "Translational Psychiatry",
+      "score": 0.323759529090603,
+      "abstract": "Cannabis is known to produce acute, transient psychotic-like experiences. However, it is unclear whether cannabis disproportionately increases the risk of specific types of psychotic experiences and whether genetic predisposition influences the relationship between cannabis use and psychotic experiences. In this cross-sectional study of 109,308 UK Biobank participants, we examined how schizophrenia polygenic risk modulates the association between self-reported cannabis use and four types of self-reported psychotic experiences (auditory hallucinations, visual hallucinations, persecutory delusions, and delusions of reference). Cohort-wide, we found a strong, dose-dependent relationship between cannabis use and all four types of psychotic experiences, especially persecutory delusions. Cannabis users’ psychotic experiences tended to be earlier-onset and cause greater distress than non-users’, but were not more likely to lead to help-seeking. Participants with high schizophrenia polygenic risk scores showed stronger associations between cannabis use and auditory hallucinations, visual hallucinations, and delusions of reference, as well as psychotic experiences overall. For instance, cannabis ever-use was associated with 67% greater adjusted odds of delusions of reference among individuals in the top fifth of polygenic risk, but only 7% greater adjusted odds among the bottom fifth. Our results suggest that cannabis use is a predictive risk factor for psychotic experiences, including early-onset and distressing experiences. Individuals genetically predisposed to schizophrenia may be especially vulnerable to psychotic experiences as a result of using cannabis, supporting a long-postulated hypothesis. This study exemplifies the utility of population-scale biobanks for elucidating gene-by-environment interactions relating substance use to neuropsychiatric outcomes and points to the translational potential of using polygenic risk scores to inform personalized harm reduction interventions.",
+      "corpusId": 233187543,
+      "url": "https://api.semanticscholar.org/CorpusId:233187543",
+      "pubmed_id": "33837184",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/s41398-021-01330-w",
+        "matched_title": "Cannabis, schizophrenia genetic risk, and psychotic experiences: a cross-sectional study of 109,308 participants from the UK Biobank.",
+        "matched_pubdate": "2021 Apr 9",
+        "matched_source": "Transl Psychiatry"
+      }
+    },
+    {
+      "title": "The interplay between childhood trauma, cognitive biases, and cannabis use on the risk of psychosis in nonclinical young adults in Poland",
+      "authors": [
+        {
+          "name": "D. Frydecka",
+          "id": "3402372"
+        },
+        {
+          "name": "B. Misiak",
+          "id": "3402104"
+        },
+        {
+          "name": "K. Kotowicz",
+          "id": "50458944"
+        },
+        {
+          "name": "Renata Pionke",
+          "id": "29971581"
+        },
+        {
+          "name": "Martyna Krężołek",
+          "id": "1398342122"
+        },
+        {
+          "name": "A. Cechnicki",
+          "id": "5808043"
+        },
+        {
+          "name": "Ł. Gawęda",
+          "id": "6195221"
+        }
+      ],
+      "year": 2020,
+      "venue": "European psychiatry",
+      "score": 0.30962978702767013,
+      "abstract": "Abstract Background. Childhood traumatic events are risk factors for psychotic-like experiences (PLEs). However, the mechanisms explaining how trauma may contribute to the development of PLEs are not fully understood. In our study, we investigated whether cannabis use and cognitive biases mediate the relationship between early trauma and PLEs. Methods. A total sample of 6,772 young adults (age 26.6 ± 4.7, 2,181 male and 3,433 female) was recruited from the general population to participate in an online survey. We excluded 1,158 individuals due to a self-reported lifetime diagnosis of any mental disorder. The online survey included selected items from the following questionnaires: Traumatic Experience Checklist (TEC, 3 items), Childhood Experience of Care and Abuse Questionnaire (CECA.Q, 3 items), Cannabis Problems Questionnaire (CPQ, 10 items), Davos Assessment of Cognitive Biases Scale (DACOBS-18, 9 items), and Prodromal Questionnaire-16 (PQ-16). Mediation analyses were performed with respect to different categories of traumatic experiences (emotional, physical and sexual abuse as well as emotional neglect). Results. Our results showed significant associations of any time of childhood trauma with higher scores of cannabis use (CPQ), cognitive biases (DACOBS), and PLEs (PQ-16) (p < 0.001). We found a direct effect of childhood trauma on PLEs as well as significant indirect effect mediated through cannabis use and cognitive biases. All models tested for the effects of specific childhood adversities revealed similar results. The percentage of variance in PQ-16 scores explained by serial mediation models varied between 32.8 and 34.2% depending on childhood trauma category. Conclusion. Cannabis use and cognitive biases play an important mediating role in the relationship between childhood traumatic events and the development of PLEs in a nonclinical young adult population.",
+      "corpusId": 214616330,
+      "url": "https://api.semanticscholar.org/CorpusId:214616330",
+      "pubmed_id": "32200775",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1192/j.eurpsy.2020.31",
+        "matched_title": "The interplay between childhood trauma, cognitive biases, and cannabis use on the risk of psychosis in nonclinical young adults in Poland.",
+        "matched_pubdate": "2020 Mar 23",
+        "matched_source": "Eur Psychiatry"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+(
+  ("Stroke"[Mesh] OR "Brain Ischemia"[Mesh] OR "Intracranial Hemorrhages"[Mesh] OR stroke*[tiab] OR cerebrovascular[tiab] OR "cerebrovascular accident*"[tiab] OR "cerebrovascular disease*"[tiab] OR "cerebrovascular event*"[tiab] OR "cerebral infarct*"[tiab] OR "cardiovascular risk prediction"[tiab])
+  AND
+  (
+    "Risk Assessment"[Mesh]
+    OR "Prognosis"[Mesh]
+    OR "Forecasting"[Mesh]
+    OR "Models, Statistical"[Mesh]
+    OR
+    predict*[tiab]
+    OR prognos*[tiab]
+    OR "risk model*"[tiab]
+    OR "risk score*"[tiab]
+    OR "risk profile*"[tiab]
+    OR "risk function*"[tiab]
+    OR "prediction model*"[tiab]
+    OR "prediction rule*"[tiab]
+    OR "risk equation*"[tiab]
+    OR multivariable[tiab]
+    OR "risk assessment"[tiab]
+  )
+)
+AND
+((english[lang]) NOT (editorial[pt] OR comment[pt] OR news[pt] OR biography[pt]))

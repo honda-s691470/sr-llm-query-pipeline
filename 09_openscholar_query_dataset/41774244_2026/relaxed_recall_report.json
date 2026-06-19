@@ -1,0 +1,130 @@
+{
+  "target_dir": "public_release\\09_openscholar_query_dataset\\41774244_2026",
+  "gold_path": "05_test_data\\04_Oncology\\41774244_2026\\gold_pmids.json",
+  "fuzzy_threshold_same_year": 0.95,
+  "fuzzy_threshold_near_year": 0.98,
+  "reports": [
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41774244_2026\\papers_normal_with_pmid.json",
+      "paper_count": 68,
+      "gold_count": 19,
+      "tp_pmid_exact": 7,
+      "tp_title_year_exact_additional": 0,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 7,
+      "tp_relaxed_total": 7,
+      "recall_pmid_exact": 0.3684210526315789,
+      "recall_strict": 0.3684210526315789,
+      "recall_relaxed": 0.3684210526315789,
+      "matched_pmids_pmid_exact": [
+        "24318593",
+        "26856728",
+        "29121713",
+        "34617134",
+        "36342349",
+        "37568701",
+        "40002304"
+      ],
+      "matched_pmids_strict": [
+        "24318593",
+        "26856728",
+        "29121713",
+        "34617134",
+        "36342349",
+        "37568701",
+        "40002304"
+      ],
+      "matched_pmids_relaxed": [
+        "24318593",
+        "26856728",
+        "29121713",
+        "34617134",
+        "36342349",
+        "37568701",
+        "40002304"
+      ],
+      "exact_title_year_details": [],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "25751114",
+        "26036473",
+        "27073128",
+        "28184983",
+        "30074622",
+        "32472708",
+        "33008767",
+        "33187112",
+        "33909148",
+        "33928815",
+        "34778941",
+        "39536378"
+      ]
+    },
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41774244_2026\\papers_deep_with_pmid.json",
+      "paper_count": 335,
+      "gold_count": 19,
+      "tp_pmid_exact": 12,
+      "tp_title_year_exact_additional": 0,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 12,
+      "tp_relaxed_total": 12,
+      "recall_pmid_exact": 0.631578947368421,
+      "recall_strict": 0.631578947368421,
+      "recall_relaxed": 0.631578947368421,
+      "matched_pmids_pmid_exact": [
+        "24318593",
+        "26856728",
+        "28184983",
+        "29121713",
+        "32472708",
+        "33909148",
+        "33928815",
+        "34617134",
+        "34778941",
+        "36342349",
+        "37568701",
+        "40002304"
+      ],
+      "matched_pmids_strict": [
+        "24318593",
+        "26856728",
+        "28184983",
+        "29121713",
+        "32472708",
+        "33909148",
+        "33928815",
+        "34617134",
+        "34778941",
+        "36342349",
+        "37568701",
+        "40002304"
+      ],
+      "matched_pmids_relaxed": [
+        "24318593",
+        "26856728",
+        "28184983",
+        "29121713",
+        "32472708",
+        "33909148",
+        "33928815",
+        "34617134",
+        "34778941",
+        "36342349",
+        "37568701",
+        "40002304"
+      ],
+      "exact_title_year_details": [],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "25751114",
+        "26036473",
+        "27073128",
+        "30074622",
+        "33008767",
+        "33187112",
+        "39536378"
+      ]
+    }
+  ]
+}

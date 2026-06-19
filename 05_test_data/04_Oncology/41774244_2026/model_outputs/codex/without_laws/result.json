@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:52:53Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41774244_2026",
+  "domain_folder": "04_Oncology",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Lymphoma, Non-Hodgkin\"[Mesh] OR \"non-Hodgkin lymphoma\"[tiab] OR \"non Hodgkin lymphoma\"[tiab] OR nonhodgkin[tiab] OR NHL[tiab] OR DLBCL[tiab] OR \"diffuse large B-cell lymphoma\"[tiab] OR \"follicular lymphoma\"[tiab] OR \"mantle cell lymphoma\"[tiab] OR \"peripheral T-cell lymphoma\"[tiab]) AND (\"Quality of Life\"[Mesh] OR \"quality of life\"[tiab] OR QoL[tiab] OR HRQoL[tiab] OR \"health-related quality of life\"[tiab]) AND (\"Survivors\"[Mesh] OR survivor*[tiab] OR survivorship[tiab] OR \"post-treatment\"[tiab] OR \"after treatment\"[tiab] OR remission[tiab] OR \"disease-free\"[tiab]) AND (factor*[tiab] OR determinant*[tiab] OR predictor*[tiab] OR correlat*[tiab] OR associat*[tiab] OR influenc*[tiab] OR impact*[tiab])) AND english[lang] AND (\"2014/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication]) NOT (review[pt] OR \"systematic review\"[pt] OR meta-analysis[pt] OR editorial[pt] OR letter[pt] OR comment[pt] OR congresses[pt])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\04_Oncology\\41774244_2026\\without_laws"
+}

@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41708995_2026",
+  "query": "((\"ischemic stroke\"[tiab] OR \"ischaemic stroke\"[tiab] OR \"acute ischemic stroke\"[tiab] OR \"acute ischaemic stroke\"[tiab] OR \"cerebral ischemia\"[tiab] OR \"brain ischemia\"[tiab] OR \"stroke\"[MeSH Terms]) AND (\"biomarker\"[tiab] OR \"biomarkers\"[tiab] OR \"biological marker\"[tiab] OR \"biological markers\"[tiab] OR \"blood biomarker\"[tiab] OR \"serum biomarker\"[tiab] OR \"plasma biomarker\"[tiab] OR \"fluid biomarker\"[tiab] OR \"protein marker\"[tiab] OR \"metabolite\"[tiab] OR \"metabolites\"[tiab] OR \"microRNA\"[tiab] OR \"miRNA\"[tiab] OR \"circulating RNA\"[tiab] OR \"nucleic acid\"[tiab] OR \"Biological Markers\"[MeSH Terms]) AND (\"stroke mimic\"[tiab] OR \"stroke mimics\"[tiab] OR \"stroke mimic differentiation\"[tiab] OR \"differential diagnosis\"[tiab] OR \"diagnosis\"[tiab] OR \"differentiation\"[tiab]) AND (\"systematic review\"[tiab] OR \"meta-analysis\"[tiab] OR \"meta analysis\"[tiab] OR \"systematic review\"[pt] OR \"meta-analysis\"[pt]) AND (\"diffusion weighted imaging\"[tiab] OR \"DWI\"[tiab] OR \"diffusion MRI\"[tiab] OR \"MRI\"[tiab] OR \"magnetic resonance imaging\"[tiab]) AND (\"humans\"[MeSH Terms]))",
+  "status": "ok"
+}

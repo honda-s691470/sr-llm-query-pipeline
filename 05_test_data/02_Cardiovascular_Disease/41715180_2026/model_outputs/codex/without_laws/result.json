@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-13T10:35:21Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41715180_2026",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Heart Failure\"[Mesh] OR \"heart failure\"[tiab] OR \"cardiac failure\"[tiab] OR \"congestive heart failure\"[tiab]) AND ((\"prediction model\"[tiab] OR \"prediction models\"[tiab] OR \"predictive model\"[tiab] OR \"predictive models\"[tiab] OR \"prognostic model\"[tiab] OR \"prognostic models\"[tiab] OR \"risk model\"[tiab] OR \"risk models\"[tiab] OR \"clinical prediction model\"[tiab] OR \"clinical prediction models\"[tiab] OR \"risk score\"[tiab] OR \"risk scores\"[tiab] OR nomogram*[tiab]) OR ((\"Prognosis\"[Mesh] OR prognos*[tiab] OR predict*[tiab] OR risk*[tiab] OR validat*[tiab]) AND (model*[tiab] OR score*[tiab] OR rule*[tiab] OR equation*[tiab] OR algorithm*[tiab] OR regression[tiab] OR multivariat*[tiab] OR multivariable[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"artificial intelligence\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"random forest\"[tiab] OR \"random forests\"[tiab] OR \"support vector machine\"[tiab] OR \"support vector machines\"[tiab] OR \"decision tree\"[tiab] OR \"decision trees\"[tiab] OR xgboost[tiab] OR \"gradient boosting\"[tiab]))))",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260313_112516\\codex\\02_Cardiovascular_Disease\\41715180_2026\\without_laws"
+}

@@ -1,0 +1,3060 @@
+{
+  "papers": [
+    {
+      "title": "Acute Stroke Biomarkers: Are We There Yet?",
+      "authors": [
+        {
+          "name": "M. Dagonnier",
+          "id": "8334917"
+        },
+        {
+          "name": "G. Donnan",
+          "id": "144251920"
+        },
+        {
+          "name": "S. Davis",
+          "id": "2231025478"
+        },
+        {
+          "name": "H. Dewey",
+          "id": "3487327"
+        },
+        {
+          "name": "D. Howells",
+          "id": "3085016"
+        }
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Neurology",
+      "score": 0.8701802880454214,
+      "abstract": "Background: Distinguishing between stroke subtypes and knowing the time of stroke onset are critical in clinical practice. Thrombolysis and thrombectomy are very effective treatments in selected patients with acute ischemic stroke. Neuroimaging helps decide who should be treated and how they should be treated but is expensive, not always available and can have contraindications. These limitations contribute to the under use of these reperfusion therapies. Aim: An alternative approach in acute stroke diagnosis is to identify blood biomarkers which reflect the body's response to the damage caused by the different types of stroke. Specific blood biomarkers capable of differentiating ischemic from hemorrhagic stroke and mimics, identifying large vessel occlusion and capable of predicting stroke onset time would expedite diagnosis and increase eligibility for reperfusion therapies. Summary of Review: To date, measurements of candidate biomarkers have usually occurred beyond the time window for thrombolysis. Nevertheless, some candidate markers of brain tissue damage, particularly the highly abundant glial structural proteins like GFAP and S100β and the matrix protein MMP-9 offer promising results. Grouping of biomarkers in panels can offer additional specificity and sensitivity for ischemic stroke diagnosis. Unbiased “omics” approaches have great potential for biomarker identification because of greater gene, protein, and metabolite coverage but seem unlikely to be the detection methodology of choice because of their inherent cost. Conclusion: To date, despite the evolution of the techniques used in their evaluation, no individual candidate or multimarker panel has proven to have adequate performance for use in an acute clinical setting where decisions about an individual patient are being made. Timing of biomarker measurement, particularly early when decision making is most important, requires urgent and systematic study.",
+      "corpusId": 231808953,
+      "url": "https://api.semanticscholar.org/CorpusId:231808953",
+      "pubmed_id": "33633673",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fneur.2021.619721",
+        "matched_title": "Acute Stroke Biomarkers: Are We There Yet?",
+        "matched_pubdate": "2021",
+        "matched_source": "Front Neurol"
+      }
+    },
+    {
+      "title": "Multi-Level Biomarkers for Early Diagnosis of Ischaemic Stroke: A Systematic Review and Meta-Analysis",
+      "authors": [
+        {
+          "name": "Qianyun Li",
+          "id": "2238780345"
+        },
+        {
+          "name": "Lingyun Zhao",
+          "id": "2238919816"
+        },
+        {
+          "name": "Ching Long Chan",
+          "id": "2204466909"
+        },
+        {
+          "name": "Yilin Zhang",
+          "id": "2238715380"
+        },
+        {
+          "name": "See-Wai Tong",
+          "id": "34555411"
+        },
+        {
+          "name": "Xiaodan Zhang",
+          "id": "2238920264"
+        },
+        {
+          "name": "J. Ho",
+          "id": "2199676896"
+        },
+        {
+          "name": "Yaqing Jiao",
+          "id": "2238604490"
+        },
+        {
+          "name": "T. Rainer",
+          "id": "2238741709"
+        }
+      ],
+      "year": 2023,
+      "venue": "International Journal of Molecular Sciences",
+      "score": 0.8534717903772688,
+      "abstract": "Blood biomarkers hold potential for the early diagnosis of ischaemic stroke (IS). We aimed to evaluate the current weight of evidence and identify potential biomarkers and biological pathways for further investigation. We searched PubMed, EMBASE, the Cochrane Library and Web of Science, used R package meta4diag for diagnostic meta-analysis and applied Gene Ontology (GO) analysis to identify vital biological processes (BPs). Among 8544 studies, we included 182 articles with a total of 30,446 participants: 15675 IS, 2317 haemorrhagic stroke (HS), 1798 stroke mimics, 846 transient ischaemic attack and 9810 control subjects. There were 518 pooled biomarkers including 203 proteins, 114 genes, 108 metabolites and 88 transcripts. Our study generated two shortlists of biomarkers for future research: one with optimal diagnostic performance and another with low selection bias. Glial fibrillary acidic protein was eligible for diagnostic meta-analysis, with summary sensitivities and specificities for differentiating HS from IS between 3 h and 24 h after stroke onset ranging from 73% to 80% and 77% to 97%, respectively. GO analysis revealed the top five BPs associated with IS. This study provides a holistic view of early diagnostic biomarkers in IS. Two shortlists of biomarkers and five BPs warrant future investigation.",
+      "corpusId": 261640766,
+      "url": "https://api.semanticscholar.org/CorpusId:261640766",
+      "pubmed_id": "37762122",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ijms241813821",
+        "matched_title": "Multi-Level Biomarkers for Early Diagnosis of Ischaemic Stroke: A Systematic Review and Meta-Analysis.",
+        "matched_pubdate": "2023 Sep 7",
+        "matched_source": "Int J Mol Sci"
+      }
+    },
+    {
+      "title": "Cell-Free Nucleic Acids for Early Diagnosis of Acute Ischemic Stroke: A Systematic Review and Meta-Analysis",
+      "authors": [
+        {
+          "name": "Xiaodan Zhang",
+          "id": "2238920264"
+        },
+        {
+          "name": "Yuee Cai",
+          "id": "2345443459"
+        },
+        {
+          "name": "Brian Hon Man Sit",
+          "id": "2339259231"
+        },
+        {
+          "name": "Rain Xiaoyu Jian",
+          "id": "2345260253"
+        },
+        {
+          "name": "Yasine Malki",
+          "id": "2151808885"
+        },
+        {
+          "name": "Yilin Zhang",
+          "id": "2238715380"
+        },
+        {
+          "name": "Christopher Ong",
+          "id": "2339030521"
+        },
+        {
+          "name": "Qianyun Li",
+          "id": "2238780345"
+        },
+        {
+          "name": "R. Lam",
+          "id": "1708674"
+        },
+        {
+          "name": "T. Rainer",
+          "id": "2238741709"
+        }
+      ],
+      "year": 2025,
+      "venue": "International Journal of Molecular Sciences",
+      "score": 0.852954784293732,
+      "abstract": "Rapid identification of acute ischemic stroke (AIS) is challenging in both pre-hospital and hospital settings. We aimed to identify the most promising cell-free nucleic acids (cfNAs) as diagnostic biomarkers for IS within 72 h from symptom onset. We searched PubMed, Web of Science, EMBASE, and Cochrane Library for published articles that evaluated blood cfNAs in the early diagnosis of AIS until 10 May 2023. The diagnostic performances of individual cfNAs were pooled by random-effects meta-analysis based on the fold change of biomarkers’ level between AIS and non-AIS patients. Of 2955 records, 66 articles reporting 143 different cfNAs met the inclusion criteria. The median sample size was 110, and 21.4% of the studies performed validation. Among selected high-quality studies, miR-106b-5p, miR-124, miR-155, lncRNA H19, and cfDNA showed good diagnostic performance. Data from four studies on cfDNA involving 355 AIS patients and 97 controls were pooled in the meta-analysis, which showed a significant fold change between AIS and controls (pooled ratio 1.48, 95% confidence interval 1.23–1.79, p < 0.001). This review highlights that cfDNA, miR-106b-5p, miR-124, miR-155, and lncRNA H19 are the most promising biomarkers for AIS diagnosis, and further research is needed for verification.",
+      "corpusId": 276332500,
+      "url": "https://api.semanticscholar.org/CorpusId:276332500",
+      "pubmed_id": "40003998",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ijms26041530",
+        "matched_title": "Cell-Free Nucleic Acids for Early Diagnosis of Acute Ischemic Stroke: A Systematic Review and Meta-Analysis.",
+        "matched_pubdate": "2025 Feb 12",
+        "matched_source": "Int J Mol Sci"
+      }
+    },
+    {
+      "title": "Blood-based protein biomarkers during the acute ischemic stroke treatment window: a systematic review",
+      "authors": [
+        {
+          "name": "J. Rahmig",
+          "id": "116296088"
+        },
+        {
+          "name": "Aditya Chanpura",
+          "id": "2312628906"
+        },
+        {
+          "name": "Aaliyah Schultz",
+          "id": "2312635749"
+        },
+        {
+          "name": "Frank C. Barone",
+          "id": "2312633859"
+        },
+        {
+          "name": "Deborah Gustafson",
+          "id": "2312630630"
+        },
+        {
+          "name": "A. E. Baird",
+          "id": "2270017309"
+        }
+      ],
+      "year": 2024,
+      "venue": "Frontiers in Neurology",
+      "score": 0.8457071412772329,
+      "abstract": "Background Rapid and accurate acute ischemic stroke (AIS) diagnosis is needed to expedite emergent thrombolytic and mechanical thrombectomy treatment. Changes in blood-based protein biomarkers during the first 24 h of AIS, the time window for treatment, could complement imaging techniques and facilitate rapid diagnosis and treatment. Methods We performed a systematic review according to PRISMA guidelines. MEDLINE, EMBASE, Cochrane Library, and Web of Science databases were searched for eligible studies comparing levels of blood-based protein biomarkers in AIS patients with levels in healthy controls and stroke mimics. Protein biomarkers from the following pathophysiological categories were included: neurovascular inflammation (MMP-9, TNF-alpha), endothelial integrity (VCAM-1, ICAM-1), cell migration (E-Selectin, P-Selectin, L-Selectin), markers of glial and neuronal origin (GFAP, S100, S100B, NSE), and cardiac dysfunction (BNP, NT-proBNP). The literature search was limited to English-language publications before November 7th, 2023. Results A total of 61 studies from 20 different countries were identified, which included in total, 4,644 AIS patients, 2,242 stroke mimics, and 2,777 controls. Studies investigating TNF-alpha, MMP-9, VCAM-1, ICAM-1, E-Selectin, L-Selectin, GFAP, NSE, and S100B showed pronounced methodological heterogeneity, making between-study comparisons difficult. However, in 80% of NT-proBNP and BNP studies, and all P-selectin studies, higher biomarker levels were observed in AIS patients compared to healthy controls and/or patients with stroke mimics. Conclusion None of the biomarkers included showed sufficient evidence for additional diagnostic benefit for AIS. Comprehensive standardized global multicenter studies are needed to (1) permit comparability, (2) enable valid statements about protein-based biomarkers, and (3) reflect real-world scenarios.",
+      "corpusId": 271378447,
+      "url": "https://api.semanticscholar.org/CorpusId:271378447",
+      "pubmed_id": "39091977",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fneur.2024.1411307",
+        "matched_title": "Blood-based protein biomarkers during the acute ischemic stroke treatment window: a systematic review.",
+        "matched_pubdate": "2024",
+        "matched_source": "Front Neurol"
+      }
+    },
+    {
+      "title": "A biochemical marker panel in MRI-proven hyperacute ischemic stroke-a prospective study",
+      "authors": [
+        {
+          "name": "Carolin Knauer",
+          "id": "40604615"
+        },
+        {
+          "name": "K. Knauer",
+          "id": "35251715"
+        },
+        {
+          "name": "S. Müller",
+          "id": "88315858"
+        },
+        {
+          "name": "A. Ludolph",
+          "id": "1936326"
+        },
+        {
+          "name": "D. Bengel",
+          "id": "3552223"
+        },
+        {
+          "name": "H. Müller",
+          "id": "2151194801"
+        },
+        {
+          "name": "R. Huber",
+          "id": "144648570"
+        }
+      ],
+      "year": 2012,
+      "venue": "BMC Neurology",
+      "score": 0.7997853086289152,
+      "abstract": "BackgroundComputer tomography (CT) is still the fastest and most robust technique to rule out ICH in acute stroke. However CT-sensitivity for detection of ischemic stroke in the hyperacute phase is still relatively low. Moreover the validity of pure clinical judgment is diminished by several stroke imitating diseases (mimics). The \"Triage® Stroke Panel\", a biochemical multimarker assay, detects Brain Natriuretic Peptide (BNP), D-Dimers (DD), Matrix-Metalloproteinase-9 (MMP-9), and S100B protein and promptly generates a Multimarkerindex of these values (MMX). This index has been licensed for diagnostic purposes as it might increase the validity of the clinical diagnosis to differentiate between stroke imitating diseases and true ischemic strokes. Our aim was to prove whether the panel is a reliable indicating device for the diagnosis of ischemic stroke in a time window of 6 h to fasten the pre- and intrahospital pathway to fibrinolysis.MethodsWe investigated all consecutive patients admitted to our stroke unit during a time period of 5 months. Only patients with clinical investigation, blood sample collection and MRI within six hours from symptom onset were included. Values of biochemical markers were analyzed according to the results of diffusion weighted MR-imaging. In addition MMX-values in ischemic strokes were correlated with the TOAST-criteria. For statistical analysis the SAS Analyst software was used. Correlation coefficients were analyzed and comparison tests for two or more groups were performed. Statistical significance was assumed in case of p < 0.05. Finally a ROC-analysis was performed for the MMX-Index.ResultsIn total 174 patients were included into this study (n = 100 strokes, n = 49 mimics, n = 25 transitoric ischemic attacks). In patients with ischemic strokes the mean NIHSS was 7.6 ± 6.2, while the mean DWI-lesion volume was 20.6 ml (range 186.9 to 4.2 ml). According to the MMX or the individual markers there was no statistically significant difference between the group of ischemic strokes and the group of mimics. Moreover the correlation of the index and the DWI-lesion-volume was poor (p = 0.2).ConclusionsIn our setting of acute MRI-proven ischemic stroke the used multimarker-assay (Triage® Stroke Panel) was not of diagnostic validity. We do not recommend to perform this assay as this might lead to a unjustified time delay.",
+      "corpusId": 14141174,
+      "url": "https://api.semanticscholar.org/CorpusId:14141174",
+      "pubmed_id": "22400994",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/1471-2377-12-14",
+        "matched_title": "A biochemical marker panel in MRI-proven hyperacute ischemic stroke-a prospective study.",
+        "matched_pubdate": "2012 Mar 8",
+        "matched_source": "BMC Neurol"
+      }
+    },
+    {
+      "title": "Circulating Metabolites Differentiate Acute Ischemic Stroke from Stroke Mimics",
+      "authors": [
+        {
+          "name": "S. Tiedt",
+          "id": "83581828"
+        },
+        {
+          "name": "S. Brandmaier",
+          "id": "3136188"
+        },
+        {
+          "name": "Hanna Kollmeier",
+          "id": "1857528611"
+        },
+        {
+          "name": "Marco Duering",
+          "id": "2211942"
+        },
+        {
+          "name": "A. Artati",
+          "id": "3990516"
+        },
+        {
+          "name": "J. Adamski",
+          "id": "2786762"
+        },
+        {
+          "name": "Matthias Klein",
+          "id": "2116481272"
+        },
+        {
+          "name": "T. Liebig",
+          "id": "144325802"
+        },
+        {
+          "name": "L. Holdt",
+          "id": "5932621"
+        },
+        {
+          "name": "D. Teupser",
+          "id": "4529848"
+        },
+        {
+          "name": "R. Wang-Sattler",
+          "id": "1398267768"
+        },
+        {
+          "name": "E. Schwedhelm",
+          "id": "5972580"
+        },
+        {
+          "name": "C. Gieger",
+          "id": "3281482"
+        },
+        {
+          "name": "M. Dichgans",
+          "id": "2087823"
+        }
+      ],
+      "year": 2020,
+      "venue": "Annals of Neurology",
+      "score": 0.7396431414597545,
+      "abstract": "Early discrimination of patients with ischemic stroke (IS) from stroke mimics (SMs) poses a diagnostic challenge. The circulating metabolome might reflect pathophysiological events related to acute IS. Here, we investigated the utility of early metabolic changes for differentiating IS from SM.",
+      "corpusId": 220964633,
+      "url": "https://api.semanticscholar.org/CorpusId:220964633",
+      "pubmed_id": "32748431",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/ana.25859",
+        "matched_title": "Circulating Metabolites Differentiate Acute Ischemic Stroke from Stroke Mimics.",
+        "matched_pubdate": "2020 Oct",
+        "matched_source": "Ann Neurol"
+      }
+    },
+    {
+      "title": "Blood protein biomarkers as diagnostic tool for ischemic stroke: a systematic review.",
+      "authors": [
+        {
+          "name": "Thomas Monbailliu",
+          "id": "46477129"
+        },
+        {
+          "name": "J. Goossens",
+          "id": "47541143"
+        },
+        {
+          "name": "S. Hachimi-Idrissi",
+          "id": "1398304238"
+        }
+      ],
+      "year": 2017,
+      "venue": "Biomarkers in Medicine",
+      "score": 0.7232989245056004,
+      "abstract": "",
+      "corpusId": 3609808,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/28598212",
+      "pubmed_id": "28598212",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2217/bmm-2016-0232",
+        "matched_title": "Blood protein biomarkers as diagnostic tool for ischemic stroke: a systematic review.",
+        "matched_pubdate": "2017 May",
+        "matched_source": "Biomark Med"
+      }
+    },
+    {
+      "title": "A Systematic Review and Meta-Analysis Assessing the Accuracy of Blood Biomarkers for the Diagnosis of Ischemic Stroke in Adult and Elderly Populations",
+      "authors": [
+        {
+          "name": "Suebsarn Ruksakulpiwat",
+          "id": "2281630389"
+        },
+        {
+          "name": "Wendie Zhou",
+          "id": "1409851091"
+        },
+        {
+          "name": "Lalipat Phianhasin",
+          "id": "2145592077"
+        },
+        {
+          "name": "Chitchanok Benjasirisan",
+          "id": "2145591957"
+        },
+        {
+          "name": "Tingyu Su",
+          "id": "2330320868"
+        },
+        {
+          "name": "Heba M. Aldossary",
+          "id": "2296350177"
+        },
+        {
+          "name": "Aaron Kudlowitz",
+          "id": "2181641445"
+        },
+        {
+          "name": "Abhilash K. Challa",
+          "id": "2320203814"
+        },
+        {
+          "name": "Jingshu Li",
+          "id": "2239397000"
+        },
+        {
+          "name": "Kulsatree Praditukrit",
+          "id": "2128181553"
+        }
+      ],
+      "year": 2024,
+      "venue": "eNeuro",
+      "score": 0.7189548516111046,
+      "abstract": "This study aims to elucidate the methodology and compare the accuracy of different blood biomarkers for diagnosing ischemic stroke (IS). We reviewed 29 articles retrieved from PubMed, MEDLINE, Web of Science, and CINAHL Plus with Full Text. Among these, 23 articles involving 3,494 participants were suitable for meta-analysis. The pooled area under the curve (AUC) of all studies for meta-analysis was 0.89. The pooled sensitivity and specificity were 0.76 (0.74–0.78) and 0.84 (0.83–0.86), respectively. Blood biomarkers from noninpatient settings demonstrated better diagnostic performance than those in inpatient settings (AUC 0.91 vs 0.88). Smaller sample sizes (<100) showed better performance than larger ones (≥100; AUC 0.92 vs 0.86). Blood biomarkers from acute IS (AIS) patients showed higher diagnostic values than those from IS and other stroke types (AUC 0.91 vs 0.87). The diagnostic performance of multiple blood biomarkers was superior to that of a single biomarker (AUC 0.91 vs 0.88). The diagnostic value of blood biomarkers from Caucasians was higher than that from Asians and Africans (AUC 0.90 vs 0.89, 0.75). Blood biomarkers from those with comorbidities (AUC 0.92) showed a better diagnostic performance than those not reporting comorbidities (AUC 0.84). All the subgroups analyzed, including setting, sample size, target IS population, blood biomarker profiling, ethnicity, and comorbidities could lead to heterogeneity. Blood biomarkers have demonstrated sufficient diagnostic accuracy for diagnosing IS and hold promise for integration into routine clinical practice. However, further research is recommended to refine the optimal model for utilizing blood biomarkers in IS diagnosis.",
+      "corpusId": 273989104,
+      "url": "https://api.semanticscholar.org/CorpusId:273989104",
+      "pubmed_id": "39528275",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1523/eneuro.0302-24.2024",
+        "matched_title": "A Systematic Review and Meta-Analysis Assessing the Accuracy of Blood Biomarkers for the Diagnosis of Ischemic Stroke in Adult and Elderly Populations.",
+        "matched_pubdate": "2024 Nov",
+        "matched_source": "eNeuro"
+      }
+    },
+    {
+      "title": "Targeted Lipid Profiling Discovers Plasma Biomarkers of Acute Brain Injury",
+      "authors": [
+        {
+          "name": "S. Sheth",
+          "id": "31965568"
+        },
+        {
+          "name": "A. Iavarone",
+          "id": "36692722"
+        },
+        {
+          "name": "D. Liebeskind",
+          "id": "3091212"
+        },
+        {
+          "name": "S. Won",
+          "id": "3905249"
+        },
+        {
+          "name": "R. Swanson",
+          "id": "1983352"
+        }
+      ],
+      "year": 2015,
+      "venue": "PLoS ONE",
+      "score": 0.7180804141019161,
+      "abstract": "Prior efforts to identify a blood biomarker of brain injury have relied almost exclusively on proteins; however their low levels at early time points and poor correlation with injury severity have been limiting. Lipids, on the other hand, are the most abundant molecules in the brain and readily cross the blood-brain barrier. We previously showed that certain sphingolipid (SL) species are highly specific to the brain. Here we examined the feasibility of using SLs as biomarkers for acute brain injury. A rat model of traumatic brain injury (TBI) and a mouse model of stroke were used to identify candidate SL species though our mass-spectrometry based lipid profiling approach. Plasma samples collected after TBI in the rat showed large increases in many circulating SLs following injury, and larger lesions produced proportionately larger increases. Plasma samples collected 24 hours after stroke in mice similarly revealed a large increase in many SLs. We constructed an SL score (sum of the two SL species showing the largest relative increases in the mouse stroke model) and then evaluated the diagnostic value of this score on a small sample of patients (n = 14) who presented with acute stroke symptoms. Patients with true stroke had significantly higher SL scores than patients found to have non-stroke causes of their symptoms. The SL score correlated with the volume of ischemic brain tissue. These results demonstrate the feasibility of using lipid biomarkers to diagnose brain injury. Future studies will be needed to further characterize the diagnostic utility of this approach and to transition to an assay method applicable to clinical settings.",
+      "corpusId": 8265801,
+      "url": "https://api.semanticscholar.org/CorpusId:8265801",
+      "pubmed_id": "26076478",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0129735",
+        "matched_title": "Targeted Lipid Profiling Discovers Plasma Biomarkers of Acute Brain Injury.",
+        "matched_pubdate": "2015",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Performance of GFAP and UCH-L1 for Early Acute Stroke Diagnosis in the Emergency Department",
+      "authors": [
+        {
+          "name": "D. Popa",
+          "id": "2275878434"
+        },
+        {
+          "name": "F. Buleu",
+          "id": "19313678"
+        },
+        {
+          "name": "Aida Iancu",
+          "id": "31522654"
+        },
+        {
+          "name": "A. Tudor",
+          "id": "2217003"
+        },
+        {
+          "name": "C. Williams",
+          "id": "2276042890"
+        },
+        {
+          "name": "Dumitru Șutoi",
+          "id": "2149625703"
+        },
+        {
+          "name": "A. M. Marza",
+          "id": "2047661791"
+        },
+        {
+          "name": "C. Trebuian",
+          "id": "2253993618"
+        },
+        {
+          "name": "A. Cîndrea",
+          "id": "2258772049"
+        },
+        {
+          "name": "Marius Militaru",
+          "id": "2295179738"
+        },
+        {
+          "name": "C. Levai",
+          "id": "7215831"
+        },
+        {
+          "name": "S. Burtic",
+          "id": "2267653697"
+        },
+        {
+          "name": "A. Pah",
+          "id": "19250084"
+        },
+        {
+          "name": "Laura Maria Craciun",
+          "id": "2318463251"
+        },
+        {
+          "name": "Livia Ciolac",
+          "id": "2264266475"
+        },
+        {
+          "name": "T. Olariu",
+          "id": "2497168"
+        },
+        {
+          "name": "O. Mederle",
+          "id": "2148555034"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.6999726127993513,
+      "abstract": "Background: Rapid identification and treatment of stroke are essential for the patient. Our objective was to determine the diagnostic utility of glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) in the emergency department to identify and differentiate acute stroke within 4.5 h of symptom onset in patients admitted with a stroke code alert. Methods: This study included 85 patients with a “code stroke alert” upon arrival at the emergency department. Individuals were grouped in two categories: patients with stroke (including 69 patients) and patients without stroke (including 16 patients). The research was conducted at the Emergency Municipal Clinical Hospital in Timișoara, Romania, the county’s second-largest hospital, which lacks a neurologist and a dedicated stroke unit. Results: No significant differences were observed between the two groups (with stroke and without stroke) regarding most demographic or admission parameters. Significant differences were observed for the biomarkers GFAP (142.91 ± 102.19 pg/mL in patients with acute stroke vs. 37.76 ± 19.92 pg/mL in patients without stroke (p < 0.001)) and UCH-L1 (1307.68 ± 967.54 pg/mL in stroke patients vs. 189.81 ± 92.69 pg/mL in patients without stroke (p < 0.001)). Within the stroke group, 37 patients had acute ischemic stroke, while 32 patients were diagnosed with hemorrhagic stroke based on brain CT imaging. GFAP achieved an accuracy of 94.2% for differentiating hemorrhagic from ischemic stroke, with a cut-off value of 77.15 pg/mL. Conclusions: GFAP excellently differentiated acute stroke from stroke mimics, with high sensitivity, perfect specificity, and strong predictive values. Integrating GFAP and UCH-L1 measurements into emergency protocols may enhance stroke diagnosis, optimize patient triage, and ultimately improve outcomes by facilitating the faster initiation of appropriate therapies.",
+      "corpusId": 280005290,
+      "url": "https://api.semanticscholar.org/CorpusId:280005290",
+      "pubmed_id": "40649119",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/jcm14134746",
+        "matched_title": "Performance of GFAP and UCH-L1 for Early Acute Stroke Diagnosis in the Emergency Department.",
+        "matched_pubdate": "2025 Jul 4",
+        "matched_source": "J Clin Med"
+      }
+    },
+    {
+      "title": "Diagnosis and prognostic value of circDLGAP4 in acute ischemic stroke and its correlation with outcomes",
+      "authors": [
+        {
+          "name": "Ying Bai",
+          "id": "2115233034"
+        },
+        {
+          "name": "Hui Ren",
+          "id": "2114293369"
+        },
+        {
+          "name": "Yi Zhu",
+          "id": "2117912934"
+        },
+        {
+          "name": "Xufeng Chen",
+          "id": "2376800111"
+        },
+        {
+          "name": "Jiangyan Xia",
+          "id": "11523476"
+        },
+        {
+          "name": "Guofang Shu",
+          "id": "145186828"
+        },
+        {
+          "name": "Bing Han",
+          "id": "2153287383"
+        }
+      ],
+      "year": 2022,
+      "venue": "Frontiers in Neurology",
+      "score": 0.6950980243361294,
+      "abstract": "Rationale and aims Circular RNAs are a subclass of noncoding RNAs in mammalian cells and highly expressed in the central nervous system. Although their physiological functions are not yet completely defined, they are thought to promise as stroke biomarkers because of their stability in peripheral blood. Sample Size Estimate: 222 participants. Methods and design The plasma of patients with acute ischemic stroke (AIS) (n = 111) and non-stroke controls (n = 111) from November 2017 to February 2019 were enrolled in our research. The expression of circDLGAP4 in plasma was evaluated using real-time PCR. Study outcomes In patients with AIS, circDLGAP4 was significantly decreased in comparison with non-stroke controls. The CircDLGAP4 level had a significant AUC of 0.7896 with 91.72% sensitivity and 64.83% specificity in diagnosing AIS. Furthermore, the circDLGAP4 level was related to smoking history and previous transient ischemic attack/stroke/myocardial infarction in all samples. The change rate in circDLGAP4 within the first 7 days showed an AUC curve of 0.960 in predicting an stroke outcome. Conclusion circDLGAP4 could serve as biomarker for AIS diagnosis and prediction of stroke outcomes.",
+      "corpusId": 251139372,
+      "url": "https://api.semanticscholar.org/CorpusId:251139372",
+      "pubmed_id": "35968318",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fneur.2022.931435",
+        "matched_title": "Diagnosis and prognostic value of circDLGAP4 in acute ischemic stroke and its correlation with outcomes.",
+        "matched_pubdate": "2022",
+        "matched_source": "Front Neurol"
+      }
+    },
+    {
+      "title": "Blood Biomarkers in the Diagnosis of Ischemic Stroke: A Systematic Review",
+      "authors": [
+        {
+          "name": "W. Whiteley",
+          "id": "2993215"
+        },
+        {
+          "name": "M. Tseng",
+          "id": "80594948"
+        },
+        {
+          "name": "P. Sandercock",
+          "id": "144007987"
+        }
+      ],
+      "year": 2008,
+      "venue": "Stroke",
+      "score": 0.683259804485815,
+      "abstract": "",
+      "corpusId": 1708473,
+      "url": "https://doi.org/10.1161/STROKEAHA.107.511261",
+      "pubmed_id": "18658039",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1161/STROKEAHA.107.511261",
+        "matched_title": "Blood biomarkers in the diagnosis of ischemic stroke: a systematic review.",
+        "matched_pubdate": "2008 Oct",
+        "matched_source": "Stroke"
+      }
+    },
+    {
+      "title": "Acute ischemic stroke biomarkers: a new era with diagnostic promise?",
+      "authors": [
+        {
+          "name": "Shadi Bsat",
+          "id": "1572816158"
+        },
+        {
+          "name": "Adham F Halaoui",
+          "id": "121360976"
+        },
+        {
+          "name": "F. Kobeissy",
+          "id": "1809399"
+        },
+        {
+          "name": "C. Moussalem",
+          "id": "51260099"
+        },
+        {
+          "name": "M. E. El Houshiemy",
+          "id": "2122596142"
+        },
+        {
+          "name": "S. Kawtharani",
+          "id": "88829257"
+        },
+        {
+          "name": "I. Omeis",
+          "id": "7019313"
+        }
+      ],
+      "year": 2021,
+      "venue": "Acute Medicine & Surgery",
+      "score": 0.6685970150867463,
+      "abstract": "Stroke is considered as the first cause of neurological dysfunction and second cause of death worldwide. Recombinant tissue plasminogen activator is the only chemical treatment for ischemic stroke approved by the US Food and Drug Administration. It was the only standard of care for a long time with a very narrow therapeutic window, which usually ranges from 3 to 4.5 h of stroke onset; until 2015, when multiple trials demonstrated the benefit of mechanical thrombectomy during the first 6 h. In addition, recent trials showed that mechanical thrombectomy can be beneficial up to 24 h if the patients meet certain criteria including the presence of magnetic resonance imaging/computed tomography perfusion mismatch, which allows better selectivity and higher recruitment of eligible stroke patients. However, magnetic resonance imaging/computed tomography perfusion is not available in all stroke centers. Hence, physicians need other easy and available diagnostic tools to select stroke patients eligible for mechanical thrombectomy. Moreover, stroke management is still challenging for physicians, particularly those dealing with patients with “wake‐up” stroke. The resulting brain tissue damage of ischemic stroke and the subsequent pathological processes are mediated by multiple molecular pathways that are modulated by inflammatory markers and post‐transcriptional activity. A considerable number of published works suggest the role of inflammatory and cardiac brain‐derived biomarkers (serum matrix metalloproteinase, thioredoxin, neuronal and glial markers, and troponin proteins) as well as different biomarkers including the emerging roles of microRNAs. In this review, we assess the accumulating evidence regarding the current status of acute ischemic stroke diagnostic biomarkers that could guide physicians for better management of stroke patients. Our review could give an insight into the roles of the different emerging markers and microRNAs that can be of high diagnostic value in patients with stroke. In fact, the field of stroke research, similar to the field of traumatic brain injury, is in immense need for novel biomarkers that can stratify diagnosis, prognosis, and therapy.",
+      "corpusId": 240172992,
+      "url": "https://api.semanticscholar.org/CorpusId:240172992",
+      "pubmed_id": "34745637",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/ams2.696",
+        "matched_title": "Acute ischemic stroke biomarkers: a new era with diagnostic promise?",
+        "matched_pubdate": "2021 Jan-Dec",
+        "matched_source": "Acute Med Surg"
+      }
+    },
+    {
+      "title": "Glial fibrillary acidic protein for the early diagnosis of intracerebral hemorrhage: Systematic review and meta-analysis of diagnostic test accuracy",
+      "authors": [
+        {
+          "name": "L. Perry",
+          "id": "23527889"
+        },
+        {
+          "name": "T. Lucarelli",
+          "id": "1402650051"
+        },
+        {
+          "name": "J. Penny-Dimri",
+          "id": "1398770162"
+        },
+        {
+          "name": "M. McInnes",
+          "id": "4740897"
+        },
+        {
+          "name": "S. Mondello",
+          "id": "4456666"
+        },
+        {
+          "name": "A. Bustamante",
+          "id": "145696449"
+        },
+        {
+          "name": "J. Montaner",
+          "id": "3345670"
+        },
+        {
+          "name": "C. Foerch",
+          "id": "5157808"
+        },
+        {
+          "name": "P. Kwan",
+          "id": "1931199"
+        },
+        {
+          "name": "S. Davis",
+          "id": "2231025478"
+        },
+        {
+          "name": "B. Yan",
+          "id": "143673762"
+        }
+      ],
+      "year": 2018,
+      "venue": "International Journal of Stroke",
+      "score": 0.6388701983898424,
+      "abstract": "",
+      "corpusId": 52956722,
+      "url": "https://doi.org/10.1177/1747493018806167",
+      "pubmed_id": "30303809",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1177/1747493018806167",
+        "matched_title": "Glial fibrillary acidic protein for the early diagnosis of intracerebral hemorrhage: Systematic review and meta-analysis of diagnostic test accuracy.",
+        "matched_pubdate": "2019 Jun",
+        "matched_source": "Int J Stroke"
+      }
+    },
+    {
+      "title": "Blood Biomarkers for the Early Diagnosis of Stroke: The Stroke-Chip Study",
+      "authors": [
+        {
+          "name": "A. Bustamante",
+          "id": "145696449"
+        },
+        {
+          "name": "E. López‐Cancio",
+          "id": "1398389984"
+        },
+        {
+          "name": "S. Pich",
+          "id": "46873927"
+        },
+        {
+          "name": "A. Penalba",
+          "id": "144726872"
+        },
+        {
+          "name": "Dolors Giralt",
+          "id": "3852856"
+        },
+        {
+          "name": "Teresa García-Berrocoso",
+          "id": "1398205578"
+        },
+        {
+          "name": "Carles Ferrer-Costa",
+          "id": "1398279374"
+        },
+        {
+          "name": "T. Gasull",
+          "id": "6882384"
+        },
+        {
+          "name": "M. Hernández-Pérez",
+          "id": "1398513952"
+        },
+        {
+          "name": "M. Millán",
+          "id": "144118826"
+        },
+        {
+          "name": "M. Rubiera",
+          "id": "4319026"
+        },
+        {
+          "name": "P. Cardona",
+          "id": "144186388"
+        },
+        {
+          "name": "L. Cano",
+          "id": "144098585"
+        },
+        {
+          "name": "H. Quesada",
+          "id": "3873205"
+        },
+        {
+          "name": "M. Terceño",
+          "id": "9958091"
+        },
+        {
+          "name": "Y. Silva",
+          "id": "1762264"
+        },
+        {
+          "name": "M. Castellanos",
+          "id": "145007837"
+        },
+        {
+          "name": "M. Garcés",
+          "id": "11625705"
+        },
+        {
+          "name": "S. Reverté",
+          "id": "3664779"
+        },
+        {
+          "name": "X. Ustrell",
+          "id": "6897787"
+        },
+        {
+          "name": "R. Mares",
+          "id": "48203858"
+        },
+        {
+          "name": "J. Baiges",
+          "id": "145338217"
+        },
+        {
+          "name": "J. Serena",
+          "id": "144785754"
+        },
+        {
+          "name": "F. Rubio",
+          "id": "153923876"
+        },
+        {
+          "name": "E. Salas",
+          "id": "98669627"
+        },
+        {
+          "name": "A. Dávalos",
+          "id": "144433539"
+        },
+        {
+          "name": "J. Montaner",
+          "id": "3345670"
+        }
+      ],
+      "year": 2017,
+      "venue": "Stroke",
+      "score": 0.6231198958313776,
+      "abstract": "",
+      "corpusId": 3722191,
+      "url": "https://doi.org/10.1161/STROKEAHA.117.017076",
+      "pubmed_id": "28716979",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1161/STROKEAHA.117.017076",
+        "matched_title": "Blood Biomarkers for the Early Diagnosis of Stroke: The Stroke-Chip Study.",
+        "matched_pubdate": "2017 Sep",
+        "matched_source": "Stroke"
+      }
+    },
+    {
+      "title": "Proteomics to Identify New Blood Biomarkers for Diagnosing Patients With Acute Stroke",
+      "authors": [
+        {
+          "name": "J. Marto",
+          "id": "40214422"
+        },
+        {
+          "name": "A. S. Carvalho",
+          "id": "2237975842"
+        },
+        {
+          "name": "Inês G Mollet",
+          "id": "2266016872"
+        },
+        {
+          "name": "Marcelo D Mendonça",
+          "id": "2266020526"
+        },
+        {
+          "name": "Manuel Salavisa",
+          "id": "19244440"
+        },
+        {
+          "name": "Bruna Meira",
+          "id": "31056943"
+        },
+        {
+          "name": "Marco Fernandes",
+          "id": "143872380"
+        },
+        {
+          "name": "F. Serrazina",
+          "id": "1498058025"
+        },
+        {
+          "name": "Gonçalo Cabral",
+          "id": "2047565028"
+        },
+        {
+          "name": "Rita Ventura",
+          "id": "2066274616"
+        },
+        {
+          "name": "André Sobral-Pinho",
+          "id": "2210629292"
+        },
+        {
+          "name": "H. Beck",
+          "id": "2237826421"
+        },
+        {
+          "name": "Helena L. A. Vieira",
+          "id": "2199570973"
+        },
+        {
+          "name": "Miguel Viana-Baptista",
+          "id": "2251275295"
+        },
+        {
+          "name": "R. Matthiesen",
+          "id": "2489943"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease",
+      "score": 0.6149357075174824,
+      "abstract": "Background Blood biomarkers are a potential tool for early stroke diagnosis. We aimed to perform a pilot and exploratory study on untargeted blood biomarkers in patients with suspected stroke by using mass spectrometry analysis. Methods and Results This was a prospective observational study of consecutive patients with suspected stroke admitted within 6 hours of last being seen well. Blood samples were collected at admission. Patients were divided into 3 groups: ischemic stroke (IS), intracerebral hemorrhage (ICH), and stroke mimics. Quantitative analysis from mass spectrometry data was performed using a supervised approach. Biomarker‐based prediction models were developed to differentiate IS from ICH and ICH+stroke mimics. Models were built aiming to minimize misidentification of patients with ICH as having IS. We included 90 patients, one‐third within each subgroup. The median age was 71 years (interquartile range, 57–81 years), and 49 participants (54.4%) were women. In quantitative analysis, C3 (complement component 3), ICAM‐2 (intercellular adhesion molecule 2), PLGLA (plasminogen like A), STXBP5 (syntaxin‐binding protein 5), and IGHV3‐64 (immunoglobulin heavy variable 3‐64) were the 5 most significantly dysregulated proteins for both comparisons. Biomarker‐based models showed 88% sensitivity and 89% negative predictive value for differentiating IS from ICH, and 75% sensitivity and 95% negative predictive value for differentiating IS from ICH+stroke mimics. ICAM‐2, STXBP5, PLGLA, C3, and IGHV3‐64 displayed the highest importance score in our models, being the most informative for identifying patients with stroke. Conclusions In this proof‐of‐concept and exploratory study, our biomarker‐based prediction models, including ICAM‐2, STXBP5, PLGLA, C3, and IGHV3‐64, showed 75% to 88% sensitivity for identifying patients with IS, while aiming to minimize misclassification of ICH. Although our methodology provided an internal validation, these results still need validation in other cohorts and with different measurement techniques.",
+      "corpusId": 265103592,
+      "url": "https://api.semanticscholar.org/CorpusId:265103592",
+      "pubmed_id": "37947097",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1161/jaha.123.030021",
+        "matched_title": "Proteomics to Identify New Blood Biomarkers for Diagnosing Patients With Acute Stroke.",
+        "matched_pubdate": "2023 Nov 21",
+        "matched_source": "J Am Heart Assoc"
+      }
+    },
+    {
+      "title": "Blood biomarkers for the diagnosis and differentiation of stroke: A systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "S. Misra",
+          "id": "4641529"
+        },
+        {
+          "name": "J. Montaner",
+          "id": "3345670"
+        },
+        {
+          "name": "Laura Ramiro",
+          "id": "28964547"
+        },
+        {
+          "name": "R. Arora",
+          "id": "2066378073"
+        },
+        {
+          "name": "P. Talwar",
+          "id": "24790613"
+        },
+        {
+          "name": "M. Nath",
+          "id": "152901680"
+        },
+        {
+          "name": "Amit Kumar",
+          "id": "2123128815"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "id": "2005463043"
+        },
+        {
+          "name": "A. Pandit",
+          "id": "4556406"
+        },
+        {
+          "name": "D. Mohania",
+          "id": "11217711"
+        },
+        {
+          "name": "K. Prasad",
+          "id": "144672244"
+        },
+        {
+          "name": "D. Vibha",
+          "id": "6721399"
+        }
+      ],
+      "year": 2020,
+      "venue": "International Journal of Stroke",
+      "score": 0.5848155227948288,
+      "abstract": "",
+      "corpusId": 220965051,
+      "url": "https://doi.org/10.1177/1747493020946157",
+      "pubmed_id": "32746751",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1177/1747493020946157",
+        "matched_title": "Blood biomarkers for the diagnosis and differentiation of stroke: A systematic review and meta-analysis.",
+        "matched_pubdate": "2020 Oct",
+        "matched_source": "Int J Stroke"
+      }
+    },
+    {
+      "title": "Clinical Usefulness of a Biomarker-Based Diagnostic Test for Acute Stroke: The Biomarker Rapid Assessment in Ischemic Injury (BRAIN) Study",
+      "authors": [
+        {
+          "name": "D. Laskowitz",
+          "id": "4429565"
+        },
+        {
+          "name": "S. Kasner",
+          "id": "5082640"
+        },
+        {
+          "name": "J. Saver",
+          "id": "2054356941"
+        },
+        {
+          "name": "K. Remmel",
+          "id": "6884004"
+        },
+        {
+          "name": "E. Jauch",
+          "id": "5688229"
+        }
+      ],
+      "year": 2009,
+      "venue": "Stroke",
+      "score": 0.5830324405600567,
+      "abstract": "",
+      "corpusId": 14576893,
+      "url": "https://doi.org/10.1161/STROKEAHA.108.516377",
+      "pubmed_id": "18948614",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1161/STROKEAHA.108.516377",
+        "matched_title": "Clinical usefulness of a biomarker-based diagnostic test for acute stroke: the Biomarker Rapid Assessment in Ischemic Injury (BRAIN) study.",
+        "matched_pubdate": "2009 Jan",
+        "matched_source": "Stroke"
+      }
+    },
+    {
+      "title": "Plasma biomarkers in the diagnosis of acute ischemic stroke.",
+      "authors": [
+        {
+          "name": "M. Kim",
+          "id": "3652642"
+        },
+        {
+          "name": "S. Kang",
+          "id": "144750012"
+        },
+        {
+          "name": "M. Kim",
+          "id": "21850600"
+        },
+        {
+          "name": "Woo-In Lee",
+          "id": "82408899"
+        }
+      ],
+      "year": 2010,
+      "venue": "Annals of Clinical and Laboratory Science",
+      "score": 0.5707323062931087,
+      "abstract": "",
+      "corpusId": 29377688,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/20947807",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Early biomarkers of stroke.",
+      "authors": [
+        {
+          "name": "M. A. Reynolds",
+          "id": "145726755"
+        },
+        {
+          "name": "H. Kirchick",
+          "id": "4481622"
+        },
+        {
+          "name": "J. Dahlen",
+          "id": "32186273"
+        },
+        {
+          "name": "Joseph Anderberg",
+          "id": "2086038787"
+        },
+        {
+          "name": "P. Mcpherson",
+          "id": "145521031"
+        },
+        {
+          "name": "Kevin Nakamura",
+          "id": "2110884858"
+        },
+        {
+          "name": "D. Laskowitz",
+          "id": "4429565"
+        },
+        {
+          "name": "G. Valkirs",
+          "id": "4245929"
+        },
+        {
+          "name": "K. Buechler",
+          "id": "47318478"
+        }
+      ],
+      "year": 2003,
+      "venue": "Clinical Chemistry",
+      "score": 0.5670070905858271,
+      "abstract": "",
+      "corpusId": 6550505,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/14500614",
+      "pubmed_id": "14500614",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1373/49.10.1733",
+        "matched_title": "Early biomarkers of stroke.",
+        "matched_pubdate": "2003 Oct",
+        "matched_source": "Clin Chem"
+      }
+    },
+    {
+      "title": "Discovery of a New Biomarker Pattern for Differential Diagnosis of Acute Ischemic Stroke Using Targeted Metabolomics",
+      "authors": [
+        {
+          "name": "Ruitan Sun",
+          "id": "84183300"
+        },
+        {
+          "name": "Yan Li",
+          "id": "2152885342"
+        },
+        {
+          "name": "M. Cai",
+          "id": "2032931690"
+        },
+        {
+          "name": "Yunfeng Cao",
+          "id": "3058720"
+        },
+        {
+          "name": "Xiangyu Piao",
+          "id": "5418962"
+        }
+      ],
+      "year": 2019,
+      "venue": "Frontiers in Neurology",
+      "score": 0.5665460524694479,
+      "abstract": "Stroke is one of the leading causes of disability all over the world. However, biomarkers for fast differential diagnosis of acute ischemic stroke (AIS) from vertigo or headache, remains lacking. Using a direct-infusion mass spectrometry method, it is possible to establish an efficient method for AIS differential diagnosis that requires only a few minutes. Thirty-eight clearly diagnosed AIS patients and 46 patients with a main complaint of vertigo were enrolled in this study. There was a total of 58 metabolites that were measured by our targeted metabolomics method, and the data were analyzed by pattern recognition algorithms. As a result, a clear classification between AIS and vertigo patients was achieved. Acylcarnitines are the major discriminating metabolites between the two groups. Arginine and its ratio, which is related to urea cycle metabolites, including arginine/ornithine and citrulline/arginine, also accounted for the classification. Interestingly, the levels of these metabolites were also found to be restored among recovering AIS patients (n = 11), which indicated that the metabolic alterations are possibly related to AIS development. Based on the characters from the data pattern reorganization, a novel biomarkers pattern was established using a binary logistic model, which contained arginine, arginine/ornithine, vaccenylcarnitine, and hydroxylbutyrylcarnitine. This biomarkers pattern achieved an area under the receiver operating characteristic curve of 0.89 for the differential diagnosis of AIS. Considering the efficiency and the diagnostic performance of the biomarkers pattern, our method has potential future use for the clinical application.",
+      "corpusId": 202669921,
+      "url": "https://api.semanticscholar.org/CorpusId:202669921",
+      "pubmed_id": "31608005",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fneur.2019.01011",
+        "matched_title": "Discovery of a New Biomarker Pattern for Differential Diagnosis of Acute Ischemic Stroke Using Targeted Metabolomics.",
+        "matched_pubdate": "2019",
+        "matched_source": "Front Neurol"
+      }
+    },
+    {
+      "title": "Differential Proteomics for Distinguishing Ischemic Stroke from Controls: a Pilot Study of the SpecTRA Project",
+      "authors": [
+        {
+          "name": "A. M. Penn",
+          "id": "98004377"
+        },
+        {
+          "name": "V. Saly",
+          "id": "35520916"
+        },
+        {
+          "name": "A. Trivedi",
+          "id": "2080151738"
+        },
+        {
+          "name": "M. Lesperance",
+          "id": "2352649"
+        },
+        {
+          "name": "K. Votova",
+          "id": "51960262"
+        },
+        {
+          "name": "A. Jackson",
+          "id": "2345425"
+        },
+        {
+          "name": "N. Croteau",
+          "id": "40371669"
+        },
+        {
+          "name": "R. Balshaw",
+          "id": "123798768"
+        },
+        {
+          "name": "M. Bibok",
+          "id": "1878237"
+        },
+        {
+          "name": "D. S. Smith",
+          "id": "2111066164"
+        },
+        {
+          "name": "K. K. Lam",
+          "id": "2067720580"
+        },
+        {
+          "name": "J. Morrison",
+          "id": "35389249"
+        },
+        {
+          "name": "L. Lu",
+          "id": "2149374035"
+        },
+        {
+          "name": "S. Coutts",
+          "id": "2761330"
+        },
+        {
+          "name": "C. Borchers",
+          "id": "2123238"
+        }
+      ],
+      "year": 2018,
+      "venue": "Translational Stroke Research",
+      "score": 0.5621047816362719,
+      "abstract": "A diagnostic blood test for stroke is desirable but will likely require multiple proteins rather than a single “troponin.” Validating large protein panels requires large patient numbers. Mass spectrometry (MS) is a cost-effective tool for this task. We compared differences in the abundance of 147 protein markers to distinguish 20 acute cerebrovascular syndrome (ACVS) patients who presented to the Emergency Department of one urban hospital within < 24 h from onset) and from 20 control patients who were enrolled via an outpatient neurology clinic. We targeted proteins from the stroke literature plus cardiovascular markers previously studied in our lab. One hundred forty-one proteins were quantified using MS, 8 were quantified using antibody protein enrichment with MS, and 32 were measured using ELISA, with some proteins measured by multiple techniques. Thirty proteins (4 by ELISA and 26 by the MS techniques) were differentially abundant between mimic and stroke after adjusting for age in robust regression analyses (FDR < 0.20). A logistic regression model using the first two principal components of the proteins significantly improved discrimination between strokes and controls compared to a model based on age alone (p < 0.001, cross-validated AUC 0.93 vs. 0.78). Significant proteins included markers of inflammation (47%), coagulation (40%), atrial fibrillation (7%), neurovascular unit injury (3%), and other (3%). These results suggest the potential value of plasma proteins as biomarkers for ACVS diagnosis and the role of plasma-based MS in this area.",
+      "corpusId": 255955066,
+      "url": "https://api.semanticscholar.org/CorpusId:255955066",
+      "pubmed_id": "29368175",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s12975-018-0609-z",
+        "matched_title": "Differential Proteomics for Distinguishing Ischemic Stroke from Controls: a Pilot Study of the SpecTRA Project.",
+        "matched_pubdate": "2018 Dec",
+        "matched_source": "Transl Stroke Res"
+      }
+    },
+    {
+      "title": "Abstract 120: Leveraging a Range of Blood Biomarkers in Acute Ischemic Stroke",
+      "authors": [
+        {
+          "name": "V. Oberoi",
+          "id": "2385714902"
+        },
+        {
+          "name": "M. Ishfaq",
+          "id": "2146883064"
+        },
+        {
+          "name": "A. Pandhi",
+          "id": "2241023218"
+        }
+      ],
+      "year": 2024,
+      "venue": "Stroke: Vascular and Interventional Neurology",
+      "score": 0.5435289487966921,
+      "abstract": "\n \n Ischemic stroke is characterized by an abrupt onset of cerebral deficits due to a disruption in blood supply to the brain. Early and accurate diagnosis, along with prompt treatment, is critical in stroke management. This exclusive review seeks to holistically examine the diagnostic, prognostic, and therapeutic potential of blood biomarkers in ischemic stroke. Because ‘time is brain’ development of blood biomarkers in acute ischemic stroke can revolutionize the stroke management particularly via early diagnosis.\n \n \n \n A systematic search of literature was conducted using databases such as Google Scholar and PUBMED for the past decade, identifying 112 relevant articles. Keywords related to ischemic stroke and blood biomarkers were employed. After applying rigorous exclusion criteria, 52 articles were selected, including narrative/systematic reviews, meta‐analyses, and animal studies.\n \n \n \n Among the 52 studies reviewed, 40% concentrated on diagnostic biomarkers, 13 studies addressed therapeutic biomarkers, and 25% focused on prognostic biomarkers. Additionally, three animal studies investigated therapeutic biomarkers in mice. Evaluation by two independent authors revealed consistent results across the studies. Protein biomarkers like GFAP, BNP, and S100B, as well as emerging microRNAs and circRNAs, showed promise for early diagnosis and prognosis. Exosomal microRNAs and circRNAs also offered targeted therapeutic opportunities. A common limitation noted across studies was small sample sizes.\n \n \n \n This review highlights the diverse roles of blood biomarkers in ischemic stroke, including their potential for diagnosis, prognosis, and therapy. Currently, stroke diagnosis primarily relies on imaging techniques such as CT scans and MRI. Advancing these biomarkers from research to clinical practice could significantly impact ischemic stroke management. Further research is necessary to define their exact roles and enable their integration into routine clinical use.\n \n \n \n \n 1. Dagonnier M, Donnan GA, Davis SM, Dewey HM, Howells DW. Acute Stroke Biomarkers: Are We There Yet? Front Neurol. 2021 Feb 5;12:619721. doi: 10.3389/fneur.2021.619721. PMID: 33633673; PMCID: PMC7902038. 2. Katan M, Elkind MS. The Potential Role of Blood Biomarkers in Patients with Ischemic Stroke: An Expert Opinion. Clinical and Translational Neuroscience. 2018; 2(1):13.\n https://doi.org/10.1177/2514183×18768050\n . 3. Florijn BW, Leontien van der Bent M, Nguyen TMT, Quax PHA, Wermer MJH, Yaël Nossent A, Kruyt ND. Non‐coding RNAs versus protein biomarkers to diagnose and differentiate acute stroke: Systematic review and meta‐analysis. J Stroke Cerebrovasc Dis. 2023 Nov;32(11):107388. doi: 10.1016/j.jstrokecerebrovasdis.2023.107388. Epub 2023 Sep 29. PMID: 37778160. 4. Jadav RK, Mortazavi R, Yee KC. Blood Biomarkers for Triaging Patients for Suspected Stroke: Every Minute Counts. J Clin Med. 2022 Jul 21;11(14):4243. doi: 10.3390/jcm11144243. PMID: 35888011; PMCID: PMC9323101. 5. Ciaccio AM, Tuttolomondo A. Exosomal miRNAs as Biomarkers of Ischemic Stroke. Brain Sci. 2023 Nov 27;13(12):1647. doi: 10.3390/brainsci13121647. PMID: 38137095; PMCID: PMC10741776. 6. Wang Y, Su X, Leung GHD, Ren B, Zhang Q, Xiong Z, Zhou J, Yang L, Lu G, Chan WY, Ren L. Circulating microRNAs as diagnostic biomarkers for ischemic stroke: evidence from comprehensive analysis and real‐world validation. Int J Med Sci. 2023 Jun 4;20(8):1009‐1023. doi: 10.7150/ijms.83963. PMID: 37484808; PMCID: PMC10357437.\n \n",
+      "corpusId": 275741609,
+      "url": "https://api.semanticscholar.org/CorpusId:275741609",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Comparison of Acute and Chronic Stage Ischemic Stroke Metabolome with Controls",
+      "authors": [
+        {
+          "name": "E. Sidorov",
+          "id": "47430135"
+        },
+        {
+          "name": "Madhusmita Rout",
+          "id": "114192862"
+        },
+        {
+          "name": "Chao Xu",
+          "id": "2115472935"
+        },
+        {
+          "name": "Jordan A. Larsen",
+          "id": "100523393"
+        },
+        {
+          "name": "Evan Fields",
+          "id": "2205378259"
+        },
+        {
+          "name": "B. Apple",
+          "id": "89822377"
+        },
+        {
+          "name": "Kyle Smith",
+          "id": "32844507"
+        },
+        {
+          "name": "David Gordon",
+          "id": "2082314985"
+        },
+        {
+          "name": "J. Chainakul",
+          "id": "1490748910"
+        },
+        {
+          "name": "D. Sanghera",
+          "id": "3295602"
+        }
+      ],
+      "year": 2023,
+      "venue": "Research Square",
+      "score": 0.5315359950026346,
+      "abstract": "Background Acute Ischemic Stroke (AIS), a major cause of disability, was previously associated with multiple metabolomic changes, but many findings were contradictory. Case-control and longitudinal study designs could have played a role in that. To clarify metabolomic changes, we performed a simultaneous comparison of ischemic stroke metabolome in acute, chronic stages of stroke and controls. Methods Through the nuclear magnetic resonance (NMR) platform, we evaluated 271 serum metabolites from a cohort of 297 AIS patients in acute and chronic stages and 159 controls. We used Sparse Partial Least Squares-Discriminant analysis (sPLS-DA) to evaluate group disparity; multivariate regression to compare metabolome in acute, chronic stages of stroke and controls; and mixed regression to compare metabolome acute and chronic stages of stroke. We applied false discovery rate (FDR) to our calculations. Results The sPLS-DA revealed separation of the metabolome in acute, chronic stages of stroke and controls. Regression analysis identified 38 altered metabolites. Ketone bodies, branched-chain amino acids (BCAAs), energy, and inflammatory compounds were elevated in the acute stage, but declined in the chronic stage, often to the same levels as in controls. Levels of other amino acids, phosphatidylcholines, phosphoglycerides, and sphingomyelins mainly did not change between acute and chronic stages, but was different comparing to controls. Conclusion Our pilot study identified metabolites associated with acute stage of ischemic stroke and those that are altered in stroke patients comparing to controls regardless of stroke acuity. Future investigation in a larger independent cohort is needed to validate these findings.",
+      "corpusId": 256763639,
+      "url": "https://api.semanticscholar.org/CorpusId:256763639",
+      "pubmed_id": "37443093",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s13044-023-00160-w",
+        "matched_title": "Decrease of thyroid function after ischemic stroke is related to stroke severity.",
+        "matched_pubdate": "2023 Jul 13",
+        "matched_source": "Thyroid Res"
+      }
+    },
+    {
+      "title": "Novel Diagnostic Test for Acute Stroke",
+      "authors": [
+        {
+          "name": "J. Lynch",
+          "id": "48373510"
+        },
+        {
+          "name": "Robert Blessing",
+          "id": "46401125"
+        },
+        {
+          "name": "W. White",
+          "id": "31888703"
+        },
+        {
+          "name": "H. Grocott",
+          "id": "4118431"
+        },
+        {
+          "name": "M. Newman",
+          "id": "1846181"
+        },
+        {
+          "name": "D. Laskowitz",
+          "id": "4429565"
+        }
+      ],
+      "year": 2003,
+      "venue": "Stroke",
+      "score": 0.5280515521427078,
+      "abstract": "",
+      "corpusId": 14105134,
+      "url": "https://doi.org/10.1161/01.STR.0000105927.62344.4C",
+      "pubmed_id": "14671250",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1161/01.STR.0000105927.62344.4C",
+        "matched_title": "Novel diagnostic test for acute stroke.",
+        "matched_pubdate": "2004 Jan",
+        "matched_source": "Stroke"
+      }
+    },
+    {
+      "title": "Role of glial fibrillary acidic protein as a biomarker in differentiating intracerebral haemorrhage from ischaemic stroke and stroke mimics: a meta-analysis",
+      "authors": [
+        {
+          "name": "Amit Kumar",
+          "id": "2123128815"
+        },
+        {
+          "name": "S. Misra",
+          "id": "4641529"
+        },
+        {
+          "name": "A. Yadav",
+          "id": "2097090140"
+        },
+        {
+          "name": "Ram Sagar",
+          "id": "4798638"
+        },
+        {
+          "name": "Bhawna Verma",
+          "id": "2064421119"
+        },
+        {
+          "name": "A. Grover",
+          "id": "2572141"
+        },
+        {
+          "name": "K. Prasad",
+          "id": "144672244"
+        }
+      ],
+      "year": 2019,
+      "venue": "Biomarkers",
+      "score": 0.5279981298319288,
+      "abstract": "",
+      "corpusId": 207946010,
+      "url": "https://doi.org/10.1080/1354750X.2019.1691657",
+      "pubmed_id": "31702405",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1080/1354750X.2019.1691657",
+        "matched_title": "Role of glial fibrillary acidic protein as a biomarker in differentiating intracerebral haemorrhage from ischaemic stroke and stroke mimics: a meta-analysis.",
+        "matched_pubdate": "2020 Feb",
+        "matched_source": "Biomarkers"
+      }
+    },
+    {
+      "title": "Scalable Bio Marker Combinations for Early Stroke Diagnosis: A Systematic Review",
+      "authors": [
+        {
+          "name": "Saiyet C. Baez",
+          "id": "2105959415"
+        },
+        {
+          "name": "D. Garcia Del Barco",
+          "id": "48748873"
+        },
+        {
+          "name": "Anette Hardy-Sosa",
+          "id": "2078785923"
+        },
+        {
+          "name": "G. Guillén Nieto",
+          "id": "4057176"
+        },
+        {
+          "name": "M. Bringas-Vega",
+          "id": "51930867"
+        },
+        {
+          "name": "J. J. Llibre-Guerra",
+          "id": "2341780500"
+        },
+        {
+          "name": "P. Valdés-Sosa",
+          "id": "1388444790"
+        }
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Neurology",
+      "score": 0.5211236271223815,
+      "abstract": "Background: Acute stroke treatment is a time-critical process in which every minute counts. Laboratory biomarkers are needed to aid clinical decisions in the diagnosis. Although imaging is critical for this process, these biomarkers may provide additional information to distinguish actual stroke from its mimics and monitor patient condition and the effect of potential neuroprotective strategies. For such biomarkers to be effectively scalable to public health in any economic setting, these must be cost-effective and non-invasive. We hypothesized that blood-based combinations (panels) of proteins might be the key to this approach and explored this possibility through a systematic review. Methods: We followed the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analysis) guidelines for systematic review. Initially, the broader search for biomarkers for early stroke diagnosis yielded 704 hits, and five were added manually. We then narrowed the search to combinations (panels) of the protein markers obtained from the blood. Results: Twelve articles dealing with blood-based panels of protein biomarkers for stroke were included in the systematic review. We observed that NR2 peptide (antibody against the NR2 fragment) and glial fibrillary acidic protein (GFAP) are brain-specific markers related to stroke. Von Willebrand factor (vWF), matrix metalloproteinase 9 (MMP-9), and S100β have been widely used as biomarkers, whereas others such as the ischemia-modified albumin (IMA) index, antithrombin III (AT-III), and fibrinogen have not been evaluated in combination. We herein propose the following new combination of biomarkers for future validation: panel 1 (NR2 + GFAP + MMP-9 + vWF + S100β), panel 2 (NR2 + GFAP + MMP-9 + vWF + IMA index), and panel 3 (NR2 + GFAP + AT-III + fibrinogen). Conclusions: More research is needed to validate, identify, and introduce these panels of biomarkers into medical practice for stroke recurrence and diagnosis in a scalable manner. The evidence indicates that the most promising approach is to combine different blood-based proteins to provide diagnostic precision for health interventions. Through our systematic review, we suggest three novel biomarker panels based on the results in the literature and an interpretation based on stroke pathophysiology.",
+      "corpusId": 235220411,
+      "url": "https://api.semanticscholar.org/CorpusId:235220411",
+      "pubmed_id": "34122297",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fneur.2021.638693",
+        "matched_title": "Scalable Bio Marker Combinations for Early Stroke Diagnosis: A Systematic Review.",
+        "matched_pubdate": "2021",
+        "matched_source": "Front Neurol"
+      }
+    },
+    {
+      "title": "Cerebrospinal Fluid Biomarkers for Diagnosis and the Prognostication of Acute Ischemic Stroke: A Systematic Review",
+      "authors": [
+        {
+          "name": "A. Naik",
+          "id": "2064352979"
+        },
+        {
+          "name": "Olufunmilola Adeleye",
+          "id": "2126878188"
+        },
+        {
+          "name": "S. Koester",
+          "id": "48537851"
+        },
+        {
+          "name": "Ethan Winkler",
+          "id": "2196178910"
+        },
+        {
+          "name": "J. Hartke",
+          "id": "82141476"
+        },
+        {
+          "name": "K. Karahalios",
+          "id": "2080435247"
+        },
+        {
+          "name": "Sandra Mihaljević",
+          "id": "8974482"
+        },
+        {
+          "name": "Anupama Rani",
+          "id": "2142510835"
+        },
+        {
+          "name": "S. Raikwar",
+          "id": "6005276"
+        },
+        {
+          "name": "J. Rulney",
+          "id": "2156244555"
+        },
+        {
+          "name": "S. Desai",
+          "id": "40795731"
+        },
+        {
+          "name": "L. Scherschinski",
+          "id": "1820853037"
+        },
+        {
+          "name": "A. Ducruet",
+          "id": "6661293"
+        },
+        {
+          "name": "F. Albuquerque",
+          "id": "144353536"
+        },
+        {
+          "name": "M. Lawton",
+          "id": "143704540"
+        },
+        {
+          "name": "J. Catapano",
+          "id": "8003419"
+        },
+        {
+          "name": "A. Jadhav",
+          "id": "2054398378"
+        },
+        {
+          "name": "R. Jha",
+          "id": "3782613"
+        }
+      ],
+      "year": 2023,
+      "venue": "International Journal of Molecular Sciences",
+      "score": 0.49770851995219817,
+      "abstract": "Despite the high incidence and burden of stroke, biological biomarkers are not used routinely in clinical practice to diagnose, determine progression, or prognosticate outcomes of acute ischemic stroke (AIS). Because of its direct interface with neural tissue, cerebrospinal fluid (CSF) is a potentially valuable source for biomarker development. This systematic review was conducted using three databases. All trials investigating clinical and preclinical models for CSF biomarkers for AIS diagnosis, prognostication, and severity grading were included, yielding 22 human trials and five animal studies for analysis. In total, 21 biomarkers and other multiomic proteomic markers were identified. S100B, inflammatory markers (including tumor necrosis factor-alpha and interleukin 6), and free fatty acids were the most frequently studied biomarkers. The review showed that CSF is an effective medium for biomarker acquisition for AIS. Although CSF is not routinely clinically obtained, a potential benefit of CSF studies is identifying valuable biomarkers from the pathophysiologic microenvironment that ultimately inform optimization of targeted low-abundance assays from peripheral biofluid samples (e.g., plasma). Several important catabolic and anabolic markers can serve as effective measures of diagnosis, etiology identification, prognostication, and severity grading. Trials with large cohorts studying the efficacy of biomarkers in altering clinical management are still needed.",
+      "corpusId": 259300788,
+      "url": "https://api.semanticscholar.org/CorpusId:259300788",
+      "pubmed_id": "37446092",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ijms241310902",
+        "matched_title": "Cerebrospinal Fluid Biomarkers for Diagnosis and the Prognostication of Acute Ischemic Stroke: A Systematic Review.",
+        "matched_pubdate": "2023 Jun 30",
+        "matched_source": "Int J Mol Sci"
+      }
+    },
+    {
+      "title": "Surface electroencephalography (EEG) during the acute phase of stroke to assist with diagnosis and prediction of prognosis: a scoping review",
+      "authors": [
+        {
+          "name": "L. Sutcliffe",
+          "id": "1500485984"
+        },
+        {
+          "name": "H. Lumley",
+          "id": "1403796805"
+        },
+        {
+          "name": "Lisa Shaw",
+          "id": "36016713"
+        },
+        {
+          "name": "Richard Francis",
+          "id": "115241160"
+        },
+        {
+          "name": "Christopher I. M. Price",
+          "id": "2149578974"
+        }
+      ],
+      "year": 2022,
+      "venue": "BMC Emergency Medicine",
+      "score": 0.4928109367467482,
+      "abstract": "Background Stroke is a common medical emergency responsible for significant mortality and disability. Early identification improves outcomes by promoting access to time-critical treatments such as thrombectomy for large vessel occlusion (LVO), whilst accurate prognosis could inform many acute management decisions. Surface electroencephalography (EEG) shows promise for stroke identification and outcome prediction, but evaluations have varied in technology, setting, population and purpose. This scoping review aimed to summarise published literature addressing the following questions: 1. Can EEG during acute clinical assessment identify: a) Stroke versus non-stroke mimic conditions. b) Ischaemic versus haemorrhagic stroke. c) Ischaemic stroke due to LVO. 2. Can these states be identified if EEG is applied < 6 h since onset. 3. Does EEG during acute assessment predict clinical recovery following confirmed stroke. Methods We performed a systematic search of five bibliographic databases ending 19/10/2020. Two reviewers assessed eligibility of articles describing diagnostic and/or prognostic EEG application < 72 h since suspected or confirmed stroke. Results From 5892 abstracts, 210 full text articles were screened and 39 retained. Studies were small and heterogeneous. Amongst 21 reports of diagnostic data, consistent associations were reported between stroke, greater delta power, reduced alpha/beta power, corresponding ratios and greater brain asymmetry. When reported, the area under the curve (AUC) was at least good (0.81–1.00). Only one study combined clinical and EEG data (AUC 0.88). There was little data found describing whether EEG could identify ischaemic versus haemorrhagic stroke. Radiological changes suggestive of LVO were also associated with increased slow and decreased fast waves. The only study with angiographic proof of LVO reported AUC 0.86 for detection < 24 h since onset. Amongst 26 reports of prognostic data, increased slow and reduced fast wave EEG changes were associated with future dependency, neurological impairment, mortality and poor cognition, but there was little evidence that EEG enhanced outcome prediction relative to clinical and/or radiological variables. Only one study focussed solely on patients < 6 h since onset for predicting neurological prognosis post-thrombolysis, with more favourable outcomes associated with greater hemispheric symmetry and a greater ratio of fast to slow waves. Conclusions Although studies report important associations with EEG biomarkers, further technological development and adequately powered real-world studies are required before recommendations can be made regarding application during acute stroke assessment.",
+      "corpusId": 247147441,
+      "url": "https://api.semanticscholar.org/CorpusId:247147441",
+      "pubmed_id": "35227206",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12873-022-00585-w",
+        "matched_title": "Surface electroencephalography (EEG) during the acute phase of stroke to assist with diagnosis and prediction of prognosis: a scoping review.",
+        "matched_pubdate": "2022 Feb 28",
+        "matched_source": "BMC Emerg Med"
+      }
+    },
+    {
+      "title": "Biomarkers for Early Detection of Stroke: A Systematic Review",
+      "authors": [
+        {
+          "name": "Luqman Anwar",
+          "id": "2323217528"
+        },
+        {
+          "name": "Ejaz Ahmad",
+          "id": "2323218100"
+        },
+        {
+          "name": "M. Imtiaz",
+          "id": "2248324855"
+        },
+        {
+          "name": "B. Ahmad",
+          "id": "2291874350"
+        },
+        {
+          "name": "Muhammad Awais Ali",
+          "id": "2323816952"
+        },
+        {
+          "name": "Mahnoor",
+          "id": "2406182557"
+        }
+      ],
+      "year": 2024,
+      "venue": "Cureus",
+      "score": 0.48225389779860467,
+      "abstract": "Stroke remains a leading cause of mortality and disability worldwide. Identifying reliable biomarkers for stroke diagnosis and risk prediction could significantly improve patient outcomes through earlier intervention and better risk management. The objective of this systematic review is to systematically review recent studies investigating biomarkers for stroke diagnosis and risk prediction and to synthesize the most promising findings. We conducted a systematic review of 10 studies published between 2008 and 2023 that examined various biomarkers in relation to stroke. Studies were evaluated for quality using a simplified version of the Mixed Methods Appraisal Tool. The reviewed studies investigated a diverse array of biomarkers, including lipids, inflammatory markers, hemodynamic markers, microRNAs, metabolites, and neurodegenerative markers. Key findings include the following: (1) non-traditional lipid markers such as triglycerides and non-high-density lipoprotein cholesterol may be more predictive of stroke risk than low-density lipoprotein; (2) inflammatory markers, particularly IL-6, showed strong associations with stroke risk; (3) hemodynamic markers like midregional proatrial natriuretic peptide (MRproANP) and N-terminal pro-B-type natriuretic peptide (NT-proBNP) demonstrated potential in distinguishing stroke subtypes; (4) specific microRNAs (miR-125a-5p, miR-125b-5p, miR-143-3p) were upregulated in acute ischemic stroke; (5) metabolomic studies identified novel markers such as tetradecanedioate and hexadecanedioate associated with cardioembolic stroke; (6) neurodegenerative markers (total-tau, neurofilament light chain) were linked to increased stroke risk. This review highlights the potential of various biomarkers in improving stroke diagnosis and risk prediction. While individual markers show promise, a multi-marker approach combined with clinical variables appears most likely to yield clinically useful tools. Further large-scale validation studies are needed before these biomarkers can be implemented in routine clinical practice.",
+      "corpusId": 273030625,
+      "url": "https://api.semanticscholar.org/CorpusId:273030625",
+      "pubmed_id": "39493062",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.7759/cureus.70624",
+        "matched_title": "Biomarkers for Early Detection of Stroke: A Systematic Review.",
+        "matched_pubdate": "2024 Oct",
+        "matched_source": "Cureus"
+      }
+    },
+    {
+      "title": "Candidate Biomarkers for the Diagnosis of Transient Ischemic Attack: A Systematic Review",
+      "authors": [
+        {
+          "name": "L. Dolmans",
+          "id": "151088394"
+        },
+        {
+          "name": "F. Rutten",
+          "id": "1909797"
+        },
+        {
+          "name": "Niels C. T. Koenen",
+          "id": "14357721"
+        },
+        {
+          "name": "M. Bartelink",
+          "id": "5550151"
+        },
+        {
+          "name": "J. Reitsma",
+          "id": "50311625"
+        },
+        {
+          "name": "L. Kappelle",
+          "id": "1380087507"
+        },
+        {
+          "name": "A. Hoes",
+          "id": "3961001"
+        }
+      ],
+      "year": 2019,
+      "venue": "Cerebrovascular Diseases",
+      "score": 0.4748024505084749,
+      "abstract": "Background and Purpose: A rapid serum biomarker that confirms or rules out a transient ischemic attack (TIA) would be of great value in clinical practice. We aimed to systematically review current evidence for the diagnostic accuracy of blood biomarkers in the early diagnosis of TIA. Methods: This is a systematic review with quality appraisal of individual studies using the QUADAS-2 tool. MEDLINE and EMBASE databases were searched up to May 1, 2017, to select primary diagnostic accuracy studies evaluating potential biomarkers in blood for the diagnosis of TIA or ischemic stroke. Results: Of 4,215 studies retrieved, 78 met our eligibility criteria. Forty-five studies restricted their population to ischemic stroke patients, 32 included both TIA and ischemic stroke patients, and only one study was restricted to TIA patients. In total 62/78 (79.5%) studies had a case-control design comparing TIA or stroke patients with healthy subjects. Overall, 125 single biomarkers and 5 biomarker panels were studied, with a median number of participants per study of 92.0 (interquartile range 44.8–144.5), varying from 8 to 915. Sufficient information to extract 2 × 2 tables was available for 35 (44.9%) articles, and for 60 (48.0 %) biomarkers. Several markers, such as NR2A/B (antibodies), Parkinson 7, nucleoside diphosphate kinase A, ubiquitin fusion degradation protein-1, and heart-type fatty acid binding protein, have shown moderate to high diagnostic accuracy in multiple studies. Conclusions: Although the methodological quality of studies evaluating biomarkers of brain ischemia was poor, several biomarkers have shown the potential to detect transient brain ischemia in an early phase. Diagnostic accuracy studies in suspected cases of TIA are needed to determine their true clinical value.",
+      "corpusId": 201714724,
+      "url": "https://api.semanticscholar.org/CorpusId:201714724",
+      "pubmed_id": "31473737",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1159/000502449",
+        "matched_title": "Candidate Biomarkers for the Diagnosis of Transient Ischemic Attack: A Systematic Review.",
+        "matched_pubdate": "2019",
+        "matched_source": "Cerebrovasc Dis"
+      }
+    },
+    {
+      "title": "Blood‐based protein biomarkers for stroke differentiation: A systematic review",
+      "authors": [
+        {
+          "name": "S. Misra",
+          "id": "4641529"
+        },
+        {
+          "name": "Amit Kumar",
+          "id": "2123128815"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "id": "2005463043"
+        },
+        {
+          "name": "A. Yadav",
+          "id": "2097090140"
+        },
+        {
+          "name": "D. Mohania",
+          "id": "11217711"
+        },
+        {
+          "name": "A. Pandit",
+          "id": "4556406"
+        },
+        {
+          "name": "K. Prasad",
+          "id": "144672244"
+        },
+        {
+          "name": "D. Vibha",
+          "id": "6721399"
+        }
+      ],
+      "year": 2017,
+      "venue": "PROTEOMICS - Clinical Applications",
+      "score": 0.44928957474109105,
+      "abstract": "",
+      "corpusId": 13676815,
+      "url": "https://doi.org/10.1002/prca.201700007",
+      "pubmed_id": "28452132",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1002/prca.201700007",
+        "matched_title": "Blood-based protein biomarkers for stroke differentiation: A systematic review.",
+        "matched_pubdate": "2017 Sep",
+        "matched_source": "Proteomics Clin Appl"
+      }
+    },
+    {
+      "title": "Blood Biomarkers to Differentiate Ischemic and Hemorrhagic Strokes",
+      "authors": [
+        {
+          "name": "A. Bustamante",
+          "id": "145696449"
+        },
+        {
+          "name": "A. Penalba",
+          "id": "144726872"
+        },
+        {
+          "name": "C. Orset",
+          "id": "5940518"
+        },
+        {
+          "name": "L. Azurmendi",
+          "id": "3967967"
+        },
+        {
+          "name": "Víctor Llombart",
+          "id": "3643346"
+        },
+        {
+          "name": "A. Simats",
+          "id": "6311256"
+        },
+        {
+          "name": "Emili Pecharroman",
+          "id": "2051992254"
+        },
+        {
+          "name": "Oriol Ventura",
+          "id": "66461338"
+        },
+        {
+          "name": "M. Ribó",
+          "id": "145694099"
+        },
+        {
+          "name": "D. Vivien",
+          "id": "2231115"
+        },
+        {
+          "name": "Jean-Charles Sanchez",
+          "id": "145139415"
+        },
+        {
+          "name": "J. Montaner",
+          "id": "3345670"
+        }
+      ],
+      "year": 2021,
+      "venue": "Neurology",
+      "score": 0.4257854921130569,
+      "abstract": "",
+      "corpusId": 232129329,
+      "url": "https://doi.org/10.1212/WNL.0000000000011742",
+      "pubmed_id": "33674361",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1212/WNL.0000000000011742",
+        "matched_title": "Blood Biomarkers to Differentiate Ischemic and Hemorrhagic Strokes.",
+        "matched_pubdate": "2021 Apr 13",
+        "matched_source": "Neurology"
+      }
+    },
+    {
+      "title": "Blood Glutathione S-Transferase-π as a Time Indicator of Stroke Onset",
+      "authors": [
+        {
+          "name": "N. Turck",
+          "id": "3090479"
+        },
+        {
+          "name": "X. Robin",
+          "id": "1849948"
+        },
+        {
+          "name": "N. Walter",
+          "id": "40226095"
+        },
+        {
+          "name": "C. Fouda",
+          "id": "4823451"
+        },
+        {
+          "name": "A. Hainard",
+          "id": "1813674"
+        },
+        {
+          "name": "R. Sztajzel",
+          "id": "3535684"
+        },
+        {
+          "name": "Ghislaine Wagner",
+          "id": "2065040111"
+        },
+        {
+          "name": "D. Hochstrasser",
+          "id": "2788244"
+        },
+        {
+          "name": "J. Montaner",
+          "id": "3345670"
+        },
+        {
+          "name": "P. Burkhard",
+          "id": "3212490"
+        },
+        {
+          "name": "Jean-Charles Sanchez",
+          "id": "145139415"
+        }
+      ],
+      "year": 2012,
+      "venue": "PLoS ONE",
+      "score": 0.42470539291758896,
+      "abstract": "Background Ability to accurately determine time of stroke onset remains challenging. We hypothesized that an early biomarker characterized by a rapid increase in blood after stroke onset may help defining better the time window during which an acute stroke patient may be candidate for intravenous thrombolysis or other intravascular procedures. Methods The blood level of 29 proteins was measured by immunoassays on a prospective cohort of stroke patients (N = 103) and controls (N = 132). Mann-Whitney U tests, ROC curves and diagnostic odds ratios were applied to evaluate their clinical performances. Results Among the 29 molecules tested, GST-π concentration was the most significantly elevated marker in the blood of stroke patients (p<0.001). More importantly, GST-π displayed the best area under the curve (AUC, 0.79) and the best diagnostic odds ratios (10.0) for discriminating early (N = 22, <3 h of stroke onset) vs. late stroke patients (N = 81, >3 h after onset). According to goal-oriented distinct cut-offs (sensitivity(Se)-oriented: 17.7 or specificity(Sp)-oriented: 65.2 ug/L), the GST-π test obtained 91%Se/50%Sp and 50%Se/91%Sp, respectively. Moreover, GST-π showed also the highest AUC (0.83) and performances for detecting patients treated with tPA (N = 12) compared to ineligible patients (N = 103). Conclusions This study demonstrates that GST-π can accurately predict the time of stroke onset in over 50% of early stroke patients. The GST-π test could therefore complement current guidelines for tPA administration and potentially increase the number of patients accessing thrombolysis.",
+      "corpusId": 17787753,
+      "url": "https://pdfs.semanticscholar.org/fb10/0be901f30b108e97bf9badc1f7ff211185c8.pdf",
+      "pubmed_id": "23028472",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0043830",
+        "matched_title": "Blood glutathione S-transferase-π as a time indicator of stroke onset.",
+        "matched_pubdate": "2012",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Diagnostic performance of peroxiredoxin 1 to determine time-of-onset of acute cerebral infarction",
+      "authors": [
+        {
+          "name": "S. Richard",
+          "id": "145305964"
+        },
+        {
+          "name": "V. Lapierre",
+          "id": "47256483"
+        },
+        {
+          "name": "N. Girerd",
+          "id": "5771477"
+        },
+        {
+          "name": "M. Bonnerot",
+          "id": "46812715"
+        },
+        {
+          "name": "P. Burkhard",
+          "id": "3212490"
+        },
+        {
+          "name": "Linnéa Lagerstedt",
+          "id": "3520302"
+        },
+        {
+          "name": "S. Bracard",
+          "id": "1872593"
+        },
+        {
+          "name": "M. Debouverie",
+          "id": "5887577"
+        },
+        {
+          "name": "N. Turck",
+          "id": "3090479"
+        },
+        {
+          "name": "Jean-Charles Sanchez",
+          "id": "145139415"
+        }
+      ],
+      "year": 2016,
+      "venue": "Scientific Reports",
+      "score": 0.420781305230282,
+      "abstract": "Accurately determining time-of-onset of cerebral infarction is important to clearly identify patients who could benefit from reperfusion therapies. We assessed the kinetics of peroxiredoxin 1 (PRDX1), a protein involved in oxidative stress during the acute phase of ischemia, and its ability to determine stroke onset in a population of patients with known onset of less than 24 hours and in a control group. Median PRDX1 levels were significantly higher in stroke patients compared to controls. PRDX1 levels were also higher from blood samples withdrawn before vs. after 3 hours following stroke onset, and before vs. after 6 hours. ROC analysis with area under the curve (AUC), sensitivity (Se) and specificity (Sp) determined from the Youden index was performed to assess the ability of PRDX1 levels to determine onset. Diagnostic performances of PRDX1 levels were defined by an AUC of 69%, Se of 53% and Sp of 86% for identifying cerebral infarction occurring <3 hours, and an AUC of 68%, Se of 49% and Sp of 88% for cerebral infarction occurring <6 hours. These first results suggest that PRDX1 levels could be the basis of a new method using biomarkers for determining cerebral infarction onset.",
+      "corpusId": 11206694,
+      "url": "https://api.semanticscholar.org/CorpusId:11206694",
+      "pubmed_id": "27924073",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/srep38300",
+        "matched_title": "Diagnostic performance of peroxiredoxin 1 to determine time-of-onset of acute cerebral infarction.",
+        "matched_pubdate": "2016 Dec 6",
+        "matched_source": "Sci Rep"
+      }
+    },
+    {
+      "title": "Differentiating ischemic from hemorrhagic stroke using plasma biomarkers: the S100B/RAGE pathway.",
+      "authors": [
+        {
+          "name": "J. Montaner",
+          "id": "3345670"
+        },
+        {
+          "name": "M. Mendioroz",
+          "id": "6470228"
+        },
+        {
+          "name": "P. Delgado",
+          "id": "143793583"
+        },
+        {
+          "name": "Teresa García-Berrocoso",
+          "id": "1398205578"
+        },
+        {
+          "name": "Dolors Giralt",
+          "id": "3852856"
+        },
+        {
+          "name": "Cristina Merino",
+          "id": "2074961168"
+        },
+        {
+          "name": "M. Ribó",
+          "id": "145694099"
+        },
+        {
+          "name": "A. Rosell",
+          "id": "2500670"
+        },
+        {
+          "name": "A. Penalba",
+          "id": "144726872"
+        },
+        {
+          "name": "I. Férnandez-Cadenas",
+          "id": "1398240962"
+        },
+        {
+          "name": "F. Romero",
+          "id": "2052523624"
+        },
+        {
+          "name": "C. Molina",
+          "id": "46491585"
+        },
+        {
+          "name": "J. Álvarez-Sabín",
+          "id": "1389993177"
+        },
+        {
+          "name": "M. Hernández-Guillamon",
+          "id": "1398675807"
+        }
+      ],
+      "year": 2012,
+      "venue": "Journal of Proteomics",
+      "score": 0.40520571178437553,
+      "abstract": "",
+      "corpusId": 23411086,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/22343074",
+      "pubmed_id": "22343074",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.jprot.2012.01.033",
+        "matched_title": "Differentiating ischemic from hemorrhagic stroke using plasma biomarkers: the S100B/RAGE pathway.",
+        "matched_pubdate": "2012 Aug 3",
+        "matched_source": "J Proteomics"
+      }
+    },
+    {
+      "title": "Advances in the detection of biomarkers for ischemic stroke",
+      "authors": [
+        {
+          "name": "Yingwei Liang",
+          "id": "2326212099"
+        },
+        {
+          "name": "Juan Chen",
+          "id": "2144238791"
+        },
+        {
+          "name": "Yue Chen",
+          "id": "2348735695"
+        },
+        {
+          "name": "Yaoyao Tong",
+          "id": "2054670800"
+        },
+        {
+          "name": "Linhao Li",
+          "id": "2347120476"
+        },
+        {
+          "name": "Yuan Xu",
+          "id": "2347256204"
+        },
+        {
+          "name": "Shimin Wu",
+          "id": "2307395826"
+        }
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Neurology",
+      "score": 0.38645032983521216,
+      "abstract": "Ischemic stroke is a leading cause of mortality and morbidity globally. Prompt intervention is essential for arresting disease progression and minimizing central nervous system damage. Although imaging studies play a significant role in diagnosing ischemic stroke, their high costs and limited sensitivity often result in diagnostic and treatment delays. Blood biomarkers have shown considerable promise in the diagnosis and prognosis of ischemic stroke. Serum markers, closely associated with stroke pathophysiology, aid in diagnosis, subtype identification, prediction of disease progression, early neurological deterioration, and recurrence. Their advantages are particularly pronounced due to their low cost and rapid results. Despite the identification of numerous candidate blood biomarkers, their clinical application requires rigorous research and thorough validation. This review focuses on various blood biomarkers related to ischemic stroke, including coagulation and fibrinolysis-related factors, endothelial dysfunction markers, inflammatory biomarkers, neuronal and axonal injury markers, exosomes with their circular RNAs and other relevant molecules. It also summarizes the latest methods and techniques for stroke biomarker detection, aiming to provide critical references for the clinical application of key stroke biomarkers.",
+      "corpusId": 276587139,
+      "url": "https://pdfs.semanticscholar.org/d0c2/33d301f8047d701adbd05644918cea32c7c8.pdf",
+      "pubmed_id": "40066310",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fneur.2025.1488726",
+        "matched_title": "Advances in the detection of biomarkers for ischemic stroke.",
+        "matched_pubdate": "2025",
+        "matched_source": "Front Neurol"
+      }
+    },
+    {
+      "title": "Blood Biomarkers for Large Vessel Occlusions: A Systematic Review",
+      "authors": [
+        {
+          "name": "T. Italia",
+          "id": "2373458141"
+        },
+        {
+          "name": "Ilayda Kayir",
+          "id": "2327026651"
+        },
+        {
+          "name": "G. Chilukuri",
+          "id": "2393073550"
+        },
+        {
+          "name": "Saarang Patel",
+          "id": "2267868341"
+        },
+        {
+          "name": "S. Patel",
+          "id": "2306997067"
+        },
+        {
+          "name": "Avi A. Gajjar",
+          "id": "2135166851"
+        },
+        {
+          "name": "Rashad Jabarkheel",
+          "id": "2287181904"
+        },
+        {
+          "name": "A. Eberle",
+          "id": "2366587069"
+        },
+        {
+          "name": "O. Marcos-Contreras",
+          "id": "1398072017"
+        },
+        {
+          "name": "K. W. Scott",
+          "id": "2360115076"
+        },
+        {
+          "name": "S. Kasner",
+          "id": "2376908510"
+        },
+        {
+          "name": "Ruchira M. Jha",
+          "id": "2314103888"
+        },
+        {
+          "name": "B. Pukenas",
+          "id": "2273264596"
+        },
+        {
+          "name": "J. Burkhardt",
+          "id": "2239110512"
+        },
+        {
+          "name": "V. Srinivasan",
+          "id": "2268880805"
+        },
+        {
+          "name": "J. Catapano",
+          "id": "8003419"
+        }
+      ],
+      "year": 2025,
+      "venue": "Stroke",
+      "score": 0.3851880741624476,
+      "abstract": "BACKGROUND Large vessel occlusions (LVOs), which account for approximately 25% of ischemic strokes, pose a significant challenge due to their severe impact and need for rapid diagnosis and treatment. Current diagnostic approaches—primarily based on clinical scales and imaging—often lack specificity or delay treatment, severely impacting patient outcomes. This review aims to evaluate the potential of blood biomarkers in improving the accuracy and efficiency of LVO diagnosis. METHODS A systematic review adhering to Preferred Reporting Items for Systematic Reviews and Meta‐Analyses guidelines were conducted with specific inclusion/exclusion criteria and multiperson screening. PubMed, Google Scholar, and Embase were searched using targeted queries related to LVO and biomarkers. Studies reporting the diagnostic accuracy, sensitivity, and specificity of blood biomarkers for LVO were included. Data were extracted and synthesized to categorize biomarkers and assess their diagnostic utility. RESULTS Sixteen studies were included, categorizing biomarkers into 5 groups: coagulation and hemostasis, acute brain injury, inflammatory, angiogenic growth factors, and metabolic and structural markers. CONCLUSIONS The review highlights the critical role of biomarker blood testing to enhance LVO diagnosis, especially in acute clinical settings. Coagulation and hemostasis markers such as D‐dimer offer rapid thrombus detection, and acute brain injury and angiogenic biomarkers provide insight into the extent of injury, localization, and vascular response. A combination of biomarkers from multiple categories is needed to provide an accurate clinical picture of LVO in patients. Excluding studies on embolic strokes, including cardioembolic subtypes, may also bias findings by neglecting their distinct biomarker profiles, warranting further investigation to fully assess biomarker utility across stroke etiologies. Despite promising results for multiple biomarkers, including glial fibrillary acidic protein, ubiquitin C‐terminal hydrolase‐L1, and D‐dimer, further research is needed to validate these biomarkers in diverse populations and integrate them into clinical practice effectively.",
+      "corpusId": 283087780,
+      "url": "https://api.semanticscholar.org/CorpusId:283087780",
+      "pubmed_id": "41608703",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1161/svin.125.001863",
+        "matched_title": "Blood Biomarkers for Large Vessel Occlusions: A Systematic Review.",
+        "matched_pubdate": "2025 Nov",
+        "matched_source": "Stroke Vasc Interv Neurol"
+      }
+    },
+    {
+      "title": "Fluid biomarkers in stroke: From animal models to clinical care",
+      "authors": [
+        {
+          "name": "A. Dias",
+          "id": "2140515059"
+        },
+        {
+          "name": "Lénia Silva",
+          "id": "1409939095"
+        },
+        {
+          "name": "J. Moura",
+          "id": "11132305"
+        },
+        {
+          "name": "D. Gabriel",
+          "id": "81587684"
+        },
+        {
+          "name": "L. Maia",
+          "id": "145304399"
+        }
+      ],
+      "year": 2022,
+      "venue": "Acta Neurologica Scandinavica",
+      "score": 0.3830771559913372,
+      "abstract": "Stroke is a leading cause of death and disability worldwide. Stroke prevention, early diagnosis, and efficient acute treatment are priorities to successfully impact stroke death and disability. Fluid biomarkers may improve stroke differential diagnostic, patient stratification for acute treatment, and post‐stroke individualized rehabilitation. In the present work, we characterized the use of stroke animal models in fluid biomarker research through a systematic review of PubMed and Scopus databases, followed by a literature review on the translation to the human stroke care setting and future perspectives in the field. We found increasing numbers of publications but with limited translation to the clinic. Animal studies are very heterogeneous, do not account for several human features present in stroke, and, importantly, only a minority of such studies used human cohorts to validate biomarker findings. Clinical studies have found appealing candidates, both protein and circulating nucleic acids, to contribute to a more personalized stroke care pathway. Still, brain tissue complexity and the fact that different brain pathologies share lesion biomarkers make this task challenging due to biomarker low specificity. Moreover, the study design and lack of validation cohorts may have precluded a formal integration of biomarkers in different steps of stroke diagnosis and treatment. To overcome such issues, recent pivotal studies on biomarker dynamics in individual patients are providing added value to diagnosis and anticipating patients' early prognosis. Presently, the most consistent protein biomarkers for stroke diagnosis and short‐ and long‐term prognosis are associated with tissue damage at neuronal (TAU), axonal (NFL), or astroglial (GFAP and S100β) levels. Most promising nucleic acids are microRNAs (miR), due to their stability in plasma and ease of access. Still, clinical validation and standardized quantitation place them a step behind compared protein as stroke biomarkers. Ultimately, the definition of clinically relevant biomarker panels and optimization of fast and sensitive biomarker measurements in the blood, together with their combination with clinical and neuroimaging data, will pave the way toward personalized stroke care.",
+      "corpusId": 250560868,
+      "url": "https://doi.org/10.1111/ane.13668",
+      "pubmed_id": "35838031",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1111/ane.13668",
+        "matched_title": "Fluid biomarkers in stroke: From animal models to clinical care.",
+        "matched_pubdate": "2022 Oct",
+        "matched_source": "Acta Neurol Scand"
+      }
+    },
+    {
+      "title": "Endogenous tPA levels: A biomarker for discriminating hemorrhagic stroke from ischemic stroke and stroke mimics",
+      "authors": [
+        {
+          "name": "Melissa Jauquet",
+          "id": "2320497219"
+        },
+        {
+          "name": "Pierre Gagnepain",
+          "id": "2281925551"
+        },
+        {
+          "name": "Estelle La Porte",
+          "id": "2320494380"
+        },
+        {
+          "name": "Audrey M Thiebaut",
+          "id": "32727465"
+        },
+        {
+          "name": "Ambre Rochey",
+          "id": "2320497217"
+        },
+        {
+          "name": "Hélène Legros",
+          "id": "2320495455"
+        },
+        {
+          "name": "Baptiste Laine",
+          "id": "2320501220"
+        },
+        {
+          "name": "Marion Berthelot",
+          "id": "2320497214"
+        },
+        {
+          "name": "Valerie Roussel",
+          "id": "2320497424"
+        },
+        {
+          "name": "Joan Montaner",
+          "id": "2068512714"
+        },
+        {
+          "name": "Barbara Casolla",
+          "id": "2287176033"
+        },
+        {
+          "name": "Denis Vivien",
+          "id": "2251956105"
+        },
+        {
+          "name": "Eloise Lemarchand",
+          "id": "7370527"
+        },
+        {
+          "name": "Richard Macrez",
+          "id": "2618884"
+        },
+        {
+          "name": "B. Roussel",
+          "id": "5372044"
+        }
+      ],
+      "year": 2024,
+      "venue": "Annals of Clinical and Translational Neurology",
+      "score": 0.3752738602109955,
+      "abstract": "Stroke is the leading cause of death and disability. Timely differentiation between ischemic stroke, hemorrhagic stroke, and stroke mimics is critical for tailored treatment and triage. To accelerate the identification of stroke's subtype, we propose to use the levels of circulating tPA as a biomarker.",
+      "corpusId": 272552671,
+      "url": "https://api.semanticscholar.org/CorpusId:272552671",
+      "pubmed_id": "39257037",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/acn3.52197",
+        "matched_title": "Endogenous tPA levels: A biomarker for discriminating hemorrhagic stroke from ischemic stroke and stroke mimics.",
+        "matched_pubdate": "2024 Nov",
+        "matched_source": "Ann Clin Transl Neurol"
+      }
+    },
+    {
+      "title": "NEW PERSPECTIVES IN NEUROPROTECTION FOR ISCHEMIC STROKE.",
+      "authors": [
+        {
+          "name": "M. Pérez-Mato",
+          "id": "1398420065"
+        },
+        {
+          "name": "Esteban López-Arias",
+          "id": "1413675505"
+        },
+        {
+          "name": "Ana Bugallo-Casal",
+          "id": "1402631568"
+        },
+        {
+          "name": "C. Correa-Paz",
+          "id": "1403650004"
+        },
+        {
+          "name": "S. Arias",
+          "id": "121599644"
+        },
+        {
+          "name": "M. Rodríguez-Yáñez",
+          "id": "1397973284"
+        },
+        {
+          "name": "M. Santamaría-Cadavid",
+          "id": "1404466744"
+        },
+        {
+          "name": "Francisco Campos",
+          "id": "2277465780"
+        }
+      ],
+      "year": 2024,
+      "venue": "Neuroscience",
+      "score": 0.3715385437525706,
+      "abstract": "The constant failure of new neuroprotective therapies for ischemic stroke has partially halted the search for new therapies in recent years, mainly because of the high investment risk required to develop a new treatment for a complex pathology, such as stroke, with a narrow intervention window and associated comorbidities. However, owing to recent progress in understanding the stroke pathophysiology, improvement in patient care in stroke units, development of new imaging techniques, search for new biomarkers for early diagnosis, and increasingly widespread use of mechanical recanalization therapies, new opportunities have opened for the study of neuroprotection. This review summarizes the main protective agents currently in use, some of which are already in the clinical evaluation phase. It also includes an analysis of how recanalization therapies, new imaging techniques, and biomarkers have improved their efficacy.",
+      "corpusId": 267761118,
+      "url": "https://api.semanticscholar.org/CorpusId:267761118",
+      "pubmed_id": "38387732",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.neuroscience.2024.02.017",
+        "matched_title": "New Perspectives in Neuroprotection for Ischemic Stroke.",
+        "matched_pubdate": "2024 Jul 9",
+        "matched_source": "Neuroscience"
+      }
+    },
+    {
+      "title": "Combination of blood biomarkers and stroke scales improves identification of large vessel occlusions",
+      "authors": [
+        {
+          "name": "E. Gaude",
+          "id": "3552412"
+        },
+        {
+          "name": "Barbara Nogueira",
+          "id": "2117482913"
+        },
+        {
+          "name": "S. Graham",
+          "id": "2117478486"
+        },
+        {
+          "name": "Sarah Smith",
+          "id": "2148657228"
+        },
+        {
+          "name": "Lisa Shaw",
+          "id": "36016713"
+        },
+        {
+          "name": "S. Graziadio",
+          "id": "1954734"
+        },
+        {
+          "name": "Gonzalo Ladreda Mochales",
+          "id": "2125068287"
+        },
+        {
+          "name": "Marcos Ladreda Mochales",
+          "id": "2125054701"
+        },
+        {
+          "name": "P. Sloan",
+          "id": "2117480543"
+        },
+        {
+          "name": "J. Bernstock",
+          "id": "5349008"
+        },
+        {
+          "name": "S. Shekhar",
+          "id": "2072371264"
+        },
+        {
+          "name": "T. Gropen",
+          "id": "4457719"
+        },
+        {
+          "name": "C. Price",
+          "id": "1619631200"
+        }
+      ],
+      "year": 2021,
+      "venue": "medRxiv",
+      "score": 0.37112647334192733,
+      "abstract": "Background and Purpose. Acute ischemic stroke caused by large vessel occlusions (LVO) is a major contributor to stroke deaths and disabilities; however, identification for emergency treatment is challenging. Aims. To evaluate the diagnostic accuracy of a panel of biomarkers for LVO prediction. Methods. 170 patients with suspected stroke were recruited retrospectively at one hospital. We analysed the plasma levels of D-dimer, OPN, OPG, GFAP, vWF, and ADAMTS13 in LVO vs non-LVO. Diagnostic performance was estimated by using blood biomarkers alone or in combination with NIHSS-derived stroke severity scales. Results. Our patient cohort comprised 20% stroke mimics, 11% transient ischemic attack, 11% hemorrhagic stroke, 15% LVO ischemic stroke, 28% non-LVO ischemic stroke, and 15% ischemic stroke with unknown LVO status. Multivariable analysis found that the optimal set of blood biomarkers for LVO prediction was D-dimer (OR 15.4, 95% CI 4.9 to 57.6; p-value<0.001) and GFAP (OR 0.83, 95% CI 0.90 to 0.99; p-value=0.03). The combination of D-dimer and GFAP with stroke scales significantly improved LVO prediction, compared to the stroke scales alone (p-value<0.001). The combination of biomarkers with constructed FAST-ED or EMSA scales achieved an AUC of 95% (95% CI 91-100%) or 93% (CI 95% 89-97%), a sensitivity of 91% (95% CI 71-98%) or 86 (95% CI 66-97%), and a specificity of 95% (95% CI 89-98%) or 94% (95% CI 88-98%), for LVO prediction, respectively. Conclusions. The combination of D-dimer, GFAP, and stroke scales could provide a simple and highly accurate tool for identifying LVO patients.",
+      "corpusId": 230968483,
+      "url": "https://api.semanticscholar.org/CorpusId:230968483",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Differential Proteomics for Distinguishing Ischemic Stroke from Controls: a Pilot Study of the SpecTRA Project",
+      "authors": [
+        {
+          "name": "A. Penn",
+          "id": "38306463"
+        },
+        {
+          "name": "V. Saly",
+          "id": "35520916"
+        },
+        {
+          "name": "A. Trivedi",
+          "id": "2080151738"
+        },
+        {
+          "name": "M. Lesperance",
+          "id": "2352649"
+        },
+        {
+          "name": "K. Votova",
+          "id": "51960262"
+        },
+        {
+          "name": "A. Jackson",
+          "id": "2345425"
+        },
+        {
+          "name": "N. Croteau",
+          "id": "40371669"
+        },
+        {
+          "name": "R. Balshaw",
+          "id": "2357243"
+        },
+        {
+          "name": "M. Bibok",
+          "id": "1878237"
+        },
+        {
+          "name": "D. S. Smith",
+          "id": "2111066164"
+        },
+        {
+          "name": "K. K. Lam",
+          "id": "2067720580"
+        },
+        {
+          "name": "J. Morrison",
+          "id": "35389249"
+        },
+        {
+          "name": "L. Lu",
+          "id": "2149374035"
+        },
+        {
+          "name": "S. Coutts",
+          "id": "2761330"
+        },
+        {
+          "name": "C. Borchers",
+          "id": "2123238"
+        }
+      ],
+      "year": 2018,
+      "venue": "Translational Stroke Research",
+      "score": 0.366811197977744,
+      "abstract": "A diagnostic blood test for stroke is desirable but will likely require multiple proteins rather than a single “troponin.” Validating large protein panels requires large patient numbers. Mass spectrometry (MS) is a cost-effective tool for this task. We compared differences in the abundance of 147 protein markers to distinguish 20 acute cerebrovascular syndrome (ACVS) patients who presented to the Emergency Department of one urban hospital within < 24 h from onset) and from 20 control patients who were enrolled via an outpatient neurology clinic. We targeted proteins from the stroke literature plus cardiovascular markers previously studied in our lab. One hundred forty-one proteins were quantified using MS, 8 were quantified using antibody protein enrichment with MS, and 32 were measured using ELISA, with some proteins measured by multiple techniques. Thirty proteins (4 by ELISA and 26 by the MS techniques) were differentially abundant between mimic and stroke after adjusting for age in robust regression analyses (FDR < 0.20). A logistic regression model using the first two principal components of the proteins significantly improved discrimination between strokes and controls compared to a model based on age alone (p < 0.001, cross-validated AUC 0.93 vs. 0.78). Significant proteins included markers of inflammation (47%), coagulation (40%), atrial fibrillation (7%), neurovascular unit injury (3%), and other (3%). These results suggest the potential value of plasma proteins as biomarkers for ACVS diagnosis and the role of plasma-based MS in this area.",
+      "corpusId": 33780184,
+      "url": "https://api.semanticscholar.org/CorpusId:33780184",
+      "pubmed_id": "29368175",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s12975-018-0609-z",
+        "matched_title": "Differential Proteomics for Distinguishing Ischemic Stroke from Controls: a Pilot Study of the SpecTRA Project.",
+        "matched_pubdate": "2018 Dec",
+        "matched_source": "Transl Stroke Res"
+      }
+    },
+    {
+      "title": "Prospective collection of blood plasma samples to identify potential biomarkers for the prehospital stroke diagnosis (ProGrEss-Bio): study protocol for a multicenter prospective observational study",
+      "authors": [
+        {
+          "name": "F. Geisler",
+          "id": "49272924"
+        },
+        {
+          "name": "Lisa Haacke",
+          "id": "2222117015"
+        },
+        {
+          "name": "Maren Lorenz",
+          "id": "2221962475"
+        },
+        {
+          "name": "Eugen Schwabauer",
+          "id": "15270884"
+        },
+        {
+          "name": "Matthias Wendt",
+          "id": "1400381204"
+        },
+        {
+          "name": "Lydia J. Bernhardt",
+          "id": "37799086"
+        },
+        {
+          "name": "Eman A Dashti",
+          "id": "14525369"
+        },
+        {
+          "name": "Erik Freitag",
+          "id": "3259598"
+        },
+        {
+          "name": "A. Kunz",
+          "id": "49449186"
+        },
+        {
+          "name": "Christina Hofmann-Shen",
+          "id": "1439882358"
+        },
+        {
+          "name": "Martina Zuber",
+          "id": "2222113294"
+        },
+        {
+          "name": "Carolin Waldschmidt",
+          "id": "38729516"
+        },
+        {
+          "name": "F. Kandil",
+          "id": "93841525"
+        },
+        {
+          "name": "K. Kappert",
+          "id": "145097584"
+        },
+        {
+          "name": "C. Dang‐Heine",
+          "id": "1402194319"
+        },
+        {
+          "name": "Irina Lorenz-Meyer",
+          "id": "1435536390"
+        },
+        {
+          "name": "H. Audebert",
+          "id": "4168720"
+        },
+        {
+          "name": "J. Weber",
+          "id": "143908201"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Neurology",
+      "score": 0.36640907743859213,
+      "abstract": "Introduction Intravenous thrombolysis (IVT) and mechanical thrombectomy (MT) are well-established, evidence-based, time-critical therapies that reduce morbidity and mortality in acute ischemic stroke (AIS) patients. The exclusion of intracerebral hemorrhage (ICH) is mandatory and has been performed by cerebral imaging to date. Mobile stroke units (MSUs) have been shown to improve functional outcomes by bringing cerebral imaging and IVT directly to the patient, but they have limited coverage. Blood biomarkers clearly distinguishing between AIS, ICH, and stroke mimics (SM) could provide an alternative to cerebral imaging if concentration changes are detectable in the hyperacute phase after stroke with high diagnostic accuracy. In this study, we will take blood samples in a prehospital setting to evaluate potential biomarkers. The study was registered in the German Clinical Trials Register (https://drks.de/search/de) with the identifier DRKS00023063. Methods and analysis We plan a prospective, observational study involving 300 patients with suspected stroke and symptom onset of ≤4.5 h before the collection of biomarkers. Study participants will be recruited from three sites in Berlin, Germany during MSU deployments. The focus of the study is the collection of blood samples from participants at the prehospital scene and from participants with AIS or ICH at a second-time point. All samples will be analyzed using targeted and untargeted analytical approaches. Study-related information about participants, including medical information and discharge diagnoses from the subsequent treating hospital, will be collected and documented in an electronic case report form (eCRF). Discussion This study will evaluate whether a single blood biomarker or a combination of biomarkers can distinguish patients with AIS and ICH from patients with stroke and SM in the early phase after symptom onset in the prehospital setting. In addition, the kinetics of blood biomarkers in AIS and ICH patients will be investigated. Our goal is to evaluate new ways to reliably diagnose stroke in the prehospital setting and thus accelerate the application of evidence-based therapies to stroke patients.",
+      "corpusId": 259565776,
+      "url": "https://api.semanticscholar.org/CorpusId:259565776",
+      "pubmed_id": "37483444",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fneur.2023.1201130",
+        "matched_title": "Prospective collection of blood plasma samples to identify potential biomarkers for the prehospital stroke diagnosis (ProGrEss-Bio): study protocol for a multicenter prospective observational study.",
+        "matched_pubdate": "2023",
+        "matched_source": "Front Neurol"
+      }
+    },
+    {
+      "title": "Blood-based protein biomarkers for the diagnosis of acute stroke: A discovery-based SWATH-MS proteomic approach",
+      "authors": [
+        {
+          "name": "S. Misra",
+          "id": "4641529"
+        },
+        {
+          "name": "Praveen Singh",
+          "id": "2109205648"
+        },
+        {
+          "name": "M. Nath",
+          "id": "152901680"
+        },
+        {
+          "name": "Divya Bhalla",
+          "id": "13195537"
+        },
+        {
+          "name": "S. Sengupta",
+          "id": "2099821410"
+        },
+        {
+          "name": "Amit Kumar",
+          "id": "2123128815"
+        },
+        {
+          "name": "A. Pandit",
+          "id": "4556406"
+        },
+        {
+          "name": "P. Aggarwal",
+          "id": "2070039871"
+        },
+        {
+          "name": "A. Srivastava",
+          "id": "32331196"
+        },
+        {
+          "name": "D. Mohania",
+          "id": "11217711"
+        },
+        {
+          "name": "K. Prasad",
+          "id": "144672244"
+        },
+        {
+          "name": "D. Vibha",
+          "id": "6721399"
+        }
+      ],
+      "year": 2022,
+      "venue": "Frontiers in Neurology",
+      "score": 0.3651143180305524,
+      "abstract": "Background and purposes Recent developments in high-throughput proteomic approach have shown the potential to discover biomarkers for diagnosing acute stroke and to elucidate the pathomechanisms specific to different stroke subtypes. We aimed to determine blood-based protein biomarkers to diagnose total stroke (IS+ICH) from healthy controls, ischemic stroke (IS) from healthy controls, and intracerebral hemorrhage (ICH) from healthy control subjects within 24 h using a discovery-based SWATH-MS proteomic approach. Methods In this discovery phase study, serum samples were collected within 24 h from acute stroke (IS & ICH) patients and healthy controls and were subjected to SWATH-MS-based untargeted proteomics. For protein identification, a high-pH fractionated peptide library for human serum proteins (obtained from SCIEX) comprising of 465 proteins was used. Significantly differentially expressed (SDE) proteins were selected using the following criteria: >1.5-fold change for upregulated, < 0.67 for downregulated, p-value < 0.05, and confirmed/tentative selection using Boruta random forest. Protein–protein interaction network analysis and the functional enrichment analysis were conducted using STRING 11 online tool, g:Profiler tool and Cytoscape 3.9.0 software. The statistical analyses were conducted in R version 3.6.2. Results Our study included 40 stroke cases (20 IS, 20 ICH) within 24 h and 40 age-, sex-, hypertension-, and diabetes-matched healthy controls. We quantified 375 proteins between the stroke cases and control groups through SWATH-MS analysis. We observed 31 SDE proteins between total stroke and controls, 16 SDE proteins between IS and controls, and 41 SDE proteins between ICH and controls within 24 h. Four proteins [ceruloplasmin, alpha-1-antitrypsin (SERPINA1), von Willebrand factor (vWF), and coagulation factor XIII B chain (F13B)] commonly differentiated total stroke, IS, and ICH from healthy control subjects. The most common significant pathways in stroke cases involved complement and coagulation cascades, platelet degranulation, immune-related processes, acute phase response, lipid-related processes, and pathways related to extracellular space and matrix. Conclusion Our discovery phase study identified potential protein biomarker candidates for the diagnosis of acute stroke and highlighted significant pathways associated with different stroke subtypes. These potential biomarker candidates warrant further validation in future studies with a large cohort of stroke patients to investigate their diagnostic performance.",
+      "corpusId": 252547173,
+      "url": "https://api.semanticscholar.org/CorpusId:252547173",
+      "pubmed_id": "36237606",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fneur.2022.989856",
+        "matched_title": "Blood-based protein biomarkers for the diagnosis of acute stroke: A discovery-based SWATH-MS proteomic approach.",
+        "matched_pubdate": "2022",
+        "matched_source": "Front Neurol"
+      }
+    },
+    {
+      "title": "Use of the Triage Stroke Panel in a neurologic emergency service.",
+      "authors": [
+        {
+          "name": "I. Sibon",
+          "id": "4559851"
+        },
+        {
+          "name": "F. Rouanet",
+          "id": "5473568"
+        },
+        {
+          "name": "W. Meissner",
+          "id": "144159732"
+        },
+        {
+          "name": "J. Orgogozo",
+          "id": "78018780"
+        }
+      ],
+      "year": 2009,
+      "venue": "American Journal of Emergency Medicine",
+      "score": 0.35913867740683464,
+      "abstract": "",
+      "corpusId": 205311207,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/19497461",
+      "pubmed_id": "19497461",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.ajem.2008.05.001",
+        "matched_title": "Use of the Triage Stroke Panel in a neurologic emergency service.",
+        "matched_pubdate": "2009 Jun",
+        "matched_source": "Am J Emerg Med"
+      }
+    },
+    {
+      "title": "Blood-Based Biomarkers in Intracerebral Hemorrhage",
+      "authors": [
+        {
+          "name": "Xin-Ni Lv",
+          "id": "2197893681"
+        },
+        {
+          "name": "Zuoqiao Li",
+          "id": "2128750847"
+        },
+        {
+          "name": "Qi Li",
+          "id": "2239646045"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.35878367826748253,
+      "abstract": "Intracerebral hemorrhage (ICH) is one of the most lethal subtypes of stroke, associated with high morbidity and mortality. Prevention of hematoma growth and perihematomal edema expansion are promising therapeutic targets currently under investigation. Despite recent improvements in the management of ICH, the ideal treatments are still to be determined. Early stratification and triage of ICH patients enable the adjustment of the standard of care in keeping with the personalized medicine principles. In recent years, research efforts have been concentrated on the development and validation of blood-based biomarkers. The benefit of looking for blood candidate markers is obvious because of their acceptance in terms of sample collection by the general population compared to any other body fluid. Given their ease of accessibility in clinical practice, blood-based biomarkers have been widely used as potential diagnostic, predictive, and prognostic markers. This review identifies some relevant and potentially promising blood biomarkers for ICH. These blood-based markers are summarized by their roles in clinical practice. Well-designed and large-scale studies are required to validate the use of all these biomarkers in the future.",
+      "corpusId": 264319439,
+      "url": "https://api.semanticscholar.org/CorpusId:264319439",
+      "pubmed_id": "37892701",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/jcm12206562",
+        "matched_title": "Blood-Based Biomarkers in Intracerebral Hemorrhage.",
+        "matched_pubdate": "2023 Oct 16",
+        "matched_source": "J Clin Med"
+      }
+    },
+    {
+      "title": "Plasma Glial Fibrillary Acidic Protein and N-Terminal Pro B-Type Natriuretic Peptide: Potential Biomarkers to Differentiate Ischemic and Hemorrhagic Stroke",
+      "authors": [
+        {
+          "name": "Eunhee Han",
+          "id": "39574392"
+        },
+        {
+          "name": "Hyejeong Kim",
+          "id": "2109579689"
+        },
+        {
+          "name": "Bongrae Cho",
+          "id": "2064491260"
+        },
+        {
+          "name": "J. Lee",
+          "id": "2108426735"
+        },
+        {
+          "name": "Soyoung Shin",
+          "id": "152214134"
+        },
+        {
+          "name": "Eun-Jee Oh",
+          "id": "2061221118"
+        },
+        {
+          "name": "H. Chae",
+          "id": "38147061"
+        }
+      ],
+      "year": 2023,
+      "venue": "Diagnostics",
+      "score": 0.35825645596854816,
+      "abstract": "Acute stroke management is critically time-sensitive and challenging. Blood-based biomarkers that can differentiate acute ischemic stroke (IS) from hemorrhagic stroke (HS) can greatly facilitate triage and early management. Admission blood samples obtained within 6 h of stroke symptom onset were analyzed in a derivation/validation design. GFAP, N-FL, NT-proBNP, copeptin, neutrophils (%), NLR, and platelet counts were assessed in the derivation cohort. The informative markers and the derived cutoff values were evaluated in the validation cohort. GFAP > 703 pg/mL showed a PPV of 76.9% and NPV of 95.8% for differentiating HS from IS. Multiple logistic regression analysis showed that GFAP and NT-proBNP were independent variables associated with IS and HS differentiation. Furthermore, applying a combined cutoff (GFAP > 703 pg/mL and NT-proBNP ≤ 125 pg/mL) for HS detection increased the PPV in both the derivation and validation cohorts (93.3% and 100%, respectively). GFAP and NT-proBNP levels were validated as informative blood biomarkers in the differentiation of IS and HS and using a combination of GFAP and NT-proBNP is suggested as a feasible strategy to differentiate stroke subtypes in the hyperacute phase of stroke.",
+      "corpusId": 261181634,
+      "url": "https://api.semanticscholar.org/CorpusId:261181634",
+      "pubmed_id": "37685295",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/diagnostics13172757",
+        "matched_title": "Plasma Glial Fibrillary Acidic Protein and N-Terminal Pro B-Type Natriuretic Peptide: Potential Biomarkers to Differentiate Ischemic and Hemorrhagic Stroke.",
+        "matched_pubdate": "2023 Aug 25",
+        "matched_source": "Diagnostics (Basel)"
+      }
+    },
+    {
+      "title": "Optimization of sensitivity and specificity of a biomarker-based blood test (LVOCheck-Opti): A protocol for a multicenter prospective observational study of patients suspected of having a stroke",
+      "authors": [
+        {
+          "name": "Maximilian Kaffes",
+          "id": "2051909744"
+        },
+        {
+          "name": "Fulvio Bondi",
+          "id": "2282799185"
+        },
+        {
+          "name": "F. Geisler",
+          "id": "49272924"
+        },
+        {
+          "name": "U. Grittner",
+          "id": "2263707496"
+        },
+        {
+          "name": "Lisa Haacke",
+          "id": "2222117015"
+        },
+        {
+          "name": "Thomas Ihl",
+          "id": "1393130223"
+        },
+        {
+          "name": "Maren Lorenz",
+          "id": "2221962475"
+        },
+        {
+          "name": "Marc S. Schehadat",
+          "id": "2282799611"
+        },
+        {
+          "name": "Eugen Schwabauer",
+          "id": "15270884"
+        },
+        {
+          "name": "Matthias Wendt",
+          "id": "1400381204"
+        },
+        {
+          "name": "Martina Zuber",
+          "id": "2222113294"
+        },
+        {
+          "name": "D. Kübler-Weller",
+          "id": "2222633857"
+        },
+        {
+          "name": "Irina Lorenz-Meyer",
+          "id": "1435536390"
+        },
+        {
+          "name": "Jean-Charles Sánchez",
+          "id": "2194214279"
+        },
+        {
+          "name": "Joan Montaner",
+          "id": "2068512714"
+        },
+        {
+          "name": "Heinrich J. Audebert",
+          "id": "2251551070"
+        },
+        {
+          "name": "J. Weber",
+          "id": "143908201"
+        }
+      ],
+      "year": 2024,
+      "venue": "Frontiers in Neurology",
+      "score": 0.3577374112897644,
+      "abstract": "Introduction Acute ischemic stroke (AIS) is a time-critical medical emergency. For patients with large-vessel occlusions (LVO), mechanical thrombectomy (MT) is the gold-standard treatment. Mobile Stroke Units (MSUs) provide on-site diagnostic capabilities via computed tomography (CT) and have been shown to improve functional outcomes in stroke patients, but are cost-efficient only in urban areas. Blood biomarkers have recently emerged as possible alternative to cerebral imaging for LVO diagnosis. Prehospital LVO diagnosis offers the potential to transport patients directly to centers that have MT treatment available. In this study, we assess the accuracy of combining two biomarkers, HFABP and NT-proBNP, with clinical indicators to detect LVO using ultra-early prehospital blood samples. The study was registered in the German Clinical Trials Register (DRKS-ID: DRKS00030399). Methods and analysis We plan a multicenter prospective observational study with 800 patients with suspected stroke enrolled within 24 h of symptom onset. Study participants will be recruited at three sites (MSUs) in Berlin, Germany. Blood-samples will be taken pre-hospitally at the scene and tested for HFABP and NT-proBNP levels. Additional clinical data and information on final diagnosis will be collected and documented in an electronic case report form (eCRF). Sensitivity and specificity of the combination will be calculated through iterative permutation-response calculations. Discussion This study aims to evaluate the diagnostic capabilities of a combination of the biomarkers HFABP and NT-proBNP in LVO prediction. In contrast to most other biomarker studies to date, by employing MSUs as study centers, ultra-early levels of biomarkers can be analyzed. Point-of-care LVO detection in suspected stroke could lead to faster treatment in both urban and rural settings and thus improve functional outcomes on a broader scale. Clinical trial registration Deutsches Register klinischer Studien https://drks.de/search/de/trial/DRKS00030399, DRKS00030399",
+      "corpusId": 267464717,
+      "url": "https://api.semanticscholar.org/CorpusId:267464717",
+      "pubmed_id": "38371304",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fneur.2023.1327348",
+        "matched_title": "Optimization of sensitivity and specificity of a biomarker-based blood test (LVOCheck-Opti): A protocol for a multicenter prospective observational study of patients suspected of having a stroke.",
+        "matched_pubdate": "2023",
+        "matched_source": "Front Neurol"
+      }
+    },
+    {
+      "title": "Progress and potential roles blood biomarkers of ischemic stroke in clinical setting",
+      "authors": [
+        {
+          "name": "Kadek Adit Wiryadana",
+          "id": "82931048"
+        },
+        {
+          "name": "G. P. Supadmanaba",
+          "id": "122225049"
+        },
+        {
+          "name": "Purwa Samatra",
+          "id": "2089628986"
+        }
+      ],
+      "year": 2017,
+      "venue": "unknown",
+      "score": 0.35074359645556136,
+      "abstract": "Stroke is one of the leading causes of death and disability which involving a complex pathophysiology with multiple mechanisms. Rapid treatment is necessary to terminate the disease progression, hence minimizing CNS damage and subsequent disability. Stroke diagnostic process composed of history taking, neurological examination and supplemented with neuroimaging. Imaging modalities such as CT-scan or MRI are essential in establishing a definitive diagnosis of ischemic stroke. However, the high cost and limited number made them inaccessible for those who have low or middle income which will delay the diagnosis and treatment. On the other hand, blood biomarker has potential in either diagnostic or prognostic aspect of ischaemic stroke management. It has a promising potential to aid diagnosis, determine the subtype of stroke, predicting the outcome or early neurological deterioration, and recurrence. It also could potentially help to assess the risk of hemorrhagic transformation, treatment selection, as well as to detect salvageable ischemic penumbra. Although it could not replace neuroimaging, blood-based biomarker assessment had lower cost and faster result. However, despite its promising potential, none of the blood biomarkers is currently used in clinical practice. Therefore, further studies are needed to develop biomarkers or panels of biomarkers with better sensitivity and specificity. This review provides a highlight and summary of blood biomarkers based on their potential application in a clinical setting.",
+      "corpusId": 56294285,
+      "url": "https://api.semanticscholar.org/CorpusId:56294285",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Improving Stroke Outcome Prediction Using Molecular and Machine Learning Approaches in Large Vessel Occlusion",
+      "authors": [
+        {
+          "name": "Madhusmita Rout",
+          "id": "114192862"
+        },
+        {
+          "name": "A. Vaughan",
+          "id": "2127647038"
+        },
+        {
+          "name": "Evgeny V Sidorov",
+          "id": "2282427420"
+        },
+        {
+          "name": "D. Sanghera",
+          "id": "3295602"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.34806363883419134,
+      "abstract": "Introduction: Predicting stroke outcomes in acute ischemic stroke (AIS) can be challenging, especially for patients with large vessel occlusion (LVO). Available tools such as infarct volume and the National Institute of Health Stroke Scale (NIHSS) have shown limited accuracy in predicting outcomes for this specific patient population. The present study aimed to confirm whether sudden metabolic changes due to blood-brain barrier (BBB) disruption during LVO reflect differences in circulating metabolites and RNA between small and large core strokes. The second objective was to evaluate whether integrating molecular markers with existing neurological and imaging tools can enhance outcome predictions in LVO strokes. Methods: The infarction volume in patients was measured using magnetic resonance diffusion-weighted images, and the 90-day stroke outcome was defined by a modified Rankin Scale (mRS). Differential expression patterns of miRNAs were identified by RNA sequencing of serum-driven exosomes. Nuclear magnetic resonance (NMR) spectroscopy was used to identify metabolites associated with AIS with small and large infarctions. Results: We identified 41 miRNAs and 11 metabolites to be significantly associated with infarct volume in a multivariate regression analysis after adjusting for the confounders. Eight miRNAs and ketone bodies correlated significantly with infarct volume, NIHSS (severity), and mRS (outcome). Through integrative analysis of clinical, radiological, and omics data using machine learning, our study identified 11 top features for predicting stroke outcomes with an accuracy of 0.81 and AUC of 0.91. Conclusions: Our study provides a future framework for advancing stroke therapeutics by incorporating molecular markers into the existing neurological and imaging tools to improve predictive efficacy and enhance patient outcomes.",
+      "corpusId": 273113437,
+      "url": "https://api.semanticscholar.org/CorpusId:273113437",
+      "pubmed_id": "39407977",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/jcm13195917",
+        "matched_title": "Improving Stroke Outcome Prediction Using Molecular and Machine Learning Approaches in Large Vessel Occlusion.",
+        "matched_pubdate": "2024 Oct 3",
+        "matched_source": "J Clin Med"
+      }
+    },
+    {
+      "title": "Blood Biomarkers in Cardioembolic Stroke",
+      "authors": [
+        {
+          "name": "Teresa García-Berrocoso",
+          "id": "1398205578"
+        },
+        {
+          "name": "I. Férnandez-Cadenas",
+          "id": "1398240962"
+        },
+        {
+          "name": "P. Delgado",
+          "id": "143793583"
+        },
+        {
+          "name": "A. Rosell",
+          "id": "2500670"
+        },
+        {
+          "name": "J. Montaner",
+          "id": "3345670"
+        }
+      ],
+      "year": 2010,
+      "venue": "Current Cardiology Reviews",
+      "score": 0.3338435888650973,
+      "abstract": "One promising field in neurovascular diseases investigation is the use of biomarkers to guide stroke etiology diagnosis and classification. Since treatment differs among etiologic subtypes and nowadays many patients receive a diagnosis of undetermined stroke, biomarkers might become an important additional diagnostic tool. In this review we update current knowledge about biomarkers related with cardioembolic stroke etiology (such as BNP and D-dimer proteins, or PITX2 and ZFHX3 genes), that in the future, might allow rapidly guiding other diagnostic tests and accelerating the onset of an optimal secondary prevention.",
+      "corpusId": 8878619,
+      "url": "https://api.semanticscholar.org/CorpusId:8878619",
+      "pubmed_id": "21804778",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2174/157340310791658767",
+        "matched_title": "Blood biomarkers in cardioembolic stroke.",
+        "matched_pubdate": "2010 Aug",
+        "matched_source": "Curr Cardiol Rev"
+      }
+    },
+    {
+      "title": "Emerging biomarkers in ischemic stroke",
+      "authors": [
+        {
+          "name": "Jessie Lee",
+          "id": "120704969"
+        },
+        {
+          "name": "Peter S Giannaris",
+          "id": "2378733220"
+        },
+        {
+          "name": "C. Yilmaz",
+          "id": "8028157"
+        },
+        {
+          "name": "Gokhan Yilmaz",
+          "id": "2302640992"
+        }
+      ],
+      "year": 2025,
+      "venue": "Vessel Plus",
+      "score": 0.33005921675772304,
+      "abstract": "Ischemic stroke is a devastating global public health problem and the leading cause of acute death and chronic disability. Despite being the diagnostic cornerstone, limitations in neuroimaging, including availability, cost, and therapeutic window, have rekindled interest in biomarker-based approaches. Biomarkers will be employed to facilitate the eventual prediction, early diagnosis, and prognosis of strokes, as well as to inform person-centered medicine. This review summarizes recent advances in the search for biomarkers related to inflammatory, endothelial, metabolic, and neuroaxonal pathways. Interleukin-6 (IL-6), asymmetric dimethylarginine (ADMA), endothelial microparticles (EMP), and homocysteine serve as predictive biomarkers corresponding to vascular risk and inflammatory priming. Glial fibrillary acidic protein (GFAP), D-dimer, and neuron-specific enolase (NSE) are diagnostic markers that can already subtype stroke and estimate lesion burden. Prognostic biomarkers, such as serum neurofilament light chain (sNfL), N-terminal pro-B-type natriuretic peptide (NT-pro-BNP), and growth differentiation factor 15 (GDF-15), are associated with infarct size and long-term outcomes. The -omic sciences (genomic, proteomic, and metabolomic) have discovered defined molecular signatures and panels with high specificity to describe heterogeneity in stroke. Cerebrospinal fluid (CSF) biomarkers and newer imaging modalities, such as those provided through positron emission tomography/computed tomography (PET/CT), offer valuable adjuncts to blood biomarkers in the diagnosis of conditions. Translational potential is hindered by heterogeneity in the transcriptional landscape.",
+      "corpusId": 281259141,
+      "url": "https://api.semanticscholar.org/CorpusId:281259141",
+      "pubmed_id": "40949500",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.20517/2574-1209.2025.58",
+        "matched_title": "Emerging biomarkers in ischemic stroke.",
+        "matched_pubdate": "2025",
+        "matched_source": "Vessel Plus"
+      }
+    },
+    {
+      "title": "Plasma Profiles of Neuroglial Injury Biomarkers after Ischemic Stroke",
+      "authors": [
+        {
+          "name": "Karl Sjölin",
+          "id": "2174050631"
+        },
+        {
+          "name": "Björn Röyter",
+          "id": "2364332900"
+        },
+        {
+          "name": "B. Forgó",
+          "id": "13604097"
+        },
+        {
+          "name": "J. Aulin",
+          "id": "13114382"
+        },
+        {
+          "name": "K. Kultima",
+          "id": "2268614922"
+        },
+        {
+          "name": "Johan Lindbäck",
+          "id": "2375193919"
+        },
+        {
+          "name": "Jakob O. Ström",
+          "id": "2364345933"
+        },
+        {
+          "name": "J. Burman",
+          "id": "2065557046"
+        }
+      ],
+      "year": 2025,
+      "venue": "Translational Stroke Research",
+      "score": 0.328244873960631,
+      "abstract": "To determine the temporal profiles of glial fibrillary acidic protein (GFAP), neurofilament light (NFL), total tau (t-tau), and ubiquitin carboxy-terminal hydrolase L1 (UCHL1) in plasma the first week after acute ischemic stroke, and identify the optimal time points for assessing infarct volume by these biomarkers. In this cohort study, biomarker plasma concentrations were determined daily over the first week and at 90 days after symptom onset in patients with acute ischemic stroke. A brain MRI was performed on day three. Temporal variations in biomarker levels were analyzed using linear mixed-effects models, and optimal time points for infarct volume correlation were identified with continuous Pearson analysis. 38 patients with a median age of 78 (IQR 72–86) and mean infarct volume of 5.5 (IQR 1.6–17) cm3 were included. We identified three distinct temporal patterns: (1) a parabolic trajectory of GFAP, reaching zenith after three days, (2) a consistent increase in NFL throughout the week, and (3) an initial surge in t-tau and UCHL1 levels, stabilizing by day three. The optimal time point for infarct volume correlation occurred at 119 h for GFAP (r = 0.94, 95% CI: [0.84–0.98]), 144 h for NFL (r = 0.78, [0.47, 0.92]), 122 h for t-tau (r = 0.82, [0.56, 0.93]) and 113 h for UCHL1 (r = 0.83, [0.60, 0.93]). This high-resolution serial sampling of plasma GFAP, NFL, t-tau, and UCHL1 the first week after acute ischemic stroke identified three distinct temporal profiles. These biomarkers provided the most accurate infarct volume assessment 4–6 days after symptom onset. Clinicaltrials.gov NCT03812666 (registration date 2019-01-23).",
+      "corpusId": 281083864,
+      "url": "https://api.semanticscholar.org/CorpusId:281083864",
+      "pubmed_id": "40900222",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s12975-025-01380-y",
+        "matched_title": "Plasma Profiles of Neuroglial Injury Biomarkers after Ischemic Stroke.",
+        "matched_pubdate": "2025 Dec",
+        "matched_source": "Transl Stroke Res"
+      }
+    }
+  ]
+}

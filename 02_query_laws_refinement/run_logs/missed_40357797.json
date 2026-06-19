@@ -1,0 +1,41 @@
+[
+  {
+    "pmid": "15863746",
+    "title": "Distinctive neurocognitive effects of repetitive transcranial magnetic stimulation and electroconvulsive therapy in major depression.",
+    "abstract": "Studies have compared electroconvulsive therapy (ECT) and repetitive transcranial magnetic stimulation (rTMS) with regard to clinical efficacy in the treatment of depression, but no study has yet addressed the differential impact on cognition.\nTo compare the neurocognitive effects of unilateral ECT and rTMS.\nThirty patients with treatment-refractory non-psychotic major depression received an average of ten treatments with either unilateral ECT or left prefrontal rTMS and were assessed for objective and subjective cognitive impairments before and about a week after treatment.\nTreatment response was comparable (46% of the ECT group and 44% of the rTMS group showed a reduction of 50% or more in Hamilton Rating Scale for Depression scores). In patients treated with rTMS, cognitive performance remained constant or improved and memory complaints alleviated, whereas in the ECT group memory recall deficits emerged and memory complaints remained.\nIn contrast to unilateral ECT, rTMS has no adverse memory effects.",
+    "mesh_terms": [
+      "Analysis of Variance",
+      "Major Depressive Disorder",
+      "Electric Stimulation Therapy",
+      "Electroconvulsive Therapy",
+      "Female",
+      "Humans",
+      "Male",
+      "Memory Disorders",
+      "Middle Aged",
+      "Transcranial Magnetic Stimulation"
+    ]
+  },
+  {
+    "pmid": "25220219",
+    "title": "Cognitive side-effects of electroconvulsive therapy in elderly depressed patients.",
+    "abstract": "Knowledge about cognitive side-effects induced by electroconvulsive therapy (ECT) in depressed elderly patients is sparse. In this study we investigated changes in the cognitive functioning of non-demented elderly depressed patients receiving ECT (n = 62) compared with healthy elderly people (n = 17). Neuropsychological tests were administered at the start of treatment and again within 1 week after treatment. We computed reliable change indices (RCIs) using simple regression methods. RCIs are statistical methods for analyzing change in individuals that have not yet been used in studies of the acute cognitive side-effects of ECT. At the group level, only letter fluency performance was found to be significantly reduced in the ECT group compared with the controls, whereas both groups demonstrated stable or improved performance on all other measures. At the individual level, however, 11% of patients showed retrograde amnesia for public facts post-ECT and 40% of the patients showed a significant decline in neuropsychological functioning. Decline on a measure of delayed verbal anterograde memory was most common. Our findings indicate that there are mild neurocognitive impairments in the acute phase for a substantial minority of elderly patients receiving ECT. Analysis of reliable change facilitated the illumination of cognitive side-effects in our sample.",
+    "mesh_terms": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Amnesia, Anterograde",
+      "Amnesia, Retrograde",
+      "Cognition",
+      "Cognitive Dysfunction",
+      "Major Depressive Disorder",
+      "Electroconvulsive Therapy",
+      "Executive Function",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Neuropsychological Tests"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:47:57Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41641734_2026",
+  "domain_folder": "04_Oncology",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Solitary Pulmonary Nodule\"[Mesh] OR \"solitary pulmonary nodule\"[tiab] OR \"solitary pulmonary nodules\"[tiab] OR \"pulmonary nodule\"[tiab] OR \"pulmonary nodules\"[tiab] OR SPN[tiab] OR \"coin lesion\"[tiab] OR \"coin lesions\"[tiab]) AND (incidental*[tiab] OR incidentally[tiab] OR \"incidentally detected\"[tiab] OR \"incidentally discovered\"[tiab] OR \"incidental finding\"[tiab] OR \"incidental findings\"[tiab]) AND (\"Lung Neoplasms\"[Mesh] OR malignan*[tiab] OR benign[tiab] OR \"lung cancer\"[tiab] OR \"risk factor\"[tiab] OR \"risk factors\"[tiab] OR predictor*[tiab] OR \"risk stratification\"[tiab]))",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\04_Oncology\\41641734_2026\\without_laws"
+}

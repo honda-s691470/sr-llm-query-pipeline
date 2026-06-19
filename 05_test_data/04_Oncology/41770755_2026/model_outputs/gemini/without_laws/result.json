@@ -1,0 +1,8 @@
+{
+  "provider": "gemini",
+  "condition": "without_laws",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41770755_2026",
+  "query": "(\"Neoplasms\"[Mesh] OR cancer*[tiab] OR oncolog*[tiab] OR neoplasm*[tiab] OR tumor*[tiab] OR tumour*[tiab] OR malignan*[tiab]) AND (\"Prehabilitation\"[Mesh] OR prehabilitation[tiab] OR pre-habilitation[tiab] OR prehab[tiab] OR ((\"Preoperative Care\"[Mesh] OR preoperative[tiab] OR pre-operative[tiab] OR \"pre-treatment\"[tiab] OR pretreatment[tiab]) AND (exercise*[tiab] OR training[tiab] OR nutrition*[tiab] OR psycholog*[tiab] OR multimodal[tiab] OR multi-modal[tiab] OR multicomponent[tiab] OR \"multi-component\"[tiab] OR multidisciplinary[tiab] OR physical[tiab] OR intervention*[tiab] OR program*[tiab]))) AND (\"Telemedicine\"[Mesh] OR \"Mobile Applications\"[Mesh] OR \"Internet-Based Intervention\"[Mesh] OR \"Wearable Electronic Devices\"[Mesh] OR digital*[tiab] OR telehealth[tiab] OR telemedicine[tiab] OR ehealth[tiab] OR mhealth[tiab] OR \"mobile health\"[tiab] OR app[tiab] OR apps[tiab] OR application*[tiab] OR wearable*[tiab] OR internet*[tiab] OR online[tiab] OR virtual[tiab] OR remote*[tiab] OR smartphone*[tiab] OR web-based[tiab]) AND 2008/01/01:3000/12/31[dp] AND English[la] NOT (Review[pt] OR Editorial[pt] OR Letter[pt] OR Case Reports[pt] OR \"Comment\"[pt] OR \"Protocol\"[ti] OR \"Study Protocol\"[ti])",
+  "status": "ok"
+}

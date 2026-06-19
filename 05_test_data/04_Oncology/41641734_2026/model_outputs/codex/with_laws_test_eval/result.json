@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:53:27Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41641734_2026",
+  "provider": "codex",
+  "model": "gpt-5.3-codex",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Solitary Pulmonary Nodule\"[Mesh] OR \"solitary pulmonary nodule\"[tiab] OR \"solitary pulmonary nodules\"[tiab] OR \"solitary lung nodule\"[tiab] OR \"solitary lung nodules\"[tiab] OR \"pulmonary nodule\"[tiab] OR \"pulmonary nodules\"[tiab] OR \"lung nodule\"[tiab] OR \"lung nodules\"[tiab] OR \"indeterminate pulmonary nodule\"[tiab] OR \"indeterminate pulmonary nodules\"[tiab] OR \"incidental pulmonary nodule\"[tiab] OR \"incidental pulmonary nodules\"[tiab] OR \"incidentally detected pulmonary nodule\"[tiab] OR \"incidentally detected pulmonary nodules\"[tiab] OR SPN[tiab] OR SPNs[tiab] OR \"coin lesion\"[tiab] OR \"coin lesions\"[tiab]) AND (\"Lung Neoplasms\"[Mesh] OR \"lung neoplasm\"[tiab] OR \"lung neoplasms\"[tiab] OR \"lung cancer\"[tiab] OR \"lung cancers\"[tiab] OR malignan*[tiab] OR benign[tiab] OR \"malignant nodule\"[tiab] OR \"malignant nodules\"[tiab] OR \"benign nodule\"[tiab] OR \"benign nodules\"[tiab] OR carcinoma*[tiab]))",
+  "query_length": 910,
+  "gold_count": 54,
+  "total_hits": 13375,
+  "hit_gold_count": 50,
+  "recall": 0.925925925925926,
+  "nnr": 267.5,
+  "f1": 0.007446570854121677,
+  "error_note": ""
+}

@@ -1,0 +1,41 @@
+# Requirements for Dataset_MetaAnalysis_GroundTruth / public_release
+# Python 3.14.2
+#
+# Install: pip install -r requirements.txt
+#
+# Note on PyTorch:
+#   The version below was tested on CUDA 12.8 (torch==2.11.0+cu128).
+#   For CPU-only environments, replace with: pip install torch==2.11.0
+#   For other CUDA versions, see https://pytorch.org/get-started/locally/
+
+# ── 06_exclusion_screening_pipeline (Stage A'→A→B→C pipeline) ──────────────
+
+# Anthropic Claude API (Stage A' rewrite LLM, HyDE generation)
+anthropic==0.86.0
+
+# Google Gemini API (Gemini provider for query generation and HyDE)
+google-generativeai==0.8.6
+
+# OpenAI API (optional: Codex/GPT provider for HyDE via --hyde-api flag)
+# openai>=1.0.0
+
+# Dense retrieval encoder for Stage C ranking (MedCPT)
+sentence-transformers==5.3.0
+transformers==5.3.0
+torch==2.11.0
+
+# Numerical computation (Stage C scoring)
+numpy==2.4.2
+
+# ── 01_hypothesis_accumulation / 02_query_laws_refinement /
+#    03_hypothesis_accumlation_test (query generation pipeline) ────────────
+
+# HTTP requests (PubMed API, Entrez eutils)
+requests==2.32.5
+
+# Environment variable management (.env file for API keys)
+python-dotenv==1.2.2
+
+# ── paper/figures (figure generation scripts) ─────────────────────────────
+
+matplotlib==3.10.8

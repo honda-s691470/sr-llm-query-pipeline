@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T18:09:14Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41108024_2025",
+  "provider": "gemini",
+  "model": "gemini-3.0-pro",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab]) AND (\"Analgesics\"[Mesh] OR \"Physical Therapy Modalities\"[Mesh] OR \"Complementary Therapies\"[Mesh] OR \"Anti-Inflammatory Agents\"[Mesh] OR \"Biological Products\"[Mesh] OR \"Adrenal Cortex Hormones\"[Mesh] OR \"Acupuncture Therapy\"[Mesh] OR \"Ultrasonic Therapy\"[Mesh] OR \"Electric Stimulation Therapy\"[Mesh] OR \"Cognitive Behavioral Therapy\"[Mesh] OR \"Occupational Therapy\"[Mesh] OR analgesic*[tiab] OR NSAID*[tiab] OR \"non-steroidal anti-inflammatory\"[tiab] OR opioid*[tiab] OR acetaminophen[tiab] OR paracetamol[tiab] OR \"COX-2\"[tiab] OR corticosteroid*[tiab] OR biologic*[tiab] OR \"physical therapy\"[tiab] OR physiotherapy[tiab] OR \"occupational therapy\"[tiab] OR \"cognitive behavior*\"[tiab] OR \"cognitive behaviour*\"[tiab] OR acupuncture[tiab] OR balneotherapy[tiab] OR hydrotherapy[tiab] OR ultraso*[tiab] OR laser*[tiab] OR electrotherap*[tiab] OR hypnotherapy[tiab] OR ergotherapy[tiab] OR thermotherapy[tiab] OR \"neural training\"[tiab] OR \"functional training\"[tiab]) AND (\"Pain\"[Mesh] OR \"Pain Management\"[Mesh] OR pain[tiab])",
+  "query_length": 1092,
+  "gold_count": 26,
+  "total_hits": 5174,
+  "hit_gold_count": 24,
+  "recall": 0.9230769230769232,
+  "nnr": 215.58333333333334,
+  "f1": 0.00923076923076923,
+  "error_note": ""
+}

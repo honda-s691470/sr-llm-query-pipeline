@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41781990_2026",
+  "query": "(\"hyperthermic intraperitoneal chemotherapy\"[Title/Abstract] OR \"HIPEC\"[Title/Abstract] OR \"hyperthermic intraperitoneal\"[Title/Abstract]) AND (\"gastric cancer\"[Title/Abstract] OR \"stomach cancer\"[Title/Abstract] OR \"colorectal cancer\"[Title/Abstract] OR \"colon cancer\"[Title/Abstract] OR \"rectal cancer\"[Title/Abstract] OR \"gastrointestinal\"[Title/Abstract]) AND (\"peritoneal metastases\"[Title/Abstract] OR \"peritoneal carcinomatosis\"[Title/Abstract] OR \"peritoneal dissemination\"[Title/Abstract] OR \"peritoneal involvement\"[Title/Abstract]) AND (\"randomized controlled trial\"[Publication Type] OR \"randomized controlled trial\"[Title/Abstract] OR \"RCT\"[Title/Abstract] OR \"randomised controlled trial\"[Title/Abstract]) AND (\"safety\"[Title/Abstract] OR \"adverse\"[Title/Abstract] OR \"complication\"[Title/Abstract] OR \"toxicity\"[Title/Abstract] OR \"morbidity\"[Title/Abstract])",
+  "status": "ok"
+}

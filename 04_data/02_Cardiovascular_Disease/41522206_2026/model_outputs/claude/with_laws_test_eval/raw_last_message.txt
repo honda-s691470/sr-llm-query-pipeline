@@ -1,0 +1,32 @@
+target_name: 41522206_2026
+topic: Assess the impact of GLP-1 receptor agonists on all-cause mortality, MACE, and MAKE in adult kidney transplant recipients with type 2 diabetes mellitus.
+
+STEP 0 — Paper identity confirmed: 41522206_2026, GLP-1 RA effects in kidney transplant recipients with T2DM.
+
+STEP 1 — Study design filter decision:
+Acceptable designs: (1) randomized controlled trial, (2) observational design (prospective or retrospective cohort study).
+Count = 2 distinct types → STUDY_FILTER = OMIT.
+Query = (PRIMARY_CONCEPT) only.
+
+STEP 2 — Classify inclusion criteria:
+- Adult kidney transplant recipients: CORE → CONDITION/POPULATION block
+- Type 2 diabetes mellitus: CORE → CONDITION block
+- GLP-1 receptor agonist treatment: CORE → INTERVENTION block
+- Outcomes (all-cause mortality, MACE, MAKE): NON-CORE → outcome measures, screened at full-text
+
+STEP 3 — AND block budget check:
+Planned blocks: (1) kidney transplant, (2) type 2 diabetes, (3) GLP-1 RA
+Count = 3 → within budget.
+
+STEP 4 — Population/ethnicity structure check:
+No ethnicity/nationality terms. Not applicable.
+
+STEP 5 — Broad fallback floor check:
+- Kidney transplant block: includes "Kidney Transplantation"[Mesh] as broad class + specific tiab variants. OK.
+- T2DM block: includes "Diabetes Mellitus, Type 2"[Mesh] as broad class + specific tiab variants including post-transplant diabetes variants. OK.
+- GLP-1 RA block: includes "Glucagon-Like Peptide-1 Receptor"[Mesh] as broad class + "GLP-1 receptor agonist"[tiab] as broad class term + specific drug names (semaglutide, liraglutide, exenatide, dulaglutide, albiglutide, lixisenatide). OK.
+
+Date/language filter: NOT APPLIED (not stated in inclusion criteria).
+Final AND block count: 3.
+
+FULL_QUERY: ("Kidney Transplantation"[Mesh] OR "kidney transplant"[tiab] OR "renal transplant"[tiab] OR "kidney transplantation"[tiab] OR "renal transplantation"[tiab] OR "transplant recipient"[tiab] OR "transplant recipients"[tiab]) AND ("Diabetes Mellitus, Type 2"[Mesh] OR "type 2 diabetes"[tiab] OR "type 2 diabetes mellitus"[tiab] OR "T2DM"[tiab] OR "T2D"[tiab] OR "non-insulin-dependent diabetes"[tiab] OR "posttransplant diabetes"[tiab] OR "post-transplant diabetes"[tiab] OR "new-onset diabetes after transplant"[tiab] OR "NODAT"[tiab]) AND ("Glucagon-Like Peptide-1 Receptor"[Mesh] OR "GLP-1 receptor agonist"[tiab] OR "GLP-1 receptor agonists"[tiab] OR "GLP1 receptor agonist"[tiab] OR "glucagon-like peptide-1 receptor agonist"[tiab] OR "glucagon-like peptide 1 receptor agonist"[tiab] OR semaglutide[tiab] OR liraglutide[tiab] OR exenatide[tiab] OR dulaglutide[tiab] OR albiglutide[tiab] OR lixisenatide[tiab] OR "GLP-1 agonist"[tiab] OR "GLP-1 agonists"[tiab] OR "incretin"[tiab])

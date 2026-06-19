@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T16:05:32Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "40815363_2025",
+  "provider": "gemini",
+  "model": "gemini-3.0-pro",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Probiotics\"[Mesh] OR probiotic*[tiab] OR \"Synbiotics\"[Mesh] OR synbiotic*[tiab] OR \"Bacteriotherapy\"[Mesh] OR bacteriotherap*[tiab]) AND (\"Oxidative Stress\"[Mesh] OR \"Reactive Oxygen Species\"[Mesh] OR \"Antioxidants\"[Mesh] OR \"Inflammation\"[Mesh] OR \"Noncommunicable Diseases\"[Mesh] OR \"Chronic Disease\"[Mesh] OR \"Nitric Oxide\"[Mesh] OR \"oxidative stress\"[tiab] OR \"nitrosative stress\"[tiab] OR \"reactive oxygen species\"[tiab] OR \"oxidative damage\"[tiab] OR \"nitric oxide\"[tiab] OR antioxidant*[tiab] OR inflammation[tiab] OR inflammatory[tiab] OR \"non-communicable\"[tiab] OR \"noncommunicable\"[tiab] OR \"chronic disease\"[tiab] OR \"chronic illness\"[tiab]) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti]))",
+  "query_length": 803,
+  "gold_count": 15,
+  "total_hits": 2990,
+  "hit_gold_count": 13,
+  "recall": 0.8666666666666667,
+  "nnr": 230.0,
+  "f1": 0.008652246256239601,
+  "error_note": ""
+}

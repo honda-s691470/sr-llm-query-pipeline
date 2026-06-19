@@ -1,0 +1,1 @@
+("long COVID"[tiab] OR "post-COVID"[tiab] OR "post-COVID-19"[tiab] OR "post-acute sequelae"[tiab] OR "PASC"[tiab] OR "long-COVID"[tiab]) AND ("genitourinary"[tiab] OR "urinary"[tiab] OR "renal function"[tiab] OR "erectile dysfunction"[tiab] OR "menstrual"[tiab] OR "sexual dysfunction"[tiab] OR "urinary incontinence"[tiab] OR "overactive bladder"[tiab] OR "urological"[tiab])

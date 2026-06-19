@@ -1,0 +1,33 @@
+target_name: 41684373_2026
+topic: Systematically review and meta-analyze predictive performance of prognostic multivariable stroke prediction models for adults in the general population using routinely collected community data.
+
+STEP 0 — Paper identity confirmed: 41684373_2026, stroke prediction models in the general population.
+
+STEP 1 — Study design filter decision:
+Eligible study types: prediction model development without external validation, development with external validation, external model validation with possible updating.
+These are multiple distinct sub-types of prognostic model studies (development-only, development+validation, external validation) → count >= 2 → STUDY_FILTER = OMIT.
+Query = (PRIMARY_CONCEPT) only.
+
+STEP 2 — Classify inclusion criteria:
+- Stroke (outcome/condition): CORE → CONDITION block
+- Multivariable prediction model: CORE → MODEL block
+- Adults in the general population: NON-CORE per population block guardrail (broad default adult population, no specific subgroup definitional to eligibility that would require a mandatory AND)
+- Routinely collected community data: NON-CORE (delivery/data-source modifier, not a standalone searchable domain concept)
+- Variables (sociodemographic, clinical, lab, medications etc.): NON-CORE (specifics of model inputs, screened at full-text)
+- Prediction interval (any): NON-CORE
+
+STEP 3 — AND block budget check:
+Planned blocks: (1) stroke CONDITION, (2) prediction model
+Count = 2 → within budget.
+
+STEP 4 — Population/ethnicity structure check:
+No ethnicity/nationality terms. Not applicable.
+
+STEP 5 — Broad fallback floor check:
+- Stroke block: includes "Stroke"[Mesh] as broad class + specific stroke types as tiab. OK.
+- Prediction model block: includes "Prognosis"[Mesh] and "Models, Statistical"[Mesh] as broad classes + broad tiab terms (prediction model, risk model, risk score, risk prediction) + specific tiab variants (model development, model validation, external validation). OK.
+
+Date/language filter: NOT APPLIED (not stated in inclusion criteria).
+Final AND block count: 2.
+
+FULL_QUERY: ("Stroke"[Mesh] OR stroke[tiab] OR "cerebrovascular accident"[tiab] OR "cerebrovascular disease"[tiab] OR "ischemic stroke"[tiab] OR "ischaemic stroke"[tiab] OR "haemorrhagic stroke"[tiab] OR "hemorrhagic stroke"[tiab] OR "brain infarction"[tiab] OR "cerebral infarction"[tiab]) AND ("Prognosis"[Mesh] OR "Models, Statistical"[Mesh] OR "prediction model"[tiab] OR "prediction models"[tiab] OR "predictive model"[tiab] OR "prognostic model"[tiab] OR "risk model"[tiab] OR "risk score"[tiab] OR "risk prediction"[tiab] OR "clinical prediction rule"[tiab] OR "multivariable model"[tiab] OR "multivariate model"[tiab] OR "risk stratification"[tiab] OR "prognostic score"[tiab] OR "prediction tool"[tiab] OR "risk calculator"[tiab] OR "model development"[tiab] OR "model validation"[tiab] OR "external validation"[tiab])

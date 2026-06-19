@@ -1,0 +1,13 @@
+(
+  (
+    "Body Dysmorphic Disorders"[Mesh]
+    OR "body dysmorphic disorder"[tiab]
+  )
+  AND
+  (
+    "Magnetic Resonance Imaging"[Mesh]
+    OR "visual processing"[tiab]
+  )
+)
+AND
+(english[lang] AND journal article[pt] AND humans[mh] NOT review[pt] NOT comment[pt] NOT letter[pt])

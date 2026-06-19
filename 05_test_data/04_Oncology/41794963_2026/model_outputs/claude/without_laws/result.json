@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41794963_2026",
+  "query": "(\"vestibular schwannoma\"[Title/Abstract] OR \"acoustic neuroma\"[Title/Abstract] OR \"acoustic neurinoma\"[Title/Abstract]) AND (\"PANQOL\"[Title/Abstract] OR \"Penn Acoustic Neuroma Quality of Life\"[Title/Abstract])",
+  "status": "ok"
+}

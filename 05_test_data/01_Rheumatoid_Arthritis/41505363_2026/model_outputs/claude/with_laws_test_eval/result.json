@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:23:47Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41505363_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR RA[tiab]) AND (\"Telemedicine\"[Mesh] OR \"Mobile Applications\"[Mesh] OR \"Internet-Based Intervention\"[Mesh] OR telemedicine[tiab] OR telehealth[tiab] OR teleconsultation[tiab] OR \"mobile app\"[tiab] OR \"smartphone app\"[tiab] OR \"health application\"[tiab] OR \"digital health\"[tiab] OR \"eHealth\"[tiab] OR \"mHealth\"[tiab] OR \"smart health\"[tiab] OR \"online platform\"[tiab] OR \"remote monitoring\"[tiab] OR \"symptom tracking\"[tiab] OR \"self-management\"[tiab] OR \"patient portal\"[tiab]) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])",
+  "query_length": 689,
+  "gold_count": 18,
+  "total_hits": 168,
+  "hit_gold_count": 15,
+  "recall": 0.8333333333333334,
+  "nnr": 11.2,
+  "f1": 0.16129032258064516,
+  "error_note": ""
+}

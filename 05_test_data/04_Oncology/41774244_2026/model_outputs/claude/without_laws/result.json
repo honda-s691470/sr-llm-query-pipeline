@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41774244_2026",
+  "query": "(\"non-Hodgkin lymphoma\"[tiab] OR \"non-Hodgkin's lymphoma\"[tiab] OR \"NHL\"[tiab] OR \"non-Hodgkin lymphoma\"[MeSH] OR \"lymphoma, non-Hodgkin\"[MeSH]) AND (\"quality of life\"[tiab] OR \"QoL\"[tiab] OR \"health-related quality of life\"[tiab] OR \"HRQoL\"[tiab] OR \"well-being\"[tiab] OR \"wellbeing\"[tiab]) AND (\"survivor\"[tiab] OR \"survivors\"[tiab] OR \"survivorship\"[tiab] OR \"post-treatment\"[tiab] OR \"after treatment\"[tiab]) AND (\"factor\"[tiab] OR \"factors\"[tiab] OR \"predictor\"[tiab] OR \"predictors\"[tiab] OR \"determinant\"[tiab] OR \"determinants\"[tiab] OR \"influence\"[tiab] OR \"associated\"[tiab])",
+  "status": "ok"
+}

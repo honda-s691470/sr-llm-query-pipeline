@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:32:58Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41505363_2026",
+  "provider": "codex",
+  "model": "gpt-5.3-codex",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab]) AND (\"Telemedicine\"[Mesh] OR \"Remote Consultation\"[Mesh] OR \"Mobile Applications\"[Mesh] OR \"Internet\"[Mesh] OR \"digital health\"[tiab] OR \"digital healthcare\"[tiab] OR \"smart health\"[tiab] OR \"smart healthcare\"[tiab] OR ehealth[tiab] OR \"e-health\"[tiab] OR mhealth[tiab] OR \"m-health\"[tiab] OR telehealth[tiab] OR telemedicine[tiab] OR teleconsult*[tiab] OR \"remote consultation*\"[tiab] OR \"health app*\"[tiab] OR \"mobile app*\"[tiab] OR \"online platform*\"[tiab] OR \"web-based\"[tiab] OR \"internet-based\"[tiab] OR \"symptom track*\"[tiab] OR \"self-manag* support\"[tiab] OR \"remote follow-up\"[tiab])) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])",
+  "query_length": 804,
+  "gold_count": 18,
+  "total_hits": 114,
+  "hit_gold_count": 14,
+  "recall": 0.7777777777777778,
+  "nnr": 8.142857142857142,
+  "f1": 0.2121212121212121,
+  "error_note": ""
+}

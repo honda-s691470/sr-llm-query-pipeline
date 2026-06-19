@@ -1,0 +1,33 @@
+STEP 0 — Confirm paper identity
+target_name=41694153_2026 | topic=Neurobiology of body dysmorphic disorder (BDD) including neuroimaging and functional neurochemistry research, with ALE meta-analysis of brain activation patterns and updated neurocircuitry model.
+
+STEP 1 — Study design filter decision
+Inclusion criteria accept: "all studies regarding neuroimaging and functional neurochemistry research in BDD" — broad coverage, no restriction to single design type → STUDY_FILTER = OMIT.
+Query = (PRIMARY_CONCEPT) only.
+
+STEP 2 — Classify each inclusion criterion
+- BDD diagnosed per DSM criteria: CORE → CONDITION block
+- Neuroimaging and functional neurochemistry: CORE → INTERVENTION/EXPOSURE block (these define the study type and are the exposures being examined; they ARE the study topic per objectives)
+- Full-text availability in English: language restriction explicitly stated → apply English[lang]
+- Publication in peer-reviewed journal: NON-CORE — not filterable in PubMed
+- Demographically matched healthy control participants: NON-CORE — study design requirement, not searchable
+
+STEP 3 — AND block budget check
+Planned blocks:
+1. CONDITION: BDD
+2. EXPOSURE: neuroimaging/neurochemistry (brain imaging, functional imaging, spectroscopy, neurotransmitter studies)
+Count = 2 → within budget.
+
+STEP 4 — Population/ethnicity structure check
+No ethnicity/nationality terms → not applicable.
+
+STEP 5 — Broad fallback floor check
+- BDD block: "Body Dysmorphic Disorders"[Mesh] as broad class + specific tiab variants → OK
+- Neuroimaging block: "Neuroimaging"[Mesh] OR "Brain"[Mesh] as broad + specific modality tiab terms (fMRI, PET, SPECT, DTI, VBM, MRI) + neurochemistry terms (serotonin, dopamine, glutamate, spectroscopy) → OK
+  Note: "Brain"[Mesh] is very broad and would be a fallback floor ensuring papers indexed under Brain are captured even if they use specific imaging method terms only in abstract.
+
+Language filter: English[lang] — explicitly stated for all included studies.
+
+Final AND block count: 2 (BDD) AND (neuroimaging/neurochemistry) + language filter
+
+FULL_QUERY: ("Body Dysmorphic Disorders"[Mesh] OR "body dysmorphic disorder"[tiab] OR BDD[tiab] OR "dysmorphophobia"[tiab] OR "body dysmorphia"[tiab]) AND ("Neuroimaging"[Mesh] OR "Brain"[Mesh] OR neuroimaging[tiab] OR "brain imaging"[tiab] OR "functional MRI"[tiab] OR fMRI[tiab] OR "magnetic resonance imaging"[tiab] OR MRI[tiab] OR "positron emission tomography"[tiab] OR PET[tiab] OR "single photon emission"[tiab] OR SPECT[tiab] OR "diffusion tensor"[tiab] OR DTI[tiab] OR "voxel-based morphometry"[tiab] OR VBM[tiab] OR "brain activation"[tiab] OR "neural"[tiab] OR "neurobiology"[tiab] OR "neurochemistry"[tiab] OR "neuroanatomy"[tiab] OR "white matter"[tiab] OR "gray matter"[tiab] OR "grey matter"[tiab] OR "cortical thickness"[tiab] OR "serotonin"[tiab] OR "dopamine"[tiab] OR "glutamate"[tiab] OR "spectroscopy"[tiab])

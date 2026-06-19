@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:23:15Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41774244_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Lymphoma, Non-Hodgkin\"[Mesh] OR \"non-Hodgkin lymphoma\"[tiab] OR \"non-Hodgkin's lymphoma\"[tiab] OR \"NHL\"[tiab] OR \"diffuse large B-cell lymphoma\"[tiab] OR \"follicular lymphoma\"[tiab] OR \"mantle cell lymphoma\"[tiab]) AND (\"survivor\"[tiab] OR \"survivors\"[tiab] OR \"survivorship\"[tiab]) AND (\"Quality of Life\"[Mesh] OR \"quality of life\"[tiab] OR QoL[tiab] OR HRQoL[tiab] OR \"health-related quality of life\"[tiab] OR wellbeing[tiab] OR \"well-being\"[tiab]) AND (\"2014\"[pdat]:\"2025\"[pdat])",
+  "query_length": 484,
+  "gold_count": 19,
+  "total_hits": 124,
+  "hit_gold_count": 16,
+  "recall": 0.8421052631578947,
+  "nnr": 7.75,
+  "f1": 0.22377622377622375,
+  "error_note": ""
+}

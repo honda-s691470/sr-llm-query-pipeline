@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-13T15:42:23Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41796425_2026",
+  "domain_folder": "05_Infectious_Diseases",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"long COVID\"[tiab] OR \"long-COVID\"[tiab] OR \"post-COVID condition\"[tiab] OR \"post-COVID-19 condition\"[tiab] OR \"post-acute COVID-19\"[tiab] OR \"post acute COVID-19\"[tiab] OR \"post-acute sequelae of COVID-19\"[tiab] OR \"post-acute sequelae of SARS-CoV-2 infection\"[tiab] OR PASC[tiab] OR \"long-haul COVID\"[tiab] OR \"long haul COVID\"[tiab] OR ((\"persistent\"[tiab] OR \"prolonged\"[tiab] OR \"post-acute\"[tiab] OR postacute[tiab] OR chronic[tiab]) AND (COVID-19[tiab] OR SARS-CoV-2[tiab]))) AND (genitourinar*[tiab] OR urogenit*[tiab] OR \"urinary incontinence\"[tiab] OR \"urinary urgency\"[tiab] OR \"urinary frequency\"[tiab] OR \"voiding dysfunction\"[tiab] OR \"lower urinary tract symptoms\"[tiab] OR LUTS[tiab] OR \"erectile dysfunction\"[tiab] OR \"scrotal pain\"[tiab] OR epididymitis[tiab] OR orchitis[tiab] OR \"epididymo-orchitis\"[tiab] OR (renal[tiab] AND (declin*[tiab] OR dysfunction[tiab] OR impair*[tiab] OR insufficien*[tiab] OR function[tiab])) OR (kidney[tiab] AND (declin*[tiab] OR dysfunction[tiab] OR impair*[tiab] OR insufficien*[tiab] OR function[tiab])) OR menstrual[tiab] OR menstru*[tiab]))",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260313_162438\\codex\\05_Infectious_Diseases\\41796425_2026\\without_laws"
+}

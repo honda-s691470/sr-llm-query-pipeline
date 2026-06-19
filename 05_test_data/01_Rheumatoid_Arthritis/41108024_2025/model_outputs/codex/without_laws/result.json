@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:36:10Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41108024_2025",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab]) AND (\"Pain\"[Mesh] OR \"Pain Management\"[Mesh] OR pain[tiab] OR painful[tiab] OR analgesia[tiab] OR \"pain relief\"[tiab] OR \"pain intensity\"[tiab] OR \"pain severity\"[tiab]) AND (\"Analgesics\"[Mesh] OR analgesic*[tiab] OR \"Anti-Inflammatory Agents, Non-Steroidal\"[Mesh] OR nsaid*[tiab] OR \"Cyclooxygenase 2 Inhibitors\"[Mesh] OR \"cox-2\"[tiab] OR cox2[tiab] OR \"Analgesics, Opioid\"[Mesh] OR opioid*[tiab] OR \"Acetaminophen\"[Mesh] OR acetaminophen[tiab] OR paracetamol[tiab] OR \"Adrenal Cortex Hormones\"[Mesh] OR corticosteroid*[tiab] OR glucocorticoid*[tiab] OR biologic*[tiab] OR \"Physical Therapy Modalities\"[Mesh] OR \"physical therap*\"[tiab] OR \"Exercise Therapy\"[Mesh] OR \"functional training\"[tiab] OR \"neural training\"[tiab] OR \"Occupational Therapy\"[Mesh] OR \"occupational therap*\"[tiab] OR ergotherap*[tiab] OR \"Cognitive Behavioral Therapy\"[Mesh] OR \"cognitive behavio* therap*\"[tiab] OR hypnotherap*[tiab] OR \"Hypnosis\"[Mesh] OR \"Ultrasonic Therapy\"[Mesh] OR \"ultrasound therap*\"[tiab] OR \"Acupuncture Therapy\"[Mesh] OR acupuncture[tiab] OR thermotherap*[tiab] OR \"heat therap*\"[tiab] OR \"Low-Level Light Therapy\"[Mesh] OR \"laser therap*\"[tiab] OR electrotherap*[tiab] OR \"Electric Stimulation Therapy\"[Mesh] OR balneotherap*[tiab] OR hydrotherap*[tiab])) NOT (animals[mh] NOT humans[mh])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\01_Rheumatoid_Arthritis\\41108024_2025\\without_laws"
+}

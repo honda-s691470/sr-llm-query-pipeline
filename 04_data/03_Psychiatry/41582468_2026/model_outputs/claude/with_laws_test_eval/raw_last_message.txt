@@ -1,0 +1,36 @@
+STEP 0 — Confirm paper identity
+target_name=41582468_2026 | topic=Efficacy and safety of transcranial random noise stimulation (tRNS) in various psychiatric disorders.
+
+STEP 1 — Study design filter decision
+Inclusion criteria accept: "quantitative, qualitative or mixed-method designs, case studies or series" — multiple design types (4+) → STUDY_FILTER = OMIT.
+Query = (PRIMARY_CONCEPT) only.
+
+STEP 2 — Classify each inclusion criterion
+- tRNS as intervention/treatment: CORE → INTERVENTION block
+- Psychiatric disorders as the patient/disease population: CORE → CONDITION block
+- Safety, efficacy, clinical applicability outcomes: NON-CORE outcome measures — leave for screening
+- Peer-reviewed articles: NON-CORE — not directly filterable in PubMed (no standard PubMed filter)
+- English language: explicitly stated ("Only peer reviewed articles published in the English language") → apply English[lang]
+
+STEP 3 — AND block budget check
+Planned blocks:
+1. INTERVENTION: tRNS block (including related noninvasive brain stimulation terms as broader fallback is debated; however, tRNS is highly specific and the review is specifically about tRNS — keep broad fallback but centered on tRNS)
+2. CONDITION: psychiatric disorders block
+Count = 2 → within budget.
+
+Note on tRNS block: Since the review is specifically about tRNS, the INTERVENTION block should be centered on tRNS. However, per BROAD FALLBACK FLOOR RULE, at least one broad class term should accompany specific instances. tRNS is itself a specific type within noninvasive brain stimulation, so including "transcranial electrical stimulation"[tiab] and "non-invasive brain stimulation"[tiab] alongside tRNS provides fallback floor. Also include related neuromodulation terms that papers might use interchangeably or as context.
+
+Note: tDCS and tACS are different techniques from tRNS. The review is specifically about tRNS. However, some papers may describe tRNS in the context of comparing noninvasive brain stimulation modalities. For RECALL, keeping broad noninvasive stimulation terms helps, but risks retrieving off-topic studies. Given highest priority is recall, include broad terms but center on tRNS-specific terms. The condition block with psychiatric disorders will provide the specificity needed.
+
+STEP 4 — Population/ethnicity structure check
+No ethnicity/nationality terms → not applicable.
+
+STEP 5 — Broad fallback floor check
+- tRNS block: broad class "transcranial electrical stimulation" alongside specific "tRNS" → OK
+- Psychiatric disorders block: "Mental Disorders"[Mesh] broad + specific disease tiab terms → OK
+
+Language filter: English[lang] — explicitly stated.
+
+Final AND block count: 2 (tRNS/neuromodulation) AND (psychiatric disorders) + language filter
+
+FULL_QUERY: ("Transcranial Magnetic Stimulation"[Mesh] OR "transcranial random noise stimulation"[tiab] OR tRNS[tiab] OR "random noise stimulation"[tiab] OR "transcranial alternating current stimulation"[tiab] OR "transcranial electrical stimulation"[tiab] OR "transcranial current stimulation"[tiab] OR tACS[tiab] OR tDCS[tiab] OR "non-invasive brain stimulation"[tiab] OR "noninvasive brain stimulation"[tiab]) AND ("Mental Disorders"[Mesh] OR "psychiatric disorder*"[tiab] OR "mental disorder*"[tiab] OR "mental illness*"[tiab] OR psychiatr*[tiab] OR "schizophrenia"[tiab] OR "depression"[tiab] OR "anxiety"[tiab] OR "obsessive-compulsive"[tiab] OR "bipolar"[tiab] OR "autism"[tiab] OR "ADHD"[tiab] OR "attention deficit"[tiab])

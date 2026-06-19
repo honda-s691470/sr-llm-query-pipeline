@@ -1,0 +1,2708 @@
+{
+  "papers": [
+    {
+      "title": "Incidence and risk factors for malignancy in patients with incidental solitary pulmonary nodules: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "Huiyu Zheng",
+          "id": "2328621569"
+        },
+        {
+          "name": "Z. Shao",
+          "id": "2268384058"
+        },
+        {
+          "name": "Wensong Shi",
+          "id": "2190351626"
+        },
+        {
+          "name": "He Qian",
+          "id": "2328381553"
+        },
+        {
+          "name": "Yuchen Zhang",
+          "id": "2382107006"
+        }
+      ],
+      "year": 2026,
+      "venue": "Annals medicus",
+      "score": 0.973611043423611,
+      "abstract": "Abstract Background The increasing use of chest imaging has led to a higher detection rate of incidental solitary pulmonary nodules (SPNs), often causing patient anxiety. Determining the malignancy rate and associated risk factors is crucial for developing appropriate follow-up strategies to prevent overdiagnosis, overtreatment, or missed diagnoses. This meta-analysis aims to investigate the malignancy rate and risk factors in patients with incidental SPNs. Methods A systematic search of PubMed, Embase, Web of Science, and the Cochrane Library was conducted up to June 30, 2025. Data on malignancy rates and potential risk factors were extracted from eligible studies. All pooled analyses were performed using a random-effects model. Results Fifty-four studies involving 19,985 patients were included. The pooled malignancy rate for incidental SPNs was 56.7% (95% CI: 51.5–62.0), with significant between-study heterogeneity (I2 = 98.5%, p < 0.001). The pooled effect size showed a minimal change after adjustment for potential publication bias using the non-parametric Trim-and-Fill method (54.7%; 95%CI: 50.9–58.8). Risk factor analysis identified that older age, history of cancer, cigarette smoker, larger nodule diameter, spiculation, upper lobe location, lobulation, pleural indentation, vascular convergence, solid nodules, family history of cancer, and irregular or ill-defined margins were significantly associated with an increased risk of malignancy. Conversely, male sex, presence of calcification, and clear borders were significantly associated with a reduced risk of malignancy. Conclusion This meta-analysis provides a comprehensive assessment of malignancy rates and risk factors in incidental SPNs. The high pooled malignancy rate should be interpreted considering the significant heterogeneity and the inclusion of a high proportion of retrospective studies and populations from high-risk regions. Nonetheless, these findings offer essential evidence for clinical risk stratification, supporting optimized follow-up and informed decision-making.",
+      "corpusId": 285310785,
+      "url": "https://api.semanticscholar.org/CorpusId:285310785"
+    },
+    {
+      "title": "Evidence for the treatment of patients with pulmonary nodules: when is it lung cancer?: ACCP evidence-based clinical practice guidelines (2nd edition).",
+      "authors": [
+        {
+          "name": "M. Wahidi",
+          "id": "6605087"
+        },
+        {
+          "name": "J. Govert",
+          "id": "3648268"
+        },
+        {
+          "name": "Ranjit K. Goudar",
+          "id": "145270840"
+        },
+        {
+          "name": "M. Gould",
+          "id": "144900159"
+        },
+        {
+          "name": "D. Mccrory",
+          "id": "5765920"
+        }
+      ],
+      "year": 2007,
+      "venue": "Chest",
+      "score": 0.6172847405019081,
+      "abstract": "",
+      "corpusId": 29523223,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/17873163"
+    },
+    {
+      "title": "Solitary pulmonary nodule malignancy predictive models applicable to routine clinical practice: a systematic review",
+      "authors": [
+        {
+          "name": "Marina Senent-Valero",
+          "id": "2183348405"
+        },
+        {
+          "name": "J. Librero",
+          "id": "4881833"
+        },
+        {
+          "name": "M. Pastor-Valero",
+          "id": "1390052101"
+        }
+      ],
+      "year": 2021,
+      "venue": "Systematic Reviews",
+      "score": 0.5706377892387053,
+      "abstract": "Background Solitary pulmonary nodule (SPN) is a common finding in routine clinical practice when performing chest imaging tests. The vast majority of these nodules are benign, and only a small proportion are malignant. The application of predictive models of nodule malignancy in routine clinical practice would help to achieve better diagnostic management of SPN. The present systematic review was carried out with the purpose of critically assessing studies aimed at developing predictive models of solitary pulmonary nodule (SPN) malignancy from SPN incidentally detected in routine clinical practice. Methods We performed a search of available scientific literature until October 2020 in Pubmed, SCOPUS and Cochrane Central databases. The inclusion criteria were observational studies carried out in low-risk population from 35 years old onwards aimed at constructing predictive models of malignancy of pulmonary solitary nodule detected incidentally in routine clinical practice. Studies had to be published in peer-reviewed journals, either in Spanish, Portuguese or English. Exclusion criteria were non-human studies, or predictive models based in high-risk populations, or models based on computational approaches. Exclusion criteria were non-human studies, or predictive models based in high-risk populations, or models based on computational approaches (such as radiomics). We used The Transparent Reporting of a multivariable Prediction model for Individual Prognosis Or Diagnosis (TRIPOD) statement, to describe the type of predictive model included in each study, and The Prediction model Risk Of Bias ASsessment Tool (PROBAST) to evaluate the quality of the selected articles. Results A total of 186 references were retrieved, and after applying the exclusion/inclusion criteria, 15 articles remained for the final review. All studies analysed clinical and radiological variables. The most frequent independent predictors of SPN malignancy were, in order of frequency, age, diameter, spiculated edge, calcification and smoking history. Variables such as race, SPN growth rate, emphysema, fibrosis, apical scarring and exposure to asbestos, uranium and radon were not analysed by the majority of the studies. All studies were classified as high risk of bias due to inadequate study designs, selection bias, insufficient population follow-up and lack of external validation, compromising their applicability for clinical practice. Conclusions The studies included have been shown to have methodological weaknesses compromising the clinical applicability of the evaluated SPN malignancy predictive models and their potential influence on clinical decision-making for the SPN diagnostic management. Systematic review registration PROSPERO CRD42020161559",
+      "corpusId": 233851780,
+      "url": "https://api.semanticscholar.org/CorpusId:233851780"
+    },
+    {
+      "title": "Qualitative (and Quantitative) Values of the Lung-RADS and Computed Tomography in Diagnosing Solitary Pulmonary Nodules",
+      "authors": [
+        {
+          "name": "Lizhen Duan",
+          "id": "84098858"
+        },
+        {
+          "name": "W. Shan",
+          "id": "1490910488"
+        },
+        {
+          "name": "Genji Bo",
+          "id": "30837372"
+        },
+        {
+          "name": "Guangming Lu",
+          "id": "150112893"
+        },
+        {
+          "name": "Li-li Guo",
+          "id": "49868410"
+        }
+      ],
+      "year": 2022,
+      "venue": "Diagnostics",
+      "score": 0.557602466870524,
+      "abstract": "Background: Lung-RADS classification and CT signs can both help in the differential diagnosis of SPNs. The purpose of this study was to investigate the diagnostic value of these two methods and the combination of the two methods for solitary pulmonary nodules (SPNs). Methods: A total of 296 cases of SPNs were retrospectively analyzed. All the SPNs were classified according to the Lung-RADS grading version 1.1. The scores of each lesion were calculated according to their CT signs. Imaging features, such as the size and margin of the lesions, pleural traction, spiculation, lobulation, bronchial cutoff, air bronchogram, vacuoles, tumor vasculature, and cavity signs, were analyzed. The imaging results were compared with the pathology examination findings. Receiver operating characteristic (ROC) curves were applied to compare the values of the different methods in differentially diagnosing benign and malignant SPNs. Results: The sensitivity, specificity, and accuracy of Lung-RADS grading for diagnosing SPNs were 34.0%, 94.4%, and 47.6%, respectively. The area under the ROC curve (AUC) was 0.600 (p < 0.001). The sensitivity, specificity, and accuracy of the CT sign scores were 56.3%, 70.0%, and 60.5%, respectively, and the AUC was 0.657 (p < 0.001). The sensitivity, specificity, and accuracy of the combination of the two methods for diagnosing SPNs were 93.2%, 61.1%, and 83.5%, and the AUC was 0.777 (p < 0.001). Conclusion: The combination of Lung-RADS classification and CT signs significantly improved the differential diagnosis of SPNs.",
+      "corpusId": 253414088,
+      "url": "https://api.semanticscholar.org/CorpusId:253414088"
+    },
+    {
+      "title": "Dual-layer detector spectral CT-based machine learning models in the differential diagnosis of solitary pulmonary nodules",
+      "authors": [
+        {
+          "name": "Hui Lu",
+          "id": "2283977559"
+        },
+        {
+          "name": "Kaifang Liu",
+          "id": "2277236387"
+        },
+        {
+          "name": "Huan-Qiang Zhao",
+          "id": "1483577342"
+        },
+        {
+          "name": "Yongqiang Wang",
+          "id": "2287014434"
+        },
+        {
+          "name": "Bo Shi",
+          "id": "2286747457"
+        }
+      ],
+      "year": 2024,
+      "venue": "Scientific Reports",
+      "score": 0.5561961902866617,
+      "abstract": "The benign and malignant status of solitary pulmonary nodules (SPNs) is a key determinant of treatment decisions. The main objective of this study was to validate the efficacy of machine learning (ML) models featured with dual-layer detector spectral computed tomography (DLCT) parameters in identifying the benign and malignant status of SPNs. 250 patients with pathologically confirmed SPN were included in this study. 8 quantitative and 16 derived parameters were obtained based on the regions of interest of the lesions on the patients’ DLCT chest enhancement images. 6 ML models were constructed from 10 parameters selected after combining the patients' clinical parameters, including gender, age, and smoking history. The logistic regression model showed the best diagnostic performance with an area under the receiver operating characteristic curve (AUC) of 0.812, accuracy of 0.813, sensitivity of 0.750 and specificity of 0.791 on the test set. The results suggest that the ML models based on DLCT parameters are superior to the traditional CT parameter models in identifying the benign and malignant nature of SPNs, and have greater potential for application.",
+      "corpusId": 267929013,
+      "url": "https://api.semanticscholar.org/CorpusId:267929013"
+    },
+    {
+      "title": "Nomogram combining clinical and radiological characteristics for predicting the malignant probability of solitary pulmonary nodules measuring ≤ 2 cm",
+      "authors": [
+        {
+          "name": "Mengchao Xue",
+          "id": "2175858870"
+        },
+        {
+          "name": "Rongyang Li",
+          "id": "2156270792"
+        },
+        {
+          "name": "Kun Wang",
+          "id": "2119043284"
+        },
+        {
+          "name": "Wen Liu",
+          "id": "2244255898"
+        },
+        {
+          "name": "Junjie Liu",
+          "id": "2244574929"
+        },
+        {
+          "name": "Zhenyi Li",
+          "id": "2244251989"
+        },
+        {
+          "name": "Zheng Ma",
+          "id": "2244248569"
+        },
+        {
+          "name": "Huiying Zhang",
+          "id": "2244270355"
+        },
+        {
+          "name": "Hui Tian",
+          "id": "2069991079"
+        },
+        {
+          "name": "Yu Tian",
+          "id": "2244581365"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Oncology",
+      "score": 0.5561200580255022,
+      "abstract": "Background At present, how to identify the benign or malignant nature of small (≤ 2 cm) solitary pulmonary nodules (SPN) are an urgent clinical challenge. This retrospective study aimed to develop a clinical prediction model combining clinical and radiological characteristics for assessing the probability of malignancy in SPNs measuring ≤ 2 cm. Method In this study, we included patients with SPNs measuring ≤ 2 cm who underwent pulmonary resection with definite pathology at Qilu Hospital of Shandong University from January 2020 to December 2021. Clinical features, preoperative biomarker results, and computed tomography characteristics were collected. The enrolled patients were randomized at a ratio of 7:3 into a training cohort of 775 and a validation cohort of 331. The training cohort was used to construct the predictive model, while the validation cohort was used to test the model independently. Univariate and multivariate logistic regression analyses were performed to identify independent risk factors. The prediction model and nomogram were established based on the independent risk factors. The receiver operating characteristic (ROC) curve was used to evaluate the identification ability of the model. The calibration power was evaluated using the Hosmer–Lemeshow test and calibration curve. The clinical utility of the nomogram was also assessed by decision curve analysis (DCA). Result A total of 1,106 patients were included in this study. Among them, the malignancy rate of SPNs was 85.08% (941/1,106). We finally identified the following six independent risk factors by logistic regression: age, carcinoembryonic antigen, nodule shape, calcification, maximum diameter, and consolidation-to-tumor ratio. The area under the ROC curve (AUC) for the training cohort was 0.764 (95% confidence interval [CI]: 0.714–0.814), and the AUC for the validation cohort was 0.729 (95% CI: 0.647–0.811), indicating that the prediction accuracy of nomogram was relatively good. The calibration curve of the predictive model also demonstrated a good calibration in both cohorts. DCA proved that the clinical prediction model was useful in clinical practice. Conclusion We developed and validated a predictive model and nomogram for estimating the probability of malignancy in SPNs measuring ≤ 2 cm. With the application of predictive models, thoracic surgeons can make more rational clinical decisions while avoiding overtreatment and wasting medical resources.",
+      "corpusId": 262165952,
+      "url": "https://api.semanticscholar.org/CorpusId:262165952"
+    },
+    {
+      "title": "Value of dual-layer spectral detector computed tomography in the diagnosis of benign/malignant solid solitary pulmonary nodules and establishment of a prediction model",
+      "authors": [
+        {
+          "name": "Xiao-xue Xie",
+          "id": "2111366952"
+        },
+        {
+          "name": "Kai-ming Liu",
+          "id": "2146385947"
+        },
+        {
+          "name": "Kaidong Luo",
+          "id": "15081378"
+        },
+        {
+          "name": "Youtao Xu",
+          "id": "3545203"
+        },
+        {
+          "name": "Lei Zhang",
+          "id": "2152837034"
+        },
+        {
+          "name": "Mei Wang",
+          "id": "2118663270"
+        },
+        {
+          "name": "W. Shen",
+          "id": "50990885"
+        },
+        {
+          "name": "Zhengyang Zhou",
+          "id": "48741272"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Oncology",
+      "score": 0.5558609837829738,
+      "abstract": "Objective This study aimed to investigate the role of spectral detector computed tomography (SDCT) quantitative parameters and their derived quantitative parameters combined with lesion morphological information in the differential diagnosis of solid SPNs. Methods This retrospective study included basic clinical data and SDCT images of 132 patients with pathologically confirmed SPNs (102 and 30 patients in the malignant and benign groups, respectively). The morphological signs of SPNs were evaluated and the region of interest (ROI) was delineated from the lesion to extract and calculate the relevant SDCT quantitative parameters, and standardise the process. Differences in qualitative and quantitative parameters between the groups were statistically analysed. A receiver operating characteristic (ROC) curve was constructed to evaluate the efficacy of the corresponding parameters in the diagnosis of benign and malignant SPNs. Statistically significant clinical data, CT signs and SDCT quantitative parameters were analysed using multivariate logistic regression to determine the independent risk factors for predicting benign and malignant SPNs, and the best multi-parameter regression model was established. Inter-observer repeatability was assessed using the intraclass correlation coefficient (ICC) and Bland–Altman plots. Results Malignant SPNs differed from benign SPNs in terms of size, lesion morphology, short spicule sign, and vascular enrichment sign (P< 0.05). The SDCT quantitative parameters and their derived quantitative parameters of malignant SPNs (SAR40keV, SAR70keV, Δ40keV, Δ70keV, CER40keV, CER70keV, NEF40keV, NEF70keV, λ, NIC, NZeff) were significantly higher than those of benign SPNs (P< 0.05). In the subgroup analysis, most parameters could distinguish between benign and adenocarcinoma groups (SAR40keV, SAR70keV, Δ40keV, Δ70keV, CER40keV, CER70keV, NEF40keV, NEF70keV, λ, NIC, and NZeff), and between benign and squamous cell carcinoma groups (SAR40keV, SAR70keV, Δ40keV, Δ70keV, NEF40keV, NEF70keV, λ, and NIC). However, there were no significant differences between the parameters in the adenocarcinoma and squamous cell carcinoma groups. ROC curve analysis indicated that NIC, NEF70keV, and NEF40keV had higher diagnostic efficacy for differentiating benign and malignant SPNs (area under the curve [AUC]:0.869, 0.854, and 0.853, respectively), and NIC was the highest. Multivariate logistic regression analysis showed that size (OR=1.138, 95% CI 1.022-1.267, P=0.019), Δ70keV (OR=1.060, 95% CI 1.002-1.122, P=0.043), and NIC (OR=7.758, 95% CI 1.966-30.612, P=0.003) were independent risk factors for the prediction of benign and malignant SPNs. ROC curve analysis showed that the AUC of size, Δ70keV, NIC, and a combination of the three for differential diagnosis of benign and malignant SPNs were 0.636, 0.846, 0.869, and 0.903, respectively. The AUC for the combined parameters was the largest, and the sensitivity, specificity, and accuracy were 88.2%, 83.3% and 86.4%, respectively. The SDCT quantitative parameters and their derived quantitative parameters in this study exhibited satisfactory inter-observer repeatability (ICC: 0.811-0.997). Conclusion SDCT quantitative parameters and their derivatives can be helpful in the differential diagnosis of benign and malignant solid SPNs. The quantitative parameter, NIC, is superior to the other relevant quantitative parameters and when NIC is combined with lesion size and Δ70keV value for comprehensive diagnosis, the efficacy could be further improved.",
+      "corpusId": 258487750,
+      "url": "https://api.semanticscholar.org/CorpusId:258487750"
+    },
+    {
+      "title": "Solitary pulmonary nodule and 18F-FDG PET/CT. Part 1: epidemiology, morphological evaluation and cancer probability",
+      "authors": [
+        {
+          "name": "M. P. Mosmann",
+          "id": "6965421"
+        },
+        {
+          "name": "M. Borba",
+          "id": "4261165"
+        },
+        {
+          "name": "Francisco Pires Negromonte de Macedo",
+          "id": "5624722"
+        },
+        {
+          "name": "A. D. A. L. Liguori",
+          "id": "6324409"
+        },
+        {
+          "name": "Arthur Villarim Neto",
+          "id": "48944756"
+        },
+        {
+          "name": "K. C. de Lima",
+          "id": "7531139"
+        }
+      ],
+      "year": 2016,
+      "venue": "Radiologia Brasileira",
+      "score": 0.552192748242782,
+      "abstract": "Solitary pulmonary nodule corresponds to a common radiographic finding, which is frequently detected incidentally. The investigation of this entity remains complex, since characteristics of benign and malignant processes overlap in the differential diagnosis. Currently, many strategies are available to evaluate solitary pulmonary nodules with the main objective of characterizing benign lesions as best as possible, while avoiding to expose patients to the risks inherent to invasive methods, besides correctly detecting cases of lung cancer so as the potential curative treatment is not delayed. This first part of the study focuses on the epidemiology, the morfological evaluation and the methods to determine the likelihood of cancer in cases of indeterminate solitary pulmonary nodule.",
+      "corpusId": 14230558,
+      "url": "https://api.semanticscholar.org/CorpusId:14230558"
+    },
+    {
+      "title": "Predicting malignant potential of solitary pulmonary nodules in patients with COVID-19 infection: a comprehensive analysis of CT imaging and tumor markers",
+      "authors": [
+        {
+          "name": "Huijuan Xiao",
+          "id": "3195634"
+        },
+        {
+          "name": "Yihe Liu",
+          "id": "2107995761"
+        },
+        {
+          "name": "Pan Liang",
+          "id": "2260496384"
+        },
+        {
+          "name": "Ping Hou",
+          "id": "2319635961"
+        },
+        {
+          "name": "Yonggao Zhang",
+          "id": "49890636"
+        },
+        {
+          "name": "Jianbo Gao",
+          "id": "2302420320"
+        }
+      ],
+      "year": 2024,
+      "venue": "BMC Infectious Diseases",
+      "score": 0.5496480961591921,
+      "abstract": "To analyze the value of combining computed tomography (CT) with serum tumor markers in the differential diagnosis of benign and malignant solitary pulmonary nodules (SPNs). The case data of 267 patients diagnosed with SPNs in the First Affiliated Hospital of Zhengzhou University from March 2020 to January 2023 were retrospectively analyzed. All individuals diagnosed with coronavirus disease 2019 (COVID-19) were confirmed via respiratory specimen viral nucleic acid testing. The included cases underwent CT, serum tumor marker testing and pathological examination. The diagnostic efficacy and clinical significance of CT, serum tumor marker testing and a combined test in identifying benign and malignant SPNs were analyzed using pathological histological findings as the gold standard. Finally, a nomogram mathematical model was established to predict the malignant probability of SPNs. Of the 267 patients with SPNs, 91 patients were not afflicted with COVID-19, 36 exhibited malignant characteristics, whereas 55 demonstrated benign features. Conversely, within the cohort of 176 COVID-19 patients presenting with SPNs, 62 were identified as having malignant SPNs, and the remaining 114 were diagnosed with benign SPNs. CT scans revealed statistically significant differences between the benign and malignant SPNs groups in terms of CT values (P<0.001), maximum nodule diameter (P<0.001), vascular convergence sign (P<0.001), vacuole sign (P = 0.0007), air bronchogram sign (P = 0.0005), and lobulation sign (P = 0.0005). Malignant SPNs were associated with significantly higher levels of carcinoembryonic antigen (CEA) and neuron-specific enolase (NSE) compared to benign SPNs (P < 0.05), while no significant difference was found in carbohydrate antigen 125 (CA125) levels (P = 0.054 for non-COVID-19; P = 0.072 for COVID-19). The sensitivity (95.83%), specificity (95.32%), and accuracy (95.51%) of the comprehensive diagnosis combining serum tumor markers and CT were significantly higher than those of CT alone (70.45%, 79.89%, 76.78%) or serum tumor marker testing alone (56.52%, 73.71%, 67.79%) (P < 0.05). A visual nomogram predictive model for malignant pulmonary nodules was constructed. Combining CT with testing for CEA, CA125, and NSE levels offers high diagnostic accuracy and sensitivity, enables precise differentiation between benign and malignant nodules, particularly in the context of COVID-19, thereby reducing the risk of unnecessary surgical interventions.",
+      "corpusId": 272928665,
+      "url": "https://api.semanticscholar.org/CorpusId:272928665"
+    },
+    {
+      "title": "Developing a multi-institutional nomogram for assessing lung cancer risk in patients with 5–30 mm pulmonary nodules: a retrospective analysis",
+      "authors": [
+        {
+          "name": "Yongjie Jiang",
+          "id": "2274750585"
+        },
+        {
+          "name": "Taibing Deng",
+          "id": "2274416361"
+        },
+        {
+          "name": "Yuyan Huang",
+          "id": "2162377134"
+        },
+        {
+          "name": "Bi Ren",
+          "id": "2176821935"
+        },
+        {
+          "name": "Liping He",
+          "id": "2320196278"
+        },
+        {
+          "name": "Min Pang",
+          "id": "2740184"
+        },
+        {
+          "name": "Li Jiang",
+          "id": "2274967815"
+        }
+      ],
+      "year": 2023,
+      "venue": "PeerJ",
+      "score": 0.5487582105430044,
+      "abstract": "Background The diagnosis of benign and malignant solitary pulmonary nodules based on personal experience has several limitations. Therefore, this study aims to establish a nomogram for the diagnosis of benign and malignant solitary pulmonary nodules using clinical information and computed tomography (CT) results. Methods Retrospectively, we collected clinical and CT characteristics of 1,160 patients with pulmonary nodules in Guang’an People’s Hospital and the hospital affiliated with North Sichuan Medical College between 2019 and 2021. Among these patients, data from 773 patients with pulmonary nodules were used as the training set. We used the least absolute shrinkage and selection operator (LASSO) to optimize clinical and imaging features and performed a multivariate logistic regression to identify features with independent predictive ability to develop the nomogram model. The area under the receiver operating characteristic curve (AUC), C-index, decision curve analysis, and calibration plot were used to evaluate the performance of the nomogram model in terms of predictive ability, discrimination, calibration, and clinical utility. Finally, data from 387 patients with pulmonary nodules were utilized for validation. Results In the training set, the predictors for the nomogram were gender, density of the nodule, nodule diameter, lobulation, calcification, vacuole, vascular convergence, bronchiole, and pleural traction, selected through LASSO and logistic regression analysis. The resulting model had a C-index of 0.842 (95% CI [0.812–0.872]) and AUCs of 0.842 (95% CI [0.812–0.872]). In the validation set, the C-index was 0.856 (95% CI [0.811–0.901]), and the AUCs were 0.844 (95% CI [0.797–0.891]). Results from the calibration curve and clinical decision curve analyses indicate that the nomogram has a high fit and clinical benefit in both the training and validation sets. Conclusion The establishment of a nomogram for predicting the benign or malignant diagnosis of solitary pulmonary nodules by this study has shown good efficacy. Such a nomogram may help to guide the diagnosis, follow-up, and treatment of patients.",
+      "corpusId": 266285425,
+      "url": "https://api.semanticscholar.org/CorpusId:266285425"
+    },
+    {
+      "title": "Late presentation of lung adenocarcinoma in a stable solitary pulmonary nodule: A case presentation and review of the literature",
+      "authors": [
+        {
+          "name": "Anum Aqsa",
+          "id": "84206019"
+        },
+        {
+          "name": "Sami Droubi",
+          "id": "1742500197"
+        },
+        {
+          "name": "D. Sharma",
+          "id": "5392052"
+        },
+        {
+          "name": "R. Maroun",
+          "id": "40513042"
+        }
+      ],
+      "year": 2020,
+      "venue": "Respiratory Medicine Case Reports",
+      "score": 0.5366180288091061,
+      "abstract": "A 67-year-old patient has been followed by our pulmonary clinic for Chronic obstructive pulmonary disease (COPD) and a stable pulmonary nodule. Solitary pulmonary nodule (SPN) was detected on the lung cancer screening by low dose computed tomography (CT) scan of the chest. It remained stable on repeat CT scan at 6, 12 and 24-months interval. Yearly lung cancer low dose CT scans of the chest showed stability of the SPN for 12 years. A mechanical fall necessitating trauma workup unveiled increase in size of the nodule from 4 mm to 11 mm within one year of the previous screening CT chest. Biopsy and Histopathology confirmed the diagnosis of lung adenocarcinoma. The patient then underwent right upper lobectomy followed by chemoradiation therapy. Current guidelines do not recommend follow up for a solitary pulmonary nodules less than 6 mm nodule if it remains stable for 12-24 months. Our case report of the late presentation of lung adenocarcinoma in a stable solitary pulmonary nodule suggests the need to exercise increased caution in the management of incidental pulmonary nodules.",
+      "corpusId": 228407282,
+      "url": "https://api.semanticscholar.org/CorpusId:228407282"
+    },
+    {
+      "title": "The Multicenter Italian Trial Assesses the Performance of FDG-PET/CT Related to Pre-Test Cancer Risk in Patients with Solitary Pulmonary Nodules and Introduces a Segmental Thoracic Diagnostic Strategy",
+      "authors": [
+        {
+          "name": "M. Spadafora",
+          "id": "2561612"
+        },
+        {
+          "name": "Laura Evangelista",
+          "id": "2117580457"
+        },
+        {
+          "name": "Salvatore Fiordoro",
+          "id": "1394690550"
+        },
+        {
+          "name": "F. Porcaro",
+          "id": "13149151"
+        },
+        {
+          "name": "Marilena Sicignano",
+          "id": "1569815198"
+        },
+        {
+          "name": "L. Mansi",
+          "id": "2250002743"
+        }
+      ],
+      "year": 2020,
+      "venue": "Current Radiopharmaceuticals",
+      "score": 0.5306648642043106,
+      "abstract": "Purpose The Italian Tailored Assessment of Lung Indeterminate Accidental Nodule (ITALIAN) trial is a trial drawn to determine the performance of 18F-FDG-PET/CT in patients with solitary pulmonary nodules (SPN), stratified for a different kind of risk. An additional end-point was to compare the diagnostic information and estimated dosimetry, provided by a segmental PET/CT (s-PET/CT) acquisition instead of a whole body PET/CT (wb-PET/CT), in order to evaluate if segmental thoracic PET/CT can be used in patients with SPN. Methods 18F-FDG PET/CT of 502 patients, stratified for pre-test cancer risk, was retrospectively analyzed. FDG uptake in SPN was assessed by a 4-point scoring (4PS) system and a semiquantitative analysis using the ratio between SUVmax in SPN and SUVmean in mediastinal blood pool (BP), and between SUVmax in SPN and SUVmean in the liver (L). Histopathology and/or follow-up data were used as a standard of reference. Data obtained on the thoracic part of wb-PET/CT, defined as s -PET/CT, were compared with those deriving from wb-PET/CT. Results SPNs were malignant in 180 patients (36%), benign in 175 (35%), and indeterminate in 147 (29%). The 355 patients diagnosed with a definitive SPN nature (malignant or benign) were considered for the analysis of PET performance. Sensitivity, specificity, positive (PPV) and negative (NPV) predictive values, and accuracy were 85.6%, 85.7%, 86%, 85.2%, and 85.6%, respectively. Sensitivity and PPV were higher in intermediate and high-risk patients. 18F-FDG uptake indicative of thoracic and extra-thoracic lesions was detectable in 13% and 3% of the patients. Compared to wb-PET/CT, s-PET/CT could save about 2/3 of 18F-FDG dose, radiation exposure or scan-time, without affecting the clinical impact of PET/CT. Conclusion In patients with SPN, the pre-test likelihood of malignancy stratification allows to better define PET clinical setting and its diagnostic power. In subjects with low-intermediate pre-test likelihood of malignancy, s-PET/CT might be planned in advance. The adoption of this segmental strategy could reduce radiation exposure, scan-time, and might allow individually targeted protocols.",
+      "corpusId": 263925512,
+      "url": "https://api.semanticscholar.org/CorpusId:263925512"
+    },
+    {
+      "title": "Does aggressive management of solitary pulmonary nodules pay off?",
+      "authors": [
+        {
+          "name": "S. Elia",
+          "id": "5349413"
+        },
+        {
+          "name": "Serafina Loprete",
+          "id": "79959098"
+        },
+        {
+          "name": "A. De Stefano",
+          "id": "2078546325"
+        },
+        {
+          "name": "G. Hardavella",
+          "id": "46554590"
+        }
+      ],
+      "year": 2019,
+      "venue": "Breathe",
+      "score": 0.5261340311585169,
+      "abstract": "Indeterminate solitary pulmonary nodules (SPNs), measuring up to 3 cm in diameter, are incidental radiological findings. The ever-growing use of modern imaging has increased their detection. The majority of those nodules are benign; however, the possibility of diagnosing early-stage lung cancer still stands. Guidelines for the management of SPNs have never been validated in prospective comparative studies. Positron emission tomography (PET) is a useful tool to provide functional information on SPNs. However, overall sensitivity and specificity of PET in detecting malignant SPNs of at least 10 mm in diameter are about 90% and false-negative results are reported. The development of video-assisted thoracic surgery has provided minimally invasive diagnosis and treatment of SPNs. In our series, 105 patients underwent surgery based on combined increased 18F-labelled 2-fluoro-2-deoxy-d-glucose (FDG) uptake on PET computed tomography and radiological features (morphology and density) without prior histological confirmation. We detected 26 false negatives (24.8%) and only nine false positives (8.57%). Therefore, our minimally invasive surgical approach prevented 25% of patients with lung cancer from a delayed treatment versus only 9% undergoing “overtreatment”. In our monocentric cohort, patients with SPNs with large diameter, irregular outline, no calcifications, central location, increased FDG uptake and/or subsolid aspect benefited from a primary surgical resection. There is much debate on the best management of solitary pulmonary nodules. Even if they are mostly benign, they may represent an early-stage lung cancer. Minimally invasive surgical removal is probably the best approach to this insidious disease. http://ow.ly/wMKz30nemjR",
+      "corpusId": 69160904,
+      "url": "https://api.semanticscholar.org/CorpusId:69160904"
+    },
+    {
+      "title": "Predictors of malignancy in patients with solitary pulmonary nodules undergoing pulmonary resection",
+      "authors": [
+        {
+          "name": "Eren Erdoğdu",
+          "id": "87586973"
+        },
+        {
+          "name": "B. Ozkan",
+          "id": "1872887"
+        },
+        {
+          "name": "Salih Duman",
+          "id": "15931093"
+        },
+        {
+          "name": "Melek Ağkoç",
+          "id": "151472208"
+        },
+        {
+          "name": "S. Erturk",
+          "id": "1520020767"
+        },
+        {
+          "name": "Murat Kara",
+          "id": "2140444422"
+        },
+        {
+          "name": "A. Toker",
+          "id": "3983145"
+        }
+      ],
+      "year": 2022,
+      "venue": "Clinical Respiratory Journal",
+      "score": 0.5003393312471385,
+      "abstract": "The management of a solitary pulmonary nodule is a challenging issue in pulmonary disease. Although many factors have been defined as predictors for malignancy in solitary pulmonary nodules, the accurate diagnosis can only be established with the permanent histological diagnosis.",
+      "corpusId": 248403752,
+      "url": "https://api.semanticscholar.org/CorpusId:248403752"
+    },
+    {
+      "title": "Decreased levels of sex hormones in females with solitary pulmonary nodules were risk factors for malignancy",
+      "authors": [
+        {
+          "name": "Wendan Wang",
+          "id": "2108465091"
+        },
+        {
+          "name": "Mengyu Li",
+          "id": "2327241531"
+        },
+        {
+          "name": "Qiufeng Zhang",
+          "id": "2254844986"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Cardiothoracic Surgery",
+      "score": 0.49933770052542126,
+      "abstract": "Objective The purpose of this research was to detect the relationship between the levels of sex hormones in females with solitary pulmonary nodules (SPNs) and their potential malignancies. Methods A total of 187 consecutive patients with pathologically confirmed SPNs by chest CT were enrolled in our study. They were divided into two groups based on the pathologic findings of SPNs after surgery: benign and malignant SPNs. Progesterone (P), estradiol (E2), and testosterone (T) levels in the two groups were measured. Meanwhile, we used binary logistic regression analysis to analyze the risk factors for SPNs. Results Of these 187 patients, 73 had benign SPNs, while 114 had malignant SPNs. We found that the levels of progesterone (P), estradiol (E2), and testosterone (T) were decreased significantly in patients with malignant SPNs compared to patients with benign SPNs (all P  < 0.05). Multivariate logistic regression analysis revealed that second-hand smoke, burr sign, lobulation sign, pleural traction sign, vascular convergence sign, vacuole sign, and ≥ 1 cm nodules were independent risk factors for malignant pulmonary nodules in females. Conclusions Decreased levels of sex hormones in females were associated with malignant pulmonary nodules, suggesting that they can contribute to the diagnosis of lung cancer.",
+      "corpusId": 268363010,
+      "url": "https://api.semanticscholar.org/CorpusId:268363010"
+    },
+    {
+      "title": "Novel and Convenient Method to Evaluate the Character of Solitary Pulmonary Nodule-Comparison of Three Mathematical Prediction Models and Further Stratification of Risk Factors",
+      "authors": [
+        {
+          "name": "F. Xiao",
+          "id": "6225893"
+        },
+        {
+          "name": "Deruo Liu",
+          "id": "2285152045"
+        },
+        {
+          "name": "Yong-qing Guo",
+          "id": "2388630973"
+        },
+        {
+          "name": "B. Shi",
+          "id": "2287598227"
+        },
+        {
+          "name": "Zhi-yi Song",
+          "id": "39248829"
+        },
+        {
+          "name": "Yan-chu Tian",
+          "id": "2349967385"
+        },
+        {
+          "name": "C. Liang",
+          "id": "39233168"
+        }
+      ],
+      "year": 2013,
+      "venue": "PLoS ONE",
+      "score": 0.4829966694784459,
+      "abstract": "Objective To study risk factors that affect the evaluation of malignancy in patients with solitary pulmonary nodules (SPN) and verify different predictive models for malignant probability of SPN. Methods Retrospectively analyzed 107 cases of SPN with definite post-operative histological diagnosis whom underwent surgical procedures in China-Japan Friendship Hospital from November of 2010 to February of 2013. Age, gender, smoking history, malignancy history of patients, imaging features of the nodule including maximum diameter, position, spiculation, lobulation, calcification and serum level of CEA and Cyfra21-1 were assessed as potential risk factors. Univariate analysis model was used to establish statistical correlation between risk factors and post-operative histological diagnosis. Receiver operating characteristic (ROC) curves were drawn using different predictive models for malignant probability of SPN to get areas under the curves (AUC values), sensitivity, specificity, positive predictive values, negative predictive values for each model, respectively. The predictive effectiveness of each model was statistically assessed subsequently. Results In 107 patients, 78 cases were malignant (72.9%), 29 cases were benign (27.1%). Statistical significant difference was found between benign and malignant group in age, maximum diameter, serum level of Cyfra21-1, spiculation, lobulation and calcification of the nodules. The AUC values were 0.786±0.053 (Mayo model), 0.682±0.060 (VA model) and 0.810±0.051 (Peking University People’s Hospital model), respectively. Conclusions Serum level of Cyfra21-1, patient’s age, maximum diameter of the nodule, spiculation, lobulation and calcification of the nodule are independent risk factors associated with the malignant probability of SPN. Peking University People’s Hospital model is of high accuracy and clinical value for patients with SPN. Adding serum index (e.g. Cyfra21-1) into the prediction models as a new risk factor and adjusting the weight of age in the models might improve the accuracy of prediction for SPN.",
+      "corpusId": 18608075,
+      "url": "https://api.semanticscholar.org/CorpusId:18608075"
+    },
+    {
+      "title": "Differentiation of Benign and Malignant Solitary Pulmonary Nodule: Literature Review",
+      "authors": [
+        {
+          "name": "S. Tripathi",
+          "id": "2057647035"
+        },
+        {
+          "name": "X. Zhen",
+          "id": "2234038"
+        }
+      ],
+      "year": 2015,
+      "venue": "unknown",
+      "score": 0.46771579276294695,
+      "abstract": "The solitary pulmonary nodule (SPN) is frequently seen on chest radiographs and computed tomography (CT), usually the identification is accidental. The overall prevalence of malignancy is relatively low but identification of malignancy of nodule is of prime importance. There are different characters of nodules indicating malignancy, and also the exposure of person to risk factors increases the chances of malignancy of nodule. Chances of malignancy rise with increasing size, the irregular, lobulated border of the nodules is highly associated with higher probability of malignancy and nodules with pure ground grass appearance have higher probability of malignancy, irregularly marginated nodule displaying a corona radiata sign indicating neoplastic infiltration with distortion of neighbouring tissue is almost certainly a malignant nodule. Stippled, punctuate, and eccentric calcifications are suggestive of malignancy. There are 20% - 75% of chances of malignancy if nodule is appeared with ground-glass opacity. Malignant nodules have higher growth rate as compared with benign nodules, malignant nodules usually have doubling time (DT) of 30 - 400 days while DT of more than 450 days is sign of benignity whereas doubling time less than 30 days is usually acute infectious process. The presence of fat within nodule is sign of benignity. Increasing density of the nodule is suggestive of malignancy and requires shorter follow up. Besides the nodule evaluation the chances of malignancy can also be evaluated through the exposure of patient to risk factors like age, current and past smoking status and history of extra thoracic malignancy. The management depends upon various factors mainly three strategies are applied for management including careful observation of nodule, use of diagnostic techniques like CT FNA, PET, and broncoscopy and surgery.",
+      "corpusId": 1648846,
+      "url": "https://api.semanticscholar.org/CorpusId:1648846"
+    },
+    {
+      "title": "Qualitative and Semiquantitative Parameters of 18F-FDG-PET/CT as Predictors of Malignancy in Patients with Solitary Pulmonary Nodule",
+      "authors": [
+        {
+          "name": "Ferdinando Corica",
+          "id": "2046887965"
+        },
+        {
+          "name": "M. S. de Feo",
+          "id": "116858117"
+        },
+        {
+          "name": "Maria Lina Stazza",
+          "id": "1492193549"
+        },
+        {
+          "name": "M. Rondini",
+          "id": "4876635"
+        },
+        {
+          "name": "Andrea Marongiu",
+          "id": "84343647"
+        },
+        {
+          "name": "V. Frantellizzi",
+          "id": "2133342153"
+        },
+        {
+          "name": "S. Nuvoli",
+          "id": "5275822"
+        },
+        {
+          "name": "A. Farcomeni",
+          "id": "2068449863"
+        },
+        {
+          "name": "G. de Vincentis",
+          "id": "67151379"
+        },
+        {
+          "name": "A. Spanu",
+          "id": "34951463"
+        }
+      ],
+      "year": 2023,
+      "venue": "Cancers",
+      "score": 0.46405302984300345,
+      "abstract": "Simple Summary This study aims to evaluate the reliability of qualitative and semiquantitative parameters of 18F-FDG PET-CT, and eventually a correlation between them, in predicting the risk of malignancy in patients with solitary pulmonary nodule (SPN) before the diagnosis of lung cancer. Qualitative and semiquantitative parameters can be considered reliable tools in patients with SPN, since cut-offs for SUVmax, SUVmean, TLG and MTV showed good sensitivity and specificity in predicting malignancy. Abstract This study aims to evaluate the reliability of qualitative and semiquantitative parameters of 18F-FDG PET-CT, and eventually a correlation between them, in predicting the risk of malignancy in patients with solitary pulmonary nodules (SPNs) before the diagnosis of lung cancer. A total of 146 patients were retrospectively studied according to their pre-test probability of malignancy (all patients were intermediate risk), based on radiological features and risk factors, and qualitative and semiquantitative parameters, such as SUVmax, SUVmean, TLG, and MTV, which were obtained from the FDG PET-CT scan of such patients before diagnosis. It has been observed that visual analysis correlates well with the risk of malignancy in patients with SPN; indeed, only 20% of SPNs in which FDG uptake was low or absent were found to be malignant at the cytopathological examination, while 45.45% of SPNs in which FDG uptake was moderate and 90.24% in which FDG uptake was intense were found to be malignant. The same trend was observed evaluating semiquantitative parameters, since increasing values of SUVmax, SUVmean, TLG, and MTV were observed in patients whose cytopathological examination of SPN showed the presence of lung cancer. In particular, in patients whose SPN was neoplastic, we observed a median (MAD) SUVmax of 7.89 (±2.24), median (MAD) SUVmean of 3.76 (±2.59), median (MAD) TLG of 16.36 (±15.87), and a median (MAD) MTV of 3.39 (±2.86). In contrast, in patients whose SPN was non-neoplastic, the SUVmax was 2.24 (±1.73), SUVmean 1.67 (±1.15), TLG 1.63 (±2.33), and MTV 1.20 (±1.20). Optimal cut-offs were drawn for semiquantitative parameters considered predictors of malignancy. Nodule size correlated significantly with FDG uptake intensity and with SUVmax. Finally, age and nodule size proved significant predictors of malignancy. In conclusion, considering the pre-test probability of malignancy, qualitative and semiquantitative parameters can be considered reliable tools in patients with SPN, since cut-offs for SUVmax, SUVmean, TLG, and MTV showed good sensitivity and specificity in predicting malignancy.",
+      "corpusId": 256650810,
+      "url": "https://api.semanticscholar.org/CorpusId:256650810"
+    },
+    {
+      "title": "Factors associated with overdiagnosis of benign pulmonary nodules as malignancy: a retrospective cohort study",
+      "authors": [
+        {
+          "name": "Xirui Duan",
+          "id": "2267366738"
+        },
+        {
+          "name": "Zhiqiang Ouyang",
+          "id": "2265327122"
+        },
+        {
+          "name": "Shasha Bao",
+          "id": "2153059717"
+        },
+        {
+          "name": "Lu Yang",
+          "id": "2236903827"
+        },
+        {
+          "name": "Ailin Deng",
+          "id": "2153054781"
+        },
+        {
+          "name": "Guangrong Zheng",
+          "id": "2236888286"
+        },
+        {
+          "name": "Yu Zhu",
+          "id": "2237590179"
+        },
+        {
+          "name": "Guochen Li",
+          "id": "2267497798"
+        },
+        {
+          "name": "Jixiang Chu",
+          "id": "2266602017"
+        },
+        {
+          "name": "Chengde Liao",
+          "id": "2265364503"
+        }
+      ],
+      "year": 2023,
+      "venue": "BMC Pulmonary Medicine",
+      "score": 0.46352334408230766,
+      "abstract": "Objective To establish a preoperative model for the differential diagnosis of benign and malignant pulmonary nodules (PNs), and to evaluate the related factors of overdiagnosis of benign PNs at the time of imaging assessments. Materials and methods In this retrospective study, 357 patients (median age, 52 years; interquartile range, 46–59 years) with 407 PNs were included, who underwent surgical histopathologic evaluation between January 2020 and December 2020. Patients were divided into a training set ( n  = 285) and a validation set ( n  = 122) to develop a preoperative model to identify benign PNs. CT scan features were reviewed by two chest radiologists, and imaging findings were categorized. The overdiagnosis rate of benign PNs was calculated, and bivariate and multivariable logistic regression analyses were used to evaluate factors associated with benign PNs that were over-diagnosed as malignant PNs. Results The preoperative model identified features such as the absence of part-solid and non-solid nodules, absence of spiculation, absence of vascular convergence, larger lesion size, and CYFRA21-1 positivity as features for identifying benign PNs on imaging, with a high area under the receiver operating characteristic curve of 0.88 in the validation set. The overdiagnosis rate of benign PNs was found to be 50%. Independent risk factors for overdiagnosis included diagnosis as non-solid nodules, pleural retraction, vascular convergence, and larger lesion size at imaging. Conclusion We developed a preoperative model for identifying benign and malignant PNs and evaluating factors that led to the overdiagnosis of benign PNs. This preoperative model and result may help clinicians and imaging physicians reduce unnecessary surgery.",
+      "corpusId": 265297584,
+      "url": "https://api.semanticscholar.org/CorpusId:265297584"
+    },
+    {
+      "title": "Development of a diagnostic model for malignant solitary pulmonary nodules based on radiomics features",
+      "authors": [
+        {
+          "name": "Wei Zhao",
+          "id": "145623199"
+        },
+        {
+          "name": "Chenxi Zou",
+          "id": "2136146161"
+        },
+        {
+          "name": "Chunsun Li",
+          "id": "2209544179"
+        },
+        {
+          "name": "J. Li",
+          "id": "1684133"
+        },
+        {
+          "name": "Zirui Wang",
+          "id": "2117418706"
+        },
+        {
+          "name": "Liang’an Chen",
+          "id": "7203091"
+        }
+      ],
+      "year": 2021,
+      "venue": "Annals of Translational Medicine",
+      "score": 0.4598503007390194,
+      "abstract": "Background This study proposed a precise diagnostic model for malignant solitary pulmonary nodules (SPNs). This model can be used to identify objective and quantifiable image features and guide the clinical treatment strategy adopted for SPNs. This model will help clinicians optimize management strategies for SPN. Methods In this retrospective study, the clinical data of 455 patients of SPN with defined pathological diagnosis between September 2016 and August 2019 were collected and analyzed. The data included pathological diagnosis, preoperative computed tomography (CT) diagnosis, gender, age, smoking history, family history of tumor, previous history, and contact history data. The quantitative image features and radiomic information of the SPNs were provided using computer-aided detection (CAD) “digital lung” software. The Chi-squared test was used to assess the accuracy between CAD and conventional CT in the diagnosis of SPNs. The diagnostic model for benign or malignant SPNs was developed using a multivariate logistic regression analysis that comprises 6 radiomic factors (irregularity, average diameter, COPD910, proportion of emphysema, proportion of fat, and average density of related blood vessels). The area under the receiver operating characteristic curve was used to evaluate the performance of the model in determining SPN risk of malignancy. Results There was a statistical difference in the accuracy of CAD and conventional CT in diagnosing SPNs. According to the golden standard pathological diagnosis, the diagnostic accuracy of CAD (81%) was higher than that of conventional CT (63.7%) (P<0.05). Six variables (i.e., irregularity, the mean diameter, COPD910, the proportion of emphysema, the proportion of fat, and the vascular density) were identified using multivariable logistic regression to establish the diagnostic model for distinguish benign or malignant SPNs. The area under the receiver operating characteristic (ROC) curve (AUC) of the diagnostic model was 0.876 (95% CI: 0.8445–0.9076), and its sensitivity and specificity were 81.25% and 82.56% respectively. Conclusions The proposed diagnostic model, which comprises 6 radiomic factors, is accurate and effective at diagnosing benign or malignant SPNs.",
+      "corpusId": 247139235,
+      "url": "https://api.semanticscholar.org/CorpusId:247139235"
+    },
+    {
+      "title": "Solid Indeterminate Nodules with a Radiological Stability Suggesting Benignity: A Texture Analysis of Computed Tomography Images Based on the Kurtosis and Skewness of the Nodule Volume Density Histogram",
+      "authors": [
+        {
+          "name": "Bruno Max Borguezan",
+          "id": "1403567113"
+        },
+        {
+          "name": "A. Lopes",
+          "id": "40039896"
+        },
+        {
+          "name": "E. Saito",
+          "id": "46934112"
+        },
+        {
+          "name": "Claudio C. Higa",
+          "id": "144417726"
+        },
+        {
+          "name": "A. Silva",
+          "id": "1481709695"
+        },
+        {
+          "name": "R. Nunes",
+          "id": "2072421"
+        }
+      ],
+      "year": 2019,
+      "venue": "Pulmonary Medicine",
+      "score": 0.4410702560500549,
+      "abstract": "Background The number of incidental findings of pulmonary nodules using imaging methods to diagnose other thoracic or extrathoracic conditions has increased, suggesting the need for in-depth radiological image analyses to identify nodule type and avoid unnecessary invasive procedures. Objectives The present study evaluated solid indeterminate nodules with a radiological stability suggesting benignity (SINRSBs) through a texture analysis of computed tomography (CT) images. Methods A total of 100 chest CT scans were evaluated, including 50 cases of SINRSBs and 50 cases of malignant nodules. SINRSB CT scans were performed using the same noncontrast enhanced CT protocol and equipment; the malignant nodule data were acquired from several databases. The kurtosis (KUR) and skewness (SKW) values of these tests were determined for the whole volume of each nodule, and the histograms were classified into two basic patterns: peaks or plateaus. Results The mean (MEN) KUR values of the SINRSBs and malignant nodules were 3.37 ± 3.88 and 5.88 ± 5.11, respectively. The receiver operating characteristic (ROC) curve showed that the sensitivity and specificity for distinguishing SINRSBs from malignant nodules were 65% and 66% for KUR values >6, respectively, with an area under the curve (AUC) of 0.709 (p < 0.0001). The MEN SKW values of the SINRSBs and malignant nodules were 1.73 ± 0.94 and 2.07 ± 1.01, respectively. The ROC curve showed that the sensitivity and specificity for distinguishing malignant nodules from SINRSBs were 65% and 66% for SKW values >3.1, respectively, with an AUC of 0.709 (p < 0.0001). An analysis of the peak and plateau histograms revealed sensitivity, specificity, and accuracy values of 84%, 74%, and 79%, respectively. Conclusions KUR, SKW, and histogram shape can help to noninvasively diagnose SINRSBs but should not be used alone or without considering clinical data.",
+      "corpusId": 207892027,
+      "url": "https://api.semanticscholar.org/CorpusId:207892027"
+    },
+    {
+      "title": "Preliminary study on the correlation between grading and histology of solitary pulmonary nodules and contrast enhancement and [18F]fluorodeoxyglucose standardised uptake value after evaluation by dynamic multiphase CT and PET/CT",
+      "authors": [
+        {
+          "name": "S. Cappabianca",
+          "id": "5495480"
+        },
+        {
+          "name": "A. Porto",
+          "id": "7547926"
+        },
+        {
+          "name": "M. Petrillo",
+          "id": "46559949"
+        },
+        {
+          "name": "B. Greco",
+          "id": "47963701"
+        },
+        {
+          "name": "A. Reginelli",
+          "id": "4275877"
+        },
+        {
+          "name": "F. Ronza",
+          "id": "5186147"
+        },
+        {
+          "name": "F. Setola",
+          "id": "7526673"
+        },
+        {
+          "name": "G. Rossi",
+          "id": "2112629954"
+        },
+        {
+          "name": "A. Di Matteo",
+          "id": "2351483251"
+        },
+        {
+          "name": "R. Muto",
+          "id": "50781826"
+        },
+        {
+          "name": "Maria Luisa De Rimini",
+          "id": "2324714917"
+        },
+        {
+          "name": "S. Piccolo",
+          "id": "46816430"
+        },
+        {
+          "name": "M. Catalano",
+          "id": "29286312"
+        },
+        {
+          "name": "P. Muto",
+          "id": "49197585"
+        },
+        {
+          "name": "N. de Rosa",
+          "id": "37593368"
+        },
+        {
+          "name": "E. Barra",
+          "id": "145684313"
+        },
+        {
+          "name": "I. De Rosa",
+          "id": "39692805"
+        },
+        {
+          "name": "F. Antinolfi",
+          "id": "1992718120"
+        },
+        {
+          "name": "G. Antinolfi",
+          "id": "31501210"
+        },
+        {
+          "name": "M. Caputi",
+          "id": "4714177"
+        },
+        {
+          "name": "L. Brunese",
+          "id": "6223137"
+        },
+        {
+          "name": "R. Grassi",
+          "id": "113653629"
+        },
+        {
+          "name": "A. Rotondo",
+          "id": "3592457"
+        }
+      ],
+      "year": 2010,
+      "venue": "Journal of Clinical Pathology",
+      "score": 0.4375534386404421,
+      "abstract": "Aim To evaluate whether the histology and grading of solitary pulmonary nodules (SPNs) correlated with the results of dynamic multiphase multidetector CT (MDCT) and the [18F]fluorodeoxyglucose standardised uptake value (SUV) in 30 patients. Methods Chest x-rays of 270 patients with incidentally detected SPNs were retrospectively evaluated. Thirty patients with histologically proven SPNs were enrolled. On MDCT and positron emission tomography (PET)/CT images, two experts measured the density of nodules in all perfusion phases and the SUV. Net enhancement (NE) was calculated by subtracting peak pre-contrast density from peak post-contrast density. The Pearson test was used to correlate nodule NE, SUV, grading, histology and diameter. Results Of the 30 malignant SPNs, six were classified as G1 (median NE, 31.5 Hounsfield units (HU); median SUV, 4.8 units), 15 were classified as G2 (median NE, 49 HU; median SUV, 6 units), and nine were classified as G3 (median NE, 32 HU; median SUV, 4.5 units). A highly negative correlation was found in G3 SPNs between NE and the corresponding diameters (r=−0.834; p=0.00524). NE increased with the increase in diameter (r=0.982; p=0.284). SUV increased as the SPN diameter increased (r=0.789; p=0.421). NE and SUV were higher in G2 than G1 SPNs, and lower in G2 than G3 SPNs (r=0.97; p=0.137). Conclusions The significant correlation in dedifferentiated (G3) SPNs between NE and diameter (r=−0.834; p=0.00524) supports the theory that stroma and neoangiogenesis are fundamental in SPN growth. The highly negative correlation between NE and diameter demonstrates a net decrease in perfusion despite an increase in dimension. The multidisciplinary approach used herein may result in a more precise prognosis and consequently a better therapeutic outcome, particularly in patients with undifferentiated lung cancer.",
+      "corpusId": 16785250,
+      "url": "https://api.semanticscholar.org/CorpusId:16785250"
+    },
+    {
+      "title": "The probability of malignancy in solitary pulmonary nodules. Application to small radiologically indeterminate nodules.",
+      "authors": [
+        {
+          "name": "S. Swensen",
+          "id": "3856058"
+        },
+        {
+          "name": "M. Silverstein",
+          "id": "5196935"
+        },
+        {
+          "name": "D. Ilstrup",
+          "id": "2797023"
+        },
+        {
+          "name": "C. Schleck",
+          "id": "3762733"
+        },
+        {
+          "name": "E. Edell",
+          "id": "1863893"
+        }
+      ],
+      "year": 1997,
+      "venue": "Archives of Internal Medicine",
+      "score": 0.43312406644410906,
+      "abstract": "",
+      "corpusId": 20244169,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/9129544"
+    },
+    {
+      "title": "Multimodality CT Imaging Contributes to Improving the Diagnostic Accuracy of Solitary Pulmonary Nodules: A Multi-institutional and Prospective Study",
+      "authors": [
+        {
+          "name": "Gao-Wen Yan",
+          "id": "10005068"
+        },
+        {
+          "name": "Hongwei Li",
+          "id": "2142626498"
+        },
+        {
+          "name": "Xiaoping Fan",
+          "id": "49537350"
+        },
+        {
+          "name": "Jiantao Deng",
+          "id": "2188478103"
+        },
+        {
+          "name": "Jing Yan",
+          "id": "2112650398"
+        },
+        {
+          "name": "Fei Qiao",
+          "id": "2065090937"
+        },
+        {
+          "name": "Gaowen Yan",
+          "id": "2205993023"
+        },
+        {
+          "name": "Tao Liu",
+          "id": "2149917715"
+        },
+        {
+          "name": "Jiankang Chen",
+          "id": "2265792121"
+        },
+        {
+          "name": "L. Wang",
+          "id": "2086787"
+        },
+        {
+          "name": "Yang Yang",
+          "id": "2152915652"
+        },
+        {
+          "name": "Yong Li",
+          "id": "2154404320"
+        },
+        {
+          "name": "Linwei Zhao",
+          "id": "2111642245"
+        },
+        {
+          "name": "A. Bhetuwal",
+          "id": "5273448"
+        },
+        {
+          "name": "Morgan A. Mcclure",
+          "id": "7563269"
+        },
+        {
+          "name": "Na Li",
+          "id": "2207130120"
+        },
+        {
+          "name": "Chen Peng",
+          "id": "2151231022"
+        }
+      ],
+      "year": 2023,
+      "venue": "Radiology and Oncology",
+      "score": 0.4274141506920605,
+      "abstract": "Abstract Background Solitary pulmonary nodules (SPNs) are one of the most common chest computed tomography (CT) abnormalities clinically. We aimed to investigate the value of non-contrast enhanced CT (NECT), contrast enhanced CT (CECT), CT perfusion imaging (CTPI), and dual- energy CT (DECT) used for differentiating benign and malignant SPNs with a multi-institutional and prospective study. Patients and methods Patients with 285 SPNs were scanned with NECT, CECT, CTPI and DECT. Differences between the benign and malignant SPNs on NECT, CECT, CTPI, and DECT used separately (NECT combined with CECT, DECT, and CTPI were methods of A, B, and C) or in combination (Method A + B, A + C, B + C, and A + B + C) were compared by receiver operating characteristic curve analysis. Results Multimodality CT imaging showed higher performances (sensitivities of 92.81% to 97.60%, specificities of 74.58% to 88.14%, and accuracies of 86.32% to 93.68%) than those of single modality CT imaging (sensitivities of 83.23% to 85.63%, specificities of 63.56% to 67.80%, and accuracies of 75.09% to 78.25%, all p < 0.05). Conclusions SPNs evaluated with multimodality CT imaging contributes to improving the diagnostic accuracy of benign and malignant SPNs. NECT helps to locate and evaluate the morphological characteristics of SPNs. CECT helps to evaluate the vascularity of SPNs. CTPI using parameter of permeability surface and DECT using parameter of normalized iodine concentration at the venous phase both are helpful for improving the diagnostic performance.",
+      "corpusId": 256899282,
+      "url": "https://api.semanticscholar.org/CorpusId:256899282"
+    },
+    {
+      "title": "Predictive model of malignancy probability in pulmonary nodules based on multicenter data",
+      "authors": [
+        {
+          "name": "Yuyan Huang",
+          "id": "2162377134"
+        },
+        {
+          "name": "Yong Chen",
+          "id": "2414517185"
+        },
+        {
+          "name": "Fang He",
+          "id": "2342368212"
+        },
+        {
+          "name": "Li Jiang",
+          "id": "2274967815"
+        }
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Oncology",
+      "score": 0.4215987001749476,
+      "abstract": "Objectives To study the characteristic factors associated with the occurrence of malignant nodules in patients presenting with pulmonary nodules, develop a predictive model, and evaluate its diagnostic performance. Methods This study analyzed the clinical and imaging data of 830 patients with pulmonary nodules from the Affiliated Hospital of North Sichuan Medical College. The Least Absolute Shrinkage and Selection Operator (LASSO) and multivariate logistic regression analysis were utilized to identify characteristic predictors. Multiple machine learning classification models were employed for analysis, with the optimal model ultimately selected. A Shapley Additive Explanations (SHAP) framework was developed for personalized risk assessment. Finally, external testing was performed using data from 330 pulmonary nodule patients at Guang’an People’s Hospital. Results The predictive factors for malignant pulmonary nodules included: age, gender, nodule diameter, spiculation, lobulation, calcification, vacuole, vascular convergence sign, air bronchogram sign, pleural traction, and density of the nodule. The Gradient Boosting Decision Tree (GBDT) classification model demonstrated optimal performance, with an area under the curve (AUC) of 0.873 (95% confidence interval [CI]: 0.840–0.906) on the internal test set and 0.726 (95% CI: 0.668–0.784) on the external test set. Both the calibration curve and clinical decision curve analysis (DCA) indicated excellent model calibration and substantial clinical benefits. Conclusions We developed a GBDT model that provides a basis for differentiating malignant pulmonary nodules, which may assist in the diagnosis and treatment of patients with pulmonary nodules.",
+      "corpusId": 278985047,
+      "url": "https://api.semanticscholar.org/CorpusId:278985047"
+    },
+    {
+      "title": "Comparison of Brock University, Mayo Clinic and Herder models for pretest probability of cancer in solid pulmonary nodules",
+      "authors": [
+        {
+          "name": "S. Susam",
+          "id": "15528425"
+        },
+        {
+          "name": "A. Çinkooğlu",
+          "id": "151381584"
+        },
+        {
+          "name": "K. Ceylan",
+          "id": "6852917"
+        },
+        {
+          "name": "S. Gürsoy",
+          "id": "152427850"
+        },
+        {
+          "name": "B. Kömürcüoğlu",
+          "id": "14824859"
+        },
+        {
+          "name": "A. Mertoğlu",
+          "id": "14102323"
+        },
+        {
+          "name": "A. Çırak",
+          "id": "5029999"
+        },
+        {
+          "name": "M. Gayaf",
+          "id": "4393357"
+        },
+        {
+          "name": "F. Güldaval",
+          "id": "31679689"
+        },
+        {
+          "name": "F. Tuksavul",
+          "id": "9811141"
+        },
+        {
+          "name": "G. Polat",
+          "id": "15064134"
+        },
+        {
+          "name": "S. Ataman",
+          "id": "15203012"
+        },
+        {
+          "name": "Eylem Yildirim",
+          "id": "113700789"
+        },
+        {
+          "name": "Hakan Koparal",
+          "id": "12129178"
+        },
+        {
+          "name": "N. Yücel",
+          "id": "16271655"
+        }
+      ],
+      "year": 2022,
+      "venue": "Clinical Respiratory Journal",
+      "score": 0.41986565619862953,
+      "abstract": "Risk analysis models, which are used in the diagnostic algorithm of incidental pulmonary nodules, are based on patient data from developed countries. Mayo Clinic, Brock University and Herder are among the most known models. We aim to compare the reliability of these models in patients with indeterminate solid nodules and to investigate the contribution of the predictors used to the model.",
+      "corpusId": 252759119,
+      "url": "https://api.semanticscholar.org/CorpusId:252759119"
+    },
+    {
+      "title": "A clinical model to estimate the pretest probability of lung cancer in patients with solitary pulmonary nodules.",
+      "authors": [
+        {
+          "name": "M. Gould",
+          "id": "144900159"
+        },
+        {
+          "name": "L. Ananth",
+          "id": "14611818"
+        },
+        {
+          "name": "P. Barnett",
+          "id": "34934870"
+        }
+      ],
+      "year": 2007,
+      "venue": "Chest",
+      "score": 0.4177116074429238,
+      "abstract": "",
+      "corpusId": 25521017,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/17296637"
+    },
+    {
+      "title": "A novel clinical model for predicting malignancy of solitary pulmonary nodules: a multicenter study in chinese population",
+      "authors": [
+        {
+          "name": "Xia He",
+          "id": "2217651493"
+        },
+        {
+          "name": "N. Xue",
+          "id": "1990719908"
+        },
+        {
+          "name": "Xiaohua Liu",
+          "id": "48032642"
+        },
+        {
+          "name": "Xue-miao Tang",
+          "id": "29281572"
+        },
+        {
+          "name": "Song-guo Peng",
+          "id": "14306156"
+        },
+        {
+          "name": "Yuanye Qu",
+          "id": "2025189693"
+        },
+        {
+          "name": "Lina Jiang",
+          "id": "2112637425"
+        },
+        {
+          "name": "Qingxia Xu",
+          "id": "51256753"
+        },
+        {
+          "name": "Wanli Liu",
+          "id": "2019426282"
+        },
+        {
+          "name": "Shulin Chen",
+          "id": "2110749302"
+        }
+      ],
+      "year": 2021,
+      "venue": "Cancer Cell International",
+      "score": 0.4171783691544407,
+      "abstract": "This study aimed to establish and validate a novel clinical model to differentiate between benign and malignant solitary pulmonary nodules (SPNs). Records from 295 patients with SPNs in Sun Yat-sen University Cancer Center were retrospectively reviewed. The novel prediction model was established using LASSO logistic regression analysis by integrating clinical features, radiologic characteristics and laboratory test data, the calibration of model was analyzed using the Hosmer-Lemeshow test (HL test). Subsequently, the model was compared with PKUPH, Shanghai and Mayo models using receiver-operating characteristics curve (ROC), decision curve analysis (DCA), net reclassification improvement index (NRI), and integrated discrimination improvement index (IDI) with the same data. Other 101 SPNs patients in Henan Tumor Hospital were used for external validation cohort. A total of 11 variables were screened out and then aggregated to generate new prediction model. The model showed good calibration with the HL test (P = 0.964). The AUC for our model was 0.768, which was higher than other three reported models. DCA also showed our model was superior to the other three reported models. In our model, sensitivity = 78.84%, specificity = 61.32%. Compared with the PKUPH, Shanghai and Mayo models, the NRI of our model increased by 0.177, 0.127, and 0.396 respectively, and the IDI changed − 0.019, -0.076, and 0.112, respectively. Furthermore, the model was significant positive correlation with PKUPH, Shanghai and Mayo models. The novel model in our study had a high clinical value in diagnose of MSPNs.",
+      "corpusId": 255858171,
+      "url": "https://api.semanticscholar.org/CorpusId:255858171"
+    },
+    {
+      "title": "Prediction of malignancy for solitary pulmonary nodules based on imaging, clinical characteristics and tumor marker levels",
+      "authors": [
+        {
+          "name": "Hongjun Hou",
+          "id": "16724730"
+        },
+        {
+          "name": "Shui Yu",
+          "id": "2026017665"
+        },
+        {
+          "name": "Zu-shan Xu",
+          "id": "13788825"
+        },
+        {
+          "name": "Hongsheng Zhang",
+          "id": "2108878620"
+        },
+        {
+          "name": "Jie Liu",
+          "id": "49722662"
+        },
+        {
+          "name": "Wenjun Zhang",
+          "id": "2108395075"
+        }
+      ],
+      "year": 2020,
+      "venue": "European Journal of Cancer Prevention",
+      "score": 0.41634609057522115,
+      "abstract": "Objective To establish a prediction model of malignancy for solitary pulmonary nodules (SPNs) on the basis of imaging, clinical characteristics and tumor marker levels. Methods Totally, 341 cases of SPNs were enrolled in this retrospective study, in which 70% were selected as the training group (n = 238) and the rest 30% as the verification group (n = 103). The imaging, clinical characteristics and tumor marker levels of patients with benign and malignant SPNs were compared. Influencing factors were identified using multivariate logistic regression analysis. The model was assessed by the area under the curve (AUC) of the receiver operating characteristic curve. Results Differences were evident between patients with benign and malignant SPNs in age, gender, smoking history, carcinoembryonic antigen (CEA), neuron-specific enolase, nodule location, edge smoothing, spiculation, lobulation, vascular convergence sign, air bronchogram, ground-glass opacity, vacuole sign and calcification (all P < 0.05). Influencing factors for malignancy included age, gender, nodule location, spiculation, vacuole sign and CEA (all P < 0.05). The established model was as follows: Y = −5.368 + 0.055 × age + 1.012 × gender (female = 1, male = 0) + 1.302 × nodule location (right upper lobe = 1, others = 0) + 1.208 × spiculation (yes = 1, no = 0) + 2.164 × vacuole sign (yes = 1, no = 0) −0.054 × CEA. The AUC of the model with CEA was 0.818 (95% confidence interval, 0.763–0.865), with a sensitivity of 64.80% and a specificity of 84.96%, and the stability was better through internal verification. Conclusions The prediction model established in our study exhibits better accuracy and internal stability in predicting the probability of malignancy for SPNs.",
+      "corpusId": 227523732,
+      "url": "https://api.semanticscholar.org/CorpusId:227523732"
+    },
+    {
+      "title": "A novel clinical model for predicting malignancy of solitary pulmonary nodules: a multicenter study in chinese population",
+      "authors": [
+        {
+          "name": "Xia He",
+          "id": "2217651493"
+        },
+        {
+          "name": "N. Xue",
+          "id": "1990719908"
+        },
+        {
+          "name": "Xiaohua Liu",
+          "id": "48032642"
+        },
+        {
+          "name": "Xue-miao Tang",
+          "id": "29281572"
+        },
+        {
+          "name": "Song-guo Peng",
+          "id": "14306156"
+        },
+        {
+          "name": "Yuanye Qu",
+          "id": "2025189693"
+        },
+        {
+          "name": "Lina Jiang",
+          "id": "2112637425"
+        },
+        {
+          "name": "Qingxia Xu",
+          "id": "51256753"
+        },
+        {
+          "name": "Wanli Liu",
+          "id": "2019426282"
+        },
+        {
+          "name": "Shulin Chen",
+          "id": "2110749302"
+        }
+      ],
+      "year": 2020,
+      "venue": "Cancer Cell International",
+      "score": 0.41489053243962315,
+      "abstract": "Background This study aimed to establish and validate a novel clinical model to differentiate between benign and malignant solitary pulmonary nodules (SPNs). Methods Records from 295 patients with SPNs in Sun Yat-sen University Cancer Center were retrospectively reviewed. The novel prediction model was established using LASSO logistic regression analysis by integrating clinical features, radiologic characteristics and laboratory test data, the calibration of model was analyzed using the Hosmer-Lemeshow test (HL test). Subsequently, the model was compared with PKUPH, Shanghai and Mayo models using receiver-operating characteristics curve (ROC), decision curve analysis (DCA), net reclassification improvement index (NRI), and integrated discrimination improvement index (IDI) with the same data. Other 101 SPNs patients in Henan Tumor Hospital were used for external validation cohort. Results A total of 11 variables were screened out and then aggregated to generate new prediction model. The model showed good calibration with the HL test (P = 0.964). The AUC for our model was 0.768, which was higher than other three reported models. DCA also showed our model was superior to the other three reported models. In our model, sensitivity = 78.84%, specificity = 61.32%. Compared with the PKUPH, Shanghai and Mayo models, the NRI of our model increased by 0.177, 0.127, and 0.396 respectively, and the IDI changed − 0.019, -0.076, and 0.112, respectively. Furthermore, the model was significant positive correlation with PKUPH, Shanghai and Mayo models. Conclusions The novel model in our study had a high clinical value in diagnose of MSPNs.",
+      "corpusId": 230561060,
+      "url": "https://api.semanticscholar.org/CorpusId:230561060"
+    },
+    {
+      "title": "Construction of a risk prediction model for isolated pulmonary nodules 5–15 mm in diameter",
+      "authors": [
+        {
+          "name": "Siting Xie",
+          "id": "2283263584"
+        },
+        {
+          "name": "Xingguang Luo",
+          "id": "2318991816"
+        },
+        {
+          "name": "Yuxin Guo",
+          "id": "2214796076"
+        },
+        {
+          "name": "Xiulian Huang",
+          "id": "2107922284"
+        },
+        {
+          "name": "Jinyu Long",
+          "id": "144151047"
+        },
+        {
+          "name": "Ying Chen",
+          "id": "2332470613"
+        },
+        {
+          "name": "Ping Lin",
+          "id": "2283231291"
+        },
+        {
+          "name": "Jinhe Xu",
+          "id": "2139050323"
+        },
+        {
+          "name": "Shangwen Xu",
+          "id": "2332043795"
+        },
+        {
+          "name": "Chunlei Zhao",
+          "id": "2212065034"
+        },
+        {
+          "name": "Baoquan Lin",
+          "id": "2007665898"
+        },
+        {
+          "name": "Chunxia Su",
+          "id": "2334232952"
+        },
+        {
+          "name": "N. Seetharamu",
+          "id": "2165259440"
+        },
+        {
+          "name": "D. Divisi",
+          "id": "5894279"
+        },
+        {
+          "name": "M. Jin",
+          "id": "1891534716"
+        },
+        {
+          "name": "Zongyang Yu",
+          "id": "2254847880"
+        }
+      ],
+      "year": 2023,
+      "venue": "Translational Lung Cancer Research",
+      "score": 0.41454049086831674,
+      "abstract": "Background Based on current technology, the accuracy of detecting malignancy in solitary pulmonary nodules (SPNs) is limited. This study aimed to establish a malignant risk prediction model for SPNs 5–15 mm in diameter. Methods We collected clinical characteristics and imaging features from 317 patients with SPNs 5–15 mm in diameter from the 900th Hospital of the Joint Logistic Support Force as a training cohort and 100 patients with SPNs 5–15 mm in diameter as a validation cohort. Univariate logistic regression analysis, least absolute shrinkage and selection operator (LASSO), and binary logistic regression analysis were used to screen for the independent influencing factors of benign and malignant SPN and to establish a prediction model for benign and malignant SPN with a diameter of 5–15 mm. The model in this study was compared with the Mayo model, Veterans Affairs (VA) model, Brock model, and Peking University People’s Hospital (PKUPH) model. Finally, the clinical application value of this model was assessed. Results Univariate logistic regression analysis showed that smoking history, nodule diameter, nodule location, nodule density, margin, calcification, lobulation sign, spiculation sign, and vascular cluster sign were statistically significant factors. The results of LASSO and binary logistic regression analysis showed that smoking history, nodule diameter, nodule density, margin, lobulation sign, and vascular cluster sign were independent influencing factors of SPNs. The prediction model was successfully constructed and demonstrated a good predictive performance, with an area under the curve (AUC) value of 0.814 [95% confidence interval (CI): 0.768–0.861; P<0.001] in the training cohort and 0.864 (95% CI: 0.794–0.934; P<0.001) in the validation cohort. This model was shown to be highly accurate in predicting malignant SPNs and thus has a high clinical application value. Compared with previously described prediction models, including the Mayo model, VA model, Brock model, and PKUPH model, the proposed model demonstrated a significantly superior predictive ability. Conclusions The prediction model developed in this study can be used as an early screening method for SPNs 5–15 mm in diameter.",
+      "corpusId": 274218119,
+      "url": "https://api.semanticscholar.org/CorpusId:274218119"
+    },
+    {
+      "title": "Relationship between a history of antecedent cancer and the probability of malignancy for a solitary pulmonary nodule.",
+      "authors": [
+        {
+          "name": "C. Mery",
+          "id": "5364953"
+        },
+        {
+          "name": "Anastasia N Pappas",
+          "id": "8989429"
+        },
+        {
+          "name": "R. Bueno",
+          "id": "144377164"
+        },
+        {
+          "name": "S. Mentzer",
+          "id": "2899032"
+        },
+        {
+          "name": "J. Lukanich",
+          "id": "3729677"
+        },
+        {
+          "name": "D. Sugarbaker",
+          "id": "3088225"
+        },
+        {
+          "name": "M. Jaklitsch",
+          "id": "6636932"
+        }
+      ],
+      "year": 2004,
+      "venue": "Chest",
+      "score": 0.4121339232214275,
+      "abstract": "",
+      "corpusId": 30843754,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/15189939"
+    },
+    {
+      "title": "Differentiating benign and malignant solitary pulmonary nodules through exhaled breath analysis",
+      "authors": [
+        {
+          "name": "K. Zwijsen",
+          "id": "2174503880"
+        },
+        {
+          "name": "R. Wener",
+          "id": "10194719"
+        },
+        {
+          "name": "E. Heirwegh",
+          "id": "2262315562"
+        },
+        {
+          "name": "Jan P. van Meerbeeck",
+          "id": "2238557105"
+        },
+        {
+          "name": "E. Schillebeeckx",
+          "id": "1783172622"
+        },
+        {
+          "name": "Jo Raskin",
+          "id": "2262372951"
+        },
+        {
+          "name": "E. Marcq",
+          "id": "4154711"
+        },
+        {
+          "name": "P. V. Van Schil",
+          "id": "2255130673"
+        },
+        {
+          "name": "A. Snoeckx",
+          "id": "5700046"
+        },
+        {
+          "name": "Annelies Janssens",
+          "id": "2262362118"
+        },
+        {
+          "name": "K. Lamote",
+          "id": "11455534"
+        }
+      ],
+      "year": 2025,
+      "venue": "ERJ Open Research",
+      "score": 0.4104133073124476,
+      "abstract": "Background Lung cancer remains the leading cause of cancer-related deaths worldwide, with early detection significantly improving survival. Lung nodules are a common finding, both as incidental solitary pulmonary nodules (SPNs) and in lung cancer screening programmes. Accurately distinguishing benign from malignant nodules, particularly small ones, remains challenging. Determining which nodules require further investigation is crucial for optimising early lung cancer detection and reducing unnecessary procedures. Therefore, volatile organic compounds (VOCs) in exhaled breath are analysed using multicapillary column/ion mobility spectrometry (MCC/IMS) to differentiate malignant from benign SPNs, serving as potential biomarkers for lung cancer. Methods A total of 65 patients with an incidental, solitary pulmonary malignant (n=41) or benign (n=24) nodule were prospectively included. Two models were developed: a pre-computed tomography (CT) scan situation for triaging high-risk individuals prior to imaging, and a post-CT scan situation to assist with nodule management and follow-up. Results Four VOCs (VOC37, VOC46, VOC58 and VOC128) were identified as key compounds, showing strong diagnostic performance (area under the curve 0.900 for pre-CT scan and 0.897 for post-CT scan). Conclusions Our findings suggest that breath analysis could improve nodule management by refining patient selection for CT screening and reducing unnecessary invasive procedures or follow-up scans. Further validation through larger multicentre studies is needed to confirm these results. Shareable abstract Breath analysis using VOCs measured by MCC/IMS shows high accuracy in distinguishing malignant from benign lung nodules, offering a noninvasive tool to improve early lung cancer detection, and reduce unnecessary imaging and procedures https://bit.ly/45Iis71",
+      "corpusId": 281740015,
+      "url": "https://api.semanticscholar.org/CorpusId:281740015"
+    },
+    {
+      "title": "solitary pulmonary nodules what every clinician should know",
+      "authors": [
+        {
+          "name": "R. Peixoto",
+          "id": "6161348"
+        },
+        {
+          "name": "E. Fiss",
+          "id": "5428420"
+        },
+        {
+          "name": "T. Sousa",
+          "id": "15353630"
+        },
+        {
+          "name": "Bruna Nascimento Crouzillard",
+          "id": "71069322"
+        },
+        {
+          "name": "Francisco De Assis Rodrigues Júnior",
+          "id": "13443342"
+        },
+        {
+          "name": "João Carlos das Neves Pereira",
+          "id": "114127273"
+        },
+        {
+          "name": "F. Abrão",
+          "id": "6379788"
+        }
+      ],
+      "year": 2018,
+      "venue": "unknown",
+      "score": 0.4092140294506978,
+      "abstract": "Solitary Pulmonary Nodules (SPNs) are one of the most common thoracic radiological finding at computed tomography scans. However, dealing with SPN is challenging for both surgeons and clinicians. Differentiating a benign from a malignant nodule is usually the major question in the evaluation of SPNs as it defines the proper subsequent management. Here we describe the 3 most used recommendations from important medical societies to guide doctors in managing a SPN.",
+      "corpusId": 187259185,
+      "url": "https://api.semanticscholar.org/CorpusId:187259185"
+    },
+    {
+      "title": "Proceedings of the International Cancer Imaging Society (ICIS) 16th Annual Teaching Course",
+      "authors": [
+        {
+          "name": "D. Koh",
+          "id": "143609640"
+        },
+        {
+          "name": "S. Kaste",
+          "id": "4545996"
+        },
+        {
+          "name": "S. Vinnicombe",
+          "id": "1881534"
+        },
+        {
+          "name": "G. Morana",
+          "id": "2902510"
+        },
+        {
+          "name": "A. Rossi",
+          "id": "152557327"
+        },
+        {
+          "name": "C. Herold",
+          "id": "79440426"
+        },
+        {
+          "name": "T. McLoud",
+          "id": "5476188"
+        },
+        {
+          "name": "K. Frey",
+          "id": "1761411"
+        },
+        {
+          "name": "B. Gebauer",
+          "id": "2606978"
+        },
+        {
+          "name": "D. Roebuck",
+          "id": "5328669"
+        },
+        {
+          "name": "J. Fütterer",
+          "id": "2039143"
+        },
+        {
+          "name": "A. Towbin",
+          "id": "2146867"
+        },
+        {
+          "name": "T. Huisman",
+          "id": "145146130"
+        },
+        {
+          "name": "A. Smets",
+          "id": "14876096"
+        },
+        {
+          "name": "G. Morana",
+          "id": "2902510"
+        },
+        {
+          "name": "Jeong Min Lee",
+          "id": "48173660"
+        },
+        {
+          "name": "H. Chandarana",
+          "id": "2382287"
+        },
+        {
+          "name": "M. Mayerhoefer",
+          "id": "3081315"
+        },
+        {
+          "name": "M. Raderer",
+          "id": "6106109"
+        },
+        {
+          "name": "A. Haug",
+          "id": "49346002"
+        },
+        {
+          "name": "M. Eiber",
+          "id": "2404724"
+        },
+        {
+          "name": "A. Rockall",
+          "id": "3484344"
+        },
+        {
+          "name": "A. Sohaib",
+          "id": "152542913"
+        },
+        {
+          "name": "V. Warbey",
+          "id": "7986955"
+        },
+        {
+          "name": "H. Vargas",
+          "id": "5572277"
+        },
+        {
+          "name": "J. Heiken",
+          "id": "2888968"
+        },
+        {
+          "name": "I. Francis",
+          "id": "2637187"
+        },
+        {
+          "name": "M. Al-Hawary",
+          "id": "1393866922"
+        },
+        {
+          "name": "Ravi K Kaza",
+          "id": "2592812"
+        },
+        {
+          "name": "M. D’Onofrio",
+          "id": "1394824040"
+        },
+        {
+          "name": "H. Thoeny",
+          "id": "4519834"
+        },
+        {
+          "name": "A. King",
+          "id": "2334078"
+        },
+        {
+          "name": "G. Morana",
+          "id": "2902510"
+        },
+        {
+          "name": "A. Piccardo",
+          "id": "2668869"
+        },
+        {
+          "name": "M. Garrè",
+          "id": "1850442"
+        },
+        {
+          "name": "A. Rossi",
+          "id": "152557327"
+        },
+        {
+          "name": "N. Reed",
+          "id": "46377071"
+        },
+        {
+          "name": "C. Rodríguez-Galindo",
+          "id": "1398370586"
+        },
+        {
+          "name": "A. Wasnik",
+          "id": "4350031"
+        },
+        {
+          "name": "S. Diederich",
+          "id": "3000635"
+        },
+        {
+          "name": "W. Oyen",
+          "id": "145747644"
+        },
+        {
+          "name": "C. Chaw",
+          "id": "16815898"
+        },
+        {
+          "name": "N. Van As",
+          "id": "134536157"
+        },
+        {
+          "name": "I. Vieira",
+          "id": "152659146"
+        },
+        {
+          "name": "F. De Keyzer",
+          "id": "8183453"
+        },
+        {
+          "name": "E. Dresen",
+          "id": "144185562"
+        },
+        {
+          "name": "Sileny N. Han",
+          "id": "67146404"
+        },
+        {
+          "name": "I. Vergote",
+          "id": "2056651760"
+        },
+        {
+          "name": "P. Moerman",
+          "id": "143637413"
+        },
+        {
+          "name": "F. Amant",
+          "id": "4707775"
+        },
+        {
+          "name": "M. Koole",
+          "id": "2502283"
+        },
+        {
+          "name": "V. Vandecaveye",
+          "id": "5102041"
+        },
+        {
+          "name": "R. Dresen",
+          "id": "30463180"
+        },
+        {
+          "name": "S. De Vuysere",
+          "id": "7657336"
+        },
+        {
+          "name": "F. De Keyzer",
+          "id": "8183453"
+        },
+        {
+          "name": "E. van Cutsem",
+          "id": "13235231"
+        },
+        {
+          "name": "A. D'Hoore",
+          "id": "1402269763"
+        },
+        {
+          "name": "A. Wolthuis",
+          "id": "49916478"
+        },
+        {
+          "name": "V. Vandecaveye",
+          "id": "5102041"
+        },
+        {
+          "name": "P. Pricolo",
+          "id": "46377360"
+        },
+        {
+          "name": "S. Alessi",
+          "id": "47605979"
+        },
+        {
+          "name": "P. Summers",
+          "id": "1509019693"
+        },
+        {
+          "name": "E. Tagliabue",
+          "id": "34564801"
+        },
+        {
+          "name": "G. Petralia",
+          "id": "1855293"
+        },
+        {
+          "name": "C. Pfannenberg",
+          "id": "4184286"
+        },
+        {
+          "name": "B. Gückel",
+          "id": "49265601"
+        },
+        {
+          "name": "S. C. Schüle",
+          "id": "2071629401"
+        },
+        {
+          "name": "A. Müller",
+          "id": "73841288"
+        },
+        {
+          "name": "S. Kaufmann",
+          "id": "2624179"
+        },
+        {
+          "name": "N. Schwenzer",
+          "id": "49270763"
+        },
+        {
+          "name": "M. Reimold",
+          "id": "2972381"
+        },
+        {
+          "name": "C. la Fougère",
+          "id": "2352293509"
+        },
+        {
+          "name": "K. Nikolaou",
+          "id": "2416887"
+        },
+        {
+          "name": "P. Martus",
+          "id": "2818301"
+        },
+        {
+          "name": "G. Cook",
+          "id": "47144890"
+        },
+        {
+          "name": "G. Azad",
+          "id": "32866378"
+        },
+        {
+          "name": "B. Taylor",
+          "id": "145702470"
+        },
+        {
+          "name": "M. Siddique",
+          "id": "120767952"
+        },
+        {
+          "name": "J. John",
+          "id": "34901784"
+        },
+        {
+          "name": "J. Mansi",
+          "id": "2656956"
+        },
+        {
+          "name": "M. Harries",
+          "id": "145394352"
+        },
+        {
+          "name": "V. Goh",
+          "id": "2066301380"
+        },
+        {
+          "name": "S. Seth",
+          "id": "26624584"
+        },
+        {
+          "name": "R. Burgul",
+          "id": "84556237"
+        },
+        {
+          "name": "A. Seth",
+          "id": "11080740"
+        },
+        {
+          "name": "S. Waugh",
+          "id": "35049630"
+        },
+        {
+          "name": "N. M. Gowdh",
+          "id": "1432887438"
+        },
+        {
+          "name": "C. Purdie",
+          "id": "35258680"
+        },
+        {
+          "name": "A. Evans",
+          "id": "49712473"
+        },
+        {
+          "name": "E. Crowe",
+          "id": "26443259"
+        },
+        {
+          "name": "A. Thompson",
+          "id": "2115886586"
+        },
+        {
+          "name": "S. Vinnicombe",
+          "id": "1380521000"
+        },
+        {
+          "name": "F. Arfeen",
+          "id": "82985792"
+        },
+        {
+          "name": "T. Campion",
+          "id": "145614464"
+        },
+        {
+          "name": "E. Goldstraw",
+          "id": "12524402"
+        },
+        {
+          "name": "M. D’Onofrio",
+          "id": "1394824040"
+        },
+        {
+          "name": "V. Ciaravino",
+          "id": "21013109"
+        },
+        {
+          "name": "S. Crosara",
+          "id": "33145482"
+        },
+        {
+          "name": "R. de Robertis",
+          "id": "7361319"
+        },
+        {
+          "name": "R. Mucelli",
+          "id": "2597654"
+        },
+        {
+          "name": "M. Uhrig",
+          "id": "145084758"
+        },
+        {
+          "name": "D. Simons",
+          "id": "39042872"
+        },
+        {
+          "name": "H. Schlemmer",
+          "id": "143942334"
+        },
+        {
+          "name": "K. Downey",
+          "id": "46665513"
+        },
+        {
+          "name": "S. Murdoch",
+          "id": "115949557"
+        },
+        {
+          "name": "A. Al-Adhami",
+          "id": "2146171090"
+        },
+        {
+          "name": "S. Viswanathan",
+          "id": "47102757"
+        },
+        {
+          "name": "S. Smith",
+          "id": "46720765"
+        },
+        {
+          "name": "P. Jennings",
+          "id": "2058891456"
+        },
+        {
+          "name": "D. Bowers",
+          "id": "2057417548"
+        },
+        {
+          "name": "R. Soomal",
+          "id": "5715980"
+        },
+        {
+          "name": "T. Mutala",
+          "id": "152372446"
+        },
+        {
+          "name": "A. Odhiambo",
+          "id": "5256436"
+        },
+        {
+          "name": "N. Harish",
+          "id": "120463534"
+        },
+        {
+          "name": "P. Pricolo",
+          "id": "46377360"
+        },
+        {
+          "name": "S. Alessi",
+          "id": "47605979"
+        },
+        {
+          "name": "P. Summers",
+          "id": "1509019693"
+        },
+        {
+          "name": "E. Tagliabue",
+          "id": "34564801"
+        },
+        {
+          "name": "G. Petralia",
+          "id": "1855293"
+        },
+        {
+          "name": "M. Hall",
+          "id": "118860650"
+        },
+        {
+          "name": "M. Sproule",
+          "id": "1432887507"
+        },
+        {
+          "name": "S. Sheridan",
+          "id": "83471702"
+        },
+        {
+          "name": "K. Thein",
+          "id": "49622883"
+        },
+        {
+          "name": "C. Tan",
+          "id": "2107229690"
+        },
+        {
+          "name": "Y. Thian",
+          "id": "152207219"
+        },
+        {
+          "name": "C. Ho",
+          "id": "2148845720"
+        },
+        {
+          "name": "S. De Luca",
+          "id": "6546228"
+        },
+        {
+          "name": "C. Carrera",
+          "id": "48179237"
+        },
+        {
+          "name": "V. Blanchet",
+          "id": "1388159891"
+        },
+        {
+          "name": "L. Alarcón",
+          "id": "32584633"
+        },
+        {
+          "name": "E. Eyheremnedy",
+          "id": "1620853692"
+        },
+        {
+          "name": "B. Choudhury",
+          "id": "10433291"
+        },
+        {
+          "name": "K. Bujarbarua",
+          "id": "84544907"
+        },
+        {
+          "name": "G. Barman",
+          "id": "32701897"
+        },
+        {
+          "name": "E. Lovat",
+          "id": "10784030"
+        },
+        {
+          "name": "R. Ferner",
+          "id": "5838391"
+        },
+        {
+          "name": "V. Warbey",
+          "id": "7986955"
+        },
+        {
+          "name": "L. Potti",
+          "id": "8490832"
+        },
+        {
+          "name": "B. Kaye",
+          "id": "2058586960"
+        },
+        {
+          "name": "A. Beattie",
+          "id": "116649403"
+        },
+        {
+          "name": "K. Dutton",
+          "id": "81470138"
+        },
+        {
+          "name": "A. Seth",
+          "id": "2143809685"
+        },
+        {
+          "name": "F. Constantinidis",
+          "id": "50661994"
+        },
+        {
+          "name": "H. Dobson",
+          "id": "38109283"
+        },
+        {
+          "name": "R. Bradley",
+          "id": "1506119332"
+        },
+        {
+          "name": "G. Bozas",
+          "id": "152764962"
+        },
+        {
+          "name": "G. Avery",
+          "id": "46536829"
+        },
+        {
+          "name": "A. Stephens",
+          "id": "2074378391"
+        },
+        {
+          "name": "A. Maraveyas",
+          "id": "144782377"
+        },
+        {
+          "name": "S. Bhuva",
+          "id": "48923960"
+        },
+        {
+          "name": "C. A. Johnson",
+          "id": "2350695175"
+        },
+        {
+          "name": "M. Subesinghe",
+          "id": "2329927968"
+        },
+        {
+          "name": "N. Taylor",
+          "id": "2055569996"
+        },
+        {
+          "name": "L. Quint",
+          "id": "2752301"
+        },
+        {
+          "name": "R. Reddy",
+          "id": "152567122"
+        },
+        {
+          "name": "G. Kalemkerian",
+          "id": "145250202"
+        },
+        {
+          "name": "G. G. Zapico",
+          "id": "1394733452"
+        },
+        {
+          "name": "E. Jauregui",
+          "id": "2059758099"
+        },
+        {
+          "name": "R. Francisco",
+          "id": "49357768"
+        },
+        {
+          "name": "S. I. Alonso",
+          "id": "2054339303"
+        },
+        {
+          "name": "I. Bahillo",
+          "id": "1395090501"
+        },
+        {
+          "name": "L. Álvarez",
+          "id": "2052985252"
+        },
+        {
+          "name": "O. Francies",
+          "id": "7907568"
+        },
+        {
+          "name": "R. Wheeler",
+          "id": "2098949023"
+        },
+        {
+          "name": "L. Childs",
+          "id": "145208510"
+        },
+        {
+          "name": "A. Adams",
+          "id": "33807621"
+        },
+        {
+          "name": "A. Sahdev",
+          "id": "145988183"
+        },
+        {
+          "name": "S. De Luca",
+          "id": "6546228"
+        },
+        {
+          "name": "M. Vaněk",
+          "id": "2060580479"
+        },
+        {
+          "name": "M. Pascuzzi",
+          "id": "8149194"
+        },
+        {
+          "name": "T. Gillanders",
+          "id": "7685458"
+        },
+        {
+          "name": "P. Ramos",
+          "id": "144075571"
+        },
+        {
+          "name": "E. Eyheremendy",
+          "id": "122927055"
+        },
+        {
+          "name": "C. Stove",
+          "id": "145738766"
+        },
+        {
+          "name": "M. Digby",
+          "id": "72167918"
+        },
+        {
+          "name": "M. Nazar",
+          "id": "16245673"
+        },
+        {
+          "name": "M. Wirtz",
+          "id": "134493902"
+        },
+        {
+          "name": "M. Pascuzzi",
+          "id": "8149194"
+        },
+        {
+          "name": "F. Troncoso",
+          "id": "1435985853"
+        },
+        {
+          "name": "F. Saguier",
+          "id": "4423115"
+        },
+        {
+          "name": "E. Eyheremendy",
+          "id": "122927055"
+        },
+        {
+          "name": "D. Quint",
+          "id": "2204250"
+        },
+        {
+          "name": "L. Dang",
+          "id": "2066227715"
+        },
+        {
+          "name": "M. Carlson",
+          "id": "2060734910"
+        },
+        {
+          "name": "S. Leber",
+          "id": "2088032092"
+        },
+        {
+          "name": "F. Silverstein",
+          "id": "5576716"
+        },
+        {
+          "name": "R. Rueben",
+          "id": "84459924"
+        },
+        {
+          "name": "S. Viswanathan",
+          "id": "47102757"
+        },
+        {
+          "name": "B. Nazir",
+          "id": "47102911"
+        },
+        {
+          "name": "T. H. Teo",
+          "id": "90427558"
+        },
+        {
+          "name": "J. Khoo",
+          "id": "145882039"
+        },
+        {
+          "name": "K. Sharma",
+          "id": "46483991"
+        },
+        {
+          "name": "N. Gupta",
+          "id": "2107200191"
+        },
+        {
+          "name": "B. Mathew",
+          "id": "2020781299"
+        },
+        {
+          "name": "T. Jeyakumar",
+          "id": "2346092949"
+        },
+        {
+          "name": "K. Harkins",
+          "id": "1380929303"
+        },
+        {
+          "name": "S. Joshua",
+          "id": "145667528"
+        },
+        {
+          "name": "D. Christodoulou",
+          "id": "84719781"
+        },
+        {
+          "name": "S. Gourtsoyianni",
+          "id": "5488795"
+        },
+        {
+          "name": "A. Jacques",
+          "id": "34851142"
+        },
+        {
+          "name": "N. Griffin",
+          "id": "2091907093"
+        },
+        {
+          "name": "V. Goh",
+          "id": "2066301380"
+        },
+        {
+          "name": "C. A. Johnson",
+          "id": "2350695175"
+        },
+        {
+          "name": "J. Lee",
+          "id": "27766775"
+        },
+        {
+          "name": "J. Goodfellow",
+          "id": "117533968"
+        },
+        {
+          "name": "A. Al-Adhami",
+          "id": "2146171090"
+        },
+        {
+          "name": "S. Viswanathan",
+          "id": "47102757"
+        },
+        {
+          "name": "A. Yong",
+          "id": "2068318601"
+        },
+        {
+          "name": "S. Jenkins",
+          "id": "2093081665"
+        },
+        {
+          "name": "G. Joseph",
+          "id": "145577852"
+        },
+        {
+          "name": "K. Partington",
+          "id": "82438459"
+        },
+        {
+          "name": "S. Bhuva",
+          "id": "48923960"
+        },
+        {
+          "name": "M. Subesinghe",
+          "id": "2329927968"
+        },
+        {
+          "name": "N. Taylor",
+          "id": "2055569996"
+        },
+        {
+          "name": "C. Carrera",
+          "id": "48179237"
+        },
+        {
+          "name": "A. Zanfardini",
+          "id": "152484818"
+        },
+        {
+          "name": "S. De Luca",
+          "id": "6546228"
+        },
+        {
+          "name": "L. Alarcón",
+          "id": "32584633"
+        },
+        {
+          "name": "V. Blanchet",
+          "id": "1388159891"
+        },
+        {
+          "name": "E. Eyheremendy",
+          "id": "122927055"
+        },
+        {
+          "name": "K. Cavanagh",
+          "id": "20483483"
+        },
+        {
+          "name": "E. Lau",
+          "id": "47241291"
+        }
+      ],
+      "year": 2016,
+      "venue": "Cancer Imaging",
+      "score": 0.4044964477435872,
+      "abstract": "Table of contentsO1 Tumour heterogeneity: what does it mean?Dow-Mu KohO2 Skeletal sequelae in adult survivors of childhood cancerSue Creviston KasteO3 Locoregional effects of breast cancer treatmentSarah J VinnicombeO4 Imaging of cancer therapy-induced CNS toxicityGiovanni Morana, Andrea RossiO5 Screening for lung cancerChristian J. HeroldO6Risk stratification of lung nodulesTheresa C. McLoudO7 PET imaging of pulmonary nodulesKirk A FreyO8 Transarterial tumour therapyBernhard GebauerO9 Interventional radiology in paediatric oncologyDerek RoebuckO10 Image guided prostate interventionsJurgen J. FüttererO11 Imaging cancer predisposition syndromesAlexander J. TowbinO12Chest and chest wall massesThierry AG HuismanO13 Abdominal masses: good or bad?Anne MJB SmetsO14 Hepatobiliary MR contrast: enhanced liver MRI for HCC diagnosis and managementGiovanni MoranaO15 Role of US elastography and multimodality fusion for managing patients with chronic liver disease and HCCJeong Min LeeO16 Opportunities and challenges in imaging metastatic diseaseHersh ChandaranaO17 Diagnosis, treatment monitoring, and follow-up of lymphomaMarius E. Mayerhoefer, Markus Raderer, Alexander HaugO18 Managing high-risk and advanced prostate cancerMatthias EiberO19 Immunotherapy: imaging challengesBernhard GebauerO20 RECIST and RECIST 1.1Andrea RockallO21 Challenges of RECIST in oncology imaging basics for the trainee and noviceAslam SohaibO22 Lymphoma: PET for interim and end of treatment response assessment: a users’ guide to the Deauville ScoreVictoria S WarbeyO23 Available resourcesHebert Alberto VargasO24 ICIS e-portal and the online learning communityDow-Mu KohO25 Benign lesions that mimic pancreatic cancerJay P HeikenO26 Staging and reporting pancreatic malignanciesIsaac R Francis, Mahmoud, M Al-Hawary, Ravi K KazaO27 Intraductal papillary mucinous neoplasmGiovanni MoranaO28 Cystic pancreatic tumoursMirko D’OnofrioO29 Diffusion-weighted imaging of head and neck tumoursHarriet C. ThoenyO30 Radiation injury in the head and neckAnn D KingO31 PET/MR of paediatric brain tumoursGiovanni Morana, Arnoldo Piccardo, Maria Luisa Garrè, Andrea RossiO32 Structured reporting and beyondHebert Alberto VargasO33 Massachusetts General Hospital experience with structured reportingTheresa C. McLoudO34 The oncologist’s perspective: what the oncologist needs to knowNick ReedO35 Towards the cure of all children with cancer: global initiatives in pediatric oncologyCarlos Rodriguez-GalindoO36 Multiparametric imaging of renal cancersHersh ChandaranaO37 Linking imaging features of renal disease and their impact on management strategiesHebert Alberto VargasO38 Adrenals, retroperitoneum and peritoneumIsaac R Francis, Ashish P WasnikO39 Lung and pleuraStefan DiederichO40 Advances in MRIJurgen J. FüttererO41 Advances in molecular imagingWim J.G. OyenO42 Incorporating advanced imaging, impact on treatment selection and patient outcomeCheng Lee Chaw, Nicholas van AsS1 Combining ADC-histogram features improves performance of MR diffusion-weighted imaging for Lymph node characterisation in cervical cancerIgor Vieira, Frederik De Keyzer, Elleke Dresen, Sileny Han, Ignace Vergote, Philippe Moerman, Frederic Amant, Michel Koole, Vincent VandecaveyeS2 Whole-body diffusion-weighted MRI for surgical planning in patients with colorectal cancer and peritoneal metastasesR Dresen, S De Vuysere, F De Keyzer, E Van Cutsem, A D’Hoore, A Wolthuis, V VandecaveyeS3 Role of apparent diffusion coefficient (ADC) diffusion-weighted MRI for predicting extra capsular extension of prostate cancer.P. Pricolo (paola.pricolo@ieo.it), S. Alessi, P. Summers, E. Tagliabue, G. PetraliaS4 Generating evidence for clinical benefit of PET/CT – are management studies sufficient as surrogate for patient outcome?C. Pfannenberg, B. Gückel, SC Schüle, AC Müller, S. Kaufmann, N. Schwenzer, M. Reimold,C. la Fougere, K. Nikolaou, P. MartusS5 Heterogeneity of treatment response in skeletal metastases from breast cancer with 18F-fluoride and 18F-FDG PETGJ Cook, GK Azad, BP Taylor, M Siddique, J John, J Mansi, M Harries, V GohS6 Accuracy of suspicious breast imaging—can we tell the patient?S Seth, R Burgul, A SethS7 Measurement method of tumour volume changes during neoadjuvant chemotherapy affects ability to predict pathological responseS Waugh, N Muhammad Gowdh, C Purdie, A Evans, E Crowe, A Thompson, S VinnicombeS8 Diagnostic yield of CT IVU in haematuria screeningF. Arfeen, T. Campion, E. GoldstrawS9 Percutaneous radiofrequency ablation of unresectable locally advanced pancreatic cancer: preliminary resultsD’Onofrio M, Ciaravino V, Crosara S, De Robertis R, Pozzi Mucelli RS10 Iodine maps from dual energy CT improve detection of metastases in staging examinations of melanoma patientsM. Uhrig, D. Simons, H. SchlemmerS11Can contrast enhanced CT predict pelvic nodal status in malignant melanoma of the lower limb?Kate DowneyS12 Current practice in the investigation for suspected Paraneoplastic Neurological Syndromes (PNS) and positive malignancy yield.S Murdoch, AS Al-adhami, S ViswanathanP1 Technical success and efficacy of Pulmonary Radiofrequency ablation: an analysis of 207 ablationsS Smith, P Jennings, D Bowers, R SoomalP2 Lesion control and patient outcome: prospective analysis of radiofrequency abaltion in pulmonary colorectal cancer metastatic diseaseS Smith, P Jennings, D Bowers, R SoomalP3 Hepatocellular carcinoma in a post-TB patient: case of tropical infections and oncologic imaging challengesTM Mutala, AO Odhiambo, N HarishP4 Role of apparent diffusion coefficient (ADC) diffusion-weighted MRI for predicting extracapsular extension of prostate cancerP. Pricolo, S. Alessi, P. Summers, E. Tagliabue, G. PetraliaP5 What a difference a decade makes; comparison of lung biopsies in Glasgow 2005 and 2015M. Hall, M. Sproule, S. SheridanP6 Solid pseudopapillary tumour of pancreas: imaging features of a rare neoplasmKY Thein, CH Tan, YL Thian, CM HoP7 MDCT - pathological correlation in colon adenocarcinoma staging: preliminary experienceS De Luca, C Carrera, V Blanchet, L Alarcón, E EyheremnedyP8 Image guided biopsy of thoracic masses and reduction of pneumothorax risk: 25 years experienceB K Choudhury, K Bujarbarua, G BarmanP9 Tumour heterogeneity analysis of 18F-FDG-PET for characterisation of malignant peripheral nerve sheath tumours in neurofibromatosis-1GJ Cook, E Lovat, M Siddique, V Goh, R Ferner, VS WarbeyP10 Impact of introduction of vacuum assisted excision (VAE) on screen detected high risk breast lesionsL Potti, B Kaye, A Beattie, K DuttonP11 Can we reduce prevalent recall rate in breast screening?AA Seth, F Constantinidis, H DobsonP12 How to reduce prevalent recall rate? Identifying mammographic lesions with low Positive Predictive Value (PPV)AA Seth (archana.seth@nhs.net), F Constantinidis, H DobsonP13 Behaviour of untreated pulmonary thrombus in oncology patients diagnosed with incidental pulmonary embolism on CTR. Bradley, G. Bozas, G. Avery, A. Stephens, A. MaraveyasP14 A one-stop lymphoma biopsy service – is it possible?S Bhuva, CA Johnson, M Subesinghe, N TaylorP15 Changes in the new TNM classification for lung cancer (8th edition, effective January 2017)LE Quint, RM Reddy, GP KalemkerianP16 Cancer immunotherapy: a review of adequate imaging assessmentG González Zapico, E Gainza Jauregui, R Álvarez Francisco, S Ibáñez Alonso, I Tavera Bahillo, L Múgica ÁlvarezP17 Succinate dehydrogenase mutations and their associated tumoursO Francies, R Wheeler, L Childs, A Adams, A SahdevP18 Initial experience in the usefulness of dual energy technique in the abdomenSE De Luca, ME Casalini Vañek, MD Pascuzzi, T Gillanders, PM Ramos, EP EyheremendyP19 Recognising the serious complication of Richter’s transformation in CLL patientsC Stove, M DigbyP20 Body diffusion-weighted MRI in oncologic practice: truths, tricks and tipsM. Nazar, M. Wirtz, MD. Pascuzzi, F. Troncoso, F. Saguier, EP. EyheremendyP21 Methotrexate-induced leukoencephalopathy in paediatric ALL PatientsD.J. Quint, L. Dang, M. Carlson, S. Leber, F. SilversteinP22 Pitfalls in oncology CT reporting. A pictorial reviewR Rueben, S ViswanathanP23 Imaging of perineural extension in head and neck tumoursB Nazir, TH Teo, JB KhooP24 MRI findings of molecular subtypes of breast cancer: a pictorial primerK Sharma, N Gupta, B Mathew, T Jeyakumar, K HarkinsP25 When cancer can’t wait! A pictorial review of oncological emergenciesK Sharma, B Mathew, N Gupta, T Jeyakumar, S JoshuaP26 MRI of pancreatic neuroendocrine tumours: an approach to interpretationD Christodoulou, S Gourtsoyianni, A Jacques, N Griffin, V GohP27 Gynaecological cancers in pregnancy: a review of imagingCA Johnson, J LeeP28 Suspected paraneoplastic neurological syndromes - review of published recommendations to date, with proposed guideline/flowchartJA Goodfellow, AS Al-adhami, S ViswanathanP29 Multi-parametric MRI of the pelvis for suspected local recurrence of prostate cancer after radical prostatectomyR BradleyP30 Utilisation of PI-RADS version 2 in multi-parametric MRI of the prostate; 12-months experienceR BradleyP31 Radiological assessment of the post-chemotherapy liverA Yong, S Jenkins, G JosephP32 Skeletal staging with MRI in breast cancer – what the radiologist needs to knowS Bhuva, K PartingtonP33 Perineural spread of lympoma: an educational review of an unusual distribution of diseaseCA Johnson, S Bhuva, M Subesinghe, N TaylorP34 Visually isoattenuating pancreatic adenocarcinoma. Diagnostic imaging tools.C Carrera, A Zanfardini, S De Luca, L Alarcón, V Blanchet, EP EyheremendyP35 Imaging of larynx cancer: when is CT, MRI or FDG PET/CT the best test?K Cavanagh, E Lau",
+      "corpusId": 14347564,
+      "url": "https://api.semanticscholar.org/CorpusId:14347564"
+    },
+    {
+      "title": "Risk factors for malignant solid pulmonary nodules: a meta-analysis",
+      "authors": [
+        {
+          "name": "Yantao Yang",
+          "id": "2134102873"
+        },
+        {
+          "name": "Xuancheng Li",
+          "id": "12074366"
+        },
+        {
+          "name": "Yaowu Duan",
+          "id": "2296092144"
+        },
+        {
+          "name": "Jie Zhao",
+          "id": "2295957457"
+        },
+        {
+          "name": "Qiubo Huang",
+          "id": "2295906814"
+        },
+        {
+          "name": "Chen Zhou",
+          "id": "2295950025"
+        },
+        {
+          "name": "Wangcai Li",
+          "id": "2328651103"
+        },
+        {
+          "name": "Lianhua Ye",
+          "id": "2295049404"
+        }
+      ],
+      "year": 2025,
+      "venue": "BMC Cancer",
+      "score": 0.3937993678726224,
+      "abstract": "Previous studies have indicated that clinical and imaging features may assist in distinguishing between benign and malignant solid lung nodules. Yet, the specific characteristics in question continue to be debated. This meta-analysis aims to identify risk factors for malignant solid lung nodules, thereby supporting informed clinical decision-making. A comprehensive search of databases including PubMed, Embase, Web of Science, Cochrane Library, Scopus, Wanfang, CNKI, VIP, and CBM was conducted up to October 6, 2024. Only publications in Chinese or English were considered. Data analysis was performed using Stata 16.0 software. This analysis included 32 studies, comprising 7758 solid pulmonary nodules, of which 3359 were benign and 4399 were malignant. It was found that the incidence of spiculate signs in malignant solid pulmonary nodules (MSPN) was higher than in benign solid pulmonary nodules (BSPN) [OR = 3.06, 95% CI (2.35, 3.98), P < 0.05. Additionally, increases were observed in the incidences of vascular convergence[OR = 16.57, 95% CI (8.79, 31.24), P < 0.05], lobulated signs [OR = 5.17, 95% CI (3.83, 6.98)], air bronchogram sign[OR = 2.96, 95% CI (1.62, 5.41), P < 0.05], pleura traction sign [OR = 2.33, 95% CI (1.65, 3.29), P < 0.05], border blur [OR = 2.94, 95% CI (1.47, 5.85), P < 0.05], vacuole signs [OR = 5.25, 95% CI (2.66, 10.37), P < 0.05], and family history of cancer [OR = 3.85, 95% CI (2.43, 6.12), P < 0.05] compared to BSPN. Older age[OR = 1.06, 95% CI (1.04, 1.07), P < 0.05], higher prevalence in females [OR = 2.98, 95% CI (2.27, 3.92), P < 0.05], larger nodule diameters [OR = 1.25, 95% CI (1.13, 1.38), P < 0.05], and lower incidence of calcification [OR = 0.21, 95% CI (0.10, 0.48), P < 0.05] were also associated with MSPN. No significant differences were found between MSPN and BSPN regarding CEA and emphysema (all P > 0.05). This meta-analysis highlights that spiculate sign, vascular convergence sign, lobulated sign, diameter, border blur, vacuole sign, age, gender, family history of cancer, pleura traction, air bronchogram sign, and calcification are significant markers for predicting malignancy in SPNs, potentially influencing clinical management. However, further well-designed, large-scale studies are needed to confirm these findings.",
+      "corpusId": 276533394,
+      "url": "https://doi.org/10.1186/s12885-025-13702-2"
+    },
+    {
+      "title": "Does the availability of positron emission tomography modify diagnostic strategies for solitary pulmonary nodules? An observational study in France",
+      "authors": [
+        {
+          "name": "I. Lemonnier",
+          "id": "2085759588"
+        },
+        {
+          "name": "C. Baumann",
+          "id": "2050840"
+        },
+        {
+          "name": "N. Jay",
+          "id": "48697897"
+        },
+        {
+          "name": "K. Alzahouri",
+          "id": "4873093"
+        },
+        {
+          "name": "P. Arveux",
+          "id": "5682082"
+        },
+        {
+          "name": "D. Jolly",
+          "id": "144701492"
+        },
+        {
+          "name": "C. Lejeune",
+          "id": "20009958"
+        },
+        {
+          "name": "M. Velten",
+          "id": "4058229"
+        },
+        {
+          "name": "F. Vitry",
+          "id": "5085355"
+        },
+        {
+          "name": "M. Woronoff‐Lemsi",
+          "id": "1390157349"
+        },
+        {
+          "name": "F. Guillemin",
+          "id": "145141684"
+        }
+      ],
+      "year": 2009,
+      "venue": "BMC Cancer",
+      "score": 0.3860508707634083,
+      "abstract": "BackgroundPrevious studies showed that at the individual level, positron emission tomography (PET) has some benefits for patients and physicians in terms of cancer management and staging. We aimed to describe the benefits of (PET) in the management of solitary pulmonary nodules (SPNs) in a population level, in terms of the number of diagnostic and invasive tests performed, time to diagnosis and factors determining PET utilization.MethodsIn an observational study, we examined reports of computed tomography (CT) performed and mentioning \"spherical lesion\", \"nodule\" or synonymous terms. We found 11,515 reports in a before-PET period, 2002–2003, and 20,075 in an after-PET period, 2004–2005. Patients were followed through their physician, who was responsible for diagnostic management.ResultsWe had complete data for 112 patients (73.7%) with new cases of SPN in the before-PET period and 250 (81.4%) in the after-PET period. Patients did not differ in mean age (64.9 vs. 64.8 years). The before-PET patients underwent a mean of 4 tests as compared with 3 tests for the after-PET patients (p = 0.08). Patients in the before-PET period had to wait 41.4 days, on average, before receiving a diagnosis as compared with 24.0 days, on average, for patients in the after-PET period who did not undergo PET (p < 0.001). In the after-PET period, 11% of patients underwent PET during the diagnostic process. A spiculated nodule was more likely to determine prescription for PET (p < 0.001). Multivariate analysis revealed that patients in both periods underwent fewer tests when PET was prescribed by general practitioners (p < 0.001) and if the nodule was not spiculated (p < 0.001). The proportion of unnecessary invasive approaches prescribed (47% vs. 49%) did not differ between the groups.ConclusionIn our study, 1 year after the availability of PET, the technology was not the first choice for diagnostic management of SPN. Even though we observed a tendency for reduced number of tests and mean time to diagnosis with PET, these phenomena did not fully relate to PET availability in health communities. In addition, the availability of PET in the management of SPN diagnosis did not reduce the overall rate of unnecessary invasive approaches.",
+      "corpusId": 10127724,
+      "url": "https://api.semanticscholar.org/CorpusId:10127724"
+    },
+    {
+      "title": "Value of Shape and Texture Features from 18F-FDG PET/CT to Discriminate between Benign and Malignant Solitary Pulmonary Nodules: An Experimental Evaluation",
+      "authors": [
+        {
+          "name": "B. Palumbo",
+          "id": "6625584"
+        },
+        {
+          "name": "F. Bianconi",
+          "id": "1705085"
+        },
+        {
+          "name": "I. Palumbo",
+          "id": "3740300"
+        },
+        {
+          "name": "M. L. Fravolini",
+          "id": "2635260"
+        },
+        {
+          "name": "M. Minestrini",
+          "id": "9694896"
+        },
+        {
+          "name": "S. Nuvoli",
+          "id": "5275822"
+        },
+        {
+          "name": "Maria Lina Stazza",
+          "id": "1492193549"
+        },
+        {
+          "name": "M. Rondini",
+          "id": "4876635"
+        },
+        {
+          "name": "A. Spanu",
+          "id": "34951463"
+        }
+      ],
+      "year": 2020,
+      "venue": "Diagnostics",
+      "score": 0.36862261101121174,
+      "abstract": "In this paper, we investigate the role of shape and texture features from 18F-FDG PET/CT to discriminate between benign and malignant solitary pulmonary nodules. To this end, we retrospectively evaluated cross-sectional data from 111 patients (64 males, 47 females, age = 67.5 ± 11.0) all with histologically confirmed benign (n=39) or malignant (n=72) solitary pulmonary nodules. Eighteen three-dimensional imaging features, including conventional, texture, and shape features from PET and CT were tested for significant differences (Wilcoxon-Mann-Withney) between the benign and malignant groups. Prediction models based on different feature sets and three classification strategies (Classification Tree, k-Nearest Neighbours, and Naïve Bayes) were also evaluated to assess the potential benefit of shape and texture features compared with conventional imaging features alone. Eight features from CT and 15 from PET were significantly different between the benign and malignant groups. Adding shape and texture features increased the performance of both the CT-based and PET-based prediction models with overall accuracy gain being 3.4–11.2 pp and 2.2–10.2 pp, respectively. In conclusion, we found that shape and texture features from 18F-FDG PET/CT can lead to a better discrimination between benign and malignant lung nodules by increasing the accuracy of the prediction models by an appreciable margin.",
+      "corpusId": 221786869,
+      "url": "https://api.semanticscholar.org/CorpusId:221786869"
+    },
+    {
+      "title": "A Mathematical Model for Predicting Malignancy of Solitary Pulmonary Nodules",
+      "authors": [
+        {
+          "name": "Yun Li",
+          "id": "2117014353"
+        },
+        {
+          "name": "Jun Wang",
+          "id": "144907654"
+        }
+      ],
+      "year": 2012,
+      "venue": "World Journal of Surgery",
+      "score": 0.3645838237064611,
+      "abstract": "",
+      "corpusId": 7301015,
+      "url": "https://doi.org/10.1007/s00268-012-1449-8"
+    },
+    {
+      "title": "Preoperative diagnosis of solitary pulmonary nodules with a novel hematological index model based on circulating tumor cells",
+      "authors": [
+        {
+          "name": "Qiuxi Zhou",
+          "id": "4419599"
+        },
+        {
+          "name": "Qiao He",
+          "id": "12455471"
+        },
+        {
+          "name": "Ling Peng",
+          "id": "144440096"
+        },
+        {
+          "name": "Yecai Huang",
+          "id": "2108609090"
+        },
+        {
+          "name": "Kexun Li",
+          "id": "1752527326"
+        },
+        {
+          "name": "Kun Liu",
+          "id": "2176610565"
+        },
+        {
+          "name": "Da Li",
+          "id": "2108338611"
+        },
+        {
+          "name": "Jing Zhao",
+          "id": "46509200"
+        },
+        {
+          "name": "Kairong Sun",
+          "id": "2113849445"
+        },
+        {
+          "name": "Aoshuang Li",
+          "id": "1753581124"
+        },
+        {
+          "name": "Wenwu He",
+          "id": "39846383"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Oncology",
+      "score": 0.36343622910263473,
+      "abstract": "Objective Preoperative noninvasive diagnosis of the benign or malignant solitary pulmonary nodule (SPN) is still important and difficult for clinical decisions and treatment. This study aimed to assist in the preoperative diagnosis of benign or malignant SPN using blood biomarkers. Methods A total of 286 patients were recruited for this study. The serum FR+CTC, TK1, TP, TPS, ALB, Pre-ALB, ProGRP, CYFRA21-1, NSE, CA50, CA199, and CA242 were detected and analyzed. Results In the univariate analysis, age, FR+CTC, TK1, CA50, CA19.9, CA242, ProGRP, NSE, CYFRA21-1, and TPS showed the statistical significance of a correlation with malignant SPNs (P <0.05). The highest performing biomarker is FR+CTC (odd ratio [OR], 4.47; 95% CI: 2.57–7.89; P <0.001). The multivariate analysis identified that age (OR, 2.69; 95% CI: 1.34–5.59, P = 0.006), FR+CTC (OR, 6.26; 95% CI: 3.09–13.37, P <0.001), TK1 (OR, 4.82; 95% CI: 2.4–10.27, P <0.001), and NSE (OR, 2.06; 95% CI: 1.07–4.06, P = 0.033) are independent predictors. A prediction model based on age, FR+CTC, TK1, CA50, CA242, ProGRP, NSE, and TPS was developed and presented as a nomogram, with a sensitivity of 71.1% and a specificity of 81.3%, and the AUC was 0.826 (95% CI: 0.768–0.884). Conclusions The novel prediction model based on FR+CTC showed much stronger performance than any single biomarker, and it can assist in predicting benign or malignant SPNs.",
+      "corpusId": 258440884,
+      "url": "https://api.semanticscholar.org/CorpusId:258440884"
+    },
+    {
+      "title": "Decision making in patients with pulmonary nodules.",
+      "authors": [
+        {
+          "name": "D. Ost",
+          "id": "3631577"
+        },
+        {
+          "name": "M. Gould",
+          "id": "144900159"
+        }
+      ],
+      "year": 2012,
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "score": 0.36256659812829223,
+      "abstract": "",
+      "corpusId": 7986570,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/21980032"
+    },
+    {
+      "title": "Predictive model for the probability of malignancy in solitary pulmonary nodules: a meta-analysis",
+      "authors": [
+        {
+          "name": "Gang Chen",
+          "id": "2146662304"
+        },
+        {
+          "name": "Tian Bai",
+          "id": "2106179107"
+        },
+        {
+          "name": "Lijuan Wen",
+          "id": "2114092125"
+        },
+        {
+          "name": "Y. Li",
+          "id": "47002721"
+        }
+      ],
+      "year": 2021,
+      "venue": "Journal of Cardiothoracic Surgery",
+      "score": 0.3493164629475128,
+      "abstract": "Background To date, multiple predictive models have been developed with the goal of reliably differentiating between solitary pulmonary nodules (SPNs) that are malignant and those that are benign. The present meta-analysis was conducted to assess the diagnostic utility of these predictive models in the context of SPN differential diagnosis. Methods The PubMed, Embase, Cochrane Library, CNKI, Wanfang, and VIP databases were searched for relevant studies published through August 31, 2021. Pooled data analyses were conducted using Stata v12.0. Results In total, 20 retrospective studies that included 5171 SPNs (malignant/benign: 3662/1509) were incorporated into this meta-analysis. Respective pooled sensitivity, specificity, positive likelihood ratio (PLR), negative likelihood ratio (NLR), and diagnostic score values were 88% (95CI%: 0.84–0.91), 78% (95CI%: 0.74–0.80), 3.91 (95CI%: 3.42–4.46), 0.16 (95CI%: 0.12–0.21), and 3.21 (95CI%: 2.87–3.55), with an area under the summary receiver operating characteristic curve value of 86% (95CI%: 0.83–0.89). Significant heterogeneity among studies was detected with respect to sensitivity (I 2  = 89.07%), NLR (I 2  = 87.29%), and diagnostic score (I 2  = 72.28%). In a meta-regression analysis, sensitivity was found to be impacted by the standard reference in a given study (surgery and biopsy vs. surgery only, P = 0.02), while specificity was impacted by whether studies were blinded (yes vs. unclear, P = 0.01). Sensitivity values were higher when surgery and biopsy samples were used as a standard reference, while unclear blinding status was associated with increased specificity. No significant evidence of publication bias was detected for the present meta-analysis (P = 0.539). Conclusions The results of this meta-analysis demonstrate that predictive models can offer significant diagnostic utility when establishing whether SPNs are malignant or benign.",
+      "corpusId": 248498866,
+      "url": "https://api.semanticscholar.org/CorpusId:248498866"
+    },
+    {
+      "title": "An interesting case of incidental solitary pulmonary nodule",
+      "authors": [
+        {
+          "name": "Mahismita Patro",
+          "id": "118048424"
+        },
+        {
+          "name": "D. Gothi",
+          "id": "5360633"
+        },
+        {
+          "name": "R. Sah",
+          "id": "5899277"
+        },
+        {
+          "name": "S. Vaidya",
+          "id": "2067139804"
+        }
+      ],
+      "year": 2018,
+      "venue": "Breathe",
+      "score": 0.3487000351208508,
+      "abstract": "A 54-year-old, nonsmoking woman was referred for a solitary pulmonary nodule (SPN) discovered during her routine preoperative pulmonary evaluation prior to right total knee replacement surgery. She had no respiratory symptoms. Around 4 months ago she had undergone a left total knee replacement surgery. She had a SPN at that time as well, but the radiologist erroneously reported it normal. So, she did not undergo any evaluation 4 months ago. She had diabetes mellitus and was on regular oral treatment. She denied prior history of antitubercular drug intake or any other chronic disease. There was no significant family history of respiratory disease or malignancy. Doubling time, clinical prediction models of malignancy and positive bronchus sign are useful in stepwise evaluation of SPN to avoid thoracotomy. GeneXpert can be used as initial diagnostic test for tuberculosis and detection of rifampicin resistance. http://ow.ly/N37030mB8Fi",
+      "corpusId": 67863908,
+      "url": "https://api.semanticscholar.org/CorpusId:67863908"
+    },
+    {
+      "title": "Imaging of solitary pulmonary nodule-a clinical review.",
+      "authors": [
+        {
+          "name": "Y. T. Sim",
+          "id": "40362147"
+        },
+        {
+          "name": "F. Poon",
+          "id": "50199785"
+        }
+      ],
+      "year": 2013,
+      "venue": "Quantitative Imaging in Medicine and Surgery",
+      "score": 0.3429477881376382,
+      "abstract": "",
+      "corpusId": 11736656,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/24404446"
+    },
+    {
+      "title": "CT Findings of Solitary Pulmonary Nodules Less than 8 mm to Differentiate the Malignant and Benign",
+      "authors": [
+        {
+          "name": "Ki Woong Yoon",
+          "id": "2068163380"
+        },
+        {
+          "name": "G. Jin",
+          "id": "3618017"
+        },
+        {
+          "name": "Y. Han",
+          "id": "8361688"
+        },
+        {
+          "name": "Eun Young Kim",
+          "id": "2110113353"
+        }
+      ],
+      "year": 2013,
+      "venue": "unknown",
+      "score": 0.340189334107808,
+      "abstract": "Purpose: We assessed CT features of the solitary pulmonary nodules (SPNs) smaller than 8 mm to evaluate the differences between the benign and malignant nodules. Materials and Methods: The study included 113 patients (66 male, 47 female, age 33-79 years) with SPNs smaller than 8 mm. Mean diameter of SPN on CT was 4.95 cm; benign, 4.91 ± 1.24 mm; and malignant, 6.09 ± 1.01 mm. Of the 113 nodules, there were 23 (20.4%) malignant nodules and 90 (79.6%) benign nodules. The CT findings (size, shape, margin, density) of SPNs were analyzed. The statistical differences of the malignant and benign nodules were analyzed by χ 2 test. Results: The differences of the benign and malignant nodules were in the margin and density. In the margins, spiculation and lobulation occurred with a significantly higher frequency in the malignant nodules (spiculated: 10/23, lobulated: 7/23) than the benign nodules (spiculated: 20/90, lobulated: 0/90) (p < 0.001). In the mixed or pure ground glass attenuation (14/23), the malignancy rates were significantly higher than the solid nodules (p < 0.001). In the mixed and pure attenuation, a lobulated or spiculated margin (12/14) was associated with a higher risk of malignancy (p = 0.005). Conclusion: In smaller than 8 mm nodules, the predictive CT findings of malignancy were spiculated or lobulated margin and mixed or pure attenuation.",
+      "corpusId": 72983820,
+      "url": "https://api.semanticscholar.org/CorpusId:72983820"
+    },
+    {
+      "title": "Diagnostic Approach to Solitary Pulmonary Nodules Discussed in Multidisciplinary Lung Cancer Council",
+      "authors": [
+        {
+          "name": "Hasibe Çiğdem Erten",
+          "id": "2277053073"
+        }
+      ],
+      "year": 2023,
+      "venue": "Southern Clinics of Istanbul Eurasia",
+      "score": 0.3380084376055045,
+      "abstract": "Objective: The primary goal in solitary pulmonary nodule (SPN) management is to distinguish malignant lesions from benign ones. In our study, we aimed to evaluate the follow-up results, malignancy rates, and risk factors for malignancy of SPNs, which were discussed in our multidisciplinary lung cancer council (MLCC) with suspicion of malignancy and decided for surgical treatment. Methods: Cases that were decided for surgical diagnosis and treatment after evaluation in the council were included in our study, which was planned prospectively. Demographic features, nodulsize, radiological features, location, Positron Emission Tomography (PET) findings, whether bronchoscopy and endobronchial ultrasonography were performed and their results, duration of follow-up before surgery, interventions and their results made for diagnosis, surgical method performed, and the final diagnosis were recorded. Chi-square and Mann–Whitney U tests were used in statistical analysis. Results: Of the 33 cases in our study, 10 (30.3%) were female and 23 (69.7%) were male; the average age was 60.2±7.9 (min:42;max:77) years. The average diameter of SPN was measured as 16.5±6.3 (min:7; max:30) mm. When looking at their locations, it was seen that 72.7% were located in the upper lobes. 75.8% of the nodules were solid in character, 39.4% had spiculated contours, and 33.3% had lobulated contours. There was no calcification in 87.9% of the nodules. In the PET computed tomography examination, the average SUVmax value of nodules was measured as 6.05±6.01 (min:0; max:22), and there was no FDG uptake in the mediastinal lymph nodes of 21 (63.6%) cases. Surgical intervention was decided in 27 (81.8%) cases without a diagnosis. The final diagnosis was malignancy in 69.7% of cases. A statistically significant correlation was found between the final diagnosis and the edge features of the nodule and the SUVmax value (p=0.021, p=0.048, respectively). Conclusion: Since SPN can represent early-stage primary lung cancer, risk factors and radiological features for each patient in SPN management should be individually assessed, and decisions should be made with a multidisciplinary approach. The aim is to minimize the outcomes of over-investigation, including patient anxiety and cumulative radiation exposure, while identifying nodules representing early malignancy. ABSTRACT",
+      "corpusId": 266662505,
+      "url": "https://api.semanticscholar.org/CorpusId:266662505"
+    },
+    {
+      "title": "Evidence based imaging strategies for solitary pulmonary nodule.",
+      "authors": [
+        {
+          "name": "Yi-Xiang J. Wang",
+          "id": "2108734676"
+        },
+        {
+          "name": "Jingshan Gong",
+          "id": "9776280"
+        },
+        {
+          "name": "Kenji Suzuki",
+          "id": "2118855698"
+        },
+        {
+          "name": "S. Morcos",
+          "id": "6522717"
+        }
+      ],
+      "year": 2014,
+      "venue": "Journal of Thoracic Disease",
+      "score": 0.3276114557981637,
+      "abstract": "",
+      "corpusId": 30034105,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/25093083"
+    },
+    {
+      "title": "Usefulness of contrast-enhanced magnetic resonance imaging for evaluating solitary pulmonary nodules",
+      "authors": [
+        {
+          "name": "K. Fujimoto",
+          "id": "40229599"
+        }
+      ],
+      "year": 2008,
+      "venue": "Cancer Imaging",
+      "score": 0.3248900934794066,
+      "abstract": "Abstract Evaluation of solitary pulmonary nodules (SPNs) poses a challenge to radiologists. Chest computed tomography (CT) is considered the standard technique for assessing morphologic findings and intrathoracic spread of an SPN. Although the clinical role of magnetic resonance imaging (MRI) for SPNs remains limited, considerable experience has been gained with MRI of thoracic diseases. Dynamic MRI and dynamic CT are useful for differentiating between malignant and benign SPNs (especially tuberculomas and hamartomas). Furthermore, dynamic MRI is useful for assessing tumor vascularity, interstitium, and vascular endothelial growth factor expression, and for predicting survival outcome among patients with peripheral pulmonary carcinoma. These advantages make dynamic MRI a promising method and a potential biomarker for characterizing tumor response to anti-angiogenic treatment as well as for predicting survival outcomes after treatment.",
+      "corpusId": 6727465,
+      "url": "https://api.semanticscholar.org/CorpusId:6727465"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:43:30Z",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41720985_2026",
+  "provider": "codex",
+  "model": "gpt-5.3-codex",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((((\"Spinal Cord\"[Mesh] OR \"spinal cord\"[tiab] OR spinal[tiab] OR intramedullar*[tiab] OR intraspinal[tiab]) AND (\"Hemangioma, Cavernous\"[Mesh] OR cavernoma*[tiab] OR \"cavernous malformation*\"[tiab] OR \"cavernous angioma*\"[tiab] OR \"cavernous hemangioma*\"[tiab] OR \"cavernous haemangioma*\"[tiab] OR \"cavernous vascular malformation*\"[tiab])) AND (\"Surgical Procedures, Operative\"[Mesh] OR \"Neurosurgical Procedures\"[Mesh] OR surg*[tiab] OR operat*[tiab] OR resect*[tiab] OR excis*[tiab] OR microsurg*[tiab] OR laminectom*[tiab])) AND english[lang]) AND (\"1995/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication]))",
+  "query_length": 623,
+  "gold_count": 25,
+  "total_hits": 496,
+  "hit_gold_count": 24,
+  "recall": 0.96,
+  "nnr": 20.666666666666668,
+  "f1": 0.09213051823416507,
+  "error_note": ""
+}

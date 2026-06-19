@@ -1,0 +1,44 @@
+STEP 0 — Confirm paper identity
+target_name=41789521_2026 | topic=Association between smoking behavior and tuberculosis (TB) incidence/risk in Chinese populations.
+
+STEP 1 — Study design filter decision
+Inclusion criteria list: "prospective or observational cohort studies, randomised or experimental studies, cross-sectional studies, retrospective cohort studies, and case-control studies."
+Count of distinct design types: 5+ (prospective cohort, observational cohort, randomised/experimental, cross-sectional, retrospective cohort, case-control) → STUDY_FILTER = OMIT.
+
+STEP 2 — Classify each inclusion criterion
+- "conducted in Chinese populations (in China or among Chinese populations abroad)" → CORE: POPULATION — the review objective explicitly restricts to Chinese populations; this is a mandatory scope requirement.
+- "adults aged 18 years or older" → Population subgroup. Per POPULATION BLOCK GUARDRAIL Exception 3: age criteria may be an independent AND block when definitional in eligibility. However, adding an adults-only filter would risk dropping studies that include mixed populations or do not explicitly state age in title/abstract. Fold into population block as optional OR terms or omit to protect recall → NON-CORE for AND purposes (no separate age AND block).
+- "examined smoking behaviour as the exposure" → CORE: EXPOSURE
+- "evaluated active TB incidence/outcomes" → CORE: CONDITION
+- "reported original research data" → NON-CORE (methodological)
+- "reported TB incidence data with or without demographic or clinical stratification" → NON-CORE outcome measure
+- "regardless of TB status" → NON-CORE (broadens inclusion, no searchable term needed)
+
+STEP 3 — AND block budget check
+Planned: 3 AND blocks (CONDITION + EXPOSURE + POPULATION) → within budget (≤3).
+
+STEP 4 — Population/ethnicity structure check
+POPULATION block contains ethnicity (Chinese) and geography (China, Taiwan, Hong Kong, Macau) and diaspora terms (overseas Chinese) → must be in ONE flat OR block. No nested AND between nationality and diaspora terms.
+Correct: (Chinese OR China OR "Han Chinese" OR Taiwan OR "Hong Kong" OR Macau OR "overseas Chinese")
+Confirmed flat OR structure.
+
+STEP 5 — Broad fallback floor check
+No specific drug/biomarker/vaccine instances listed. All blocks use broad MeSH + tiab terms. Confirmed adequate.
+
+SELF-CHECK
+target_name: 41789521_2026
+topic: Smoking and tuberculosis incidence in Chinese populations
+CORE blocks:
+  CONDITION: Tuberculosis[Mesh], tuberculosis[tiab], TB[tiab], pulmonary tuberculosis[tiab]
+  EXPOSURE: Smoking[Mesh], smok*[tiab], tobacco[tiab], cigarette*[tiab], tobacco use[tiab]
+  POPULATION: Chinese[tiab], China[tiab], Han Chinese[tiab], mainland China[tiab], Taiwan[tiab], Hong Kong[tiab], Macau[tiab], overseas Chinese[tiab]
+NON-CORE elements: age (18+), original research requirement, TB incidence data reporting requirement, study design types
+STUDY_FILTER decision: 5+ design types → OMIT
+Population block structure: FLAT OR confirmed
+Broad fallback present: YES (MeSH + tiab in all blocks)
+Umbrella/low-observability: not applicable
+Mechanism-scope: not applicable
+Date/language filter: NOT APPLIED
+Final AND block count: 3
+
+FULL_QUERY: ("Tuberculosis"[Mesh] OR tuberculosis[tiab] OR TB[tiab] OR "pulmonary tuberculosis"[tiab]) AND ("Smoking"[Mesh] OR smok*[tiab] OR tobacco[tiab] OR cigarette*[tiab] OR "tobacco use"[tiab]) AND (Chinese[tiab] OR China[tiab] OR "Han Chinese"[tiab] OR "Chinese population"[tiab] OR "mainland China"[tiab] OR Taiwan[tiab] OR "Hong Kong"[tiab] OR Macau[tiab] OR "overseas Chinese"[tiab])

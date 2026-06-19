@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:40:33Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41630847_2026",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab]) AND (\"Stroke\"[Mesh] OR \"Brain Ischemia\"[Mesh] OR \"Cerebral Hemorrhage\"[Mesh] OR stroke[tiab] OR strokes[tiab] OR \"cerebrovascular accident*\"[tiab] OR \"cerebrovascular event*\"[tiab] OR \"cerebral infarction*\"[tiab] OR \"ischemic stroke\"[tiab] OR \"ischaemic stroke\"[tiab] OR \"intracerebral hemorrhage\"[tiab] OR \"cerebral hemorrhage\"[tiab])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\01_Rheumatoid_Arthritis\\41630847_2026\\without_laws"
+}

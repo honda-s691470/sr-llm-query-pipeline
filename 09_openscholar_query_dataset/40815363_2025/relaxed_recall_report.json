@@ -1,0 +1,140 @@
+{
+  "target_dir": "public_release\\09_openscholar_query_dataset\\40815363_2025",
+  "gold_path": "05_test_data\\01_Rheumatoid_Arthritis\\40815363_2025\\gold_pmids.json",
+  "fuzzy_threshold_same_year": 0.95,
+  "fuzzy_threshold_near_year": 0.98,
+  "reports": [
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\40815363_2025\\papers_normal_with_pmid.json",
+      "paper_count": 74,
+      "gold_count": 15,
+      "tp_pmid_exact": 6,
+      "tp_title_year_exact_additional": 1,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 7,
+      "tp_relaxed_total": 7,
+      "recall_pmid_exact": 0.4,
+      "recall_strict": 0.4666666666666667,
+      "recall_relaxed": 0.4666666666666667,
+      "matched_pmids_pmid_exact": [
+        "23899653",
+        "26706022",
+        "27927601",
+        "29946368",
+        "36074106",
+        "37903945"
+      ],
+      "matched_pmids_strict": [
+        "23899653",
+        "26706022",
+        "27927601",
+        "29737805",
+        "29946368",
+        "36074106",
+        "37903945"
+      ],
+      "matched_pmids_relaxed": [
+        "23899653",
+        "26706022",
+        "27927601",
+        "29737805",
+        "29946368",
+        "36074106",
+        "37903945"
+      ],
+      "exact_title_year_details": [
+        {
+          "gold_pmid": "29737805",
+          "gold_title": "Effect of probiotic supplements in women with gestational diabetes mellitus on inflammation and oxidative stress biomarkers: a randomized clinical trial.",
+          "gold_year": "2018",
+          "matched_title": "Effect of probiotic supplements in women with gestational diabetes mellitus on inflammation and oxidative stress biomarkers: a randomized clinical trial.",
+          "matched_year": "2018",
+          "matched_pubmed_id": "",
+          "matched_corpusId": "13686177",
+          "source_file": "papers_normal_with_pmid.json"
+        }
+      ],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "25856220",
+        "29664663",
+        "29891223",
+        "30158897",
+        "33794784",
+        "35312741",
+        "38319476",
+        "39182237"
+      ]
+    },
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\40815363_2025\\papers_deep_with_pmid.json",
+      "paper_count": 176,
+      "gold_count": 15,
+      "tp_pmid_exact": 10,
+      "tp_title_year_exact_additional": 1,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 11,
+      "tp_relaxed_total": 11,
+      "recall_pmid_exact": 0.6666666666666666,
+      "recall_strict": 0.7333333333333333,
+      "recall_relaxed": 0.7333333333333333,
+      "matched_pmids_pmid_exact": [
+        "23899653",
+        "25856220",
+        "26706022",
+        "27927601",
+        "29891223",
+        "29946368",
+        "30158897",
+        "36074106",
+        "37903945",
+        "38319476"
+      ],
+      "matched_pmids_strict": [
+        "23899653",
+        "25856220",
+        "26706022",
+        "27927601",
+        "29737805",
+        "29891223",
+        "29946368",
+        "30158897",
+        "36074106",
+        "37903945",
+        "38319476"
+      ],
+      "matched_pmids_relaxed": [
+        "23899653",
+        "25856220",
+        "26706022",
+        "27927601",
+        "29737805",
+        "29891223",
+        "29946368",
+        "30158897",
+        "36074106",
+        "37903945",
+        "38319476"
+      ],
+      "exact_title_year_details": [
+        {
+          "gold_pmid": "29737805",
+          "gold_title": "Effect of probiotic supplements in women with gestational diabetes mellitus on inflammation and oxidative stress biomarkers: a randomized clinical trial.",
+          "gold_year": "2018",
+          "matched_title": "Effect of probiotic supplements in women with gestational diabetes mellitus on inflammation and oxidative stress biomarkers: a randomized clinical trial.",
+          "matched_year": "2018",
+          "matched_pubmed_id": "",
+          "matched_corpusId": "13686177",
+          "source_file": "papers_deep_with_pmid.json"
+        }
+      ],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "29664663",
+        "33794784",
+        "35312741",
+        "39182237"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+STEP 0 — Confirm paper identity
+target_name=41582599_2026 | topic=Advance care planning interventions in adults with chronic kidney disease — identifying interventions used, who delivers them, uptake rates, and outcomes.
+
+STEP 1 — Study design filter decision
+Inclusion criteria accept: "primary research of any design" — broad/multiple design types → STUDY_FILTER = OMIT.
+Query = (PRIMARY_CONCEPT) only.
+
+STEP 2 — Classify each inclusion criterion
+- Chronic kidney disease (CKD): CORE → CONDITION block. Hemodialysis is a subtype/treatment context that specifies CKD severity; fold into CONDITION block as OR term.
+- Advance care planning: CORE → INTERVENTION block
+- Adults aged >=18: standard adult criterion; since not definitionally critical to distinguish from pediatric CKD in a specific way, treat as NON-CORE fold-in
+- Caregivers: fold into POPULATION block as OR extension — not a separate mandatory AND
+- Kidney healthcare professionals: fold into POPULATION block as OR extension
+- Comparators (usual care): NON-CORE — study design element, not searchable
+- Outcomes (intervention characteristics/types, efficacy): NON-CORE outcome measures — leave for screening
+- Studies with CKD plus other chronic diseases eligible if CKD data extractable: NON-CORE study-level criterion
+- English language only: explicitly stated → apply English[lang]
+- Date: "published from inception to September 2024" — this is a search end date (not a restrictive start date); represents natural search window, not a PubMed date filter to encode. Omit from query.
+
+STEP 3 — AND block budget check
+Planned blocks:
+1. CONDITION: CKD (including hemodialysis, dialysis subterms)
+2. INTERVENTION: advance care planning
+Count = 2 → within budget.
+
+STEP 4 — Population/ethnicity structure check
+No ethnicity/nationality terms → not applicable.
+Caregivers and healthcare professionals folded into CKD block context via the intervention block already covering them implicitly.
+
+STEP 5 — Broad fallback floor check
+- CKD block: "Renal Insufficiency, Chronic"[Mesh] as broad MeSH + specific tiab variants → OK
+- ACP block: "Advance Care Planning"[Mesh] as broad + specific tiab → OK
+
+Language filter: English[lang] — explicitly stated for all studies.
+
+Final AND block count: 2 (CKD) AND (advance care planning) + language filter
+
+FULL_QUERY: ("Renal Insufficiency, Chronic"[Mesh] OR "chronic kidney disease"[tiab] OR "chronic kidney failure"[tiab] OR CKD[tiab] OR "chronic renal disease"[tiab] OR "chronic renal failure"[tiab] OR "end-stage renal disease"[tiab] OR ESRD[tiab] OR "end stage kidney disease"[tiab] OR "kidney failure"[tiab] OR hemodialysis[tiab] OR haemodialysis[tiab] OR dialysis[tiab]) AND ("Advance Care Planning"[Mesh] OR "advance care planning"[tiab] OR "advance care plan*"[tiab] OR "advance directive*"[tiab] OR "living will*"[tiab] OR "advance decision*"[tiab] OR "goals of care"[tiab] OR "end-of-life planning"[tiab] OR "end of life care planning"[tiab] OR "future care planning"[tiab]) AND English[lang]

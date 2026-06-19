@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:42:15Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41709059_2026",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"L-Carnitine\"[Mesh] OR \"Carnitine\"[Mesh] OR \"l-carnitine\"[tiab] OR levocarnitine[tiab] OR \"acetyl-l-carnitine\"[tiab] OR \"propionyl-l-carnitine\"[tiab]) AND (\"Coronary Artery Disease\"[Mesh] OR \"Coronary Disease\"[Mesh] OR \"Myocardial Ischemia\"[Mesh] OR \"Acute Coronary Syndrome\"[Mesh] OR \"Myocardial Infarction\"[Mesh] OR \"coronary artery disease\"[tiab] OR \"coronary heart disease\"[tiab] OR \"coronary disease\"[tiab] OR \"ischemic heart disease\"[tiab] OR \"ischaemic heart disease\"[tiab] OR \"myocardial ischemia\"[tiab] OR \"myocardial ischaemia\"[tiab] OR \"acute coronary syndrome\"[tiab] OR \"myocardial infarction\"[tiab] OR \"angina pectoris\"[tiab]))",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\02_Cardiovascular_Disease\\41709059_2026\\without_laws"
+}

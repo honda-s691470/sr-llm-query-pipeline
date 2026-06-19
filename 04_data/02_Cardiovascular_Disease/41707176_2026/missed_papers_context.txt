@@ -1,0 +1,122 @@
+--- Missed Papers Context (sampled) ---
+Sample size: 1 / Missed count: 1
+Seed: 26914371
+Sampled PMIDs: 26914371
+
+MEDLINE FIELDS OF INTEREST:
+- TI: Title
+- AB: Abstract
+- MH: MeSH Headings
+
+
+PMID- 26914371
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161223
+LR  - 20260127
+IS  - 1557-8593 (Electronic)
+IS  - 1520-9156 (Print)
+IS  - 1520-9156 (Linking)
+VI  - 18
+IP  - 4
+DP  - 2016 Apr
+TI  - Dulce Wireless Tijuana: A Randomized Control Trial Evaluating the Impact of 
+      Project Dulce and Short-Term Mobile Technology on Glycemic Control in a Family 
+      Medicine Clinic in Northern Mexico.
+PG  - 240-51
+LID - 10.1089/dia.2015.0283 [doi]
+AB  - BACKGROUND: The global epidemic of diabetes calls for innovative interventions. 
+      This study evaluated the effectiveness of the Project Dulce model, with and 
+      without wireless technology, on glycemic control and other clinical and 
+      self-reported outcomes in patients with poorly controlled type 2 diabetes in 
+      Mexico. SUBJECTS AND METHODS: Adults with type 2 diabetes and a glycated 
+      hemoglobin A1c (HbA1c) level of >/=8% were recruited from Family Medical Unit #27 
+      of the Instituto Mexicano del Seguro Social (IMSS) in Tijuana, Mexico, and 
+      randomly assigned to one of three groups: Project Dulce-only (PD); Project Dulce 
+      technology-enhanced with mobile tools (PD-TE); or IMSS standard of care/control 
+      group (CG). Clinical and self-reported outcomes were assessed at baseline, Month 
+      4, and Month 10. Time-by-group interactions and within-group changes were 
+      analyzed. RESULTS: HbA1c reductions from baseline to Month 10 were significantly 
+      greater in PD-TE (-3.0% [-33 mmol/mol]) and PD (-2.6% [-28.7 mmol/mol]) compared 
+      with CG (-1.3% [-14.2 mmol/mol]) (P = 0.009 and 0.001, respectively). PD-TE and 
+      PD also exhibited significant improvement in diabetes knowledge when compared 
+      with CG (P < 0.05 for both). No statistically significant differences were 
+      detected between PD and PD-TE on these indicators (P = 0.54 and 0.86, 
+      respectively). Several within-group improvements were observed on other clinical 
+      and self-report indicators but did not vary significantly across groups. 
+      CONCLUSIONS: Project Dulce with and without wireless technology substantially 
+      improved glycemic control and diabetes knowledge in high-risk patients with type 
+      2 diabetes in a Mexican family medical unit, suggesting that integrating peer-led 
+      education, nurse coordination, and 3G wireless technology is an effective 
+      approach for improving diabetes outcomes in high-risk populations.
+FAU - Anzaldo-Campos, Maria Cecilia
+AU  - Anzaldo-Campos MC
+AD  - 1 Family Medical Unit #27, Mexican Institute of Social Security , Tijuana, Baja 
+      California, Mexico .
+FAU - Contreras, Sonia
+AU  - Contreras S
+AD  - 2 Autonomous University of Baja California , Tijuana, Baja California, Mexico .
+AD  - 3 International Community Foundation , San Diego, California.
+FAU - Vargas-Ojeda, Adriana
+AU  - Vargas-Ojeda A
+AD  - 2 Autonomous University of Baja California , Tijuana, Baja California, Mexico .
+FAU - Menchaca-Diaz, Rufino
+AU  - Menchaca-Diaz R
+AD  - 2 Autonomous University of Baja California , Tijuana, Baja California, Mexico .
+FAU - Fortmann, Addie
+AU  - Fortmann A
+AD  - 4 Scripps Whittier Diabetes Institute , San Diego, California.
+FAU - Philis-Tsimikas, Athena
+AU  - Philis-Tsimikas A
+AD  - 4 Scripps Whittier Diabetes Institute , San Diego, California.
+LA  - eng
+SI  - ISRCTN/ISRCTN28210329
+GR  - UL1 TR001114/TR/NCATS NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160225
+PL  - United States
+TA  - Diabetes Technol Ther
+JT  - Diabetes technology & therapeutics
+JID - 100889084
+RN  - 0 (Glycated Hemoglobin)
+RN  - 0 (hemoglobin A1c protein, human)
+SB  - IM
+MH  - Adult
+MH  - Cohort Studies
+MH  - Combined Modality Therapy/nursing
+MH  - Diabetes Mellitus, Type 2/blood/nursing/*therapy
+MH  - Feasibility Studies
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Glycated Hemoglobin/analysis
+MH  - *Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - Hyperglycemia/epidemiology/*prevention & control
+MH  - Male
+MH  - Mexico/epidemiology
+MH  - Middle Aged
+MH  - *Mobile Applications
+MH  - Patient Care Team
+MH  - *Patient Compliance
+MH  - Patient Education as Topic/*methods
+MH  - *Peer Influence
+MH  - Risk
+MH  - Self Report
+MH  - Wireless Technology
+PMC - PMC4827300
+EDAT- 2016/02/26 06:00
+MHDA- 2016/12/24 06:00
+PMCR- 2016/04/01
+CRDT- 2016/02/26 06:00
+PHST- 2016/02/26 06:00 [entrez]
+PHST- 2016/02/26 06:00 [pubmed]
+PHST- 2016/12/24 06:00 [medline]
+PHST- 2016/04/01 00:00 [pmc-release]
+AID - 10.1089/dia.2015.0283 [pii]
+AID - 10.1089/dia.2015.0283 [doi]
+PST - ppublish
+SO  - Diabetes Technol Ther. 2016 Apr;18(4):240-51. doi: 10.1089/dia.2015.0283. Epub 
+      2016 Feb 25.

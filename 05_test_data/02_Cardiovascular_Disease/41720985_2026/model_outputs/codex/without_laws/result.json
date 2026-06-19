@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-13T10:39:47Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41720985_2026",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"spinal cord cavernous malformation*\"[tiab] OR \"spinal cord cavernoma*\"[tiab] OR \"spinal cord cavernous angioma*\"[tiab] OR \"spinal cord cavernous hemangioma*\"[tiab] OR \"spinal cord cavernous haemangioma*\"[tiab] OR \"intramedullary cavernous malformation*\"[tiab] OR \"intramedullary cavernoma*\"[tiab] OR \"intramedullary cavernous angioma*\"[tiab] OR \"intramedullary cavernous hemangioma*\"[tiab] OR \"intramedullary cavernous haemangioma*\"[tiab] OR ((\"spinal cord\"[tiab] OR intramedullar*[tiab]) AND (cavernoma*[tiab] OR \"cavernous malformation*\"[tiab] OR \"cavernous angioma*\"[tiab] OR \"cavernous hemangioma*\"[tiab] OR \"cavernous haemangioma*\"[tiab])) OR (\"Spinal Cord\"[Mesh] AND \"Cavernous Hemangioma\"[Mesh])) AND (\"Surgical Procedures, Operative\"[Mesh] OR surgery[tiab] OR surgical[tiab] OR operativ*[tiab] OR resect*[tiab] OR excis*[tiab] OR remov*[tiab] OR microsurg*[tiab])) AND english[lang] AND Humans[Mesh] AND (\"1995/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260313_112516\\codex\\02_Cardiovascular_Disease\\41720985_2026\\without_laws"
+}

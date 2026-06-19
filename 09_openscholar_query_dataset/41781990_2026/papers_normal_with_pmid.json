@@ -1,0 +1,3176 @@
+{
+  "papers": [
+    {
+      "title": "Randomized trial of cytoreduction and hyperthermic intraperitoneal chemotherapy versus systemic chemotherapy and palliative surgery in patients with peritoneal carcinomatosis of colorectal cancer.",
+      "authors": [
+        {
+          "name": "V. Verwaal",
+          "id": "66556181"
+        },
+        {
+          "name": "S. van Ruth",
+          "id": "51914566"
+        },
+        {
+          "name": "E. de Bree",
+          "id": "2082742370"
+        },
+        {
+          "name": "Gooike W van Sloothen",
+          "id": "116329423"
+        },
+        {
+          "name": "H. van Tinteren",
+          "id": "51914977"
+        },
+        {
+          "name": "H. Boot",
+          "id": "143643165"
+        },
+        {
+          "name": "F. Zoetmulder",
+          "id": "5487486"
+        }
+      ],
+      "year": 2003,
+      "venue": "Journal of Clinical Oncology",
+      "score": 0.974670210201842,
+      "abstract": "",
+      "corpusId": 30217812,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/14551293",
+      "pubmed_id": "14551293",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1200/jco.2003.04.187",
+        "matched_title": "Randomized trial of cytoreduction and hyperthermic intraperitoneal chemotherapy versus systemic chemotherapy and palliative surgery in patients with peritoneal carcinomatosis of colorectal cancer.",
+        "matched_pubdate": "2003 Oct 15",
+        "matched_source": "J Clin Oncol"
+      }
+    },
+    {
+      "title": "Effect of hyperthermic intraperitoneal chemotherapy for gastric cancer patients: a meta-analysis of the randomized controlled trials",
+      "authors": [
+        {
+          "name": "Yan-Wen Liu",
+          "id": "2144410149"
+        },
+        {
+          "name": "Ying Du",
+          "id": "2108521448"
+        },
+        {
+          "name": "Bao‐an Chen",
+          "id": "14238757"
+        }
+      ],
+      "year": 2019,
+      "venue": "Journal of International Medical Research",
+      "score": 0.9647265104227858,
+      "abstract": "Objective To determine the effectiveness and safety of hyperthermic intraperitoneal chemotherapy (HIPEC) in patients with advanced gastric cancer and peritoneal metastases. Methods PubMed®, CNKI, Web of Science, VIP and WANFANG databases were searched to identify randomized controlled trials (RCTs) that examined the effect of HIPEC on survival, clinical response and adverse events. Patients with advanced gastric cancer and peritoneal metastases were divided into an experimental group and a control group. The statistical results are presented as relative ratio (RR), mean difference (MD) and 95% confidence interval (CI). Results Twenty-one RCTs met the inclusion criteria (n = 1674 patients). Meta-analysis showed that the 3-year survival rate was significantly higher in the HIPEC group than in the control group (RR 1.61; 95% CI 1.43, 1.82) and the complete response rate was significantly higher in the HIPEC group than in the control group (RR 2.35; 95% CI 1.67, 3.31). HIPEC was also beneficial in terms of decreased CEA (MD −1.79; 95% CI −2.22, −1.35). There was no significant difference in the rate of adverse reactions (RR 1.00; 95% CI 0.87, 1.14). Conclusions HIPEC had a beneficial effect on 3-year survival rate and complete response in patients with advanced gastric cancer and peritoneal metastases.",
+      "corpusId": 208165298,
+      "url": "https://doi.org/10.1177/0300060519882545",
+      "pubmed_id": "31741406",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1177/0300060519882545",
+        "matched_title": "Effect of hyperthermic intraperitoneal chemotherapy for gastric cancer patients: a meta-analysis of the randomized controlled trials.",
+        "matched_pubdate": "2019 Dec",
+        "matched_source": "J Int Med Res"
+      }
+    },
+    {
+      "title": "Hyperthermic intraperitoneal chemotherapy plus SOX chemotherapy versus SOX chemotherapy alone in patients with gastric cancer and peritoneal metastasis: a phase II randomized clinical trial",
+      "authors": [
+        {
+          "name": "Lijie Luo",
+          "id": "2312657345"
+        },
+        {
+          "name": "Zijing Zhang",
+          "id": "2311309261"
+        },
+        {
+          "name": "Haiping Zeng",
+          "id": "2312272818"
+        },
+        {
+          "name": "Yuting Xu",
+          "id": "1677451811"
+        },
+        {
+          "name": "Yaohui Peng",
+          "id": "2029696205"
+        },
+        {
+          "name": "Hai-Peng Huang",
+          "id": "2146284348"
+        },
+        {
+          "name": "Zeyu Lin",
+          "id": "2183077239"
+        },
+        {
+          "name": "Wenjun Xiong",
+          "id": "49602668"
+        },
+        {
+          "name": "Wei Wang",
+          "id": "14679668"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Gastrointestinal Oncology",
+      "score": 0.9622440765430045,
+      "abstract": "Background The prognosis of patients with gastric cancer with peritoneal metastasis (GCPM) is exceedingly poor. This study evaluated the efficacy and safety of hyperthermic intraperitoneal chemotherapy (HIPEC) with paclitaxel combined with S-1 and oxaliplatin (SOX) in the treatment of GCPM. Methods Patients with pathologically confirmed primary gastric adenocarcinoma and laparoscopy-confirmed peritoneal metastasis were enrolled and randomized to receive either HIPEC plus SOX (HIPEC group) or SOX alone (SOX group). The primary endpoint was progression-free survival (PFS), and the secondary endpoints were 1-year survival rate, overall survival (OS), and safety. Results Among the included patients, 30 were assigned to the HIPEC group and 29 to the SOX group. Compared to the HIPEC group, the SOX group had a significantly higher median PFS (SOX: median 8.5 months, IQR, 3.8−21.8 months; HIPEC: median 6.1 months, IQR, 3.3−10.8 months; P=0.004) and OS (SOX: median 13.0 months, IQR, 6.3−16.6 months; HIPEC: median 10.0 months, IQR, 5.2−24.0 months; P=0.02). The 1-year survival rate was 50.0% in the SOX group and 37.9% in HIPEC group, but the difference was not statistically significant. No serious adverse events related to the protocol treatment occurred in any patients. Conclusions This trial failed to show the superiority of HIPEC with SOX over SOX alone. Further research into this regimen is needed. Trial Registration ClinicalTrials.gov NCT03604614.",
+      "corpusId": 275539394,
+      "url": "https://api.semanticscholar.org/CorpusId:275539394",
+      "pubmed_id": "40115934",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.21037/jgo-24-807",
+        "matched_title": "Hyperthermic intraperitoneal chemotherapy plus SOX chemotherapy versus SOX chemotherapy alone in patients with gastric cancer and peritoneal metastasis: a phase II randomized clinical trial.",
+        "matched_pubdate": "2025 Feb 28",
+        "matched_source": "J Gastrointest Oncol"
+      }
+    },
+    {
+      "title": "Hyperthermic Intraperitoneal Chemotherapy plus Intravenous Chemotherapy of Paclitaxel with or without Sintilimab in Gastric Cancer: A Comparative Study",
+      "authors": [
+        {
+          "name": "Zao Zhang",
+          "id": "2109535738"
+        },
+        {
+          "name": "M. Ning",
+          "id": "147553177"
+        },
+        {
+          "name": "Dong Han",
+          "id": "2122023950"
+        },
+        {
+          "name": "Li Li",
+          "id": "2156061318"
+        },
+        {
+          "name": "Zhuang Li",
+          "id": "2118392526"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Oncology",
+      "score": 0.9611070072105724,
+      "abstract": "Objective To compare the clinical efficacy of hyperthermic intraperitoneal chemotherapy (HIPEC) plus intravenous chemotherapy of paclitaxel with or without sintilimab in peritoneal metastasis of gastric cancer. Methods A total of 120 patients assessed for eligibility with peritoneal metastasis of gastric cancer treated in the oncology department of our hospital from January 2019 to June 2020 were recruited. They were concurrently randomly assigned in a 1 : 1 ratio to receive HIPEC plus sintilimab-paclitaxel intravenous chemotherapy (study group) or plus paclitaxel intravenous chemotherapy only (control group). Results The objective remission rate (ORR) of ascites in the study group was significantly higher than that in the control group. Subgroup analysis showed that an age ≤60 years or well-differentiated tumors were associated with better objective remission. After treatment, significantly higher Karnofsky Performance Status (KPS) scores were observed in the study group versus those of the control group. Adverse events reported were comparable between groups. The study group obtained longer 12-month progression-free survival (PFS) and overall survival (OS) than those of the control group. Conclusion On top of HIPEC, intravenous chemotherapy with sintilimab and paclitaxel constitute an effective alternative for patients with peritoneal metastasis of gastric cancer to enhance ascites remission, ameliorate the quality of life, and prolong survival, versus with paclitaxel alone.",
+      "corpusId": 247188513,
+      "url": "https://api.semanticscholar.org/CorpusId:247188513",
+      "pubmed_id": "35242186",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2022/3054485",
+        "matched_title": "Hyperthermic Intraperitoneal Chemotherapy plus Intravenous Chemotherapy of Paclitaxel with or without Sintilimab in Gastric Cancer: A Comparative Study.",
+        "matched_pubdate": "2022",
+        "matched_source": "J Oncol"
+      }
+    },
+    {
+      "title": "The 30-year experience-A meta-analysis of randomised and high-quality non-randomised studies of hyperthermic intraperitoneal chemotherapy in the treatment of gastric cancer.",
+      "authors": [
+        {
+          "name": "J. Desiderio",
+          "id": "3867354"
+        },
+        {
+          "name": "J. Chao",
+          "id": "16273687"
+        },
+        {
+          "name": "L. Melstrom",
+          "id": "10052527"
+        },
+        {
+          "name": "S. Warner",
+          "id": "4880420"
+        },
+        {
+          "name": "F. Tozzi",
+          "id": "5189284"
+        },
+        {
+          "name": "Y. Fong",
+          "id": "47650431"
+        },
+        {
+          "name": "A. Parisi",
+          "id": "2711118"
+        },
+        {
+          "name": "Y. Woo",
+          "id": "4918316"
+        }
+      ],
+      "year": 2017,
+      "venue": "European Journal of Cancer",
+      "score": 0.8911116813537249,
+      "abstract": "",
+      "corpusId": 207218989,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/28456089",
+      "pubmed_id": "28456089",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.ejca.2017.03.030",
+        "matched_title": "The 30-year experience-A meta-analysis of randomised and high-quality non-randomised studies of hyperthermic intraperitoneal chemotherapy in the treatment of gastric cancer.",
+        "matched_pubdate": "2017 Jul",
+        "matched_source": "Eur J Cancer"
+      }
+    },
+    {
+      "title": "Hyperthermic intraperitoneal chemotherapy combined with systemic chemotherapy for gastric cancer peritoneal carcinomatosis",
+      "authors": [
+        {
+          "name": "Yidan Lu",
+          "id": "15466972"
+        },
+        {
+          "name": "Zheng-Xiong Jin",
+          "id": "153863781"
+        },
+        {
+          "name": "Song Zheng",
+          "id": "143691014"
+        },
+        {
+          "name": "Yurong Bai",
+          "id": "1799426011"
+        },
+        {
+          "name": "Yangcheng Sun",
+          "id": "152354766"
+        }
+      ],
+      "year": 2020,
+      "venue": "Medicine",
+      "score": 0.8764868486841061,
+      "abstract": "Abstract Background: The prognosis of gastric cancer peritoneal carcinomatosis (GCPC) remains poor despite recent advances in systemic chemotherapy (SC) with an average survival less than 6 months. Current evidence supporting the utility of hyperthermic intraperitoneal chemotherapy (HIPEC) combined with SC for GCPC is limited. We plan to provide a systematic review and meta-analysis of randomized controlled trials to evaluate the comparative effects and safety of HIPEC combined with SC in the management of GCPC. Methods: Randomized controlled trials evaluating HIPEC combined with SC versus SC as first-line treatment for GCPC will be searched in MEDLINE, EMBASE, Web of Science, the Cochrane Library, ClinicalTrials.gov, and Google Scholar, from database inception to April 30, 2020. Data on study design, participant characteristics, intervention details, and outcomes will be extracted. Primary outcomes to be assessed are: median progression-free survival; secondary outcomes are: median survival time, 1- year survival rate, 2-year survival rate, objective response rate, and adverse events. Meta-analysis will be performed using RevMan V.5.3 statistical software. Data will be combined with a random effect model. Study quality will be assessed using the Cochrane Risk of Bias Tool. Heterogeneity will be assessed, and if necessary, a subgroup analysis will be performed to explore the source of heterogeneity. Results: The results will provide useful information about the effectiveness and safety of HIPEC combined with systemic chemotherapy regimens in patients with gastric cancer peritoneal carcinomatosis. Conclusion: The findings of the study will be disseminated through peer-reviewed journal. The registration number: INPLASY202050006. DOI number: 10.37766/inplasy2020.5.0006.",
+      "corpusId": 220388180,
+      "url": "https://api.semanticscholar.org/CorpusId:220388180",
+      "pubmed_id": "32629710",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1097/md.0000000000020973",
+        "matched_title": "Hyperthermic intraperitoneal chemotherapy combined with systemic chemotherapy for gastric cancer peritoneal carcinomatosis: A protocol for systematic review and meta-analysis of randomized controlled trials.",
+        "matched_pubdate": "2020 Jul 2",
+        "matched_source": "Medicine (Baltimore)"
+      }
+    },
+    {
+      "title": "Effect of Hyperthermic Intraperitoneal Chemotherapy on Cytoreductive Surgery in Gastric Cancer With Synchronous Peritoneal Metastases: The Phase III GASTRIPEC-I Trial",
+      "authors": [
+        {
+          "name": "B. Rau",
+          "id": "145254272"
+        },
+        {
+          "name": "Hauke Lang",
+          "id": "2242503126"
+        },
+        {
+          "name": "Alfred Koenigsrainer",
+          "id": "2242938392"
+        },
+        {
+          "name": "Ines Gockel",
+          "id": "2241403085"
+        },
+        {
+          "name": "H. Rau",
+          "id": "2264603323"
+        },
+        {
+          "name": "H. Seeliger",
+          "id": "2264603267"
+        },
+        {
+          "name": "C. Lerchenmueller",
+          "id": "2076250781"
+        },
+        {
+          "name": "D. Reim",
+          "id": "2267979063"
+        },
+        {
+          "name": "Roger Wahba",
+          "id": "2249485750"
+        },
+        {
+          "name": "Martin Angele",
+          "id": "2263641357"
+        },
+        {
+          "name": "S. Heeg",
+          "id": "2264603518"
+        },
+        {
+          "name": "Tobias Keck",
+          "id": "2263982105"
+        },
+        {
+          "name": "A. Weimann",
+          "id": "2292183771"
+        },
+        {
+          "name": "S. Topp",
+          "id": "2950845"
+        },
+        {
+          "name": "P. Piso",
+          "id": "2250984923"
+        },
+        {
+          "name": "A. Brandl",
+          "id": "2239932073"
+        },
+        {
+          "name": "Silke Schuele",
+          "id": "2071629363"
+        },
+        {
+          "name": "Peter Jo",
+          "id": "3099232"
+        },
+        {
+          "name": "J. Pratschke",
+          "id": "2257112356"
+        },
+        {
+          "name": "S. Wegel",
+          "id": "2097898"
+        },
+        {
+          "name": "A. Rehders",
+          "id": "2264336557"
+        },
+        {
+          "name": "N. Moosmann",
+          "id": "7514215"
+        },
+        {
+          "name": "J. Gaedcke",
+          "id": "3096217"
+        },
+        {
+          "name": "Volker Heinemann",
+          "id": "2264301291"
+        },
+        {
+          "name": "E. Trips",
+          "id": "2310421891"
+        },
+        {
+          "name": "Markus Loeffler",
+          "id": "2264097127"
+        },
+        {
+          "name": "P. Schlag",
+          "id": "2248307131"
+        },
+        {
+          "name": "P. Thuss-Patience",
+          "id": "2252165256"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Clinical Oncology",
+      "score": 0.7880329284934423,
+      "abstract": "PURPOSE In patients with peritoneal metastasis (PM) from gastric cancer (GC), chemotherapy is the treatment of choice. Cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) are still being debated. This randomized, controlled, open-label, multicenter phase III trial (EudraCT 2006-006088-22; ClinicalTrials.gov identifier: NCT02158988) explored the impact on overall survival (OS) of HIPEC after CRS. PATIENTS AND METHODS Adult patients with GC and histologically proven PM were randomly assigned (1:1) to perioperative chemotherapy and CRS alone (CRS-A) or CRS plus HIPEC (CRS + H). HIPEC comprised mitomycin C 15 mg/m2 and cisplatin 75 mg/m2 in 5 L of saline perfused for 60 minutes at 42°C. The primary end point was OS; secondary endpoints included progression-free survival (PFS), other distant metastasis-free survival (MFS), and safety. Analyses followed the intention-to-treat principle. RESULTS Between March 2014 and June 2018, 105 patients were randomly assigned (53 patients to CRS-A and 52 patients to CRS + H). The trial stopped prematurely because of slow recruitment. In 55 patients, treatment stopped before CRS mainly due to disease progression/death. Median OS was the same for both groups (CRS + H, 14.9 [97.2% CI, 8.7 to 17.7] months v CRS-A, 14.9 [97.2% CI, 7.0 to 19.4] months; P = .1647). The PFS was 3.5 months (95% CI, 3.0 to 7.0) in the CRS-A group and 7.1 months (95% CI, 3.7 to 10.5; P = .047) in the CRS + H group. The CRS + H group showed better MFS (10.2 months [95% CI, 7.7 to 14.7] v CRS-A, 9.2 months [95% CI, 6.8 to 11.5]; P = .0286). The incidence of grade ≥3 adverse events (AEs) was similar between groups (CRS-A, 38.1% v CRS + H, 43.6%; P = .79). CONCLUSION This study showed no OS difference between CRS + H and CRS-A. PFS and MFS were significantly better in the CRS + H group, which needs further exploration. HIPEC did not increase AEs.",
+      "corpusId": 264843121,
+      "url": "https://doi.org/10.1200/JCO.22.02867",
+      "pubmed_id": "37906724",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1200/JCO.22.02867",
+        "matched_title": "Effect of Hyperthermic Intraperitoneal Chemotherapy on Cytoreductive Surgery in Gastric Cancer With Synchronous Peritoneal Metastases: The Phase III GASTRIPEC-I Trial.",
+        "matched_pubdate": "2024 Jan 10",
+        "matched_source": "J Clin Oncol"
+      }
+    },
+    {
+      "title": "Intraoperative chemohyperthermic peritoneal perfusion as an adjuvant to gastric cancer: final results of a randomized controlled study.",
+      "authors": [
+        {
+          "name": "Y. Yonemura",
+          "id": "5439940"
+        },
+        {
+          "name": "X. D. Aretxabala",
+          "id": "35253142"
+        },
+        {
+          "name": "T. Fujimura",
+          "id": "144174384"
+        },
+        {
+          "name": "S. Fushida",
+          "id": "6044231"
+        },
+        {
+          "name": "K. Katayama",
+          "id": "32858990"
+        },
+        {
+          "name": "E. Bandou",
+          "id": "4302778"
+        },
+        {
+          "name": "K. Sugiyama",
+          "id": "2054470211"
+        },
+        {
+          "name": "T. Kawamura",
+          "id": "10225353"
+        },
+        {
+          "name": "K. Kinoshita",
+          "id": "152650821"
+        },
+        {
+          "name": "Y. Endou",
+          "id": "6271457"
+        },
+        {
+          "name": "Takuma Sasaki",
+          "id": "2110618652"
+        }
+      ],
+      "year": 2001,
+      "venue": "Hepato-Gastroenterology",
+      "score": 0.6859769050699612,
+      "abstract": "",
+      "corpusId": 25619816,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11813623",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Prophylactic surgery plus hyperthermic intraperitoneal chemotherapy (HIPEC CO2) versus standard surgery for gastric carcinoma at high risk of peritoneal carcinomatosis: short and long-term outcomes (GOETH STUDY)—a collaborative randomized controlled trial by ACOI, FONDAZIONE AIOM, SIC, SICE, and SIC",
+      "authors": [
+        {
+          "name": "A. di Giorgio",
+          "id": "115046861"
+        },
+        {
+          "name": "C. Gerardi",
+          "id": "46580582"
+        },
+        {
+          "name": "C. Abatini",
+          "id": "11410355"
+        },
+        {
+          "name": "G. Melotti",
+          "id": "3595042"
+        },
+        {
+          "name": "L. Bonavina",
+          "id": "3911649"
+        },
+        {
+          "name": "V. Torri",
+          "id": "41072388"
+        },
+        {
+          "name": "F. Santullo",
+          "id": "13357907"
+        },
+        {
+          "name": "S. Garattini",
+          "id": "2189936019"
+        },
+        {
+          "name": "M. De Luca",
+          "id": "1509048813"
+        },
+        {
+          "name": "E. Rulli",
+          "id": "150991036"
+        },
+        {
+          "name": "E. Rulli",
+          "id": "145206206"
+        },
+        {
+          "name": "F. Pacelli",
+          "id": "144872454"
+        }
+      ],
+      "year": 2022,
+      "venue": "Trials",
+      "score": 0.6843323525411483,
+      "abstract": "At the time of diagnosis, 15–20% of gastric carcinomas are in stage T4 or T4b. Furthermore, 5–20% of patients undergoing potentially curative surgery suffer from synchronous or metachronous peritoneal metastases. To date, neither surgery nor systemic chemotherapy successfully controls peritoneal dissemination, offering a limited impact on survival. Peritoneal metastases are in fact responsible for death in around 60% of gastric cancer patients. Several Eastern studies in the past have focused on hyperthermic intraperitoneal chemotherapy (HIPEC) as a prophylactic measure in patients with serosal extension, nodal involvement, and positive peritoneal fluid cytology. Therefore, a new multimodal therapeutic strategy based on aggressive surgery plus new locoregional treatment may prolong survival in this particular clinical scenario. This study compares the efficacy of prophylactic surgery (radical gastric resection, appendectomy, resection of the round ligament of the liver, and bilateral adnexectomy) plus hybrid CO2 HIPEC system versus standard surgery in patients with T3-T4 N0-N + gastric adenocarcinoma. Patients will be randomly assigned (1:1 ratio) to the experimental arm or standard surgery. The primary endpoint is to establish the difference in disease-free survival between the groups. The secondary objective is to compare the safety and tolerability of prophylactic surgery plus HIPEC CO2 versus standard surgery. Considering the poor prognosis of patients with peritoneal dissemination from gastric cancer, a prophylactic strategy to prevent peritoneal metastases may be beneficial. In patients with gastric cancer at high risk of peritoneal carcinomatosis, we propose aggressive surgical treatment with radical gastrectomy, removal of organs at risk of harbouring tumour cells, and HIPEC. ClinicalTrials.gov NCT03917173. Registered on 16 April 2019. Protocol version: v1, March 27, 2019. Protocol number: IRFMN-GCC-7813. EudraCT number: 2019–001478-27.",
+      "corpusId": 254100458,
+      "url": "https://api.semanticscholar.org/CorpusId:254100458",
+      "pubmed_id": "36457115",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s13063-022-06880-y",
+        "matched_title": "Prophylactic surgery plus hyperthermic intraperitoneal chemotherapy (HIPEC CO2) versus standard surgery for gastric carcinoma at high risk of peritoneal carcinomatosis: short and long-term outcomes (GOETH STUDY)-a collaborative randomized controlled trial by ACOI, FONDAZIONE AIOM, SIC, SICE, and SICO.",
+        "matched_pubdate": "2022 Dec 1",
+        "matched_source": "Trials"
+      }
+    },
+    {
+      "title": "Survival and complications of cytoreductive surgery with hyperthermic intraperitoneal chemotherapy in patients with intra-abdominal malignancies: A meta-analysis of randomized controlled trials",
+      "authors": [
+        {
+          "name": "Chang Jian",
+          "id": "49592277"
+        },
+        {
+          "name": "Hai Mou",
+          "id": "2282935848"
+        },
+        {
+          "name": "Ye Zhang",
+          "id": "2155392435"
+        },
+        {
+          "name": "Qingxin Fan",
+          "id": "1511718120"
+        },
+        {
+          "name": "Y. Ou",
+          "id": "48541644"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Pharmacology",
+      "score": 0.678976292596641,
+      "abstract": "Background: Peritoneal metastasis (PM) is an advanced stage of intra-abdominal malignancy with a very poor prognosis. In recent years, hyperthermic intraperitoneal chemotherapy (HIPEC) combined with cytoreductive surgery (CRS) has been utilized as an active treatment in the prevention and treatment of PM, with encouraging results. However, compared with CRS alone, the results of the CRS plus HIPEC strategy in the treatment of patients with intra-abdominal malignancies are still controversial. This study sought to determine the impact of HIPEC + CRS on patient survival and adverse events (AEs) by reviewing randomized controlled trials (RCTs) for all types of intra-abdominal malignancies. Methods: A PubMed, Embase, Cochrane Library, Web of Science and Clinical Trials.gov search extracted all RCTs until 12 October 2022, examining the CRS + HIPEC vs. CRS alone strategies in the treatment of various types of intra-abdominal malignancies. The outcomes included overall survival (OS), disease-free survival (DFS), relapse-free survival (RFS), progression-free survival (PFS) and AEs. The dichotomous data were pooled and reported as odds ratios (ORs) with 95% confidence intervals (CIs). The survival outcome data were pooled using hazard ratios (HRs) and corresponding 95% CIs. The Cochrane Collaboration’s Risk of Bias Tool was used to assess the risk of bias in the included studies. Results: A total of 12 RCTs were included in this meta-analysis, including 873 patients in the CRS + HIPEC group and 878 patients in the CRS alone group. The studies included 3 (617 patients) on colorectal cancer, 4 (416 patients) on gastric cancer, and 5 (718 patients) on ovarian cancer. Our analysis showed no difference in OS between the CRS + HIPEC and CRS alone groups (HR: 0.79, 95% CI 0.62–1.01). Subgroup analysis showed that CRS + HIPEC improved the OS of gastric cancer patients (HR: 0.49, 95% CI 0.32–0.76) compared with CRS alone. However, CRS + HIPEC did not significantly improve the OS of colorectal cancer (HR: 1.06, 95% CI 0.81–1.38) and ovarian cancer (HR: 0.82, 95% CI 0.62–1.07) patients. In addition, there was no significant difference in DFS/RFS (HR: 0.78, 95% CI 0.57–1.07) or PFS (HR: 1.03, 95% CI 0.77–1.38) between the two groups. Compared with CRS alone, CRS with HIPEC had greater nephrotoxicity (OR: 0.45, 95% CI 0.21–0.98), while other AEs did not differ significantly between the two groups. Conclusion: Our results suggest that CRS + HIPEC may improve OS in gastric cancer patients compared with CRS alone, but we did not observe a benefit for DFS/RFS. For patients with ovarian and colorectal cancers, our results suggest that HIPEC + CRS does not appear to improve survival outcomes. In addition, CRS + HIPEC has higher nephrotoxicity than CRS alone. More evidence from RCTs is needed to evaluate whether the use of CRS + HIPEC is an appropriate option.",
+      "corpusId": 257474079,
+      "url": "https://api.semanticscholar.org/CorpusId:257474079",
+      "pubmed_id": "36969856",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fphar.2023.1094834",
+        "matched_title": "Survival and complications of cytoreductive surgery with hyperthermic intraperitoneal chemotherapy in patients with intra-abdominal malignancies: A meta-analysis of randomized controlled trials.",
+        "matched_pubdate": "2023",
+        "matched_source": "Front Pharmacol"
+      }
+    },
+    {
+      "title": "Integration of Genomic Biology Into Therapeutic Strategies of Gastric Cancer Peritoneal Metastasis",
+      "authors": [
+        {
+          "name": "Y. X. Gwee",
+          "id": "50875125"
+        },
+        {
+          "name": "D. Chia",
+          "id": "14358039"
+        },
+        {
+          "name": "Jimmy B. Y. So",
+          "id": "1491505929"
+        },
+        {
+          "name": "W. Ceelen",
+          "id": "3855927"
+        },
+        {
+          "name": "W. Yong",
+          "id": "40579614"
+        },
+        {
+          "name": "P. Tan",
+          "id": "1954102586"
+        },
+        {
+          "name": "C. Ong",
+          "id": "4744897"
+        },
+        {
+          "name": "R. Sundar",
+          "id": "145723328"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Clinical Oncology",
+      "score": 0.6646064310325172,
+      "abstract": "The peritoneum is a common site of metastasis in advanced gastric cancer (GC). Diagnostic laparoscopy is now routinely performed as part of disease staging, leading to an earlier diagnosis of synchronous peritoneal metastasis (PM). The biology of GCPM is unique and aggressive, leading to a dismal prognosis. These tumors tend to be resistant to traditional systemic therapy, and yet, this remains the current standard-of-care recommended by most international clinical guidelines. As this is an area of unmet clinical need, several translational studies and clinical trials have focused on addressing this specific disease state. Advances in genomic sequencing and molecular profiling have revealed several promising therapeutic targets and elucidated novel biology, particularly on the role of the surrounding tumor microenvironment in GCPM. Peritoneal-specific clinical trials are being designed with a combination of locoregional therapeutic strategies with systemic therapy. In this review, we summarize the new knowledge of cancer biology, advances in surgical techniques, and emergence of novel therapies as an integrated strategy emerges to address GCPM as a distinct clinical entity.",
+      "corpusId": 249276273,
+      "url": "https://api.semanticscholar.org/CorpusId:249276273",
+      "pubmed_id": "35649219",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1200/jco.21.02745",
+        "matched_title": "Integration of Genomic Biology Into Therapeutic Strategies of Gastric Cancer Peritoneal Metastasis.",
+        "matched_pubdate": "2022 Aug 20",
+        "matched_source": "J Clin Oncol"
+      }
+    },
+    {
+      "title": "Review of Regional Therapies for Gastric Cancer with Peritoneal Metastases",
+      "authors": [
+        {
+          "name": "Beatrice J. Sun",
+          "id": "2119614829"
+        },
+        {
+          "name": "Byrne Lee",
+          "id": "12721763"
+        }
+      ],
+      "year": 2022,
+      "venue": "Cancers",
+      "score": 0.6633951383642104,
+      "abstract": "Simple Summary Gastric cancer is usually diagnosed at late stages and is associated with poor five-year survival rates. Metastasis to the peritoneal cavity is common and leads to even worse outcomes. Currently, the mainstay of treatment for metastatic gastric cancer is systemic chemotherapy or supportive care. These recommendations remain despite evidence that suggests systemic therapy has poor penetration into the abdominal cavity, limiting efficacy against peritoneal disease. Newer treatments have been developed to address this problem, specifically regional therapies aimed at delivering chemotherapy directly into the peritoneal cavity to eradicate tumor cells. These novel therapies include hyperthermic intraperitoneal chemotherapy, normothermic intraperitoneal chemotherapy, and pressurized intraperitoneal aerosolized chemotherapy. Regional therapies may also be combined with surgery to remove both macroscopic and microscopic disease. Although more clinical trials are needed to evaluate its efficacy, early studies have shown promising outcomes with intraperitoneal chemotherapy. Abstract Gastric cancer carries a poor prognosis and is a leading cause of cancer-related mortality worldwide. Patients with gastric cancer who develop peritoneal metastases have an even more dismal prognosis, with median survival time measured in months. Since studies have demonstrated that systemic chemotherapy has poor penetration into the peritoneum, multimodal treatment with intraperitoneal chemotherapy has been proposed for the treatment of peritoneal metastases and has become the foundation for newer therapeutic techniques and clinical trials. These include heated intraperitoneal chemotherapy (HIPEC) with cytoreductive surgery (CRS), which involves the application of heated chemotherapy into the abdomen with or without tumor debulking surgery; normothermic intraperitoneal chemotherapy (NIPEC), in which non-heated chemotherapy can be delivered into the abdomen via a peritoneal port allowing for repeat dosing; and pressurized intraperitoneal aerosolized chemotherapy (PIPAC), a newer technique of pressurized and aerosolized chemotherapy delivered into the abdomen during laparoscopy. Early results with intraperitoneal chemotherapy have shown promise in increasing disease-free and overall survival in select patients. Additionally, there may be a palliative effect of these regional therapies. In this review, we explore and summarize these different intraperitoneal chemotherapy treatment regimens for gastric cancer with peritoneal metastases.",
+      "corpusId": 246306966,
+      "url": "https://api.semanticscholar.org/CorpusId:246306966",
+      "pubmed_id": "35158837",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/cancers14030570",
+        "matched_title": "Review of Regional Therapies for Gastric Cancer with Peritoneal Metastases.",
+        "matched_pubdate": "2022 Jan 23",
+        "matched_source": "Cancers (Basel)"
+      }
+    },
+    {
+      "title": "Cytoreductive surgery and hyperthermic intraperitoneal chemotherapy in gastric cancer.",
+      "authors": [
+        {
+          "name": "R. Seshadri",
+          "id": "34800315"
+        },
+        {
+          "name": "O. Glehen",
+          "id": "4098413"
+        }
+      ],
+      "year": 2016,
+      "venue": "World Journal of Gastroenterology",
+      "score": 0.6577861860807842,
+      "abstract": "Gastric cancer associated peritoneal carcinomatosis (GCPC) has a poor prognosis with a median survival of less than one year. Systemic chemotherapy including targeted agents has not been found to significantly increase the survival in GCPC. Since recurrent gastric cancer remains confined to the abdominal cavity in many patients, regional therapies like aggressive cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) have been investigated for GCPC. HIPEC has been used for three indications in GC- as an adjuvant therapy after a curative surgery, HIPEC has been shown to improve survival and reduce peritoneal recurrences in many randomised trials in Asian countries; as a definitive treatment in established PC, HIPEC along with CRS is the only therapeutic modality that has resulted in long-term survival in select groups of patients; as a palliative treatment in advanced PC with intractable ascites, HIPEC has been shown to control ascites and reduce the need for frequent paracentesis. While the results of randomised trials of adjuvant HIPEC from western centres are awaited, the role of HIPEC in the treatment of GCPC is still evolving and needs larger studies before it is accepted as a standard of care.",
+      "corpusId": 1647472,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/26811651",
+      "pubmed_id": "26811651",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3748/wjg.v22.i3.1114",
+        "matched_title": "Cytoreductive surgery and hyperthermic intraperitoneal chemotherapy in gastric cancer.",
+        "matched_pubdate": "2016 Jan 21",
+        "matched_source": "World J Gastroenterol"
+      }
+    },
+    {
+      "title": "Cytoreductive surgery plus hyperthermic intraoperative peritoneal chemotherapy for people with peritoneal metastases from colorectal, ovarian or gastric origin: A systematic review of randomized controlled trials",
+      "authors": [
+        {
+          "name": "K. Gurusamy",
+          "id": "52306758"
+        },
+        {
+          "name": "Jeffrey Leung",
+          "id": "2297418224"
+        },
+        {
+          "name": "Claire Vale",
+          "id": "2298264200"
+        },
+        {
+          "name": "Danielle Roberts",
+          "id": "2267266372"
+        },
+        {
+          "name": "Audrey Linden",
+          "id": "2298263257"
+        },
+        {
+          "name": "X. Tan",
+          "id": "2397562630"
+        },
+        {
+          "name": "Priyal Taribagil",
+          "id": "2287532340"
+        },
+        {
+          "name": "Sonam Patel",
+          "id": "2298401789"
+        },
+        {
+          "name": "E. Pizzo",
+          "id": "2238553545"
+        },
+        {
+          "name": "Brian Davidson",
+          "id": "2287113009"
+        },
+        {
+          "name": "Mark Saunders",
+          "id": "2298242353"
+        },
+        {
+          "name": "O. Aziz",
+          "id": "2298266035"
+        },
+        {
+          "name": "S. O'Dwyer",
+          "id": "2298264280"
+        }
+      ],
+      "year": 2024,
+      "venue": "World Journal of Surgery",
+      "score": 0.6505013206291349,
+      "abstract": "Background There is uncertainty in the relative benefits and harms of hyperthermic intraoperative peritoneal chemotherapy (HIPEC) when added to cytoreductive surgery (CRS) +/− systemic chemotherapy or systemic chemotherapy alone in people with peritoneal metastases from colorectal, gastric, or ovarian cancers. Methods We searched randomized controlled trials (RCTs) in the medical literature until April 14, 2022 and applied methods used for high-quality systematic reviews. Findings We included a total of eight RCTs (seven RCTs included in quantitative analysis as one RCT did not provide data in an analyzable format). All comparisons other than ovarian cancer contained only one trial. For gastric cancer, there is high uncertainty about the effect of CRS + HIPEC + systemic chemotherapy. For stage III or greater epithelial ovarian cancer undergoing interval cytoreductive surgery, CRS + HIPEC + systemic chemotherapy probably decreases all-cause mortality compared to CRS + systemic chemotherapy. For colorectal cancer, CRS + HIPEC + systemic chemotherapy probably results in little to no difference in all-cause mortality and may increase the serious adverse events proportions compared to CRS +/− systemic chemotherapy, but probably decreases all-cause mortality compared to fluorouracil-based systemic chemotherapy alone. Interpretation The role of CRS + HIPEC in gastric peritoneal metastases is uncertain. CRS + HIPEC should be standard of care in women with stage III or greater epithelial ovarian cancer undergoing interval CRS. CRS + systemic chemotherapy should be standard of care for people with colorectal peritoneal metastases, with HIPEC given only as part of a RCT focusing on subgroups and regimes. PROSPERO Registration CRD42019130504.",
+      "corpusId": 269361458,
+      "url": "https://api.semanticscholar.org/CorpusId:269361458",
+      "pubmed_id": "38658171",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/wjs.12186",
+        "matched_title": "Cytoreductive surgery plus hyperthermic intraoperative peritoneal chemotherapy for people with peritoneal metastases from colorectal, ovarian or gastric origin: A systematic review of randomized controlled trials.",
+        "matched_pubdate": "2024 Jun",
+        "matched_source": "World J Surg"
+      }
+    },
+    {
+      "title": "Effect of hyperthermic intraperitoneal chemotherapy on survival and recurrence rates in advanced gastric cancer: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "Maitreyi Patel",
+          "id": "84227663"
+        },
+        {
+          "name": "A. Arora",
+          "id": "47766512"
+        },
+        {
+          "name": "D. Mukherjee",
+          "id": "7396052"
+        },
+        {
+          "name": "Subhabrata Mukherjee",
+          "id": "1777140"
+        }
+      ],
+      "year": 2023,
+      "venue": "International Journal of Surgery",
+      "score": 0.6165568467768618,
+      "abstract": "Background: Around 5–20% of patients who undergo surgery for advanced gastric cancer (AGC), which invades into the muscularis propria or beyond, have peritoneal carcinomatosis. The peritoneal recurrence rate is 10–54%, which is associated with a poor prognosis. The role of hyperthermic intraperitoneal chemotherapy (HIPEC) in AGC with and without peritoneal carcinomatosis is not clearly defined. Methods: The authors conducted a meta-analysis, in accordance with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, of the clinical trials and high-quality nonrandomized studies evaluating the role of HIPEC in AGC over the last 10 years. The studies were searched in PubMed, EMBASE, MEDLINE, and Cochrane databases between January 2011 to December 2021. Clinical data including overall survival, recurrence free survival, overall recurrence rate, peritoneal recurrence rate, and complications analyzed using RevMan 5.4. Results: Six randomized controlled trials and 10 nonrandomized studies, comprising a total of 1700 patients were included. HIPEC was associated with significantly improved OS at 3 [odd ratio (OR) 1.89, 95% CI: 1.17–3.05] and 5 years (OR 1.87, 95% CI: 1.29–2.71). HIPEC was associated with reduced overall recurrence (OR 0.49, 95% CI: 0.31–0.80) and peritoneal recurrence (OR 0.22, 95% CI: 0.11–0.47). HIPEC was not associated with increased complications. The occurrence of postoperative renal dysfunction was significantly higher in the HIPEC group (OR 3.94, 95% CI: 1.85–8.38). Conclusion: The role of HIPEC in AGC has evolved over the past decade. HIPEC may improve survival rates and reduce recurrence rates in patients with AGC, without significant increase in complications and with a favorable impact on 3 and 5-year survival.",
+      "corpusId": 258565659,
+      "url": "https://api.semanticscholar.org/CorpusId:258565659",
+      "pubmed_id": "37158149",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1097/js9.0000000000000457",
+        "matched_title": "Effect of hyperthermic intraperitoneal chemotherapy on survival and recurrence rates in advanced gastric cancer: a systematic review and meta-analysis.",
+        "matched_pubdate": "2023 Aug 1",
+        "matched_source": "Int J Surg"
+      }
+    },
+    {
+      "title": "Hyperthermic Intraperitoneal Chemotherapy (HIPEC), Oncological Outcomes and Long-Term Survival among Patients with Gastric Cancer and Limited Peritoneal Disease Progression after Neoadjuvant Chemotherapy",
+      "authors": [
+        {
+          "name": "Sebastian Kobiałka",
+          "id": "2278994734"
+        },
+        {
+          "name": "K. Sędłak",
+          "id": "1401978520"
+        },
+        {
+          "name": "Zuzanna Pelc",
+          "id": "2106341187"
+        },
+        {
+          "name": "R. Mlak",
+          "id": "2246318"
+        },
+        {
+          "name": "Y. Endo",
+          "id": "2111800877"
+        },
+        {
+          "name": "Paweł Bogacz",
+          "id": "2278995111"
+        },
+        {
+          "name": "A. Kurylcio",
+          "id": "5217135"
+        },
+        {
+          "name": "W. Polkowski",
+          "id": "49015079"
+        },
+        {
+          "name": "T. Pawlik",
+          "id": "47170833"
+        },
+        {
+          "name": "K. Rawicz-Pruszyński",
+          "id": "1399610694"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.6131641867130022,
+      "abstract": "Introduction: The role of surgery in stage IV gastric cancer with peritoneal metastasis (PM) remains unclear. The objective of the current single-center study was to define the impact of gastrectomy with cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) on outcomes among Central European GC patients with limited peritoneal disease progression after neoadjuvant chemotherapy (NAC). Methods: Patients with histologically confirmed GC who underwent curative-intent multimodal treatment between 2013 and 2023 were included. Patients without adenocarcinoma, who did not undergo gastrectomy, had early (cT1) or metastatic GC at the time of initial diagnosis, who underwent multivisceral resection, incomplete cytoreduction or palliative care, died before planned curative-intent treatment, or had incomplete clinical or pathological missing information were excluded. Results: A total of 74 patients who underwent curative-intent treatment for GC with PM were included in the final analytic cohort. Patients who underwent gastrectomy with CRS+HIPEC were less likely to achieve TOO (CRS+HIPEC: 28% vs. CRS: 57.1%, p = 0.033) compared with individuals after CRS alone. Specifically, patients who underwent gastrectomy with CRS+HIPEC had a higher likelihood of postoperative complications (CRS+HIPEC: 48% vs. CRS: 20.4%, p = 0.018) and longer hospital LOS (median, CRS+HIPEC: 12 vs. CRS: 10, p = 0.019). While administration of HIPEC did not impact long-term survival (median OS, CRS+HIPEC: 16 months vs. CRS: 12 months, p = 0.55), postoperative complications (median OS, CCI < 30:16 months vs. CCI > 30:5 months, p = 0.024) and ICU stay (median OS, no ICU stay: 16 months vs. ICU stay: 5 months, p = 0.008) were associated with worsened long-term survival among GC patients with PM. Conclusions: Data from the current study demonstrated a lack of survival benefit among advanced GC patients with PM undergoing gastrectomy with CRS+HIPEC when compared with individuals after gastrectomy with CRS alone. Administration of perioperative chemotherapy and achievement of TO failed to withstand the peritoneal disease progression during NAC.",
+      "corpusId": 266930468,
+      "url": "https://api.semanticscholar.org/CorpusId:266930468",
+      "pubmed_id": "38202168",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/jcm13010161",
+        "matched_title": "Hyperthermic Intraperitoneal Chemotherapy (HIPEC), Oncological Outcomes and Long-Term Survival among Patients with Gastric Cancer and Limited Peritoneal Disease Progression after Neoadjuvant Chemotherapy.",
+        "matched_pubdate": "2023 Dec 27",
+        "matched_source": "J Clin Med"
+      }
+    },
+    {
+      "title": "Comparative Analysis of Postoperative Complications after Cytoreductive Surgery and HIPEC in Gastric Cancer",
+      "authors": [
+        {
+          "name": "F. Merboth",
+          "id": "114101884"
+        },
+        {
+          "name": "Sebastián A. García",
+          "id": "47546184"
+        },
+        {
+          "name": "Janusz V Renesse",
+          "id": "2142568266"
+        },
+        {
+          "name": "M. Distler",
+          "id": "4537534"
+        },
+        {
+          "name": "T. Welsch",
+          "id": "2311798"
+        },
+        {
+          "name": "J. Weitz",
+          "id": "143997712"
+        },
+        {
+          "name": "D. Stange",
+          "id": "2699791"
+        }
+      ],
+      "year": 2021,
+      "venue": "Oncology Research and Treatment",
+      "score": 0.6113373866864131,
+      "abstract": "Introduction: Patients with advanced gastric cancer (AGC) frequently show peritoneal carcinomatosis (PC). PC reduces life expectancy and quality of life. Cytoreductive surgery (CRS) with hyperthermic intraperitoneal chemotherapy (HIPEC) has been shown to improve overall survival. Nevertheless, it has been reported that CRS and HIPEC are accompanied by an increase in postoperative complications. The purpose of this study was to investigate the complications associated with CRS and HIPEC and overall and disease-free survival. Methods: Patients with AGC and PC, who received complete CRS and HIPEC, were included in the HIPEC group (n = 15). Patients with AGC but without PC, who received resection of the primary tumor alone, constituted the control group (n = 43). Results: Patients enrolled in the HIPEC group presented with a median PCI of 7. In comparison with the control group, no differences were found in patient characteristics, risk factors, pathological findings, and operative procedures. Twenty-five percentage of the patients in both groups suffered from serious postoperative complications (CDC ≥3a). Surgical and medical complications, rate of reoperation, and mortality did not differ. Also, the recurrence pattern, median survival, and 1- and 2-year survival rates showed no differences. Conclusion: CRS and HIPEC do not lead to an increased postoperative morbidity and mortality in AGC with PC. Albeit the poorer prognosis of patients with PC, survival of both groups was comparable.",
+      "corpusId": 244730947,
+      "url": "https://api.semanticscholar.org/CorpusId:244730947",
+      "pubmed_id": "34844244",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1159/000520330",
+        "matched_title": "Comparative Analysis of Postoperative Complications after Cytoreductive Surgery and HIPEC in Gastric Cancer.",
+        "matched_pubdate": "2022",
+        "matched_source": "Oncol Res Treat"
+      }
+    },
+    {
+      "title": "Hyperthermic Intraperitoneal Chemotherapy Following Cytoreductive Surgery for Colorectal Peritoneal Carcinomatosis Patients: A Review",
+      "authors": [
+        {
+          "name": "Sarah S Alhumaidan",
+          "id": "2186083646"
+        },
+        {
+          "name": "Abeer M. Alharbi",
+          "id": "117469064"
+        },
+        {
+          "name": "A. F. Syeda",
+          "id": "1582275120"
+        },
+        {
+          "name": "Fatimah A Alghaidani",
+          "id": "2196873181"
+        },
+        {
+          "name": "M. M. Almutairi",
+          "id": "2418434947"
+        },
+        {
+          "name": "Nourah Alharbi",
+          "id": "2090621446"
+        },
+        {
+          "name": "Reham K Alenezi",
+          "id": "2196811942"
+        }
+      ],
+      "year": 2022,
+      "venue": "Cureus",
+      "score": 0.6048403433702159,
+      "abstract": "Colorectal peritoneal carcinomatosis (CPC) is an advanced malignancy and is typically associated with a poor prognosis. Hyperthermic intraperitoneal chemotherapy (HIPEC) following complete cytoreductive surgery (CRS) is a novel, advanced loco-regional treatment for colorectal cancer that is currently being used to treat peritoneal carcinomatosis (PC). The present review aims to describe the evidence-based literature on the efficacy and safety of this treatment approach in patients with PC originating from colorectal cancer and to summarize its complications. All published literature regarding the efficacy of HIPEC for the treatment of CPC was reviewed; 16 studies were included in this paper. The overall survival rate for the HIPEC group ranged from 63% to 93%. The overall median survival for the HIPEC and non-HIPEC groups ranged from 13 to 60.1 months and 12.6 to 41.2 months, respectively. The overall median survival of patients in the HIPEC group was comparatively better than those in the non-HIPEC group. There was insufficient evidence to suggest whether this treatment regimen was associated with a high or low morbidity rate in comparison to other groups. However, the mortality rate associated with this treatment regimen was low. In conclusion, the present data provide insufficient evidence regarding the beneficial effects of using HIPEC following CRS treatment. Therefore, further studies are required to determine the benefits of HIPEC for CPC patients.",
+      "corpusId": 254626035,
+      "url": "https://api.semanticscholar.org/CorpusId:254626035",
+      "pubmed_id": "36523856",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.7759/cureus.32440",
+        "matched_title": "Hyperthermic Intraperitoneal Chemotherapy Following Cytoreductive Surgery for Colorectal Peritoneal Carcinomatosis Patients: A Review.",
+        "matched_pubdate": "2022 Dec",
+        "matched_source": "Cureus"
+      }
+    },
+    {
+      "title": "Cytoreductive surgery (CRS) with hyperthermic intraoperative peritoneal chemotherapy (HIPEC) versus standard of care (SoC) in people with peritoneal metastases from colorectal, ovarian or gastric origin: protocol for a systematic review and individual participant data (IPD) meta-analyses of effectiv",
+      "authors": [
+        {
+          "name": "K. Gurusamy",
+          "id": "2036702"
+        },
+        {
+          "name": "C. Vale",
+          "id": "15583355"
+        },
+        {
+          "name": "E. Pizzo",
+          "id": "5677635"
+        },
+        {
+          "name": "R. Bhanot",
+          "id": "40976925"
+        },
+        {
+          "name": "B. Davidson",
+          "id": "48592709"
+        },
+        {
+          "name": "T. Mould",
+          "id": "50596008"
+        },
+        {
+          "name": "M. Mughal",
+          "id": "143780515"
+        },
+        {
+          "name": "M. Saunders",
+          "id": "49547141"
+        },
+        {
+          "name": "O. Aziz",
+          "id": "143810256"
+        },
+        {
+          "name": "S. O'dwyer",
+          "id": "1396421214"
+        }
+      ],
+      "year": 2020,
+      "venue": "BMJ Open",
+      "score": 0.5859364958146231,
+      "abstract": "Introduction There is uncertainty about whether cytoreductive surgery (CRS)+hyperthermic intraoperative peritoneal chemotherapy (HIPEC) improves survival and/or quality of life compared with standard of care (SoC) in people with peritoneal metastases who can withstand major surgery. Primary objectives To compare the relative benefits and harms of CRS+HIPEC versus SoC in people with peritoneal metastases from colorectal, ovarian or gastric cancers eligible to undergo CRS+HIPEC by a systematic review and individual participant data (IPD) meta-analysis. Secondary objectives To compare the cost-effectiveness of CRS+HIPEC versus SoC from a National Health Service (NHS) and personal social services perspective using a model-based cost–utility analysis. Methods and analysis We will perform a systematic review of literature by updating the searches from MEDLINE, Embase, Cochrane library, Science Citation Index as well as trial registers. Two members of our team will independently screen the search results and identify randomised controlled trials comparing CRS+HIPEC versus SoC for inclusion based on full texts for articles shortlisted during screening. We will assess the risk of bias in the trials and obtain data related to baseline prognostic characteristics, details of intervention and control, and outcome data related to overall survival, disease progression, health-related quality of life, treatment related complications and resource utilisation data. Using IPD, we will perform a two-step IPD, that is, calculate the adjusted effect estimate from each included study and then perform a random-effects model meta-analysis. We will perform various subgroup analyses, meta-regression and sensitivity analyses. We will also perform a model-based cost–utility analysis to assess whether CRS+HIPEC is cost-effective in the NHS setting. Ethics and dissemination This project was approved by the UCL Research Ethics Committee (Ethics number: 16023/001). We aim to present the findings at appropriate international meetings and publish the review, irrespective of the findings, in a peer-reviewed journal. PROSPERO registration number CRD42019130504.",
+      "corpusId": 218633534,
+      "url": "https://doi.org/10.1136/bmjopen-2020-039314",
+      "pubmed_id": "32404398",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1136/bmjopen-2020-039314",
+        "matched_title": "Cytoreductive surgery (CRS) with hyperthermic intraoperative peritoneal chemotherapy (HIPEC) versus standard of care (SoC) in people with peritoneal metastases from colorectal, ovarian or gastric origin: protocol for a systematic review and individual participant data (IPD) meta-analyses of effectiveness and cost-effectiveness.",
+        "matched_pubdate": "2020 May 12",
+        "matched_source": "BMJ Open"
+      }
+    },
+    {
+      "title": "Phase II trial of prophylactic hyperthermic intraperitoneal chemotherapy in patients with locally advanced gastric cancer after curative surgery",
+      "authors": [
+        {
+          "name": "B. Fan",
+          "id": "2755918"
+        },
+        {
+          "name": "Z. Bu",
+          "id": "3778813"
+        },
+        {
+          "name": "Ji Zhang",
+          "id": "2116921817"
+        },
+        {
+          "name": "X. Zong",
+          "id": "40194103"
+        },
+        {
+          "name": "X. Ji",
+          "id": "144375308"
+        },
+        {
+          "name": "T. Fu",
+          "id": "1562900204"
+        },
+        {
+          "name": "Ziyu Jia",
+          "id": "2172270343"
+        },
+        {
+          "name": "Yinan Zhang",
+          "id": "2108383857"
+        },
+        {
+          "name": "Xiaojiang Wu",
+          "id": "7917168"
+        }
+      ],
+      "year": 2021,
+      "venue": "BMC Cancer",
+      "score": 0.5795496187581127,
+      "abstract": "HIPEC is an emerging procedure to treat peritoneal metastasis of gastric cancer. Data about HIPEC in locally advanced gastric cancer is scarce. The purpose of this trial is to evaluate the safety and toxicity of prophylactic HIPEC with cisplatin for patients with locally advanced gastric cancer. From March 2015 to November 2016, a prospective, randomized phase II trial was conducted. After radical gastrectomy, patients in the experimental group underwent HIPEC with cisplatin followed by adjuvant chemotherapy with SOX regime. Patients in the other group were treated with SOX regime alone. Postoperative complications and patient survival were compared. In total, 50 patients were eligible for analyses. No significant difference was found in the incidence of postoperative complications including anastomotic/intestinal leakage, liver dysfunction, bone marrow suppression, wound infection and ileus (P > 0.05). Mean duration of hospitalization after radical gastrectomy was 11.7 days. 12.2 days in experimental group and 10.8 days in control group respectively (P = 0.255). The percentage of patients with elevated tumor markers was 12.1% in experimental group, which was significantly lower than 41.2% in control group (P = 0.02). 3-year RFS of patients who treated with or without prophylactic HIPEC were 84.8 and 88.2% respectively (P = 0.986). In the multivariate analysis, pathological T stage was the only independent risk factor for the RFS of patients (P = 0.012, HR =15.071). Additional intraoperative HIPEC with cisplatin did not increase postoperative complications for locally advanced gastric cancer after curative surgery. Prophylactic HIPEC with cisplatin was safe and tolerable, while it did not reduce the risk of peritoneal recurrence in this trial, supporting further studies to validate the efficacy of it. Chinese Clinical Trial Registry, ChiCTR2000038331. Registered 18 September 2020 - Retrospectively registered, http://www.chictr.org.cn/showproj.aspx?proj=59692.",
+      "corpusId": 232094540,
+      "url": "https://doi.org/10.1186/s12885-021-07925-2",
+      "pubmed_id": "33653317",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12885-021-07925-2",
+        "matched_title": "Phase II trial of prophylactic hyperthermic intraperitoneal chemotherapy in patients with locally advanced gastric cancer after curative surgery.",
+        "matched_pubdate": "2021 Mar 2",
+        "matched_source": "BMC Cancer"
+      }
+    },
+    {
+      "title": "A Systematic Review and Meta-analysis of the Randomized Controlled Trials on Adjuvant Intraperitoneal Chemotherapy for Resectable Gastric Cancer",
+      "authors": [
+        {
+          "name": "T. Yan",
+          "id": "39198466"
+        },
+        {
+          "name": "D. Black",
+          "id": "117227051"
+        },
+        {
+          "name": "P. Sugarbaker",
+          "id": "4159826"
+        },
+        {
+          "name": "Jacqui C. Zhu",
+          "id": "50077301"
+        },
+        {
+          "name": "Y. Yonemura",
+          "id": "5439940"
+        },
+        {
+          "name": "G. Petrou",
+          "id": "46821463"
+        },
+        {
+          "name": "D. Morris",
+          "id": "78677224"
+        }
+      ],
+      "year": 2007,
+      "venue": "Annals of Surgical Oncology",
+      "score": 0.5742668229707281,
+      "abstract": "",
+      "corpusId": 22545975,
+      "url": "https://doi.org/10.1245/s10434-007-9487-4",
+      "pubmed_id": "17653801",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1245/s10434-007-9487-4",
+        "matched_title": "A systematic review and meta-analysis of the randomized controlled trials on adjuvant intraperitoneal chemotherapy for resectable gastric cancer.",
+        "matched_pubdate": "2007 Oct",
+        "matched_source": "Ann Surg Oncol"
+      }
+    },
+    {
+      "title": "Prophylactic hyperthermic intraperitoneal chemotherapy in gastric cancer management: short- and long-term outcomes of a prospective randomized study",
+      "authors": [
+        {
+          "name": "M. Reutovich",
+          "id": "2135883883"
+        },
+        {
+          "name": "O. Krasko",
+          "id": "2744476"
+        }
+      ],
+      "year": 2021,
+      "venue": "Oncology in Clinical Practice",
+      "score": 0.5663940394438663,
+      "abstract": "Introduction. Assessment of toxicity and long-term results of hyperthermic intraperitoneal chemotherapy (HIPEC) treatment administered to patients with resectable serosa-invasive gastric cancers. Material and methods. The study was carried out in 2008–2016 and is based on the results of the treatment of 154 gastric cancer patients (stage IIB–IIIC, III–IV Borrmann type) who were randomly assigned to two groups. 76 patients underwent HIPEC combined with radical gastrectomy (HIPEC group) and 78 patients underwent radical gastrectomy without HIPEC (control group). HIPEC was administered after alimentary tract reconstruction and wound closure and comprised 5–6 L of Ringer’s solution (cisplatin 50 mg/m 2 + doxorubicin 50 mg/m 2 ) infused at an inflow temperature of 42°C for 1 hour. Results. Although the total number of complications was higher in the HIPEC group than in the control group the difference was statistically insignificant — 20 (26.3%) and 12 (15.3%), respectively (p = 0.141). Surgery-related com plications in the HIPEC and control groups were observed in 9 and 5 cases, respectively (p = 0.372). Non-surgical complications were recorded in 11 and 7 cases, respectively (p = 0.435). Overall, the proposed HIPEC regimen administered in combination with radical surgery demonstrated satisfactory patient tolerability. The frequency of grade III toxic reactions according to CTCAE version 5.0 was 9.2%, no grade IV–V toxicities were registered at that. These satisfactory short-term results were followed up with fairly good long-term treatment outcomes. There was an increase in 5-year progression-free survival (42.1 ± 6.3% vs. 16.3 ± 5.5%, p < 0.001) and in dissemination-free survival (45.2 ± 6.3% vs. 19.4 ± 5.9%, p = 0.001) in the HIPEC group vs. the control group with a trend toward improving cancer-specific survival (CSS) in the HIPEC-treated patients [45.1.0 ± 6.4% vs. 27.0 ± 6.7% (p = 0.050)]. Conclusions. While substantially improving long-term GC therapeutic effect, the proposed HIPEC regimen using cisplatin 50 mg/m 2 in combination with doxorubicin 50 mg/m 2 made it possible to minimize complications (fre-quency of 26.3%) and toxic reactions [the frequency of grade III toxic reactions was 9.2% (CTCAE, version 5.0)].",
+      "corpusId": 240067152,
+      "url": "https://api.semanticscholar.org/CorpusId:240067152",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Hyperthermic intraperitoneal chemotherapy (HIPEC) plus systemic chemotherapy versus systemic chemotherapy alone in locally advanced gastric cancer after D2 radical resection: a randomized-controlled study",
+      "authors": [
+        {
+          "name": "P. Yu",
+          "id": "144808893"
+        },
+        {
+          "name": "Xingmao Huang",
+          "id": "2218875380"
+        },
+        {
+          "name": "Ling Huang",
+          "id": "48544846"
+        },
+        {
+          "name": "G. Dai",
+          "id": "13240635"
+        },
+        {
+          "name": "Qi Xu",
+          "id": "78873955"
+        },
+        {
+          "name": "Jingquan Fang",
+          "id": "2169295866"
+        },
+        {
+          "name": "Z. Ye",
+          "id": "1927886263"
+        },
+        {
+          "name": "Tengjiao Chai",
+          "id": "1401644239"
+        },
+        {
+          "name": "Yi-an Du",
+          "id": "6628167"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Cancer Research and Clinical Oncology",
+      "score": 0.5647252175267993,
+      "abstract": "Currently, there is a lack of an effective strategy for the prevention of peritoneal metastasis (PM) from locally advanced gastric cancer (AGC). This randomized-controlled study aimed to evaluate the outcome of D2 radical resection with hyperthermic intraperitoneal chemotherapy (HIPEC) plus systemic chemotherapy versus systemic chemotherapy alone in locally AGC patients. All enrolled patients were randomly assigned to receive HIPEC plus systemic chemotherapy (HIPEC group) or systemic chemotherapy alone (non-HIPEC group) after radical gastrectomy. HIPEC was performed intraperitoneally with cisplatin (40 mg/m2) within 72 h after surgery, while systemic chemotherapy based on the SOX regimen (S-1 combined with oxaliplatin) was administered 4–6 weeks after radical surgery. Patterns of recurrence, adverse events, 3-year disease-free survival (DFS), and overall survival (OS) were analyzed. A total of 134 patients were enrolled in the present study. The 3-year DFS rate was 73.8% in the HIPEC group, which was significantly higher than that in the non-HIPEC group (61.2%, P = 0.031). The 3-year OS rate was 73.9% in the HIPEC group and 77.6% in the non-HIPEC group, with no significant difference (P = 0.737). PM was the most common distant metastasis in both groups. The occurrence rate of PM in the HIPEC group was statistically lower than that in the non-HIPEC group (20.9% vs. 40.3%, P = 0.015). Grade 3 or 4 adverse events occurred in 19 (14.2%) patients, and there was no significant difference between the two groups. Radical surgery followed by HIPEC combined with systemic chemotherapy is a safe and feasible strategy for locally AGC patients and could effectively improve DFS and reduce the occurrence of PM. However, more prospective randomized studies with a large sample size are warranted. This study was registered with www.medresman.org.cn as ChiCTR2200055966 on 10/12/2016.",
+      "corpusId": 259308096,
+      "url": "https://api.semanticscholar.org/CorpusId:259308096",
+      "pubmed_id": "37392201",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s00432-023-05019-z",
+        "matched_title": "Hyperthermic intraperitoneal chemotherapy (HIPEC) plus systemic chemotherapy versus systemic chemotherapy alone in locally advanced gastric cancer after D2 radical resection: a randomized-controlled study.",
+        "matched_pubdate": "2023 Oct",
+        "matched_source": "J Cancer Res Clin Oncol"
+      }
+    },
+    {
+      "title": "Factors influencing hematological toxicity and adverse effects of perioperative hyperthermic intraperitoneal vs intraperitoneal chemotherapy in gastrointestinal cancer",
+      "authors": [
+        {
+          "name": "Xue Zhang",
+          "id": "2279840420"
+        },
+        {
+          "name": "Zhewen Zheng",
+          "id": "2115548723"
+        },
+        {
+          "name": "Hui Gao",
+          "id": "2266802271"
+        },
+        {
+          "name": "Ziqi Yang",
+          "id": "2264199699"
+        },
+        {
+          "name": "Jian Bai",
+          "id": "2279886430"
+        }
+      ],
+      "year": 2025,
+      "venue": "Open Medicine",
+      "score": 0.5567229385875702,
+      "abstract": "Abstract Background Intraperitoneal (IP) chemotherapy (IPC), including hyperthermic intraperitoneal chemotherapy (HIPEC), has emerged as a promising approach to control peritoneal metastases in gastrointestinal (GI) cancers. However, the safety profile and toxicity spectrum of IPC remain incompletely understood. This study aimed to evaluate the incidence of hematologic and biochemical adverse reactions following surgery with or without IPC and to compare the toxicity profiles of normothermic IPC and HIPEC. Additionally, potential risk factors for liver injury were investigated to guide clinical management. Methods In this retrospective cohort study, 449 patients with gastric or colorectal cancer undergoing surgical resection between January 2015 and September 2019 were analyzed. Patients were categorized into three groups: surgery alone (n = 171), surgery + normothermic IPC (IPC group, n = 82), and surgery + HIPEC (HIPEC group, n = 196). Baseline demographic and clinicopathological data, IPC details (including drug regimen, HIPEC technique [open vs closed], and perfusion duration), and postoperative laboratory toxicities were recorded. Hematologic toxicities (leucopenia, neutropenia, thrombocytopenia, and hemoglobin decline) and biochemical toxicities (liver and renal function abnormalities and D-dimer elevation) were graded according to CTCAE v5.0. Group comparisons were performed using χ 2 or ANOVA tests. Due to a higher proportion of advanced-stage patients in the HIPEC group, stratified analyses were performed by clinical stage (I–II vs III–IV). Logistic regression was used to identify independent risk factors for liver injury in both IPC and HIPEC groups. Results Baseline characteristics were comparable across groups except for clinical stage, with the HIPEC group having a higher percentage of advanced-stage patients (79.6 vs 59.8%, P <0.05). Compared with the surgery-alone group, both IPC and HIPEC groups had significantly higher incidences of hemoglobin decline (25.7% vs 39.0% vs 49.0%, respectively; P <0.01), liver injury (37.4% vs 62.2% vs 60.7%, P <0.01), and D-dimer elevation (47.4% vs 68.3% vs 72.9%, P <0.01). In contrast, the incidences of leucopenia, neutropenia, and renal impairment were low (<12%) and did not differ significantly among groups. Thrombocytopenia was significantly more frequent in the HIPEC group than in the surgery-alone group (7.7 vs 2.9%, P = 0.046). Stratified analyses revealed no significant differences in adverse reaction rates between the IPC and HIPEC groups when adjusted by clinical stage. Multivariate logistic regression indicated that, in the IPC group, severe postoperative GI reactions ( ≥Grade II; OR, 3.72; 95% CI, 1.20–11.55; P = 0.023) and the use of a platinum plus docetaxel regimen (OR, 8.75; 95% CI, 1.78–43.12; P = 0.008) were independent predictors of liver injury. In the HIPEC group, the platinum plus docetaxel regimen was also associated with higher liver toxicity, and the open HIPEC technique significantly increased the risk (OR 4.80, 95% CI 1.26–18.38, P = 0.020). Conclusions Both normothermic IPC and HIPEC significantly increase the risk of certain perioperative laboratory abnormalities – specifically, anemia, liver injury, and a hypercoagulable state – compared to surgery alone. Notably, the addition of hyperthermia does not appear to significantly exacerbate the overall toxicity when clinical stage is considered. The chemotherapeutic regimen and HIPEC technique (open vs closed) are key determinants of liver injury. These findings underscore the importance of tailoring IPC protocols and implementing targeted supportive measures, such as liver protection and thromboprophylaxis, to optimize treatment safety in GI cancer patients.",
+      "corpusId": 281041353,
+      "url": "https://api.semanticscholar.org/CorpusId:281041353",
+      "pubmed_id": "40918163",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1515/med-2025-1260",
+        "matched_title": "Factors influencing hematological toxicity and adverse effects of perioperative hyperthermic intraperitoneal vs intraperitoneal chemotherapy in gastrointestinal cancer.",
+        "matched_pubdate": "2025",
+        "matched_source": "Open Med (Wars)"
+      }
+    },
+    {
+      "title": "Role of prophylactic hyperthermic intraperitoneal chemotherapy in patients with locally advanced gastric cancer",
+      "authors": [
+        {
+          "name": "T. Xie",
+          "id": "49901951"
+        },
+        {
+          "name": "Di Wu",
+          "id": "2277480363"
+        },
+        {
+          "name": "Shuo Li",
+          "id": "1410154499"
+        },
+        {
+          "name": "Z. Qiu",
+          "id": "14288020"
+        },
+        {
+          "name": "Qiying Song",
+          "id": "2283119698"
+        },
+        {
+          "name": "D. Guan",
+          "id": "1986616366"
+        },
+        {
+          "name": "Li-Peng Wang",
+          "id": "1912529001"
+        },
+        {
+          "name": "Xiongguang Li",
+          "id": "1502860348"
+        },
+        {
+          "name": "F. Duan",
+          "id": "1500736180"
+        },
+        {
+          "name": "Xinxin Wang",
+          "id": "2028860855"
+        }
+      ],
+      "year": 2020,
+      "venue": "World Journal of Gastrointestinal Oncology",
+      "score": 0.5560271591529292,
+      "abstract": "BACKGROUND Gastric cancer is the second most common malignant tumor in China, ranking third among all malignant tumor mortality rates. Hyperthermic intraperitoneal chemotherapy (HIPEC) has been shown to increase significantly the effectiveness of intraperitoneal chemotherapeutic drugs, prolong the action time of these drugs on intraperitoneal tumor cells, and enhance their diffusion in tumor tissues. HIPEC may be one of the best choices for the eradication of residual cancer cells in the abdominal cavity. AIM The aim of this study was to study the role of preventive HIPEC after radical gastrectomy. METHODS A prospective analysis was performed with patients with cT4N0-3M0 gastric cancer to compare the effects of postoperative prophylactic HIPEC plus intravenous chemotherapy with those of routine adjuvant chemotherapy. Patients’ medical records were analyzed, and differences in the peritoneal recurrence rate, disease-free survival time, and total survival time between groups were examined. RESULTS The first site of tumor recurrence was the peritoneum in 11 cases in the conventional adjuvant chemotherapy group and in 2 cases in the HIPEC group (P = 0.020). The 1-year and 3-year disease-free survival rates were 91.9% and 60.4%, respectively, in the conventional adjuvant chemotherapy group and 92.1% and 63.0%, respectively, in the HIPEC group. The 1-year and 3-year overall survival rates were 95.2% and 66.3%, respectively, in the conventional adjuvant chemotherapy group and 96.1% and 68.6%, respectively, in the HIPEC group. No significant difference in postoperative or chemotherapy complications was observed between groups. CONCLUSION In patients with cT4N0-3M0 gastric cancer, prophylactic HIPEC after radical tumor surgery is beneficial to reduce peritoneal tumor recurrence and prolong survival.",
+      "corpusId": 221341911,
+      "url": "https://api.semanticscholar.org/CorpusId:221341911",
+      "pubmed_id": "32864045",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.4251/wjgo.v12.i7.782",
+        "matched_title": "Role of prophylactic hyperthermic intraperitoneal chemotherapy in patients with locally advanced gastric cancer.",
+        "matched_pubdate": "2020 Jul 15",
+        "matched_source": "World J Gastrointest Oncol"
+      }
+    },
+    {
+      "title": "Impact of Cytoreductive Surgery with Hyperthermic Intraperitoneal Chemotherapy in the Treatment of Gastric Cancer with Peritoneal Carcinomatosis: A Systematic Review and Meta-analysis",
+      "authors": [
+        {
+          "name": "M. Martins",
+          "id": "2113309237"
+        },
+        {
+          "name": "H. Santos-Sousa",
+          "id": "2367220455"
+        },
+        {
+          "name": "Francisco Araújo",
+          "id": "2179646628"
+        },
+        {
+          "name": "J. Nogueiro",
+          "id": "83824952"
+        },
+        {
+          "name": "Bernardo Sousa-Pinto",
+          "id": "2179643879"
+        }
+      ],
+      "year": 2022,
+      "venue": "Annals of Surgical Oncology",
+      "score": 0.4987437250345843,
+      "abstract": "",
+      "corpusId": 251348208,
+      "url": "https://doi.org/10.1245/s10434-022-12312-7",
+      "pubmed_id": "35930109",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1245/s10434-022-12312-7",
+        "matched_title": "Impact of Cytoreductive Surgery with Hyperthermic Intraperitoneal Chemotherapy in the Treatment of Gastric Cancer with Peritoneal Carcinomatosis: A Systematic Review and Meta-analysis.",
+        "matched_pubdate": "2022 Nov",
+        "matched_source": "Ann Surg Oncol"
+      }
+    },
+    {
+      "title": "Mitomycin C-Based Hyperthermic Intraperitoneal Chemotherapy Improves Survival in Colorectal Cancer With Peritoneal Metastasis",
+      "authors": [
+        {
+          "name": "Chayanit Sirisai",
+          "id": "88404319"
+        },
+        {
+          "name": "Hathaiwan Moungthard",
+          "id": "2046761656"
+        },
+        {
+          "name": "Kitinut Timudom",
+          "id": "2407185862"
+        },
+        {
+          "name": "Saipan Khunpakdee",
+          "id": "2317582788"
+        }
+      ],
+      "year": 2026,
+      "venue": "Cureus",
+      "score": 0.4934130841279762,
+      "abstract": "Background: Colorectal cancer (CRC) with peritoneal metastasis is associated with poor prognosis despite advances in systemic chemotherapy and targeted therapies. Hyperthermic intraperitoneal chemotherapy (HIPEC) aims to eradicate free cancer cells within the peritoneal cavity and may improve survival outcomes. This study evaluated the efficacy and safety of mitomycin C (MMC)-based HIPEC in patients with CRC and isolated peritoneal metastasis. Methods: Patients with CRC and peritoneal metastasis treated between November 2018 and January 2024 were retrospectively reviewed. Patients undergoing CRS followed by MMC-based HIPEC were compared with those managed without HIPEC. Clinicopathologic characteristics, perioperative outcomes, postoperative morbidity, and oncologic outcomes were analyzed. Results: A total of 48 patients were included. The mean intraoperative Peritoneal Cancer Index was 9 (range, 2-33). Complete cytoreduction 0 was achieved in 29 patients (93.5%) who underwent CRS and HIPEC. Postoperative complications occurred in 10 patients (20.8%), with anastomotic leakage requiring reoperation in four patients (8.3%). Median overall survival was significantly longer in the HIPEC group compared with the non-HIPEC group (54.2 vs. 24.5 months, HR 0.30; 95% confidence interval [CI], 0.15-0.61; p < 0.001). The five-year overall survival rate was 47.9% in the HIPEC group vs. 4.9% in the non-HIPEC group. Median progression-free survival following HIPEC was 29.6 months (95% CI, 24.2-34.8). HIPEC was significantly associated with improved overall survival on multivariable analysis. Conclusion: CRS combined with MMC-based HIPEC provides a significant survival benefit for selected patients with colorectal cancer and isolated peritoneal metastasis. These findings support the role of MMC-based HIPEC as an effective locoregional treatment strategy.",
+      "corpusId": 285097937,
+      "url": "https://api.semanticscholar.org/CorpusId:285097937",
+      "pubmed_id": "41608258",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.7759/cureus.102405",
+        "matched_title": "Mitomycin C-Based Hyperthermic Intraperitoneal Chemotherapy Improves Survival in Colorectal Cancer With Peritoneal Metastasis.",
+        "matched_pubdate": "2026 Jan",
+        "matched_source": "Cureus"
+      }
+    },
+    {
+      "title": "Hyperthermic intraperitoneal chemotherapy for gastric cancer with peritoneal metastasis: A multicenter propensity score-matched cohort study",
+      "authors": [
+        {
+          "name": "Z. Lei",
+          "id": "14591504"
+        },
+        {
+          "name": "Jiahong Wang",
+          "id": "2110182563"
+        },
+        {
+          "name": "Zhi Li",
+          "id": "2118214317"
+        },
+        {
+          "name": "Baozhong Li",
+          "id": "7480557"
+        },
+        {
+          "name": "Jiali Luo",
+          "id": "2141243492"
+        },
+        {
+          "name": "Xue-jun Wang",
+          "id": "2108018508"
+        },
+        {
+          "name": "Jin Wang",
+          "id": "2143718856"
+        },
+        {
+          "name": "Mingchen Ba",
+          "id": "38904339"
+        },
+        {
+          "name": "Hong-sheng Tang",
+          "id": "4546676"
+        },
+        {
+          "name": "Qingjun He",
+          "id": "122828694"
+        },
+        {
+          "name": "Quanxing Liao",
+          "id": "51081583"
+        },
+        {
+          "name": "Xiansheng Yang",
+          "id": "1905846586"
+        },
+        {
+          "name": "T. Guan",
+          "id": "5070973"
+        },
+        {
+          "name": "Han Liang",
+          "id": "2401272497"
+        },
+        {
+          "name": "S. Cui",
+          "id": "145616918"
+        },
+        {
+          "name": "the Chinese Peritoneal Oncology Study Group",
+          "id": "2272377476"
+        }
+      ],
+      "year": 2020,
+      "venue": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
+      "score": 0.49087135839825324,
+      "abstract": "Objective Systemic chemotherapy has limited efficacy in the treatment of peritoneal metastasis (PM) in gastric cancer (GC). Hyperthermic intraperitoneal chemotherapy (HIPEC) combined with complete cytoreductive surgery (CRS) has shown promising outcomes but remains controversial. The present study aimed to evaluate the safety and efficacy of HIPEC without CRS in GC patients with PM. Methods This retrospective propensity score-matched multicenter cohort study included GC patients with PM treated with either chemotherapy alone (Cx group) or with HIPEC combined with chemotherapy (HIPEC-Cx group) in four Chinese high-volume gastric medical centers between 2010 and 2017. The primary outcomes were median survival time (MST) and 3-year overall survival (OS). Propensity score matching was performed to compensate for controlling potential confounding effects and selection bias. Results Of 663 eligible patients, 498 were matched. The MST in the Cx and HIPEC-Cx groups was 10.8 and 15.9 months, respectively [hazard ratio (HR)=0.71, 95% confidence interval (95% CI), 0.58−0.88; P=0.002]. The 3-year OS rate was 10.1% (95% CI, 5.4%−14.8%) and 18.4% (95% CI, 12.3%−24.5%) in the Cx and HIPEC-Cx groups, respectively (P=0.017). The complication rates were comparable. The time to first flatus and length of hospital stay for patients undergoing HIPEC combined with chemotherapy was longer than that of chemotherapy alone (4.6±2.4 dvs. 2.7±1.8 d, P<0.001; 14.2±5.8 dvs. 11.4±7.7 d, P<0.001), respectively. The median follow-up period was 33.2 months. Conclusions Compared with standard systemic chemotherapy, HIPEC combined with chemotherapy revealed a statistically significant survival benefit for GC patients with PM, without compromising patient safety.",
+      "corpusId": 231593118,
+      "url": "https://api.semanticscholar.org/CorpusId:231593118",
+      "pubmed_id": "33447001",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.21147/j.issn.1000-9604.2020.06.12",
+        "matched_title": "Hyperthermic intraperitoneal chemotherapy for gastric cancer with peritoneal metastasis: A multicenter propensity score-matched cohort study.",
+        "matched_pubdate": "2020 Dec 31",
+        "matched_source": "Chin J Cancer Res"
+      }
+    },
+    {
+      "title": "Peritoneal carcinomatosis: patients selection, perioperative complications and quality of life related to cytoreductive surgery and hyperthermic intraperitoneal chemotherapy",
+      "authors": [
+        {
+          "name": "G. Glockzin",
+          "id": "5431226"
+        },
+        {
+          "name": "H. Schlitt",
+          "id": "39965396"
+        },
+        {
+          "name": "P. Piso",
+          "id": "4384190"
+        }
+      ],
+      "year": 2009,
+      "venue": "World Journal of Surgical Oncology",
+      "score": 0.4907437082180233,
+      "abstract": "BackgroundPeritoneal tumor dissemination arising from colorectal cancer, appendiceal cancer, gastric cancer, gynecologic malignancies or peritoneal mesothelioma is a common sign of advanced tumor stage or disease recurrence and mostly associated with poor prognosis.Methods and resultsIn the present review article preoperative workup, surgical technique, postoperative morbidity and mortality rates, oncological outcome and quality of life after CRS and HIPEC are reported regarding the different tumor entities.ConclusionCytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) provide a promising combined treatment strategy for selected patients with peritoneal carcinomatosis that can improve patient survival and quality of life. The extent of intraperitoneal tumor dissemination and the completeness of cytoreduction are the leading predictors of postoperative patient outcome. Thus, consistent preoperative diagnostics and patient selection are crucial to obtain a complete macroscopic cytoreduction (CCR-0/1).",
+      "corpusId": 15651544,
+      "url": "https://api.semanticscholar.org/CorpusId:15651544",
+      "pubmed_id": "19133112",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/1477-7819-7-5",
+        "matched_title": "Peritoneal carcinomatosis: patients selection, perioperative complications and quality of life related to cytoreductive surgery and hyperthermic intraperitoneal chemotherapy.",
+        "matched_pubdate": "2009 Jan 8",
+        "matched_source": "World J Surg Oncol"
+      }
+    },
+    {
+      "title": "Cytoreductive Surgery and Hyperthermic Intraperitoneal Chemotherapy in Gastric Cancer with Peritoneal Metastasis—Indian Experience",
+      "authors": [
+        {
+          "name": "Somashekhar S.P",
+          "id": "2069331289"
+        },
+        {
+          "name": "Jyothsana Karivedu",
+          "id": "2148633026"
+        },
+        {
+          "name": "R. C.",
+          "id": "2126844960"
+        },
+        {
+          "name": "R. Y",
+          "id": "2101564225"
+        },
+        {
+          "name": "Priya Kapoor",
+          "id": "2148550475"
+        },
+        {
+          "name": "A. Rauthan",
+          "id": "3891562"
+        },
+        {
+          "name": "Ashwin K.R.",
+          "id": "2392090761"
+        }
+      ],
+      "year": 2021,
+      "venue": "South Asian Journal of Cancer",
+      "score": 0.4886805937390709,
+      "abstract": "Abstract Ashwin K.R. Introduction  Peritoneal metastasis secondary to gastric cancer is associated with poor prognosis. Recent studies have shown that cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) may be an efficacious treatment option for an otherwise palliative condition. Methods  A retrospective single institutional study of patents diagnosed with gastric carcinoma and peritoneal metastasis and treated with CRS and HIPEC from February 2015 to December 2019. Results  Sixteen patients with gastric cancer and peritoneal carcinomatosis were treated with CRS and HIPEC. Three patients underwent upfront surgery, and five patients underwent interval surgery. The mean peritoneal cancer index (PCI) was 3.5, and adequate complete cytoreduction (CC) score of 0/1 was achieved in all patients. All patients received HIPEC with mitomycin C. Major surgical complications were in 12.5% of patients. Grade I surgical site infection was present in one patient. Three patients had prolonged gastrointestinal (GI) recovery. The 30-day mortality was zero. Median follow-up time was 39 months. The median progression-free survival (PFS) was 12 months (95% conﬁdence interval [CI] 6.86–17.13). The median overall survival (OS) was 17 months (95% CI 6.36–27.64). Conclusion  Multidisciplinary treatment of perioperative chemotherapy with CRS and HIPEC is a promising treatment option, which may prolong survival in selected patients, and large randomized clinical trials are warranted for it to become standard of care.",
+      "corpusId": 245646000,
+      "url": "https://api.semanticscholar.org/CorpusId:245646000",
+      "pubmed_id": "36466973",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1055/s-0041-1739176",
+        "matched_title": "Cytoreductive Surgery and Hyperthermic Intraperitoneal Chemotherapy in Gastric Cancer with Peritoneal Metastasis-Indian Experience.",
+        "matched_pubdate": "2022 Apr",
+        "matched_source": "South Asian J Cancer"
+      }
+    },
+    {
+      "title": "High-grade postoperative complications affect survival outcomes of patients with colorectal Cancer peritoneal metastases treated with Cytoreductive surgery and Hyperthermic Intraperitoneal chemotherapy",
+      "authors": [
+        {
+          "name": "Sicheng Zhou",
+          "id": "47707449"
+        },
+        {
+          "name": "Q. Feng",
+          "id": "47953586"
+        },
+        {
+          "name": "Jing Zhang",
+          "id": "49050498"
+        },
+        {
+          "name": "Haitao Zhou",
+          "id": "51341034"
+        },
+        {
+          "name": "Zheng Jiang",
+          "id": "144302214"
+        },
+        {
+          "name": "Zheng Liu",
+          "id": "49292896"
+        },
+        {
+          "name": "Zhaoxu Zheng",
+          "id": "7435408"
+        },
+        {
+          "name": "Hai-peng Chen",
+          "id": "49178196"
+        },
+        {
+          "name": "Zheng-kun Wang",
+          "id": "2145910521"
+        },
+        {
+          "name": "Jianwei Liang",
+          "id": "2205539307"
+        },
+        {
+          "name": "W. Pei",
+          "id": "50590421"
+        },
+        {
+          "name": "Qian Liu",
+          "id": "83875555"
+        },
+        {
+          "name": "Zhixiang Zhou",
+          "id": "8526062"
+        },
+        {
+          "name": "Xi-shan Wang",
+          "id": "50141168"
+        }
+      ],
+      "year": 2021,
+      "venue": "BMC Cancer",
+      "score": 0.4884226620294407,
+      "abstract": "This study aimed to evaluate the impact of postoperative complications on long-term survival in patients with peritoneal metastasis (PM) arising from colorectal cancer (CRC) treated with cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC). Patients with PM arising from CRC treated with CRS and HIPEC were systematically reviewed at the China National Cancer Center and Huanxing Cancer Hospital from June 2017 to June 2019. High-grade complications that occurred within 30 days were defined as grade 3 to 4 events according to the Common Terminology Criteria for Adverse Events (CTCAE) classification. Univariate and multivariable Cox regression models for overall survival were created. Predictors of high-grade postoperative complications were evaluated with univariate and multivariate logistic regression analyses. In all, 86 consecutive cases were included in this study. Forty-one patients (47.7%) developed postoperative complications, while 22 patients (25.6%) experienced high-grade complications. No mortality occurred during the postoperative period. The median survival of all patients was 25 months, and the estimated 3-year overall survival (OS) rate was 35.0%. In the multivariable Cox regression analysis, a high peritoneal carcinomatosis index (PCI) score (HR, 1.07, 95% CI, 1.01–1.14; P=0.015) and grade 3–4 postoperative complications (HR, 1.86, 95% CI, 1.22–3.51; P=0.044) correlated with worse overall survival. High estimated blood loss (OR, 1.01, 95% CI, 1.01–1.02; P< 0.001) was identified as an independent risk factor for developing high-grade complications. Careful patient selection, high levels of technical skill and improved perioperative management are crucial to ensure patient survival benefits after CRS+HIPEC.",
+      "corpusId": 255841056,
+      "url": "https://api.semanticscholar.org/CorpusId:255841056",
+      "pubmed_id": "33413223",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12885-020-07756-7",
+        "matched_title": "High-grade postoperative complications affect survival outcomes of patients with colorectal Cancer peritoneal metastases treated with Cytoreductive surgery and Hyperthermic Intraperitoneal chemotherapy.",
+        "matched_pubdate": "2021 Jan 7",
+        "matched_source": "BMC Cancer"
+      }
+    },
+    {
+      "title": "Morbidity and Mortality Outcomes of Cytoreductive Surgery and Hyperthermic Intraperitoneal Chemotherapy at a Single Institution in Japan",
+      "authors": [
+        {
+          "name": "A. Mizumoto",
+          "id": "46943593"
+        },
+        {
+          "name": "E. Canbay",
+          "id": "4432616"
+        },
+        {
+          "name": "M. Hirano",
+          "id": "34601639"
+        },
+        {
+          "name": "N. Takao",
+          "id": "40042229"
+        },
+        {
+          "name": "T. Matsuda",
+          "id": "50486128"
+        },
+        {
+          "name": "M. Ichinose",
+          "id": "34732959"
+        },
+        {
+          "name": "Y. Yonemura",
+          "id": "5439940"
+        }
+      ],
+      "year": 2012,
+      "venue": "Gastroenterology Research and Practice",
+      "score": 0.4856823207210146,
+      "abstract": "Background. Even though cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) are associated with a high morbidity and mortality rates, it has been reported that CRS and HIPEC improved survival of selected patients with peritoneal carcinomatosis. We aimed to report morbidity and mortality results of CRS and HIPEC from a single institution in Japan. Methods and Results. Total of 284 procedures of CRS were performed on patients with pseudomyxoma peritonei, peritoneal carcinomatosis (PC) from colon cancer and gastric cancer between 2007 and 2011 in our institution. The morbidity rate was 49% of all procedure, and grades I/II and grades III/IV complications were 28% and 17%, respectively. Most frequent complication was surgical site infections including intraabdominal abscess. The mortality rate was 3.5%, and reoperation was needed in 11% of all procedures. Univariate and multivariate analysis showed peritoneal carcinomatosis index (PCI) greater than 20 was the only significant factor for occurrence of postoperative complications (P < 0.01). In contrast, HIPEC significantly reduced postoperative complications (P < 0.05). Conclusions. The morbidity and mortality rates of our institution are comparable with previous reports that are in acceptable rates. Optimal patient selection such as patients with PCI less than 20 seems to be of paramount importance to CRS and HIPEC.",
+      "corpusId": 2758404,
+      "url": "https://api.semanticscholar.org/CorpusId:2758404",
+      "pubmed_id": "22778724",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2012/836425",
+        "matched_title": "Morbidity and mortality outcomes of cytoreductive surgery and hyperthermic intraperitoneal chemotherapy at a single institution in Japan.",
+        "matched_pubdate": "2012",
+        "matched_source": "Gastroenterol Res Pract"
+      }
+    },
+    {
+      "title": "Gastrointestinal Complications in 147 Consecutive Patients with Peritoneal Surface Malignancy Treated by Cytoreductive Surgery and Perioperative Intraperitoneal Chemotherapy",
+      "authors": [
+        {
+          "name": "Á. Casado-Adam",
+          "id": "1402239251"
+        },
+        {
+          "name": "Robert Alderman",
+          "id": "39993065"
+        },
+        {
+          "name": "O. Stuart",
+          "id": "5267679"
+        },
+        {
+          "name": "D. Chang",
+          "id": "1694884"
+        },
+        {
+          "name": "P. Sugarbaker",
+          "id": "4159826"
+        }
+      ],
+      "year": 2011,
+      "venue": "International Journal of Surgical Oncology",
+      "score": 0.4831108085465781,
+      "abstract": "Cytoreductive surgery (CRS) combined with hyperthermic intraperitoneal chemotherapy (HIPEC) is increasingly used in the treatment of peritoneal carcinomatosis from gastrointestinal malignancies. The purpose of this study is to reevaluate the incidence of gastrointestinal events and identify risk factors associated with this treatment approach. Between January 1, 2006 and December 31, 2009, 147 patients with appendiceal and colorectal carcinomatosis were treated. Gastrointestinal events were analyzed. The overall incidence of grade I–IV gastrointestinal events was 17%. There were 4 grade III gastrointestinal events that occurred in 4 patients and 11 grade IV gastrointestinal events that occurred in 8 patients. On univariate analysis of grade I–IV events a statistically significant association was observed with the following variables: histological grade, peritoneal cancer index (PCI), small bowel resection, colorectal anastomosis, and the number of anastomoses performed per patient. By multivariate analysis, PCI was identified as the only independent risk factor for gastrointestinal complications. CRS combined with a uniform HIPEC regimen is associated with a 17% gastrointestinal morbidity rate (grade I–IV). The frequency of gastrointestinal complications was associated with a large extent of disease measured by PCI (>30).",
+      "corpusId": 14610743,
+      "url": "https://api.semanticscholar.org/CorpusId:14610743",
+      "pubmed_id": "22312509",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2011/468698",
+        "matched_title": "Gastrointestinal complications in 147 consecutive patients with peritoneal surface malignancy treated by cytoreductive surgery and perioperative intraperitoneal chemotherapy.",
+        "matched_pubdate": "2011",
+        "matched_source": "Int J Surg Oncol"
+      }
+    },
+    {
+      "title": "Clinical Efficacy and Safety of Hyperthermic Intraperitoneal Chemotherapy in Colorectal Cancer Patients at High Risk of Peritoneal Carcinomatosis: A Systematic Review and Meta-Analysis",
+      "authors": [
+        {
+          "name": "P. Zhao",
+          "id": "1978097249"
+        },
+        {
+          "name": "Shidong Hu",
+          "id": "2192525049"
+        },
+        {
+          "name": "Yuxuan Li",
+          "id": "1979088958"
+        },
+        {
+          "name": "R. Yao",
+          "id": "4650587"
+        },
+        {
+          "name": "C. Ren",
+          "id": "144533002"
+        },
+        {
+          "name": "Changzheng He",
+          "id": "145126774"
+        },
+        {
+          "name": "Song-yan Li",
+          "id": "8079033"
+        },
+        {
+          "name": "Yu-feng Wang",
+          "id": "2108111057"
+        },
+        {
+          "name": "Yong-ming Yao",
+          "id": "34420848"
+        },
+        {
+          "name": "Xiao-hui Huang",
+          "id": "2284445242"
+        },
+        {
+          "name": "Xiao-hui Du",
+          "id": "46993377"
+        }
+      ],
+      "year": 2020,
+      "venue": "Frontiers in Surgery",
+      "score": 0.4785952508915487,
+      "abstract": "Background: Hyperthermic intraperitoneal chemotherapy (HIPEC) is an effective measure for improving the prognosis of colorectal cancer (CRC) patients with peritoneal carcinomatosis (PC). However, the role of HIPEC in CRC patients at high risk of PC remains controversial. The current systematic review and meta-analysis aimed to evaluate the clinical efficacy and safety of HIPEC in CRC patients at high risk of PC. Methods: We performed a systematic search of PubMed, Embase, Cochrane Library, and other online databases up to July 30, 2020. The clinical data, including overall survival, disease free survival, peritoneal metastasis rate, and postoperative adverse reaction were screened and analyzed after data extraction. Risk ratios (RRs) were applied to analyze these dichotomous outcomes with a random effects model. Results: A total of 6 available clinical studies involving 603 patients were finally included. CRC patients at high risk of PC who proactively underwent HIPEC treatment showed a significantly reduced peritoneal metastasis rate (RR: 0.41, 95% CI: 0.21–0.83, P = 0.01; I2 = 58%) compared to the similarly high-risk in CRC patients who did not receive HIPEC treatment. However, in terms of overall survival (RR: 1.13, 95% CI: 0.97–1.33, P = 0.12; I2 = 77%), disease-free survival (RR: 1.10, 95% CI: 0.75–1.59, P = 0.63; I2 = 53%), progression free survival (RR: 1.85, 95% CI: 0.48–7.14, P = 0.37; I2 = 93%), and postoperative adverse reactions (RR: 0.1.07, 95% CI: 0.36–3.15, P = 0.90; I2 = 78%), there was no significant difference between the HIPEC treatment and control groups. Conclusions: Proactive HIPEC treatment did not show the expected clinical efficacy in prolonging the overall survival time, disease-free survival time, and progression-free survival time of CRC patients at high risk of PC. However, the preemptive administration of HIPEC was associated with a reduced peritoneal metastasis rate and did not cause adverse additional postoperative effects.",
+      "corpusId": 226967596,
+      "url": "https://api.semanticscholar.org/CorpusId:226967596",
+      "pubmed_id": "33282908",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fsurg.2020.590452",
+        "matched_title": "Clinical Efficacy and Safety of Hyperthermic Intraperitoneal Chemotherapy in Colorectal Cancer Patients at High Risk of Peritoneal Carcinomatosis: A Systematic Review and Meta-Analysis.",
+        "matched_pubdate": "2020",
+        "matched_source": "Front Surg"
+      }
+    },
+    {
+      "title": "Gastric cancer: prevention and treatment of peritoneal metastases",
+      "authors": [
+        {
+          "name": "P. Sugarbaker",
+          "id": "4159826"
+        }
+      ],
+      "year": 2018,
+      "venue": "unknown",
+      "score": 0.4721196520845565,
+      "abstract": "Gastric cancer is an aggressive malignancy that may metastasize through the bloodstream to the liver, through lymphatics to regional lymph nodes, or by penetration of the peritoneal lining of the stomach to result in seeding of the abdominal and pelvis surfaces. Peritoneal metastases are the most common mode of cancer dissemination. Technologies to prevent or treat peritoneal metastases from advanced gastric cancer are presented in this manuscript. The world’s literature, both recent and over the past three decades, was reviewed in order to identify publications that present information regarding gastric cancer peritoneal metastases. Over one dozen randomized controlled trials to test perioperative chemotherapy for prevention of peritoneal metastases were reviewed. All of the trials performed with regional chemotherapy during or shortly after gastrectomy were positive. The clinical data regarding the treatment of peritoneal metastases diagnosed at the time of primary cancer resection or in follow-up were reviewed. Neoadjuvant intraperitoneal and systemic chemotherapy shows that some long-term survivors occur after these treatments were combined with cytoreductive surgery and gastrectomy. Similar treatments are advocated for primary gastric cancer with cytology positive for gastric cancer but no visible implants. Surgery for gastric cancer should be combined with perioperative systemic and regional chemotherapy in order to maximally benefit patients with this disease by reducing the negative impact of peritoneal metastases on survival.",
+      "corpusId": 56748346,
+      "url": "https://api.semanticscholar.org/CorpusId:56748346",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Pulmonary Insufficiency after Cytoreductive Surgery and Hyperthermic Intraperitoneal Chemotherapy Procedures for Peritoneal Carcinomatosis in Patients with Colon Cancer: A Case Report and Literature Review",
+      "authors": [
+        {
+          "name": "Lukoseviciene",
+          "id": "117195914"
+        },
+        {
+          "name": "P. Miliauskas",
+          "id": "4529308"
+        },
+        {
+          "name": "R. Tikuišis",
+          "id": "4697767"
+        },
+        {
+          "name": "G. Rudinskaitė",
+          "id": "3742758"
+        },
+        {
+          "name": "N. Samalavičius",
+          "id": "5330628"
+        },
+        {
+          "name": "R. Sumauskas",
+          "id": "82032254"
+        }
+      ],
+      "year": 2015,
+      "venue": "unknown",
+      "score": 0.4698658855879479,
+      "abstract": "Cytoreductive surgery (CRS) with hyperthermic intraperitoneal chemotherapy (HIPEC) has emerged as an efficient treatment for patients with colorectal peritoneal metastases (PM). Pulmonary adverse events (AEs) are common after CRS and HIPEC. This report covers the case of a pulmonary adverse event, ARDS (acute respiratory distress syndrome), and its effect on the postoperative recovery process. Cytoreductive surgery with HIPEC was performed on a 68-year-old woman E. G. with carcinoma coecum and carcinomatosis. On the first day after surgery, the patient was not extubated because of respiratory insufficiency. We chose the liberal fluid management in order to maintain adequate organ perfusion, but this strategy might have influenced the outcome in this patient. Throughout the procedure that lasted 16 hours and 25 minutes the total dosage of the IV infusion was 19.7 ml/kg/h. ARDS was diagnosed based on chest radiography, oxygenation ratio, and the absence of left atrial hypertension. The patient was extubated after eleven days of ventilation. After that we started using advanced hemodynamic monitoring (esophageal Doppler) as a part of the goal-directed therapy to reduce postoperative complications and get a better outcome. The amount of fluids used during cytoreductive surgery with HIPEC may influence the postoperative pulmonary adverse event; in our case – ARDS. Cardiac output allows safer fluid titration. The goal-directed fluid therapy with advanced hemodynamic management may help in reducing the number of pulmonary adverse events after cytoreduvtive surgery with HIPEC.",
+      "corpusId": 15398268,
+      "url": "https://api.semanticscholar.org/CorpusId:15398268",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Advancing gastric cancer treatment: A comprehensive review of hyperthermic intraperitoneal chemotherapy’s role and outcomes",
+      "authors": [
+        {
+          "name": "F. D’acapito",
+          "id": "1411009270"
+        },
+        {
+          "name": "M. Framarini",
+          "id": "6279986"
+        },
+        {
+          "name": "P. Morgagni",
+          "id": "6875581"
+        },
+        {
+          "name": "D. Di Pietrantonio",
+          "id": "11796259"
+        },
+        {
+          "name": "G. Vittimberga",
+          "id": "5103515"
+        },
+        {
+          "name": "V. Zucchini",
+          "id": "2231995263"
+        },
+        {
+          "name": "G. Ercolani",
+          "id": "2262752641"
+        }
+      ],
+      "year": 2025,
+      "venue": "World Journal of Clinical Oncology",
+      "score": 0.45026937171244763,
+      "abstract": "BACKGROUND Peritoneal metastases (PM) represent the most frequent and lethal form of dissemination in advanced gastric cancer (GC), with limited efficacy of systemic chemotherapy [median overall survival (OS): 2-9 months]. Over the past decades, hyperthermic intraperitoneal chemotherapy (HIPEC), often combined with cytoreductive surgery (CRS), has emerged as a locoregional strategy to improve peritoneal disease control. Retrospective studies have suggested promising survival benefits (median OS: 18.8 months); however, conflicting results from prospective trials have limited its widespread adoption. This systematic review hypothesizes that selected patients with advanced or high-risk GC may benefit from HIPEC and evaluates whether such benefits have been confirmed in recent prospective evidence. AIM To evaluate the role and outcomes of HIPEC in advanced and high-risk GC through a systematic review of prospective trials. METHODS A systematic review of prospective randomized and controlled clinical trials (2010-2024) was performed in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews guidelines. Studies were selected from PubMed, Cochrane, Scopus, and ClinicalTrials.gov. No geographical restrictions were applied in the search process. Eligible studies included patients with advanced GC (T3+, positive peritoneal cytology/PM) receiving HIPEC in either therapeutic or prophylactic settings. Exclusion criteria included retrospective studies, single-arm trials, and those lacking survival outcomes. Risk of bias was assessed using Risk of Bias 2.0 and Risk of Bias in Non-Randomized Studies of Interventions tools; sensitivity and heterogeneity analyses were also conducted. RESULTS Thirteen prospective studies (eight therapeutic, five prophylactic) were included. In therapeutic settings, CRS combined with HIPEC yielded a median OS of 11-24.9 months vs 4-6 months with systemic therapy alone. Completeness of cytoreduction (CC-0) was achieved in 67.3% of cases, and associated with improved disease-free survival. In prophylactic settings, HIPEC significantly reduced peritoneal recurrence, particularly in T4 tumors. Sensitivity analyses confirmed robustness of findings, though benefit was driven by a few key trials. Heterogeneity was moderate across studies; lack of standardized HIPEC protocols and patient selection criteria limited comparability. CONCLUSION HIPEC may improve survival and reduce recurrence in selected GC patients, particularly those with low peritoneal burden and CC-0 resection. Further standardization and prospective trials are needed.",
+      "corpusId": 281553707,
+      "url": "https://api.semanticscholar.org/CorpusId:281553707",
+      "pubmed_id": "40221742",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s13017-025-00601-x",
+        "matched_title": "A systematic review of the predictive factors for the recurrence of acute pancreatitis.",
+        "matched_pubdate": "2025 Apr 12",
+        "matched_source": "World J Emerg Surg"
+      }
+    },
+    {
+      "title": "Prognostic value and adverse events of cytoreductive surgery with hyperthermic intraperitoneal chemotherapy in primary advanced and platinum-sensitive recurrent epithelial ovarian cancer: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "Yu Xia",
+          "id": "2111275255"
+        },
+        {
+          "name": "Heidy Wang",
+          "id": "2149694790"
+        },
+        {
+          "name": "Jing Zhang",
+          "id": "49050498"
+        },
+        {
+          "name": "Yongjun Wang",
+          "id": "2108097175"
+        }
+      ],
+      "year": 2023,
+      "venue": "International Journal of Hyperthermia",
+      "score": 0.4497590197860765,
+      "abstract": "Abstract Background The original meta-analysis of hyperthermic intraperitoneal chemotherapy (HIPEC) is already outdated, owing to the latest trial results. This study aimed to clarify the efficacy and adverse events of cytoreductive surgery with HIPEC compared to conventional therapy for advanced and platinum-sensitive recurrent epithelial ovarian cancer (OC). Methods In this meta-analysis, phase II/III controlled trials regarding ‘HIPEC’ and ‘ovarian cancer’ were searched for in electronic databases from inception to March 2022. Results Twenty-one studies were included in the quantitative synthesis. The pooled hazard ratio [HR] in the HIPEC group for progression-free survival (PFS) (HR = 0.61, 95% confidence interval [CI]: 0.45–0.83, p = .002) and overall survival (OS) (HR = 0.65, 95% CI: 0.51–0.82, p < .001) were improved in the HIPEC group compared with the non-HIPEC group. For primary advanced disease, OS and PFS were significantly increased in patients receiving interval debulking surgery + HIPEC, whereas PFS was not significantly different between primary debulking surgery (PDS) + HIPEC and PDS alone. For platinum-sensitive recurrent disease, no correlation was observed for PFS and OS between the HIPEC and non-HIPEC groups (p < .05). The incidence of procedure-related complications was higher in the HIPEC group than in the non-HIPEC group (odds ratio = 1.93, 95% CI: 1.24–3.01, p < .01). The morbidity of leukopenia, neutropenia, nausea, hypoalbuminemia, and grades III–IV electrolyte disturbance was higher in the HIPEC group than in the non-HIPEC group. However, HIPEC administration reduced the risk of intra-abdominal bleeding and constipation. Conclusion HIPEC-based regimens improved the clinical prognosis for primary advanced OC, whereas no significant value was elicited for recurrent OC.",
+      "corpusId": 256826615,
+      "url": "https://api.semanticscholar.org/CorpusId:256826615",
+      "pubmed_id": "36775583",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1080/02656736.2023.2165729",
+        "matched_title": "Prognostic value and adverse events of cytoreductive surgery with hyperthermic intraperitoneal chemotherapy in primary advanced and platinum-sensitive recurrent epithelial ovarian cancer: a systematic review and meta-analysis.",
+        "matched_pubdate": "2023",
+        "matched_source": "Int J Hyperthermia"
+      }
+    },
+    {
+      "title": "Evaluation of the feasibility, safety, and preliminary effectiveness of hyperthermic intraperitoneal chemotherapy following radical surgery for locally advanced gastric cancer",
+      "authors": [
+        {
+          "name": "Tianze Zhang",
+          "id": "2337088397"
+        },
+        {
+          "name": "Hang Yu",
+          "id": "2262112121"
+        },
+        {
+          "name": "Lang Wang",
+          "id": "2358802984"
+        },
+        {
+          "name": "Shijun Zhao",
+          "id": "2358284197"
+        },
+        {
+          "name": "Cheng Zhao",
+          "id": "2359650914"
+        },
+        {
+          "name": "Jie Chai",
+          "id": "2278250947"
+        },
+        {
+          "name": "Dehai Wang",
+          "id": "2382704744"
+        }
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Oncology",
+      "score": 0.4467376339201007,
+      "abstract": "Objective To explore the feasibility, safety, and potential association between hyperthermic intraperitoneal chemotherapy (HIPEC) and peritoneal recurrence in patients with locally advanced gastric cancer following D2 radical surgery. Materials and methods A retrospective analysis was conducted on 156 patients with locally advanced gastric cancer treated with D2 surgery at two centers between 2014 and 2023. Clinical outcomes and adverse events were assessed. Results Baseline characteristics were comparable between the HIPEC group (n = 70) and the surgery-only group (n = 86). The 2-year peritoneal recurrence rate was lower in the HIPEC group (18.6% vs. 34.9%, P=0.0206). Several factors—including high Charlson Comorbidity Index, advanced T stage, vascular invasion, intraoperative blood loss, and absence of HIPEC—were associated with higher recurrence risk. No significant differences were observed in perioperative complications between the groups or among different HIPEC frequencies (all P > 0.05). Conclusion In this real-world dual-center study, HIPEC following D2 surgery was found to be feasible and safe, and was associated with a reduced risk of peritoneal recurrence in patients with locally advanced gastric cancer. These observational findings warrant further validation in randomized controlled trials.",
+      "corpusId": 281501591,
+      "url": "https://api.semanticscholar.org/CorpusId:281501591",
+      "pubmed_id": "40994944",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fonc.2025.1498388",
+        "matched_title": "Evaluation of the feasibility, safety, and preliminary effectiveness of hyperthermic intraperitoneal chemotherapy following radical surgery for locally advanced gastric cancer.",
+        "matched_pubdate": "2025",
+        "matched_source": "Front Oncol"
+      }
+    },
+    {
+      "title": "Efficacy and safety of sequential hyperthermic intraperitoneal chemotherapy following surgery for pathological T staging 4 gastric cancer",
+      "authors": [
+        {
+          "name": "Wei-Long Lian",
+          "id": "2364300709"
+        },
+        {
+          "name": "L. Cai",
+          "id": "2364365154"
+        },
+        {
+          "name": "Ming-Qiao Lian",
+          "id": "2298019555"
+        },
+        {
+          "name": "Ming-Jie Lian",
+          "id": "2369226849"
+        },
+        {
+          "name": "Yu-qin Sun",
+          "id": "2295927148"
+        },
+        {
+          "name": "C. Lv",
+          "id": "2362907862"
+        },
+        {
+          "name": "Guoping Huang",
+          "id": "2410695644"
+        },
+        {
+          "name": "Rong-Jie Huang",
+          "id": "2365510544"
+        },
+        {
+          "name": "Yong-Bin Zhang",
+          "id": "2298206001"
+        },
+        {
+          "name": "Wei-Ming Zeng",
+          "id": "2298011957"
+        },
+        {
+          "name": "Qian-Hui Xu",
+          "id": "2364677243"
+        },
+        {
+          "name": "Quan-Jian Zhu",
+          "id": "2408975571"
+        },
+        {
+          "name": "Qiu-Xian Chen",
+          "id": "2316240668"
+        }
+      ],
+      "year": 2026,
+      "venue": "World Journal of Gastroenterology",
+      "score": 0.44642940655041424,
+      "abstract": "BACKGROUND Peritoneal metastasis influences prognosis and quality of life in patients with gastric cancer. The efficacy of hyperthermic intraperitoneal chemotherapy (HIPEC) as postoperative adjuvant therapy for advanced gastric cancer remains unclear. AIM To evaluate the efficacy and safety of HIPEC plus postoperative adjuvant chemotherapy (AC) for locally advanced gastric cancer. METHODS We analyzed 225 patients with gastric cancer who underwent radical surgery, categorized by those receiving HIPEC plus AC (HIPEC + AC group) and those receiving AC alone (AC group). Treatments were administered every other day, for a total of one to three sessions. Overall survival, disease-free survival (DFS), disease-free interval, peritoneal metastasis-free interval, and safety outcomes were compared between the groups. Survival analysis was performed using Kaplan-Meier curves with log-rank tests for group comparisons. RESULTS In total, 225 patients with non-metastatic pathological T staging 4 gastric adenocarcinoma were included (HIPEC + AC group, n = 96; AC group, n = 129). Propensity score matching balanced between-group baseline characteristics. The incidence of treatment-related adverse reactions did not differ significantly between groups. With median follow-up durations of 68.00 months (HIPEC + AC group) and 56.00 months (AC group), the HIPEC + AC group demonstrated better 3-year DFS (69.0% vs 50.0%) and longer disease-free interval and peritoneal metastasis-free interval. Three-year overall survival did not differ significantly (74.0% vs 65.0%). The median survival was 50 months in the AC group, but remained unreached in the HIPEC + AC group (cumulative survival > 50%). CONCLUSION HIPEC plus postoperative AC improves DFS and reduces peritoneal metastasis risk in non-metastatic pathological T staging 4 gastric adenocarcinoma without increasing adverse events, confirming its safety and efficacy in preventing recurrence and dissemination.",
+      "corpusId": 285327779,
+      "url": "https://api.semanticscholar.org/CorpusId:285327779",
+      "pubmed_id": "41695288",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3748/wjg.v32.i6.115556",
+        "matched_title": "Efficacy and safety of sequential hyperthermic intraperitoneal chemotherapy following surgery for pathological T staging 4 gastric cancer.",
+        "matched_pubdate": "2026 Feb 14",
+        "matched_source": "World J Gastroenterol"
+      }
+    },
+    {
+      "title": "Repeated Cytoreduction Combined with Hyperthermic Intraperitoneal Chemotherapy (HIPEC) in Selected Patients Affected by Peritoneal Metastases: Italian PSM Oncoteam Evidence",
+      "authors": [
+        {
+          "name": "E. Pasqual",
+          "id": "6285817"
+        },
+        {
+          "name": "A. Londero",
+          "id": "39908931"
+        },
+        {
+          "name": "M. Robella",
+          "id": "4344168"
+        },
+        {
+          "name": "M. Tonello",
+          "id": "6791971"
+        },
+        {
+          "name": "A. Sommariva",
+          "id": "30305391"
+        },
+        {
+          "name": "M. De Simone",
+          "id": "39207294"
+        },
+        {
+          "name": "S. Bacchetti",
+          "id": "46817400"
+        },
+        {
+          "name": "G. Baiocchi",
+          "id": "51999590"
+        },
+        {
+          "name": "S. Asero",
+          "id": "12681660"
+        },
+        {
+          "name": "F. Coccolini",
+          "id": "4801312"
+        },
+        {
+          "name": "F. De Cian",
+          "id": "4615501"
+        },
+        {
+          "name": "M. Guaglio",
+          "id": "11602663"
+        },
+        {
+          "name": "A. Cinquegrana",
+          "id": "46564378"
+        },
+        {
+          "name": "Carola Cenzi",
+          "id": "31691712"
+        },
+        {
+          "name": "S. Scaringi",
+          "id": "3687121"
+        },
+        {
+          "name": "A. Macrì",
+          "id": "8049312"
+        }
+      ],
+      "year": 2023,
+      "venue": "Cancers",
+      "score": 0.4449354605670137,
+      "abstract": "Simple Summary Iterative cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) in patients with peritoneal metastases remain controversial regarding safety and efficacy. In this multicentric experience, we found no increased complications after the second or third procedure. Promising survival results were also observed. These data encourage iterative CRS and HIPEC, showing reassuring safety and efficacy data. It should represent a tailored treatment-strategy for selected patients. Abstract The reiteration of surgical cytoreduction (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) in patients affected by recurrent peritoneal metastases is still questioned regarding safety and effectiveness. This study evaluates the safety, efficacy, and associated factors of iterative CRS combined with HIPEC. This multicentric retrospective study collected data from four surgical oncology centers, on iterative HIPEC. We gathered data on patient and cancer characteristics, the peritoneal cancer index (PCI), completeness of cytoreduction (CC), postoperative complications, and overall survival (OS). In the study period, 141 CRS-plus-HIPECs were performed on 65 patients. Nine patients underwent three iterative procedures, and one underwent five. No increased incidence of complications after the second or third procedure was observed. Furthermore, operative time and hospitalization stay were significantly shorter after the second than after the first procedure (p < 0.05). Optimal cytoreduction was achieved in more than 90% of cases in each procedure, whether first, second, or third. A five-year (5 y) OS represented 100% of the cases of diffuse malignant-peritoneal-mesotheliomas, 81.39% of pseudomyxoma peritonei, 34.67% of colorectal cancer (CRC), and 52.50% of ovarian cancer. During the second CRS combined with HIPEC, we observed a lower rate of complete cytoreduction and a non-significantly better survival in cases with complete cytoreduction (5 y−OS CC−0 56.51% vs. 37.82%, p = 0.061). Concomitant hepatic-CRC-metastasis did not compromise the CRS-plus-HIPEC safety and efficacy. This multicentric experience encourages repeated CRS-plus-HIPEC, showing promising results.",
+      "corpusId": 256187531,
+      "url": "https://api.semanticscholar.org/CorpusId:256187531",
+      "pubmed_id": "36765565",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/cancers15030607",
+        "matched_title": "Repeated Cytoreduction Combined with Hyperthermic Intraperitoneal Chemotherapy (HIPEC) in Selected Patients Affected by Peritoneal Metastases: Italian PSM Oncoteam Evidence.",
+        "matched_pubdate": "2023 Jan 18",
+        "matched_source": "Cancers (Basel)"
+      }
+    },
+    {
+      "title": "Challenges following CRS and HIPEC surgery in cancer patients with peritoneal metastasis: a comprehensive review of clinical outcomes",
+      "authors": [
+        {
+          "name": "Mehdi Karimi",
+          "id": "2321431360"
+        },
+        {
+          "name": "Niyousha Shirsalimi",
+          "id": "2006566935"
+        },
+        {
+          "name": "Eshagh Sedighi",
+          "id": "2323247853"
+        }
+      ],
+      "year": 2024,
+      "venue": "Frontiers in Surgery",
+      "score": 0.44431736690937357,
+      "abstract": "Cytoreductive Surgery (CRS) and Hyperthermic Intraperitoneal Chemotherapy (HIPEC) are a pair of relatively modern therapeutic surgical methods in advanced cancerous patients with peritoneal metastasis (PM). The goal of CRS + HIPEC is treatment or to improve survival outcomes, which are linked to high morbidity side effects and complications, even with their possible advantages. Surgical-related, chemotherapy-related, anesthetic-related, gastrointestinal, organs and systemic complications are the categories into which complications are separated according to frequency, risk factors, and effect on patient outcomes. In this narrative review of the literature, the side effects and complications of HIPEC + CRS in cancer patients with PM are examined. The present knowledge on the incidence, frequency, kinds, and risk factors of acute complications following CRS + HIPEC is summarized in this study. This review emphasizes the need for careful patient selection criteria, precise surgical technique, and thorough intraoperative care to reduce or manage these risks. Moreover, it highlights the need for interdisciplinary collaboration in treating these patients. This study aims to know these complications, improve clinical practice, and guide future studies to increase the safety and efficacy of CRS + HIPEC in treating metastatic colorectal cancer.",
+      "corpusId": 274474050,
+      "url": "https://pdfs.semanticscholar.org/8f73/be1092fcb021ffe87677d2afc76679f7b981.pdf",
+      "pubmed_id": "39687325",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fsurg.2024.1498529",
+        "matched_title": "Challenges following CRS and HIPEC surgery in cancer patients with peritoneal metastasis: a comprehensive review of clinical outcomes.",
+        "matched_pubdate": "2024",
+        "matched_source": "Front Surg"
+      }
+    },
+    {
+      "title": "Side-effects of hyperthermic intraperitoneal chemotherapy in patients with gastrointestinal cancers",
+      "authors": [
+        {
+          "name": "Zhenxing Wang",
+          "id": "2108229267"
+        },
+        {
+          "name": "Xinrun Wang",
+          "id": "10737491"
+        },
+        {
+          "name": "Shucai Xie",
+          "id": "1740045091"
+        }
+      ],
+      "year": 2023,
+      "venue": "PeerJ",
+      "score": 0.4441469128129709,
+      "abstract": "Background Hyperthermic intraperitoneal chemotherapy (HIPEC) produces unwanted side-effects that are mainly caused by chemotherapeutic drugs in the treatment of gastrointestinal (GI) cancers, and these effects have not been systematically summarized. The aim of this article was to provide a comprehensive overview of the side-effects of HIPEC for GI cancers and propose practical strategies for adverse event management. Methodology PubMed, Web of Science, and the Cochrane Library were systematically searched for side-effects of HIPEC in GI cancers prior to October 20, 2022. A total of 79 articles were included in this review. Results Adverse events, such as enterocutaneous digestive fistulas, GI tract perforation, neutropenia, postoperative bleeding, ventricular tachycardia, hyperglycemia, hypocalcemia, renal impairment, encapsulating peritoneal sclerosis, scrotal ulceration, and sarcopenia were described, and their clinical management was discussed. These side-effects involve the digestive, hematopoietic, circulatory, metabolic, and urinary systems. Effective methods for adverse event management included an expert multidisciplinary team, replacing chemotherapy drugs, using Chinese medicine, and careful preoperative assessments. Conclusion The side-effects of HIPEC are frequent and can be minimized by several effective methods. This study proposes practical strategies for adverse event management of HIPEC to assist physicians in choosing the optimal treatment method.",
+      "corpusId": 258401782,
+      "url": "https://api.semanticscholar.org/CorpusId:258401782",
+      "pubmed_id": "37138820",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.7717/peerj.15277",
+        "matched_title": "Side-effects of hyperthermic intraperitoneal chemotherapy in patients with gastrointestinal cancers.",
+        "matched_pubdate": "2023",
+        "matched_source": "PeerJ"
+      }
+    },
+    {
+      "title": "Single versus multiple hyperthermic intraperitoneal chemotherapy applications for T4 gastric cancer patients: Efficacy and safety profiles",
+      "authors": [
+        {
+          "name": "J. Zhang",
+          "id": "2155697641"
+        },
+        {
+          "name": "Yue-min Sun",
+          "id": "2116970181"
+        },
+        {
+          "name": "Xiaofeng Bai",
+          "id": "1750928917"
+        },
+        {
+          "name": "Peng Wang",
+          "id": "2108815028"
+        },
+        {
+          "name": "Liang Tian",
+          "id": "2213654288"
+        },
+        {
+          "name": "Yantao Tian",
+          "id": "2125433289"
+        },
+        {
+          "name": "Y. Zhong",
+          "id": "12280801"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Oncology",
+      "score": 0.4417804027949167,
+      "abstract": "Objective To explore the clinical safety and efficacy of single and multiple applications of lobaplatin-based hyperthermic intraperitoneal chemotherapy (HIPEC) for patients with T4 gastric cancer and to evaluate the impact of HIPEC on peritoneal metastasis. Materials and methods We retrospectively reviewed prospectively collected data from T4 gastric cancer patients who underwent radical gastric resection plus HIPEC between March 2018 and August 2020 from the National Cancer Center and Huangxing Cancer Hospital. Patients who underwent radical surgery and HIPEC were divided into two groups: the single-HIPEC group (radical resection + a single application of intraoperative HIPEC with lobaplatin 50 mg/m2 at 43.0 ± 0.5°C for 60 min), and a multi-HIPEC group (two more HIPEC applications were performed after radical surgery). Results A total of 78 patients were enrolled in this two-center study; among them, 40 patients were in the single-HIPEC group, and 38 patients were in the multi-HIPEC group. The baseline characteristics were well balanced between the two groups. There was no significant difference in the postoperative complication rates between the two groups (P > 0.05). Mild renal dysfunction, mild liver dysfunction, low platelet levels and low white blood cell levels were recorded in both groups, without significant differences between the two groups (P > 0.05). After a mean follow-up of 36.8 months, 3 (7.5%) patients in the single-HIPEC group and 2 (5.2%) patients in the multi-HIPEC group experienced peritoneal recurrence (P > 0.05). Both groups had comparable 3-year overall survival (OS) (51.3% vs. 54.5%, P = 0.558) and 3-year disease-free survival (DFS) rates (44.1% vs. 45.7%, P = 0.975). Multivariate analysis showed that an age > 60 years and low preoperative albumin levels were independent risk factors for postoperative complications. Conclusion Single and multiple applications of HIPEC in patients with T4 gastric cancer were safe and feasible. Both groups had similar postoperative complication rates, 3-year OS rates and 3-year DFS rates. Special attention should be given to HIPEC for patients aged > 60 years and patients with low preoperative albumin levels.",
+      "corpusId": 257621444,
+      "url": "https://api.semanticscholar.org/CorpusId:257621444",
+      "pubmed_id": "37007142",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fonc.2023.1109633",
+        "matched_title": "Single versus multiple hyperthermic intraperitoneal chemotherapy applications for T4 gastric cancer patients: Efficacy and safety profiles.",
+        "matched_pubdate": "2023",
+        "matched_source": "Front Oncol"
+      }
+    },
+    {
+      "title": "Lobaplatin in Prophylactic Hyperthermic Intraperitoneal Chemotherapy for Advanced Gastric Cancer: Safety and Efficacy Profiles",
+      "authors": [
+        {
+          "name": "Y. Zhong",
+          "id": "12280801"
+        },
+        {
+          "name": "Jing Zhang",
+          "id": "49050498"
+        },
+        {
+          "name": "X. Bai",
+          "id": "47055553"
+        },
+        {
+          "name": "Yue-min Sun",
+          "id": "2116970181"
+        },
+        {
+          "name": "Hao Liu",
+          "id": "2143855873"
+        },
+        {
+          "name": "Shuai Ma",
+          "id": "1639030369"
+        },
+        {
+          "name": "Yang Li",
+          "id": "2154898911"
+        },
+        {
+          "name": "W. Kang",
+          "id": "51055884"
+        },
+        {
+          "name": "F. Ma",
+          "id": "10048453"
+        },
+        {
+          "name": "Weikun Li",
+          "id": "2108770918"
+        },
+        {
+          "name": "Yantao Tian",
+          "id": "2630968"
+        }
+      ],
+      "year": 2020,
+      "venue": "Cancer Management and Research",
+      "score": 0.4378022931304647,
+      "abstract": "Objective This study aims to evaluate the safety and efficacy of lobaplatin in prophylactic hyperthermic intraperitoneal chemotherapy (HIPEC) for advanced gastric cancer. Methods Advanced gastric cancer patients who underwent radical gastric resection and/or prophylactic HIPEC were systematically reviewed in our department from January 2016 to June 2017. All enrolled patients were grouped in either HIPEC or non-HIPEC groups. Clinical data were collected and analyzed. Results A total of 129 patients were enrolled with 61 cases in the HIPEC group and 68 in the non-HIPEC group. The two groups were well balanced in terms of clinical characteristics. In patients of the HIPEC group, three suffered leakage from the duodenal stump or anastomosis, one suffered abnormal bleeding and two were found to have abnormal routine blood tests; no significant difference in adverse events between groups, however, was noted (p > 0.05) and most patients recovered uneventfully. During follow-up, peritoneal recurrence was significantly less among HIPEC patients (p = 0.029), with only three suffering peritoneal recurrence, as compared to 12 non-HIPEC patients. In addition, the estimated illness-specific 3-year disease-free survival rate was significantly higher in the HIPEC group as compared to the non-HIPEC group (89.4% vs.73.9%; p = 0.031). Conclusion Lobaplatin in prophylactic HIPEC is safe for advanced gastric cancer patients after treatment by radical resection and can effectively improve illness-specific 3-year disease-free survival.",
+      "corpusId": 220365284,
+      "url": "https://api.semanticscholar.org/CorpusId:220365284",
+      "pubmed_id": "32636676",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2147/cmar.s249838",
+        "matched_title": "Lobaplatin in Prophylactic Hyperthermic Intraperitoneal Chemotherapy for Advanced Gastric Cancer: Safety and Efficacy Profiles.",
+        "matched_pubdate": "2020",
+        "matched_source": "Cancer Manag Res"
+      }
+    },
+    {
+      "title": "Efficacy analysis of prophylactic hyperthermic intraperitoneal chemotherapy in patients with locally advanced gastric cancer: a retrospective study",
+      "authors": [
+        {
+          "name": "Zhijie Gong",
+          "id": "2340398335"
+        },
+        {
+          "name": "Liping Zhou",
+          "id": "2339967486"
+        },
+        {
+          "name": "Yinghao He",
+          "id": "2339976425"
+        },
+        {
+          "name": "Jun Zhou",
+          "id": "2151552525"
+        },
+        {
+          "name": "Yanjie Deng",
+          "id": "2339980217"
+        },
+        {
+          "name": "Zudong Huang",
+          "id": "1962339933"
+        },
+        {
+          "name": "Weiwei Wang",
+          "id": "2339987773"
+        },
+        {
+          "name": "Qiangbang Yang",
+          "id": "2340017480"
+        },
+        {
+          "name": "Jian Pan",
+          "id": "2343786956"
+        },
+        {
+          "name": "Yingze Li",
+          "id": "2339924073"
+        },
+        {
+          "name": "Xiaolu Yuan",
+          "id": "2342105959"
+        },
+        {
+          "name": "Minghui Ma",
+          "id": "2277233629"
+        }
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Oncology",
+      "score": 0.4362726413577745,
+      "abstract": "Purpose This study aims to evaluate the effectiveness and safety of prophylactic hyperthermic intraperitoneal chemotherapy (P-HIPEC) in patients with locally advanced gastric cancer (AGC) after laparoscopic radical gastrectomy. Additionally, it explores how the frequency and timing of P-HIPEC influence treatment outcomes. Methods A retrospective analysis was conducted on 227 patients with locally AGC who underwent laparoscopic surgery at Maoming People’s Hospital from January 2016 to December 2022. Patients were stratified into the HIPEC group (n=101) and the non-HIPEC group (n=126), based on whether they received postoperative P-HIPEC. Propensity score matching (PSM) was used to adjust for baseline characteristics, facilitating a comparative analysis of survival outcomes, postoperative complications and recurrence patterns. Cox regression analysis was performed to identify prognostic factors. Furthermore, the impact of varying P-HIPEC frequencies and initiation timings was evaluated. Results No significant differences in overall survival (OS) or postoperative complication rates were observed between the two groups in the original and PSM cohorts. But the disease-free survival (DFS) of the HIPEC group was significantly higher than that of the non-HIPEC group (HR 0.569; 95% CI 0.362–0.894; p = 0.013) in the PSM cohort, with 1-year, 3-year, and 5-year DFS rates showing notable improvement (77.9% vs. 69.7%, 60.1% vs. 43.0%, and 46.2% vs. 25.5%). The incidence of isolated peritoneal metastasis (PM) was significantly lower in the HIPEC group (5.3% vs. 17.3%, p = 0.039). Multivariate Cox regression analysis identified P-HIPEC as an independent protective factor for DFS. Further analysis indicated that neither the number of P-HIPEC sessions had a significant impact on OS (p = 0.388) or DFS (p = 0.735), nor did the timing of P-HIPEC initiation affect OS (p = 0.620) or DFS (p = 0.488). Likewise, different P-HIPEC frequencies or initiation timings had no significant impact on postoperative complication rates or recurrence patterns. Conclusion P-HIPEC effectively reduces the risk of postoperative PM and improves DFS in patients with locally AGC without increasing postoperative complications. However, it does not significantly impact OS. Additionally, variations in the frequency and timing of P-HIPEC initiation do not significantly affect survival outcomes, postoperative complications, or recurrence patterns.",
+      "corpusId": 275489801,
+      "url": "https://api.semanticscholar.org/CorpusId:275489801",
+      "pubmed_id": "39850825",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fonc.2024.1503045",
+        "matched_title": "Efficacy analysis of prophylactic hyperthermic intraperitoneal chemotherapy in patients with locally advanced gastric cancer: a retrospective study.",
+        "matched_pubdate": "2024",
+        "matched_source": "Front Oncol"
+      }
+    },
+    {
+      "title": "A Retrospective Observational Study of Hyperthermic Intraperitoneal Chemotherapy for Gastric Cancer and Colorectal Cancer From a Single Center in the Recent 5 years",
+      "authors": [
+        {
+          "name": "Miao He",
+          "id": "2314093359"
+        },
+        {
+          "name": "Xiao-dong Li",
+          "id": "2370621959"
+        },
+        {
+          "name": "Zi-Wei Wang",
+          "id": "2267225237"
+        },
+        {
+          "name": "Hao Sun",
+          "id": "2322418783"
+        },
+        {
+          "name": "Jing Fan",
+          "id": "2313648342"
+        }
+      ],
+      "year": 2024,
+      "venue": "Cancer Control: Journal of the Moffitt Cancer Cente",
+      "score": 0.43608213640627086,
+      "abstract": "Objective To retrospectively analyze the effect of hyperthermic intraperitoneal chemotherapy (HIPEC) on the progression free survival (PFS) of advanced gastric cancer (GC) and colorectal cancer (CRC). Method We retrospectively collected all the HIPEC data of GC and CRC in the Chongqing University Cancer Hospital from August 2018 to April 2023. Data were extracted from inpatient records and outpatient examination records. The IBM SPSS statistics 23.0 software was used to analyze the data. We mainly compared the PFS of HIPEC cases with that of non-HIPEC cases (both from our center and from the literature). PFS was analyzed with the Kaplan-Meier method. Log Rank (Mantel Cox), Breslow (Generalized Wilcoxon), and Tarone-Ware were used for univariate analyses. Result A total of 342 HIPEC cases were analyzed in this study. Stage IV GC and CRC accounted for 48.5% of the total number of cases. Abdominal pain and distension (47.4%) were the most common side effects from HIPEC. Serious complications were rare (1.8%, including bleeding, perforation, obstruction, and death). The PFS and disease-free survival (DFS) of abdominal malignancy treated with HIPEC were significantly associated with the TNM stage, but not HIPEC numbers nor HIPEC drugs. In stage IV HIPEC cases, adding adjuvant chemotherapy after HIPEC resulted in better PFS. In addition, the association between peritoneal carcinomatosis index (PCI) and PFS of stage IV HIPEC cases was close to significant. Compared with the 33 stage IV (with peritoneal metastases) GC cases without HIPEC in our center from the last 15 years, the PFS of the 56 stage Ⅳ GC cases with HIPEC was not improved significantly (median PFS: 6 ± 2.92 months vs 7 ± 1.63 months for with vs without HIPEC in stage IV GC, respectively; P ≥ 0.05). Compared with the 58 stage IV (with peritoneal metastases) CRC cases without HIPEC in our center from the last 15 years, the PFS of the 86 stage IV CRC cases with HIPEC was not improved significantly either (median PFS: 7 ± 1.68 months vs 7 ± 0.62 months for with vs without HIPEC in stage IV CRC, respectively; P ≥ 0.05). When comparing our HIPEC data with the non-HIPEC data reported by other scholars for the PFS of advanced GC and CRC, the negative results were similar. Conclusion The PFS/DFS of HIPEC cases was associated with the TNM stage, but not with the HIPEC numbers or HIPEC drugs. PCI may be related to the PFS of stage IV HIPEC cases. Adding chemotherapy or targeted therapy after HIPEC may improve the PFS of stage IV cases. HIPEC did not significantly improve the PFS of stage IV GC or CRC cases in our center.",
+      "corpusId": 272727398,
+      "url": "https://api.semanticscholar.org/CorpusId:272727398",
+      "pubmed_id": "39292867",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1177/10732748241284535",
+        "matched_title": "A Retrospective Observational Study of Hyperthermic Intraperitoneal Chemotherapy for Gastric Cancer and Colorectal Cancer From a Single Center in the Recent 5 years.",
+        "matched_pubdate": "2024 Jan-Dec",
+        "matched_source": "Cancer Control"
+      }
+    },
+    {
+      "title": "Early and long-term postoperative management following cytoreductive surgery and hyperthermic intraperitoneal chemotherapy.",
+      "authors": [
+        {
+          "name": "D. Baratti",
+          "id": "5495700"
+        },
+        {
+          "name": "S. Kusamura",
+          "id": "4097487"
+        },
+        {
+          "name": "B. Laterza",
+          "id": "14558540"
+        },
+        {
+          "name": "M. R. Balestra",
+          "id": "40622369"
+        },
+        {
+          "name": "M. Deraco",
+          "id": "3531784"
+        }
+      ],
+      "year": 2010,
+      "venue": "World Journal of Gastrointestinal Oncology",
+      "score": 0.43436151405872514,
+      "abstract": "Peritoneal surface malignancies have been traditionally regarded as end-stage conditions amenable to merely palliative options. The combination of aggressive cytoreductive surgery (CRS), involving peritonectomy procedures and multivisceral resections, with intra-operative hyperthermic intra-peritoneal chemotherapy (HIPEC) and/or early postoperative intra-peritoneal chemotherapy (EPIC) to treat the microscopic residual tumor is a new concept. In recent years, promising results have been reported for peritoneal mesothelioma and carcinomatosis of gastrointestinal and gynaecologic origin treated by this combined protocol. However, CRS with HIPEC and/or EPIC is a complex procedure associated with high rates of potentially life-threatening complications. Furthermore, disease progression following comprehensive treatment is not uncommon and represents a relevant cause of treatment failure. The present paper reviews the available information on early postoperative management and long-term follow-up in patients treated with CRS and intraperitoneal chemotherapy. The peculiar clinical and biological alterations that can be expected during an uncomplicated postoperative course, as compared to standard digestive surgery, are discussed. Early recognition and appropriate management of the most common adverse events are addressed, in order to minimize the impact of treatment-related morbidity on survival and quality of life results. Since re-operative surgery with additional HIPEC, has proven to be useful in selected patients with recurrent disease, long-term surveillance aiming at early detection of postoperative disease progression has become a relevant issue. Current results on follow-up investigations are presented.",
+      "corpusId": 30465818,
+      "url": "https://pdfs.semanticscholar.org/32d9/6e9b4a57ec84ad9b3a3c9a4e90ddabd9c384.pdf",
+      "pubmed_id": "21160815",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.4251/wjgo.v2.i1.36",
+        "matched_title": "Early and long-term postoperative management following cytoreductive surgery and hyperthermic intraperitoneal chemotherapy.",
+        "matched_pubdate": "2010 Jan 15",
+        "matched_source": "World J Gastrointest Oncol"
+      }
+    },
+    {
+      "title": "Safety and Effectiveness of High-Precision Hyperthermic Intraperitoneal Perfusion Chemotherapy in Peritoneal Carcinomatosis: A Real-World Study",
+      "authors": [
+        {
+          "name": "Mingchen Ba",
+          "id": "38904339"
+        },
+        {
+          "name": "S. Cui",
+          "id": "145616918"
+        },
+        {
+          "name": "H. Long",
+          "id": "145532951"
+        },
+        {
+          "name": "Y. Gong",
+          "id": "23180457"
+        },
+        {
+          "name": "Yinbing Wu",
+          "id": "7861249"
+        },
+        {
+          "name": "Kun-peng Lin",
+          "id": "2113283577"
+        },
+        {
+          "name": "Yinuo Tu",
+          "id": "31822100"
+        },
+        {
+          "name": "Bohuo Zhang",
+          "id": "2404681192"
+        },
+        {
+          "name": "Wanbo Wu",
+          "id": "2116888500"
+        }
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Oncology",
+      "score": 0.43287921463823553,
+      "abstract": "Background Hyperthermic intraperitoneal chemotherapy (HIPEC) has been reported to effectively control peritoneal carcinomatosis (PC) in various patient populations, but there is a lack of real-world data. This study aimed to examine the safety and effectiveness of HIPEC in patients with PC in a real-world setting. Methods This was a retrospective study of patients with PC treated with the high-precision BR-TRG-I type HIPEC device between December 2006 and December 2016. Vital signs during HIPEC and adverse events were recorded. Effectiveness was evaluated by total objective remission rate (ORR), which was based on ascites’ remission 4 weeks after HIPEC. Results A total of 1,200 patients were included. There were 518 males and 682 females, with a mean age of 58.6 ± 6.5 years (range, 32–76 years). Among the patients, 93.6% of the patients (1123/1200) successfully received the three sessions of HIPEC, 158 had massive ascites. The changes of vital signs during HIPEC were within acceptable ranges, and patients only had a transient fever and abdominal distension. Regarding the HIPEC-related complications, hemorrhage was observed in seven (0.6%) patients, anastomotic leakage in four (0.5%), and intestinal obstruction in eight (0.7%). Nine (0.8%, 9/1200) patients had CTCAE grade IV bone marrow suppression, and three (0.3%, 3/1200) patients had severe renal failure (SRF), which were considered to be drug-related. The ORR of malignant ascites was 95.6% (151/158). Conclusion This real-world study strongly suggests that HIPEC was safe in treating PC patients with a low rate of adverse events and leads to benefits in PC patients with massive malignant ascites.",
+      "corpusId": 236937374,
+      "url": "https://api.semanticscholar.org/CorpusId:236937374",
+      "pubmed_id": "34422631",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fonc.2021.674915",
+        "matched_title": "Safety and Effectiveness of High-Precision Hyperthermic Intraperitoneal Perfusion Chemotherapy in Peritoneal Carcinomatosis: A Real-World Study.",
+        "matched_pubdate": "2021",
+        "matched_source": "Front Oncol"
+      }
+    },
+    {
+      "title": "Complications of Cytoreductive Surgery and HIPEC in the Treatment of Peritoneal Metastases",
+      "authors": [
+        {
+          "name": "S. Mehta",
+          "id": "6348517"
+        },
+        {
+          "name": "M. Gelli",
+          "id": "1389609708"
+        },
+        {
+          "name": "Deepesh Agarwal",
+          "id": "32354563"
+        },
+        {
+          "name": "D. Goéré",
+          "id": "67313631"
+        }
+      ],
+      "year": 2016,
+      "venue": "Indian Journal of Surgical Oncology",
+      "score": 0.4282950948116597,
+      "abstract": "",
+      "corpusId": 25062510,
+      "url": "https://doi.org/10.1007/s13193-016-0504-6",
+      "pubmed_id": "27065713",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1007/s13193-016-0504-6",
+        "matched_title": "Complications of Cytoreductive Surgery and HIPEC in the Treatment of Peritoneal Metastases.",
+        "matched_pubdate": "2016 Jun",
+        "matched_source": "Indian J Surg Oncol"
+      }
+    },
+    {
+      "title": "Prognostic Factors Influencing Infectious Complications after Cytoreductive Surgery and HIPEC: Results from a Tertiary Referral Center",
+      "authors": [
+        {
+          "name": "M. Cardi",
+          "id": "4921748"
+        },
+        {
+          "name": "S. Sibio",
+          "id": "145939412"
+        },
+        {
+          "name": "F. Di Marzo",
+          "id": "4276553"
+        },
+        {
+          "name": "Francesco Lefoche",
+          "id": "1413018900"
+        },
+        {
+          "name": "C. D'Agostino",
+          "id": "2075556731"
+        },
+        {
+          "name": "G. B. Fonsi",
+          "id": "98145821"
+        },
+        {
+          "name": "G. La Torre",
+          "id": "2305779"
+        },
+        {
+          "name": "L. Carbonari",
+          "id": "1392015291"
+        },
+        {
+          "name": "P. Sammartino",
+          "id": "3801403"
+        }
+      ],
+      "year": 2019,
+      "venue": "Gastroenterology Research and Practice",
+      "score": 0.42744777143965085,
+      "abstract": "Background Cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) showed promising results in selected patients. High morbidity restrains its wide application. The aim of this study was to report postoperative infectious complications and investigate possible correlations with the preoperative nutritional status and other prognostic factors in patients with peritoneal metastases treated with CRS and HIPEC. Methods For the study, we reviewed the clinical records of all patients with peritoneal metastases from different primary cancers treated with CRS and HIPEC in our Institution from November 2000 to December 2017. Patients were divided according to their nutritional status (SGA) into groups A (well-nourished) and B/C (mild or severely malnourished, respectively). Possible statistical correlations between risk factors and postoperative complication rates have been investigated by univariate and multivariate analysis. Results Two hundred patients were selected and underwent CRS and HIPEC during the study period. Postoperative complications occurred in 44% of the patients, 35.3% in SGA-A patients, and 53% in SGA-B/C patients. Cause of complications was infective in 42, noninfective in 37, and HIPEC related in 9 patients. Infectious complications occurred more frequently in SGA-B/C patients (32.6% vs. 9.8% of SGA-A patients). The most frequent sites of infection were surgical site infections (SSI, 35.7%) and central line-associated bloodstream infections (CLABSI, 26.2%). The most frequent isolated species was Candida (22.8%). ASA score, blood loss, performance status, PCI, large bowel resection, postoperative serum albumin levels, and nutritional status correlated with higher risk for postoperative infectious complications. Conclusions Malnourished patients undergoing cytoreductive surgery and hyperthermic intraperitoneal chemotherapy are more prone to postoperative infectious complications, and adequate perioperative nutritional support should be considered, including immune-enhancing nutrition. Sequential monitoring of common sites of infection, antifungal prevention of candidiasis, and careful patient selection should be implemented to reduce the complication rate.",
+      "corpusId": 155588979,
+      "url": "https://api.semanticscholar.org/CorpusId:155588979",
+      "pubmed_id": "31191642",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2019/2824073",
+        "matched_title": "Prognostic Factors Influencing Infectious Complications after Cytoreductive Surgery and HIPEC: Results from a Tertiary Referral Center.",
+        "matched_pubdate": "2019",
+        "matched_source": "Gastroenterol Res Pract"
+      }
+    },
+    {
+      "title": "Complications and Toxicities After Cytoreductive Surgery and Hyperthermic Intraperitoneal Chemotherapy",
+      "authors": [
+        {
+          "name": "A. E. Canda",
+          "id": "35452895"
+        },
+        {
+          "name": "S. Sokmen",
+          "id": "152296382"
+        },
+        {
+          "name": "C. Terzi",
+          "id": "3456859"
+        },
+        {
+          "name": "C. Arslan",
+          "id": "88018411"
+        },
+        {
+          "name": "I. Oztop",
+          "id": "5953381"
+        },
+        {
+          "name": "B. Karabulut",
+          "id": "40595807"
+        },
+        {
+          "name": "D. Ozzeybek",
+          "id": "5971733"
+        },
+        {
+          "name": "S. Sarıoğlu",
+          "id": "153271188"
+        },
+        {
+          "name": "M. Fuzun",
+          "id": "152316326"
+        }
+      ],
+      "year": 2013,
+      "venue": "Annals of Surgical Oncology",
+      "score": 0.4274145966302331,
+      "abstract": "",
+      "corpusId": 36180199,
+      "url": "https://doi.org/10.1245/s10434-012-2853-x",
+      "pubmed_id": "23456387",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1245/s10434-012-2853-x",
+        "matched_title": "Complications and toxicities after cytoreductive surgery and hyperthermic intraperitoneal chemotherapy.",
+        "matched_pubdate": "2013 Apr",
+        "matched_source": "Ann Surg Oncol"
+      }
+    },
+    {
+      "title": "Safety and preliminary results of perioperative chemotherapy and hyperthermic intraperitoneal chemotherapy (HIPEC) for high-risk gastric cancer patients",
+      "authors": [
+        {
+          "name": "W. L. Costa",
+          "id": "144342939"
+        },
+        {
+          "name": "F. Coimbra",
+          "id": "38555022"
+        },
+        {
+          "name": "H. Ribeiro",
+          "id": "1965276681"
+        },
+        {
+          "name": "A. Diniz",
+          "id": "4968648"
+        },
+        {
+          "name": "A. L. de Godoy",
+          "id": "33870912"
+        },
+        {
+          "name": "M. Begnami",
+          "id": "153651948"
+        },
+        {
+          "name": "M. J. Silva",
+          "id": "4754862"
+        },
+        {
+          "name": "Marcelo F Fanelli",
+          "id": "2071213056"
+        },
+        {
+          "name": "C. Mello",
+          "id": "152776431"
+        }
+      ],
+      "year": 2012,
+      "venue": "World Journal of Surgical Oncology",
+      "score": 0.4271333225276001,
+      "abstract": "BackgroundGastric cancer relapse occurs in about 30% of the patients treated with gastrectomy and D2-lymphadenectomy, mainly as distant or peritoneal metastases. Hyperthermic intraperitoneal chemotherapy (HIPEC) has been associated with an improvement in survival and lower peritoneal recurrence, albeit with increased morbidity. The aim of this study is to report the preliminary results of the association of perioperative chemotherapy, radical surgery and HIPEC in high-risk gastric patients in a single institution.MethodsTreatment protocol was started in 2007 and included patients younger than 65 years old, with good performance status and gastric adenocarcinoma with serosa involvement and lymph node metastases, located in the body or antrum. Patients should receive three preoperative cycles of DCF (Docetaxel 75 mg/m2, Cisplatin 75 mg/m2 and continuous intravenous infusion of 5-Fluorouracil 750 mg/m2 for 5 days), followed by gastric resection with D2-lymphadenectomy, hyperthermic intraperitoneal chemotherapy with Mytomicin C 34 mg/m2 and three more postoperative cycles of DCF.ResultsTen patients were included between 2007 and 2011. Their median age was 47 years old and six were male. Nine were staged with cT4 cN + tumors and one as cT3 cN+. Nine patients completed all three preoperative chemotherapy cycles. Eight individuals were treated with a total gastrectomy and the other two had a distal gastrectomy, all having HIPEC. Postoperative morbidity was 50%, with no deaths. Regarding postoperative chemotherapy, only 5 patients completed three cycles. With a median follow-up of 25 months, three relapses were identified and 7 patients remain disease-free, two with more than 4 years of follow-up.ConclusionThe association of perioperative systemic and intraperitoneal chemotherapy plus radical surgery is a feasible multimodality treatment, with acceptable morbidity. With a longer follow-up and a larger group of patients, we hope to be able to determine if it also influences survival outcomes and patterns of recurrence.Mini-AbstractThe association of perioperative chemotherapy, gastric resection and D2-lymphadenectomy and hyperthermic intraperitoneal chemotherapy proved to be associated with acceptable morbidity. For survival analysis, a longer follow-up is needed.",
+      "corpusId": 6249864,
+      "url": "https://api.semanticscholar.org/CorpusId:6249864",
+      "pubmed_id": "22992263",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/1477-7819-10-195",
+        "matched_title": "Safety and preliminary results of perioperative chemotherapy and hyperthermic intraperitoneal chemotherapy (HIPEC) for high-risk gastric cancer patients.",
+        "matched_pubdate": "2012 Sep 19",
+        "matched_source": "World J Surg Oncol"
+      }
+    },
+    {
+      "title": "The relationship between baseline nutritional status with subsequent parenteral nutrition and clinical outcomes in cancer patients undergoing hyperthermic intraperitoneal chemotherapy",
+      "authors": [
+        {
+          "name": "P. Vashi",
+          "id": "4783112"
+        },
+        {
+          "name": "D. Gupta",
+          "id": "5015151"
+        },
+        {
+          "name": "C. Lammersfeld",
+          "id": "5523139"
+        },
+        {
+          "name": "D. Braun",
+          "id": "38659773"
+        },
+        {
+          "name": "B. Popiel",
+          "id": "6258188"
+        },
+        {
+          "name": "S. Misra",
+          "id": "3984283"
+        },
+        {
+          "name": "K. C. Brown",
+          "id": "31415561"
+        }
+      ],
+      "year": 2013,
+      "venue": "Nutrix Journal",
+      "score": 0.4246216952151356,
+      "abstract": "BackgroundThe combination of cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) is a promising treatment option for selected patients with peritoneal carcinomatosis. This retrospective study investigated the relationship between baseline nutritional assessment with subsequent parenteral nutritional (PN) and clinical outcomes in cancer patients undergoing CRS and HIPEC.MethodsA consecutive series of 60 patients undergoing CRS and HIPEC at our institution between January 2009 and May 2011. Subjective Global Assessment (SGA) was used to assess nutritional status. Patients were classified preoperatively as: well nourished (SGA-A), mildly-moderately malnourished (SGA-B), and severely malnourished (SGA-C). For PN, patients were divided into 2 groups: those who received PN (PN+) and those who did not receive PN (PN-). The primary outcomes of interest were length of stay (LOS), postoperative complications, ECOG performance status (PS) and survival. LOS was calculated as the number of days in the hospital post surgery. Performance status was measured on a scale of 0-4. Survival was calculated from the date of first visit to the date of death/last contact.ResultsOf 60 patients, 19 were males and 41 females. The mean age at presentation was 50.3 years. The most common cancer types were colorectal (n = 24) and gynecologic (n = 19) with the majority of patients (n = 47) treated previously before coming to our institution. 33 patients were SGA-A, 22 SGA-B and 5 SGA-C prior to surgery. Of a total of 60 patients, 31 received PN. Mean LOS for the entire cohort was 16.2 days (SD = 9.8). Mean LOS for preoperative SGA-A, SGA-B and SGA-C were 15.0, 15.2 and 27.8 days respectively (ANOVA p = 0.02). Overall incidence of complications was 26.7% (16/60). Complications were recorded in 9 of 33 (27.3%) preoperative SGA-A patients and 7 of 27 (25.9%) SGA-B + C patients (p = 0.91). The median overall survival was 17.5 months (95% CI = 13.0 to 22.1 months). Median survival for preoperative SGA-A and SGA-B + C cohorts was 22.4 and 10.4 months respectively (p = 0.006).ConclusionsThe preoperative SGA predicts LOS and survival in cancer patients undergoing HIPEC. Future randomized clinical trials in this patient population should investigate the systematic provision of PN to all malnourished patients in the preoperative period for a minimum of 7-10 days with the continuation of PN in the postoperative period.",
+      "corpusId": 1654874,
+      "url": "https://api.semanticscholar.org/CorpusId:1654874",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Critical care management and intensive care unit outcomes following cytoreductive surgery with hyperthermic intraperitoneal chemotherapy",
+      "authors": [
+        {
+          "name": "S. Kapoor",
+          "id": "49244137"
+        },
+        {
+          "name": "A. Bassily-Marcus",
+          "id": "1396149023"
+        },
+        {
+          "name": "Rafael Alba Yunen",
+          "id": "118327566"
+        },
+        {
+          "name": "P. Tabrizian",
+          "id": "3950275"
+        },
+        {
+          "name": "Sabrine Semoin",
+          "id": "10755632"
+        },
+        {
+          "name": "J. Blankush",
+          "id": "15691659"
+        },
+        {
+          "name": "D. Labow",
+          "id": "3763552"
+        },
+        {
+          "name": "J. Oropello",
+          "id": "6587287"
+        },
+        {
+          "name": "A. Manasia",
+          "id": "4392801"
+        },
+        {
+          "name": "R. Kohli-Seth",
+          "id": "1399561625"
+        }
+      ],
+      "year": 2017,
+      "venue": "World Journal of Critical Care Medicine",
+      "score": 0.42084496640257035,
+      "abstract": "AIM To study the early postoperative intensive care unit (ICU) management and complications in the first 2 wk of patients undergoing cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC). METHODS Our study is a retrospective, observational study performed at Icahn School of Medicine at Mount Sinai, quaternary care hospital in New York City. All adult patients who underwent CRS and HIPEC between January 1, 2007 and December 31, 2012 and admitted to ICU postoperatively were studied. Fifty-one patients came to the ICU postoperatively out of 170 who underwent CRS and HIPEC therapy during the study period. Data analysis was performed using descriptive statistics. RESULTS Of the 170 patients who underwent CRS and HIPEC therapy, 51 (30%) came to the ICU postoperatively. Mean ICU length of stay was 4 d (range 1-60 d) and mean APACHE II score was 15 (range 7-23). Thirty-one/fifty-one (62%) patients developed postoperative complications. Aggressive intraoperative and postoperative fluid resuscitation is required in most patients. Hypovolemia was seen in all patients and median amount of fluids required in the first 48 h was 6 L (range 1-14 L). Thirteen patients (25%) developed postoperative hypotension with seven requiring vasopressor support. The major cause of sepsis was intraabdominal, with 8 (15%) developing anastomotic leaks and 5 (10%) developing intraabdominal abscess. The median survival was 14 mo with 30 d mortality of 4% (2/51) and 90 d mortality of 16% (8/51). One year survival was 56.4% (28/51). Preoperative medical co morbidities, extent of surgical debulking, intraoperative blood losses, amount of intra op blood products required and total operative time are the factors to be considered while deciding ICU vs non ICU admission. CONCLUSION Overall, ICU outcomes of this study population are excellent. Triage of these patients should consider preoperative and intraoperative factors. Intensivists should be vigilant to aggressive postop fluid resuscitation, pain control and early detection and management of surgical complications.",
+      "corpusId": 27970681,
+      "url": "https://api.semanticscholar.org/CorpusId:27970681",
+      "pubmed_id": "28529913",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.5492/wjccm.v6.i2.116",
+        "matched_title": "Critical care management and intensive care unit outcomes following cytoreductive surgery with hyperthermic intraperitoneal chemotherapy.",
+        "matched_pubdate": "2017 May 4",
+        "matched_source": "World J Crit Care Med"
+      }
+    },
+    {
+      "title": "A case report of acute pulmonary hypertension after hyperthermic intraperitoneal chemotherapy (HIPEC) and review of the literature",
+      "authors": [
+        {
+          "name": "T. Zajonz",
+          "id": "37018976"
+        },
+        {
+          "name": "M. Sander",
+          "id": "1904876"
+        },
+        {
+          "name": "W. Padberg",
+          "id": "143917744"
+        },
+        {
+          "name": "A. Hecker",
+          "id": "144955113"
+        },
+        {
+          "name": "R. Hörbelt",
+          "id": "2096641169"
+        },
+        {
+          "name": "C. Koch",
+          "id": "145879790"
+        },
+        {
+          "name": "E. Schneck",
+          "id": "13225396"
+        }
+      ],
+      "year": 2018,
+      "venue": "Annals of Medicine and Surgery",
+      "score": 0.41976578828807515,
+      "abstract": "Background Hyperthermic intraperitoneal chemotherapy (HIPEC) poses a widely used and accepted treatment option for patients with peritoneal carcinomatosis of gastrointestinal tumors. In contrast to the well-described risks and complications of intravenous cytostatic drugs, literature offers only scarce information of serious complications following HIPEC. To our knowledge no other description of rapid progressive pulmonary hypertension (PH) and consecutive respiratory failure following HIPEC have been described in current literature. Case presentation A 48-year-old female suffering from a recurrent appendix-carcinoma developed progressive dyspnea and fatigue six weeks after multivisceral abdominal resection and HIPEC. Medical examinations included laboratory-checks, non-invasive imaging, scintigraphy as well as invasive examinations (left-/right-heart-catheterization) and confirmed PH of unknown origin to be the cause of dyspnea. The patient died nine days after admission of respiratory failure and rapid deterioration as a result of aggravating PH. Conclusion Rapid progressive respiratory insufficiency due to PH following HIPEC procedure might represent a rare complication, but must be considered because of the high clinical impact. Further studies are necessary to investigate the correlation between HIPEC and PH.",
+      "corpusId": 3711632,
+      "url": "https://api.semanticscholar.org/CorpusId:3711632",
+      "pubmed_id": "29511539",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.amsu.2018.01.007",
+        "matched_title": "A case report of acute pulmonary hypertension after hyperthermic intraperitoneal chemotherapy (HIPEC) and review of the literature.",
+        "matched_pubdate": "2018 Mar",
+        "matched_source": "Ann Med Surg (Lond)"
+      }
+    },
+    {
+      "title": "Single Center Experience With Hyperthermic Intraperitoneal Chemotherapy",
+      "authors": [
+        {
+          "name": "W. Kim",
+          "id": "1882293"
+        },
+        {
+          "name": "H. Hur",
+          "id": "144651277"
+        },
+        {
+          "name": "B. Min",
+          "id": "6201740"
+        },
+        {
+          "name": "S. Baik",
+          "id": "35022850"
+        },
+        {
+          "name": "K. Lee",
+          "id": "48052309"
+        },
+        {
+          "name": "N. Kim",
+          "id": "2353907993"
+        }
+      ],
+      "year": 2017,
+      "venue": "Annals of Coloproctology",
+      "score": 0.4169980421520552,
+      "abstract": "Purpose Cytoreductive surgery (CRS) and hyperthermic intraperitoneal chemotherapy (HIPEC) have been proposed for controlling peritoneal seeding metastasis in some kinds of cancers, including those of colorectal origin, but their safety and oncological benefits are subjects of debate. We present our early experience with those procedures. Methods Data were retrospectively collected from all patients with peritoneal carcinomatosis (PC) and pseudomyxoma peritonei (PMP) treated using CRS and HIPEC at Yonsei Cancer Center between July 2014 and July 2015. Short-term outcomes and risk factors for postoperative complications were analyzed. Results Twenty-three patients with PC (n = 18) and PMP (n = 5) underwent CRS and HIPEC. Median follow-up and age were 2 months and 54 years, respectively. The median peritoneal carcinomatosis index score was 15, and CC0-1 was achieved in 78.3% of all patients. The median operation time and bleeding loss were 590 minutes and 570 mL, respectively. Grade-IIIa/grade-IIIb complications occurred in 4.3% (n = 1)/26.1% (n = 6) of the patients within 30 days postoperatively, and no 30-day mortalities were reported. Factors related to postoperative complications with CRS and HIPEC were number of organ resection (P = 0.013), longer operation time (P < 0.001), and amount of blood loss (P = 0.003). All patients treated with cetuximab for recurred colorectal cancer had grade-III postoperative complication. Conclusion Our initial experience with CRS and HIPEC presented about 30% grade-III postoperative complications. Therefore, expert surgeons need to perform those procedures with great caution in selected patients who might benefit from it.",
+      "corpusId": 16116284,
+      "url": "https://api.semanticscholar.org/CorpusId:16116284",
+      "pubmed_id": "28289659",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3393/ac.2017.33.1.16",
+        "matched_title": "Single Center Experience With Hyperthermic Intraperitoneal Chemotherapy.",
+        "matched_pubdate": "2017 Feb",
+        "matched_source": "Ann Coloproctol"
+      }
+    },
+    {
+      "title": "Successful surgical approach for a patient with encapsulating peritoneal sclerosis after hyperthermic intraperitoneal chemotherapy: a case report and literature review",
+      "authors": [
+        {
+          "name": "K. Takebayashi",
+          "id": "4018200"
+        },
+        {
+          "name": "H. Sonoda",
+          "id": "35883560"
+        },
+        {
+          "name": "Tomoharu Shimizu",
+          "id": "35372299"
+        },
+        {
+          "name": "Hiroyuki Ohta",
+          "id": "145002430"
+        },
+        {
+          "name": "M. Ishida",
+          "id": "35449661"
+        },
+        {
+          "name": "E. Mekata",
+          "id": "4053205"
+        },
+        {
+          "name": "Y. Endo",
+          "id": "7216793"
+        },
+        {
+          "name": "T. Tani",
+          "id": "144457303"
+        },
+        {
+          "name": "M. Tani",
+          "id": "49117559"
+        }
+      ],
+      "year": 2014,
+      "venue": "BMC Surgery",
+      "score": 0.41511627259311873,
+      "abstract": "BackgroundEncapsulating peritoneal sclerosis (EPS) is a rare surgical complication that can occur after intraperitoneal treatment. It is also a serious and potentially fatal complication of continuous ambulatory peritoneal dialysis. The present report describes a case of surgically treated EPS that probably occurred as a complication of hyperthermic intraperitonal chemotherapy (HIPEC).Case presentationA 39-year-old man required sigmoidectomy for serosal invasive advanced sigmoid colon cancer. HIPEC with oxaliplatin, 5-fluorouracil and mitomycin C were given as adjuvant therapy. Subsequently, intestinal obstruction developed at 15 months postoperatively, and the patient was hospitalized. Abdominal computed tomography showed a dilated small intestine enveloped by a thickened membrane. We found no evidence of peritoneal recurrence, but exploratory surgery revealed EPS, probably caused by HIPEC. We peeled the capsule off of the intestine. The patient’s postoperative course was uneventful, and sufficient nutritional intake after surgery was noted. Seven months after surgery, he is well with no recurrence.ConclusionThe surgical treatment via peritonectomy and enterolysis for postoperative EPS appears safe and effective. A diagnosis of EPS should be considered when intestinal obstruction does not show improvement with conservative treatment in patients who have undergone HIPEC, provided the possibility of peritoneal cancer recurrence is excluded.",
+      "corpusId": 7753296,
+      "url": "https://api.semanticscholar.org/CorpusId:7753296",
+      "pubmed_id": "25160862",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/1471-2482-14-57",
+        "matched_title": "Successful surgical approach for a patient with encapsulating peritoneal sclerosis after hyperthermic intraperitoneal chemotherapy: a case report and literature review.",
+        "matched_pubdate": "2014 Aug 27",
+        "matched_source": "BMC Surg"
+      }
+    },
+    {
+      "title": "The impact of hyperthermic intraperitoneal chemotherapy and cytoreductive surgery on clinical outcomes and quality of life of patients with peritoneal carcinomatosis",
+      "authors": [
+        {
+          "name": "O. Bondar",
+          "id": "2419136284"
+        },
+        {
+          "name": "S. H. Chetverikov",
+          "id": "2151087639"
+        },
+        {
+          "name": "V. Maksymovskyi",
+          "id": "80119648"
+        },
+        {
+          "name": "D. Atanasov",
+          "id": "2123244482"
+        },
+        {
+          "name": "V. Chetverikova-Ovchynnyk",
+          "id": "1436180266"
+        },
+        {
+          "name": "M. Chetverikov",
+          "id": "14778137"
+        }
+      ],
+      "year": 2021,
+      "venue": "Contemporary oncology",
+      "score": 0.410009251478445,
+      "abstract": "Aim of the study To investigate the impact of hyperthermic intraperitoneal chemotherapy (HIPEC) on the clinical and oncological outcomes and quality of life (QOL) of patients with peritoneal carcinomatosis (PC). Material and methods The study involved 304 patients with PC of different origin, who were divided into 2 groups: Group I – cytoreductive surgery (CRS) + adjuvant chemotherapy (ACT) – 247 patients; Group II – CRS + HIPEC + ACT – 57 patients. Intraoperative characteristics and postoperative complications were compared. Patients’ QOL was assessed at all phases of treatment using the international scales the Short Form-36 Health Survey (SF-36) and European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire for Breast Cancer Core 30 (EORTC QLQ-C30). Results No statistically significant differences were observed between the 2 groups comparing the average blood loss and the total rate of postoperative complications, although the rates of hyperthermia and acute renal failure in the early postoperative period were higher in the HIPEC group. The use of HIPEC significantly contributed to the worse restoration of intestinal function in the postoperative period and to prolonged hospital stay. Assessment of the QOL of patients in Group II using SF-36 showed no significant difference between the physical and psychological components of health compared with the control group. The analysis of EORTC data showed a significant deterioration in the QOL of patients in Group II due to increased scales of pain, nausea and vomiting, and constipation in the early postoperative period. No difference in QOL was observed in the subsequent phases of treatment and after its completion. Overall survival and disease-free survival of patients with ovarian cancer who underwent HIPEC were significantly better compared with CRS + ACT alone. Conclusions The proposed HIPEC technique has demonstrated its clinical safety in the treatment of PC, no long-term negative impact on the QOL of patients, and better oncological results for ovarian cancer.",
+      "corpusId": 245626222,
+      "url": "https://api.semanticscholar.org/CorpusId:245626222",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Exploring the Efficacy of Hyperthermic Intraperitoneal Perfusion Chemotherapy in Gastric Cancer: Meta-analysis Based on Randomized Controlled Trials",
+      "authors": [
+        {
+          "name": "Ying Chen",
+          "id": "2118426610"
+        },
+        {
+          "name": "Yang Zhou",
+          "id": "2324895978"
+        },
+        {
+          "name": "Huaping Xiong",
+          "id": "2054473175"
+        },
+        {
+          "name": "Zhen Wei",
+          "id": "2191060311"
+        },
+        {
+          "name": "Dong Zhang",
+          "id": "2257135991"
+        },
+        {
+          "name": "Shoushan Li",
+          "id": "2323427471"
+        }
+      ],
+      "year": 2024,
+      "venue": "Annals of Surgical Oncology",
+      "score": 0.39331164134377095,
+      "abstract": "",
+      "corpusId": 273178958,
+      "url": "https://doi.org/10.1245/s10434-024-16298-2",
+      "pubmed_id": "39373926",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1245/s10434-024-16298-2",
+        "matched_title": "Exploring the Efficacy of Hyperthermic Intraperitoneal Perfusion Chemotherapy in Gastric Cancer: Meta-analysis Based on Randomized Controlled Trials.",
+        "matched_pubdate": "2025 Jan",
+        "matched_source": "Ann Surg Oncol"
+      }
+    },
+    {
+      "title": "Benefits of hyperthermic intraperitoneal chemotherapy for patients with serosal invasion in gastric cancer: a meta-analysis of the randomized controlled trials",
+      "authors": [
+        {
+          "name": "Jingxu Sun",
+          "id": "66475931"
+        },
+        {
+          "name": "Yongxi Song",
+          "id": "4832975"
+        },
+        {
+          "name": "Zhen-ning Wang",
+          "id": "66701692"
+        },
+        {
+          "name": "P. Gao",
+          "id": "47712638"
+        },
+        {
+          "name": "Xiaowan Chen",
+          "id": "8081774"
+        },
+        {
+          "name": "Yingying Xu",
+          "id": "50125763"
+        },
+        {
+          "name": "Ji-wang Liang",
+          "id": "3621355"
+        },
+        {
+          "name": "Huimian Xu",
+          "id": "145012941"
+        }
+      ],
+      "year": 2012,
+      "venue": "BMC Cancer",
+      "score": 0.36886530183658317,
+      "abstract": "In this meta-analysis we aimed to determine the effectiveness and safety of hyperthermic intraperitoneal chemotherapy (HIPC) for patients with advanced gastric cancer who underwent gastrectomy. In accordance with standard meta-analysis procedures, our study included patients who underwent resection for advanced gastric cancer and were randomly allocated to receive either hyperthermic intraperitoneal chemotherapy or control. We searched PubMed (up to November 2011), EMBASE (up to November 2011), Cochrane Database of Systematic Reviews (CDSR), and Cochrane Central Register of Controlled Trials (CCTR) (up to November 2011). Both published and unpublished trials were included in the analysis, and no search restrictions were imposed. There was no language restriction. The results were analyzed using RevMan 5.1 software, which was provided by Cochrane Collaboration. There were ten randomized controlled trials included in the analysis. A total of 1062 patients with gastric cancer in these studies were divided into the HIPC group (n = 518) and control group (n = 544). A significant improvement in survival was observed in the HIPC groups compared to the control group in the mitomycin C (MMC) subgroup (RR = 0.75, 95%CI 0.65-0.86; P < 0.00001) and the 5-FU group (RR = 0.69, 95%CI 0.52-0.90; P < 0.00001); the total RR was 0.73 (95%CI 0.64-0.83; P < 0.00001). Our findings indicated that HIPC potentially exhibited a lower peritoneal recurrence rate in the HIPC group compared to the control group (RR = 0.45, 95%CI 0.28-0.72; P = 0.001). Our meta-analysis demonstrated that HIPC may improve the overall survival rate for patients who receive resection for advance gastric cancer potentially, and help to prevent peritoneal local recurrence among patients with serosal invasion in gastric cancer.",
+      "corpusId": 255806054,
+      "url": "https://api.semanticscholar.org/CorpusId:255806054",
+      "pubmed_id": "23153379",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/1471-2407-12-526",
+        "matched_title": "Benefits of hyperthermic intraperitoneal chemotherapy for patients with serosal invasion in gastric cancer: a meta-analysis of the randomized controlled trials.",
+        "matched_pubdate": "2012 Nov 16",
+        "matched_source": "BMC Cancer"
+      }
+    },
+    {
+      "title": "Hyperthermic intraperitoneal chemotherapy (HIPEC) for colorectal and appendiceal peritoneal metastases: lessons learned from PRODIGE 7.",
+      "authors": [
+        {
+          "name": "P. Cashin",
+          "id": "3596329"
+        },
+        {
+          "name": "P. Sugarbaker",
+          "id": "4159826"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Gastrointestinal Oncology",
+      "score": 0.35154909463621176,
+      "abstract": "The treatment for peritoneal metastases from appendiceal, colon and rectal cancer (MO1) has relied on cytoreductive surgery (CRS) to remove all visible evidence of disease plus a perioperative chemotherapy for the entire abdomen to eliminate microscopic residual disease. Using the results obtained from the PRODIGE 7 randomized controlled trial, methodological issues were discussed and possible improvements to the hyperthermic intraperitoneal chemotherapy (HIPEC) with oxaliplatin were sought. Possible methodological and pharmacologic flaws were identified. Several methodological flaws included the sample size, cross-over option, neoadjuvant chemotherapy use and timing of the peritoneal disease evaluation. The sample size issue raised the question of what the minimal clinically relevant benefit we want in future trials. Neoadjuvant FOLFOX may have induced acquired drug resistance to oxaliplatin. Several pharmacological issues were identified including limited 5-fluorouracil exposure as well as limited oxaliplatin peritoneal exposure time. Insufficient 5-fluorouracil accompanied the oxaliplatin as only a bolus dose was used and continuous 5-FU infusion has previously been an integral part of oxaliplatin treatment. Finally, only approximately one-half of the oxaliplatin entered body tissues or tumor. Three suggestions from the lessons learned from a critique of PRODIGE 7 were offered as adjustments to the HIPEC protocol. The Efficacy of HIPEC, a perioperative FOLFOX or a return to HIPEC with mitomycin C were described.",
+      "corpusId": 222259789,
+      "url": "https://api.semanticscholar.org/CorpusId:222259789",
+      "pubmed_id": "33968432",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.21037/jgo-2020-05",
+        "matched_title": "Hyperthermic intraperitoneal chemotherapy (HIPEC) for colorectal and appendiceal peritoneal metastases: lessons learned from PRODIGE 7.",
+        "matched_pubdate": "2021 Apr",
+        "matched_source": "J Gastrointest Oncol"
+      }
+    },
+    {
+      "title": "Hyperthermic intraperitoneal chemotherapy for management of gastrointestinal and biliary tract malignancies: a systematic review and meta-analysis of randomized trials",
+      "authors": [
+        {
+          "name": "P. Filis",
+          "id": "5117925"
+        },
+        {
+          "name": "A. Kanellopoulou",
+          "id": "2344874899"
+        },
+        {
+          "name": "A. Gogadis",
+          "id": "2148278824"
+        },
+        {
+          "name": "N. Filis",
+          "id": "1393962784"
+        },
+        {
+          "name": "K. Kamposioras",
+          "id": "5223239"
+        },
+        {
+          "name": "F. Kapoulitsa",
+          "id": "1394802276"
+        },
+        {
+          "name": "D. Mauri",
+          "id": "2551619"
+        }
+      ],
+      "year": 2022,
+      "venue": "Annals of gastroenterology : quarterly publication of the Hellenic Society of Gastroenterology",
+      "score": 0.3482744947230724,
+      "abstract": "Background Cytoreductive surgery (CRS) combined with hyperthermic intraperitoneal chemotherapy (HIPEC) promised to transform the management of peritoneal carcinomatosis (PC). Forty years since the introduction of the technique, published data from randomized controlled trials (RCTs) remain scarce. We assessed the cumulative comprehensive available evidence on the use of HIPEC in gastrointestinal (GI) and biliary tract malignancies and established the current benchmark for GI HIPEC research in both the prevention and treatment of peritoneal metastases. Methods RCTs were identified through a systematic search of Medline, Cochrane and Embase databases. Overall survival and progression-free survival were the outcomes of interest. Results The search resulted in 13 RCTs for gastric cancer (10 on prophylactic and 3 on therapeutic HIPEC), 4 for colorectal cancer (2 on prophylactic and 2 on therapeutic HIPEC), and 1 for pancreatic cancer. No RCTs were identified that included other types of GI or biliary tract cancers. Current randomized evidence does not support any overall survival benefit from the use of HIPEC in the adjuvant setting for gastric cancer or for colorectal cancer in any setting. Despite the survival benefit noticed in the treatment of PC from gastric cancer (risk ratio 0.85, 95% confidence interval 0.77-0.93; P<0.001), the results were derived from only 190 patients. Conclusions The current evidence from RCTs does not support the use of HIPEC in the treatment/prevention of PC in GI and biliary tract malignancies. HIPEC should continue to be considered experimental until level 1 evidence from properly designed international multicenter studies becomes available.",
+      "corpusId": 253726415,
+      "url": "https://api.semanticscholar.org/CorpusId:253726415",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    }
+  ]
+}

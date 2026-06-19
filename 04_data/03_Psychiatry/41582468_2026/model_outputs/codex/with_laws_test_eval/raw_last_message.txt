@@ -1,0 +1,1 @@
+FULL_QUERY: (("Mental Disorders"[Mesh] OR psychiatr*[tiab] OR "psychiatric disorder*"[tiab] OR "psychiatric illness*"[tiab] OR "mental disorder*"[tiab] OR "mental illness*"[tiab]) AND ("transcranial random noise stimulation"[tiab] OR "transcranial random noise"[tiab] OR "random noise stimulation"[tiab] OR trns[tiab] OR "t-RNS"[tiab])) AND english[lang]

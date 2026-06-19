@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "05_Infectious_Diseases",
+  "paper_folder": "41796425_2026",
+  "query": "(\"long COVID\"[tiab] OR \"long-COVID\"[tiab] OR \"post-COVID\"[tiab] OR \"post COVID\"[tiab] OR \"post-acute COVID\"[tiab] OR \"post-acute sequelae\"[tiab] OR \"PASC\"[tiab] OR \"long haul COVID\"[tiab] OR \"long hauler\"[tiab] OR \"post-COVID-19 condition\"[tiab] OR \"post COVID-19 syndrome\"[tiab] OR \"long COVID-19\"[tiab] OR \"chronic COVID\"[tiab] OR \"post-SARS-CoV-2\"[tiab] OR \"Post-Acute Sequelae of SARS-CoV-2\"[tiab] OR \"post-acute COVID-19 syndrome\"[tiab]) AND (\"genitourinary\"[tiab] OR \"urinary\"[tiab] OR \"renal\"[tiab] OR \"kidney\"[tiab] OR \"erectile dysfunction\"[tiab] OR \"sexual dysfunction\"[tiab] OR \"menstrual\"[tiab] OR \"urinary incontinence\"[tiab] OR \"urinary urgency\"[tiab] OR \"urinary frequency\"[tiab] OR \"voiding dysfunction\"[tiab] OR \"scrotal pain\"[tiab] OR \"epididymo-orchitis\"[tiab] OR \"epididymitis\"[tiab] OR \"orchitis\"[tiab] OR \"menstrual irregularit*\"[tiab] OR \"menstrual disturbance*\"[tiab] OR \"menstrual alteration*\"[tiab] OR \"bladder\"[tiab] OR \"overactive bladder\"[tiab] OR \"lower urinary tract\"[tiab] OR \"renal function\"[tiab] OR \"proteinuria\"[tiab] OR \"hematuria\"[tiab] OR \"dysuria\"[tiab] OR \"nocturia\"[tiab] OR \"urinary retention\"[tiab]) AND (\"cohort\"[tiab] OR \"cross-sectional\"[tiab] OR \"case-control\"[tiab] OR \"observational\"[tiab] OR \"prospective\"[tiab] OR \"retrospective\"[tiab] OR \"cohort study\"[MeSH Terms] OR \"cross-sectional studies\"[MeSH Terms] OR \"case-control studies\"[MeSH Terms])",
+  "status": "ok"
+}

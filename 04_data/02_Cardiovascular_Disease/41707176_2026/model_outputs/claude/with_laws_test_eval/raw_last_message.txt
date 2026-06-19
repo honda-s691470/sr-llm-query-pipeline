@@ -1,0 +1,34 @@
+target_name: 41707176_2026
+topic: Evaluate clinical effectiveness of telemedicine interventions vs. usual care for glycemic control and cardiovascular health in adults with type 2 diabetes mellitus.
+
+STEP 0 — Paper identity confirmed: 41707176_2026, telemedicine RCTs in type 2 diabetes.
+
+STEP 1 — Study design filter decision:
+Inclusion criteria explicitly state "randomized controlled trials" only. Usual care is the comparator, not a separate study design. Observational studies are not mentioned as eligible.
+Count = 1 design type (RCT only), observational designs not included → STUDY_FILTER = INCLUDE using RCT template.
+
+STEP 2 — Classify inclusion criteria:
+- Type 2 diabetes mellitus: CORE → CONDITION block
+- Telemedicine interventions: CORE → INTERVENTION block (telemedicine IS the intervention under study, not merely a delivery mode modifier)
+- Adults aged 18+: NON-CORE per population block guardrail (default adult population, not a distinctive subgroup that needs a mandatory AND block)
+- Usual care comparator: NON-CORE (comparator detail, screened at full-text)
+- Clinical outcomes (HbA1c, BMI, BP, lipids etc.): NON-CORE → outcome measures, screened at full-text
+
+STEP 3 — AND block budget check:
+Planned blocks: (1) T2DM CONDITION, (2) telemedicine INTERVENTION, (3) STUDY_FILTER (RCT)
+Count = 3 → within budget.
+
+STEP 4 — Population/ethnicity structure check:
+No ethnicity/nationality terms. Not applicable.
+
+STEP 5 — Broad fallback floor check:
+- T2DM block: includes "Diabetes Mellitus, Type 2"[Mesh] as broad class + specific tiab variants. OK.
+- Telemedicine block: includes "Telemedicine"[Mesh] and "Remote Consultation"[Mesh] as broad classes + broad tiab terms (telemedicine, telehealth, digital health) + specific variants (mHealth, eHealth, remote monitoring, video consultation, virtual care). OK.
+- STUDY_FILTER: uses standard template with [pt] and tiab terms. OK.
+
+Note on AND BLOCK BUDGET RULE and telemedicine: Although the query_laws.txt lists "delivery mode/platform" as non-core, telemedicine here IS the intervention of interest (the review objective is explicitly about telemedicine interventions as the exposure). This aligns with the SCOPE-DEFINING CONTEXT RULE: telemedicine defines WHAT the intervention IS, not just how it is delivered. Therefore it is CORE and correctly forms a mandatory AND block.
+
+Date/language filter: NOT APPLIED (not stated in inclusion criteria).
+Final AND block count: 3 (CONDITION + INTERVENTION + STUDY_FILTER).
+
+FULL_QUERY: ("Diabetes Mellitus, Type 2"[Mesh] OR "type 2 diabetes"[tiab] OR "type 2 diabetes mellitus"[tiab] OR "T2DM"[tiab] OR "T2D"[tiab] OR "non-insulin-dependent diabetes"[tiab]) AND ("Telemedicine"[Mesh] OR "Remote Consultation"[Mesh] OR telemedicine[tiab] OR telehealth[tiab] OR "tele-health"[tiab] OR "tele-medicine"[tiab] OR "digital health"[tiab] OR "mHealth"[tiab] OR "mobile health"[tiab] OR "eHealth"[tiab] OR "e-health"[tiab] OR "remote monitoring"[tiab] OR "remote patient monitoring"[tiab] OR "teleconsultation"[tiab] OR "telecare"[tiab] OR "tele-care"[tiab] OR "video consultation"[tiab] OR "virtual care"[tiab] OR "electronic health"[tiab]) AND ("Randomized Controlled Trial"[pt] OR "Controlled Clinical Trial"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])

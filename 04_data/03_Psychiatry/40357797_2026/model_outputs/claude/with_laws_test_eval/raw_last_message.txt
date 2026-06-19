@@ -1,0 +1,40 @@
+STEP 0 — Confirm paper identity
+target_name=40357797_2026 | topic=Effect of electroconvulsive therapy (ECT) on autobiographical memory in patients with unipolar or bipolar depression, including methodological quality, temporal persistence, and influence of ECT parameters.
+
+STEP 1 — Study design filter decision
+Inclusion criteria accept: prospective longitudinal studies AND retrospective longitudinal studies — 2 distinct design types → STUDY_FILTER = OMIT.
+Query = (PRIMARY_CONCEPT) only.
+
+STEP 2 — Classify each inclusion criterion
+- ECT as intervention (series >=6 sessions): CORE → INTERVENTION block
+- Autobiographical memory measurement (CAMI, CAMI-SF, Kopelman AMI): This is partly the study topic (autobiographical memory IS the condition/outcome being studied), so the general concept "autobiographical memory" is CORE → CONDITION/OUTCOME block. However, specific instrument names (CAMI, CAMI-SF, AMI) are NON-CORE outcome measure instruments; the concept "autobiographical memory" itself is the topic.
+- Depression (unipolar or bipolar, moderate to severe): CORE → CONDITION block (the patient population being studied)
+- Antidepressant outcome (HAM-D or MADRS): NON-CORE outcome instrument — leave for screening
+- Control group requirement (healthy controls or patients with other treatment): NON-CORE — not directly searchable
+- Participant count >=5: NON-CORE — not searchable in PubMed
+- Age >=18 years: borderline; standard adult population, not definitionally restrictive in a way that warrants a mandatory AND block → NON-CORE; fold if needed
+- ECT pulse type (brief/ultra-brief): delivery mode modifier → NON-CORE
+- Language (English): NOT explicitly stated as restriction in inclusion criteria — the criteria say "papers written in English" → apply language filter
+  Wait — re-reading: "Papers written in English" is explicitly stated → apply English[lang]
+  However, applying a language filter risks missing early papers; the query_laws DATE_LANGUAGE_GUARD says apply only when unambiguously required for all studies. Since it IS explicit → apply.
+
+STEP 3 — AND block budget check
+Planned blocks:
+1. INTERVENTION: ECT block
+2. CONDITION: autobiographical memory block (this IS the study topic per objectives)
+3. CONDITION/POPULATION: depression block
+Count = 3 → within budget.
+
+STEP 4 — Population/ethnicity structure check
+No ethnicity/nationality terms → not applicable.
+
+STEP 5 — Broad fallback floor check
+- ECT block: "Electroconvulsive Therapy"[Mesh] as broad class + specific tiab variants → OK
+- Memory block: "Memory, Episodic"[Mesh] as broad + "autobiographical memory"[tiab] → OK
+- Depression block: "Depressive Disorder"[Mesh] broad + specific tiab → OK
+
+Language filter: English[lang] — explicitly stated for all included studies.
+
+Final AND block count: 3 (ECT) AND (autobiographical memory) AND (depression) + language filter
+
+FULL_QUERY: ("Electroconvulsive Therapy"[Mesh] OR electroconvulsive therap*[tiab] OR ECT[tiab] OR "electroshock therapy"[tiab] OR "electroconvulsive shock"[tiab]) AND ("Memory, Episodic"[Mesh] OR "autobiographical memory"[tiab] OR "autobiographical memories"[tiab] OR "personal memory"[tiab] OR "AMI"[tiab] OR "CAMI"[tiab]) AND ("Depressive Disorder"[Mesh] OR "Depressive Disorder, Major"[Mesh] OR "Bipolar Disorder"[Mesh] OR depression[tiab] OR depressive[tiab] OR "major depressive"[tiab] OR "bipolar depression"[tiab] OR "unipolar depression"[tiab])

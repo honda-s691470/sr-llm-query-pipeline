@@ -1,0 +1,87 @@
+{
+  "target_name": "41804118_2026",
+  "pmid": "41804118",
+  "objectives": "To provide a qualitative synthesis of what is known regarding depression symptoms among the South Asian diaspora in English-speaking countries, exploring reported symptoms, comparing them with ICD-11 diagnostic criteria, and considering acculturation and ethnic differences.",
+  "inclusion_criteria": "Original qualitative, quantitative and/or mixed-method primary research, plus eligible grey literature (local NHS trust reports and guides, government reports and briefings, and educational theses), written in English, involving adults (18+) from the South Asian diaspora (Afghan, Bangladeshi, Bhutanese, Indian, Maldivian, Nepalese, Pakistani or Sri Lankan heritage) living in the UK, USA, Canada, Australia and/or New Zealand, where reported findings included details of symptoms among participants experiencing depression (diagnosed or self-identified), or mental distress where authors identified symptoms as potential indicators of depression.",
+  "exclusion_criteria": "Exclude studies in which South Asian-specific findings could not be extracted from wider demographic categories or samples including non-South-Asian participants whose results could not be isolated; non-English sources; comorbidity studies in which depression symptoms were considered alongside another condition (for example diabetes or cancer); studies focused solely on postpartum depression; and quantitative studies that did not report symptoms item by item.",
+  "pmid_query": "(south asia* OR ethnic* minorit* OR BME OR BAME OR Bangladesh* OR india* OR sri lanka* OR Pakistan* OR Nepal* OR Maldives* OR Bhutan*) AND (depress* OR \"low mood\" OR distress OR \"depressive disorder\" OR melancholia OR \"mood disorder\" OR \"affective disorder\" OR \"affective symptoms\" OR \"major depress*\" OR dysphori*) AND (\"United Kingdom\" OR \"Great Britain\" OR \"Channel Islands\" OR England OR \"Northern Ireland\" OR Scotland OR Wales OR \"United States\" OR Alabama OR Alaska OR Arizona OR Arkansas OR California OR Colorado OR Connecticut OR Delaware OR Florida OR Georgia OR Hawaii OR Idaho OR Illinois OR Indiana OR Iowa OR Kansas OR Kentucky OR Louisiana OR Maine OR Maryland OR Massachusetts OR Michigan OR Minnesota OR Mississippi OR Missouri OR Montana OR Nebraska OR Nevada OR \"New Hampshire\" OR \"New Jersey\" OR \"New Mexico\" OR \"New York\" OR \"North Carolina\" OR \"North Dakota\" OR Ohio OR Oklahoma OR Oregon OR Pennsylvania OR \"Rhode Island\" OR \"South Carolina\" OR \"South Dakota\" OR Tennessee OR Texas OR Utah OR Vermont OR Virginia OR Washington OR \"West Virginia\" OR Wisconsin OR Wyoming OR Canada* OR Alberta OR \"British Columbia\" OR Manitoba OR \"New Brunswick\" OR Newfoundland OR Labrador OR \"Northwest Territories\" OR \"Nova Scotia\" OR Nunavut OR Ontario OR \"Prince Edward Island\" OR Quebec OR Saskatchewan OR Yukon OR Australia* OR \"New South Wales\" OR \"Northern Territory\" OR Queensland OR Victoria* OR \"Western Australia\" OR \"South Australia\" OR \"New Zealand\" OR \"Bay of Plenty\" OR Canterbury OR Gisborne OR \"Hawke's Bay\" OR Marlborough OR Nelson OR Northland OR Otago OR Southland OR Taranaki OR Waikato OR Wellington OR \"West Coast\" OR Whanganui)",
+  "ref_selection_strategy": "ref_numbers",
+  "selected_ref_numbers": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "selected_ref_nums_compact": "19-40",
+  "selection_evidence": "Results/PRISMA show 40 papers were selected overall, but the Results section explicitly states that 22 papers included the authors' analysis of depression symptoms and cites them as refs 19-40. That same passage splits them into 14 Group A studies and 11 Group B studies with overlap at refs 22, 29, and 40. Table 1 enumerates the Group B comparison papers within this set, and Supplementary Appendix 3 classifies refs 19-40 as Group A/B while refs 41-58 are Group C papers contributing only ad hoc symptom content. Therefore the included-analysis study set is the contiguous reference block 19-40.",
+  "notes": "Manual update note: Manual review confirmed all three remaining unresolved studies are not indexed in PubMed; gold_pmids reflect only OK rows.",
+  "predicted_pmids": [
+    "19857378",
+    "8588535",
+    "28786331",
+    "10939423",
+    "11459379",
+    "15551723",
+    "16838089",
+    "8636920"
+  ],
+  "gold_pmids": [
+    "19857378",
+    "8588535",
+    "28786331",
+    "10939423",
+    "11459379",
+    "15551723",
+    "16838089",
+    "8636920"
+  ],
+  "generated_at": "2026-03-11T21:07:34.957424+00:00",
+  "pipeline": "auto_include_pipeline_v1",
+  "non_pubmed_excluded_studies": [
+    {
+      "row_number": 3,
+      "authors": "Yusuf H",
+      "title": "Representations of psychological distress among Canadian Muslims of South Asian origin: a qualitative study using the self-regulatory model",
+      "doi": " ",
+      "pmid": null,
+      "check": "NG",
+      "check_note": "Confirmed non-PubMed-indexed by manual review; excluded from gold_pmids"
+    },
+    {
+      "row_number": 10,
+      "authors": "Sham T, Farooq S, Gahir M, Okyere E, Sheikh J, Oyebode F",
+      "title": "Patterns of somatisation: a cross-cultural study",
+      "doi": " ",
+      "pmid": null,
+      "check": "NG",
+      "check_note": "Confirmed non-PubMed-indexed by manual review; excluded from gold_pmids"
+    },
+    {
+      "row_number": 11,
+      "authors": "Malik R",
+      "title": "Depression kills more than a self: concepts of mental distress amongst Pakistanis",
+      "doi": " ",
+      "pmid": null,
+      "check": "NG",
+      "check_note": "Confirmed non-PubMed-indexed by manual review; excluded from gold_pmids"
+    }
+  ]
+}

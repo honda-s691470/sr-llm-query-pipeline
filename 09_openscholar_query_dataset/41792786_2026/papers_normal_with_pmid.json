@@ -1,0 +1,3204 @@
+{
+  "papers": [
+    {
+      "title": "Prognostic role of HSPs in human gastrointestinal cancer: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "Hua Ge",
+          "id": "3894253"
+        },
+        {
+          "name": "Yan Yan",
+          "id": "2117857950"
+        },
+        {
+          "name": "Lingfei Guo",
+          "id": "2110671422"
+        },
+        {
+          "name": "F. Tian",
+          "id": "144054165"
+        },
+        {
+          "name": "Di Wu",
+          "id": "2118289614"
+        }
+      ],
+      "year": 2018,
+      "venue": "OncoTargets and Therapy",
+      "score": 0.9005252384076297,
+      "abstract": "Background Heat shock proteins (HSPs) have been reported to be overexpressed in a wide range of human tumors. It has been shown that HSPs act as an oncogenic regulator and are involved in tumorigenesis. The clinical and prognostic significance of HSPs in gastrointestinal cancers (GICs) remains controversial. The aim of this study was to conduct a meta-analysis to assess the prognostic value of HSPs in GICs. Materials and methods A literature search was performed in PubMed, Cochrane Library, Web of Science, and Embase databases. Data on the relationship between expression of HSPs and survival outcomes were extracted. Pooled hazard ratios (HRs) with 95% CI were calculated. Results The expression of HSPs was not associated with the overall survival (OS) of GIC patients; however, it was significantly associated with worse OS for gastric cancer (GC) and colorectal cancer (CRC) patients. Conclusion Current evidence suggests that a high level of HSPs may not be a potential marker to predict the survival rate for every type of GICs. However, the expression of HSPs may predict a poor prognosis for GC and CRC patients.",
+      "corpusId": 4886873,
+      "url": "https://api.semanticscholar.org/CorpusId:4886873",
+      "pubmed_id": "29391812",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2147/ott.s155816",
+        "matched_title": "Prognostic role of HSPs in human gastrointestinal cancer: a systematic review and meta-analysis.",
+        "matched_pubdate": "2018",
+        "matched_source": "Onco Targets Ther"
+      }
+    },
+    {
+      "title": "Clinicopathologic Significance of Heat Shock Protein 60 as a Survival Predictor in Colorectal Cancer",
+      "authors": [
+        {
+          "name": "Myunghee Kang",
+          "id": "152922503"
+        },
+        {
+          "name": "Soyeon Jeong",
+          "id": "3620382"
+        },
+        {
+          "name": "Jung-hwan An",
+          "id": "2105620271"
+        },
+        {
+          "name": "Sungjin Park",
+          "id": "2115583999"
+        },
+        {
+          "name": "S. Nam",
+          "id": "2144692"
+        },
+        {
+          "name": "Kwang An Kwon",
+          "id": "2237283724"
+        },
+        {
+          "name": "D. Sahoo",
+          "id": "2109879"
+        },
+        {
+          "name": "P. Ghosh",
+          "id": "2803887"
+        },
+        {
+          "name": "Jung Ho Kim",
+          "id": "2160111076"
+        }
+      ],
+      "year": 2023,
+      "venue": "Cancers",
+      "score": 0.8848245144787253,
+      "abstract": "Simple Summary HSP60, a mitochondrial chaperone, can promote or inhibit cancer progression. Patients with colorectal cancer (CRC) were examined for HSP60 expression using the TNM classification. Patients with differentiated and p53-mutated CRC expressed high levels of HSP60. Compared with patients with high HSP60 expression, those with low expression had event-free and disease-specific survival hazard ratios of 1.42 and 1.69, respectively. TNM class and HSP60 expression affected survival, especially in late/advanced stages. The expression of the HSPD1 gene, which encodes HSP60, exhibited the same pattern as the protein. The hazard ratios for overall and relapse-free survival were 1.80 and 1.87, respectively, for patients with reduced HSPD1 expression. Low HSPD1 expression and advanced malignancy worsen CRC prognosis. This study suggests that HSPD1/HSP60 may be a useful biomarker for refined survival prediction in late-stage and advanced-stage CRC, allowing for individualized therapy. Abstract The role of heat shock protein 60 (HSP60), a mitochondrial chaperone, in tumor progression or its anti-tumor effects remains controversial. This study aimed to confirm the possibility of using HSP60 as a prognostic marker in patients with colorectal cancer (CRC), considering TNM classification for precise prediction. HSP60 expression increased with differentiation and p53 mutations in patients. However, compared to patients with high HSP60 expression, patients with low HSP60 expression had event-free survival and disease-specific survival hazard ratios (HRs) of 1.42 and 1.69, respectively. Moreover, when the survival rate was analyzed by combining TNM classification and HSP60 expression, the prognosis was poor, particularly when HSP60 expression was low in the late/advanced stage. This pattern was also observed with HSP family D member 1, HSPD1, the gene that encodes HSP60. Low HSPD1 expression was linked to lower overall survival and relapse-free survival rates, with HRs of 1.80 and 1.87, respectively. When TNM classification and HSPD1 expression were considered, CRC patients with low HSPD1 expression and advanced malignancy had a poorer prognosis than those with high HSPD1 expression. Thus, HSPD1/HSP60 can be a useful biomarker for a sophisticated survival prediction in late- and advanced-stage CRC, allowing the design of individualized treatment strategies.",
+      "corpusId": 260853659,
+      "url": "https://api.semanticscholar.org/CorpusId:260853659",
+      "pubmed_id": "37627080",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/cancers15164052",
+        "matched_title": "Clinicopathologic Significance of Heat Shock Protein 60 as a Survival Predictor in Colorectal Cancer.",
+        "matched_pubdate": "2023 Aug 11",
+        "matched_source": "Cancers (Basel)"
+      }
+    },
+    {
+      "title": "The Prognostic Significance of Hsp70 in Patients with Colorectal Cancer Patients: A PRISMA-Compliant Meta-Analysis",
+      "authors": [
+        {
+          "name": "Guangyu Gao",
+          "id": "1688272720"
+        },
+        {
+          "name": "Songtao Liu",
+          "id": "2109031177"
+        },
+        {
+          "name": "Zhen Yao",
+          "id": "2088715306"
+        },
+        {
+          "name": "Yanyan Zhan",
+          "id": "2088775172"
+        },
+        {
+          "name": "Wenyue Chen",
+          "id": "1490896612"
+        },
+        {
+          "name": "Yulong Liu",
+          "id": "2108353246"
+        }
+      ],
+      "year": 2021,
+      "venue": "BioMed Research International",
+      "score": 0.8829239593527254,
+      "abstract": "Background Hsp70 (heat shock protein 70) plays a key role in carcinogenesis and cancer progression. However, the relationship between the Hsp70 expression level and the colorectal cancer patient survival is unknown. This study is aimed at investigating the relationship between Hsp70 and the prognosis of colorectal carcinoma patients. Methods PubMed, Web of Science, and Embase were used for systematic computer literature retrieval. Stata SE14.0 software was used for quantitative meta-analysis. Besides, data was extracted from selected articles. Relationships between Hsp70 expression level and prognosis were further studied. The hazard ratios (HRs) and 95% confidence intervals (95% CIs) were also computed. Results A total of 11 potentially eligible studies with 2269 patients were identified in 10 tumors from PubMed, Web of Science, and Embase. Hsp70 overexpression was associated with poor overall survival (OS) and disease-free survival (DFS) in colorectal carcinoma patients (HRs, 0.65 (95% CI: 0.52-0.78) and 0.77 (95% CI: 0.23-1.32), respectively). Conclusions Hsp70 overexpression can predict poor survival in colorectal cancer patients.",
+      "corpusId": 233866538,
+      "url": "https://api.semanticscholar.org/CorpusId:233866538",
+      "pubmed_id": "33954173",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2021/5526327",
+        "matched_title": "The Prognostic Significance of Hsp70 in Patients with Colorectal Cancer Patients: A PRISMA-Compliant Meta-Analysis.",
+        "matched_pubdate": "2021",
+        "matched_source": "Biomed Res Int"
+      }
+    },
+    {
+      "title": "Prognostic and clinicopathological significance of heat shock proteins in colorectal cancer patients: a meta-analysis",
+      "authors": [
+        {
+          "name": "Ziqing Wang",
+          "id": "2342023639"
+        },
+        {
+          "name": "Jixuan Zou",
+          "id": "2319179363"
+        },
+        {
+          "name": "Yangfan Li",
+          "id": "2284528094"
+        },
+        {
+          "name": "Zhenmin Zhang",
+          "id": "2308622953"
+        }
+      ],
+      "year": 2026,
+      "venue": "World Journal of Surgical Oncology",
+      "score": 0.8657496865000001,
+      "abstract": "Background The impact of heat shock proteins (HSPs) expression levels on the prognosis of patients with colorectal cancer (CRC) remains controversial. Therefore, we conducted a meta-analysis to evaluate the prognostic significance of HSPs expression in CRC patients and its relationship with clinical pathological features. Methods We searched for eligible studies from PubMed, Embase, Cochrane, and Web of Science databases, and extracted the hazard ratios (HRs) and 95% confidence intervals (CIs) for overall survival (OS), disease-free survival (DFS), progression-free survival (PFS), relapse-free survival (RFS), or cancer-specific survival (CSS), along with their clinical pathological characteristics. Meta-analysis was performed using either a fixed-effects model or a random-effects model, depending on the heterogeneity between studies. Results A total of 20 studies, including 3919 CRC patients, were included in this meta-analysis. The results showed that high expression of HSPs can predict poor OS in CRC patients (HR = 1.79, 95% CI: 1.39–2.30, P < 0.00001). Subgroup analyses revealed that high expression of HSP70 (HR = 1.75, 95% CI: 1.10–2.78, P = 0.02), HSP27 (HR = 1.73, 95% CI: 1.34–2.25, P < 0.0001), and HSP47 (HR = 2.91, 95% CI: 1.39–6.08, P = 0.005) were associated with increased risk for poorer OS, but the expression of HSP90 (HR = 1.28, 95% CI: 0.60–2.72, P = 0.52) was not significantly correlated with OS in CRC patients. Moreover, high expression of HSPs may predict poor DFS (HR = 1.56, 95% CI: 1.18–2.06, P = 0.002), RFS (HR = 2.15, 95% CI: 1.37–3.38, P = 0.0008), and CSS (HR = 1.65, 95% CI: 1.07–2.42, P = 0.0003) in CRC patients. In addition, high expression of HSPs was significantly correlated with high TNM stage (OR = 1.29, 95% CI: 1.01–1.65, P = 0.04). Conclusion These findings indicate that high expression of HSP70, HSP27, and HSP47 may have a significant adverse effect on the prognosis of CRC patients, and contribute to the prognosis evaluation of these patients and potentially guide the development of targeted therapeutic strategies. Supplementary Information The online version contains supplementary material available at 10.1186/s12957-026-04239-0.",
+      "corpusId": 286363752,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/41792786",
+      "pubmed_id": "41792786",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12957-026-04239-0",
+        "matched_title": "Prognostic and clinicopathological significance of heat shock proteins in colorectal cancer patients: a meta-analysis.",
+        "matched_pubdate": "2026 Mar 6",
+        "matched_source": "World J Surg Oncol"
+      }
+    },
+    {
+      "title": "High Expression of Heat Shock Protein Family D Member 1 Predicts Poor Prognosis of Esophageal Cancer",
+      "authors": [
+        {
+          "name": "Jing-Fang Lv",
+          "id": "2054672024"
+        },
+        {
+          "name": "Xian Wang",
+          "id": "2197768983"
+        },
+        {
+          "name": "Xiao Sun",
+          "id": "2112349723"
+        },
+        {
+          "name": "Jun Yang",
+          "id": "2146156963"
+        },
+        {
+          "name": "Peinan Chen",
+          "id": "2158171538"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Clinical Medicine Research",
+      "score": 0.7752696927701646,
+      "abstract": "Background Heat shock protein family D (Hsp60) member 1 (HSPD1) has been reported as a potential survival-related biomarker in some cancers. However, the correlation between HSPD1 expression with prognosis and clinical features of esophageal cancer (EC) is poorly understood. Our research aimed to explore the clinical and prognostic significance of HSPD1 expression in EC patients. Methods In our study, HSPD1 expression was detected by immunochemistry in 87 EC tissue specimens and 20 normal cancerous peripheral tissue specimens. Meanwhile, we also analyzed the expression of HSPD1 in EC by The Cancer Genome Atlas (TCGA) database. Then Chi-squared and Fisher’s exact tests and Wilcoxon signed-rank test and logistic regression models were separately used to test the correlation between clinical characteristics and HSPD1 expression in our and TCGA cohort. Moreover, we evaluated the value of HSPD1 in prognosis by Kaplan-Meier curves and Cox analysis. Finally, gene set enrichment analysis (GSEA) was performed using the data accessed from TCGA. Results The results showed that HSPD1 was overexpressed in EC, and the expression was related to histological type, histological grade, N classification, and clinical stage. Moreover, Kaplan-Meier curves and Cox analysis indicated that high expression of HSPD1 correlated with poor prognosis, and HSPD1 was an independent risk factor for EC. GSEA identified pathways involved in cysteine and methionine metabolism, spliceosome, selenoamino acid metabolism, mismatch repair, RNA degration, DNA replication, and cell cycle as differentially enriched in ECs with high HSPD1 expression. Conclusions Our results suggest that HSPD1 is expressed at high levels in EC, and has potential to be used as a novel biomarker for the prognosis of patients with EC.",
+      "corpusId": 251195241,
+      "url": "https://api.semanticscholar.org/CorpusId:251195241",
+      "pubmed_id": "35974809",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.14740/jocmr4424",
+        "matched_title": "High Expression of Heat Shock Protein Family D Member 1 Predicts Poor Prognosis of Esophageal Cancer.",
+        "matched_pubdate": "2022 Jul",
+        "matched_source": "J Clin Med Res"
+      }
+    },
+    {
+      "title": "Prognostic Significance of the Hsp70 Gene Family in Colorectal Cancer",
+      "authors": [
+        {
+          "name": "Wenjun Jiang",
+          "id": "49408704"
+        },
+        {
+          "name": "Xiaohang Pan",
+          "id": "2705326"
+        },
+        {
+          "name": "Haifan Yan",
+          "id": "31802167"
+        },
+        {
+          "name": "Guoping Wang",
+          "id": "2145472882"
+        }
+      ],
+      "year": 2020,
+      "venue": "Medical Science Monitor",
+      "score": 0.765491947942965,
+      "abstract": "Background Colorectal cancer (CRC) is a deadly form of cancer worldwide. Heat shock protein 70 (Hsp70) belongs to the family of human HSPs and plays an essential role in multiple cellular developments and in responding to environmental changes. However, studies on the relationship between CRC and the Hsp70 family are rare. Material/Methods Data pertaining to 438 patients with CRC was downloaded from The Cancer Genome Atlas database. To investigate the prognostic significance of the Hsp70 genes, survival and joint-effect analyses were conducted. The correlation between prognosis-related Hsp70 genes and clinical factors in CRC was analyzed using a nomogram. Gene set enrichment analysis (GSEA) was performed to explore the complex enrichment pathway in CRC with the prognosis-related Hsp70 genes. Results According to multivariate Cox regression survival analysis, low expression levels of HSPA1A, HSPA1B, and HSPA1L were correlated with improved overall survival (OS). According to the joint-effects survival analysis, the joint low expression levels of HSPA1A, HSPA1B, and HSPA1L were related to improved OS. The 1-, 3-, 5-, and 10-year survival rates of patients with CRC were predicted by constructing a nomogram model based on HSPA1A, HSPA1B, HSPA1L, and tumor stage. The GSEA results indicated the biological roles of HSPA1A, HSPA1B, and HSPA1L in CRC. Conclusions Low expression levels of HSPA1A, HSPA1B, and HSPA1L were strongly correlated with improved prognosis in CRC and might serve as latent prognostic biomarkers in CRC.",
+      "corpusId": 231831080,
+      "url": "https://api.semanticscholar.org/CorpusId:231831080",
+      "pubmed_id": "33600380",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.12659/msm.928352",
+        "matched_title": "Prognostic Significance of the Hsp70 Gene Family in Colorectal Cancer.",
+        "matched_pubdate": "2021 Feb 18",
+        "matched_source": "Med Sci Monit"
+      }
+    },
+    {
+      "title": "Low expression of HSP27 and HSP70 predicts poor prognosis in laryngeal squamous cell carcinoma",
+      "authors": [
+        {
+          "name": "Jędrzej Borowczak",
+          "id": "1491958321"
+        },
+        {
+          "name": "Dariusz Łaszczych",
+          "id": "2308263177"
+        },
+        {
+          "name": "Adrianna Czyżnikiewicz",
+          "id": "2339854616"
+        },
+        {
+          "name": "Andrzej Marszałek",
+          "id": "2366287780"
+        },
+        {
+          "name": "Łukasz Szylberg",
+          "id": "4229161"
+        },
+        {
+          "name": "Magdalena Bodnar",
+          "id": "2267301865"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Cancer Research and Clinical Oncology",
+      "score": 0.7553261785472006,
+      "abstract": "Molecular alterations drive the pathogenesis of laryngeal squamous cell carcinoma (LSCC), yet reliable prognostic biomarkers remain elusive. Heat shock proteins (HSPs), which mediate cellular stress responses, are implicated in cancer progression and treatment resistance. This study aimed to evaluate whether HSP27 and HSP70 expression correlate with clinicopathological features and survival outcomes in LSCC. Specifically, we assessed their potential as prognostic biomarkers in this malignancy. Immunohistochemistry was performed on 158 LSCC tissue samples from 40 patients and compared to 30 normal laryngeal tissue samples. Expression levels of HSP27 and HSP70 were correlated with clinicopathological variables. Validation was conducted using transcriptomic and survival data from 112 LSCC cases in The Cancer Genome Atlas (TCGA). Kaplan–Meier and Cox regression analyses were used to assess survival. HSP27 was significantly overexpressed in LSCC tissues compared to controls and was associated with advanced tumor stage, nodal metastasis, alcohol abstinence, and older age. HSP70 expression correlated with higher tumor grade and female sex but did not differ significantly between cancerous and noncancerous tissues. In the TCGA cohort, low expression of HSP27 and HSP70 was significantly associated with worse overall survival. Low HSP27 expression emerged as an independent predictor of shorter survival (hazard ratio 2.28; 95% confidence interval, 1.11–4.67; p = 0.024). HSP27 and HSP70 show potential as prognostic biomarkers in LSCC, with high expression linked to favorable outcomes. These findings warrant further investigation into their mechanistic roles in tumor progression, therapy resistance, and their potential utility as therapeutic targets.",
+      "corpusId": 281397146,
+      "url": "https://api.semanticscholar.org/CorpusId:281397146",
+      "pubmed_id": "40971071",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s00432-025-06309-4",
+        "matched_title": "Low expression of HSP27 and HSP70 predicts poor prognosis in laryngeal squamous cell carcinoma.",
+        "matched_pubdate": "2025 Sep 19",
+        "matched_source": "J Cancer Res Clin Oncol"
+      }
+    },
+    {
+      "title": "Heat Shock Proteins 27, 70, and 110: Expression and Prognostic Significance in Colorectal Cancer",
+      "authors": [
+        {
+          "name": "J. Hrudka",
+          "id": "25532673"
+        },
+        {
+          "name": "Karolína Jelínková",
+          "id": "2123845558"
+        },
+        {
+          "name": "H. Fišerová",
+          "id": "46342951"
+        },
+        {
+          "name": "R. Matěj",
+          "id": "2394288"
+        },
+        {
+          "name": "V. Mandys",
+          "id": "5378623"
+        },
+        {
+          "name": "P. Waldauf",
+          "id": "2259588630"
+        }
+      ],
+      "year": 2021,
+      "venue": "Cancers",
+      "score": 0.7552145487899278,
+      "abstract": "Simple Summary Heat shock proteins (HSPs) are cytoprotective chaperones occurring in virtually all living organisms including various types of cancer cells to repair proteotoxic damage. Some of HSPs influence tumor prognosis and represent promising therapeutic targets. To clarify prognostic significance of HSPs 27, 70, and 110 in colorectal carcinoma, we retrospectively performed HSP immunohistochemistry on tissue microarrays from archive tumor tissue from 297 patients. Survival analysis revealed significantly shorter overall survival (OS) and borderline insignificantly shorter cancer specific survival (CSS) in patients with HSP70+ tumors. In HSP27+, both OS and CSS were insignificantly shorter. HSP110 showed no influence on survival. We found an association of HSP27 and HSP70 expression with advanced cancer stage. In multivariate analysis, only advanced stage and right sided localization were independent predictors of worse survival, whereas all three examined HSPs were insignificant. In conclusion, from all three HSPs examined in our study, only HSP70 had an impact on colorectal cancer prognosis, although it is stage-dependent. Abstract Heat shock proteins (HSPs) are evolutionarily conserved chaperones occurring in virtually all living organisms playing a key role in the maintenance of cellular homeostasis. They are constitutively expressed to prevent and repair protein damage following various physiological and environmental stressors. HSPs are overexpressed in various types of cancers to provide cytoprotective function, and they have been described to influence prognosis and response to therapy. Moreover, they have been used as a tumor marker in blood serum biochemistry and they represent a potentially promising therapeutic target. To clarify prognostic significance of two canonical HSPs (27 and 70) and less known HSP110 (previously known as HSP105) in colorectal carcinoma (CRC), we retrospectively performed HSP immunohistochemistry on tissue microarrays from formalin-fixed paraffin-embedded tumor tissue from 297 patients with known follow-up. Survival analysis (univariate Kaplan–Meier analysis with the log-rank test and multivariate Cox regression) revealed significantly shorter overall survival (OS, mean 5.54 vs. 7.07, p = 0.033) and borderline insignificantly shorter cancer specific survival (CSS, mean 6.3 vs. 7.87 years, p = 0.066) in patients with HSP70+ tumors. In the case of HSP27+ tumors, there was an insignificantly shorter OS (mean 6.36 vs. 7.13 years, p = 0.2) and CSS (mean 7.17 vs. 7.95 years, p = 0.2). HSP110 showed no significant impact on survival. Using Pearson’s chi-squared test, there was a significant association of HSP27 and HSP70 expression with advanced cancer stage. HSP27+ tumors were more frequently mismatch-repair proficient and vice versa (p = 0.014), and they occurred more often in female patients and vice versa (p = 0.015). There was an enrichment of left sided tumors with HSP110+ compared to the right sided (p = 0.022). In multivariate Cox regression adjusted on the UICC stage, grade and right/left side; both HSPs 27 and 70 were not independent survival predictors (p = 0.616 & p = 0.586). In multivariate analysis, only advanced UICC stage (p = 0) and right sided localization (p = 0.04) were independent predictors of worse CSS. In conclusion, from all three HSPs examined in our study, only HSP70 expression worsened CRC prognosis, although stage-dependent. The contribution of this article may be seen as a large survival analysis of HSPs 27 and 70 and the largest analysis of HSP110 described in CRC.",
+      "corpusId": 237472221,
+      "url": "https://api.semanticscholar.org/CorpusId:237472221",
+      "pubmed_id": "34503216",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/cancers13174407",
+        "matched_title": "Heat Shock Proteins 27, 70, and 110: Expression and Prognostic Significance in Colorectal Cancer.",
+        "matched_pubdate": "2021 Aug 31",
+        "matched_source": "Cancers (Basel)"
+      }
+    },
+    {
+      "title": "Comprehensive Analysis of the Role of Heat Shock Proteins in the Immune Microenvironment and Clinical Significance of Hepatocellular Carcinoma",
+      "authors": [
+        {
+          "name": "Han Xiao",
+          "id": "2346466954"
+        },
+        {
+          "name": "Ben Wang",
+          "id": "2345974615"
+        },
+        {
+          "name": "Shaomin Xiong",
+          "id": "2346007981"
+        },
+        {
+          "name": "Chunbo Li",
+          "id": "2346070450"
+        },
+        {
+          "name": "Yanbao Ding",
+          "id": "2346064620"
+        },
+        {
+          "name": "Dai Chao",
+          "id": "2056847228"
+        },
+        {
+          "name": "Baohua Mei",
+          "id": "2327025028"
+        },
+        {
+          "name": "Naiying Shen",
+          "id": "2186322933"
+        },
+        {
+          "name": "Gang Luo",
+          "id": "2327013938"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Hepatocellular Carcinoma",
+      "score": 0.7547030815018736,
+      "abstract": "Purpose Hepatocellular carcinoma (HCC) is a prevalent malignancy that not only imposes a substantial financial burden but also significantly impacts the quality of life and overall survival of affected individuals. Heat shock proteins (HSPs) are a protein class with significant involvement in safeguarding and restoring cellular integrity. They help restore proper protein structure by binding to and refolding denatured proteins. However, the specific role of HSPs in HCC requires further investigation. Methods We analyzed the genomic characteristics of HSPs in liver cancer in the TCGA and ICGC databases, and functional enriched analysis of HSPs. Construction of an HSPs-Related Prognostic Model for patients with hepatocellular carcinoma. HSP-related risk score (HRRS) was identified as an independent prognostic factor in patients with hepatocellular carcinoma, and the clinical pathological characteristics and immune microenvironment of high-risk and low-risk groups were compared. Further, we studied HRRS-based liver cancer treatment strategies and confirmed the protein expression of HSPD1 and DNAJC5 in normal liver tissues and hepatocellular carcinoma tissues by collecting human hepatocellular carcinoma tissues. Results We observed elevated expression levels of most HSPs across HCC tissues. In addition, 14 hSPs were found to be related to prognostic significance among HCC patients and utilized to develop HRRS prognostic model for prognosis prediction and risk stratification. The prognostic and immunotherapeutic response predictive value of HRRS was validated utilizing data from TCGA and GEO cohorts. Moreover, we created a nomogram to assess HRRS clinical utility and verified its efficiency through various methods. Through IHC was found that HSPD1 and DNAJC5 were significantly overexpressed in hepatocellular carcinoma tissues. Conclusion Our results lead us to conclude that HCC’s development and progression are intimately associated with HSPs, and the HRRS model represents a potentially robust prognostic model that could assist in clinical decision-making regarding chemotherapy and immunotherapy for HCC patients. Moreover, HSPD1 and DNAJC5 have the potential to serve as therapeutic targets for HCC.",
+      "corpusId": 276442789,
+      "url": "https://api.semanticscholar.org/CorpusId:276442789",
+      "pubmed_id": "39991516",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2147/jhc.s495151",
+        "matched_title": "Comprehensive Analysis of the Role of Heat Shock Proteins in the Immune Microenvironment and Clinical Significance of Hepatocellular Carcinoma.",
+        "matched_pubdate": "2025",
+        "matched_source": "J Hepatocell Carcinoma"
+      }
+    },
+    {
+      "title": "Upregulation of Heat Shock Proteins (HSPA12A, HSP90B1, HSPA4, HSPA5 and HSPA6) in Tumour Tissues Is Associated with Poor Outcomes from HBV-Related Early-Stage Hepatocellular Carcinoma",
+      "authors": [
+        {
+          "name": "Zongguo Yang",
+          "id": "5219749"
+        },
+        {
+          "name": "Liping Zhuang",
+          "id": "35543671"
+        },
+        {
+          "name": "P. Szatmary",
+          "id": "5077815"
+        },
+        {
+          "name": "Li-Jun Wen",
+          "id": "2288457062"
+        },
+        {
+          "name": "Hua Sun",
+          "id": "2115411702"
+        },
+        {
+          "name": "Yunfei Lu",
+          "id": "29786990"
+        },
+        {
+          "name": "Qingnian Xu",
+          "id": "1390727377"
+        },
+        {
+          "name": "Xiaorong Chen",
+          "id": "2109425476"
+        }
+      ],
+      "year": 2015,
+      "venue": "International Journal of Medical Sciences",
+      "score": 0.7540820441282479,
+      "abstract": "Background: Heat shock proteins (HSPs) are overexpressed in human hepatocellular carcinoma (HCC) tissue and correlate with aggressiveness and prognosis of HCC. Methods: Using the GSE14520 microarray expression profile from Gene Expression Omnibus, we compared HSP gene expression between tumour and non-tumour tissues and correlated this with outcomes in HCC patients. Results: We analysed 220 hepatitis B virus (HBV)-related HCC patients and 25 HSPs in this study. With the exception of HSPA4L, HSPA12A and HSPB8, members of the HSP family, including HSPH1, HSPBP1, HSPA1A, HSPA1B, HSPA1L, HSPA2, HSPA4, HSPA5, HSPA8, HSPA9, HSPAA1, HSPAB1, HSPA14, HSPB11, HSPA13, HSP90B1 and HSPBAP1, were all overexpressed in tumour tissues (all P < 0.001). In contrast, HSPB6, HSPB7, HSPA6, HSPB2 and HSPB3 were upregulated in non-tumour tissues (all P < 0.001). Multivariate analysis showed that cirrhosis (HR = 5.282, 95% CI = 1.294-21.555, P = 0.02), Barcelona Clinic liver cancer (BCLC) staging (HR = 2.151, 95% CI = 1.682-2.750, P < 0.001), HSPA12A (HR = 1.042, 95% CI = 1.003-1.082, P = 0.033) and HSP90B1 (HR = 1.001, 95% CI = 1.000-1.001, P = 0.011) were negatively associated with survival of HBV-related HCC patients. Furthermore, advanced BCLC staging (HR = 1.797, 95% CI = 1.439-2.244, P < 0.001) was also associated with earlier recurrence of HCC. The high expression of HSPA4 (HR = 1.002, 95% CI = 1.000-1.004, P = 0.019), HSPA5 (HR = 1.0, 95% CI = 1.0-1.0, P = 0.046) and HSPA6 (HR = 1.008, 95% CI = 1.001-1.015, P = 0.021) was similarly associated with HCC recurrence. Conclusions: The expression of most HSPs was higher in tumour tissues than in non-tumour tissues. High BCLC staging scores, advanced cirrhosis and the overexpression of HSPA12A and HSP90B1 might be associated with poor survival from HCC, whereas high levels of HSPA4, HSPA5 and HSPA6 might be associated with earlier recurrence of HCC.",
+      "corpusId": 19018652,
+      "url": "https://api.semanticscholar.org/CorpusId:19018652",
+      "pubmed_id": "25798051",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.7150/ijms.10735",
+        "matched_title": "Upregulation of heat shock proteins (HSPA12A, HSP90B1, HSPA4, HSPA5 and HSPA6) in tumour tissues is associated with poor outcomes from HBV-related early-stage hepatocellular carcinoma.",
+        "matched_pubdate": "2015",
+        "matched_source": "Int J Med Sci"
+      }
+    },
+    {
+      "title": "Upregulation of HSPA1A/HSPA1B/HSPA7 and Downregulation of HSPA9 Were Related to Poor Survival in Colon Cancer",
+      "authors": [
+        {
+          "name": "Yufeng Guan",
+          "id": "2069571306"
+        },
+        {
+          "name": "Xianjun Zhu",
+          "id": "2331279"
+        },
+        {
+          "name": "Junjie Liang",
+          "id": "2205556535"
+        },
+        {
+          "name": "Min Wei",
+          "id": "32865166"
+        },
+        {
+          "name": "Sha Huang",
+          "id": "150297836"
+        },
+        {
+          "name": "Xiaofen Pan",
+          "id": "6873114"
+        }
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Oncology",
+      "score": 0.753536191581743,
+      "abstract": "The human HSP70 family is a type of heat shock protein (HSP), consisting of 13 members encoded by the HSPA genes. HSPs play important roles in regulating cellular responses and functions during carcinogenesis, but their relationship with colon cancer is unclear. In our study, we found that the expressions of HSPA1B, HSPA4, HSPA5, HSPA6, HSPA8, HSPA9, HSPA13, and HSPA14 were significantly increased, while those of HSPA1A, HSPA2, HSPA7, and HSPA12B were significantly decreased in colon cancer tissues. The expression of HSPA gene family members was associated with some clinicopathological characteristics, including age, gender, TNM stage, pathological stage, and CEA level. Furthermore, the Kaplan–Meier method and Cox regression analysis showed that high HSPA1A, HSPA1B, and HSPA7 expressions were related to unfavorable survival, and high HSPA9 was associated with favorable survival. The relationships between HSPA1A and HSPA9 expression and survival were validated in the GEO dataset, and the HSPA1A and HSPA9 protein expression differences between colon cancer tissues and normal tissues were validated in the UALCAN database. Methylation of HSPA1A and HSPA9 was also analyzed, and it was found that the methylation of the HSPA1A promoter was significantly increased, and the methylation of the HSPA9 promoter was significantly decreased in colon cancer tissues. Increasing the methylation level of the HSPA1A gene and decreasing the methylation level of HSPA9 were related to favorable prognosis. The expression difference of HSPA1A/HSPA1B/HSPA7/HSPA9 was verified in colon cancer cell lines and colonic epithelial cells. Gene ontology analysis was used to screen signal pathways related to HSPA1A-, HSPA1B-, HSPA7-, and HSPA9- high phenotype. In summary, the increased expressions of HSPA1A1, HSPA1B, and HSPA7 were associated with poor prognosis, while that of HSPA9 was related to favorable prognosis for colon cancer patients.",
+      "corpusId": 239770666,
+      "url": "https://api.semanticscholar.org/CorpusId:239770666",
+      "pubmed_id": "34765552",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fonc.2021.749673",
+        "matched_title": "Upregulation of HSPA1A/HSPA1B/HSPA7 and Downregulation of HSPA9 Were Related to Poor Survival in Colon Cancer.",
+        "matched_pubdate": "2021",
+        "matched_source": "Front Oncol"
+      }
+    },
+    {
+      "title": "Prognosis and predictive value of heat-shock proteins expression in oral cancer",
+      "authors": [
+        {
+          "name": "W. Lu",
+          "id": "153022038"
+        },
+        {
+          "name": "Yongwu Wang",
+          "id": "2143392877"
+        },
+        {
+          "name": "Min Gan",
+          "id": "2062566694"
+        },
+        {
+          "name": "Qingyun Duan",
+          "id": "144318002"
+        }
+      ],
+      "year": 2021,
+      "venue": "Medicine",
+      "score": 0.7530857122026615,
+      "abstract": "Abstract Background: Heat-shock proteins (HSP) is a key chaperone protein which maintains intracellular proteostasis and is expressed on the surface of solid and hematological malignancies. Several studies have reported paradoxical evidence of the association between HSP expression and prognosis of oral cancer. To address the discrepancy, we carried out the meta-analysis to assess the role of HSP such as: HSP70, HSP90, HSP27, HSP60, and HSP105 in susceptibility, progression, and prognosis of oral cancer. Materials and methods: We retrieved the PubMed, Embase, Web of science, China National Knowledge Infrastructure (CNKI), and Wanfang databases to acquire the eligible studies which were associated with HSP70, HSP90, HSP27, HSP60, and HSP105 protein expression and oral cancer. We applied hazard ratio (HR) and its 95% confidence interval (95% CI) to assess the value of HSP protein expression in overall survival of oral cancer; odds ratio (OR) and its 95% CI were used to evaluate the association of risk and clinical features of oral cancer. Funnel plot, Begg test, and Egger line regression test were utilized to observe publication bias among studies. All statistical analysis was performed with Stata 14.0 software (Stata Corporation, College Station, TX). Results: A total of 26 studies were included in the present meta-analysis. On based of the results, HSP70 and HSP27 had no significant association with progression of oral cancer. However, the pooled HR and 95% CI revealed a significant well effects of HSP70 and HSP27 expression on survival of oral cancer. Moreover, the susceptibility of oral cancer was significantly associated with HSP70 and HSP60 overexpression. Conclusion: HSP70 and HSP27 protein overexpression might be valuable biomarkers for the prognosis of oral cancer. And HSP70 and HSP60 might have potential predictive effects on the risk of oral cancer.",
+      "corpusId": 231720171,
+      "url": "https://api.semanticscholar.org/CorpusId:231720171",
+      "pubmed_id": "33546049",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1097/md.0000000000024274",
+        "matched_title": "Prognosis and predictive value of heat-shock proteins expression in oral cancer: A PRISMA-compliant meta-analysis.",
+        "matched_pubdate": "2021 Jan 22",
+        "matched_source": "Medicine (Baltimore)"
+      }
+    },
+    {
+      "title": "Prognostic value of the mRNA expression of members of the HSP90 family in non-small cell lung cancer",
+      "authors": [
+        {
+          "name": "Kang Liu",
+          "id": "48088058"
+        },
+        {
+          "name": "Min Kang",
+          "id": "3985090"
+        },
+        {
+          "name": "Jixi Li",
+          "id": "2144515091"
+        },
+        {
+          "name": "W. Qin",
+          "id": "1406033962"
+        },
+        {
+          "name": "Rensheng Wang",
+          "id": "152465871"
+        }
+      ],
+      "year": 2019,
+      "venue": "Experimental and Therapeutic Medicine",
+      "score": 0.7524197226464335,
+      "abstract": "The aim of the present study was to investigate the potential prognostic value of members of the heat shock protein (HSP)90 family in non-small cell lung cancer (NSCLC) patients. The mRNA expression profiles of 1,926 NSCLC patients, which was available from the Kaplan-Meier plotter database, were included in the study. High expression of HSP90AA1 mRNA was significantly associated with a poorer rate of overall survival (OS) for all NSCLC patients [hazard ratio (HR), 1.21; 95% confidence interval (CI): 1.06–1.37; P=0.004], as well as for patients with adenocarcinoma (ADE; HR, 1.3; 95% CI: 1.02–1.65; P=0.034), but no significant correlation was identified for squamous cell carcinoma (SCC) patients (HR, 1.08; 95% CI: 0.85–1.38; P=0.51). High expression of HSP90AB1 and HSP90B1 mRNA was significantly associated with poorer rates of OS in lung SCC and ADE patients combined, as well as in lung ADE patients alone. By contrast, high expression of tumor necrosis factor receptor-associated protein 1 (TRAP1) mRNA was significantly associated with improved OS rates in all NSCLC patients combined (HR, 0.88; 95% CI: 0.77–0.99; P=0.041), as well as ADE patients. In stratified survival analysis, a high expression of HSP90AA1, HSP90AB1 and HSP90B1 predicted poor prognosis in stage I NSLCC patients, suggesting that these genes may serve as stage-independent prognostic indicators. As an elevated expression of HSP90AA1, HSP90AB1, HSP90B1 and TRAP1 was associated with poorer OS outcomes in patients with NSCLC, these HSP90 members may be potential prognostic biomarkers and drug targets for the treatment of NSCLC.",
+      "corpusId": 85453362,
+      "url": "https://api.semanticscholar.org/CorpusId:85453362",
+      "pubmed_id": "30930968",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3892/etm.2019.7228",
+        "matched_title": "Prognostic value of the mRNA expression of members of the HSP90 family in non-small cell lung cancer.",
+        "matched_pubdate": "2019 Apr",
+        "matched_source": "Exp Ther Med"
+      }
+    },
+    {
+      "title": "Preoperative heat shock protein 47 levels identify colorectal cancer patients with lymph node metastasis and poor prognosis",
+      "authors": [
+        {
+          "name": "K. Mori",
+          "id": "49810982"
+        },
+        {
+          "name": "Y. Toiyama",
+          "id": "5536792"
+        },
+        {
+          "name": "Y. Okugawa",
+          "id": "2402859"
+        },
+        {
+          "name": "Takashi Ichikawa",
+          "id": "48266549"
+        },
+        {
+          "name": "Y. Nagano",
+          "id": "5984709"
+        },
+        {
+          "name": "S. Oki",
+          "id": "31484406"
+        },
+        {
+          "name": "Tadanobu Shimura",
+          "id": "36469720"
+        },
+        {
+          "name": "H. Fujikawa",
+          "id": "40623546"
+        },
+        {
+          "name": "J. Hiro",
+          "id": "4397012"
+        },
+        {
+          "name": "M. Kobayash",
+          "id": "2004087649"
+        },
+        {
+          "name": "T. Araki",
+          "id": "6828850"
+        },
+        {
+          "name": "Y. Inoue",
+          "id": "145413458"
+        },
+        {
+          "name": "Y. Mohri",
+          "id": "6047768"
+        },
+        {
+          "name": "M. Kusunoki",
+          "id": "3214309"
+        }
+      ],
+      "year": 2020,
+      "venue": "Oncology Letters",
+      "score": 0.7356097857323618,
+      "abstract": "Accumulating evidence suggests that overexpression of heat shock protein 47 (HSP47) increases cancer progression, and that HSP47 level in the tumor-associated stroma may serve as a diagnostic marker in various cancers. The present study aimed to evaluate whether HSP47 gene expression in colorectal cancer (CRC) tissues could be used to identify lymph node (LN) metastasis status preoperatively in patients with CRC. To do so, HSP47 gene expression was determined and its association with the clinicopathological characteristics of patients with CRC was analyzed. A total of 139 surgical specimens from patients with CRC and 36 patients with benign colonic disease undergoing surgery at Mie University Hospital were analyzed. HSP47 gene expression was determined by reverse transcription quantitative PCR using Power SYBR Green PCR methods. Expression level of HSP47 was significantly higher in CRC tissues compared with normal tissue from patients with benign colonic disease. Furthermore, high HSP47 expression was significantly associated with tumor progression, including high T stage, lymph node metastasis and venous invasion, and high TNM stage. High HSP47 expression may therefore serve as a novel predictive biomarker for determining patients with CRC and LN metastasis. According to Kaplan-Meier analysis, patients with high HSP47 expression level had significantly poorer overall survival than those with low HSP47 expression level. Furthermore, multivariate analyses identified HSP47 expression as an independent predictive marker for LN metastasis and poor overall survival in patients with CRC. In summary, the present study demonstrated that HSP47 expression may be considered as a novel biomarker for predicting LN metastasis status and prognosis in patients with CRC.",
+      "corpusId": 225095412,
+      "url": "https://api.semanticscholar.org/CorpusId:225095412",
+      "pubmed_id": "33123244",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3892/ol.2020.12196",
+        "matched_title": "Preoperative heat shock protein 47 levels identify colorectal cancer patients with lymph node metastasis and poor prognosis.",
+        "matched_pubdate": "2020 Dec",
+        "matched_source": "Oncol Lett"
+      }
+    },
+    {
+      "title": "High expression of HSP90 is associated with poor prognosis in patients with colorectal cancer",
+      "authors": [
+        {
+          "name": "Shuming Zhang",
+          "id": "2107917410"
+        },
+        {
+          "name": "Shichao Guo",
+          "id": "49019659"
+        },
+        {
+          "name": "Zhangfu Li",
+          "id": "2004120053"
+        },
+        {
+          "name": "Dan Li",
+          "id": "2150383554"
+        },
+        {
+          "name": "Q. Zhan",
+          "id": "38678793"
+        }
+      ],
+      "year": 2019,
+      "venue": "PeerJ",
+      "score": 0.733780255119565,
+      "abstract": "Background Heat shock protein 90 (HSP90) is a highly conserved chaperone with an approximate molecular weight of 90-kDa. It plays a critical role in maintaining stability and homeostasis of oncoproteins, helping cancer cells living in the unsuitable environmental conditions. The current study aims to inquire the difference of HSP90 expression in tumor tissues and normal tissues, analyze the correlation between HSP90 expression and the prognoses of patients with colorectal cancer (CRC), and investigate its role in CRC preliminarily. Methods Online analysis of HSP90 mRNA levels in different cancers was firstly done in Gene Expression Profiling Interactive Analysis. Then HSP90 expression was determined by immunohistochemistry between 99 CRC tissues and 81 normal tissues. Chi-square test or Fisher’s exact test was used to analyze the relationship between HSP90 and histopathologic characteristics. Kaplan–Meier analysis and Cox’s proportional hazards model were also done for further analysis of the prognostic values of HSP90. Pearson’s correlation coefficients between HSP90 expression values and other mRNA expression values were calculated based on The Cancer Genome Atlas dataset and bioinformatic analysis was done about these screened genes. Results Colorectal cancer tissues showed significantly higher expression of HSP90 than normal tissues (55.6% vs. 3.7%, P < 0.0001). Kaplan–Meier curves showed high HSP90 expression was associated with poor prognosis (P = 0.039) in CRC patients, and multivariate Cox proportional hazards regression model analysis also indicated that HSP90 expression (HR = 1.930, 95% CI [1.113–3.349], P = 0.019) linked to poor prognosis. Moreover, 85 genes were correlated with HSP90, which were involved in metabolic process and enriched in pathways of Proteasome and Base excision repair. Conclusions Our results suggested that HSP90 expression is inversely associated with survival outcomes and could be an independent prognostic factor for CRC patients. It mainly involved in metabolic process and exerted binding and catalytic activities.",
+      "corpusId": 207891541,
+      "url": "https://api.semanticscholar.org/CorpusId:207891541",
+      "pubmed_id": "31687275",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.7717/peerj.7946",
+        "matched_title": "High expression of HSP90 is associated with poor prognosis in patients with colorectal cancer.",
+        "matched_pubdate": "2019",
+        "matched_source": "PeerJ"
+      }
+    },
+    {
+      "title": "Overexpression of the mitochondrial chaperone tumor necrosis factor receptor-associated protein 1 is associated with the poor prognosis of patients with colorectal cancer",
+      "authors": [
+        {
+          "name": "Chang Gao",
+          "id": "49281047"
+        },
+        {
+          "name": "Min Li",
+          "id": "2145625462"
+        },
+        {
+          "name": "Anni Jiang",
+          "id": "49791720"
+        },
+        {
+          "name": "Rui Sun",
+          "id": "2068168591"
+        },
+        {
+          "name": "Honglin Jin",
+          "id": "3633621"
+        },
+        {
+          "name": "Hua-Wei Gui",
+          "id": "39108945"
+        },
+        {
+          "name": "F. Xiao",
+          "id": "2057533546"
+        },
+        {
+          "name": "Xiang-wu Ding",
+          "id": "13766264"
+        },
+        {
+          "name": "Zhenming Fu",
+          "id": "11901686"
+        },
+        {
+          "name": "Jue-Ping Feng",
+          "id": "2220130767"
+        }
+      ],
+      "year": 2018,
+      "venue": "Oncology Letters",
+      "score": 0.7198149579362711,
+      "abstract": "Tumor necrosis factor receptor-associated protein-1 (TRAP-1), a mitochondrial chaperone, contributes significantly to the progression of cancer. However, the understanding of its involvement in the clinicopathological characteristics and prognosis of colorectal cancer (CRC) remains limited. The aim of the present study was to assess the significance of TRAP-1 expression in CRC. The expression of TRAP-1 was evaluated in corresponding cancerous, paracancerous, lymph node and distant metastatic tissues of 256 cases of CRC by immunohistochemistry. The associations between TRAP-1 expression and the clinicopathological parameters and survival rates of patients was assessed. Out of 256 patients with CRC, TRAP-1 expression was detected in 203 (79.3%). TRAP-1 expression was significantly increased in cancerous tissue compared with that in corresponding paracancerous tissues (P<0.001). Overexpression of TRAP-1 was significantly associated with differentiation (P=0.011), depth of invasion (P=0.006), lymph node metastasis (P<0.001) and tumor-node-metastasis stage (P<0.001). In patients with high TRAP-1 expression, the 5-year overall survival (OS) rate was 38.0%, in contrast to 56.5% in patients with low TRAP-1 expression (P=0.003). Similarly, the 5-year progression-free survival (PFS) was 26.6% for patients with high TRAP-1 expression and 53.3% for patients with low TRAP-1 expression (P<0.001). Multivariate analyses indicated the TRAP-1 expression is an independent prognostic factor for poorer OS [P=0.015; hazard ratio (HR), 1.914] and PFS (P<0.001; HR, 2.534). Thus, TRAP-1 may serve as a potential biomarker for predicting the prognosis of patients with CRC. Specifically, overexpression of TRAP-1 may predict progression and poor survival in cases of CRC.",
+      "corpusId": 4009127,
+      "url": "https://api.semanticscholar.org/CorpusId:4009127",
+      "pubmed_id": "29552185",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3892/ol.2018.8042",
+        "matched_title": "Overexpression of the mitochondrial chaperone tumor necrosis factor receptor-associated protein 1 is associated with the poor prognosis of patients with colorectal cancer.",
+        "matched_pubdate": "2018 Apr",
+        "matched_source": "Oncol Lett"
+      }
+    },
+    {
+      "title": "The Prognostic Impact of Heat Shock Proteins Expression in Patients with Esophageal Cancer: A Meta-Analysis",
+      "authors": [
+        {
+          "name": "Xiao-wei Wang",
+          "id": "2108202068"
+        },
+        {
+          "name": "Xin-hui Shi",
+          "id": "2110331703"
+        },
+        {
+          "name": "Yu-Suo Tong",
+          "id": "4228804"
+        },
+        {
+          "name": "Xiu-feng Cao",
+          "id": "2085711"
+        }
+      ],
+      "year": 2015,
+      "venue": "Yonsei medical journal",
+      "score": 0.7101048443391237,
+      "abstract": "Purpose Heat shock proteins (HSPs) are highly conserved molecular chaperones. There are various studies that assess the prognostic value of HSPs in patients with esophageal cancer, but the conclusion remains controversial. This is the first meta-analysis study aiming to summarize the evidence on the suitability of HSPs to predict patients' survival. Materials and Methods Searching PubMed, Web of science and Medline until May 31, 2014, data were compared for overall survival in patients with down-regulated HSPs level with those with up-regulated level. We conducted a meta-analysis of 9 studies (801 patients) that correlated HSPs levels with overall survival. Data were synthesized with hazard ratios (HRs). Results The estimated risk of death was 2.93-fold greater in HSP27 negative patients than HSP27 positive patients [95% confidence interval (CI), 1.12-7.62]. When limited to esophageal squamous cell carcinoma (ESCC), the risk of death in HSP27 negative patients seemed more significant (HR, 3.90; 95% CI, 2.35-6.49). Decreased expression of HSP70 was also associated with worse survival in esophageal cancer (HR, 2.83; 95% CI, 1.90-4.23) and, when limited to ESCC, HR was 3.21 (95% CI, 1.94-5.30). Data collected, however, were not sufficient to determine the prognostic value of HSP90 in patients with ESCC nor esophageal adenocarcinomas (EADC). Conclusion In this meta-analysis, reduced HSP27 and HSP70 expressions were associated with poor survival in patients with esophageal cancer, especially esophageal squamous cell carcinoma.",
+      "corpusId": 15417139,
+      "url": "https://pdfs.semanticscholar.org/633a/56a3ba2e4b2457f220b428117f5252379938.pdf",
+      "pubmed_id": "26446629",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3349/ymj.2015.56.6.1497",
+        "matched_title": "The Prognostic Impact of Heat Shock Proteins Expression in Patients with Esophageal Cancer: A Meta-Analysis.",
+        "matched_pubdate": "2015 Nov",
+        "matched_source": "Yonsei Med J"
+      }
+    },
+    {
+      "title": "The clinicopathological and prognostic value of HSP27 in hepatocellular carcinoma: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "Chaojie Liang",
+          "id": "8852229"
+        },
+        {
+          "name": "Yingchen Xu",
+          "id": "2877271"
+        },
+        {
+          "name": "Hua Ge",
+          "id": "3894253"
+        },
+        {
+          "name": "Guangming Li",
+          "id": "29228774"
+        },
+        {
+          "name": "Jixiang Wu",
+          "id": "2143722913"
+        }
+      ],
+      "year": 2018,
+      "venue": "OncoTargets and Therapy",
+      "score": 0.7059527048788188,
+      "abstract": "Background In the recent past, there is increasing evidence demonstrating that HSP27 plays a key role in tumor progression. However, the relationship between HSP27 expression and the clinicopathological features of hepatocellular carcinoma (HCC), as well as its prognostic value in HCC patients remain controversial. Accordingly, we conducted a meta-analysis to assess the correlation between HSP27 expression and HCC, and determine the prognostic value of HSP27 in HCC. Methods The data included clinicopathological features and survival information extracted from the published literature in the databases PubMed, EMBASE, Cochrane Library, Web of Science, CNKI, and Wan Fang. The pooled odds ratios and hazard ratios with 95% CIs were calculated using Forest plot analysis. Results The meta-analysis results indicated that the positive HSP27 expression was significantly correlated with HCC incidence, tumor differentiation, and α-fetoprotein level in patients with HCC. However, the expression of HSP27 was not associated with metastasis, hepatitis B virus surface antigen, gender, tumor size, TNM stage, and vascular invasion. Additionally, HSP27 expression indicated a poor overall survival rate, but it was not related to disease-free survival rate. Conclusion This meta-analysis revealed that HSP27 may play a key role in the development of HCC and could be a reliable biomarker for the prognosis of patients with HCC. However, additional high-quality research is needed to support the results.",
+      "corpusId": 4008338,
+      "url": "https://api.semanticscholar.org/CorpusId:4008338",
+      "pubmed_id": "29563808",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2147/ott.s154227",
+        "matched_title": "The clinicopathological and prognostic value of HSP27 in hepatocellular carcinoma: a systematic review and meta-analysis.",
+        "matched_pubdate": "2018",
+        "matched_source": "Onco Targets Ther"
+      }
+    },
+    {
+      "title": "The Expression of Multiple Proteins as Prognostic Factors in Colorectal Cancer: Cathepsin D, p53, COX-2, Epidermal Growth Factor Receptor, C-erbB-2, and Ki-67",
+      "authors": [
+        {
+          "name": "I. Shin",
+          "id": "7297131"
+        },
+        {
+          "name": "N. Sung",
+          "id": "5669931"
+        },
+        {
+          "name": "Youn Soo Lee",
+          "id": "2202030702"
+        },
+        {
+          "name": "T. Kwon",
+          "id": "5665543"
+        },
+        {
+          "name": "Y. Si",
+          "id": "7827671"
+        },
+        {
+          "name": "Yoon-Suk Lee",
+          "id": "2303865853"
+        },
+        {
+          "name": "S. Oh",
+          "id": "3522111"
+        },
+        {
+          "name": "I. Lee",
+          "id": "144351723"
+        }
+      ],
+      "year": 2013,
+      "venue": "Gut and Liver",
+      "score": 0.6933645419798947,
+      "abstract": "Background/Aims A single gene mutation alone cannot explain the poor prognosis of colorectal cancer. This study aimed to establish a correlation between the expression of six proteins and the prognosis of colorectal cancer patients. Methods Tissue samples were collected from 266 patients who underwent surgery for colorectal cancer at our institution from January 2006 to December 2007. The expression of six proteins were determined using immunohistochemical staining of specimens. Results Cathepsin D, p53, COX-2, epidermal growth factor receptor, c-erbB-2, and Ki-67 expression were detected in 38.7%, 60.9%, 37.6%, 35.7%, 30.1%, and 74.4% of the samples, respectively. The expression of cathepsin D was significantly correlated with reduced cancer-free survival (p=0.036) and colorectal cancer-specific survival (p=0.003), but the other expression levels were not. In a multivariate analysis, cathepsin D expression was found to be an independent prognostic factor for poorer colorectal cancer-specific survival (hazard ratio, 8.55; 95% confidence interval, 1.07 to 68.49). Furthermore, patients with tumors expressing four or more of the proteins had a significantly decreased cancer-free survival rate (p=0.006) and colorectal cancer-specific survival rate (p=0.002). Conclusions Patients with cathepsin D positivity had a poorer outcome than patients who were cathepsin D-negative. Thus, cathepsin D may provide an indicator for appropriate intensive follow-up and adjuvant chemotherapy.",
+      "corpusId": 5939173,
+      "url": "https://api.semanticscholar.org/CorpusId:5939173",
+      "pubmed_id": "24516696",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.5009/gnl.2014.8.1.13",
+        "matched_title": "The expression of multiple proteins as prognostic factors in colorectal cancer: cathepsin D, p53, COX-2, epidermal growth factor receptor, C-erbB-2, and Ki-67.",
+        "matched_pubdate": "2014 Jan",
+        "matched_source": "Gut Liver"
+      }
+    },
+    {
+      "title": "Plasma Levels of Heat Shock Protein 90 Alpha Associated With Colorectal Cancer Development",
+      "authors": [
+        {
+          "name": "Wene Wei",
+          "id": "14593804"
+        },
+        {
+          "name": "Jiahui Zhou",
+          "id": "2309430544"
+        },
+        {
+          "name": "Lipeng Chen",
+          "id": "150185272"
+        },
+        {
+          "name": "Haizhou Liu",
+          "id": "2120355197"
+        },
+        {
+          "name": "Fuyong Zhang",
+          "id": "48702338"
+        },
+        {
+          "name": "Jilin Li",
+          "id": "2481628"
+        },
+        {
+          "name": "Shu-Fang Ning",
+          "id": "12088474"
+        },
+        {
+          "name": "Shirong Li",
+          "id": "32663831"
+        },
+        {
+          "name": "Chen Wang",
+          "id": "2146563296"
+        },
+        {
+          "name": "Yi Huang",
+          "id": "2108794695"
+        },
+        {
+          "name": "C. Zou",
+          "id": "145799156"
+        },
+        {
+          "name": "Litu Zhang",
+          "id": "5877750"
+        }
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Molecular Biosciences",
+      "score": 0.6615981212469876,
+      "abstract": "Aim: The role of plasma heat shock protein 90 alpha (HSP90α) in colorectal cancer patients remains unclear. This study aimed to evaluate the relationship between HSP90α and the occurrence and development of colorectal cancer through diagnosis and prognosis value. Methods: 635 colorectal cancer patients and 295 healthy controls were recruited. The HSP90α was measured by using the ELISA kit in all objects and the immune cells and common biomarkers as CEA, AFP, CA125, CA153 and CA199 were measured in all colorectal cancer patients. The relationship between plasma HSP90α with clinical features, common tumor markers and immune cells were also conducted. The survival analysis endpoint was progression-free survival (PFS). Results: The levels of plasma HSP90α were significantly higher in colorectal cancer patients compared to healthy controls [51.4 (ng/ml) vs. 43.7 (ng/ml), p < 0.001]. In additional, the levels of plasma HSP90α were associated with gender and disease progress as stage, lymphatic and distant metastasis. Furthermore, plasma HSP90α was closed correlation with CEA, CA125, CA199 and percentage of B cells. However, the initial expression level of plasma HSP90α failed to show a prognostic value for progression-free survival in colorectal cancer. Conclusion: The plasma Hsp90α was remarkable higher in colorectal cancer and correlated with common tumor biomarkers and immune cells. Plasma Hsp90α levels were associated with disease progress but a poor diagnosis performance and also failed to show a prognostic value in colorectal cancer.",
+      "corpusId": 235761324,
+      "url": "https://api.semanticscholar.org/CorpusId:235761324",
+      "pubmed_id": "34307453",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fmolb.2021.684836",
+        "matched_title": "Plasma Levels of Heat Shock Protein 90 Alpha Associated With Colorectal Cancer Development.",
+        "matched_pubdate": "2021",
+        "matched_source": "Front Mol Biosci"
+      }
+    },
+    {
+      "title": "High HSP27 and HSP70 expression levels are independent adverse prognostic factors in primary resected colon cancer",
+      "authors": [
+        {
+          "name": "Karina Bauer",
+          "id": "18239778"
+        },
+        {
+          "name": "U. Nitsche",
+          "id": "47778784"
+        },
+        {
+          "name": "J. Slotta-Huspenina",
+          "id": "1390124260"
+        },
+        {
+          "name": "E. Drecoll",
+          "id": "6682299"
+        },
+        {
+          "name": "C. H. Weyhern",
+          "id": "2063593767"
+        },
+        {
+          "name": "R. Rosenberg",
+          "id": "144296244"
+        },
+        {
+          "name": "H. Höfler",
+          "id": "144972245"
+        },
+        {
+          "name": "R. Langer",
+          "id": "2575360"
+        }
+      ],
+      "year": 2012,
+      "venue": "Cellular Oncology",
+      "score": 0.6602899318673024,
+      "abstract": "",
+      "corpusId": 966009,
+      "url": "https://doi.org/10.1007/s13402-012-0079-3",
+      "pubmed_id": "22535481",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1007/s13402-012-0079-3",
+        "matched_title": "High HSP27 and HSP70 expression levels are independent adverse prognostic factors in primary resected colon cancer.",
+        "matched_pubdate": "2012 Jun",
+        "matched_source": "Cell Oncol (Dordr)"
+      }
+    },
+    {
+      "title": "Heat shock protein 47 promotes tumor survival and therapy resistance by modulating AKT signaling via PHLPP1 in colorectal cancer",
+      "authors": [
+        {
+          "name": "Yi-Jye Chern",
+          "id": "16167770"
+        },
+        {
+          "name": "Peter G. Zhang",
+          "id": "2110001647"
+        },
+        {
+          "name": "Hye-Kyung Ju",
+          "id": "11292568"
+        },
+        {
+          "name": "I. Tai",
+          "id": "2770590"
+        }
+      ],
+      "year": 2020,
+      "venue": "Cancer Biology and Medicine",
+      "score": 0.6600612965236523,
+      "abstract": "Objective: Heat shock protein 47 (HSP47) is a collagen-specific molecular chaperone that facilitates collagen maturation. Its role in cancer remains largely unknown. In this study, we investigated the roles of HSP47 in colorectal cancer (CRC) and therapy resistance. Methods: Expression of HSP47 in CRC tissues was examined (1) in paired human CRC/adjacent normal tissues, using real time quantitative reverse transcription polymerase chain reaction (qRT-PCR), The Cancer Genome Atlas (TCGA) database, and 22 independent microarray databases (curated CRC). In vitro studies on several CRC cell lines (HCT116, RKO and CCL228) with modulated HSP47 expression were conducted to assess cell viability and apoptosis (TUNEL assay and caspase-3/-7) during exposure to chemotherapy. AKT signaling and co-immunoprecipitation studies were performed to examine HSP47 and PHLPP1 interaction. In vivo studies using tumor xenografts were conducted to assess the effects of HSP47 modulation on tumor growth and therapy response. Results: HSP47 was upregulated in CRC and was associated with poor prognosis in individuals with CRC. In vitro, HSP47 overexpression supported the survival of CRC cells, whereas its knockdown sensitized cells to 5-fluorouracil (5-FU). HSP47 promoted survival by inhibiting apoptosis, enhancing AKT phosphorylation, and decreasing expression of the AKT-specific phosphatase PHLPP1 when cells were exposed to chemotherapy. These effects were partly results of the interaction between HSP47 and PHLPP1, which decreased PHLPP1 stability and led to more persistent AKT activity. In vivo, HSP47 supported tumor growth despite 5-FU treatment. Conclusions: HSP47 supports the growth of CRC tumors and suppresses the efficacy of chemotherapy via modulation of AKT signaling.",
+      "corpusId": 220042810,
+      "url": "https://api.semanticscholar.org/CorpusId:220042810",
+      "pubmed_id": "32587773",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.20892/j.issn.2095-3941.2019.0261",
+        "matched_title": "Heat shock protein 47 promotes tumor survival and therapy resistance by modulating AKT signaling via PHLPP1 in colorectal cancer.",
+        "matched_pubdate": "2020 May 15",
+        "matched_source": "Cancer Biol Med"
+      }
+    },
+    {
+      "title": "Construction of a 12-gene prognostic model for colorectal cancer based on heat shock protein-related genes",
+      "authors": [
+        {
+          "name": "Qin Tong",
+          "id": "2280867321"
+        },
+        {
+          "name": "Junchao Zhou",
+          "id": "2151552774"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Hyperthermia",
+      "score": 0.6585217321201879,
+      "abstract": "Abstract Some heat shock proteins (HSPs) have been shown to influence tumor prognosis, but their prognostic significance in colorectal cancer (CRC) remains unclear. This study explored the prognostic significance of HSP-related genes in CRC. Transcriptional data and clinical information of CRC patients were obtained from The Cancer Genome Atlas (TCGA) database, and a literature search was conducted to identify HSP-related genes. Using Least Absolute Selection and Shrinkage Operator (LASSO) regression and univariate/multivariate Cox regression analyses, 12 HSP-related genes demonstrating significant associations with CRC survival were successfully identified and employed to formulate a predictive risk score model. The efficacy and precision of this model were validated utilizing TCGA and Gene Expression Omnibus (GEO) datasets, demonstrating its reliability in CRC prognosis prediction. gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses revealed significant disparities between high- and low-risk groups in chromatin remodeling biological functions and neutrophil extracellular trap formation pathways. Single sample gene set enrichment analysis (ssGSEA) further revealed differences in immune cell types and immune functional status between the two risk groups. Differential analysis showed higher expression of immune checkpoints within the low-risk group, while the high-risk group exhibited notably higher Tumor Immune Dysfunction and Exclusion (TIDE) scores. Additionally, we predicted the sensitivity of different prognosis risk patients to various drugs, providing potential drug choices for tailored treatment. Combined, our study successfully crafted a novel CRC prognostic model that can effectively predict patient survival, immune landscape, and treatment response, providing important support and guidance for CRC patient prognosis.",
+      "corpusId": 266872741,
+      "url": "https://api.semanticscholar.org/CorpusId:266872741",
+      "pubmed_id": "38191150",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1080/02656736.2023.2290913",
+        "matched_title": "Construction of a 12-gene prognostic model for colorectal cancer based on heat shock protein-related genes.",
+        "matched_pubdate": "2024",
+        "matched_source": "Int J Hyperthermia"
+      }
+    },
+    {
+      "title": "HSPA4 Knockdown Retarded Progression and Development of Colorectal Cancer",
+      "authors": [
+        {
+          "name": "Mingliang Zhang",
+          "id": "96880103"
+        },
+        {
+          "name": "Weigang Dai",
+          "id": "8761541"
+        },
+        {
+          "name": "Zhanyu Li",
+          "id": "2145302705"
+        },
+        {
+          "name": "Liang Tang",
+          "id": "151503118"
+        },
+        {
+          "name": "Jianhui Chen",
+          "id": "2108513540"
+        },
+        {
+          "name": "Chuangqi Chen",
+          "id": "7863221"
+        }
+      ],
+      "year": 2020,
+      "venue": "Cancer Management and Research",
+      "score": 0.6582489819502212,
+      "abstract": "Purpose Colorectal cancer (CRC) is a common malignancy associated with high morbidity and mortality. Heat shock 70 kDa protein 4 (HSPA4) has been shown to exert regulatory roles during tumor progression in different cancer types. Here, we investigated the expression and cellular functions of HSPA4 in CRC. Materials and Methods Expression of HSPA4 in CRC tissues and paracancerous tissues was analyzed by RT-qPCR and immunohistochemistry IHC staining. The functional roles of HSPA4 were explored using shRNA-mediated knockdown in HCT116 and RKO CRC cell lines, both in vitro and in tumor xenograft studies. Results HSPA4 expression was significantly increased at the RNA and protein levels in CRC tissues compared with noncancerous tissues. Moreover, HSPA4 expression was positively associated with tumor stage and its high expression of HSPA4 indicated poor patient prognosis. In vitro studies established that HSPA4 knockdown inhibited proliferation and migration, causing arrest in the G2-phase of the cell cycle along with increased levels of apoptosis. This phenotype was recapitulated in vivo where HSPA4 knockdown suppressed xenograft growth. Mechanistic investigations showed silencing of HSPA4 reduced activation of the PI3K, Akt signaling axis while also downregulating the cell cycle progression markers, CCND1 and CDK6. Similarly, there was altered expression of apoptosis-related proteins consistent with the increase in apoptosis. Conclusion Our findings demonstrate clinical significance for HSPA4 in CRC, further showing that HSPA4 contributes to CRC tumorigenesis through effects on proliferation, migration and survival. Thus, HSPA4 represents a novel prognostic indicator as well as a promising therapeutic target in CRC.",
+      "corpusId": 231891546,
+      "url": "https://api.semanticscholar.org/CorpusId:231891546",
+      "pubmed_id": "34163243",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2147/cmar.s310729",
+        "matched_title": "HSPA4 Knockdown Retarded Progression and Development of Colorectal Cancer.",
+        "matched_pubdate": "2021",
+        "matched_source": "Cancer Manag Res"
+      }
+    },
+    {
+      "title": "Extracellular HSP110 skews macrophage polarization in colorectal cancer",
+      "authors": [
+        {
+          "name": "K. Berthenet",
+          "id": "3569388"
+        },
+        {
+          "name": "C. Boudesco",
+          "id": "4411236"
+        },
+        {
+          "name": "A. Collura",
+          "id": "2011297"
+        },
+        {
+          "name": "M. Svrcek",
+          "id": "1996961"
+        },
+        {
+          "name": "S. Richaud",
+          "id": "10283539"
+        },
+        {
+          "name": "A. Hammann",
+          "id": "8962267"
+        },
+        {
+          "name": "Sebastien Z. Causse",
+          "id": "2292459"
+        },
+        {
+          "name": "Nadhir Yousfi",
+          "id": "3279678"
+        },
+        {
+          "name": "K. Wanherdrick",
+          "id": "5257773"
+        },
+        {
+          "name": "L. Duplomb",
+          "id": "6353900"
+        },
+        {
+          "name": "A. Duval",
+          "id": "145589657"
+        },
+        {
+          "name": "C. Garrido",
+          "id": "91082962"
+        },
+        {
+          "name": "G. Jego",
+          "id": "39755924"
+        }
+      ],
+      "year": 2016,
+      "venue": "Oncoimmunology",
+      "score": 0.6533027972372294,
+      "abstract": "ABSTRACT HSP110 is induced by different stresses and, through its anti-apoptotic and chaperoning properties, helps the cells to survive these adverse situations. In colon cancers, HSP110 is abnormally abundant. We have recently showed that colorectal cancer (CRC) patients with microsatellite instability (MSI) had an improved response to chemotherapy because they harbor an HSP110 inactivating mutation (HSP110DE9). In this work, we have used patients' biopsies and human CRC cells grown in vitro and in vivo (xenografts) to demonstrate that (1) HSP110 is secreted by CRC cells and that the amount of this extracellular HSP110 is strongly decreased by the expression of the mutant HSP110DE9, (2) Supernatants from CRC cells overexpressing HSP110 or purified recombinant human HSP110 (LPS-free) affect macrophage differentiation/polarization by favoring a pro-tumor, anti-inflammatory profile, (3) Conversely, inhibition of HSP110 (expression of siRNA, HSP110DE9 or immunodepletion) induced the formation of macrophages with a cytotoxic, pro-inflammatory profile. (4) Finally, this effect of extracellular HSP110 on macrophages seems to implicate TLR4. These results together with the fact that colorectal tumor biopsies with HSP110 high were infiltrated with macrophages with a pro-tumoral profile while those with HSP110 low were infiltrated with macrophages with a cytotoxic profile, suggest that the effect of extracellular HSP110 function on macrophages may also contribute to the poor outcomes associated with HSP110 expression.",
+      "corpusId": 35792137,
+      "url": "https://api.semanticscholar.org/CorpusId:35792137",
+      "pubmed_id": "27622020",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1080/2162402x.2016.1170264",
+        "matched_title": "Extracellular HSP110 skews macrophage polarization in colorectal cancer.",
+        "matched_pubdate": "2016 Jul",
+        "matched_source": "Oncoimmunology"
+      }
+    },
+    {
+      "title": "Gene expression analysis of heat-shock proteins and redox regulators reveals combinatorial prognostic markers in carcinomas of the gastrointestinal tract",
+      "authors": [
+        {
+          "name": "S. Pohl",
+          "id": "49877021"
+        },
+        {
+          "name": "S. Pervaiz",
+          "id": "1997318"
+        },
+        {
+          "name": "A. Dharmarajan",
+          "id": "32408049"
+        },
+        {
+          "name": "Mark Agostino",
+          "id": "3211179"
+        }
+      ],
+      "year": 2018,
+      "venue": "Redox Biology",
+      "score": 0.6438464370421697,
+      "abstract": "Heat shock proteins (HSPs) are a large family of ubiquitously expressed proteins with diverse functions, including protein assembly and folding/unfolding. These proteins have been associated with the progression of various gastrointestinal tumours. Dysregulation of cellular redox has also been associated with gastrointestinal carcinogenesis, however, a link between HSPs and dysregulation of cellular redox in carcinogenesis remains unclear. In this study, we analysed mRNA co-expression and methylation patterns, as well as performed survival analysis and gene set enrichment analysis, on gastrointestinal cancer data sets (oesophageal, stomach and colorectal carcinomas) to determine whether HSP activity and cellular redox dysregulation are linked. A widespread relationship between HSPs and cellular redox was identified, with specific combinatorial co-expression patterns demonstrated to significantly alter patient survival outcomes. This comprehensive analysis provides the foundation for future studies aimed at deciphering the mechanisms of cooperativity between HSPs and redox regulatory enzymes, which may be a target for future therapeutic intervention for gastrointestinal tumours.",
+      "corpusId": 58619396,
+      "url": "https://api.semanticscholar.org/CorpusId:58619396",
+      "pubmed_id": "30578123",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.redox.2018.11.018",
+        "matched_title": "Gene expression analysis of heat-shock proteins and redox regulators reveals combinatorial prognostic markers in carcinomas of the gastrointestinal tract.",
+        "matched_pubdate": "2019 Jul",
+        "matched_source": "Redox Biol"
+      }
+    },
+    {
+      "title": "High Expression of Heat Shock Protein 90 Is Associated with Tumor Aggressiveness and Poor Prognosis in Patients with Advanced Gastric Cancer",
+      "authors": [
+        {
+          "name": "Jiahong Wang",
+          "id": "2110182563"
+        },
+        {
+          "name": "S. Cui",
+          "id": "145616918"
+        },
+        {
+          "name": "Xiangliang Zhang",
+          "id": "47957395"
+        },
+        {
+          "name": "Yinbing Wu",
+          "id": "7861249"
+        },
+        {
+          "name": "Hong-sheng Tang",
+          "id": "4546676"
+        }
+      ],
+      "year": 2013,
+      "venue": "PLoS ONE",
+      "score": 0.638336947997941,
+      "abstract": "The heat shock protein 90 (HSP90) is overexpressed and highly associated with poor prognosis in many malignancies. However, the role of HSP90 in gastric cancer has not been thoroughly elucidated. The aim of this study is to investigate the relationship of HSP90 expression with clinicopathological parameters and prognosis in advanced gastric cancer, and estimate the alteration of HSP90 expression after neoadjuvant chemotherapy. HSP90 and matrix metallopeptidase 9 (MMP-9) antigen expression was evaluated by immunohistochemistry in 322 advanced gastric carcinoma samples. The relationships between HSP90 and clinicopathological parameters and prognosis were analyzed. The response of HSP90 level was assessed in chemotherapeutic effect in 54 patients received 1–2 cycles of neoadjuvant chemotherapy. The positive expression of HSP90 was found to be 69.6% in 322 advanced gastric carcinoma samples. HSP90 protein expression was significantly associated with depth invasion (P<0.001), lymph node metastasis (P<0.001) and stage of disease (P<0.001). The positive rates of HSP90 expression were higher in both prominent serosal invasion group (P<0.001) and lymph node metastasis group (P<0.001). Moreover, HSP90 was significantly correlated with MMP-9 among 322 gastric cancer tissues (P<0.001). In univariate and multivariate analyses, HSP90 was an independent prognostic factor for both recurrence-free survival (RFS) and overall survival (OS). These results suggested that HSP90 may play an important role on tumor invasion, metastasis and prognosis, and might act as a promising target for prognostic prediction.",
+      "corpusId": 9020960,
+      "url": "https://api.semanticscholar.org/CorpusId:9020960",
+      "pubmed_id": "23638161",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0062876",
+        "matched_title": "High expression of heat shock protein 90 is associated with tumor aggressiveness and poor prognosis in patients with advanced gastric cancer.",
+        "matched_pubdate": "2013",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Heat shock protein expression independently predicts clinical outcome in prostate cancer.",
+      "authors": [
+        {
+          "name": "P. Cornford",
+          "id": "48684728"
+        },
+        {
+          "name": "Andy Dodson",
+          "id": "2071998998"
+        },
+        {
+          "name": "K. Parsons",
+          "id": "2059398497"
+        },
+        {
+          "name": "A. Desmond",
+          "id": "3674249"
+        },
+        {
+          "name": "Alan Woolfenden",
+          "id": "36252333"
+        },
+        {
+          "name": "M. Fordham",
+          "id": "39776329"
+        },
+        {
+          "name": "J. Neoptolemos",
+          "id": "4343503"
+        },
+        {
+          "name": "Y. Ke",
+          "id": "48502386"
+        },
+        {
+          "name": "C. Foster",
+          "id": "2195758393"
+        }
+      ],
+      "year": 2000,
+      "venue": "Cancer Research",
+      "score": 0.6166181013998181,
+      "abstract": "",
+      "corpusId": 17243862,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11156417",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "High mRNA Expression Levels of Heat Shock Protein Family B Member 2 (HSPB2) Are Associated with Breast Cancer Patients’ Relapse and Poor Survival",
+      "authors": [
+        {
+          "name": "A. Sklirou",
+          "id": "5695904"
+        },
+        {
+          "name": "D. Gianniou",
+          "id": "89695131"
+        },
+        {
+          "name": "P. Karousi",
+          "id": "92354282"
+        },
+        {
+          "name": "C. Cheimonidi",
+          "id": "90948691"
+        },
+        {
+          "name": "G. Papachristopoulou",
+          "id": "4349573"
+        },
+        {
+          "name": "C. Kontos",
+          "id": "3914100"
+        },
+        {
+          "name": "A. Scorilas",
+          "id": "4213166"
+        },
+        {
+          "name": "I. Trougakos",
+          "id": "3538887"
+        }
+      ],
+      "year": 2022,
+      "venue": "International Journal of Molecular Sciences",
+      "score": 0.6115921487680838,
+      "abstract": "Small heat shock proteins (sHSPs) are ubiquitous ATP-independent chaperones that contribute to the maintenance of proteome integrity and functionality. Recent evidence suggests that sHSPs are ubiquitously expressed in numerous types of tumors and have been proposed to be implicated in oncogenesis and malignant progression. Heat shock protein family B member 2 (HSPB2) is a member of the sHSPs, which is found to be expressed, among others, in human breast cancer cell lines and constitutes an inhibitor of apical caspase activation in the extrinsic apoptotic pathway. In this study, we investigated the potential prognostic significance of HSPB2 mRNA expression levels in breast cancer, which represents the most frequent malignancy in females and one of the three most common cancer types worldwide. To this end, malignant breast tumors along with paired non-cancerous breast tissue specimens were used. HSPB2 expression levels were quantified in these two cohorts using a sensitive and accurate SYBR green-based quantitative real-time polymerase chain reaction (q-RT-PCR). Extensive biostatistical analyses were performed including Kaplan–Meier and Cox regression survival analyses for the assessment of the results. The significant downregulation of HSPB2 gene expression was revealed in breast tumors compared to their adjacent non-cancerous breast tissues. Notably, high HSPB2 mRNA expression predicts poor disease-free survival and overall survival of breast cancer patients. Multivariate Cox regression analysis revealed that HSPB2 mRNA overexpression is a significant predictor of poor prognosis in breast cancer, independent of other clinicopathological factors. In conclusion, high HSPB2 mRNA expression levels are associated with breast cancer patients’ relapse and poor survival.",
+      "corpusId": 251948836,
+      "url": "https://api.semanticscholar.org/CorpusId:251948836",
+      "pubmed_id": "36077156",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ijms23179758",
+        "matched_title": "High mRNA Expression Levels of Heat Shock Protein Family B Member 2 (HSPB2) Are Associated with Breast Cancer Patients' Relapse and Poor Survival.",
+        "matched_pubdate": "2022 Aug 28",
+        "matched_source": "Int J Mol Sci"
+      }
+    },
+    {
+      "title": "Prognostic significance of heat shock proteins 27 and 70 in patients with squamous cell carcinoma of the esophagus",
+      "authors": [
+        {
+          "name": "K. Kawanishi",
+          "id": "10250009"
+        },
+        {
+          "name": "H. Shiozaki",
+          "id": "90532712"
+        },
+        {
+          "name": "Y. Doki",
+          "id": "2718732"
+        },
+        {
+          "name": "I. Sakita",
+          "id": "3337738"
+        },
+        {
+          "name": "M. Inoue",
+          "id": "48124331"
+        },
+        {
+          "name": "M. Yano",
+          "id": "144892854"
+        },
+        {
+          "name": "T. Tsujinaka",
+          "id": "6501904"
+        },
+        {
+          "name": "A. Shamma",
+          "id": "123877664"
+        },
+        {
+          "name": "M. Monden",
+          "id": "2051373"
+        }
+      ],
+      "year": 1999,
+      "venue": "Cancer",
+      "score": 0.6104289403881957,
+      "abstract": "",
+      "corpusId": 24924634,
+      "url": "https://doi.org/10.1002/%28SICI%291097-0142%2819990415%2985%3A8%3C1649%3A%3AAID-CNCR2%3E3.0.CO%3B2-V",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "10.1002/%28SICI%291097-0142%2819990415%2985%3A8%3C1649%3A%3AAID-CNCR2%3E3.0.CO%3B2-V",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Prognostic Impact of Heat Shock Protein 90 Expression in Women Diagnosed with Cervical Cancer",
+      "authors": [
+        {
+          "name": "Tilman L. R. Vogelsang",
+          "id": "2122311629"
+        },
+        {
+          "name": "E. Schmoeckel",
+          "id": "2137936771"
+        },
+        {
+          "name": "N. Topalov",
+          "id": "2127767712"
+        },
+        {
+          "name": "F. Ganster",
+          "id": "2265152394"
+        },
+        {
+          "name": "S. Mahner",
+          "id": "2243920776"
+        },
+        {
+          "name": "U. Jeschke",
+          "id": "2260990864"
+        },
+        {
+          "name": "A. Vattai",
+          "id": "8213525"
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Molecular Sciences",
+      "score": 0.606840891097236,
+      "abstract": "Heat Shock Protein 90 (HSP90), a major molecular chaperone, plays a crucial role in cell function by folding and stabilizing proteins and maintaining proteostasis. This study aimed to elucidate the prognostic impact of HSP90 in cervical cancer. We analyzed HSP90 expression using immunohistochemistry in cervical cancer tissue microarrays from 250 patients. This study investigated correlations between HSP90 expression levels and key clinical outcomes, including overall survival (OS), progression-free survival (PFS), and FIGO classification. The statistical analyses employed included the Kruskal–Wallis-H test, log-rank (Mantel–Cox), and Cox regression. Our findings indicate that high nuclear HSP90 expression is associated with improved OS, while high cytoplasmic HSP90 expression correlates with better PFS and a lower FIGO classification in cervical squamous cell carcinoma patients. These results suggest that HSP90 could serve as a positive prognostic factor in patients diagnosed with cervical squamous cell carcinoma, underlining its potential as a biomarker for patient prognosis and as a target for therapeutic strategies.",
+      "corpusId": 267293085,
+      "url": "https://api.semanticscholar.org/CorpusId:267293085",
+      "pubmed_id": "38338850",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ijms25031571",
+        "matched_title": "Prognostic Impact of Heat Shock Protein 90 Expression in Women Diagnosed with Cervical Cancer.",
+        "matched_pubdate": "2024 Jan 26",
+        "matched_source": "Int J Mol Sci"
+      }
+    },
+    {
+      "title": "Comprehensive analysis of heat shock protein 110, 90, 70, 60 families and tumor immune microenvironment characterization in clear cell renal cell carcinoma",
+      "authors": [
+        {
+          "name": "Wenjing Liao",
+          "id": "2339252509"
+        },
+        {
+          "name": "Mao Huang",
+          "id": "2219057831"
+        },
+        {
+          "name": "Xiaoyi Du",
+          "id": "2338872560"
+        },
+        {
+          "name": "Liangdan Tang",
+          "id": "2302413967"
+        },
+        {
+          "name": "Junwu Li",
+          "id": "2130141646"
+        },
+        {
+          "name": "Qin Tang",
+          "id": "2362411733"
+        }
+      ],
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "score": 0.6059988095231311,
+      "abstract": "Heat shock proteins (HSPs) are a kind of molecular chaperone that helps protein folding, which is closely related to cancer. However, the association between HSPs and clear cell renal clear cell carcinoma (ccRCC) is uncertain. We explored the prognostic value of HSP110, HSP90, HSP70 and HSP60 families in ccRCC and their role in tumor immune microenvironment. The data obtained from the Cancer Genome Atlas (TCGA) were applied to determine the differential expression of HSPs in normal tissues and ccRCC. We comprehensively analyzed the prognostic value of HSPs in ccRCC and constructed a prognostic signature. We further explored the differences of tumor immune microenvironment and targeted therapy based on the signature. Cell proliferation, invasion and metastasis were detected by CCK8 assay, wound healing and transwell. Three clusters were identified with differences in overall survival and tumor stage. 6-gene signature (HSPA8, HSP90B1, HSPA7, HSPA12B, HSPA4L, HSPA1L) was identified to predict ccRCC patients’ prognosis. The signature was confirmed in the internal cohort. Survival analysis, receiver operating characteristic (ROC) curve, univariate and multivariate COX regression analysis demonstrated the accuracy and independence of signature. The expression of HSPA7, HSPA8 and HSP90B1 were validated with quantitative real-time PCR. Our signature played a pivotal role in predicting tumor immune microenvironment, immune checkpoint gene expression, drug sensitivity, and tumor mutational burden (TMB) in patients with ccRCC. Our cellular experiments confirmed HSPA7 promotes the proliferation, invasion and metastasis of ccCRC cells. The HSPs signature identified in this study could serve as potential biomarkers for predicting prognosis and treatment response in ccRCC patients. It may provide new ideas for the current research on targeted therapy and immunotherapy strategies for ccRCC patients.",
+      "corpusId": 275258753,
+      "url": "https://api.semanticscholar.org/CorpusId:275258753",
+      "pubmed_id": "39747468",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/s41598-024-84834-x",
+        "matched_title": "Comprehensive analysis of heat shock protein 110, 90, 70, 60 families and tumor immune microenvironment characterization in clear cell renal cell carcinoma.",
+        "matched_pubdate": "2025 Jan 2",
+        "matched_source": "Sci Rep"
+      }
+    },
+    {
+      "title": "Clinical, prognostic, and therapeutic significance of heat shock protein 27 in bladder cancer",
+      "authors": [
+        {
+          "name": "Myung-Shin Lee",
+          "id": "81787123"
+        },
+        {
+          "name": "Jisu Lee",
+          "id": "8152340"
+        },
+        {
+          "name": "Suhyuk Lee",
+          "id": "8568179"
+        },
+        {
+          "name": "Seung-min Yoo",
+          "id": "2792257"
+        },
+        {
+          "name": "Joo Heon Kim",
+          "id": "2110130011"
+        },
+        {
+          "name": "W. Kim",
+          "id": "2157712058"
+        },
+        {
+          "name": "Wun-Jae Kim",
+          "id": "2140053618"
+        },
+        {
+          "name": "Jinsung Park",
+          "id": "2116753998"
+        }
+      ],
+      "year": 2018,
+      "venue": "OncoTarget",
+      "score": 0.6055019029399089,
+      "abstract": "Heat shock protein 27 (HSP27) is highly expressed in many cancers, and its prognostic and predictive value has been reported. HSP27 knockdown using siRNA or OGX-427 (an anti-sense oligonucleotide sequence targeting HSP27) is reported to have anti-cancer effects and to enhance chemosensitivity of cancer cells to chemotherapeutic agents. However, conflicting results have been reported regarding the clinical significance of HSP27 in bladder cancer (BC). Furthermore, long-term suppression of HSP27 has not been investigated in BC. In this study, we investigated the association between HSP27 expression and BC characteristics in 132 BC patient samples, as well as its prognostic value to determine the potential of HSP27 as a clinical biomarker. Additionally, we applied five different shRNAs targeting HSP27 in three invasive BC cell lines to analyze the long-term knockdown effects of HSP27. Our study revealed a significant association between HSP27 expression and adverse pathological characteristics such as high-stage and -grade BC. However, HSP27 expression was not associated with clinical outcomes such as tumor recurrence, progression, and patient survival. Interestingly, although our shRNAs had obvious knockdown effects on HSP27 in BC cells, we did not find consistent effects on apoptosis of BC cells or chemotherapeutic sensitivity of BC cells to cisplatin. Therefore, although HSP27 may be a predictor of adverse pathological characteristics in BC, its role as a prognostic biomarker and therapeutic target seems to be limited.",
+      "corpusId": 3589965,
+      "url": "https://pdfs.semanticscholar.org/751b/5e43b07a57c404e165f021d7984482641ec9.pdf",
+      "pubmed_id": "29487706",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.18632/oncotarget.24091",
+        "matched_title": "Clinical, prognostic, and therapeutic significance of heat shock protein 27 in bladder cancer.",
+        "matched_pubdate": "2018 Jan 30",
+        "matched_source": "Oncotarget"
+      }
+    },
+    {
+      "title": "Nuclear heat shock protein 110 expression is associated with poor prognosis and hyperthermo-chemotherapy resistance in gastric cancer patients with peritoneal metastasis",
+      "authors": [
+        {
+          "name": "Akiharu Kimura",
+          "id": "11056075"
+        },
+        {
+          "name": "Kyoichi Ogata",
+          "id": "2170554"
+        },
+        {
+          "name": "B. Altan",
+          "id": "3883276"
+        },
+        {
+          "name": "T. Yokobori",
+          "id": "6152511"
+        },
+        {
+          "name": "E. Mochiki",
+          "id": "5645258"
+        },
+        {
+          "name": "Mitsuhiro Yanai",
+          "id": "34040261"
+        },
+        {
+          "name": "Norimichi Kogure",
+          "id": "40552899"
+        },
+        {
+          "name": "Toru Yanoma",
+          "id": "6819075"
+        },
+        {
+          "name": "Masaki Suzuki",
+          "id": "2111452697"
+        },
+        {
+          "name": "Tu-ya Bai",
+          "id": "4635877"
+        },
+        {
+          "name": "H. Kuwano",
+          "id": "1780822"
+        }
+      ],
+      "year": 2017,
+      "venue": "World Journal of Gastroenterology",
+      "score": 0.6031484138993387,
+      "abstract": "AIM To investigate the significance of heat shock protein 110 (HSP110) in gastric cancer (GC) patients with peritoneal metastasis undergoing hyperthermo-chemotherapy. METHODS Primary GC patients (n = 14) with peritoneal metastasis or positive peritoneal lavage cytology who underwent distal or total gastrectomy between April 2000 and December 2011 were enrolled in this study. The patients underwent postoperative intraperitoneal hyperthermo-chemotherapy using a Thermotron RF-8 heating device two weeks after surgery. We analyzed nuclear HSP110 expression in surgically resected tumors using immunohistochemistry. Additionally, the effect of HSP110 suppression on hyptherthermo-chemosensitivity was assessed in vitro in the MKN45 GC cell line using the HSP inhibitor KNK437. RESULTS HSP110 immnohistochemical staining in 14 GC patients showed that five (35.7%) samples belonged to the low expression group, and nine (64.3%) samples belonged to the high expression group. Progression-free survival was significantly shorter in the HSP110 high-expression group than in the low-expression group (P = 0.0313). However, no significant relationships were identified between HSP110 expression and the clinicopathological characteristics of patients. Furthermore, high HSP110 expression was not an independent prognostic factor in GC patients with peritoneal metastasis (P = 0.0625). HSP110 expression in MKN45 cells was suppressed by KNK437 at the hyperthermic temperature of 43 °C in vitro. Comparison of MKN45 cell proliferation in the presence and absence of KNK437 at 43 °C, revealed that proliferation was significantly decreased when HSP110 was inhibited by KNK437. Additionally, HSP110 suppression via HSP inhibitor treatment increased cellular sensitivity to hyperthermo-chemotherapy in vitro. CONCLUSION The expression of nuclear HSP110 in GC patients might be a new marker of chemosensitivity and a therapeutic target for patients who are tolerant to existing hyperthermo-chemotherapies.",
+      "corpusId": 3115115,
+      "url": "https://api.semanticscholar.org/CorpusId:3115115",
+      "pubmed_id": "29204054",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3748/wjg.v23.i42.7541",
+        "matched_title": "Nuclear heat shock protein 110 expression is associated with poor prognosis and hyperthermo-chemotherapy resistance in gastric cancer patients with peritoneal metastasis.",
+        "matched_pubdate": "2017 Nov 14",
+        "matched_source": "World J Gastroenterol"
+      }
+    },
+    {
+      "title": "A Survival Association Study of 102 Polymorphisms Previously Associated with Survival Outcomes in Colorectal Cancer",
+      "authors": [
+        {
+          "name": "S. Savas",
+          "id": "2012731"
+        },
+        {
+          "name": "Jingxiong Xu",
+          "id": "6845710"
+        },
+        {
+          "name": "S. Werdyani",
+          "id": "4818453"
+        },
+        {
+          "name": "K. Shestopaloff",
+          "id": "3989656"
+        },
+        {
+          "name": "E. Dicks",
+          "id": "39720095"
+        },
+        {
+          "name": "J. Green",
+          "id": "2113479986"
+        },
+        {
+          "name": "P. Parfrey",
+          "id": "4939045"
+        },
+        {
+          "name": "R. Green",
+          "id": "9102949"
+        },
+        {
+          "name": "Wei Xu",
+          "id": "50232403"
+        }
+      ],
+      "year": 2015,
+      "venue": "BioMed Research International",
+      "score": 0.597044425137947,
+      "abstract": "Several published studies identified associations of a number of polymorphisms with a variety of survival outcomes in colorectal cancer. In this study, we aimed to explore 102 previously reported common genetic polymorphisms and their associations with overall survival (OS) and disease-free survival (DFS) in a colorectal cancer patient cohort from Newfoundland (n = 505). Genotypes were obtained using a genomewide SNP genotyping platform. For each polymorphism, the best possible genetic model was estimated for both overall survival and disease-free survival using a previously published approach. These SNPs were then analyzed under their genetic models by Cox regression method. Correction for multiple comparisons was performed by the False Discovery Rate (FDR) method. Univariate analysis results showed that RRM1-rs12806698, IFNGR1-rs1327474, DDX20-rs197412, and PTGS2-rs5275 polymorphisms were nominally associated with OS or DFS (p < 0.01). In stage-adjusted analysis, the nominal associations of DDX20-rs197412, PTGS2-rs5275, and HSPA5-rs391957 with DFS were detected. However, after FDR correction none of these polymorphisms remained significantly associated with the survival outcomes. We conclude that polymorphisms investigated in this study are not associated with OS or DFS in our colorectal cancer patient cohort.",
+      "corpusId": 1158653,
+      "url": "https://api.semanticscholar.org/CorpusId:1158653",
+      "pubmed_id": "26064972",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2015/968743",
+        "matched_title": "A Survival Association Study of 102 Polymorphisms Previously Associated with Survival Outcomes in Colorectal Cancer.",
+        "matched_pubdate": "2015",
+        "matched_source": "Biomed Res Int"
+      }
+    },
+    {
+      "title": "Heat shock protein 22 overexpression is associated with the progression and prognosis in gastric cancer",
+      "authors": [
+        {
+          "name": "Xiao-shan Li",
+          "id": "2108698475"
+        },
+        {
+          "name": "Qing Xu",
+          "id": "2118219721"
+        },
+        {
+          "name": "Xiang Fu",
+          "id": "50034673"
+        },
+        {
+          "name": "W. Luo",
+          "id": "5278757"
+        }
+      ],
+      "year": 2014,
+      "venue": "Journal of Cancer Research and Clinical Oncology",
+      "score": 0.5888792166017681,
+      "abstract": "AbstractPurpose\nThe heat shock protein 22 (HSP22) is associated with tumor proliferation and protects tumor cell from apoptosis in many malignancies. However, the role of HSP22 in gastric cancer has not been thoroughly elucidated. The aim was to determine the relationship of HSP22 expression with clinicopathological parameters and prognosis in gastric cancer and estimate the alteration of HSP22 expression after neoadjuvant chemotherapy.MethodsHSP22 and matrix metallopeptidase 9 (MMP-9) antigen expressions were evaluated by immunohistochemistry in 129 gastric carcinoma samples. Univariate and multivariate analyses were performed to determine the association between HSP22 expression and prognosis. The response of HSP22 was assessed in 47 patients who received neoadjuvant chemotherapy.ResultsHSP22 protein expression was significantly associated with tumor size, depth invasion, lymph node metastasis and stage of disease (all P < 0.05). In univariate and multivariate analyses, HSP22 was an independent prognostic factor for both overall survival (OS) and recurrence-free survival (RFS) (P = 0.003 and P = 0.004, respectively). Furthermore, HSP22 overexpression was associated with a poor prognosis in all patients and in patients subgroups stratified by tumor size, depth invasion and lymph node metastasis. In addition, HSP22 was significantly correlated with MMP-9 among 129 gastric cancer tissues (P < 0.001). Patients who had MMP-9 overexpression had poor OS and shorter RFS. Moreover, the alteration of HSP22 was not comparable in 47 patients who underwent neoadjuvant chemotherapy.ConclusionsHSP22 plays an important role on tumor aggressiveness and prognosis and may act as a promising target for prognostic prediction.",
+      "corpusId": 29747411,
+      "url": "https://api.semanticscholar.org/CorpusId:29747411",
+      "pubmed_id": "24804817",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s00432-014-1698-z",
+        "matched_title": "Heat shock protein 22 overexpression is associated with the progression and prognosis in gastric cancer.",
+        "matched_pubdate": "2014 Aug",
+        "matched_source": "J Cancer Res Clin Oncol"
+      }
+    },
+    {
+      "title": "Similarities and Differences of Hsp70, hsc70, Grp78 and Mortalin as Cancer Biomarkers and Drug Targets",
+      "authors": [
+        {
+          "name": "Rajani Rai",
+          "id": "6714453"
+        },
+        {
+          "name": "Amy L Kennedy",
+          "id": "1470769312"
+        },
+        {
+          "name": "Z. Isingizwe",
+          "id": "24546937"
+        },
+        {
+          "name": "P. Javadian",
+          "id": "6152187"
+        },
+        {
+          "name": "D. Benbrook",
+          "id": "4960005"
+        }
+      ],
+      "year": 2021,
+      "venue": "Cells",
+      "score": 0.5702073231420344,
+      "abstract": "Abstract Background: Upregulation of Heath Shock Protein 70 (HSP70) chaperones supports cancer cell survival. Their high homology causes a challenge to differentiate them in experimental or prevention and treatment strategies. The objective of this investigation was to determine similarities and differences of Hsp70, hsc70, Grp78 and Mortalin members of the HSP70 family encoded by HSPA1, HSPA8, HSPA5 and HSPA9 genes, respectively. Methods: Literature reviews were conducted using HSPA1, HSPA5, HSPA8 and HSPA9 gene or protein names or synonyms combined with biological or cancer-relevant terms. Ingenuity Pathway Analysis was used to identify and compare profiles of proteins that directly bind individual chaperones and their associated pathways. TCGA data was probed to identify associations of hsc70 with cancer patient survival. ClinicalTrials.gov was used to identify HSP70 family studies. Results: The chaperones have similar protein folding functions. Their different cellular effects are determined by co-chaperones and client proteins combined with their intra- and extra-cellular localizations. Their upregulation is associated with worse patient prognosis in multiple cancers and can stimulate tumor immune responses or drug resistance. Their inhibition selectively kills cancer over healthy cells. Conclusions: Differences in Hsp70, hsc70, Grp78 and mortalin provide opportunities to calibrate HSP70 inhibitors for individual cancers and combination therapies.",
+      "corpusId": 243463653,
+      "url": "https://api.semanticscholar.org/CorpusId:243463653",
+      "pubmed_id": "34831218",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/cells10112996",
+        "matched_title": "Similarities and Differences of Hsp70, hsc70, Grp78 and Mortalin as Cancer Biomarkers and Drug Targets.",
+        "matched_pubdate": "2021 Nov 3",
+        "matched_source": "Cells"
+      }
+    },
+    {
+      "title": "Heat shock proteins create a signature to predict the clinical outcome in breast cancer",
+      "authors": [
+        {
+          "name": "Marta Klimczak",
+          "id": "10092808"
+        },
+        {
+          "name": "P. Biecek",
+          "id": "144356944"
+        },
+        {
+          "name": "Alicja Zylicz",
+          "id": "6340371"
+        },
+        {
+          "name": "M. Żylicz",
+          "id": "5949177"
+        }
+      ],
+      "year": 2019,
+      "venue": "Scientific Reports",
+      "score": 0.568397033215853,
+      "abstract": "Utilizing The Cancer Genome Atlas (TCGA) and KM plotter databases we identified six heat shock proteins associated with survival of breast cancer patients. The survival curves of samples with high and low expression of heat shock genes were compared by log-rank test (Mantel-Haenszel). Interestingly, patients overexpressing two identified HSPs – HSPA2 and DNAJC20 exhibited longer survival, whereas overexpression of other four HSPs – HSP90AA1, CCT1, CCT2, CCT6A resulted in unfavorable prognosis for breast cancer patients. We explored correlations between expression level of HSPs and clinicopathological features including tumor grade, tumor size, number of lymph nodes involved and hormone receptor status. Additionally, we identified a novel signature with the potential to serve as a prognostic model for breast cancer. Using univariate Cox regression analysis followed by multivariate Cox regression analysis, we built a risk score formula comprising prognostic HSPs (HSPA2, DNAJC20, HSP90AA1, CCT1, CCT2) and tumor stage to identify high-risk and low-risk cases. Finally, we analyzed the association of six prognostic HSP expression with survival of patients suffering from other types of cancer than breast cancer. We revealed that depending on cancer type, each of the six analyzed HSPs can act both as a positive, as well as a negative regulator of cancer development. Our study demonstrates a novel HSP signature for the outcome prediction of breast cancer patients and provides a new insight into ambiguous role of these proteins in cancer development.",
+      "corpusId": 156055809,
+      "url": "https://api.semanticscholar.org/CorpusId:156055809",
+      "pubmed_id": "31101846",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/s41598-019-43556-1",
+        "matched_title": "Heat shock proteins create a signature to predict the clinical outcome in breast cancer.",
+        "matched_pubdate": "2019 May 17",
+        "matched_source": "Sci Rep"
+      }
+    },
+    {
+      "title": "HSPA4 upregulation induces immune evasion via ALKBH5/CD58 axis in gastric cancer",
+      "authors": [
+        {
+          "name": "Daqin Suo",
+          "id": "2289645"
+        },
+        {
+          "name": "Xiaoling Gao",
+          "id": "2358508301"
+        },
+        {
+          "name": "Qingyun Chen",
+          "id": "2292793219"
+        },
+        {
+          "name": "T. Zeng",
+          "id": "143863210"
+        },
+        {
+          "name": "Jiarong Zhan",
+          "id": "2295692158"
+        },
+        {
+          "name": "Guanghui Li",
+          "id": "2295808819"
+        },
+        {
+          "name": "Yinli Zheng",
+          "id": "2243310698"
+        },
+        {
+          "name": "Sen-Lin Zhu",
+          "id": "2262190639"
+        },
+        {
+          "name": "J. Yun",
+          "id": "2261490271"
+        },
+        {
+          "name": "Xin-Yuan Guan",
+          "id": "2284524206"
+        },
+        {
+          "name": "Yan Li",
+          "id": "37340613"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of experimental & clinical cancer research : CR",
+      "score": 0.5665143642631643,
+      "abstract": "Gastric cancer (GC) is one of the leading causes of cancer-related death worldwide. Recently, targeted therapies including PD1 (programmed cell death 1) antibodies have been used in advanced GC patients. However, identifying new biomarker for immunotherapy is still urgently needed. The objective of this study is to unveil the immune evasion mechanism of GC cells and identify new biomarkers for immune checkpoint blockade therapy in patients with GC. Coimmunoprecipitation and meRIP were performed to investigate the mechanism of immune evasion of GC cells. Cocuture system was established to evaluate the cytotoxicity of cocultured CD8+ T cells. The clinical significance of HSPA4 upregulation was analyzed by multiplex fluorescent immunohistochemistry staining in GC tumor tissues. Histone acetylation causes HSPA4 upregulation in GC tumor tissues. HSPA4 upregulation increases the protein stability of m6A demethylase ALKBH5. ALKBH5 decreases CD58 in GC cells through m6A methylation regulation. The cytotoxicity of CD8+ T cells are impaired and PD1/PDL1 axis is activated when CD8+ T cells are cocultured with HSPA4 overexpressed GC cells. HSPA4 upregulation is associated with worse 5-year overall survival of GC patients receiving only surgery. It is an independent prognosis factor for worse survival of GC patients. In GC patients receiving the combined chemotherapy with anti-PD1 immunotherapy, HSPA4 upregulation is observed in responders compared with non-responders. HSPA4 upregulation causes the decrease of CD58 in GC cells via HSPA4/ALKBH5/CD58 axis, followed by PD1/PDL1 activation and impairment of CD8+ T cell’s cytotoxicity, finally induces immune evasion of GC cells. HSPA4 upregulation is associated with worse overall survival of GC patients with only surgery. Meanwhile, HSPA4 upregulation predicts for better response in GC patients receiving the combined immunotherapy.",
+      "corpusId": 269006387,
+      "url": "https://api.semanticscholar.org/CorpusId:269006387",
+      "pubmed_id": "38589927",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s13046-024-03029-4",
+        "matched_title": "HSPA4 upregulation induces immune evasion via ALKBH5/CD58 axis in gastric cancer.",
+        "matched_pubdate": "2024 Apr 8",
+        "matched_source": "J Exp Clin Cancer Res"
+      }
+    },
+    {
+      "title": "HSPA1A, HSPA1L and TRAP1 heat shock genes may be associated with prognosis in ovarian epithelial cancer",
+      "authors": [
+        {
+          "name": "Warne Pedro de Andrade",
+          "id": "1473248007"
+        },
+        {
+          "name": "Letícia da Conceição Braga",
+          "id": "1473246354"
+        },
+        {
+          "name": "Nikole Gontijo Gonçales",
+          "id": "147669355"
+        },
+        {
+          "name": "L. Silva",
+          "id": "1998528"
+        },
+        {
+          "name": "A. L. da Silva Filho",
+          "id": "5549511"
+        }
+      ],
+      "year": 2019,
+      "venue": "Oncology Letters",
+      "score": 0.5622142766493122,
+      "abstract": "Epithelial ovarian cancer (EOC) is the most lethal gynecological malignancy, with the presence of chemoresistance contributing to the poor prognosis. Heat Shock Proteins (HSPs) genes are activated in response to pathophysiological stress and serve a role in a variety of stages in carcinogenesis, acting primarily as anti-apoptotic agents and in chemotherapy resistance in a variety of tumor types. The current study evaluated the HSP gene expression profile in women with ovarian cancer (OC) and their correlation with clinical and pathological aspects of patients with OC. A total of 51 patients included in the current study were divided into four groups: Primary Epithelial Ovarian Cancer (EOC; n=14), metastatic EOC (n=11), ovarian serous cystadenoma (n=7) and no evidence of ovarian malignancy or control groups (n=19). RNA extraction and reverse transcription-quantitative (RT-q) PCR was then performed on the samples obtained. RT-qPCR was performed to compare TNF receptor associated protein 1 (TRAP1), heat shock protein family (HSP) HSPB1, HSPD1, HSPA1A and HSPA1L expression in primary and metastatic EOCs. TRAP1, HSPB1, HSPD1, HSPA1A and HSPA1L gene expression did not differ among groups. HSPA1A, HSPA1L and TRAP1 were revealed to be underexpressed in the primary and metastatic EOC groups, with HSPA1L exhibiting the lowest expression. TRAP1 expression was higher in tumors at stages I/II compared with those at stages III/IV. No correlation was exhibited between HSP expression and age, menarche, menopause, parity, period after menopause initiation, cytoreduction, CA-125 or overall and disease-free survival. HSPA1A was negatively correlated with the risk of mortality from OC. The results indicated that the downregulation of HSPA1A, HSPA1L and TRAP1 could be associated with the clinical prognostic features of women with EOC.",
+      "corpusId": 209290465,
+      "url": "https://api.semanticscholar.org/CorpusId:209290465",
+      "pubmed_id": "31897148",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3892/ol.2019.11095",
+        "matched_title": "HSPA1A, HSPA1L and TRAP1 heat shock genes may be associated with prognosis in ovarian epithelial cancer.",
+        "matched_pubdate": "2020 Jan",
+        "matched_source": "Oncol Lett"
+      }
+    },
+    {
+      "title": "Immune characteristics and SALL1 methylation as prognostic biomarkers in primary and metastasis colorectal cancer",
+      "authors": [
+        {
+          "name": "Yiwen Zhang",
+          "id": "2225084460"
+        },
+        {
+          "name": "Tianqi Han",
+          "id": "2375320401"
+        },
+        {
+          "name": "Hui Zhang",
+          "id": "2375013102"
+        },
+        {
+          "name": "Jiali Li",
+          "id": "2290065254"
+        },
+        {
+          "name": "Jun Chu",
+          "id": "2346808868"
+        },
+        {
+          "name": "Jiaqi Liu",
+          "id": "2374787867"
+        }
+      ],
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "score": 0.5499749451999476,
+      "abstract": "Colorectal cancer (CRC) and its metastatic form (mCRC) demonstrate considerable biological and clinical heterogeneity. By analyzing transcriptomic data from CRC and mCRC patients, we identified significant differences in gene expression profiles between the two. Our study focused on immune-related differentially expressed genes, which enabled the classification of CRC patients into four distinct subgroups based on their gene expression patterns. These subgroups exhibited marked differences in overall survival (OS) and immune infiltration levels, with Group 1 characterized by a robust immune response.To refine prognostic assessment, we employed a LASSO regression model to select core genes and developed a risk scoring system with promising clinical utility. Furthermore, methylation analysis uncovered notable epigenetic distinctions between CRC and mCRC, particularly involving the SALL1 gene and its methylation sites. Among these, the methylation level at the cg13755795 site emerged as an independent prognostic biomarker, offering predictive value for patient outcomes.Our findings provide a comprehensive view of the transcriptomic and epigenetic differences between CRC and mCRC, identify novel prognostic biomarkers and therapeutic targets, and propose potential strategies for personalized prognosis prediction and targeted therapy. This work contributes valuable insights into immune regulatory mechanisms and supports the development of advanced treatment approaches for colorectal cancer.",
+      "corpusId": 280418220,
+      "url": "https://api.semanticscholar.org/CorpusId:280418220",
+      "pubmed_id": "40754617",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/s41598-025-13191-0",
+        "matched_title": "Immune characteristics and SALL1 methylation as prognostic biomarkers in primary and metastasis colorectal cancer.",
+        "matched_pubdate": "2025 Aug 3",
+        "matched_source": "Sci Rep"
+      }
+    },
+    {
+      "title": "Comprehensive Pan-Cancer Analysis of Heat Shock Protein 110, 90, 70, and 60 Families",
+      "authors": [
+        {
+          "name": "Li-rong Yan",
+          "id": "2110301543"
+        },
+        {
+          "name": "Shixuan Shen",
+          "id": "10997921"
+        },
+        {
+          "name": "Ang Wang",
+          "id": "46990979"
+        },
+        {
+          "name": "Yuan Yuan",
+          "id": "2116525985"
+        },
+        {
+          "name": "Qian Xu",
+          "id": "50537006"
+        }
+      ],
+      "year": 2021,
+      "venue": "Frontiers in Molecular Biosciences",
+      "score": 0.5476758742882996,
+      "abstract": "Background: Here we carried out a panoramic analysis of the expression and prognosis of HSP110, HSP90, HSP70, and HSP60 families in 33 types of cancer, with the aim of deepening the systematic understanding of heat shock proteins (HSPs) in cancer. Materials and Methods: Next-generation sequencing data of multiple tumors were downloaded from TCGA, CCLE and Oncomine databases. RStudio 3.6.1 was used to analyze HSP110, HSP90, HSP70 and HSP60 families based on their expression in 33 types of cancer. The validations in vivo (stomach adenocarcinoma and colon adenocarcinoma tissues) were performed by qRT-PCR. Results: HSPs were differentially expressed in different cancers. The results revealed mainly positive correlations among the expressions of HSPs in different cancers. Expressions of HSP family members were generally associated with poor prognosis in respiratory, digestive, urinary and reproductive system tumors and associated with good prognosis in cholangiocarcinoma, pheochromocytoma and paraganglioma. TCGA mutation analysis showed that HSP gene mutation rate in cancers was 0–23%. CCLE mutation analysis indicated that HSP gene mutation rate in 828 cell lines from 15 tumors was 0–17%. CNV analysis revealed that HSPs have different degrees of gene amplifications and deletions in cancers. Gene mutations of 15 HSPs influenced their protein expressions in different cancers. Copy number amplifications and deletions of 22 HSPs also impacted protein expression levels in pan-cancer. HSP gene mutation was generally a poor prognosis factor in cancers, except for uterine corpus endometrial carcinoma. CNVs in 14 HSPs showed varying influences on survival status in different cancers. HSPs may be involved in the activation and inhibition of multiple cancer-related pathways. HSP expressions were closely correlated with 22 immune cell infiltrations in different cancers. The qRT-PCR validation results in vivo showed that HSPA2 was down-regulated in stomach adenocarcinoma and colon adenocarcinoma; HSPA7 and HSPA1A also were down-regulated in colon adenocarcinoma. HSPA2-HSPA7 (r = 0.031, p = 0.009) and HSPA1A-HSPA7 (r = 0.516, p < 0.001) were positive correlation in colon adenocarcinoma. Conclusion: These analysis and validation results show that HSP families play an important role in the occurrence and development of various tumors and are potential tumor diagnostic and prognostic biomarkers as well as anti-cancer therapeutic targets.",
+      "corpusId": 238586395,
+      "url": "https://api.semanticscholar.org/CorpusId:238586395",
+      "pubmed_id": "34712697",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fmolb.2021.726244",
+        "matched_title": "Comprehensive Pan-Cancer Analysis of Heat Shock Protein 110, 90, 70, and 60 Families.",
+        "matched_pubdate": "2021",
+        "matched_source": "Front Mol Biosci"
+      }
+    },
+    {
+      "title": "RETRACTED: Ginkgo biloba Extract Decreases Non-Small Cell Lung Cancer Cell Migration by Downregulating Metastasis-Associated Factor Heat-Shock Protein 27",
+      "authors": [
+        {
+          "name": "Jong-Rung Tsai",
+          "id": "79606277"
+        },
+        {
+          "name": "Po-Len Liu",
+          "id": "5105671"
+        },
+        {
+          "name": "Yung-Hsiang Chen",
+          "id": "123332103"
+        },
+        {
+          "name": "S. Chou",
+          "id": "88187986"
+        },
+        {
+          "name": "Ming-Chan Yang",
+          "id": "4885270"
+        },
+        {
+          "name": "Yu-Jen Cheng",
+          "id": "123413418"
+        },
+        {
+          "name": "Jhi‐Jhu Hwang",
+          "id": "6902561"
+        },
+        {
+          "name": "Wei-Hsian Yin",
+          "id": "2066491125"
+        },
+        {
+          "name": "I. Chong",
+          "id": "3217913"
+        }
+      ],
+      "year": 2014,
+      "venue": "PLoS ONE",
+      "score": 0.5472508871154721,
+      "abstract": "Heat-shock proteins (HSPs) are molecular chaperones that protect proteins from damage. HSP27 expression is associated with cancer transformation and invasion. Ginkgo biloba extract (EGb761), the most widely sold herbal supplement, has antiangiogenic effects and induces tumor apoptosis. Data regarding the effect of EGb761 on HSP expression is limited, particularly in cancer. HSP27 expression in paired tumors and normal lung tissues of 64 patients with non-small cell lung cancer (NSCLC) were detected by real-time PCR, western blotting, and immunohistochemistry. NSCLC cell lines (A549/H441) were used to examine the migratory abilities in vitro. NSCLC tissue showed higher HSP27 expression than normal lung tissue. Kaplan–Meier survival analysis showed that NSCLC patients with low HSP27 expression ratio (<1) had significantly longer survival time than those with a high expression ratio (>1) (p = 0.04). EGb761 inhibited HSP27 expression and migratory ability of A549/H441 cells, which is the same as HSP27-siRNA transfection effect. Moreover, EGb761 treatment activated the AKT and p38 pathways and did not affect the expression of PI3K, ERK, and JNK pathways. HSP27 is a poor prognostic indicator of NSCLC. EGb761 can decrease the migration ability of A549/H441 by inhibiting HSP27 expression most likely through AKT and p38 MAPK pathways activation.",
+      "corpusId": 12998597,
+      "url": "https://api.semanticscholar.org/CorpusId:12998597",
+      "pubmed_id": "24618684",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0091331",
+        "matched_title": "Ginkgo biloba extract decreases non-small cell lung cancer cell migration by downregulating metastasis-associated factor heat-shock protein 27.",
+        "matched_pubdate": "2014",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Prognosis value of heat-shock proteins in esophageal and esophagogastric cancer: A systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "E. Nakamura",
+          "id": "2223893754"
+        },
+        {
+          "name": "Amanda Park",
+          "id": "2221954215"
+        },
+        {
+          "name": "M. A. Pereira",
+          "id": "31609308"
+        },
+        {
+          "name": "D. Kikawa",
+          "id": "2256250162"
+        },
+        {
+          "name": "F. Tustumi",
+          "id": "2256246854"
+        }
+      ],
+      "year": 2024,
+      "venue": "World Journal of Gastrointestinal Oncology",
+      "score": 0.5419408059457483,
+      "abstract": "BACKGROUND Heat shock proteins (HSPs) are molecular chaperones that play an important role in cellular protection against stress events and have been reported to be overexpressed in many cancers. The prognostic significance of HSPs and their regulatory factors, such as heat shock factor 1 (HSF1) and CHIP, are poorly understood. AIM To investigate the relationship between HSP expression and prognosis in esophageal and esophagogastric cancer. METHODS A systematic review was conducted in accordance with PRISMA recommendations (PROSPERO: CRD42022370653), on Embase, PubMed, Cochrane, and LILACS. Cohort, case-control, and cross-sectional studies of patients with esophagus or esophagogastric cancer were included. HSP-positive patients were compared with HSP-negative, and the endpoints analyzed were lymph node metastasis, tumor depth, distant metastasis, and overall survival (OS). HSPs were stratified according to the HSP family, and the summary risk difference (RD) was calculated using a random-effect model. RESULTS The final selection comprised 27 studies, including esophageal squamous cell carcinoma (21), esophagogastric adenocarcinoma (5), and mixed neoplasms (1). The pooled sample size was 3465 patients. HSP40 and 60 were associated with a higher 3-year OS [HSP40: RD = 0.22; 95% confidence interval (CI): 0.09-0.35; HSP60: RD = 0.33; 95%CI: 0.17-0.50], while HSF1 was associated with a poor 3-year OS (RD = -0.22; 95%CI: -0.32 to -0.12). The other HSP families were not associated with long-term survival. HSF1 was associated with a higher probability of lymph node metastasis (RD = -0.16; 95%CI: -0.29 to -0.04). HSP40 was associated with a lower probability of lymph node dissemination (RD = 0.18; 95%CI: 0.03-0.33). The expression of other HSP families was not significantly related to tumor depth and lymph node or distant metastasis. CONCLUSION The expression levels of certain families of HSP, such as HSP40 and 60 and HSF1, are associated with long-term survival and lymph node dissemination in patients with esophageal and esophagogastric cancer.",
+      "corpusId": 269354263,
+      "url": "https://api.semanticscholar.org/CorpusId:269354263",
+      "pubmed_id": "38660660",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.4251/wjgo.v16.i4.1578",
+        "matched_title": "Prognosis value of heat-shock proteins in esophageal and esophagogastric cancer: A systematic review and meta-analysis.",
+        "matched_pubdate": "2024 Apr 15",
+        "matched_source": "World J Gastrointest Oncol"
+      }
+    },
+    {
+      "title": "Expression of heat-shock protein Hsp60 correlated with the apoptotic index and patient prognosis in human oesophageal squamous cell carcinoma.",
+      "authors": [
+        {
+          "name": "Ahmad Faried",
+          "id": "2243073262"
+        },
+        {
+          "name": "M. Sohda",
+          "id": "5537603"
+        },
+        {
+          "name": "M. Nakajima",
+          "id": "40135701"
+        },
+        {
+          "name": "T. Miyazaki",
+          "id": "145236144"
+        },
+        {
+          "name": "H. Kato",
+          "id": "2107736769"
+        },
+        {
+          "name": "Hiroyuki Kuwano",
+          "id": "2239358641"
+        }
+      ],
+      "year": 2004,
+      "venue": "European Journal of Cancer",
+      "score": 0.5383431417495458,
+      "abstract": "",
+      "corpusId": 36221664,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/15571964",
+      "pubmed_id": "15571964",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.ejca.2004.08.013",
+        "matched_title": "Expression of heat-shock protein Hsp60 correlated with the apoptotic index and patient prognosis in human oesophageal squamous cell carcinoma.",
+        "matched_pubdate": "2004 Dec",
+        "matched_source": "Eur J Cancer"
+      }
+    },
+    {
+      "title": "Heat Shock Protein-27, -60 and -90 expression in gastric cancer: association with clinicopathological variables and patient survival",
+      "authors": [
+        {
+          "name": "C. Giaginis",
+          "id": "3570307"
+        },
+        {
+          "name": "S. Daskalopoulou",
+          "id": "4477009"
+        },
+        {
+          "name": "S. Vgenopoulou",
+          "id": "3873429"
+        },
+        {
+          "name": "I. Sfiniadakis",
+          "id": "6503306"
+        },
+        {
+          "name": "G. Kouraklis",
+          "id": "153672429"
+        },
+        {
+          "name": "S. Theocharis",
+          "id": "1844534"
+        }
+      ],
+      "year": 2009,
+      "venue": "BMC Gastroenterology",
+      "score": 0.5367809016839422,
+      "abstract": "BackgroundHeat shock proteins (HSPs) are ubiquitous, highly conserved proteins across all the species and play essential roles in maintaining protein stability within the cells under normal conditions, while preventing stress-induced cellular damage. HSPs were also overexpressed in various types of cancer, being associated with tumor cell proliferation, differentiation and apoptosis. The aim of the present study was to evaluate the clinical significance of HSP -27, -60, and -90 expression in gastric carcinoma.MethodsHSP -27, -60, and -90 proteins expression was assessed immunohistochemically in tumoral samples of 66 gastric adenocarcinoma patients and was statistically analyzed in relation to various clinicopathological characteristics, tumor proliferative capacity and patients' survival.ResultsHSP-27, -60, -90 proteins were abundantly expressed in gastric adenocarcinoma cases examined. HSP-27 expression was significantly associated with tumor size (pT, P = 0.026), the presence of organ metastases (pM, P = 0.046) and pStage (P = 0.041), while HSP-27 staining intensity with nodal status (pN, P = 0.042). HSP-60 expression was significantly associated with patients' sex (P = 0.011), while HSP-60 staining intensity with patients' age (P = 0.027) and tumor histopathological grade (P = 0.031). HSP-90 expression was not associated with any of the clinicopathological parameters examined; however, HSP-90 staining intensity was significantly associated with tumor size (pT, P = 0.020). High HSP-90 expression was significantly associated with longer overall survival times in univariate analysis (log-rank test, P = 0.033), being also identified as an independent prognostic factor in multivariate analysis (P = 0.026).ConclusionHSP-27, -60, and -90 were associated with certain clinicopathological parameters which are crucial for the management of gastric adenocarcinoma patient. HSP-90 expression may also be an independent prognostic indicator in gastric adenocarcinoma patients.",
+      "corpusId": 5477421,
+      "url": "https://doi.org/10.1186/1471-230X-9-14",
+      "pubmed_id": "19203381",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1186/1471-230X-9-14",
+        "matched_title": "Heat Shock Protein-27, -60 and -90 expression in gastric cancer: association with clinicopathological variables and patient survival.",
+        "matched_pubdate": "2009 Feb 9",
+        "matched_source": "BMC Gastroenterol"
+      }
+    },
+    {
+      "title": "The Role of the Heat-Shock Proteins in Esophagogastric Cancer",
+      "authors": [
+        {
+          "name": "Francisco Tustumi",
+          "id": "5954971"
+        },
+        {
+          "name": "Gabriel Andrade Agareno",
+          "id": "2350929401"
+        },
+        {
+          "name": "Ricardo Purchio Galletti",
+          "id": "2183413623"
+        },
+        {
+          "name": "Rafael Benjamim Rosa da Silva",
+          "id": "2183374373"
+        },
+        {
+          "name": "Julia Grams Quintas",
+          "id": "2183409906"
+        },
+        {
+          "name": "L. Sesconetto",
+          "id": "2183399100"
+        },
+        {
+          "name": "D. Szor",
+          "id": "14980886"
+        },
+        {
+          "name": "N. Wolosker",
+          "id": "4556471"
+        }
+      ],
+      "year": 2022,
+      "venue": "Cells",
+      "score": 0.5351492197084129,
+      "abstract": "Heat-shock proteins (HSPs) are a family of proteins that have received considerable attention over the last several years. They have been classified into six prominent families: high-molecular-mass HSP, 90, 70, 60, 40, and small heat shock proteins. HSPs participate in protein folding, stability, and maturation of several proteins during stress, such as in heat, oxidative stress, fever, and inflammation. Due to the immunogenic host’s role in the combat against cancer cells and the role of the inflammation in the cancer control or progression, abnormal expression of these proteins has been associated with many types of cancer, including esophagogastric cancer. This study aims to review all the evidence concerning the role of HSPs in the pathogenesis and prognosis of esophagogastric cancer and their potential role in future treatment options. This narrative review gathers scientific evidence concerning HSPs in relation to esophagus and gastric cancer. All esophagogastric cancer subtypes are included. The role of HSPs in carcinogenesis, prognostication, and therapy for esophagogastric cancer are discussed. The main topics covered are premalignant conditions for gastric cancer atrophic gastritis, Barrett esophagus, and some viral infections such as human papillomavirus (HPV) and Epstein–Barr virus (EBV). HSPs represent new perspectives on the development, prognostication, and treatment of esophagogastric cancer.",
+      "corpusId": 251939578,
+      "url": "https://api.semanticscholar.org/CorpusId:251939578",
+      "pubmed_id": "36078072",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/cells11172664",
+        "matched_title": "The Role of the Heat-Shock Proteins in Esophagogastric Cancer.",
+        "matched_pubdate": "2022 Aug 27",
+        "matched_source": "Cells"
+      }
+    },
+    {
+      "title": "Prognostic significance of heat shock protein‐27 expression in hepatocellular carcinoma and its relation to histologic grading and survival",
+      "authors": [
+        {
+          "name": "K. King",
+          "id": "77938607"
+        },
+        {
+          "name": "A. Li",
+          "id": "3931358"
+        },
+        {
+          "name": "G. Chau",
+          "id": "82910545"
+        },
+        {
+          "name": "C. Chi",
+          "id": "2058618"
+        },
+        {
+          "name": "Chew‐Wun Wu",
+          "id": "4343663"
+        },
+        {
+          "name": "C. Huang",
+          "id": "50419016"
+        },
+        {
+          "name": "W. Lui",
+          "id": "144823343"
+        }
+      ],
+      "year": 2000,
+      "venue": "Cancer",
+      "score": 0.5349906790897991,
+      "abstract": "",
+      "corpusId": 36478900,
+      "url": "https://doi.org/10.1002/1097-0142%2820000601%2988%3A11%3C2464%3A%3AAID-CNCR6%3E3.0.CO%3B2-W",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "10.1002/1097-0142%2820000601%2988%3A11%3C2464%3A%3AAID-CNCR6%3E3.0.CO%3B2-W",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Heat shock protein family H member 1 HSPH1 expression correlates with progression and prognosis of hepatocellular carcinoma",
+      "authors": [
+        {
+          "name": "Tianyi Huang",
+          "id": "2340245034"
+        },
+        {
+          "name": "Shimeng Xu",
+          "id": "2377874925"
+        },
+        {
+          "name": "Ming Li",
+          "id": "2278685204"
+        },
+        {
+          "name": "Cuihua Lu",
+          "id": "2376809683"
+        },
+        {
+          "name": "Jiaying Zhang",
+          "id": "2376822496"
+        }
+      ],
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "score": 0.5347854869952747,
+      "abstract": "Heat shock proteins (HSPs) are evolutionarily conserved molecular chaperones that maintain cellular proteostasis under physiological and stress conditions. HSPH1 (Heat Shock Protein Family H Member 1, also known as HSP105 or HSP110) belongs to the HSP110 family and functions as a nucleotide exchange factor for HSP70, enhancing its folding activity. Beyond its canonical role, HSPH1 is increasingly recognized for its involvement in tumor progression. It has been reported to regulate cell proliferation, invasion, metastasis, and resistance to therapy in several cancers, including breast, lung, and liver cancer. Pan-cancer transcriptomic analyses have identified HSPH1 as frequently overexpressed and correlated with poor prognosis. In hepatocellular carcinoma (HCC), while other HSPs such as HSP70 and HSP90 are well-studied, the biological role of HSPH1 remains unclear. In this study, we systematically analyzed HSPH1 expression in HCC using TCGA and GEO datasets, and validated its clinical relevance in patient samples. HSPH1 was significantly upregulated in HCC tissues and associated with advanced tumor stage and worse overall survival. Functional enrichment and immune infiltration analyses suggested that HSPH1 participates in oncogenic pathways (e.g., p53, cell cycle) and modulates the tumor immune microenvironment. Knockdown of HSPH1 in HCC cell lines inhibited proliferation and colony formation. Together, our findings highlight HSPH1 as a potential prognostic biomarker and therapeutic target in HCC.",
+      "corpusId": 280736447,
+      "url": "https://api.semanticscholar.org/CorpusId:280736447",
+      "pubmed_id": "40851097",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/s41598-025-16843-3",
+        "matched_title": "Heat shock protein family H member 1 HSPH1 expression correlates with progression and prognosis of hepatocellular carcinoma.",
+        "matched_pubdate": "2025 Aug 24",
+        "matched_source": "Sci Rep"
+      }
+    },
+    {
+      "title": "Dysregulation of heat shock protein 27 expression in oral tongue squamous cell carcinoma",
+      "authors": [
+        {
+          "name": "Anxun Wang",
+          "id": "2240812265"
+        },
+        {
+          "name": "Xiqiang Liu",
+          "id": "51465717"
+        },
+        {
+          "name": "Shihu Sheng",
+          "id": "5241119"
+        },
+        {
+          "name": "Hui Ye",
+          "id": "2111971909"
+        },
+        {
+          "name": "Tingsheng Peng",
+          "id": "38959379"
+        },
+        {
+          "name": "Fei Shi",
+          "id": "144619016"
+        },
+        {
+          "name": "D. Crowe",
+          "id": "2360630"
+        },
+        {
+          "name": "Xiaofeng Zhou",
+          "id": "47155557"
+        }
+      ],
+      "year": 2009,
+      "venue": "BMC Cancer",
+      "score": 0.5342825201336525,
+      "abstract": "BackgroundRecent proteomic studies identified Hsp27 as a highly over-expressed protein in oral squamous cell carcinoma (OSCC). Clinical studies that attempted to evaluate the prognostic values of Hsp27 yielded inconsistent results, which may be due to inclusion of OSCC cases from multiple anatomic sites. In this study, to determine the utility of Hsp27 for prognosis, we focused on oral tongue SCC (OTSCC), one of the most aggressive forms of OSCC.MethodsArchival clinical samples of 15 normal oral tongue mucosa, 31 dysplastic lesions, 80 primary OTSCC, and 32 lymph node metastases were examined for Hsp27 expression by immunohistochemistry (IHC). Statistical analyses were carried out to assess the prognostic value of Hsp27 expression for patients with this disease.ResultsDysregulation of Hsp27 expression was observed in dysplastic lesions, primary OTSCC, and lymph node metastases, and appears to be associated with disease progression. Statistical analysis revealed that the reduced Hsp27 expression in primary tumor tissue was associated with poor differentiation. Furthermore, the higher expression of Hsp27 was correlated with better overall survival.ConclusionOur study confirmed that the dysregulation of Hsp27 expression is a frequent event during the progression of OTSCC. The expression of Hsp27 appears to be an independent prognostic marker for patients with this disease.",
+      "corpusId": 8378364,
+      "url": "https://doi.org/10.1186/1471-2407-9-167",
+      "pubmed_id": "19497117",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1186/1471-2407-9-167",
+        "matched_title": "Dysregulation of heat shock protein 27 expression in oral tongue squamous cell carcinoma.",
+        "matched_pubdate": "2009 Jun 4",
+        "matched_source": "BMC Cancer"
+      }
+    },
+    {
+      "title": "Expression of heat-shock proteins is associated with major adverse prognostic factors in acute myeloid leukemia.",
+      "authors": [
+        {
+          "name": "X. Thomas",
+          "id": "144745273"
+        },
+        {
+          "name": "L. Campos",
+          "id": "144529580"
+        },
+        {
+          "name": "C. Mounier",
+          "id": "15048314"
+        },
+        {
+          "name": "J. Cornillon",
+          "id": "144746308"
+        },
+        {
+          "name": "P. Flandrin",
+          "id": "34910048"
+        },
+        {
+          "name": "Q. Le",
+          "id": "81146212"
+        },
+        {
+          "name": "S. Piselli",
+          "id": "6322986"
+        },
+        {
+          "name": "D. Guyotat",
+          "id": "6349267"
+        }
+      ],
+      "year": 2005,
+      "venue": "Leukemia research : a Forum for Studies on Leukemia and Normal Hemopoiesis",
+      "score": 0.5325086273208556,
+      "abstract": "",
+      "corpusId": 6423199,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/16038731",
+      "pubmed_id": "16038731",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.leukres.2005.02.010",
+        "matched_title": "Expression of heat-shock proteins is associated with major adverse prognostic factors in acute myeloid leukemia.",
+        "matched_pubdate": "2005 Sep",
+        "matched_source": "Leuk Res"
+      }
+    },
+    {
+      "title": "Heat‐shock‐protein‐27(HSP27) expression in ovarian carcinoma: Relation in response to chemotherapy and prognosis",
+      "authors": [
+        {
+          "name": "H. Arts",
+          "id": "116723047"
+        },
+        {
+          "name": "H. Hollema",
+          "id": "48548769"
+        },
+        {
+          "name": "W. Lemstra",
+          "id": "9361353"
+        },
+        {
+          "name": "Pax H. B. Willemse",
+          "id": "2093640607"
+        },
+        {
+          "name": "E. D. de Vries",
+          "id": "2075774819"
+        },
+        {
+          "name": "H. Kampinga",
+          "id": "6120685"
+        },
+        {
+          "name": "A. van der Zee",
+          "id": "2090836305"
+        }
+      ],
+      "year": 1999,
+      "venue": "International Journal of Cancer",
+      "score": 0.5298541402063414,
+      "abstract": "",
+      "corpusId": 22178541,
+      "url": "https://doi.org/10.1002/%28SICI%291097-0215%2819990621%2984%3A3%3C234%3A%3AAID-IJC6%3E3.0.CO%3B2-9",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "10.1002/%28SICI%291097-0215%2819990621%2984%3A3%3C234%3A%3AAID-IJC6%3E3.0.CO%3B2-9",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Heat Shock Protein 60 Overexpression Is Associated with the Progression and Prognosis in Gastric Cancer",
+      "authors": [
+        {
+          "name": "Xiao-shan Li",
+          "id": "2108698475"
+        },
+        {
+          "name": "Qing Xu",
+          "id": "2118219721"
+        },
+        {
+          "name": "Xiang Fu",
+          "id": "50034673"
+        },
+        {
+          "name": "W. Luo",
+          "id": "5278757"
+        }
+      ],
+      "year": 2014,
+      "venue": "PLoS ONE",
+      "score": 0.5283927505790552,
+      "abstract": "Background Heat shock protein 60 (HSP60) is a chaperonin with essential functions for cell physiology and survival, and its expression correlates with prognosis in a number of malignancies. The aim of this study is to determine the relationship of HSP60 status with clinicopathological parameters and prognosis in gastric cancer. Methods The levels of HSP60 and matrix metallopeptidase 9 (MMP-9) antigen was evaluated by immunohistochemistry in 223 gastric carcinoma samples. The association between HSP60 and MMP-9, clinicopathological parameters, and prognosis of gastric cancer was examined. Results The level of HSP60 protein was significantly associated with depth invasion, lymph node metastasis and stage of disease (all P<0.05). Both univariate and multivariate analyses revealed that HSP60 was an independent prognostic factor for both overall survival (OS) and recurrence-free survival (RFS) (both P<0.05). Furthermore, HSP60 overexpression was associated with a poor prognosis in patients with advanced gastric cancer in different risk groups. Moreover, HSP60 was significantly correlated with MMP-9 among 223 gastric cancer tissues (P<0.001). Patients who had HSP60 overexpression, in which tumor cells displayed high invasiveness, had poor OS and shorter RFS. Conclusion HSP60 plays an important role on tumor aggressiveness and prognosis, and may act as a promising target for prognostic prediction.",
+      "corpusId": 14371473,
+      "url": "https://api.semanticscholar.org/CorpusId:14371473",
+      "pubmed_id": "25207654",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0107507",
+        "matched_title": "Heat shock protein 60 overexpression is associated with the progression and prognosis in gastric cancer.",
+        "matched_pubdate": "2014",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Evidence of Prognostic Relevant Expression Profiles of Heat-Shock Proteins and Glucose-Regulated Proteins in Oesophageal Adenocarcinomas",
+      "authors": [
+        {
+          "name": "J. Slotta-Huspenina",
+          "id": "1390124260"
+        },
+        {
+          "name": "D. Berg",
+          "id": "133815984"
+        },
+        {
+          "name": "Karina Bauer",
+          "id": "18239778"
+        },
+        {
+          "name": "C. Wolff",
+          "id": "25807307"
+        },
+        {
+          "name": "K. Malinowsky",
+          "id": "5496465"
+        },
+        {
+          "name": "L. Bauer",
+          "id": "47531302"
+        },
+        {
+          "name": "E. Drecoll",
+          "id": "6682299"
+        },
+        {
+          "name": "M. Bettstetter",
+          "id": "47701895"
+        },
+        {
+          "name": "M. Feith",
+          "id": "52080282"
+        },
+        {
+          "name": "A. Walch",
+          "id": "144755868"
+        },
+        {
+          "name": "H. Höfler",
+          "id": "144972245"
+        },
+        {
+          "name": "K. Becker",
+          "id": "144908374"
+        },
+        {
+          "name": "R. Langer",
+          "id": "2575360"
+        }
+      ],
+      "year": 2012,
+      "venue": "PLoS ONE",
+      "score": 0.5252342674447212,
+      "abstract": "A high percentage of oesophageal adenocarcinomas show an aggressive clinical behaviour with a significant resistance to chemotherapy. Heat-shock proteins (HSPs) and glucose-regulated proteins (GRPs) are molecular chaperones that play an important role in tumour biology. Recently, novel therapeutic approaches targeting HSP90/GRP94 have been introduced for treating cancer. We performed a comprehensive investigation of HSP and GRP expression including HSP27, phosphorylated (p)-HSP27(Ser15), p-HSP27(Ser78), p-HSP27(Ser82), HSP60, HSP70, HSP90, GRP78 and GRP94 in 92 primary resected oesophageal adenocarcinomas by using reverse phase protein arrays (RPPA), immunohistochemistry (IHC) and real-time quantitative RT-PCR (qPCR). Results were correlated with pathologic features and survival. HSP/GRP protein and mRNA expression was detected in all tumours at various levels. Unsupervised hierarchical clustering showed two distinct groups of tumours with specific protein expression patterns: The hallmark of the first group was a high expression of p-HSP27(Ser15, Ser78, Ser82) and low expression of GRP78, GRP94 and HSP60. The second group showed the inverse pattern with low p-HSP27 and high GRP78, GRP94 and HSP60 expression. The clinical outcome for patients from the first group was significantly improved compared to patients from the second group, both in univariate analysis (p = 0.015) and multivariate analysis (p = 0.029). Interestingly, these two groups could not be distinguished by immunohistochemistry or qPCR analysis. In summary, two distinct and prognostic relevant HSP/GRP protein expression patterns in adenocarcinomas of the oesophagus were detected by RPPA. Our approach may be helpful for identifying candidates for specific HSP/GRP-targeted therapies.",
+      "corpusId": 15122490,
+      "url": "https://api.semanticscholar.org/CorpusId:15122490",
+      "pubmed_id": "22911792",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0041420",
+        "matched_title": "Evidence of prognostic relevant expression profiles of heat-shock proteins and glucose-regulated proteins in oesophageal adenocarcinomas.",
+        "matched_pubdate": "2012",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Heat shock proteins in cancer: diagnostic, prognostic, predictive, and treatment implications",
+      "authors": [
+        {
+          "name": "D. Ciocca",
+          "id": "4739013"
+        },
+        {
+          "name": "S. Calderwood",
+          "id": "2670486"
+        }
+      ],
+      "year": 2005,
+      "venue": "Cell stress & chaperones (Print)",
+      "score": 0.5187571546275865,
+      "abstract": "",
+      "corpusId": 1064771,
+      "url": "https://doi.org/10.1379/CSC-99r.1",
+      "pubmed_id": "16038406",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1379/CSC-99r.1",
+        "matched_title": "Heat shock proteins in cancer: diagnostic, prognostic, predictive, and treatment implications.",
+        "matched_pubdate": "2005 Summer",
+        "matched_source": "Cell Stress Chaperones"
+      }
+    },
+    {
+      "title": "Prognostic and Functional Significant of Heat Shock Proteins (HSPs) in Breast Cancer Unveiled by Multi-Omics Approaches",
+      "authors": [
+        {
+          "name": "M. Buttacavoli",
+          "id": "36832359"
+        },
+        {
+          "name": "Gianluca Di Cara",
+          "id": "4559104"
+        },
+        {
+          "name": "C. D’amico",
+          "id": "1401348587"
+        },
+        {
+          "name": "F. Geraci",
+          "id": "6232185"
+        },
+        {
+          "name": "I. Pucci‐Minafra",
+          "id": "1400482671"
+        },
+        {
+          "name": "S. Feo",
+          "id": "152256825"
+        },
+        {
+          "name": "P. Cancemi",
+          "id": "5842930"
+        }
+      ],
+      "year": 2021,
+      "venue": "Biology",
+      "score": 0.5117774143007982,
+      "abstract": "Simple Summary In this study, we investigated the expression pattern and prognostic significance of the heat shock proteins (HSPs) family members in breast cancer (BC) by using several bioinformatics tools and proteomics investigations. Our results demonstrated that, collectively, HSPs were deregulated in BC, acting as both oncogene and onco-suppressor genes. In particular, two different HSP-clusters were significantly associated with a poor or good prognosis. Interestingly, the HSPs deregulation impacted gene expression and miRNAs regulation that, in turn, affected important biological pathways involved in cell cycle, DNA replication, and receptors-mediated signaling. Finally, the proteomic identification of several HSPs members and isoforms revealed much more complexity of HSPs roles in BC and showed that their expression is quite variable among patients. In conclusion, we elaborated two panels of HSPs that could be further explored as potential biomarkers for BC progression and prognosis. Abstract Heat shock proteins (HSPs) are a well-characterized molecular chaperones protein family, classified into six major families, according to their molecular size. A wide range of tumors have been shown to express atypical levels of one or more HSPs, suggesting that they could be used as biomarkers. However, the collective role and the possible coordination of HSP members, as well as the prognostic significance and the functional implications of their deregulated expression in breast cancer (BC) are poorly investigated. Here, we used a systematic multi-omics approach to assess the HSPs expression, the prognostic value, and the underlying mechanisms of tumorigenesis in BC. By using data mining, we showed that several HSPs were deregulated in BC and significantly correlated with a poor or good prognosis. Functional network analysis of HSPs co-expressed genes and miRNAs highlighted their regulatory effects on several biological pathways involved in cancer progression. In particular, these pathways concerned cell cycle and DNA replication for the HSPs co-expressed genes, and miRNAs up-regulated in poor prognosis and Epithelial to Mesenchymal Transition (ETM), as well as receptors-mediated signaling for the HSPs co-expressed genes up-regulated in good prognosis. Furthermore, the proteomic expression of HSPs in a large sample-set of breast cancer tissues revealed much more complexity in their roles in BC and showed that their expression is quite variable among patients and confined into different cellular compartments. In conclusion, integrative analysis of multi-omics data revealed the distinct impact of several HSPs members in BC progression and indicate that collectively they could be useful as biomarkers and therapeutic targets for BC management.",
+      "corpusId": 232405467,
+      "url": "https://api.semanticscholar.org/CorpusId:232405467",
+      "pubmed_id": "33810095",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/biology10030247",
+        "matched_title": "Prognostic and Functional Significant of Heat Shock Proteins (HSPs) in Breast Cancer Unveiled by Multi-Omics Approaches.",
+        "matched_pubdate": "2021 Mar 22",
+        "matched_source": "Biology (Basel)"
+      }
+    },
+    {
+      "title": "The expression profiles and prognostic values of HSPs family members in Head and neck cancer",
+      "authors": [
+        {
+          "name": "Guorun Fan",
+          "id": "39952284"
+        },
+        {
+          "name": "Yaqin Tu",
+          "id": "5966228"
+        },
+        {
+          "name": "Nan Wu",
+          "id": "2068344490"
+        },
+        {
+          "name": "Hongjun Xiao",
+          "id": "103774830"
+        }
+      ],
+      "year": 2020,
+      "venue": "Cancer Cell International",
+      "score": 0.5042565486002273,
+      "abstract": "Head and neck squamous cell carcinoma (HNSC) ranks as the sixth most common malignancy. The identification of highly specific and sensitive prognostic markers and potential drug targets can contribute to enhanced patient prognosis and individualized treatments. Heat shock proteins (HSPs) act as molecular chaperones and play a crucial role in maintaining cell homeostasis. Recently, research has indicated that HSPs also act as “evil chaperones” in cancer development. In this study, we assessed the expression of HSPs in HNSC patients using the ONCOMINE, GEPIA, and UALCAN databases. Mutations of HSP genes were also analysed using the cBioPortal database. Additionally, the expression levels of HSPs were verified using the Human Protein Altas (THPA) database. We found that the expression levels of HSPH1, HSPD1, SERPINH1, HSPA4, and HSP90AA1 were significantly higher in tissues from HNSC patients compared with normal tissues. Moreover, HSPH1, HSPD1, SERPINH1, HSPA4 and HSP90AA1 expressions were linked to disease progression. Survival analysis with the GEPIA and OncoLnc databases indicated that upregulation of HSPH1, HSPD1, SERPINH1, HSPA4 and HSP90AA1 was related to poor overall survival (OS). This study suggests that the HSPH1, HSPD1, SERPINH1, HSPA4 and HSP90AA1 genes are potential clinical targets and prognostic biomarkers for patients with HNSC.",
+      "corpusId": 219529510,
+      "url": "https://api.semanticscholar.org/CorpusId:219529510",
+      "pubmed_id": "32523426",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12935-020-01296-7",
+        "matched_title": "The expression profiles and prognostic values of HSPs family members in Head and neck cancer.",
+        "matched_pubdate": "2020",
+        "matched_source": "Cancer Cell Int"
+      }
+    },
+    {
+      "title": "Ins and Outs of Heat Shock Proteins in Colorectal Carcinoma: Its Role in Carcinogenesis and Therapeutic Perspectives",
+      "authors": [
+        {
+          "name": "Batoul Abi Zamer",
+          "id": "146233290"
+        },
+        {
+          "name": "W. El‐Huneidi",
+          "id": "1404083458"
+        },
+        {
+          "name": "M. Eladl",
+          "id": "9543122"
+        },
+        {
+          "name": "J. Muhammad",
+          "id": "10003562"
+        }
+      ],
+      "year": 2021,
+      "venue": "Cells",
+      "score": 0.49626671170266146,
+      "abstract": "Cancer cells can reprogram their metabolic activities and undergo uncontrolled proliferation by utilizing the power of heat shock proteins (HSPs). HSPs are highly conserved chaperones that facilitate the folding of intracellular proteins under stress. Constitutively, HSPs are expressed at low levels, but their expression upregulates in response to a wide variety of insults, including anticancer drugs, allowing cancer cells to develop chemoresistance. In recent years, several researchers have reported that HSPs could be an important therapeutic target in difficult-to-treat cancers such as colorectal carcinoma (CRC). Worldwide, CRC is the second most common type of cancer and the second leading cause of cancer-related deaths. The molecular complexity of CRC and the coexisting inflammatory conditions present a significant obstacle to developing effective treatment. Recently, considerable progress has been made in enhancing our understanding of the role of HSPs in CRC pathogenesis. Moreover, novel therapeutic strategies targeting HSPs, either alone or in combination with other anticancer agents, have been reported. Herein, we present an overview of the functional mechanisms and the diagnostic and prognostic potential of HSPs in CRC. We also discuss emerging anti-CRC strategies based on targeting HSPs.",
+      "corpusId": 239946463,
+      "url": "https://api.semanticscholar.org/CorpusId:239946463",
+      "pubmed_id": "34831085",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/cells10112862",
+        "matched_title": "Ins and Outs of Heat Shock Proteins in Colorectal Carcinoma: Its Role in Carcinogenesis and Therapeutic Perspectives.",
+        "matched_pubdate": "2021 Oct 24",
+        "matched_source": "Cells"
+      }
+    },
+    {
+      "title": "Clinicopathological significance of HSP70 expression in gastric cancer: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "Xiaolu Wang",
+          "id": "2145746708"
+        },
+        {
+          "name": "Li Xie",
+          "id": "144316621"
+        },
+        {
+          "name": "Lijing Zhu",
+          "id": "151101402"
+        }
+      ],
+      "year": 2021,
+      "venue": "BMC Gastroenterology",
+      "score": 0.4960623233433445,
+      "abstract": "Background Heat shock protein 70 (HSP70) has been associated with the clinicopathological characteristics and prognosis of many cancers types, implying that it is a potential cancer biomarker. However, no consensus has been reached regarding its clinicopathological and prognostic significance in patients with gastric cancer. To address this gap, we performed a systematic review and meta-analysis. Methods We searched PubMed, Embase, and the Cochrane Library for full-text literature according to the eligibility criteria. We used the odds ratio and hazard ratio as the suitable parameters to evaluate the clinicopathological and prognostic significance of HSP70. The statistical analysis was performed using STATA 15.0. Results After inclusion and exclusion of studies based on the eligibility criteria, data of 1,307 patients with gastric cancer from 9 studies were finally included. The pooled outcomes implied that HSP70 expression was significantly correlated with higher differentiation degrees, intestinal gastric cancer, and lymphovascular invasion but not with age, gender, depth of invasion, Helicobacter pylori infection, lymph node invasion, TNM stages, and metastasis. The pooled HR showed no significant correlation between HSP70 expression and overall survival of gastric cancer patients. Conclusions Our meta-analysis showed that HSP70 plays a complicated role in the development of gastric cancer. It may be directly engaged in tumour differentiation and distant invasion but cannot be considered a biomarker for predicting the prognosis of gastric cancer.",
+      "corpusId": 244479656,
+      "url": "https://api.semanticscholar.org/CorpusId:244479656",
+      "pubmed_id": "34809574",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12876-021-01990-4",
+        "matched_title": "Clinicopathological significance of HSP70 expression in gastric cancer: a systematic review and meta-analysis.",
+        "matched_pubdate": "2021 Nov 22",
+        "matched_source": "BMC Gastroenterol"
+      }
+    },
+    {
+      "title": "The Role of Heat Shock Protein 27 in Carcinogenesis and Treatment of Colorectal Cancer",
+      "authors": [
+        {
+          "name": "F. Asgharzadeh",
+          "id": "9548399"
+        },
+        {
+          "name": "R. Moradi-Marjaneh",
+          "id": "1400720450"
+        },
+        {
+          "name": "M. M. Marjaneh",
+          "id": "28077384"
+        }
+      ],
+      "year": 2022,
+      "venue": "Current pharmaceutical design",
+      "score": 0.4904294196443808,
+      "abstract": "The incidence of colorectal cancer (CRC) has significantly increased in recent decades, which has made this disease an important global health issue. Despite many efforts, there is no useful prognostic or diagnostic biomarker for CRC. Heat shock protein 27 (Hsp27) is one of the most studied members of the Hsp family. It has attracted particular attention in CRC pathogenesis since it is involved in fundamental cell functions for cell survival. Evidence shows that Hsp27 plays important role in CRC progression and metastasis. Hsp27 overexpression has been observed in CRC and is suggested to be associated with CRC’s poor prognosis. In the present review, we focus on the current knowledge of the role of Hsp27 in CRC carcinogenesis and the underlying mechanisms. In addition, we discuss the value of targeting Hsp27 in CRC treatment.",
+      "corpusId": 263506279,
+      "url": "https://api.semanticscholar.org/CorpusId:263506279",
+      "pubmed_id": "35490324",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2174/1381612828666220427140640",
+        "matched_title": "The Role of Heat Shock Protein 27 in Carcinogenesis and Treatment of Colorectal Cancer.",
+        "matched_pubdate": "2022",
+        "matched_source": "Curr Pharm Des"
+      }
+    },
+    {
+      "title": "Heat Shock Protein 90 Family Isoforms as Prognostic Biomarkers and Their Correlations with Immune Infiltration in Breast Cancer",
+      "authors": [
+        {
+          "name": "Tong Lin",
+          "id": "2109626491"
+        },
+        {
+          "name": "Yuqin Qiu",
+          "id": "11039242"
+        },
+        {
+          "name": "Wenya Peng",
+          "id": "1929060546"
+        },
+        {
+          "name": "Lisheng Peng",
+          "id": "49506441"
+        }
+      ],
+      "year": 2020,
+      "venue": "BioMed Research International",
+      "score": 0.48970102094197693,
+      "abstract": "Background The heat shock protein 90 (HSP90s) family is composed of molecular chaperones composed of four isoforms in humans, which has been widely reported as unregulated in various kinds of cancers. Nevertheless, the role of each HSP90s isoform in prognosis and immune infiltration in distinct subtypes of breast cancer (BRAC) remains unclear. Methods Public online databases including the Oncomine, UALCAN, Kaplan-Meier Plotter, Tumor IMmune Estimation Resource (TIMER), Gene Expression Profiling Interactive Analysis (GEPIA), GeneMANIA, and Database for Annotation, Visualization, and Integrated Discovery (DAVID) were integrated to perform bioinformatic analyses and to explore the possible associations among HSP90s gene expression, prognosis, and immune infiltration in BRAC. Results The mRNA expression of all HSP90s members was elevated in distinct clinical stages and subtypes of BRAC, compared with the normal breast tissue (P < 0.05). Overexpressed HSP90AA1 was associated with poor prognosis, particularly, both short overall survival (OS) and release-free survival (RFS) in Basal-like BRAC patients; overexpressed HSP90AB1 and HSP90B1 were both associated with poor RFS in Luminal A BRAC patients, while overexpressed TRAP1 was associated with favorable RFS in Luminal A BRAC patients. Moreover, HSP90s gene expression in BRAC showed correlations with the infiltration of CD8+ T cells, neutrophils, macrophages, and dendritic cells (DCs), as well as the activation of tumor-associated macrophages (TAMs), DCs, and CD4+ helper T (Th) cells. The underlying mechanisms of HSP90s modulating tumor-infiltrating immune cells (TIICs) might be related with their functions in antigen processing and presentation, major histocompatibility complex (MHC) binding, and assisting client proteins. Conclusion This study demonstrated that HSP90s family genes were overexpressed and might be serve as prognostic biomarkers in subtypes of BRAC. It might be a novel breakthrough point of BRAC treatment to regulate immune infiltration in BRAC microenvironment for more effective anticancer immunity through pharmacological intervention of HSP90s.",
+      "corpusId": 226226878,
+      "url": "https://api.semanticscholar.org/CorpusId:226226878",
+      "pubmed_id": "33145341",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2020/2148253",
+        "matched_title": "Heat Shock Protein 90 Family Isoforms as Prognostic Biomarkers and Their Correlations with Immune Infiltration in Breast Cancer.",
+        "matched_pubdate": "2020",
+        "matched_source": "Biomed Res Int"
+      }
+    },
+    {
+      "title": "Nuclear heat shock protein 110 expression is associated with poor prognosis and chemotherapy resistance in gastric cancer",
+      "authors": [
+        {
+          "name": "Akiharu Kimura",
+          "id": "11056075"
+        },
+        {
+          "name": "Kyoichi Ogata",
+          "id": "2170554"
+        },
+        {
+          "name": "B. Altan",
+          "id": "3883276"
+        },
+        {
+          "name": "T. Yokobori",
+          "id": "6152511"
+        },
+        {
+          "name": "M. Ide",
+          "id": "2092048"
+        },
+        {
+          "name": "E. Mochiki",
+          "id": "5645258"
+        },
+        {
+          "name": "Y. Toyomasu",
+          "id": "4396403"
+        },
+        {
+          "name": "Norimichi Kogure",
+          "id": "40552899"
+        },
+        {
+          "name": "Toru Yanoma",
+          "id": "6819075"
+        },
+        {
+          "name": "Masaki Suzuki",
+          "id": "2111452697"
+        },
+        {
+          "name": "Tu-ya Bai",
+          "id": "4635877"
+        },
+        {
+          "name": "T. Oyama",
+          "id": "46512767"
+        },
+        {
+          "name": "H. Kuwano",
+          "id": "1780822"
+        }
+      ],
+      "year": 2016,
+      "venue": "OncoTarget",
+      "score": 0.4825778963065288,
+      "abstract": "Heat shock protein (HSP) expression is induced by the exposure to stress, such as fever, oxidative stress, chemical exposure, and irradiation. In cancer, HSP promotes the survival of malignant cells by inhibiting the induction of apoptosis. In colorectal cancer, a loss-of-function mutation of HSP110 (HSP110ΔE9) has been identified. HSP110ΔE9 inhibits the nuclear translocation of wild-type HSP110, which is important for its chaperone activity and anti-apoptotic effects. The patients carrying HSP110ΔE9 mutation exhibit high sensitivity to anticancer agents, such as oxaliplatin and 5-fluorouracil. There is still insufficient information about HSP110 localization, the clinicopathological significance of HSP110 expression, and its association with chemotherapy resistance in gastric cancer. Here, we found that high nuclear expression of HSP110 in gastric cancer tissues is associated with cancer progression, poor prognosis, and recurrence after adjuvant chemotherapy. In vitro results showed that HSP110 suppression increases the sensitivity to 5-fluorouracil and cisplatin of human gastric cancer cell lines. Our results suggest that nuclear HSP110 may be a new drug sensitivity marker for gastric cancer and a potential molecular therapeutic target for the treatment of gastric cancer patients with acquired anticancer drug resistance.",
+      "corpusId": 9494382,
+      "url": "https://api.semanticscholar.org/CorpusId:9494382",
+      "pubmed_id": "26943774",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.18632/oncotarget.7821",
+        "matched_title": "Nuclear heat shock protein 110 expression is associated with poor prognosis and chemotherapy resistance in gastric cancer.",
+        "matched_pubdate": "2016 Apr 5",
+        "matched_source": "Oncotarget"
+      }
+    },
+    {
+      "title": "The Association Between Heat-Shock Protein Polymorphisms and Prognosis in Lung Cancer Patients Treated With Platinum-Based Chemotherapy",
+      "authors": [
+        {
+          "name": "Ting Zou",
+          "id": "50431509"
+        },
+        {
+          "name": "Jun-Yan Liu",
+          "id": "48210552"
+        },
+        {
+          "name": "L. She",
+          "id": "49648545"
+        },
+        {
+          "name": "Jiye Yin",
+          "id": "2424660039"
+        },
+        {
+          "name": "Xi Li",
+          "id": "2116226641"
+        },
+        {
+          "name": "Xiangping Li",
+          "id": "47058023"
+        },
+        {
+          "name": "Honghao Zhou",
+          "id": "145468739"
+        },
+        {
+          "name": "Juan Chen",
+          "id": "2108324457"
+        },
+        {
+          "name": "Zhaoqian Liu",
+          "id": "119568793"
+        }
+      ],
+      "year": 2020,
+      "venue": "Frontiers in Pharmacology",
+      "score": 0.46324914670964973,
+      "abstract": "Objective Lung cancer is one of the most prevalent cancers and the leading cause of cancer-related death in the world. Platinum-based chemotherapy plays an important role in lung cancer treatment, but the therapeutic effect varies from person to person. Heat shock proteins (HSPs) have been reported to be associated with the survival time of lung cancer patients, which may be a potential biomarker in lung cancer treatment. The aim of this study was to investigate the association between genetic polymorphisms and the prognosis in lung cancer patients treated with platinum-based chemotherapy. Methods We performed genotyping in 19 single nucleotide polymorphisms (SNPs) of HSP genes and Rho family genes of 346 lung cancer patients by SequenomMassARRAY. We used Cox proportional hazard models, state and plink to analyze the associations between SNPs and the prognosis of lung cancer patients. Results We found that the polymorphisms of HSPB1 rs2070804 and HSPA4 rs3088225 were significantly associated with lung cancer survival (p=0.015, p=0.049*, respectively). We also discovered the statistically significant differences between rs2070804 with age, gender, histology and stage, rs3088225 with gender and stage, which can affect lung cancer prognosis. Conclusion The results of our study suggest that HSPB1 rs2070804 (G>T) and HSPA4 rs3088225 (A>G) may be useful biomarkers for predicting the prognosis of lung cancer patients treated with platinum-based chemotherapy.",
+      "corpusId": 220651173,
+      "url": "https://api.semanticscholar.org/CorpusId:220651173",
+      "pubmed_id": "32848724",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fphar.2020.01029",
+        "matched_title": "The Association Between Heat-Shock Protein Polymorphisms and Prognosis in Lung Cancer Patients Treated With Platinum-Based Chemotherapy.",
+        "matched_pubdate": "2020",
+        "matched_source": "Front Pharmacol"
+      }
+    },
+    {
+      "title": "Diagnostic, clinicopathologic, therapeutic and prognostic value of Plasma Heat Shock Protein 90 levels in patients with advanced Gastrointestinal Carcinoma",
+      "authors": [
+        {
+          "name": "Yiyin Zhang",
+          "id": "6779808"
+        },
+        {
+          "name": "Longgang Ni",
+          "id": "1936851189"
+        },
+        {
+          "name": "Qianqian Li",
+          "id": "50444041"
+        },
+        {
+          "name": "Min Li",
+          "id": "2145625433"
+        },
+        {
+          "name": "Jiejie Zhu",
+          "id": "2117122496"
+        },
+        {
+          "name": "Fei Zhang",
+          "id": "2144025328"
+        },
+        {
+          "name": "K. Gu",
+          "id": "36950878"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Cancer",
+      "score": 0.4589724919175073,
+      "abstract": "Purpose: Heat shock protein 90 (HSP90) is a critical molecular chaperone for protein folding, intracellular disposition and regulation of tumor biological behavior in the extracellular space. HSP90 has received much attention due to its specific effect in gastrointestinal cancer. This clinical study sought to determine whether HSP90 in plasma may serve as a biomarker in patients with advanced gastrointestinal carcinoma. Methods: Using human plasma samples of advanced gastrointestinal carcinoma, we investigated the specific value of HSP90 in gastrointestinal cancer from a clinical perspective. Results: In summary, plasma levels of HSP90 were shown to be higher in patients with gastric cancer (GC) or colorectal cancer (CRC) than in controls with benign gastrointestinal diseases. In both GC and CRC patients, HSP90 was significantly associated with live metastasis. Higher HSP90 levels were more frequent in CRC patients with hazardous or harmful alcohol consumption habits. Patients with RAS mutations had higher HSP90 levels in CRC. Compared with Carcinoembryonic Antigen (CEA) and Carbohydrate Antigen 19-9 (CA19-9), HSP90 benefited patients by enhancing diagnostic sensitivity and the Youden index. The levels of HSP90 were inversely associated with short-term efficacy in GC patients who had received fluorouracil/platinum-based advanced first-line treatment. When first-line therapy failed, plasma HSP90 levels in patients with GC were significantly increased. In terms of progression-free survival (PFS), patients with GC or CRC who had low levels of HSP90 were not significantly different from those with high levels of HSP90. Univariate and multivariate analyses demonstrated that HSP90 was not an independent prognostic predictor for GC and CRC patients with PFS. However, RAS mutation was an independent prognostic factor for poor PFS in CRC patients. Conclusions: Plasma HSP90 levels have potential diagnostic value in advanced gastrointestinal carcinoma and therapeutic predictive value in GC.",
+      "corpusId": 221245530,
+      "url": "https://api.semanticscholar.org/CorpusId:221245530",
+      "pubmed_id": "32922531",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.7150/jca.46343",
+        "matched_title": "Diagnostic, clinicopathologic, therapeutic and prognostic value of Plasma Heat Shock Protein 90 levels in patients with advanced Gastrointestinal Carcinoma.",
+        "matched_pubdate": "2020",
+        "matched_source": "J Cancer"
+      }
+    },
+    {
+      "title": "Heat shock protein 27 (HSP27): biomarker of disease and therapeutic target",
+      "authors": [
+        {
+          "name": "Aparna Vidyasagar",
+          "id": "4345597"
+        },
+        {
+          "name": "N. Wilson",
+          "id": "10165033"
+        },
+        {
+          "name": "A. Djamali",
+          "id": "5195388"
+        }
+      ],
+      "year": 2012,
+      "venue": "Fibrogenesis & Tissue Repair",
+      "score": 0.435001208406244,
+      "abstract": "Heat shock protein 27 (HSP27) is a multidimensional protein which acts as a protein chaperone and an antioxidant and plays a role in the inhibition of apoptosis and actin cytoskeletal remodeling. In each of these capacities, HSP27 has been implicated in different disease states playing both protective and counter-protective roles. The current review presents HSP27 in multiple disease contexts: renal injury and fibrosis, cancer, neuro-degenerative and cardiovascular disease, highlighting its role as a potential biomarker and therapeutic target.",
+      "corpusId": 16668771,
+      "url": "https://api.semanticscholar.org/CorpusId:16668771",
+      "pubmed_id": "22564335",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/1755-1536-5-7",
+        "matched_title": "Heat shock protein 27 (HSP27): biomarker of disease and therapeutic target.",
+        "matched_pubdate": "2012 May 7",
+        "matched_source": "Fibrogenesis Tissue Repair"
+      }
+    },
+    {
+      "title": "Differential, stage‐dependent expression of Hsp70, Hsp110 and Bcl‐2 in colorectal cancer",
+      "authors": [
+        {
+          "name": "T. Hwang",
+          "id": "143976856"
+        },
+        {
+          "name": "H. Han",
+          "id": "33162892"
+        },
+        {
+          "name": "Hyo-Kyoung Choi",
+          "id": "5577678"
+        },
+        {
+          "name": "Yong J Lee",
+          "id": "2146305809"
+        },
+        {
+          "name": "Y. Kim",
+          "id": "2335362"
+        },
+        {
+          "name": "M. Han",
+          "id": "2781004"
+        },
+        {
+          "name": "Young-Mee Park",
+          "id": "121099354"
+        }
+      ],
+      "year": 2003,
+      "venue": "Journal of Gastroenterology and Hepatology",
+      "score": 0.4166736195397619,
+      "abstract": "",
+      "corpusId": 42693618,
+      "url": "https://doi.org/10.1046/j.1440-1746.2003.03011.x",
+      "pubmed_id": "12753152",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1046/j.1440-1746.2003.03011.x",
+        "matched_title": "Differential, stage-dependent expression of Hsp70, Hsp110 and Bcl-2 in colorectal cancer.",
+        "matched_pubdate": "2003 Jun",
+        "matched_source": "J Gastroenterol Hepatol"
+      }
+    },
+    {
+      "title": "The expression of HSP27 is associated with poor clinical outcome in intrahepatic cholangiocarcinoma",
+      "authors": [
+        {
+          "name": "A. Romani",
+          "id": "4897213"
+        },
+        {
+          "name": "P. Crafa",
+          "id": "6826860"
+        },
+        {
+          "name": "Silvia Desenzani",
+          "id": "4396067"
+        },
+        {
+          "name": "G. Graiani",
+          "id": "6952883"
+        },
+        {
+          "name": "C. Lagrasta",
+          "id": "3752558"
+        },
+        {
+          "name": "M. Sianesi",
+          "id": "6743628"
+        },
+        {
+          "name": "P. Soliani",
+          "id": "3916710"
+        },
+        {
+          "name": "A. Borghetti",
+          "id": "34588249"
+        }
+      ],
+      "year": 2007,
+      "venue": "BMC Cancer",
+      "score": 0.3890227521272401,
+      "abstract": "BackgroundThe heat shock proteins (HSPs) 27-kDa (HSP27) and 72-kDa (HSP72), are ubiquitous chaperone molecules inducible in cells exposed to different stress conditions. Increased level of HSPs are reported in several human cancers, and found to be associated with the resistance to some anticancer treatments and poor prognosis. However, there is no study of the relationship between HSPs expression and patient's prognosis in intrahepatic cholangiocarcinoma (IHCCA). In this exploratory retrospective study, we investigated the expressions of HSP27 and HSP72 as potential prognostic factors in IHCCA.MethodsThirty-one paraffin-embedded samples were analyzed by immunohistochemical methods using HSP27 and HSP72 monoclonal antibodies. Proliferation rate was assessed in the same specimens by using monoclonal antibody against phosphorylated histone H3 (pHH3). Fisher's exact test was used to assess the hypothesis of independence between categorical variables in 2 × 2 tables. The ANOVA procedure was used to evaluate the association between ordinal and categorical variables. Estimates of the survival probability were calculated using the Kaplan-Meier method, and the log rank test was employed to test the null hypothesis of equality in overall survival among groups. The hazard ratio associated with HSP27 and HSP72 expression was estimated by Cox hazard-proportional regression.ResultsThe expression of HSP27 was related to mitotic index, tumor greatest dimension, capsular and vascular invasion while the expression of HSP72 was only related to the presence of necrosis and the lymphoid infiltration. Kaplan-Maier analysis suggested that the expression of HSP27 significantly worsened the patients' median overall survival (11 ± 3.18 vs 55 ± 4.1 months, P-value = 0.0003). Moreover HSP27-positive patients exhibited the worst mean survival (7.0 ± 3.2 months) in the absence of concomitant HSP72 expression.ConclusionThe expression of HSP27, likely increasing cell proliferation, tumor mass, vascular and capsular invasion, might promote aggressive tumor behaviour in IHCCA and decrease patients' survival. Immunohistochemical detection of HSP27 on routine sections may provide a reliable prognostic marker for IHCCA able to influence the therapeutic strategies for this cancer.",
+      "corpusId": 6843641,
+      "url": "https://api.semanticscholar.org/CorpusId:6843641",
+      "pubmed_id": "18154639",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/1471-2407-7-232",
+        "matched_title": "The expression of HSP27 is associated with poor clinical outcome in intrahepatic cholangiocarcinoma.",
+        "matched_pubdate": "2007 Dec 21",
+        "matched_source": "BMC Cancer"
+      }
+    },
+    {
+      "title": "Immune-Related Prognostic Model in Colon Cancer: A Gene Expression-Based Study",
+      "authors": [
+        {
+          "name": "Haojie Yang",
+          "id": "2115537549"
+        },
+        {
+          "name": "Wei Jin",
+          "id": "2112342786"
+        },
+        {
+          "name": "Hua Liu",
+          "id": "2145497065"
+        },
+        {
+          "name": "D. Gan",
+          "id": "1382218340"
+        },
+        {
+          "name": "Can Cui",
+          "id": "2052274894"
+        },
+        {
+          "name": "Changpeng Han",
+          "id": "48020960"
+        },
+        {
+          "name": "Zhenyi Wang",
+          "id": "2108305358"
+        }
+      ],
+      "year": 2020,
+      "venue": "Frontiers in Genetics",
+      "score": 0.3568455105696794,
+      "abstract": "Mounting evidence supports that the malignant phenotypes of cancers are defined not only by the intrinsic activity of tumor cells but also by immune cells that are recruited and activated in tumor-related microenvironment. Here, we developed a diagnostic and prognostic model for colon cancer, based on expression profiles of immune-related genes and immune cell component. As a result, we found that B cell infiltration ratio, CD4+ T cells, as well as immune-related genes of TRIB3, CHGA, CASP7, LGALS4, LEP, NOX4, IL17A, and HSPD1 may be highly relevant with clinical outcome of colon cancer.",
+      "corpusId": 218539072,
+      "url": "https://api.semanticscholar.org/CorpusId:218539072",
+      "pubmed_id": "32457797",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fgene.2020.00401",
+        "matched_title": "Immune-Related Prognostic Model in Colon Cancer: A Gene Expression-Based Study.",
+        "matched_pubdate": "2020",
+        "matched_source": "Front Genet"
+      }
+    },
+    {
+      "title": "Expression of heat shock proteins 27, 60 and 70 in oral carcinogenesis: An immunohistochemical study",
+      "authors": [
+        {
+          "name": "Merva Soluk",
+          "id": "5148506"
+        },
+        {
+          "name": "S. Mutlu",
+          "id": "27328394"
+        },
+        {
+          "name": "N. Aksakallı",
+          "id": "11716424"
+        },
+        {
+          "name": "V. Olgaç",
+          "id": "3624159"
+        }
+      ],
+      "year": 2011,
+      "venue": "unknown",
+      "score": 0.3497143766526079,
+      "abstract": "",
+      "corpusId": 6576094,
+      "url": "https://doi.org/10.5505/TJONCOL.2011.640",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "10.5505/TJONCOL.2011.640",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    }
+  ]
+}

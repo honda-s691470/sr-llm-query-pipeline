@@ -1,0 +1,43 @@
+{
+  "query": "(\"Spirochaetales\"[Mesh] OR \"Spirochaetales Infections\"[Mesh] OR spirochaet*[tiab] OR spirochet*[tiab] OR \"Treponema pallidum\"[tiab] OR syphilis[tiab] OR \"Treponema\"[Mesh] OR \"Borrelia burgdorferi\"[tiab] OR \"Lyme disease\"[tiab] OR \"Borrelia\"[Mesh] OR leptospira*[tiab] OR \"Leptospira\"[Mesh] OR \"neurosyphilis\"[tiab]) AND (\"Neurodegenerative Diseases\"[Mesh] OR \"neurodegenerat\"[tiab] OR dementia[tiab] OR \"Alzheimer\"[tiab] OR \"Alzheimer's disease\"[tiab] OR \"Parkinson\"[tiab] OR \"Parkinson's disease\"[tiab] OR \"cognitive impairment\"[tiab] OR \"cognitive decline\"[tiab] OR \"Dementia\"[Mesh])",
+  "query_path": "04_data\\05_Infectious_Diseases\\41790564_2026\\model_outputs\\codex\\with_laws_v2_training_eval\\normalized_query.txt",
+  "input_config_path": "04_data\\05_Infectious_Diseases\\41790564_2026\\input_config.json",
+  "total_hits": 941,
+  "recall": 0.8148148148148148,
+  "found_count": 22,
+  "total_gold": 27,
+  "mode": "open",
+  "timestamp_unix": 1781082131,
+  "missed_pmids": [
+    "19414715",
+    "21999112",
+    "35401144",
+    "36548120",
+    "37898929"
+  ],
+  "found_pmids": [
+    "16906125",
+    "21502759",
+    "24762944",
+    "24910016",
+    "25707998",
+    "26410742",
+    "27415600",
+    "28538242",
+    "30071796",
+    "30343296",
+    "31560067",
+    "31590634",
+    "31598647",
+    "32804135",
+    "34003960",
+    "34557833",
+    "34652786",
+    "34858307",
+    "36471581",
+    "38694926",
+    "39049468",
+    "40036706"
+  ],
+  "missed_count": 5
+}

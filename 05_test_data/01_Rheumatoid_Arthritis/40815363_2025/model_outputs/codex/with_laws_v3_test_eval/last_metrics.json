@@ -1,0 +1,31 @@
+{
+  "query": "(\"Probiotics\"[Mesh] OR probiotic*[tiab] OR \"Lactobacillus\"[Mesh] OR \"Bifidobacterium\"[Mesh] OR Lactobacillus[tiab] OR Bifidobacterium[tiab] OR Streptococcus[tiab]) AND (\"Noncommunicable Diseases\"[Mesh] OR \"Cardiovascular Diseases\"[Mesh] OR \"Diabetes Mellitus\"[Mesh] OR \"Hypertension\"[Mesh] OR \"Kidney Diseases\"[Mesh] OR \"Pulmonary Disease, Chronic Obstructive\"[Mesh] OR \"Metabolic Syndrome\"[Mesh] OR noncommunicable[tiab] OR \"non-communicable\"[tiab] OR cardiovascular[tiab] OR diabetes[tiab] OR hypertension[tiab] OR metabolic[tiab]) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])",
+  "query_path": "05_test_data\\01_Rheumatoid_Arthritis\\40815363_2025\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data\\01_Rheumatoid_Arthritis\\40815363_2025\\input_config_detailed.json",
+  "total_hits": 2196,
+  "recall": 0.6666666666666666,
+  "found_count": 10,
+  "total_gold": 15,
+  "mode": "open",
+  "timestamp_unix": 1781083198,
+  "missed_pmids": [
+    "25856220",
+    "30158897",
+    "36074106",
+    "37903945",
+    "38319476"
+  ],
+  "found_pmids": [
+    "23899653",
+    "26706022",
+    "27927601",
+    "29664663",
+    "29737805",
+    "29891223",
+    "29946368",
+    "33794784",
+    "35312741",
+    "39182237"
+  ],
+  "missed_count": 5
+}

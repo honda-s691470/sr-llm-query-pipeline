@@ -1,0 +1,82 @@
+{
+  "target_name": "41796365_2026",
+  "pmid": "41796365",
+  "objectives": "This systematic review aims to synthesize the available evidence on hallucinogen use in adolescents by addressing first, the prevalence of hallucinogen use among individuals with EOP; second, the clinical correlates and potential impact of such use on the course of illness; and third, the association between hallucinogen exposure and psychotic or psychotic-like symptoms in adolescents from community samples.",
+  "inclusion_criteria": "Inclusion criteria were: (1) studies conducted in children or adolescents (mean age under 18 years); (2) studies including either (a) individuals with EOP, in which the exposure or impact of hallucinogen use or hallucinogen use disorder was evaluated, or (b) individuals from the general population or community samples, in which the association between hallucinogen use and the occurrence of psychotic or psychotic-like symptoms was examined; (3) studies reporting original data from cross-sectional or longitudinal observational designs; (4) studies with or without a control group; and (5) studies published in any language. For the EOP group, studies were included if they included children and adolescents under 18 years of age (mean age) diagnosed according to DSM or ICD criteria, including schizophrenia spectrum disorders such as schizophrenia, schizoaffective disorder, brief psychotic disorder, or other specified/unspecified psychoses. For the general population group, studies were included if they investigated the prevalence, correlates, or consequences of hallucinogen use in community samples of adolescents (mean age <18 years), with or without psychotic-like experiences or subthreshold psychotic symptoms ('unusual experiences').",
+  "exclusion_criteria": "Studies were excluded if they (1) were reviews, case reports, small case series (<5 participants), conference abstracts, or theses; or (2) enrolled only participants with a mean age >=18 years. Table S2 shows that full-text exclusions were chiefly categorized as wrong population, wrong outcome, or wrong publication type.",
+  "pmid_query": "(\"child*\" OR \"adolescent*\" OR \"early\" OR \"teen\" OR \"early onset\" OR \"early-onset\" OR \"very early onset\" OR \"EOP\") AND (\"psychosis\" OR \"first episode psychosis\" OR \"schizophrenia\" OR \"schizoaffective disorder\" OR \"schizophreniform disorder\") AND (\"psychedelic*\" OR \"hallucinogen*\" OR \"classic hallucinogens\" OR \"serotonergic hallucinogens\" OR \"dissociative hallucinogens\" OR \"empathogens\" OR \"entactogens\" OR \"LSD\" OR \"lysergic acid diethylamide\" OR \"psilocybin\" OR \"psilocin\" OR \"magic mushrooms\" OR \"ayahuasca\" OR \"DMT\" OR \"dimethyltryptamine\" OR \"5-MeO-DMT\" OR \"mescaline\" OR \"peyote\" OR \"MDMA\" OR \"3,4 methylenedioxymethamphetamine\" OR \"ecstasy\" OR \"molly\" OR \"salvia\" OR \"salvinorin A\" OR \"ketamine\" OR \"phencyclidine\" OR \"PCP\" OR \"angel dust\" OR \"dissociative drugs\" OR \"NMDA antagonist\" OR \"novel psychoactive substances\" OR \"NPS\" OR \"designer drugs\" OR \"2C-B\" OR \"2C-I\" OR \"NBOMe\" OR \"25I-NBOMe\" OR \"25C-NBOMe\" OR \"hallucinogen use disorder\" OR \"psychedelic use disorder\" OR \"substance-induced psychotic disorder\" OR \"substance use disorder\" OR \"drug-induced psychosis\" OR \"psychotomimetic drugs\" OR \"street drugs\" OR \"party drugs\")",
+  "ref_selection_strategy": "ref_numbers",
+  "selected_ref_numbers": [
+    10,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "selected_ref_nums_compact": "10,34-44",
+  "selection_evidence": "The PRISMA/Results section states that 12 studies were included. The Table 1/Results text gives exact manuscript reference numbers: three community-based studies (34-36), two inpatient SUD samples (37, 38), one inpatient clinical psychiatric sample (39), and six clinical EOP cohorts (10, 40-44). Table 1 rows list the corresponding 12 studies (Baeza, de Angelis, Eseroglu, Hsiao & McClellan, Kuzenko, Luukkonen, Myran, Palmer, Paruk, Shoval, Simonsson, Turan), and references 10 and 34-44 are all literature citations in the main reference list.",
+  "notes": "Supplement 1 search terms were OCR-corrupted in the extracted text; pmid_query is a cleaned reconstruction of the reported Boolean search blocks.\n\nManual update note: Manual review confirmed all three remaining unresolved studies are not indexed in PubMed; gold_pmids reflect only OK rows.",
+  "predicted_pmids": [
+    "38566305",
+    "21054283",
+    "39535804",
+    "38477889",
+    "755380",
+    "20435448",
+    "19427172",
+    "27038079",
+    "17201620"
+  ],
+  "gold_pmids": [
+    "38566305",
+    "21054283",
+    "39535804",
+    "38477889",
+    "755380",
+    "20435448",
+    "19427172",
+    "27038079",
+    "17201620"
+  ],
+  "generated_at": "2026-03-11T20:40:01.835735+00:00",
+  "pipeline": "auto_include_pipeline_v1",
+  "non_pubmed_excluded_studies": [
+    {
+      "row_number": 7,
+      "authors": "Palmer GA, Daiss DD",
+      "title": "Personality characteristics of adolescents with hallucinogen, methamphetamine, and cannabis dependence: A comparative study",
+      "doi": "10.1300/j029v15n01_03",
+      "pmid": null,
+      "check": "NG",
+      "check_note": "Confirmed non-PubMed-indexed by manual review; excluded from gold_pmids",
+      "full_original": "38. Palmer GA, Daiss DD. Personality characteristics of adolescents with hallucinogen, methamphetamine, and cannabis dependence: A comparative study. JOURNAL OF CHILD & ADOLESCENT SUBSTANCE ABUSE. 2005;15(1):37-49."
+    },
+    {
+      "row_number": 11,
+      "authors": "Hsiao R, McClellan J",
+      "title": "Substance Abuse in Early Onset Psychotic Disorders",
+      "doi": "10.1300/j374v04n01_06",
+      "pmid": null,
+      "check": "NG",
+      "check_note": "Confirmed non-PubMed-indexed by manual review; excluded from gold_pmids",
+      "full_original": "42. Hsiao R, McClellan J. Substance Abuse in Early Onset Psychotic Disorders. Journal of Dual Diagnosis. 2008;4(1):87."
+    },
+    {
+      "row_number": 13,
+      "authors": "Eseroglu T, Yalcin O, Kilicoglu AG, Karacetin G",
+      "title": "The influence of substance use disorder comorbidity on the treatment response of inpatient adolescents with the diagnosis of first ACCEPTED MANUSCRIPT ARTICLE IN PRESSARTICLE IN PRESS episode psychosis",
+      "doi": "10.5455/apd.15238",
+      "pmid": null,
+      "check": "NG",
+      "check_note": "Confirmed non-PubMed-indexed by manual review; excluded from gold_pmids",
+      "full_original": "44. Eseroglu T, Yalcin O, Kilicoglu AG, Karacetin G. The influence of substance use disorder comorbidity on the treatment response of inpatient adolescents with the diagnosis of first ACCEPTED MANUSCRIPT ARTICLE IN PRESSARTICLE IN PRESS episode psychosis. ANADOLU PSIKIYATRI DERGISI-ANATOLIAN JOURNAL OF PSYCHIATRY. 2019;20(4):385-94."
+    }
+  ]
+}

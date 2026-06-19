@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:38:28Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41470797_2025",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(((\"Ilex paraguariensis\"[Supplementary Concept] OR \"Ilex paraguariensis\"[Title/Abstract] OR \"yerba mate\"[Title/Abstract] OR \"erva-mate\"[Title/Abstract] OR \"mate tea\"[Title/Abstract] OR chimarrao[Title/Abstract] OR terere[Title/Abstract]) AND (\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[Title/Abstract] OR \"Arthritis, Experimental\"[Mesh] OR \"collagen-induced arthritis\"[Title/Abstract] OR \"adjuvant arthritis\"[Title/Abstract] OR synoviocyte*[Title/Abstract] OR \"fibroblast-like synoviocyte\"[Title/Abstract] OR \"fibroblast-like synoviocytes\"[Title/Abstract] OR \"oxidative stress\"[Title/Abstract] OR inflammation[Title/Abstract]) AND (\"2016/01/01\"[Date - Publication] : \"3000\"[Date - Publication])) OR ((\"Chlorogenic Acid\"[Mesh] OR \"chlorogenic acid\"[Title/Abstract] OR \"chlorogenic acids\"[Title/Abstract] OR caffeoylquinic[Title/Abstract] OR \"caffeoylquinic acid\"[Title/Abstract] OR \"caffeoylquinic acids\"[Title/Abstract] OR \"Caffeic Acids\"[Mesh] OR \"caffeic acid\"[Title/Abstract] OR \"caffeic acids\"[Title/Abstract] OR \"Quercetin\"[Mesh] OR quercetin[Title/Abstract] OR \"Rutin\"[Mesh] OR rutin[Title/Abstract]) AND (\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[Title/Abstract] OR \"Arthritis, Experimental\"[Mesh] OR \"collagen-induced arthritis\"[Title/Abstract] OR \"adjuvant arthritis\"[Title/Abstract] OR synoviocyte*[Title/Abstract] OR \"fibroblast-like synoviocyte\"[Title/Abstract] OR \"fibroblast-like synoviocytes\"[Title/Abstract] OR \"NF-kappa B\"[Title/Abstract] OR \"JAK/STAT\"[Title/Abstract] OR Nrf2[Title/Abstract] OR RANKL[Title/Abstract] OR OPG[Title/Abstract] OR cytokine*[Title/Abstract]) AND (\"2021/01/01\"[Date - Publication] : \"3000\"[Date - Publication]))) AND (english[Language] OR spanish[Language]) NOT (review[Publication Type] OR editorial[Publication Type] OR letter[Publication Type] OR comment[Publication Type])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\01_Rheumatoid_Arthritis\\41470797_2025\\without_laws"
+}

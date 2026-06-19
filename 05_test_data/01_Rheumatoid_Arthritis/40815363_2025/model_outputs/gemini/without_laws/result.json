@@ -1,0 +1,8 @@
+{
+  "provider": "gemini",
+  "condition": "without_laws",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "40815363_2025",
+  "query": "((\"Probiotics\"[Mesh] OR \"Lactobacillus\"[Mesh] OR \"Bifidobacterium\"[Mesh] OR \"Saccharomyces\"[Mesh] OR \"Streptococcus thermophilus\"[Mesh] OR \"Enterococcus faecium\"[Mesh] OR probiotic*[tiab] OR bacteriotherapy[tiab] OR Lactobacillus[tiab] OR Bifidobacterium[tiab] OR Saccharomyces[tiab] OR Streptococcus[tiab] OR Enterococcus[tiab] OR Bacillus[tiab])) AND ((\"Oxidative Stress\"[Mesh] OR \"Nitrosative Stress\"[Mesh] OR \"Reactive Oxygen Species\"[Mesh] OR \"Reactive Nitrogen Species\"[Mesh] OR \"Inflammation\"[Mesh] OR \"Lipid Peroxidation\"[Mesh] OR \"Antioxidants\"[Mesh] OR \"DNA Damage\"[Mesh] OR \"oxidative stress\"[tiab] OR \"nitrosative stress\"[tiab] OR \"oxidative damage\"[tiab] OR \"antioxidant capacity\"[tiab] OR malondialdehyde[tiab] OR glutathione[tiab] OR \"superoxide dismutase\"[tiab] OR \"lipid peroxidation\"[tiab] OR inflammation[tiab] OR \"C-reactive protein\"[tiab] OR cytokine*[tiab] OR interleukin*[tiab])) AND ((\"randomized controlled trial\"[pt] OR \"controlled clinical trial\"[pt] OR randomized[tiab] OR placebo[tiab] OR \"clinical trials as topic\"[mesh:noexp] OR randomly[tiab] OR trial[ti])) NOT ((\"Animals\"[Mesh] NOT \"Humans\"[Mesh]))",
+  "status": "ok"
+}

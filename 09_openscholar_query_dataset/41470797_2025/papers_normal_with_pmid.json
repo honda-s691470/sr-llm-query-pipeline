@@ -1,0 +1,3168 @@
+{
+  "papers": [
+    {
+      "title": "Yerba Mate (Ilex paraguariensis) and Rheumatoid Arthritis: A Systematic Review of Mechanistic and Clinical Evidence",
+      "authors": [
+        {
+          "name": "Manuela Cassotta",
+          "id": "1754553587"
+        },
+        {
+          "name": "Qingwei Cao",
+          "id": "2399437981"
+        },
+        {
+          "name": "Haixia Hu",
+          "id": "2398608721"
+        },
+        {
+          "name": "Carlos Rabeiro Martinez",
+          "id": "2398640577"
+        },
+        {
+          "name": "L. D. Dzul López",
+          "id": "2138660733"
+        },
+        {
+          "name": "Santos Gracia Villar",
+          "id": "2083642986"
+        },
+        {
+          "name": "Maurizio Battino",
+          "id": "2267383143"
+        },
+        {
+          "name": "Francesca Giampieri",
+          "id": "2335037485"
+        }
+      ],
+      "year": 2025,
+      "venue": "Nutrients",
+      "score": 0.9723458050927273,
+      "abstract": "Background: Rheumatoid arthritis (RA) is a chronic autoimmune disease driven by persistent inflammation and oxidative stress. Ilex paraguariensis (yerba mate) contains bioactive compounds—particularly chlorogenic acids, quercetin, and rutin—with documented antioxidant and anti-inflammatory properties. Objectives: To systematically review the mechanistic and clinical evidence on Ilex paraguariensis and its main constituents in RA-relevant inflammatory, oxidative, and bone metabolic pathways. Methods: Following PRISMA 2020, PubMed/MEDLINE, LILACS, and SciELO were searched up to September 2025. Eligible studies included yerba mate preparations (last 10 years) or isolated compounds (last 5 years) assessing RA-relevant clinical, inflammatory, oxidative, or bone metabolic outcomes. Non-original studies were excluded. Owing to heterogeneity, findings were narratively synthesized, and risk of bias was evaluated using RoB 2, ROBINS-I, OHAT, and SYRCLE. Results: Twenty-three studies met inclusion criteria: 11 human (clinical or observational), 7 human-based in vitro, and 5 animal studies. Interventions with yerba mate infusions or standardized extracts suggest reductions in inflammatory markers (e.g., C-reactive protein, interleukin-6) and indicate improvements in glutathione-related oxidative balance. Evidence from isolated compounds, particularly quercetin and rutin, suggests comparable anti-inflammatory and antioxidant effects. Preclinical studies appear to indicate modulation of inflammatory and redox pathways relevant to RA. Conclusions: Yerba mate and its constituents show preliminary indications of anti-inflammatory and antioxidant effects with potential relevance to RA pathophysiology. However, in the absence of clinical trials in RA patients, conclusions remain tentative, constrained by small sample sizes, methodological heterogeneity, species differences, and internal validity concerns. Future research should include rigorously designed randomized trials and mechanistic studies using advanced human-relevant platforms, such as organoids and organ-on-chip systems.",
+      "corpusId": 283796238,
+      "url": "https://api.semanticscholar.org/CorpusId:283796238",
+      "pubmed_id": "41470797",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/nu17243853",
+        "matched_title": "Yerba Mate (Ilex paraguariensis) and Rheumatoid Arthritis: A Systematic Review of Mechanistic and Clinical Evidence.",
+        "matched_pubdate": "2025 Dec 10",
+        "matched_source": "Nutrients"
+      }
+    },
+    {
+      "title": "In Vitro Free Radical Scavenging Properties and Anti-Inflammatory Activity of Ilex paraguariensis (Maté) and the Ability of Its Major Chemical Markers to Inhibit the Production of Proinflammatory Mediators",
+      "authors": [
+        {
+          "name": "I. Farias",
+          "id": "16148242"
+        },
+        {
+          "name": "Eduarda Fratoni",
+          "id": "6278258"
+        },
+        {
+          "name": "L. C. Theindl",
+          "id": "30171699"
+        },
+        {
+          "name": "A. M. de Campos",
+          "id": "40151581"
+        },
+        {
+          "name": "E. Dalmarco",
+          "id": "3951738"
+        },
+        {
+          "name": "F. Reginatto",
+          "id": "3521880"
+        }
+      ],
+      "year": 2021,
+      "venue": "Mediators of Inflammation",
+      "score": 0.8411319053628477,
+      "abstract": "Ilex paraguariensis A. St. Hil. (Aquifoliaceae), popularly known as “yerba mate,” has great economic and social significance for the population of Southern Latin America. This study was conducted (1) to investigate the phytochemical composition of four different standardized extracts, (2) to investigate its free radical scavenging properties, and (3) to investigate the anti‐inflammatory action of I. paraguariensis and its major chemical markers. The chemical profile was achieved by Folin‐Ciocalteu, by LC/DAD, and by LC/MS assays, while the antioxidant and anti‐inflammatory properties were investigated, respectively, by DPPH assay and by inhibition of nitric oxide (Griess reaction) and TNF‐α (ELISA). Our results demonstrated that the IA (aqueous infusion extract) showed higher amounts of total phenolic contents (266.62 ± 10.85 mg CAE·g-1 DE), the highest amounts of all six chemical markers (theobromine, 5‐O‐caffeoylquinic acid, 4‐O‐caffeoylquinic acid, 3‐O‐caffeoylquinic acid, caffeine, and rutin), and stronger antioxidant activity (EC50 = 54.4 ± 5.14 μg · mL−1). The IA extract also showed the lowest inhibition of NOx secretion (50.10 ± 8.97%) as well as inhibition of TNF‐α (83.33 ± 4.01%). Regarding the chemical markers, all compounds showed strong inhibition of NOx secretion, especially theobromine, which was 200x more potent than dexamethasone. Furthermore, TNF‐α secretion was also significantly decreased by THEO at 0.033 μM (22.15 ± 6.49%), NCA at 1.97 μM (27.46 ± 3.98%), CCA at 0.35 μM (39.76 ± 5.73%), CGA at 0.56 μM (23.58 ± 5.79%), CAF at 0.52 μM (26.45 ± 5.34%), and RUT at 0.16 μM (40.18 ± 3.70%). Our results suggest that I. paraguariensis and its major chemical markers have strong free radical scavenging properties as well as showed important anti‐inflammatory activity and that these compounds in a plant extract may work based on several different mechanisms synergistically, resulting in moderating the immune system.",
+      "corpusId": 240433571,
+      "url": "https://api.semanticscholar.org/CorpusId:240433571",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Yerba mate aqueous extract improves the oxidative and inflammatory states of rats with adjuvant-induced arthritis.",
+      "authors": [
+        {
+          "name": "V. G. Côrrea",
+          "id": "11688049"
+        },
+        {
+          "name": "A. B. de Sá-Nakanishi",
+          "id": "1399758045"
+        },
+        {
+          "name": "G. A. Gonçalves",
+          "id": "6503443"
+        },
+        {
+          "name": "L. Barros",
+          "id": "145747679"
+        },
+        {
+          "name": "I. Ferreira",
+          "id": "2235572768"
+        },
+        {
+          "name": "A. Bracht",
+          "id": "3916265"
+        },
+        {
+          "name": "R. Peralta",
+          "id": "31904033"
+        }
+      ],
+      "year": 2019,
+      "venue": "Food & Function",
+      "score": 0.7892245591010874,
+      "abstract": "",
+      "corpusId": 199641740,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/31435625",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Yerba Mate—A Long but Current History",
+      "authors": [
+        {
+          "name": "A. Gawron-Gzella",
+          "id": "1412143282"
+        },
+        {
+          "name": "Justyna Chanaj-Kaczmarek",
+          "id": "1438919655"
+        },
+        {
+          "name": "J. Cielecka‐Piontek",
+          "id": "1390147737"
+        }
+      ],
+      "year": 2021,
+      "venue": "Nutrients",
+      "score": 0.7380717865571167,
+      "abstract": "Bearing in mind the growing interest in Yerba Mate, a comprehensive study has been prepared containing the most important aspects and possibilities of its use. The introduction of the work contains the species characteristics of Yerba Mate, as well as information about the origin and places of cultivation. The next part focuses on the analysis of the composition, pointing to purine alkaloids, polyphenols, saponins, and minerals as groups of active compounds responsible for the clinical activity of Yerba Mate. The review of the results of preclinical and clinical studies indicates activity in relation to the stimulating effect, reducing weight by stimulating lipolysis, cardioprotective, anti-diabetic, and anti-inflammatory effects. The information about the action of Yerba Mate is supplemented by the characteristics of its potential toxicity in terms of PAHs content (in particular benzo[α]pyrene) and preparation as a determinant of increased irritation. The current data on the effects of Yerba Mate and the wide safety margin of its use position this raw material as a valuable component of functional food. The growing frequency of consuming Yerba Mate, conditioned by the availability resulting from the globalization of the market and the information provided about it’s the pro-health effects, will position Yerba Mate’s popularity among wider population groups.",
+      "corpusId": 239478956,
+      "url": "https://api.semanticscholar.org/CorpusId:239478956",
+      "pubmed_id": "34835962",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/nu13113706",
+        "matched_title": "Yerba Mate-A Long but Current History.",
+        "matched_pubdate": "2021 Oct 21",
+        "matched_source": "Nutrients"
+      }
+    },
+    {
+      "title": "Yerba Mate (Ilex paraguariensis A. St.‐Hil.) Reduces Oxidative Stress and Bone Resorption in Apical Periodontitis",
+      "authors": [
+        {
+          "name": "Carolina Sayuri Wajima",
+          "id": "2282462611"
+        },
+        {
+          "name": "Carolina de Barros Morais Cardoso",
+          "id": "1468917946"
+        },
+        {
+          "name": "C. Anselmi",
+          "id": "2048919559"
+        },
+        {
+          "name": "R. Dal‐Fabbro",
+          "id": "2306577221"
+        },
+        {
+          "name": "M. C. Ferraz",
+          "id": "2229246985"
+        },
+        {
+          "name": "Cristiane Cantiga da Silva",
+          "id": "2072472714"
+        },
+        {
+          "name": "P. C. Ciarlini",
+          "id": "1400545816"
+        },
+        {
+          "name": "E. Ervolino",
+          "id": "4112534"
+        },
+        {
+          "name": "M.C. Bottino",
+          "id": "2267374256"
+        },
+        {
+          "name": "L. Cintra",
+          "id": "2328224376"
+        }
+      ],
+      "year": 2025,
+      "venue": "International Endodontic Journal",
+      "score": 0.7332436313441709,
+      "abstract": "ABSTRACT Aim Apical periodontitis (AP) is a highly prevalent chronic inflammatory disease that can exert systemic effects by releasing biochemical mediators that initiate and regulate the immune response. Yerba Mate ( Ilex paraguariensis , YM), a popular plant broadly consumed in South America, is rich in biologically active compounds known for their therapeutic potential. This study assessed Y's in vitro cytocompatibility, anti‐osteoclastogenic and immunomodulatory effects on oral stem cells and macrophages, as well as its in vivo potential to reduce AP severity and systemic side effects. Methodology In vitro, instant powdered YM was dissolved in distilled water, filtered and diluted in culture media to final concentrations ranging from 1 to 200 μg/mL. Cell viability and pro‐inflammatory cytokine release (IL‐1α, IL‐6, TNF‐α) were assessed in human exfoliated deciduous teeth stem cells. The NF‐κB pathway and anti‐osteoclastogenic activity were evaluated using a luciferase reporter assay and TRAP staining in RAW 264.7. Forty male Wistar rats were divided into control (C), YM‐treated(YM), AP‐induced (AP) and AP with YM treatment (AP + YM). YM treatment (20 Mg/Kg/Day) was administered via gavage for 58 days. AP was induced after 28 days of YM intake, and the animals were euthanised 30 days later. In serum, systemic redox state was assessed via total antioxidant capacity (TAC) and thiobarbituric acid reactive substances (TBARS). Histological and immunohistochemical analyses evaluated inflammation, cytokine expression (TNF‐α, IL‐6, IL‐10 and IL‐17) and bone resorption markers. Micro‐CT quantified alveolar bone loss. Data were analysed at p < 0.05. Results YM treatment demonstrated significant anti‐inflammatory, antioxidant and bone‐protective effects. In vitro, YM‐supported cell viability, reduced TNF‐α and IL‐1α, inhibited NF‐κB activation and suppressed osteoclastogenesis. In vivo, YM treatment restored systemic antioxidant capacity and reduced lipid peroxidation, mitigating AP‐induced oxidative stress. Furthermore, YM intake attenuated the local inflammatory response and reduced the bone resorptive activity associated with AP. Conclusion In vitro, YM suppressed pro‐inflammatory cytokines and NF‐κB, inhibited osteoclastogenesis and was cytocompatible. In vivo, it reversed AP‐induced redox state and reduced inflammation and bone resorption, suggesting therapeutic promise.",
+      "corpusId": 281322204,
+      "url": "https://api.semanticscholar.org/CorpusId:281322204",
+      "pubmed_id": "40955713",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1111/iej.70031",
+        "matched_title": "Yerba Mate (Ilex paraguariensis A. St.-Hil.) Reduces Oxidative Stress and Bone Resorption in Apical Periodontitis.",
+        "matched_pubdate": "2026 Jan",
+        "matched_source": "Int Endod J"
+      }
+    },
+    {
+      "title": "Tripterygium glycosides: recent advances in mechanisms, therapeutic applications, and safety optimization",
+      "authors": [
+        {
+          "name": "Yujie Jin",
+          "id": "2352545857"
+        },
+        {
+          "name": "Yongxin Cui",
+          "id": "2161040942"
+        },
+        {
+          "name": "Zhanyan Zhang",
+          "id": "2409497936"
+        },
+        {
+          "name": "Chen-Jen Huang",
+          "id": "2031977466"
+        },
+        {
+          "name": "Ruoting Tong",
+          "id": "2385990266"
+        },
+        {
+          "name": "Ye Ling",
+          "id": "2408958749"
+        },
+        {
+          "name": "Qirui Pei",
+          "id": "2408971278"
+        },
+        {
+          "name": "Yan Ma",
+          "id": "2378904006"
+        },
+        {
+          "name": "Qixia Zhan",
+          "id": "2408955235"
+        },
+        {
+          "name": "Xiaojian Leng",
+          "id": "2408948990"
+        },
+        {
+          "name": "Junjun He",
+          "id": "2109930660"
+        },
+        {
+          "name": "Lizhuo Wang",
+          "id": "2378906296"
+        },
+        {
+          "name": "Jialin Gao",
+          "id": "2352209288"
+        }
+      ],
+      "year": 2026,
+      "venue": "Frontiers in Medicine",
+      "score": 0.7287765076361905,
+      "abstract": "Tripterygium glycosides (TG), bioactive extracts derived from Tripterygium wilfordii Hook F., possess potent anti-inflammatory and immunomodulatory properties, making them promising therapeutic candidates for a range of autoimmune and inflammatory diseases. This review summarizes recent advances in the pharmacological mechanisms of TG, including their roles in cytokine suppression, autophagy modulation, anti-fibrotic remodeling, and oxidative stress regulation. Evidence from clinical trials and real-world studies supports the therapeutic potential of TG in conditions such as systemic lupus erythematosus, diabetic kidney disease, rheumatoid arthritis, and psoriasis. In addition, we highlight ongoing efforts to overcome TG's narrow therapeutic window through monomer isolation, structural optimization, prodrug strategies, and innovative delivery systems. Emerging derivatives—such as LLDT-8 (5R-5-hydroxytriptolide) and triptonide—exhibit reduced toxicity while retaining robust efficacy, providing new avenues for clinical translation. Furthermore, the integration of systems pharmacology, synthetic biology, and AI-assisted drug design is accelerating the development of next-generation TG-based therapeutics.",
+      "corpusId": 285322186,
+      "url": "https://api.semanticscholar.org/CorpusId:285322186",
+      "pubmed_id": "41704700",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fmed.2026.1728162",
+        "matched_title": "Tripterygium glycosides: recent advances in mechanisms, therapeutic applications, and safety optimization.",
+        "matched_pubdate": "2026",
+        "matched_source": "Front Med (Lausanne)"
+      }
+    },
+    {
+      "title": "Effects of plant active substances in rheumatoid arthritis—a systematic review and network meta-analysis",
+      "authors": [
+        {
+          "name": "Qiu-wei Peng",
+          "id": "1751680978"
+        },
+        {
+          "name": "Jian Wang",
+          "id": "2217898823"
+        },
+        {
+          "name": "Kesong Li",
+          "id": "2144017123"
+        },
+        {
+          "name": "Cong-min Xia",
+          "id": "2286221425"
+        },
+        {
+          "name": "Chuan-hui Yao",
+          "id": "2333327563"
+        },
+        {
+          "name": "Qiuyan Guo",
+          "id": "2277813701"
+        },
+        {
+          "name": "Xun Gong",
+          "id": "2326926247"
+        },
+        {
+          "name": "Xiaopo Tang",
+          "id": "15768828"
+        },
+        {
+          "name": "Quan Jiang",
+          "id": "2325821682"
+        }
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Pharmacology",
+      "score": 0.7251572869644464,
+      "abstract": "Background Plant active substances are extensively utilized in treating rheumatoid arthritis (RA). Despite numerous experimental and clinical studies on plant active substances their efficacy remains largely unsubstantiated. The widespread use of these extracts as therapeutic measures for RA is problematic due to the lack of compelling evidence. Objective Our research aims to assess the impact of plant active substances on RA by conducting a network meta-analysis. Methods We systematically searched four electronic databases—PubMed, EMBASE, the Cochrane Central Register of Controlled Trials, and Web of Science—from their inception to August 2024. The main focus was on assessing primary outcomes, including the Visual Analogue Scale (VAS), inflammatory markers, Swollen Joint Count (SJC), Tender Joint Count (TJC), and Disease Activity Score on 28 joints (DAS28). We performed data analysis using StataMP 15.1 software and ranked the therapeutic effects based on the Surface Under the Cumulative Ranking Curve (SUCRA) probability values. Results Based on screening procedures, 18 eligible studies were incorporated into the analysis. These studies encompassed a total of 1,674 RA patients and investigated 10 different plant active substance therapies. Specifically, 10 studies included VAS indicators, 17 studies included inflammatory marker indicators, 14 studies included DAS28 indicators, 13 studies included SJC indicators, and 13 studies included TJC indicators. Based on SUCRA values, quercetin appeared to be the most effective treatment for decreasing serum VAS levels (67.3%). Furthermore, curcumin emerged as the most promising option for reducing inflammatory marker levels (72.3%), SJC (75.6%), and TJC (76.2%). Lastly, with respect to DAS28, resveratrol emerged as the optimal choice (74.3%). Conclusion According to the network meta-analysis (NMA), curcumin exhibited superior efficacy compared to placebo in decreasing SJC and TJC. Additionally, curcumin demonstrated greater effectiveness in reducing inflammatory markers. Quercetin was more effective in reducing VAS, and resveratrol was more effective in reducing DAS28. Patients with RA may benefit from these findings. Insightful information from this study is helpful for RA patients to consider using plant active substance therapies. For their efficacy and safety to be confirmed, more proof is needed.",
+      "corpusId": 276166763,
+      "url": "https://api.semanticscholar.org/CorpusId:276166763",
+      "pubmed_id": "39974740",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fphar.2025.1536023",
+        "matched_title": "Effects of plant active substances in rheumatoid arthritis-a systematic review and network meta-analysis.",
+        "matched_pubdate": "2025",
+        "matched_source": "Front Pharmacol"
+      }
+    },
+    {
+      "title": "MiR-146/TNF-α/IL-6/osteocalcin crosstalk in anti-rheumatic potential of Galleria mellonella hemolymph from computational molecular modeling to in-vivo validation",
+      "authors": [
+        {
+          "name": "Sara M. Ahmed",
+          "id": "2320349938"
+        },
+        {
+          "name": "Elham Ali",
+          "id": "2204909339"
+        },
+        {
+          "name": "Amina R. Ali",
+          "id": "152676306"
+        },
+        {
+          "name": "Mona A. Mohamed",
+          "id": "2357986244"
+        },
+        {
+          "name": "H. Abdelhafez",
+          "id": "2612255"
+        },
+        {
+          "name": "Alya Mashaal",
+          "id": "1845907592"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Computer-Aided Molecular Design",
+      "score": 0.7246600724923544,
+      "abstract": "Rheumatoid arthritis (RA) is an inflammatory autoimmune illness that persistently and recurrently affects joints. In RA, miR-146a functions as a key regulator, modulating inflammation by targeting and downregulating cytokines that promote inflammation, such as TNF-α and IL-6, whereas osteocalcin, a bone metabolism marker, plays a role in bone remodeling and joint health. The interplay between these molecules significantly influences RA progression and severity by balancing inflammation and bone integrity. Conventional antirheumatic drugs often cause varying levels of side effects. As sustainable development initiatives grow, insects are gaining interest as sustainable food sources and potential medicinal agents. Notably, the increasing Galleria mellonella (G. mellonella) population has raised concerns about the spread of honeybee viruses, affects bee products and food security, and drives economic losses in the therapeutic market. Accordingly, hemolymph has crucial defensive and immunological effects in insects and has recently been investigated as an immunomodulatory agent in parasitic in-vitro and in-vivo rat models. This work was designed to elucidate the potential immunomodulatory impact of G. mellonella hemolymph on the crosstalk between miR-146a, IL-6, TNF-α, and osteocalcin in the context of RA, utilizing both computational molecular modeling and in-vivo validation. Computer-aided molecular simulation for immune and RA mediators is applied through specific cell annotation, targeted pathways, and in-silico protein‒protein and gene‒gene interactions with a gene relative-tissue expression heatmap, which is based on gas chromatographic‒mass spectrometric analysis of hemolymph. Our study is the first to adapt a preliminary test to optimize hemolymph dosing and toxicity. The rats were subsequently divided into four groups: healthy control, Freund’s adjuvant-induced arthritis (utilized as a model that mimics human RA), methotrexate-treated arthritis, and hemolymph-treated arthritis groups. Our findings indicate that hemolymph contains valuable active compounds that have anti-inflammatory and antioxidant potential, increasing the impact of recovery on diseased joints in comparison with the arthritic and methotrexate groups. This is the first report investigating the maximum inhibition rate of G. mellonella hemolymph as an immunomodulatory and anti-inflammatory agent in an arthritic model.",
+      "corpusId": 277996987,
+      "url": "https://api.semanticscholar.org/CorpusId:277996987",
+      "pubmed_id": "40266392",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s10822-025-00595-3",
+        "matched_title": "MiR-146/TNF-α/IL-6/osteocalcin crosstalk in anti-rheumatic potential of Galleria mellonella hemolymph from computational molecular modeling to in-vivo validation.",
+        "matched_pubdate": "2025 Apr 23",
+        "matched_source": "J Comput Aided Mol Des"
+      }
+    },
+    {
+      "title": "Fu-zi decoction attenuate rheumatoid arthritis in vivo and in vitro by modulating RANK/RANKL signaling pathway",
+      "authors": [
+        {
+          "name": "Zhenzhen Pan",
+          "id": "2343274001"
+        },
+        {
+          "name": "Fangchan Li",
+          "id": "2283487253"
+        },
+        {
+          "name": "Yujie Xu",
+          "id": "2310395689"
+        },
+        {
+          "name": "Huimin Ye",
+          "id": "2310189279"
+        },
+        {
+          "name": "Jiahui Liu",
+          "id": "2138806060"
+        },
+        {
+          "name": "Zhenhua Wang",
+          "id": "2206281075"
+        },
+        {
+          "name": "Chang-hui Deng",
+          "id": "49032323"
+        },
+        {
+          "name": "Jianping Song",
+          "id": "47163804"
+        },
+        {
+          "name": "Manxue Mei",
+          "id": "2291765669"
+        },
+        {
+          "name": "Changqing Li",
+          "id": "145932687"
+        }
+      ],
+      "year": 2024,
+      "venue": "Frontiers in Pharmacology",
+      "score": 0.7226387906571898,
+      "abstract": "Background Fu-zi decoction (FZD) has a long history of application for treating Rheumatoid arthritis (RA) as a classic formulation. However, its underlying mechanisms have not been fully elucidated. This study aimed to decipher the potential mechanism of FZD in treating RA, with a specific focus on receptor activator of nuclear factor κB/receptor activator of nuclear factor κB ligand (RANK/RANKL) signaling pathway. Methods The impact of FZD on RA was investigated in collagen-induced arthritis rats (CIA), and the underlying mechanism was investigated in an osteoclast differentiation cell model. In vivo, the antiarthritic effect of FZD at various doses (2.3, 4.6, 9.2 g/kg/day) was evaluated by arthritis index score, paw volume, toe thickness and histopathological examination of inflamed joints. Additionally, the ankle joint tissues were determined with micro-CT and safranin O fast green staining to evaluate synovial hyperplasia and articular cartilage damage. In vitro, osteoclast differentiation and maturation were evaluated by TRAP staining in RANKL-induced bone marrow mononuclear cells. The levels of pro- and anti-inflammatory cytokines as well as RANKL and OPG were evaluated by ELISA kits. In addition, Western blotting was used to investigate the effect of FZD on RANK/RANKL pathway activation both in vivo and in vitro. Results FZD significantly diminished the arthritis index score, paw volume, toe thickness and weigh loss in CIA rats, alleviated the pathological joint alterations. Consistent with in vivo results, FZD markedly inhibited RANKL-induced osteoclast differentiation by decreasing osteoclast numbers in a dose-dependent manner. Moreover, FZD decreased the levels of pro-inflammatory cytokines IL-6, IL-1β and TNF-α, while increasing anti-inflammatory cytokine IL-10 level both in serum and culture supernatants. Treatment with FZD significantly reduced serum RANKL levels, increased OPG levels, and decreased the RANKL/OPG ratio. In both in vivo and in vitro settings, FZD downregulated the protein expressions of RANK, RANKL, and c-Fos, while elevating OPG levels, further decreasing the RANKL/OPG ratio. Conclusion In conclusion, FZD exerts a therapeutic effect in CIA rats by inhibiting RANK/RANKL-mediated osteoclast differentiation, which suggested that FZD is a promising treatment for RA.",
+      "corpusId": 271420413,
+      "url": "https://api.semanticscholar.org/CorpusId:271420413",
+      "pubmed_id": "39108758",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fphar.2024.1423884",
+        "matched_title": "Fu-zi decoction attenuate rheumatoid arthritis in vivo and in vitro by modulating RANK/RANKL signaling pathway.",
+        "matched_pubdate": "2024",
+        "matched_source": "Front Pharmacol"
+      }
+    },
+    {
+      "title": "Triterpenes as Potential Drug Candidates for Rheumatoid Arthritis Treatment",
+      "authors": [
+        {
+          "name": "C. Faustino",
+          "id": "8577423"
+        },
+        {
+          "name": "L. Pinheiro",
+          "id": "79048233"
+        },
+        {
+          "name": "N. Duarte",
+          "id": "115973086"
+        }
+      ],
+      "year": 2023,
+      "venue": "Life",
+      "score": 0.7225032754343783,
+      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease characterized by joint inflammation, swelling and pain. Although RA mainly affects the joints, the disease can also have systemic implications. The presence of autoantibodies, such as anti-cyclic citrullinated peptide antibodies and rheumatoid factors, is a hallmark of the disease. RA is a significant cause of disability worldwide associated with advancing age, genetic predisposition, infectious agents, obesity and smoking, among other risk factors. Currently, RA treatment depends on anti-inflammatory and disease-modifying anti-rheumatic drugs intended to reduce joint inflammation and chronic pain, preventing or slowing down joint damage and disease progression. However, these drugs are associated with severe side effects upon long-term use, including immunosuppression and development of opportunistic infections. Natural products, namely triterpenes with anti-inflammatory properties, have shown relevant anti-arthritic activity in several animal models of RA without undesirable side effects. Therefore, this review covers the recent studies (2017–2022) on triterpenes as safe and promising drug candidates for the treatment of RA. These bioactive compounds were able to produce a reduction in several RA activity indices and immunological markers. Celastrol, betulinic acid, nimbolide and some ginsenosides stand out as the most relevant drug candidates for RA treatment.",
+      "corpusId": 259551650,
+      "url": "https://api.semanticscholar.org/CorpusId:259551650",
+      "pubmed_id": "37511889",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/life13071514",
+        "matched_title": "Triterpenes as Potential Drug Candidates for Rheumatoid Arthritis Treatment.",
+        "matched_pubdate": "2023 Jul 5",
+        "matched_source": "Life (Basel)"
+      }
+    },
+    {
+      "title": "Exploration of acute and chronic anti-inflammatory potential of Quercus leucotrichophora A. Camus extracts in Wistar rats: A mechanistic insight",
+      "authors": [
+        {
+          "name": "A. Saleem",
+          "id": "123230211"
+        },
+        {
+          "name": "Izza Hameed",
+          "id": "2148720743"
+        },
+        {
+          "name": "M. Akhtar",
+          "id": "37870110"
+        },
+        {
+          "name": "G. Ashraf",
+          "id": "3676198"
+        },
+        {
+          "name": "B. Alghamdi",
+          "id": "153907027"
+        },
+        {
+          "name": "Md. Habibur Rahman",
+          "id": "2155285910"
+        },
+        {
+          "name": "Majed N. Almashjary",
+          "id": "2176892809"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Pharmacology",
+      "score": 0.7224800737864352,
+      "abstract": "Introduction: This research was conducted to validate the folkloric use of Quercus leucotrichophora (QL) leaf extracts against inflammation and arthritis and to determine the chemical composition using HPLC. Method: The aqueous and methanolic extracts of QL were evaluated by in vitro anti-oxidant, anti-inflammatory (inhibition of protein denaturation and membrane stabilization) assays, and in vivo anti-inflammatory (carrageenan and xylene-induced edema) and anti-arthritic models. For anti-arthritic potential, 0.1 mL Complete Freund’s Adjuvant (CFA) was inoculated into the left hind paw of a Wistar rat on day 1, and oral dosing with QL methanolic extract (QLME) at 150, 300, and 600 mg/kg was begun at day 8 till the 28th day in all groups, except disease control that was given distilled water, while methotrexate was given as standard treatment. Results and discussion: There was a noteworthy (p < 0.05–0.0001) restoration in body weight, paw edema, arthritic index, altered blood parameters, and oxidative stress biomarkers in treated rats as compared to the diseased group. Moreover, QLME treatment significantly (p < 0.0001) downregulated TNF-α, IL-6, IL-1β, COX-2, and NF-κB, while significantly (p < 0.0001) upregulating IL-10, I-κB, and IL-4 in contrast to the diseased group. The QLME exhibited no mortality in the acute toxicity study. It was concluded that QLME possessed substantial anti-oxidant, anti-inflammatory, and anti-arthritic potential at all dosage levels prominently at 600 mg/kg might be due to the presence of quercetin, gallic, sinapic, and ferulic acids. Graphical Abstract",
+      "corpusId": 258051687,
+      "url": "https://api.semanticscholar.org/CorpusId:258051687",
+      "pubmed_id": "37113751",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fphar.2023.1002999",
+        "matched_title": "Exploration of acute and chronic anti-inflammatory potential of Quercus leucotrichophora A. Camus extracts in Wistar rats: A mechanistic insight.",
+        "matched_pubdate": "2023",
+        "matched_source": "Front Pharmacol"
+      }
+    },
+    {
+      "title": "Efficacy and safety of Duhuo-Jisheng decoction in rheumatoid arthritis: A systematic review and meta-analysis of 42 randomized controlled trials",
+      "authors": [
+        {
+          "name": "P. Qu",
+          "id": "2058229573"
+        },
+        {
+          "name": "Haiyang Wang",
+          "id": "2265582248"
+        },
+        {
+          "name": "Wei Wang",
+          "id": "2265572365"
+        },
+        {
+          "name": "Shiyu Du",
+          "id": "2265555197"
+        },
+        {
+          "name": "Zhaorong Peng",
+          "id": "2265619225"
+        },
+        {
+          "name": "Qian Hu",
+          "id": "2265620461"
+        },
+        {
+          "name": "Xiaohu Tang",
+          "id": "2265626094"
+        }
+      ],
+      "year": 2023,
+      "venue": "Medicine",
+      "score": 0.7176310765985188,
+      "abstract": "Background: Duhuo-Jisheng decoction (DJD) is a Chinese herb formula. Previous studies have reported that the clinical symptoms and laboratory indicators of rheumatoid arthritis (RA) patients could be improved by DJD. However, the existing evidence was not robust enough and controversial. Methods: Randomized controlled trials of DJD for RA were retrieved from Chinese and English databases from their inception to April 16, 2023. Meta-analysis was performed by Stata 17 software. We used subgroup analysis, meta-regression, and sensitivity analysis to identify potential sources of heterogeneity. The subgroup analysis and meta-regression were conducted from 6 aspects, including age, course of disease, course of treatment, interventions used in the experimental or control group, and random sequence generation. Galbraith plot was used to find studies with possible heterogeneity. Publication bias was assessed by Egger’s test and funnel plots when the number of relevant studies was greater than or equal to 10. Results: Forty-two studies were included, involving 3635 patients and 19 outcome indicators. Meta-analysis showed that, compared with the routine disease-modifying antirheumatic drugs (rDMARDs), DJD could better improve the level of laboratory indicators, main symptoms and signs, and questionnaire scores of RA patients. The laboratory indicators included rheumatoid factor, T lymphocyte subpopulation (including CD4+, CD8+, and CD4+/CD8+), and inflammatory biomarkers (including erythrocyte sedimentation rate, C-reactive protein, tumor necrosis factor-α, interleukin 6, interleukin 1β, and interleukin 1). The main symptoms and signs included the duration of morning stiffness, the number of joint tenderness, the number of swollen joints, and the grip strength of both hands. The questionnaire included visual analogue scale, health assessment questionnaire, and disease activity score in 28 joints. In addition, the adverse events of DJD treatment were significantly lower than those of rDMARDs. However, the results of a few subgroup analyses differed from the overall results. Furthermore, the publication bias assessment showed that, out of 11 evaluated results, 4 had publication bias. Conclusion: DJD could be a satisfactory complementary and alternative therapy for RA. However, due to a small number of subgroup analysis results being different from the overall results, it should be verified by further studies.",
+      "corpusId": 265040319,
+      "url": "https://api.semanticscholar.org/CorpusId:265040319",
+      "pubmed_id": "37933004",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1097/md.0000000000035513",
+        "matched_title": "Efficacy and safety of Duhuo-Jisheng decoction in rheumatoid arthritis: A systematic review and meta-analysis of 42 randomized controlled trials.",
+        "matched_pubdate": "2023 Nov 3",
+        "matched_source": "Medicine (Baltimore)"
+      }
+    },
+    {
+      "title": "Double-blinded randomized controlled trial to reveal the effects of Brazilian propolis intake on rheumatoid arthritis disease activity index; BeeDAI",
+      "authors": [
+        {
+          "name": "Y. Matsumoto",
+          "id": "2087152252"
+        },
+        {
+          "name": "Kanae Takahashi",
+          "id": "47585627"
+        },
+        {
+          "name": "Y. Sugioka",
+          "id": "51989139"
+        },
+        {
+          "name": "K. Inui",
+          "id": "46781248"
+        },
+        {
+          "name": "T. Okano",
+          "id": "10007593"
+        },
+        {
+          "name": "K. Mandai",
+          "id": "28677045"
+        },
+        {
+          "name": "Y. Yamada",
+          "id": "2111746300"
+        },
+        {
+          "name": "A. Shintani",
+          "id": "2074802"
+        },
+        {
+          "name": "T. Koike",
+          "id": "4329689"
+        }
+      ],
+      "year": 2021,
+      "venue": "PLoS ONE",
+      "score": 0.694524403246489,
+      "abstract": "Background and aims Brazilian propolis reportedly contributed to suppressing disease activity in a mouse model of rheumatoid arthritis (RA), suggesting new treatment options using Brazilian propolis. However, only results from animal experiments have been available, and the suppressive effects of Brazilian propolis on disease activity in humans with RA remain unknown. The purpose of this study was to clinically validate how Brazilian propolis intake changes disease activity in RA patients. Methods This study was conducted as a multicenter, double-blinded, randomized, placebo-controlled, parallel-group study of 80 women with RA (median age, 61.5 years; interquartile range, 56.0 to 67.3 years) showing moderate disease activity on Disease Activity Score in 28 joints using erythrocyte sedimentation rate (DAS28-ESR). Test tablets containing Brazilian propolis were used in Group P (40 patients), and Brazilian propolis-free placebo tablets were used as control in Group C (40 patients). Group P received 5 tablets of propolis (508.5 mg of propolis) daily, and Group C received 5 tablets of placebo daily. The intervention lasted 24 weeks, with change in DAS28-ESR set as the primary endpoint. As secondary endpoints, other disease activity assessment (DAS28 using C-reactive protein, simplified disease activity index, clinical disease activity index), ultrasonographic evaluation of synovitis, activities of daily living, quality of life, changes in cytokine levels, and adverse events over the course of the study were also assessed. Data were statistically analyzed by analysis of covariance. Results No significant differences in the primary endpoint were identified between groups (Group P vs Group C, effect: 0.14, 95% confidence interval: -0.21 to 0.49, p = 0.427). Likewise, no significant differences were seen between groups for any secondary endpoints. The adverse event rate during the study period was 28% in Group P and 33% in Group C. Conclusions Brazilian propolis exerted no effects on disease activity in patients with RA.",
+      "corpusId": 235230975,
+      "url": "https://api.semanticscholar.org/CorpusId:235230975",
+      "pubmed_id": "34043719",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0252357",
+        "matched_title": "Double-blinded randomized controlled trial to reveal the effects of Brazilian propolis intake on rheumatoid arthritis disease activity index; BeeDAI.",
+        "matched_pubdate": "2021",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "To study the effect and mechanism of dimethyl fumarate [DMF] in adjuvant induced arthritis model in rats",
+      "authors": [
+        {
+          "name": "S. Saha",
+          "id": "143809620"
+        },
+        {
+          "name": "Lekha Saha",
+          "id": "145010614"
+        },
+        {
+          "name": "Neha Singh",
+          "id": "2110279261"
+        },
+        {
+          "name": "Jai Singh",
+          "id": "2318240184"
+        },
+        {
+          "name": "Rohit Kumar",
+          "id": "2143787456"
+        },
+        {
+          "name": "A. Bhatia",
+          "id": "152535069"
+        },
+        {
+          "name": "A. Chakrabarti",
+          "id": "38642178"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.6744315318611918,
+      "abstract": "Rheumatoid arthritis [RA] is a chronic inflammatory autoimmune connective tissue disease which characteristically causes the gradual ongoing destruction of articular cartilage and resorption of bone, leading to disability and premature mortality [1-3]. It is the most common form of polyarticular inflammatory arthritis [1], and multiple epidemiological studies determined the 2000– 2015 incidence rate to be 18.5 cases per 100,000 personyears; the prevalence was 0.329% by January 2015 [4]. According to Handa et al., in 2015, the prevalence of RA in India was 0.2 0.75% [5].",
+      "corpusId": 237476515,
+      "url": "https://api.semanticscholar.org/CorpusId:237476515",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "The Role of Nutrition in the Development, Management, and Prevention of Rheumatoid Arthritis: A Comprehensive Review",
+      "authors": [
+        {
+          "name": "Maria Polyzou",
+          "id": "2036888345"
+        },
+        {
+          "name": "A. Goules",
+          "id": "10100476"
+        },
+        {
+          "name": "Athanasios G. Tzioufas",
+          "id": "2281867799"
+        }
+      ],
+      "year": 2025,
+      "venue": "Nutrients",
+      "score": 0.6368354167862263,
+      "abstract": "Background: Rheumatoid arthritis (RA) is a chronic autoimmune disease, with key features being synovial hyperplasia, autoantibody production, and ultimately cartilage and bone destruction. The pathogenesis of rheumatoid arthritis (RA) is not fully understood, but it is estimated that genetic factors account for 50–60% of the risk, with the remainder attributed to environmental factors, including infectious agents, smoking, gut microbiota, and diet. Given that most current clinical trials on RA and nutrition are limited in sample size and duration, there is an unmet need for higher-quality studies in the future, a need that EULAR has already recognized. Objective: This article aims to investigate the impact of diet and nutritional factors on the development, progression, and potential prevention of RA. Specifically, it provides a comprehensive review of certain foods, such as alcohol, gluten, red meat, and saturated and trans fats, and their contribution to the onset and progression of rheumatoid arthritis (RA). In addition, it examines the effect of key anti-inflammatory nutrients in reducing the risk of RA, including olive oil, fatty fish, juices, and certain fruits. Finally, it discusses the potential protective effects of certain dietary patterns, such as the Mediterranean diet (MD) and diets rich in omega-3 polyunsaturated fatty acids (PUFAs). Methods: A comprehensive literature search was conducted in the PubMed/Medline, Science Direct, and Scopus databases (1990–2025). English-language observational studies, clinical trials, and systematic reviews addressing the relationship between diet and dietary patterns and RA were included. Results: High consumption of red and processed meat, saturated and trans fats, sugary drinks, and gluten (in vulnerable individuals) is associated with increased RA risk and greater disease activity, partly through pro-inflammatory pathways and gut dysbiosis. In contrast, regular intake of olive oil, fatty fish rich in omega-3 polyunsaturated fatty acids, fruit juices, cocoa, certain fruits, and vitamin D appears protective and may reduce disease activity and symptom severity. Adherence to anti-inflammatory dietary patterns, particularly the Mediterranean diet and diets rich in omega-3 fatty acids, is consistently associated with a lower incidence of RA, reduced inflammatory markers, and improved clinical outcomes. However, most available studies are limited by small sample sizes, short duration, heterogeneous methodologies, and potential confounding by other lifestyle factors (e.g., smoking, obesity). Conclusions: Although an appropriate diet and dietary habits cannot replace pharmacological therapy, current knowledge supports the inclusion of an anti-inflammatory diet as an adjunct strategy in the prevention and management of RA. The relatively limited studies that have been conducted suggest that high-quality, large-scale, prospective studies are needed to prevent and treat RA. These studies should incorporate genetic, microbiome, and long-term clinical endpoints, so as to establish definitive dietary recommendations and allow for personalized nutritional interventions for patients with RA.",
+      "corpusId": 283686835,
+      "url": "https://api.semanticscholar.org/CorpusId:283686835",
+      "pubmed_id": "41470771",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/nu17243826",
+        "matched_title": "The Role of Nutrition in the Development, Management, and Prevention of Rheumatoid Arthritis: A Comprehensive Review.",
+        "matched_pubdate": "2025 Dec 6",
+        "matched_source": "Nutrients"
+      }
+    },
+    {
+      "title": "Pharmacological Mechanisms and Therapeutic Potential of Resveratrol in Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "Lan Liu",
+          "id": "2372128930"
+        },
+        {
+          "name": "Wei Wei",
+          "id": "2372248528"
+        }
+      ],
+      "year": 2025,
+      "venue": "Drug Design, Development and Therapy",
+      "score": 0.6346290807108567,
+      "abstract": "Abstract Rheumatoid arthritis (RA) is a complex autoimmune disease characterized by chronic synovitis of the joints, accompanied by systemic involvement of multiple systems. Resveratrol (Res) is a natural polyphenolic compound found in various plants, particularly abundant in grape skins, red wine, and peanuts. This article summarizes the pharmacological effects of Res in RA. Res can alleviate RA symptoms through various mechanisms, including inhibiting the production of inflammatory cytokines, suppressing synovial cell proliferation and angiogenesis, and protecting joint cartilage. For extra articular manifestations, Res mainly exhibits the effects of reducing inflammation of RA pulmonary interstitial disease (RA-ILD), improving the degree of pulmonary fibrosis, and reducing periodontal damage. Animal model studies support the anti-arthritis effect of Res, while clinical trials provide preliminary evidence of its potential benefits in reducing pain and improving quality of life in RA patients. Although early studies have shown that Res has anti RA potential, more large-scale, multicenter clinical trials are still needed to validate its safety and efficacy.",
+      "corpusId": 280026872,
+      "url": "https://api.semanticscholar.org/CorpusId:280026872",
+      "pubmed_id": "40692773",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2147/dddt.s527665",
+        "matched_title": "Pharmacological Mechanisms and Therapeutic Potential of Resveratrol in Rheumatoid Arthritis.",
+        "matched_pubdate": "2025",
+        "matched_source": "Drug Des Devel Ther"
+      }
+    },
+    {
+      "title": "Effect of curcumin on inflammatory markers and disease activity in patients with rheumatoid arthritis: A meta-analysis",
+      "authors": [
+        {
+          "name": "Fuhan Zhang",
+          "id": "1471644893"
+        },
+        {
+          "name": "Ben Niu",
+          "id": "2395362743"
+        }
+      ],
+      "year": 2025,
+      "venue": "Medicine",
+      "score": 0.6307451675441711,
+      "abstract": "Background: Curcumin has been proposed as a potential adjunctive anti-inflammatory therapeutic option in rheumatoid arthritis (RA); however, the evidence regarding its clinical efficacy remains inconsistent. This meta-analysis aimed to evaluate whether curcumin supplementation improves disease activity and systemic inflammatory parameters in patients with RA. Methods: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses criteria, PubMed, Cochrane Library, Web of Science, and Embase were searched from inception to August 26, 2025. Eligible randomized controlled trials included adult RA patients diagnosed according to American College of Rheumatology or European League Against Rheumatism criteria and compared curcumin in any formulation with placebo or standard care. Two independent reviewers conducted study selection, data extraction, and methodological quality assessment using the Cochrane Risk of Bias 2.0 tool. Pooled analyses were conducted using Review Manager, version 5.4 and Stata, version 18, with fixed-effect or random-effects models based on heterogeneity. Results: Seven randomized controlled trials were included. Curcumin significantly reduced Disease Activity Score in 28 joints (weighted mean difference [WMD] −1.47; 95% confidence interval [CI] −1.68 to −1.26), rheumatoid factor (WMD −24.15; 95% CI −36.47 to −11.83), erythrocyte sedimentation rate (WMD −31.26; 95% CI −58.59 to −3.93), and C-reactive protein (WMD −0.93; 95% CI −1.33 to −0.53). Substantial heterogeneity was observed; nevertheless, leave-one-out sensitivity analyses confirmed stability of pooled estimates, and Egger tests revealed no significant publication bias. Conclusion: Curcumin supplementation was associated with statistically and clinically relevant improvements in disease activity and systemic inflammatory markers in RA. These findings support curcumin as a promising adjunctive therapeutic strategy, though larger, exposure-verified trials with extended follow-up remain required to validate long-term treatment effects and inform clinical implementation.",
+      "corpusId": 283426076,
+      "url": "https://api.semanticscholar.org/CorpusId:283426076",
+      "pubmed_id": "41327719",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1097/md.0000000000046177",
+        "matched_title": "Effect of curcumin on inflammatory markers and disease activity in patients with rheumatoid arthritis: A meta-analysis.",
+        "matched_pubdate": "2025 Nov 28",
+        "matched_source": "Medicine (Baltimore)"
+      }
+    },
+    {
+      "title": "The Effect of Vitamin D Supplementation on Clinical and Laboratory Biomarkers in Patients with Rheumatoid Arthritis: A Systematic Review and Meta-Analysis of Randomised Controlled Trials",
+      "authors": [
+        {
+          "name": "Z. Khatirnamani",
+          "id": "2006396251"
+        },
+        {
+          "name": "K. Hajian-Tilaki",
+          "id": "1393664702"
+        },
+        {
+          "name": "B. Heidari",
+          "id": "4815014"
+        },
+        {
+          "name": "Ahmad Sohrabi",
+          "id": "2386696182"
+        }
+      ],
+      "year": 2025,
+      "venue": "Mediterranean Journal of Rheumatology",
+      "score": 0.628061959384171,
+      "abstract": "Aim: Rheumatoid arthritis (RA) is recognised as an inflammatory condition. Evidence indicates that vitamin D modulates inflammation by influencing diverse immune cells. The purpose of this systematic review and meta-analysis was to assess the effectiveness of vitamin D as a supplement for RA in comparison to a control group. Methods: We searched PubMed, Embase, Scopus, and Web of Science databases through March 2025 using targeted search terms. Our inclusion criteria encompassed clinical studies that enrolled RA patients and compared vitamin D supplementation against either placebo or standard care protocols. The results from the chosen studies were reported as Standardised mean differences (SMD) using random effect model with a 95% confidence interval. Results: Vitamin D supplementation resulted in a significant improvement in the VAS [SMD = −1.54, 95% CI (−2.53, −0.55), P = 0.002], serum vitamin D level [SMD = 1.52, 95% CI (0.86, 2.17), P = 0.001] and CRP [SMD = −0.88, 95% CI (−1.31, −0.44), P =0.001] but not in other outcomes. There was considerable heterogeneity among the studies for VAS (I2 = 97.4%, P = 0.001), DAS28 (I2 = 89.1%, P = 0.001), serum vitamin D Levels (I2 = 94.7%, P = 0.001), CRP (I2 = 84.1%, P = 0.001), and ESR (I2 = 84.1%, P = 0.001). Conclusion: The intervention groups receiving vitamin D supplementation showed statistically significant improvements in serum vitamin D levels, visual analog scale VAS scores, and CRP levels compared to control groups among RA patients.",
+      "corpusId": 282220978,
+      "url": "https://api.semanticscholar.org/CorpusId:282220978",
+      "pubmed_id": "41122185",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.31138/mjr.090725.lar",
+        "matched_title": "The Effect of Vitamin D Supplementation on Clinical and Laboratory Biomarkers in Patients with Rheumatoid Arthritis: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.",
+        "matched_pubdate": "2025 Sep",
+        "matched_source": "Mediterr J Rheumatol"
+      }
+    },
+    {
+      "title": "Cooperative Interaction of Hyaluronic Acid with Epigallocatechin-3-O-gallate and Xanthohumol in Targeting the NF-κB Signaling Pathway in a Cellular Model of Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "Francesco Longo",
+          "id": "2310950363"
+        },
+        {
+          "name": "Alessandro Massaro",
+          "id": "2232289576"
+        },
+        {
+          "name": "M. Mauro",
+          "id": "144981557"
+        },
+        {
+          "name": "M. Allegra",
+          "id": "153470074"
+        },
+        {
+          "name": "Vincenzo Arizza",
+          "id": "2337989702"
+        },
+        {
+          "name": "L. Tesoriere",
+          "id": "4382245"
+        },
+        {
+          "name": "Ignazio Restivo",
+          "id": "1708156410"
+        }
+      ],
+      "year": 2025,
+      "venue": "Antioxidants",
+      "score": 0.6279192026923545,
+      "abstract": "Current intra-articular therapies with hyaluronic acid (HA) provide symptomatic relief in joint diseases, but have limited efficacy in counteracting oxidative stress and inflammation, key drivers of cartilage degradation in rheumatoid arthritis (RA). To address this limitation, the potential of combining HA with the phytochemicals xanthohumol (XAN) and epigallocatechin-3-O-gallate (EGCG), known for their antioxidant and anti-inflammatory properties, was evaluated in a cellular model of RA (SW982 synoviocytes stimulated with interleukin-1β, IL-1β). The Chou–Talalay method demonstrated that their combination synergistically reduced reactive oxygen species (ROS) and nitric oxide (NO) levels. The “TRIPLE” combination (HA + XAN + EGCG) showed the lowest combination index and the highest dose reduction index. Compared to individual treatments, TRIPLE significantly decreased IL-1β-induced IL-6, IL-8, TNF-α, and MMP-3 levels, while increasing the levels of the anti-inflammatory cytokine IL-10. Western blot analysis revealed a marked reduction in iNOS, COX-2, and MMP-3 protein expression following TRIPLE treatment. Moreover, the combination inhibited IL-1β-induced phosphorylation of IκB and p65, thereby preventing NF-κB activation. These findings suggest that integrating XAN and EGCG into injectable HA formulations may represent a promising strategy to improve the management of joint inflammation in RA.",
+      "corpusId": 279368088,
+      "url": "https://api.semanticscholar.org/CorpusId:279368088",
+      "pubmed_id": "40563345",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/antiox14060713",
+        "matched_title": "Cooperative Interaction of Hyaluronic Acid with Epigallocatechin-3-O-gallate and Xanthohumol in Targeting the NF-κB Signaling Pathway in a Cellular Model of Rheumatoid Arthritis.",
+        "matched_pubdate": "2025 Jun 11",
+        "matched_source": "Antioxidants (Basel)"
+      }
+    },
+    {
+      "title": "Inhibition of Oxidative Stress-Induced Ferroptosis Can Alleviate Rheumatoid Arthritis in Human",
+      "authors": [
+        {
+          "name": "Yang Liu",
+          "id": "2152799502"
+        },
+        {
+          "name": "Jian Liang",
+          "id": "2276359924"
+        },
+        {
+          "name": "Zongge Sha",
+          "id": "2237866446"
+        },
+        {
+          "name": "Changfu Yang",
+          "id": "2237838722"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Immunological Research",
+      "score": 0.6274686954641813,
+      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmunity illness, mainly featured with synovitis of the joint. The specificity of ferroptosis is disparate in different diseases, and the mechanism of ferroptosis in RA has some uncertainty yet. Therefore, the mechanism of ferroptosis was deeply observed in RA patients and animal models. In this paper, plasma of RA patients, the tumor necrosis factor-alpha-induced human synovial fibroblasts, and an animal model of arthritis induced by collagen were applied to initially inquire about the therapeutic effect of ferroptosis. For the RA patients, ELISA detected protein expression of glutathione (GSH), GPX4, Nrf2, Keap-1, and ferritin. In cell experiments, erastin or fer-1 regulated the invasion of human synovial fibroblast cells, mitochondrial membrane potential, reactive oxygen species (ROS) expression, marker protein, and so on. For the animal experiments, 32 Sprague–Dawley male rats were randomly separated into four groups with a collagen-induced RA model for 14 days and administered with erastin or fer-1 for 35 days. The expressions of GSH, GPX4, Nrf2, and Keap-1 were lower, and the ferritin was higher in RA patients, and the expressions of these proteins varied significantly after disease remission. In addition, ferroptosis inactivation also reduced the proliferation and migration ability, mitochondrial membrane potential, and ROS in cells. We discovered unexpectedly that activation of ferroptosis meaningfully forbore the foot swelling in animals with CIA, reduced arthritis scores, destruction of bone, and articular synovitis, and also decreased the high expression of inflammatory factors in plasma. There is a nonlinear relationship between human disease manifestations and animal model pathology. Ferroptosis regulating in RA for humans or animals may produce different effects.",
+      "corpusId": 268048999,
+      "url": "https://api.semanticscholar.org/CorpusId:268048999",
+      "pubmed_id": "39624162",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2024/9943747",
+        "matched_title": "Inhibition of Oxidative Stress-Induced Ferroptosis Can Alleviate Rheumatoid Arthritis in Human.",
+        "matched_pubdate": "2024",
+        "matched_source": "J Immunol Res"
+      }
+    },
+    {
+      "title": "Dietary Supplementation with Yerba Mate (Ilex paraguariensis) Infusion Increases IRS-1 and PI3K mRNA Levels and Enhances Insulin Sensitivity and Secretion in Rat Pancreatic Islets",
+      "authors": [
+        {
+          "name": "B. Maiztegui",
+          "id": "5460127"
+        },
+        {
+          "name": "H. Villagarcía",
+          "id": "2060721742"
+        },
+        {
+          "name": "C. Román",
+          "id": "3057380"
+        },
+        {
+          "name": "L. E. Flores",
+          "id": "144730163"
+        },
+        {
+          "name": "J. Prieto",
+          "id": "144230371"
+        },
+        {
+          "name": "M. C. Castro",
+          "id": "2113301132"
+        },
+        {
+          "name": "M. L. Massa",
+          "id": "31996269"
+        },
+        {
+          "name": "G. Schinella",
+          "id": "6274675"
+        },
+        {
+          "name": "F. Francini",
+          "id": "39200334"
+        }
+      ],
+      "year": 2023,
+      "venue": "Plants",
+      "score": 0.6252705467657907,
+      "abstract": "“Yerba mate” (YM), an aqueous extract of Ilex paraguariensis, has antioxidant, diuretic, cardio-protective and hypoglycaemic properties. Since its effect on the pancreatic islets remains unclear, we evaluated insulin sensitivity and glucose-stimulated insulin secretion (GSIS) in rats consuming YM or tap water (C) for 21 days. Glucose tolerance, glycemia, triglyceridemia, insulinemia, TBARS and FRAP serum levels were evaluated. GSIS and mRNA levels of insulin signaling pathway and inflammatory markers were measured in isolated pancreatic islets from both groups. In C rats, islets were incubated with YM extract or its phenolic components to measure GSIS. YM improved glucose tolerance, enhanced GSIS, increased FRAP plasma levels and islet mRNA levels of IRS-1 and PI3K (p110), and decreased TBARS plasma levels and islet gene expression of TNF-α and PAI-1. Islets from C rats incubated with 100 µg/mL dry YM extract, 1 µM chlorogenic acid, 0.1 and 1 µM rutin, 1 µM caffeic acid or 1 µM quercetin showed an increase in GSIS. Our results suggest that YM enhances glucose tolerance because of its positive effects on GSIS, oxidative stress rate and insulin sensitivity in rat islets, suggesting that long-term dietary supplementation with YM may improve glucose homeostasis in pre-diabetes or type 2 diabetes.",
+      "corpusId": 259853312,
+      "url": "https://api.semanticscholar.org/CorpusId:259853312",
+      "pubmed_id": "37514235",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/plants12142620",
+        "matched_title": "Dietary Supplementation with Yerba Mate (Ilex paraguariensis) Infusion Increases IRS-1 and PI3K mRNA Levels and Enhances Insulin Sensitivity and Secretion in Rat Pancreatic Islets.",
+        "matched_pubdate": "2023 Jul 12",
+        "matched_source": "Plants (Basel)"
+      }
+    },
+    {
+      "title": "Effects of curcumin supplementation on inflammatory biomarkers in patients with Rheumatoid Arthritis and Ulcerative colitis: A systematic review and meta-analysis.",
+      "authors": [
+        {
+          "name": "Armin Ebrahimzadeh",
+          "id": "1509937685"
+        },
+        {
+          "name": "F. Abbasi",
+          "id": "153231965"
+        },
+        {
+          "name": "Anahita Ebrahimzadeh",
+          "id": "2126013833"
+        },
+        {
+          "name": "A. Jibril",
+          "id": "67213146"
+        },
+        {
+          "name": "A. Milajerdi",
+          "id": "14423819"
+        }
+      ],
+      "year": 2021,
+      "venue": "Complementary Therapies in Medicine",
+      "score": 0.6038108009477655,
+      "abstract": "BACKGROUND\nAlthough previous studies have examined the impact of curcumin supplementation on cytokine levels in patients with autoimmune disorders, we were unable to find a systematic review of the effect of curcumin supplementation on inflammatory biomarkers such as CRP and ESR in patients with rheumatoid arthritis or ulcerative colitis; therefore we conducted this systematic review and meta-analysis.\n\n\nMETHODS\nRelevant studies published from inception to December 2020 were systematically searched through the PubMed, SCOPUS, and google scholar databases. We conducted our systematic review and meta-analysis according to the 2020 PRISMA guidelines. The quality of the papers were assessed by using the Cochrane Collaboration's risk of bias tool. Included studies were randomized clinical trials on the effects of supplementation with curcumin or its derivative on inflammatory factors in patients with rheumatoid arthritis and ulcerative colitis. Pooled effect sizes were calculated using a random-effects model and reported as the weighted mean difference (WMD) and 95% CI.\n\n\nRESULTS\nIn all, six studies met the inclusion criteria for this study. Curcumin supplementation in doses of 250-1500 mg/day over 8-12 weeks was observed to be associated with decreases in CRP and ESR in adult patients with rheumatoid arthritis and ulcerative colitis in comparison with the control group (WMD: -0.42; 95% CI: -0.59, -0.26, I2 = 94.3%; WMD: -55.96; 95% CI: -93.74, -18.17, I2 = 99.7%, respectively). Significant findings were also observed based on subgroup analyses by the study sample size, duration, participants' age, curcumin dosage, and type of disease.\n\n\nCONCLUSIONS\nCurcumin supplementation was associated with significant reductions in levels of CRP and ESR in patients with rheumatoid arthritis and ulcerative colitis. Earlier studies reported curcumin as a safe complementary therapy for several diseases. However, a handful of studies were found on the effect of curcumin on autoimmune diseases despite our comprehensive search. Further studies are therefore warranted in this area.",
+      "corpusId": 237410007,
+      "url": "https://api.semanticscholar.org/CorpusId:237410007",
+      "pubmed_id": "34478838",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.ctim.2021.102773",
+        "matched_title": "Effects of curcumin supplementation on inflammatory biomarkers in patients with Rheumatoid Arthritis and Ulcerative colitis: A systematic review and meta-analysis.",
+        "matched_pubdate": "2021 Sep",
+        "matched_source": "Complement Ther Med"
+      }
+    },
+    {
+      "title": "The anti-inflammatory effect of Ilex paraguariensis A. St. Hil (Mate) in a murine model of pleurisy.",
+      "authors": [
+        {
+          "name": "A. B. G. Luz",
+          "id": "34829873"
+        },
+        {
+          "name": "C. H. B. da Silva",
+          "id": "39038891"
+        },
+        {
+          "name": "M. V. Nascimento",
+          "id": "4135739"
+        },
+        {
+          "name": "Bruno Matheus de Campos Facchin",
+          "id": "4198827"
+        },
+        {
+          "name": "Bruna Baratto",
+          "id": "6830556"
+        },
+        {
+          "name": "T. Fröde",
+          "id": "143915180"
+        },
+        {
+          "name": "F. Reginatto",
+          "id": "3521880"
+        },
+        {
+          "name": "E. Dalmarco",
+          "id": "3951738"
+        }
+      ],
+      "year": 2016,
+      "venue": "International Immunopharmacology",
+      "score": 0.6013967787281382,
+      "abstract": "",
+      "corpusId": 37219181,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/27155392",
+      "pubmed_id": "27155392",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.intimp.2016.04.027",
+        "matched_title": "The anti-inflammatory effect of Ilex paraguariensis A. St. Hil (Mate) in a murine model of pleurisy.",
+        "matched_pubdate": "2016 Jul",
+        "matched_source": "Int Immunopharmacol"
+      }
+    },
+    {
+      "title": "The effect of propolis supplementation on inflammatory factors and oxidative status in women with rheumatoid arthritis: Design and research protocol of a double-blind, randomized controlled",
+      "authors": [
+        {
+          "name": "Elyas Nattagh-Eshtivani",
+          "id": "1403436954"
+        },
+        {
+          "name": "M. Jokar",
+          "id": "33490931"
+        },
+        {
+          "name": "H. Tabesh",
+          "id": "3842807"
+        },
+        {
+          "name": "M. Nematy",
+          "id": "5143686"
+        },
+        {
+          "name": "M. Safarian",
+          "id": "52640539"
+        },
+        {
+          "name": "N. Pahlavani",
+          "id": "52457004"
+        },
+        {
+          "name": "Mona Maddahi",
+          "id": "2119100409"
+        },
+        {
+          "name": "M. Khosravi",
+          "id": "47962993"
+        }
+      ],
+      "year": 2021,
+      "venue": "Contemporary Clinical Trials Communications",
+      "score": 0.5970515045734204,
+      "abstract": "Backgrounds and aims Rheumatoid arthritis (RA), is immune-inflammatory disease which is associated with great pain and disability. Overproduction of pro-inflammatory cytokines and oxidative stress play an important role in RA pathogenesis and related outcomes. The aim of this study was to evaluate the effects of propolis on inflammatory biomarkers and oxidative stress status in RA patients. Methods/design Randomized, placebo-controlled, and double-blind clinical trial aiming to recruit 48 patients with RA. Block randomization will be used. An intervention group will receive 500 mg/twice a day propolis capsules for 3 months and control group will receive the placebo for the same dose and duration. The oxidative stress status (malondialdehyde (MDA), total antioxidant capacity (TAC), total oxidant status (TOS), superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPx)), and inflammatory biomarkers (interleukin-17 (IL-17), Tumor necrosis factor alpha (TNF-α), High-sensitivity C-reactive protein (hs-CRP)), lipid profile (total cholesterol (TC), high density lipoprotein (HDL-c), low density lipoprotein (LDL-c), and triglyceride (TG)) and also physical activity, anthropometric indices, clinical and nutritional status will be measured at beginning and end of this study. The primary analysis will be based on theintention-to-treat principle. Discussion If this randomized clinical trial shows the reduction in inflammatory cytokines and oxidative stress and improves clinical outcome, it would provide evidence for other clinical trials to evaluate the efficacy of propolis supplementation in RA patients.",
+      "corpusId": 235811140,
+      "url": "https://api.semanticscholar.org/CorpusId:235811140",
+      "pubmed_id": "34258468",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.conctc.2021.100807",
+        "matched_title": "The effect of propolis supplementation on inflammatory factors and oxidative status in women with rheumatoid arthritis: Design and research protocol of a double-blind, randomized controlled.",
+        "matched_pubdate": "2021 Sep",
+        "matched_source": "Contemp Clin Trials Commun"
+      }
+    },
+    {
+      "title": "Effects of curcumin and Curcuma longa extract on inflammatory biomarkers in patients with rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE): a systematic review and meta-analysis of randomized controlled trials",
+      "authors": [
+        {
+          "name": "Ang-Jun Liu",
+          "id": "2243491934"
+        },
+        {
+          "name": "Po-Chang Wu",
+          "id": "2243869089"
+        },
+        {
+          "name": "Yu-Pei Chen",
+          "id": "2242754362"
+        },
+        {
+          "name": "Hsueh-Ting Chu",
+          "id": "2290251270"
+        },
+        {
+          "name": "Hen-Hong Chang",
+          "id": "2200699845"
+        }
+      ],
+      "year": 2025,
+      "venue": "Inflammation Research",
+      "score": 0.5857055103298677,
+      "abstract": "Curcumin and Curcuma longa extract have been proposed as adjunct therapies for autoimmune diseases such as rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE) due to their anti-inflammatory and immunomodulatory properties. The purpose of this study was to determine the effects of curcumin and Curcuma longa extract on inflammatory biomarkers in patients with RA and SLE. PubMed, EMBASE, and Cochrane CENTRAL databases were searched to May 14, 2025. Randomized controlled trials (RCTs) comparing curcumin or Curcuma longa extract with placebo or standard therapy in patients with RA or SLE were included. The primary outcomes were changes in disease activity score (DAS-28), erythrocyte sedimentation rate (ESR), and C-reactive protein (CRP) level analyzed using standardized mean differences (SMDs) with a random-effects model. Heterogeneity was assessed using the I2 statistic, and sensitivity analyses were conducted using a leave-one-out approach. Seven RCTs involving 314 patients were included. The meta-analysis revealed no significant effect of curcumin or Curcuma longa extract on DAS-28 (pooled SMD = − 2.34, 95% confidence level [CI]: − 5.13 to 0.44; I2 = 96.0%), ESR (pooled SMD = − 1.49, 95% CI − 3.71 to 0.72; I2 = 91.7%), or CRP (pooled SMD = − 1.65, 95% CI − 3.88 to 0.58; I2 = 91.6%). Substantial heterogeneity was observed across all outcomes. This meta-analysis suggests that curcumin and Curcuma longa extract have limited and inconsistent effects on inflammatory biomarkers in patients with RA and SLE. Larger, well-designed RCTs are needed to clarify their clinical utility as adjunct therapies.",
+      "corpusId": 283727197,
+      "url": "https://api.semanticscholar.org/CorpusId:283727197",
+      "pubmed_id": "41372521",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s00011-025-02135-z",
+        "matched_title": "Effects of curcumin and Curcuma longa extract on inflammatory biomarkers in patients with rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE): a systematic review and meta-analysis of randomized controlled trials.",
+        "matched_pubdate": "2025 Dec 10",
+        "matched_source": "Inflamm Res"
+      }
+    },
+    {
+      "title": "Health Benefits of Bioactive Compounds from the Genus Ilex, a Source of Traditional Caffeinated Beverages",
+      "authors": [
+        {
+          "name": "R. Gan",
+          "id": "40534849"
+        },
+        {
+          "name": "Dan-Wei Zhang",
+          "id": "2122440682"
+        },
+        {
+          "name": "Min Wang",
+          "id": "2145298024"
+        },
+        {
+          "name": "H. Corke",
+          "id": "5332058"
+        }
+      ],
+      "year": 2018,
+      "venue": "Nutrients",
+      "score": 0.55552265489392,
+      "abstract": "Tea and coffee are caffeinated beverages commonly consumed around the world in daily life. Tea from Camellia sinensis is widely available and is a good source of caffeine and other bioactive compounds (e.g., polyphenols and carotenoids). Other tea-like beverages, such as those from the genus Ilex, the large-leaved Kudingcha (Ilex latifolia Thunb and Ilex kudingcha C.J. Tseng), Yerba Mate (Ilex paraguariensis A. St.-Hil), Yaupon Holly (Ilex vomitoria), and Guayusa (Ilex guayusa Loes) are also traditional drinks, with lesser overall usage, but have attracted much recent attention and have been subjected to further study. This review summarizes the distribution, composition, and health benefits of caffeinated beverages from the genus Ilex. Plants of this genus mainly contain polyphenols and alkaloids, and show diverse health benefits, which, as well as supporting their further popularization as beverages, may also lead to potential applications in the pharmaceutical or nutraceutical industries.",
+      "corpusId": 53231095,
+      "url": "https://api.semanticscholar.org/CorpusId:53231095",
+      "pubmed_id": "30400635",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/nu10111682",
+        "matched_title": "Health Benefits of Bioactive Compounds from the Genus Ilex, a Source of Traditional Caffeinated Beverages.",
+        "matched_pubdate": "2018 Nov 5",
+        "matched_source": "Nutrients"
+      }
+    },
+    {
+      "title": "In vitro anti-inflammatory potential and in vivo anti-arthritis activities of Ximenia caffra extract on antigen-induced arthritis in rats",
+      "authors": [
+        {
+          "name": "Mohammed Yosri",
+          "id": "1409435505"
+        },
+        {
+          "name": "Alsayed E. Mekky",
+          "id": "2121096914"
+        },
+        {
+          "name": "M. Elaasser",
+          "id": "2070052141"
+        },
+        {
+          "name": "Marwa M. Abdel-Aziz",
+          "id": "2259085993"
+        },
+        {
+          "name": "F. Youssef",
+          "id": "2275040066"
+        },
+        {
+          "name": "Hend A. Kamel",
+          "id": "48694754"
+        },
+        {
+          "name": "Mahmoud M Al-Habibi",
+          "id": "2311022533"
+        },
+        {
+          "name": "E. E. Helal",
+          "id": "2396055860"
+        },
+        {
+          "name": "B. Amin",
+          "id": "92528011"
+        }
+      ],
+      "year": 2026,
+      "venue": "Scientific Reports",
+      "score": 0.5432110260761905,
+      "abstract": "The current study estimated the in vitro anti-inflammatory activity and in vivo anti-arthritic activities of the aqueous ethanolic extract of Ximenia caffra (X. caffra) seeds extract. It was hypothesized that X. caffra seeds extract, rich in phytochemicals that could modulate inflammatory pathways and protect joint tissues in an antigen-induced arthritis rat model. The chemical composition of X. caffra seeds extract was examined using liquid chromatography high-resolution mass spectrometry (LC-HRMS). Ximenia caffra seeds extract showed promising in vitro anti-inflammatory activity with an IC50 = 26.01 ± 0.85 µg/ml. To evaluate in vivo efficacy, antigen-induced arthritis was established in rats using Complete Freund’s Adjuvant (CFA), followed by subcutaneous administration of X. caffra extract at doses of 26, 50, and 100 mg/kg body weight, alongside a standard drug control [Methotrexate (MTX), 0.3 mg/kg] in separate groups of animals. Anti-arthritic effects were assessed by measuring joint diameter, arthritic score, body weight, and through histopathological and ultrastructural analyses of joint and muscle tissues as well as osteoclast assessment, cytokine analyses, renal and kidney functions. The optimal dose (26 mg/kg) significantly alleviated arthritis symptoms, restoring joint and muscle morphology toward normal architecture. Ex vivo osteoclast evaluation and flow cytometric apoptosis analysis indicated that X. caffra extract promoted cellular recovery and reduced inflammatory damage. Furthermore, cytokine profiling demonstrated that treatment with X. caffra shifted pro-inflammatory mediators (IL-1β, IL-6, IL-17, IFN-γ) toward an anti-inflammatory balance by elevating IL-4 and regulating IgG1a/IgG2a ratios. Collectively, these results support the hypothesis that X. caffra seeds extract had potent anti-inflammatory and anti-arthritic effects by modulating immune responses and preserving joint integrity, suggesting its potential as a natural therapeutic alternative for rheumatoid arthritis management after further validation.",
+      "corpusId": 284529562,
+      "url": "https://api.semanticscholar.org/CorpusId:284529562",
+      "pubmed_id": "41495193",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1038/s41598-025-32300-7",
+        "matched_title": "In vitro anti-inflammatory potential and in vivo anti-arthritis activities of Ximenia caffra extract on antigen-induced arthritis in rats.",
+        "matched_pubdate": "2026 Jan 6",
+        "matched_source": "Sci Rep"
+      }
+    },
+    {
+      "title": "Combining bioinformatics, network pharmacology, and artificial intelligence to predict the mechanism of resveratrol in the treatment of rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "Piaoqi Zeng",
+          "id": "2376913074"
+        },
+        {
+          "name": "Haohan Huang",
+          "id": "2212751177"
+        },
+        {
+          "name": "Dongsheng Li",
+          "id": "2304290420"
+        }
+      ],
+      "year": 2024,
+      "venue": "Heliyon",
+      "score": 0.5304806589021459,
+      "abstract": "Background Rheumatoid arthritis (RA) is a chronic autoimmune disorder that causes joint inflammation and destruction, resulting in significant physical and economic burdens. Finding effective and targeted therapy for RA remains a top priority. Resveratrol is a potential candidate with anti-inflammatory and immunomodulatory properties for RA treatment. This study aims to determine the therapeutic targets and signaling pathways of resveratrol in the treatment of RA. Methods The GSE205962 dataset downloaded from The Gene Expression Omnibus (GEO) database was used to obtain the differentially expressed genes (DEGs) in blood samples from the patients and the healthy. PharmMapper database and Cytoscape (v3.9.1) were applied to construct the resveratrol pharmacophore target network. Gene functional enrichment analysis, including the Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis, was based on the BiNGo plug-in of Cytoscape and David's online tool. The intersection of the target genes of resveratrol and the DEGs were considered potential therapeutic genes (PT-genes). The Protein-Protein Interaction (PPI) network of PT-genes was constructed using the STRING tool, and the key therapeutic genes (KT-genes) were determined using the cytoHubba plug-in based on the Maximal Clique Centrality (MCC) algorithms. Molecular docking validation of resveratrol and therapeutic targets was performed based on the protein structure of KT-genes predicted by AlphaFold. Results A total of 2202 DEGs and 47PT-genes were identified. GO analysis showed that the three groups of genes, the DEGs, the resveratrol target genes, and the PT-genes, have similar results for the top-five gene functional enrichment. PT-genes were closely related to the pathways of metabolic pathways, pathways in cancer, proteoglycans in cancer, insulin signaling pathway, and chemokine signaling pathway. The common pathway enriched by KEGG for the DEGs, and the resveratrol target genes was up to 36 %. The nine KT-genes were ABL1, ANXA5, CASP3, HSP90AA1, LCK, MAP2K1, MAPK1, PIK3R1, and RAC1, and the lowest free energy indicating the resveratrol/protein affinity were −8.4, −7.4, −6.4, −6.7, −8.0, −7.9, −7.4, −6.7, and −7.9, respectively. Conclusion Nine KT-genes were identified and validated as the most potential therapeutic targets in the treatment of RA with resveratrol, which provide new insights into therapeutic mechanisms and may improve the efficiency of drug development.",
+      "corpusId": 272449384,
+      "url": "https://api.semanticscholar.org/CorpusId:272449384",
+      "pubmed_id": "39309832",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.heliyon.2024.e37371",
+        "matched_title": "Combining bioinformatics, network pharmacology, and artificial intelligence to predict the mechanism of resveratrol in the treatment of rheumatoid arthritis.",
+        "matched_pubdate": "2024 Sep 30",
+        "matched_source": "Heliyon"
+      }
+    },
+    {
+      "title": "Jatrorrhizine Hydrochloride Suppresses Proliferation, Migration, and Secretion of Synoviocytes In Vitro and Ameliorates Rat Models of Rheumatoid Arthritis In Vivo",
+      "authors": [
+        {
+          "name": "H. Qiu",
+          "id": "37203544"
+        },
+        {
+          "name": "Shengnan Sun",
+          "id": "2130305017"
+        },
+        {
+          "name": "Xue-mei Ma",
+          "id": "48577789"
+        },
+        {
+          "name": "Congcong Cui",
+          "id": "2052275607"
+        },
+        {
+          "name": "Gang Chen",
+          "id": "2146662981"
+        },
+        {
+          "name": "Zhenzhou Liu",
+          "id": "12907876"
+        },
+        {
+          "name": "Hui Li",
+          "id": "2155495656"
+        },
+        {
+          "name": "Mei Liu",
+          "id": "2152970445"
+        }
+      ],
+      "year": 2018,
+      "venue": "International Journal of Molecular Sciences",
+      "score": 0.5263777531382929,
+      "abstract": "Jatrorrhizine hydrochloride (JH), an active component isolated from the traditional Chinese herb Coptis chinensis, has been reported to have antimicrobial, antitumor, antihypercholesterolemic, and neuroprotective activities. However, its antirheumatoid arthritis (RA) property remains unknown. In this study, a collagen-induced arthritis (CIA) rat model was used to evaluate the therapeutic effects of JH on RA by using arthritis score, radiological evaluation, and histopathological assessment. The in vitro effects of JH on proliferation, migration, and production of inflammatory mediators in RA-derived fibroblast-like synoviocyte MH7A cells were determined by the EdU incorporation assay, wound healing assay, real-time PCR, and ELISA, respectively. The in vivo studies showed that JH treatment significantly prevented the progression and development of RA in CIA rats through anti-inflammation and suppressing bone destruction. The in vitro studies revealed that JH could effectively attenuate the destructive phenotypes of MH7A cells, including inhibiting proliferation, migration, and production of inflammatory mediators. Further mechanistic analysis demonstrated that JH suppressed tumor necrosis factor alpha (TNFα)-stimulated activations of nuclear factor of kappaB (NF-κB) and mitogen-activated protein kinases (MAPKs) (ERK and p38) leading to the downregulation of proinflammatory cytokines, which might be beneficial to the antiproliferative and antimigratory activities of FLS cells. Collectively, our results demonstrated that JH has a great potential to be developed into a novel therapeutic agent for treating RA.",
+      "corpusId": 29154894,
+      "url": "https://api.semanticscholar.org/CorpusId:29154894",
+      "pubmed_id": "29783696",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ijms19051514",
+        "matched_title": "Jatrorrhizine Hydrochloride Suppresses Proliferation, Migration, and Secretion of Synoviocytes In Vitro and Ameliorates Rat Models of Rheumatoid Arthritis In Vivo.",
+        "matched_pubdate": "2018 May 18",
+        "matched_source": "Int J Mol Sci"
+      }
+    },
+    {
+      "title": "The Impact of Pre-Exercise Carbohydrate Meal on the Effects of Yerba Mate Drink on Metabolism, Performance, and Antioxidant Status in Trained Male Cyclists",
+      "authors": [
+        {
+          "name": "T. C. Krolikowski",
+          "id": "2075505742"
+        },
+        {
+          "name": "F. Borszcz",
+          "id": "32504446"
+        },
+        {
+          "name": "V. P. Panza",
+          "id": "11035860"
+        },
+        {
+          "name": "L. M. Bevilacqua",
+          "id": "2337585435"
+        },
+        {
+          "name": "Sarah Nichele",
+          "id": "2164175893"
+        },
+        {
+          "name": "E. L. da Silva",
+          "id": "32378950"
+        },
+        {
+          "name": "R. D. Amboni",
+          "id": "152507984"
+        },
+        {
+          "name": "L. Guglielmo",
+          "id": "5208469"
+        },
+        {
+          "name": "Stuart M Phillips",
+          "id": "1834640"
+        },
+        {
+          "name": "R. D. de Lucas",
+          "id": "49304896"
+        },
+        {
+          "name": "B. Boaventura",
+          "id": "9833045"
+        }
+      ],
+      "year": 2022,
+      "venue": "Sports Medicine - Open",
+      "score": 0.5244806750225304,
+      "abstract": "Introduction The consumption of yerba mate (YM), a source of antioxidants, in a fasted state increases fatty acid oxidation (FAT ox ) during low–moderate-intensity exercise and improves performance in high-intensity exercise. However, the impact of a pre-exercise carbohydrate (CHO) meal on YM effects during exercise is unknown. Objective We investigated the effects of yerba mate drink (YMD) consumed in the fasted state (YMD-F) or after a CHO meal (YMD-CHO) on measurements of metabolism, performance, and blood oxidative stress markers in cycling exercise. Methods In a randomized, repeated-measures, crossover design, eight trained male cyclists ingested (i) YMD-CHO, (ii) YMD-F, or (iii) control-water and CHO meal (Control-CHO). The YMD (an infusion of 5 g of ultrarefined leaves in 250 mL of water) was taken for 7 days and 40 min before exercise. CHO meal (1 g/kg body mass) was consumed 60 min before exercise. The cycling protocol included a 40-min low-intensity (~ 53% V̇ O 2peak ) constant load test (CLT); a 20-min time trial (TT); and 4 × 10-s all-out sprints. Blood samples and respiratory gases were collected before, during, and/or after tests. Results During CLT, YMD-CHO increased FAT ox  ~ 13% vs . YMD-F ( P  = 0.041) and ~ 27% vs . Control-CHO ( P  < 0.001). During TT, YMD-CHO increased FAT ox  ~ 160% vs . YMD-F ( P  < 0.001) and ~ 150% vs . Control-CHO ( P  < 0.001). Power output during TT improved ~ 3% ( P  = 0.022) in YMD-CHO vs . Control-CHO and was strongly correlated with changes in serum total antioxidant capacity ( r  = −0.87) and oxidative stress index ( r  = 0.76) at post-exercise in YMD-CHO. Performance in sprints was not affected by YMD. Conclusion CHO intake did not negate the effect of YMD on FAT ox or TT performance. Instead, a synergism between the two dietary strategies may be present. Clinical Trial Registration NCT04642144. November 18, 2020. Retrospectively registered.",
+      "corpusId": 250563049,
+      "url": "https://api.semanticscholar.org/CorpusId:250563049",
+      "pubmed_id": "35841429",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s40798-022-00482-3",
+        "matched_title": "The Impact of Pre-Exercise Carbohydrate Meal on the Effects of Yerba Mate Drink on Metabolism, Performance, and Antioxidant Status in Trained Male Cyclists.",
+        "matched_pubdate": "2022 Jul 16",
+        "matched_source": "Sports Med Open"
+      }
+    },
+    {
+      "title": "Dietary Phytochemicals: Natural Swords Combating Inflammation and Oxidation-Mediated Degenerative Diseases",
+      "authors": [
+        {
+          "name": "Md. Asiful Islam",
+          "id": "7484202"
+        },
+        {
+          "name": "F. Alam",
+          "id": "40067858"
+        },
+        {
+          "name": "Md. Solayman",
+          "id": "6286656"
+        },
+        {
+          "name": "Md. Ibrahim Khalil",
+          "id": "1831937"
+        },
+        {
+          "name": "M. Kamal",
+          "id": "144116099"
+        },
+        {
+          "name": "S. Gan",
+          "id": "2281477871"
+        }
+      ],
+      "year": 2016,
+      "venue": "Oxidative Medicine and Cellular Longevity",
+      "score": 0.5187194906753163,
+      "abstract": "Cumulatively, degenerative disease is one of the most fatal groups of diseases, and it contributes to the mortality and poor quality of life in the world while increasing the economic burden of the sufferers. Oxidative stress and inflammation are the major pathogenic causes of degenerative diseases such as rheumatoid arthritis (RA), diabetes mellitus (DM), and cardiovascular disease (CVD). Although a number of synthetic medications are used to treat these diseases, none of the current regimens are completely safe. Phytochemicals (polyphenols, carotenoids, anthocyanins, alkaloids, glycosides, saponins, and terpenes) from natural products such as dietary fruits, vegetables, and spices are potential sources of alternative medications to attenuate the oxidative stress and inflammation associated with degenerative diseases. Based on in vitro, in vivo, and clinical trials, some of these active compounds have shown good promise for development into novel agents for treating RA, DM, and CVD by targeting oxidative stress and inflammation. In this review, phytochemicals from natural products with the potential of ameliorating degenerative disease involving the bone, metabolism, and the heart are described.",
+      "corpusId": 17426711,
+      "url": "https://api.semanticscholar.org/CorpusId:17426711",
+      "pubmed_id": "27721914",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2016/5137431",
+        "matched_title": "Dietary Phytochemicals: Natural Swords Combating Inflammation and Oxidation-Mediated Degenerative Diseases.",
+        "matched_pubdate": "2016",
+        "matched_source": "Oxid Med Cell Longev"
+      }
+    },
+    {
+      "title": "Where traditional Chinese medicine meets Western medicine in the prevention of rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "Per-Johan Jakobsson",
+          "id": "2107080350"
+        },
+        {
+          "name": "L. Robertson",
+          "id": "2105965025"
+        },
+        {
+          "name": "Janika Welzel",
+          "id": "2075216112"
+        },
+        {
+          "name": "Mingshu Zhang",
+          "id": "2322999893"
+        },
+        {
+          "name": "Zhihua Yang",
+          "id": "2325200743"
+        },
+        {
+          "name": "Kaixin Gao",
+          "id": "2324977555"
+        },
+        {
+          "name": "Runyue Huang",
+          "id": "2248871595"
+        },
+        {
+          "name": "Zehuai Wen",
+          "id": "2279531014"
+        },
+        {
+          "name": "M. Korotkova",
+          "id": "5132416"
+        },
+        {
+          "name": "U. Göransson",
+          "id": "4604016"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Internal Medicine",
+      "score": 0.5161629187669583,
+      "abstract": "Chinese medicine has a long tradition of use against rheumatoid arthritis (RA). The formulations are based on combinations of typically 5–10 plants, which are usually boiled and administered as a decoction or tea. There are few clinical trials performed so the clinical evidence is sparse. One fundamental of traditional medicine is to prevent disease. RA is an autoimmune, inflammatory and chronic disease that primarily affects the joints of 0.5%–1% of the population. In two out of three of the cases, the patients are characterised by the presence of autoantibodies such as the rheumatoid factor and the more disease‐specific autoantibody against citrullinated proteins, so‐called ‘ACPA’ (anticitrullinated protein/peptide antibodies). ACPA positivity is also strongly associated with specific variations in the HLA‐DRB1 gene, the shared epitope alleles. Together with smoking, these factors account for the major risks of developing RA. In this review, we will summarise the background using certain plant‐based formulations based on Chinese traditional medicine for the treatment and prevention of RA and the strategy we have taken to explore the mechanisms of action. We also summarise the major pathophysiological pathways related to RA and how these could be analysed. Finally, we summarise our ideas on how a clinical trial using Chinese herbal medicine to prevent RA could be conducted.",
+      "corpusId": 250696669,
+      "url": "https://api.semanticscholar.org/CorpusId:250696669",
+      "pubmed_id": "35854675",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1111/joim.13537",
+        "matched_title": "Where traditional Chinese medicine meets Western medicine in the prevention of rheumatoid arthritis.",
+        "matched_pubdate": "2022 Nov",
+        "matched_source": "J Intern Med"
+      }
+    },
+    {
+      "title": "Ilex paraguariensis extract prevents body weight gain in rats fed a high-fat diet",
+      "authors": [
+        {
+          "name": "Júlia Neitzel Uecker",
+          "id": "91617395"
+        },
+        {
+          "name": "Janaína Pereira Schneider",
+          "id": "151063639"
+        },
+        {
+          "name": "J. H. Cerqueira",
+          "id": "91219162"
+        },
+        {
+          "name": "J. Rincón",
+          "id": "30874658"
+        },
+        {
+          "name": "F. Campos",
+          "id": "150996733"
+        },
+        {
+          "name": "A. Schneider",
+          "id": "27942678"
+        },
+        {
+          "name": "C. Barros",
+          "id": "144636545"
+        },
+        {
+          "name": "R. Andreazza",
+          "id": "4236956"
+        },
+        {
+          "name": "Itiane Barcellos Jaskulski",
+          "id": "151035152"
+        },
+        {
+          "name": "S. Pieniz",
+          "id": "4561934"
+        }
+      ],
+      "year": 2019,
+      "venue": "Food Science and Technology",
+      "score": 0.5140128328836334,
+      "abstract": "Ilex paraguariensis A. St. Hil. belongs to the Aquifoliaceae family and is a native species from the subtropical and temperate regions of South America. This herb is used regularly in beverages prepared by infusion such as teas, and is a natural product, recognized for having anti-inflammatory and diuretic properties (Przygodda et al., 2010). Likewise, the extract from Ilex paraguariensis contain different bioactive constituents, and several in vitro studies have shown the important role of polyphenols on the antioxidant activity, suggesting the potential use for the development of natural products aiming to protect biological systems against oxidative stress-mediated damages. Furthermore, others have shown anti-diabetic and antiobesity effects of the extract (Kang et al., 2012).",
+      "corpusId": 198359494,
+      "url": "https://api.semanticscholar.org/CorpusId:198359494",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "A Randomized Crossover Intervention Study on the Effect a Standardized Maté Extract (Ilex paraguariensis A. St.-Hil.) in Men Predisposed to Cardiovascular Risk",
+      "authors": [
+        {
+          "name": "Karimi S Gebara",
+          "id": "24739296"
+        },
+        {
+          "name": "A. Gasparotto Júnior",
+          "id": "6894236"
+        },
+        {
+          "name": "R. Palozi",
+          "id": "8507795"
+        },
+        {
+          "name": "C. Morand",
+          "id": "6078039"
+        },
+        {
+          "name": "C. I. Bonetti",
+          "id": "2042789801"
+        },
+        {
+          "name": "P. T. Gozzi",
+          "id": "2042791337"
+        },
+        {
+          "name": "Martha R F de Mello",
+          "id": "2042732758"
+        },
+        {
+          "name": "T. A. Costa",
+          "id": "2054382985"
+        },
+        {
+          "name": "E. L. Cardozo Junior",
+          "id": "7016045"
+        }
+      ],
+      "year": 2020,
+      "venue": "Nutrients",
+      "score": 0.5103483337787009,
+      "abstract": "(1) Background: Due to its richness in chlorogenic acids (CGAs), Maté (Ilex paraguariensis A. St.-Hil.) could be of interest in the prevention of cardiometabolic diseases, however clinical evidence are lacking. This trial aimed to evaluate the impact of maté CGAs, consumed in a daily dose achievable through traditional maté beverages, on parameters related to cardiometabolic risk. (2) Design: Thirty-four male volunteers aged 45–65 years and with at most one criteria of metabolic syndrome, were recruited for a randomized, double-blind, placebo-controlled, and crossover study. The volunteers were assigned to consume an encapsulated dry maté extract for four-weeks, providing 580 mg of caffeoyl quinic acid derivatives (CQAs) daily, or a placebo, with a two weeks washout between intervention periods. Anthropometric variables, blood pressure, plasma glucose, lipids, endothelial, and inflammatory biomarkers were measured in overnight-fasted subjects and after a glucose load. (3) Results: We found no significant effects of treatment on these parameters and the response to the glucose load was also similar between the two interventions. However, a significant decrease in fasting glucose was observed between day 0 and day 28 for the maté group only (−0.57 ± 0.11 mmol/L, p < 0.0002). In subjects with an intermediate to high Framingham risk score, consumption of maté extract induced a 10% increase of high-density lipoprotein (HDL)-c from baseline. In a subgroup representative of the study population, significant decreases in the C-reactive protein (CRP) (−50%) and interleukin-6 (IL-6) (−19%) levels were observed. (4) Conclusions: These clinical observations suggest that maté, naturally rich in CGAs, could improve some cardiometabolic markers in subjects with a higher predisposition to metabolic syndrome, even if that remains to be confirmed in new trials specifically targeting this population.",
+      "corpusId": 229721126,
+      "url": "https://pdfs.semanticscholar.org/61b0/e626f18b72e5b4f59cae0f8408bbe7347111.pdf",
+      "pubmed_id": "33374524",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/nu13010014",
+        "matched_title": "A Randomized Crossover Intervention Study on the Effect a Standardized Maté Extract (Ilex paraguariensis A. St.-Hil.) in Men Predisposed to Cardiovascular Risk.",
+        "matched_pubdate": "2020 Dec 23",
+        "matched_source": "Nutrients"
+      }
+    },
+    {
+      "title": "Effect of mate tea (Ilex paraguariensis) on the expression of the leukocyte NADPH oxidase subunit p47phox and on circulating inflammatory cytokines in healthy men: a pilot study",
+      "authors": [
+        {
+          "name": "V. P. Panza",
+          "id": "11035860"
+        },
+        {
+          "name": "H. Brunetta",
+          "id": "15647097"
+        },
+        {
+          "name": "M. V. de Oliveira",
+          "id": "13018905"
+        },
+        {
+          "name": "E. Nunes",
+          "id": "5319894"
+        },
+        {
+          "name": "E. L. da Silva",
+          "id": "32378950"
+        }
+      ],
+      "year": 2018,
+      "venue": "International Journal of Food Science and Nutrition",
+      "score": 0.5072430313998744,
+      "abstract": "Abstract Increased superoxide production by phagocytic NADPH oxidase has been associated with inflammatory conditions. Growing evidences suggest that dietary polyphenols may modulate the expression of NADPH oxidase subunits. Herein, we examined whether soluble mate tea (SMT) consumption – a polyphenol-rich beverage – affects the expression of the leukocyte NADPH oxidase protein p47phox and/or circulating biomarkers of inflammation and antioxidant biomarkers in humans. In a two-phase study, nine men were requested to drink water (control) for 8 d and then follow a second 8-d period drinking SMT. Blood samples were analysed for p47phox protein in CD16+/CD14− cells, interleukin (IL)-1β (IL-1β), tumour necrosis factor-alpha (TNF-α), IL-6, total phenols, and reduced and oxidised glutathione (GSH and GSSG, respectively) after each study phase. After SMT intake, CD16+/CD14− cells' p47phox protein and serum TNF-α and IL-6 levels were significantly attenuated (P < .05) while plasma phenolic compounds and blood GSH:GSSG ratio were significantly enhanced (P < .05). Consumption of SMT favourably affected leukocytes' p47phox expression and inflammatory cytokine and antioxidants levels in peripheral blood, which may help decrease oxidative stress and low-grade inflammation.",
+      "corpusId": 49642890,
+      "url": "https://doi.org/10.1080/09637486.2018.1486393",
+      "pubmed_id": "29962254",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1080/09637486.2018.1486393",
+        "matched_title": "Effect of mate tea (Ilex paraguariensis) on the expression of the leukocyte NADPH oxidase subunit p47(phox) and on circulating inflammatory cytokines in healthy men: a pilot study.",
+        "matched_pubdate": "2019 Mar",
+        "matched_source": "Int J Food Sci Nutr"
+      }
+    },
+    {
+      "title": "Technological Prospection and Scientific Innovation of Ilex paraguariensis Saint-Hilaire in the Wound Healing Process",
+      "authors": [
+        {
+          "name": "Pedro Augusto Clemente",
+          "id": "2140638918"
+        },
+        {
+          "name": "Kelby Cavalheiro de Mendonça",
+          "id": "2145992823"
+        },
+        {
+          "name": "Giovana Frazon de Andrade",
+          "id": "113157903"
+        },
+        {
+          "name": "Larisse Medeiros Gonçalves",
+          "id": "2149680335"
+        },
+        {
+          "name": "Cristiane Maria Tonetto Godoy",
+          "id": "2301730582"
+        },
+        {
+          "name": "J. M. P. Rocha",
+          "id": "2301681204"
+        },
+        {
+          "name": "W. C. D. Silva",
+          "id": "143634994"
+        },
+        {
+          "name": "Jéssica Brandão Reolon",
+          "id": "2089984162"
+        },
+        {
+          "name": "D. F. Ferreira",
+          "id": "2301770607"
+        },
+        {
+          "name": "Maria Cristina Umpiérrez Vieira",
+          "id": "2272797082"
+        },
+        {
+          "name": "Juliana Maria Silva",
+          "id": "2146387834"
+        },
+        {
+          "name": "L. Ferreira",
+          "id": "2284373368"
+        },
+        {
+          "name": "J. Bonini",
+          "id": "4082669"
+        }
+      ],
+      "year": 2024,
+      "venue": "Brazilian Archives of Biology and Technology",
+      "score": 0.5063577612053649,
+      "abstract": ": Natural compounds are possible alternatives for wound treatment, including Ilex paraguariensis , a plant with several pharmacological actions already reported, including anti-inflammatory, antibacterial, antioxidant, and healing activities. Therefore, this study aimed to perform a technological and scientific mapping of Ilex paraguariensis used for healing and/or analgesic purposes. Technological prospection was carried out in the Questel-Orbit system, while the scientific research was carried out in PubMed, Web of Science, and SCOPUS databases. The terms “ Ilex paraguariensis ”, “Yerba-mate”, “Painkiller”, “Analgesic”, “Wound”, “Healing”, and “Scar” were combined using Boolean operators “OR” and “AND”. The technological prospection resulted in 164 patents found initially. After sorting the abstracts, five patents were read entirely, of which three were selected. Such selected patents report using Ilex paraguariensis for analgesics, wound healing, personal care, and pharmaceutical applications. In addition, the scientific research showed a small number of studies aimed at using Ilex paraguariensis for healing and/or analgesic purposes. Among the 26 articles initially found, only 5 met the inclusion requirements. Scientific studies demonstrate that Ilex paraguariensis is used as an extract or drink, presenting promising results regarding analgesia, inflammation, and wound healing, using in vitro or in vivo models. Despite the potential of Ilex paraguariensis in skin wound therapy, our study demonstrates that few patents and scientific studies explore Ilex paraguariensis for this purpose. This fact may be an incentive for the development of further studies employing Ilex paraguariensis in cutaneous wound management and the pain associated with them.",
+      "corpusId": 269834937,
+      "url": "https://api.semanticscholar.org/CorpusId:269834937",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Effect of Chocolate and Yerba Mate Phenolic Compounds on Inflammatory and Oxidative Biomarkers in HIV/AIDS Individuals",
+      "authors": [
+        {
+          "name": "A. A. Petrilli",
+          "id": "5877101"
+        },
+        {
+          "name": "S. Souza",
+          "id": "6796796"
+        },
+        {
+          "name": "Andrea M Teixeira",
+          "id": "49930908"
+        },
+        {
+          "name": "P. M. Pontilho",
+          "id": "5717694"
+        },
+        {
+          "name": "J. M. Souza",
+          "id": "153541371"
+        },
+        {
+          "name": "L. Luzia",
+          "id": "4054318"
+        },
+        {
+          "name": "P. Rondó",
+          "id": "144365481"
+        }
+      ],
+      "year": 2016,
+      "venue": "Nutrients",
+      "score": 0.5035627123345281,
+      "abstract": "Flavonoids in cocoa and yerba mate have a beneficial role on inflammation and oxidative disorders. Their effect on HIV individuals has not been studied yet, despite the high cardiovascular risk of this population. This study investigated the role of cocoa and yerba mate consumption on oxidative and inflammatory biomarkers in HIV+ individuals. A cross-over, placebo-controlled, double-blind, randomized clinical trial was conducted in 92 individuals on antiretroviral therapy for at least six months and at viral suppression. Participants were randomized to receive either 65 g of chocolate or chocolate-placebo or 3 g of yerba mate or mate-placebo for 15 days each, alternating by a washout period of 15 days. At baseline, and at the end of each intervention regimen, data regarding anthropometry, inflammatory, oxidative and immunological parameters were collected. High-sensitivity C-reactive protein, fibrinogen, lipid profile, white blood cell profile and thiobarbituric acid reactive substances were assessed. There was a difference between mean concentrations of HDL-c (ANOVA; p ≤ 0.05) among the different regimens: dark chocolate, chocolate-placebo, yerba mate and mate-placebo. When a paired Student t-test was used for comparisons between mean HDL-c at baseline and after each regimen, the mean concentration of HDL-c was higher after supplementation with dark chocolate (p = 0.008).",
+      "corpusId": 18282715,
+      "url": "https://pdfs.semanticscholar.org/5639/8fc696af1ab55eda2c6d84149bb5d79228ef.pdf",
+      "pubmed_id": "27223302",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/nu8050132",
+        "matched_title": "Effect of Chocolate and Yerba Mate Phenolic Compounds on Inflammatory and Oxidative Biomarkers in HIV/AIDS Individuals.",
+        "matched_pubdate": "2016 May 23",
+        "matched_source": "Nutrients"
+      }
+    },
+    {
+      "title": "Antioxidant Therapies as Emerging Adjuncts in Rheumatoid Arthritis: Targeting Oxidative Stress to Enhance Treatment Outcomes",
+      "authors": [
+        {
+          "name": "R. Bilski",
+          "id": "47737267"
+        },
+        {
+          "name": "Jarosław Nuszkiewicz",
+          "id": "91871919"
+        }
+      ],
+      "year": 2025,
+      "venue": "International Journal of Molecular Sciences",
+      "score": 0.4896245389142298,
+      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disorder characterized by persistent inflammation and progressive joint destruction. Recent data underscore oxidative stress as a primary factor in the pathophysiology of rheumatoid arthritis, intensifying inflammatory processes and tissue damage via the overproduction of reactive oxygen species (ROS) and compromised antioxidant defenses. Current therapies, including disease-modifying antirheumatic drugs (DMARDs), primarily target immune dysregulation but fail to address oxidative stress, necessitating novel adjunctive treatment strategies. This review explores the potential of antioxidant-based therapies as complementary approaches to RA management. Natural compounds such as curcumin, resveratrol, sulforaphane, and propolis exhibit strong anti-inflammatory and antioxidative properties by modulating redox-sensitive pathways, including nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB) and nuclear factor erythroid 2-related factor 2(Nrf2)/heme oxygenase (HO-1). N-acetylcysteine (NAC) replenishes intracellular glutathione, enhancing cellular resilience against oxidative stress. Additionally, molecular hydrogen (H2) selectively neutralizes harmful ROS, reducing oxidative damage and inflammation. The role of vitamin supplementation (D, B12, C, and K) in regulating immune responses and protecting joint structures is also discussed. This review aims to evaluate the efficacy and potential clinical applications of antioxidant therapies in RA, emphasizing their role in mitigating oxidative damage and improving treatment outcomes. While preliminary findings are promising, further clinical trials are needed to establish standardized dosing, long-term safety, and their integration into current RA treatment protocols.",
+      "corpusId": 277306093,
+      "url": "https://api.semanticscholar.org/CorpusId:277306093",
+      "pubmed_id": "40243461",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/ijms26072873",
+        "matched_title": "Antioxidant Therapies as Emerging Adjuncts in Rheumatoid Arthritis: Targeting Oxidative Stress to Enhance Treatment Outcomes.",
+        "matched_pubdate": "2025 Mar 21",
+        "matched_source": "Int J Mol Sci"
+      }
+    },
+    {
+      "title": "A randomized, double‐blind, placebo‐controlled clinical trial, evaluating the garlic supplement effects on some serum biomarkers of oxidative stress, and quality of life in women with rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "Seyedeh Parisa Moosavian",
+          "id": "12071820"
+        },
+        {
+          "name": "Z. Paknahad",
+          "id": "5450747"
+        },
+        {
+          "name": "Z. Habibagahi",
+          "id": "6284469"
+        }
+      ],
+      "year": 2020,
+      "venue": "International journal of clinical practice",
+      "score": 0.485343054717151,
+      "abstract": "Rheumatoid arthritis (RA), is a prevalent immune‐inflammatory disease, which is associated with disabling pain. Oxidative stress might play a role in RA pathogenesis and outcomes. According to the antioxidant properties of garlic, the current study was performed to evaluate the garlic supplement effects on some serum levels of oxidative stress biomarkers, and quality of life in patients with rheumatoid arthritis.",
+      "corpusId": 212666849,
+      "url": "https://api.semanticscholar.org/CorpusId:212666849",
+      "pubmed_id": "32159257",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1111/ijcp.13498",
+        "matched_title": "A randomized, double-blind, placebo-controlled clinical trial, evaluating the garlic supplement effects on some serum biomarkers of oxidative stress, and quality of life in women with rheumatoid arthritis.",
+        "matched_pubdate": "2020 Jul",
+        "matched_source": "Int J Clin Pract"
+      }
+    },
+    {
+      "title": "Over-the-Counter Anti-inflammatory Supplements for Adjunctive Rheumatoid Arthritis Therapy: A Comprehensive Narrative Review",
+      "authors": [
+        {
+          "name": "Saliba Fares",
+          "id": "2284838538"
+        },
+        {
+          "name": "M. Omar",
+          "id": "2106329755"
+        },
+        {
+          "name": "Aoun Laurence",
+          "id": "2284836768"
+        },
+        {
+          "name": "Saif Abu-baker",
+          "id": "2253619847"
+        },
+        {
+          "name": "Almardini Shaza",
+          "id": "2284838704"
+        },
+        {
+          "name": "Haddadin Fadi",
+          "id": "2284843321"
+        },
+        {
+          "name": "M. Jonathan",
+          "id": "2257534317"
+        },
+        {
+          "name": "Khattar Georges",
+          "id": "2284837034"
+        },
+        {
+          "name": "Sangaraju Koushik",
+          "id": "2284838683"
+        },
+        {
+          "name": "Bou Sanayeh Elie",
+          "id": "2284843525"
+        },
+        {
+          "name": "Morcos Zeina",
+          "id": "2284843991"
+        },
+        {
+          "name": "Habib Toni",
+          "id": "2284838764"
+        },
+        {
+          "name": "A. Ibrahim",
+          "id": "2412310191"
+        },
+        {
+          "name": "Slobodnick Anastasia",
+          "id": "2284843431"
+        }
+      ],
+      "year": 2024,
+      "venue": "Aging and Disease",
+      "score": 0.4832879084441813,
+      "abstract": "Rheumatoid arthritis (RA), a prevalent chronic disease, poses significant treatment challenges, including side effects and high costs of conventional therapies. This heightens interest in natural, over-the-counter (OTC) anti-inflammatory supplements as potential adjunctive treatments. Given their roles in mitigating inflammation and oxidative stress, key factors in RA pathogenesis, these supplements could offer valuable therapeutic adjunctive. Our review addresses this emerging area, providing insights into the efficacy and safety of these supplements in RA management. Methods: observational studies, systematic reviews, and meta-analyses on anti-inflammatory supplements in RA over the past 10 years. Relevant articles were reviewed, and data was synthesized. Several supplements demonstrate beneficial anti-inflammatory and antioxidant properties that may improve RA outcomes. Quercetin suppresses inflammatory cytokines and pathways. Green tea polyphenols inhibit mediators like TNF-alpha and IL-6. Curcumin impacts inflammatory cytokines and signaling cascades. Ginger components block enzymes and inflammation pathways. Omega-3 fatty acids modulate immune cell function and cytokine production. While promising, high-quality evidence remains limited, and optimal dosing is uncertain for most supplements. Our review emphasizes the potential of over-the-counter anti-inflammatory supplements as an adjunctive treatment in rheumatoid arthritis. While these supplements, like quercetin, green tea polyphenols, and omega-3 fatty acids, show promising anti-inflammatory and immunomodulatory effects, there are substantial concerns regarding their consistency and quality in the market, unclear interactions with conventional medications, and the lack of standardized dosages. More extensive research, particularly randomized controlled trials, is crucial to establish clear guidelines.",
+      "corpusId": 267639015,
+      "url": "https://api.semanticscholar.org/CorpusId:267639015",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "The application prospects of sacha inchi (Plukenetia volubilis linneo) in rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "Min Wang",
+          "id": "2327029981"
+        },
+        {
+          "name": "Yinhong Xiang",
+          "id": "2331268871"
+        },
+        {
+          "name": "Mei Liu",
+          "id": "2301500733"
+        },
+        {
+          "name": "Shan Jiang",
+          "id": "2301364587"
+        },
+        {
+          "name": "Jia-ying Guo",
+          "id": "2326782476"
+        },
+        {
+          "name": "Xiao-yan Jin",
+          "id": "2326636324"
+        },
+        {
+          "name": "Hui-feng Sun",
+          "id": "2297278974"
+        },
+        {
+          "name": "Ning Zhang",
+          "id": "2326802151"
+        },
+        {
+          "name": "Zhi-Gang Wang",
+          "id": "2326644660"
+        },
+        {
+          "name": "Jian-Xin Liu",
+          "id": "2297252588"
+        }
+      ],
+      "year": 2024,
+      "venue": "Frontiers in Pharmacology",
+      "score": 0.48308291237933343,
+      "abstract": "Sacha Inchi (Plukenetia volubilis L) (SI) is a traditional natural medicine from tropical rainforests of Amazon region in South America. As a raw material for edible oil, it has various pharmacological effects such as antioxidant, anti-inflammatory, hypolipidemia, and blood pressure lowering, which have attracted increasing attentions of pharmacists. This has prompted researchers to explore its pharmacological effects for potential applications in certain diseases. Among these, the study of its anti-inflammatory effects has become a particularly interesting topic, especially in rheumatoid arthritis (RA). RA is a systemic autoimmune disease, and often accompanied by chronic inflammatory reactions. Despite significant progress in its treatment, there is still an urgent need to find effective anti-RA drugs in regard to safety. This review summarizes the potential therapeutic effects of SI on RA by modulating gut microbiota, targeting inflammatory cells and pathways, and mimicking biologic antibody drugs, predicting the application prospects of SI in RA, and providing references for research aimed at using SI to treat RA.",
+      "corpusId": 273444944,
+      "url": "https://api.semanticscholar.org/CorpusId:273444944",
+      "pubmed_id": "39484157",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fphar.2024.1481272",
+        "matched_title": "The application prospects of sacha inchi (Plukenetia volubilis linneo) in rheumatoid arthritis.",
+        "matched_pubdate": "2024",
+        "matched_source": "Front Pharmacol"
+      }
+    },
+    {
+      "title": "The Effect of Ilex × meserveae S. Y. Hu Extract and Its Fractions on Renal Morphology in Rats Fed with Normal and High-Cholesterol Diet",
+      "authors": [
+        {
+          "name": "P. Kuropka",
+          "id": "3731328"
+        },
+        {
+          "name": "Anna Zwyrzykowska-Wodzińska",
+          "id": "2079810956"
+        },
+        {
+          "name": "R. Kupczyński",
+          "id": "4059509"
+        },
+        {
+          "name": "Maciej Włodarczyk",
+          "id": "1401250766"
+        },
+        {
+          "name": "A. Szumny",
+          "id": "3736071"
+        },
+        {
+          "name": "R. Nowaczyk",
+          "id": "1978301"
+        }
+      ],
+      "year": 2021,
+      "venue": "Foods",
+      "score": 0.48170697634893755,
+      "abstract": "Therapeutic properties of Ilex species are widely used in natural medicine. Ilex × meserveae may become a potential substitute for Ilex paraguariensis (Yerba Mate). As a part of the preliminary safety verification of this European Ilex hybrid vs. Yerba Mate, an eight-week study concerning the impact of regular administration of leaves of both species on kidneys was conducted. The standard water infusion and three dominant fractions of Ilex × meserveae leaves’ constituents (polyphenols, saponins and less polar terpenoids) were separately tried on 96 male Wistar rats divided into 8-member groups. Animals were divided into two basic nutritional groups: the first one was rats fed standard feed and the second on was rats fed with high-cholesterol diet (20 g of cholesterol per kg of standard feed). Postmortem morphometric evaluation of stained kidney samples concerned the filtration barrier elements, which are crucial in proper diuresis. The results showed that saponins present in the hydroalcoholic dry extract (administered in a dose of 10 mg/kg of body weight/day) as well as in water infusions (1:20) from Ilex × meserveae and Ilex paraguariensis do not demonstrate nephrotoxicity but conversely, have a protective role on kidney status in animals fed with a normal diet and in a high-cholesterol diet.",
+      "corpusId": 233397332,
+      "url": "https://api.semanticscholar.org/CorpusId:233397332",
+      "pubmed_id": "33918905",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/foods10040818",
+        "matched_title": "The Effect of Ilex × meserveae S. Y. Hu Extract and Its Fractions on Renal Morphology in Rats Fed with Normal and High-Cholesterol Diet.",
+        "matched_pubdate": "2021 Apr 9",
+        "matched_source": "Foods"
+      }
+    },
+    {
+      "title": "llex paraguariensis decreases oxidative stress in bone and mitigates the damage in rats during perimenopause",
+      "authors": [
+        {
+          "name": "C. Pereira",
+          "id": "2064439715"
+        },
+        {
+          "name": "Camila Tami Stringhetta-Garcia",
+          "id": "1399422678"
+        },
+        {
+          "name": "Lilian da Silva Xavier",
+          "id": "2412238425"
+        },
+        {
+          "name": "Keny Gonçalves Tirapeli",
+          "id": "2100264689"
+        },
+        {
+          "name": "Ariana Aparecida Ferreira Pereira",
+          "id": "2412224148"
+        },
+        {
+          "name": "Giseli Mitsuy Kayahara",
+          "id": "1631759196"
+        },
+        {
+          "name": "José Marcelo Tramarim",
+          "id": "2117367952"
+        },
+        {
+          "name": "M. Crivelini",
+          "id": "4561754"
+        },
+        {
+          "name": "Karina Stringhetta Padovani",
+          "id": "20736673"
+        },
+        {
+          "name": "A. M. Leopoldino",
+          "id": "144139334"
+        },
+        {
+          "name": "Mário Jefferson Quirino Louzada",
+          "id": "2281312456"
+        },
+        {
+          "name": "A. Belló-Klein",
+          "id": "1397344584"
+        },
+        {
+          "name": "S. Llesuy",
+          "id": "3555668"
+        },
+        {
+          "name": "E. Ervolino",
+          "id": "4112534"
+        },
+        {
+          "name": "Rita Cássia Menegati Dornelles",
+          "id": "2412234341"
+        },
+        {
+          "name": "A. Chaves-Neto",
+          "id": "1399422666"
+        },
+        {
+          "name": "Ana Cláudia de Melo Stevanato Nakamune",
+          "id": "116714592"
+        }
+      ],
+      "year": 2017,
+      "venue": "Experimental Gerontology",
+      "score": 0.46467263231922906,
+      "abstract": "ABSTRACT During perimenopause, oxidative stress increases, which may result in disruption of bone turnover, and consequently in osteoporosis. The use of antioxidants may be an effective nutritional approach to reducing osteoporosis in this period of life. Mate tea (MT) (Ilex paraguariensis), a typical and inexpensive beverage consumed in the Brazilian south‐east, Argentina and Uruguay, increases antioxidant defense. Our hypothesis was that MT would decrease oxidative stress and mitigate bone deterioration. To test this, we analyzed oxidative stress markers of bone turnover, and local and systemic markers of bone metabolism of rats during natural perimenopause. Female Wistar rats (aged 16 months) in proven perimenopause period received 20 mg/kg BW/day of mate tea, by gavage (PM + MT Group, n = 10) or water (PM Group, n = 10). Female rats aged 4 months (AD Group, n = 10) received water. The treatment period was four weeks. MT minimized the deterioration of rat microarchitecture, characterized by increase in the bone trabecular area, number of osteocytes and areal bone mineral density. These results were accompanied by a lower level of malondialdehyde, an oxidative stress marker, in femoral tissue homogenate. Plasmatic tartrate‐resistant acid phosphatase, a typical osteoclastic function marker, decreases after treatment, indicating a decrease in osteoclastic function. MT also modified the immunostaining pattern of bone metabolism markers, decreasing the receptor activator of nuclear factor kappa‐B ligant (RANKL), superoxide dismutase isoform 2 (SOD2) and increasing osteoprotegerin (OPG), a decoy receptor for the RANKL, which positively modulates bone mass. These results suggested MT was capable of decreasing bone resorption by inhibiting the osteoclastogenesis in a RANKL‐dependent signaling pathway activated by oxidative stress. Taken together, the results indicated that MT minimized bone loss in perimenopause and this effect is at least partly due to the decrease in oxidative stress, confirming our hypothesis. HighlightsMT reduces oxidative stress in bone.MT attenuates bone deterioration in perimenopause.MT decreases osteoclastic function.",
+      "corpusId": 29213976,
+      "url": "https://doi.org/10.1016/j.exger.2017.07.006",
+      "pubmed_id": "28739429",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.exger.2017.07.006",
+        "matched_title": "llex paraguariensis decreases oxidative stress in bone and mitigates the damage in rats during perimenopause.",
+        "matched_pubdate": "2017 Nov",
+        "matched_source": "Exp Gerontol"
+      }
+    },
+    {
+      "title": "Treatment with Ilex paraguariensis (yerba mate) aqueous solution prevents hepatic redox imbalance, elevated triglycerides, and microsteatosis in overweight adult rats that were precociously weaned",
+      "authors": [
+        {
+          "name": "E. de Oliveira",
+          "id": "35152069"
+        },
+        {
+          "name": "N. S. Lima",
+          "id": "35570134"
+        },
+        {
+          "name": "E. Conceição",
+          "id": "3815423"
+        },
+        {
+          "name": "N. Peixoto-Silva",
+          "id": "1397957970"
+        },
+        {
+          "name": "E. Moura",
+          "id": "1919655"
+        },
+        {
+          "name": "P. Lisboa",
+          "id": "5436785"
+        }
+      ],
+      "year": 2018,
+      "venue": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
+      "score": 0.4593134757755517,
+      "abstract": "Early weaning (EW) leads to overweight, visceral obesity, hyperleptinemia, and insulin resistance in adulthood. Treatment with Ilex paraguariensis (yerba mate) improves obesity and insulin resistance in these animals. Here, we evaluated the effects of chronic treatment with yerba mate on the redox balance and liver morphology of overweight early-weaned rats. To induce EW, we wrapped the dams with bandages to interrupt milk access during the last 3 days of lactation. Control pups (C) had free access to maternal milk for the full 21 days of lactation. On postnatal day (PN) 150, EW offspring were subdivided into the EW+YM group, which received the aqueous extract of yerba mate (1 g/kg bw by gavage once a day for 30 days) and the EW group, which received water by gavage for the same period. All rats were euthanized on PN180. The EW group showed higher bound carbonyl (a marker of total protein oxidation), higher TBARS levels (a marker of lipid peroxidation), and lower superoxide dismutase (SOD) activity in liver tissue than the C group, as well as higher triglyceride content and microsteatosis. In plasma, the EW offspring showed higher TBARS levels. One month of yerba mate treatment normalized these parameters. Thus, we have shown evidence that yerba mate improved antioxidant defenses and mitigated liver dysfunction in overweight adult rats that were weaned prematurely.",
+      "corpusId": 43952452,
+      "url": "https://pdfs.semanticscholar.org/60d4/b2c8e761aa643e19de8fe90bbd5d849eee9b.pdf",
+      "pubmed_id": "29791596",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1590/1414-431x20187342",
+        "matched_title": "Treatment with Ilex paraguariensis (yerba mate) aqueous solution prevents hepatic redox imbalance, elevated triglycerides, and microsteatosis in overweight adult rats that were precociously weaned.",
+        "matched_pubdate": "2018",
+        "matched_source": "Braz J Med Biol Res"
+      }
+    },
+    {
+      "title": "Effects of mate tea consumption on muscle strength and oxidative stress markers after eccentric exercise.",
+      "authors": [
+        {
+          "name": "V. P. Panza",
+          "id": "11035860"
+        },
+        {
+          "name": "F. Diefenthaeler",
+          "id": "2316988"
+        },
+        {
+          "name": "A. C. Tamborindeguy",
+          "id": "48358885"
+        },
+        {
+          "name": "C. Camargo",
+          "id": "6337314"
+        },
+        {
+          "name": "B. M. de Moura",
+          "id": "46632132"
+        },
+        {
+          "name": "H. Brunetta",
+          "id": "15647097"
+        },
+        {
+          "name": "R. Sakugawa",
+          "id": "5961001"
+        },
+        {
+          "name": "M. V. de Oliveira",
+          "id": "13018905"
+        },
+        {
+          "name": "Emiliana de Oliveira Puel",
+          "id": "14590728"
+        },
+        {
+          "name": "E. Nunes",
+          "id": "5319894"
+        },
+        {
+          "name": "E. L. da Silva",
+          "id": "32378950"
+        }
+      ],
+      "year": 2016,
+      "venue": "British Journal of Nutrition",
+      "score": 0.452075959373234,
+      "abstract": "",
+      "corpusId": 35305165,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/26917157",
+      "pubmed_id": "26917157",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1017/s000711451600043x",
+        "matched_title": "Effects of mate tea consumption on muscle strength and oxidative stress markers after eccentric exercise.",
+        "matched_pubdate": "2016 Apr",
+        "matched_source": "Br J Nutr"
+      }
+    },
+    {
+      "title": "Dihydrocaffeic acid, a major microbial metabolite of chlorogenic acids, shows similar protective effect than a yerba mate phenolic extract against oxidative stress in HepG2 cells.",
+      "authors": [
+        {
+          "name": "Gema Baeza",
+          "id": "10041682"
+        },
+        {
+          "name": "B. Sarriá",
+          "id": "35120876"
+        },
+        {
+          "name": "R. Mateos",
+          "id": "144049855"
+        },
+        {
+          "name": "L. Bravo",
+          "id": "49492238"
+        }
+      ],
+      "year": 2016,
+      "venue": "Food Research International",
+      "score": 0.44985366136755445,
+      "abstract": "",
+      "corpusId": 4558802,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29606245",
+      "pubmed_id": "29606245",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.foodres.2016.06.011",
+        "matched_title": "Dihydrocaffeic acid, a major microbial metabolite of chlorogenic acids, shows similar protective effect than a yerba mate phenolic extract against oxidative stress in HepG2 cells.",
+        "matched_pubdate": "2016 Sep",
+        "matched_source": "Food Res Int"
+      }
+    },
+    {
+      "title": "Effect of Saururus chinensis leaves extract on type II collagen-induced arthritis mouse model",
+      "authors": [
+        {
+          "name": "J. Nho",
+          "id": "90085176"
+        },
+        {
+          "name": "H. Lee",
+          "id": "2143730671"
+        },
+        {
+          "name": "H. Jung",
+          "id": "5161754"
+        },
+        {
+          "name": "Ji-Hun Jang",
+          "id": "47267628"
+        },
+        {
+          "name": "K. Lee",
+          "id": "40576690"
+        },
+        {
+          "name": "A. Kim",
+          "id": "153102927"
+        },
+        {
+          "name": "T. Sung",
+          "id": "90555638"
+        },
+        {
+          "name": "Hyun-Woo Cho",
+          "id": "91875258"
+        }
+      ],
+      "year": 2019,
+      "venue": "BMC Complementary and Alternative Medicine",
+      "score": 0.44923030882444615,
+      "abstract": "BackgroundSaururus chinensis leaves have been used as traditional medicine in Korea for pain, intoxication, edema, and furuncle. According to previous reports, these leaves exert renoprotective, neuroprotective, and antioxidant effects by attenuating inflammatory responses. However, the beneficial effect of Saururus chinensis leaves on arthritis has not been elucidated. Thus, we evaluated the water extract of Saururus chinensis leaves (SHW) using type II collagen-induced arthritis (CIA) mice models.MethodsQuantitative analysis of major components from SHW was performed by HPLC. Arthritis was induced by injection of type II collagen. Each group was orally administered SHW (100 mg/kg and 500 mg/kg). Methotrexate (MTX) was used as a positive control. Serum levels of interleukin-6, TNF-alpha, and type II collagen IgG in the animal models were measured using ELISA. Histological features were observed by H&E staining.ResultsQuantitative analysis of SHW showed the contents as 56.4 ± 0.52 mg/g of miquelianin, 7.75 ± 0.08 mg/g of quercetin 3-O-(2”-O-β -glucopyranosyl)-α-rhamnopyranoside, and 3.17 ± 0.02 mg/g of quercitrin. Treatment with 500 mg/kg SHW decreased the serum level of Interleukin-6 (IL-6), TNF-alpha, and collagen IgG in the CIA model. Moreover, SHW treatment diminished the swelling of hind limbs and monocyte infiltration in blood vessels in CIA animal models. The results indicate that SHW could decrease CIA-induced arthritis in vivo.ConclusionsThe results indicate that SHW could be used to improving arthritis by reducing inflammatory factors (IL-6 and TNF-alpha). However, further experiments are required to determine how SHW influences signal transduction in animal models.",
+      "corpusId": 57757608,
+      "url": "https://api.semanticscholar.org/CorpusId:57757608",
+      "pubmed_id": "30606189",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12906-018-2418-z",
+        "matched_title": "Effect of Saururus chinensis leaves extract on type II collagen-induced arthritis mouse model.",
+        "matched_pubdate": "2019 Jan 3",
+        "matched_source": "BMC Complement Altern Med"
+      }
+    },
+    {
+      "title": "Adipose tissue of female Wistar rats respond to Ilex paraguariensis treatment after ovariectomy surgery",
+      "authors": [
+        {
+          "name": "D. S. Rocha",
+          "id": "46236778"
+        },
+        {
+          "name": "Jorge Felipe Argenta Model",
+          "id": "2098049779"
+        },
+        {
+          "name": "Maiza Cristina Von Dentz",
+          "id": "1752760950"
+        },
+        {
+          "name": "Jéssica Maschio",
+          "id": "107663158"
+        },
+        {
+          "name": "Renata Ohlweiler",
+          "id": "2005514756"
+        },
+        {
+          "name": "Matheus Vieira Lima",
+          "id": "153285532"
+        },
+        {
+          "name": "Samir Khal de Souza",
+          "id": "2028650416"
+        },
+        {
+          "name": "Elaine Sarapio",
+          "id": "13913303"
+        },
+        {
+          "name": "É. Vogt",
+          "id": "84177346"
+        },
+        {
+          "name": "Mairique Waszczuk",
+          "id": "2090905148"
+        },
+        {
+          "name": "S. Martiny",
+          "id": "40898459"
+        },
+        {
+          "name": "V. Bassani",
+          "id": "3747103"
+        },
+        {
+          "name": "L. C. Kucharski",
+          "id": "2042839"
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Traditional and Complementary Medicine",
+      "score": 0.4428585769942574,
+      "abstract": "Background and aim Metabolic disturbances are known for their increasing epidemiological importance. Ilex paraguariensis presents a potential option for mitigating lipid metabolism imbalance. However, most of the literature to date has not considered sex bias. This study aimed to evaluate the effect of Ilex paraguariensis on the metabolism of different adipose tissue depots in males and females. Experimental procedure After ovariectomy, female Wistar rats received daily treatment with the extract (1 g/kg) for forty-five days. Biochemical serum parameters and tissue metabolism were evaluated. Oxidation, lipogenesis and lipolysis were evaluated in brown, white visceral, retroperitoneal and gonadal adipose tissues. Results and conclusion The results showed that treatment with the extract led to a reduced weight gain in ovariectomised females in comparison to control. The triglyceride concentration was decreased in males. Glucose oxidation and lipid synthesis in visceral and retroperitoneal adipose tissues were restored in ovariectomised females after treatment. The response to epinephrine decreased in visceral adipose tissue of control males; however, lipolysis in females did not respond to ovariectomy or treatment. These findings highlight the enormous potential effects of I. paraguariensis on lipid metabolism, modulating lipogenic pathways in females and lipolytic pathways in males. Furthermore, the sex approach applied in this study contributes to more effective screening of the effects of I. paraguariensis bioactive substances.",
+      "corpusId": 225518934,
+      "url": "https://api.semanticscholar.org/CorpusId:225518934",
+      "pubmed_id": "34012870",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.jtcme.2020.07.002",
+        "matched_title": "Adipose tissue of female Wistar rats respond to Ilex paraguariensis treatment after ovariectomy surgery.",
+        "matched_pubdate": "2021 May",
+        "matched_source": "J Tradit Complement Med"
+      }
+    },
+    {
+      "title": "Positive Effect of Yerba Mate (Ilex paraguariensis) Consumption on Bone Mineral Density in Postmenopausal Women Assessed by Dual Energy X-Ray Absorptiometry-Based 3-Dimensional Modeling",
+      "authors": [
+        {
+          "name": "L. R. Brun",
+          "id": "2306042604"
+        },
+        {
+          "name": "Muriel M. Henríquez",
+          "id": "2334627872"
+        },
+        {
+          "name": "L. A. R. Stieben",
+          "id": "2366344016"
+        },
+        {
+          "name": "Mariana Cusumano",
+          "id": "2366934990"
+        },
+        {
+          "name": "J. Wilches-Visbal",
+          "id": "1820953907"
+        },
+        {
+          "name": "F. D. Saraví",
+          "id": "2256024706"
+        },
+        {
+          "name": "M. L. Brance",
+          "id": "144803159"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Bone Metabolism",
+      "score": 0.4427890702005295,
+      "abstract": "Background Yerba mate (YM) drinking is associated with higher lumbar spine and femoral neck bone mineral density (BMD) in postmenopausal women. We analyzed its effect on total hip BMD and reported the contribution of the trabecular and cortical components to this effect. Methods A control group of 147 non-drinkers was compared to 153 YM drinkers. Left hip BMD was measured using dual energy X-ray absorptiometry (DXA), and three-dimensional (3D)-Shaper software was used to estimate integral volumetric BMD (vBMD), cortical surface BMD (sBMD), and trabecular vBMD through 3D modeling. Results No significant difference was found between groups in either age (P=0.746) or body mass index (BMI; P=0.329). The YM group had significantly higher total hip BMD, integral vBMD, cortical sBMD, and trabecular BMD (all P<0.0001). The frequency of DXA-based osteoporosis diagnosis was lower in YM drinkers (3.3% vs. 10.9%; odds ratio [OR], 0.276). The rate of low-impact fractures was significantly reduced in YM drinkers (5.9% vs. 12.9%; OR, 2.197). Linear regression analyses revealed that cortical and trabecular parameters correlated positively with BMI and negatively with age in both groups. The slope of the lines did not differ between groups, but the elevation was uniformly higher in the YM group (P=0.0004 to P<0.0001). Conclusions Our study provides novel insights into YM consumption and bone health in postmenopausal women. We confirm its positive association with BMD and demonstrate, for the first time, that both cortical and trabecular compartments contribute to this effect. Our findings also suggest a potential protective role of YM against osteoporosis and fragility fractures.",
+      "corpusId": 279375198,
+      "url": "https://pdfs.semanticscholar.org/02e9/a634a524dc9f92044f03d429ab9a8eba71ce.pdf",
+      "pubmed_id": "40537107",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.11005/jbm.24.827",
+        "matched_title": "Positive Effect of Yerba Mate (Ilex paraguariensis) Consumption on Bone Mineral Density in Postmenopausal Women Assessed by Dual Energy X-Ray Absorptiometry-Based 3-Dimensional Modeling.",
+        "matched_pubdate": "2025 May",
+        "matched_source": "J Bone Metab"
+      }
+    },
+    {
+      "title": "Clinical evidence of sesame (Sesamum indicum L.) products and its bioactive compounds on anthropometric measures, blood pressure, glycemic control, inflammatory biomarkers, lipid profile, and oxidative stress parameters in humans: a GRADE-assessed systematic review and dose–response meta-analysis",
+      "authors": [
+        {
+          "name": "Ali Jafari",
+          "id": "2215476984"
+        },
+        {
+          "name": "Bahare Parsi Nezhad",
+          "id": "2347303775"
+        },
+        {
+          "name": "Niloufar Rasaei",
+          "id": "51091501"
+        },
+        {
+          "name": "Elahe Aleebrahim‐Dehkordi",
+          "id": "2349603123"
+        },
+        {
+          "name": "A. Rajabi",
+          "id": "40196945"
+        },
+        {
+          "name": "Alireza Alaghi",
+          "id": "2136508266"
+        }
+      ],
+      "year": 2025,
+      "venue": "Nutrition and Metabolism",
+      "score": 0.44192975879429935,
+      "abstract": "This comprehensive systematic review and meta-analysis aimed to assess the impact of sesame (Sesamum indicum L.) supplementation on cardiovascular disease risk factors. Relevant research was discovered via PubMed, Scopus, Web of Science, CENTRAL, and EMBASE up to June 2024. The assessment of study quality was conducted using the Cochrane risk-of-bias tool. Thirteen trials, with interventions ranging from 4 to 12 weeks and involving 521 participants, demonstrated significant reductions in glycated hemoglobin (HbA1c) (Standardized Mean Difference [SMD] = − 0.67; 95% Confidence Interval [CI] − 1.01, − 0.32; P < 0.001), C-reactive protein (CRP) (SMD = − 0.51; 95% CI − 0.96, − 0.05; P = 0.028), and interleukin-6 (IL-6) (SMD = − 0.74; 95% CI − 1.16, − 0.32; P < 0.001), and a marginally significant effect on fasting blood sugar (FBS) (SMD = − 0.57; 95% CI − 1.16, 0.02; P = 0.057). Subgroup analyses revealed that sesame supplementation significantly reduced CRP and malondialdehyde (MDA) in populations without chronic diseases, while total cholesterol (TC) and MDA were reduced in those with chronic diseases. MDA was significantly reduced in females, especially those aged 50 or older. At dosages of 10 g per day or less, CRP, high-density lipoprotein cholesterol (HDL), and TC showed significant improvements. Meta-regression highlighted a significant dose-dependent reduction in TC levels at 10 g/day, and a significant duration-dependent decrease in TG levels at 8 weeks of supplementation. Sesame supplementation demonstrates potential benefits in improving glycemic control, inflammatory markers, and lipid profiles, making it a promising adjunct therapy for reducing cardiovascular disease risk factors.",
+      "corpusId": 276933258,
+      "url": "https://api.semanticscholar.org/CorpusId:276933258",
+      "pubmed_id": "40069782",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12986-025-00910-7",
+        "matched_title": "Clinical evidence of sesame (Sesamum indicum L.) products and its bioactive compounds on anthropometric measures, blood pressure, glycemic control, inflammatory biomarkers, lipid profile, and oxidative stress parameters in humans: a GRADE-assessed systematic review and dose-response meta-analysis.",
+        "matched_pubdate": "2025 Mar 11",
+        "matched_source": "Nutr Metab (Lond)"
+      }
+    },
+    {
+      "title": "Impact of Nutritional Diet Therapy on Rheumatoid Arthritis Disease Activity",
+      "authors": [
+        {
+          "name": "E. Deseatnicova",
+          "id": "2082742652"
+        },
+        {
+          "name": "E. Covaliov",
+          "id": "2134786195"
+        },
+        {
+          "name": "O. Deseatnicova",
+          "id": "88029121"
+        },
+        {
+          "name": "R. Siminiuc",
+          "id": "90497468"
+        },
+        {
+          "name": "E. Rezus",
+          "id": "2242576874"
+        },
+        {
+          "name": "L. Groppa",
+          "id": "39101992"
+        }
+      ],
+      "year": 2026,
+      "venue": "Nutrients",
+      "score": 0.4412484323304937,
+      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disease characterized by synovial joint inflammation and different system involvement that results in considerable physical and psychological symptoms. This narrative review investigates the impacts of nutritional diet therapy on RA symptoms, highlighting recent scientific findings in terms of how different dietary components may modulate inflammation and disease activity. Treatment of RA includes conventional and biological disease-modifying antirheumatic drugs (DMARDs) and symptomatic response modifiers, like corticosteroids and non-steroidal antirheumatic drugs (NSAIDS). However, nutritional interventions are becoming more and more popular due to their ability to alter inflammation. The review also focuses on macronutrients such as proteins and fats, stressing the usefulness of omega-3 fat acids/monounsaturated fat acids but warning against high intake of processed carbohydrates/sugars. Besides that, it explores the effects of micronutrients and bioactive compounds like polyphenols which may minimize RA symptoms and result in better disease control together with vitamin D or probiotics. This study highlights that incorporating anti-inflammatory foods can benefit the health and well-being of RA patients. Dietary modification may serve as a supportive approach alongside conventional treatments, helping patients improve both physical and mental aspects of their condition and achieve a better quality of life.",
+      "corpusId": 285398896,
+      "url": "https://api.semanticscholar.org/CorpusId:285398896",
+      "pubmed_id": "41683339",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/nu18030517",
+        "matched_title": "Impact of Nutritional Diet Therapy on Rheumatoid Arthritis Disease Activity.",
+        "matched_pubdate": "2026 Feb 3",
+        "matched_source": "Nutrients"
+      }
+    },
+    {
+      "title": "Increased Osteoblastic and Osteocytic in Vitro Cell Viability by Yerba Mate (Ilex paraguariensis)",
+      "authors": [
+        {
+          "name": "Laureana Villarreal",
+          "id": "2305917473"
+        },
+        {
+          "name": "Natasha Sanz",
+          "id": "2217011550"
+        },
+        {
+          "name": "Florencia Buiatti Fagalde",
+          "id": "2306041382"
+        },
+        {
+          "name": "Florencia D’Andrea",
+          "id": "2306033793"
+        },
+        {
+          "name": "M. Lombarte",
+          "id": "2687030"
+        },
+        {
+          "name": "M. Rico",
+          "id": "153207396"
+        },
+        {
+          "name": "V. Rozados",
+          "id": "4444155"
+        },
+        {
+          "name": "O. Scharovsky",
+          "id": "48498663"
+        },
+        {
+          "name": "Lilian I. Plotkin",
+          "id": "2279131440"
+        },
+        {
+          "name": "V. D. Di Loreto",
+          "id": "5884076"
+        },
+        {
+          "name": "L. R. Brun",
+          "id": "2306042604"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Bone Metabolism",
+      "score": 0.4379088155502753,
+      "abstract": "Background Yerba mate (YM, Ilex paraguariensis) consumption beneficially affects the bones. However, whether YM components exert their effect on bone cells directly remains elusive. Methods We evaluated how main YM components affect osteoblastic (MC3T3-E1) and osteocytic (MLO-Y4) cells in vitro when administered separately or in an aqueous extract. MC3T3-E1 and MLO-Y4 cells were exposed to three different experimental conditions: (1) Caffeine, chlorogenic acid, and their combinations; (2) Caffeine, rutin, and their combinations; (3) Aqueous YM extract. Results All polyphenol and caffeine concentrations as well as that of their tested combinations significantly increased MC3T3-E1 cell viability from 16.6% to 34.8% compared to the control. In MLO-Y4 cells, the lowest rutin and the two highest caffeine concentrations significantly increased cell viability by 11.9, 14.9, and 13.7%, respectively. While rutin and caffeine combinations tended to increase MLO-Y4 cell viability, different chlorogenic acid and caffeine combinations did not affect it. Finally, the aqueous YM extract significantly increased MLO-Y4, MC3T3-E1, and differentiated MC3T3-E1 cell viability compared to the control without treatment. Conclusions YM components (rutin, chlorogenic acid, and caffeine) positively affected bone cells, mainly pre-osteoblast cells. Moreover, the aqueous YM extract significantly increased MLO-Y4, MC3T3-E1, and differentiated MC3T3-E1 cell viabilities indicating an additional relevant nutritional property of YM infusion. Further studies would be required to elucidate the underlying effector mechanism of YM on the bones and its relationship with previously described in vivo positive effects.",
+      "corpusId": 270431695,
+      "url": "https://api.semanticscholar.org/CorpusId:270431695",
+      "pubmed_id": "38886968",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.11005/jbm.2024.31.2.101",
+        "matched_title": "Increased Osteoblastic and Osteocytic in Vitro Cell Viability by Yerba Mate (Ilex paraguariensis).",
+        "matched_pubdate": "2024 May",
+        "matched_source": "J Bone Metab"
+      }
+    },
+    {
+      "title": "Phytochemical composition and bioactivities of hawthorn (Crataegus spp.): review of recent research advances",
+      "authors": [
+        {
+          "name": "P. Venskutonis",
+          "id": "144734759"
+        }
+      ],
+      "year": 2018,
+      "venue": "Journal of Food Bioactives",
+      "score": 0.4237072515072512,
+      "abstract": "Hawthorn (Crataegus spp.) is one of the most famous plants which has been used as natural medicine and nutraceutical. Its phytochemical composition, bioactive compounds and health benefits have been intensively studied and hawthorn preparations may be recognized as classical natural products for cardiovascular health. Polyphenolic compounds of different hawthorn anatomical parts as well as their extracts have been the focus of a majority of these studies, although various other classes of natural health promoting constituents have also been isolated, identified and characterized. Regardless, numerous published reports have particularly focused on the activity mechanisms which are very important for supporting various health benefits. This review summarizes the most recent studies on hawthorn, mainly published since 2015. Search of different databases indicates that approximately 200 publications, which are relevant to phytochemistry and health benefits of Crataegus spp., have appeared since then, most of them have not been included in the existing reviews.",
+      "corpusId": 91692067,
+      "url": "https://api.semanticscholar.org/CorpusId:91692067",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Platelet-Released Growth Factors Modulate the Secretion of Cytokines in Synoviocytes under Inflammatory Joint Disease",
+      "authors": [
+        {
+          "name": "M. Tohidnezhad",
+          "id": "6424515"
+        },
+        {
+          "name": "A. Bayer",
+          "id": "3118314"
+        },
+        {
+          "name": "B. Rasuo",
+          "id": "31414264"
+        },
+        {
+          "name": "J. Hock",
+          "id": "36837831"
+        },
+        {
+          "name": "N. Kweider",
+          "id": "4118976"
+        },
+        {
+          "name": "A. Fragoulis",
+          "id": "49148997"
+        },
+        {
+          "name": "T. Sönmez",
+          "id": "5984597"
+        },
+        {
+          "name": "H. Jahr",
+          "id": "13902159"
+        },
+        {
+          "name": "T. Pufe",
+          "id": "6121016"
+        },
+        {
+          "name": "S. Lippross",
+          "id": "5139876"
+        }
+      ],
+      "year": 2017,
+      "venue": "Mediators of Inflammation",
+      "score": 0.4027041827124372,
+      "abstract": "The etiology and pathogenesis of rheumatoid arthritis (RA) are marked by a complex interplay of various cell populations and is mediated by different signaling pathways. Traditionally, therapies have primarily focused on pain relief, reducing inflammation and the recovery of joint function. More recently, however, researchers have discussed the therapeutic efficacy of autologous platelet-rich plasma (PRP). The main objective of this work is to examine the influences of platelet-released growth factor (PRGF) on human synoviocytes under inflammatory conditions. Additionally, it is checked to which extend treatment with platelet concentrate influences the release of cytokines form synoviocytes. For this purpose, an in vitro RA model was created by stimulating the cells with the TNF-α. The release of cytokines was measured by ELISA. The cytokine gene expression was analyzed by real-time PCR. It has been observed that the stimulation concentration of 10 ng/ml TNF-α resulted in a significantly increased endogenous secretion and gene expression of IL-6 and TNF-α. The anti-inflammatory effect of PRGF could be confirmed through significant reduction of TNF-α and IL-1β. An induced inflammatory condition seems to cause PRGF to inhibit the release of proinflammatory cytokines. Further study is required to understand the exact effect mechanism of PRGF on synoviocytes.",
+      "corpusId": 20987217,
+      "url": "https://api.semanticscholar.org/CorpusId:20987217",
+      "pubmed_id": "29348703",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2017/1046438",
+        "matched_title": "Platelet-Released Growth Factors Modulate the Secretion of Cytokines in Synoviocytes under Inflammatory Joint Disease.",
+        "matched_pubdate": "2017",
+        "matched_source": "Mediators Inflamm"
+      }
+    },
+    {
+      "title": "Molecular Targets of Oxidative Stress: Focus on the Nrf2 Signaling Pathway in Health and Disease",
+      "authors": [
+        {
+          "name": "M. Bonay",
+          "id": "2282376045"
+        }
+      ],
+      "year": 2024,
+      "venue": "Antioxidants",
+      "score": 0.3917060114441812,
+      "abstract": "Oxidative stress, known to increase the risk of multiple metabolic and chronic disorders or cancer development, is defined as an imbalance between the production of reactive oxygen species (ROS) and the capacity of antioxidants to counteract the deleterious effects of oxidants [...].",
+      "corpusId": 267979693,
+      "url": "https://api.semanticscholar.org/CorpusId:267979693",
+      "pubmed_id": "38539795",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/antiox13030262",
+        "matched_title": "Molecular Targets of Oxidative Stress: Focus on the Nrf2 Signaling Pathway in Health and Disease.",
+        "matched_pubdate": "2024 Feb 21",
+        "matched_source": "Antioxidants (Basel)"
+      }
+    },
+    {
+      "title": "Raspberry protective role in inflammatory diseases: An overview",
+      "authors": [
+        {
+          "name": "Priyanka Arya",
+          "id": "2296753502"
+        },
+        {
+          "name": "V. Sharma",
+          "id": "2340942469"
+        },
+        {
+          "name": "Priyanka Singh",
+          "id": "2297010100"
+        },
+        {
+          "name": "Rahul Sagar",
+          "id": "2296752968"
+        },
+        {
+          "name": "Surabhi Thapliyal",
+          "id": "2019310232"
+        },
+        {
+          "name": "Manu Sharma",
+          "id": "2376518100"
+        }
+      ],
+      "year": 2026,
+      "venue": "Iranian Journal of Basic Medical Sciences",
+      "score": 0.3908159174561905,
+      "abstract": "Inflammation is a natural immune response triggered by multiple factors such as pathogens, damaged cells, and toxic substances. These triggers can lead to both acute and chronic inflammatory reactions in different tissues, contributing to the development of several inflammatory disorders, including cardiovascular diseases, neuroinflammation, arthritis, and cancer. Both infectious and non-infectious stimuli activate immune cells and initiate critical inflammatory signaling pathways. Raspberries (Rubus idaeus) are abundant in bioactive constituents, especially polyphenols like anthocyanins, flavanols, phenolic acids, urolithin A, and ellagic acid, all of which possess notable anti-inflammatory and anti-oxidant activities. These compounds have been shown to regulate various inflammatory signaling pathways, including MAPKs, NF-κB, PI3K/Akt, AP-1, IL-6, TNF-α, IL-1β, CD40, nitric oxide (NO), caspases, and the JAK-STAT pathway. Studies have emphasized their broad pharmacological effects, such as anti-inflammatory, anti-oxidant, hepatoprotective, cardioprotective, gastroprotective, anti-obesity, skin depigmenting, and bone-regenerative properties. This review emphasizes mechanistic insights into raspberries’ protective roles in managing inflammatory-related disorders, particularly cardiovascular diseases, neurodegenerative conditions, and cancer, and highlights their therapeutic potential.",
+      "corpusId": 285282096,
+      "url": "https://api.semanticscholar.org/CorpusId:285282096",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "A Clinical Review of the Connections Between Diabetes Mellitus, Periodontal Disease, and Cardiovascular Pathologies",
+      "authors": [
+        {
+          "name": "O. Țica",
+          "id": "38606957"
+        },
+        {
+          "name": "Ioana Romanul",
+          "id": "2336440329"
+        },
+        {
+          "name": "Gabriela Ciavoi",
+          "id": "52170419"
+        },
+        {
+          "name": "V. Pantea",
+          "id": "116850623"
+        },
+        {
+          "name": "Ioana Scrobotă",
+          "id": "11015049"
+        },
+        {
+          "name": "Lucian-Roman Șipoș",
+          "id": "2117502599"
+        },
+        {
+          "name": "C. Daina",
+          "id": "2377087559"
+        },
+        {
+          "name": "Ovidiu Țica",
+          "id": "79686308"
+        }
+      ],
+      "year": 2025,
+      "venue": "Biomedicines",
+      "score": 0.38898821103731046,
+      "abstract": "Background: Diabetes mellitus (DM), periodontal disease (PD), and cardiovascular disease (CVD) are highly prevalent global health conditions with overlapping pathophysiological mechanisms. Emerging evidence suggests a bidirectional and synergistic relationship among them, driven by chronic inflammation, immune dysregulation, oxidative stress, and microbial dysbiosis. Objective: This review synthesizes current literature on the interconnectedness of DM, PD, and CVD, emphasizing shared molecular pathways, clinical implications, and opportunities for integrated management. Methods: A systematic review and narrative synthesis of recent clinical trials, observational studies, and multi-omics investigations was conducted to explore the mechanisms linking these three conditions. A structured literature search was performed across PubMed, Scopus, and Web of Science from database inception until 30 June 2025. Key findings were contextualized within systems biology, precision medicine, and real-world clinical strategies. Results: DM exacerbates periodontal inflammation and accelerates tissue destruction via hyperglycemia-induced inflammatory mediators, while periodontitis worsens glycemic control and insulin resistance. Both conditions independently elevate cardiovascular risk, and their co-occurrence significantly amplifies the incidence of adverse cardiovascular events. Shared biomarkers such as Interleukin (IL)-6, Tumor Necrosis Factor (TNF)-α, and CRP, as well as overlapping genetic and epigenetic signatures, underscore a common inflammatory axis. Periodontal therapy has demonstrated modest but meaningful benefits on glycemic control and endothelial function, while cardiometabolic therapies (e.g., statins, Glucagon-Like Peptide (GLP-1) receptor agonists, SGLT2 inhibitors) show potential to improve periodontal outcomes. Probiotics, microbiome-targeted therapies, and AI-based risk models are emerging as future tools. Conclusions: DM, PD, and CVD form a mutually reinforcing triad mediated by systemic inflammation and metabolic dysregulation. Integrated, multidisciplinary care models and precision health strategies are essential to address this inflammatory burden and improve long-term outcomes. Further large-scale interventional trials and mechanistic human studies are needed to establish causal links and optimize combined therapeutic approaches.",
+      "corpusId": 281557735,
+      "url": "https://api.semanticscholar.org/CorpusId:281557735",
+      "pubmed_id": "41007869",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/biomedicines13092309",
+        "matched_title": "A Clinical Review of the Connections Between Diabetes Mellitus, Periodontal Disease, and Cardiovascular Pathologies.",
+        "matched_pubdate": "2025 Sep 20",
+        "matched_source": "Biomedicines"
+      }
+    },
+    {
+      "title": "A Review of Antioxidant Activity, Anti‐Inflammatory Properties, Apoptosis‐Regulatory Effects, and Immune System Modulation of Juglans regia L. (Walnut)",
+      "authors": [
+        {
+          "name": "Mahboobeh Ghasemzadeh Rahbardar",
+          "id": "13828901"
+        },
+        {
+          "name": "Mostafa Rashki",
+          "id": "2337924399"
+        },
+        {
+          "name": "M. Boskabady",
+          "id": "144977526"
+        }
+      ],
+      "year": 2025,
+      "venue": "Food Science & Nutrition",
+      "score": 0.38850852382543977,
+      "abstract": "ABSTRACT The search for natural sources of antioxidants, anti‐inflammatory, apoptosis‐regulatory compounds, and immunomodulators has gained attention in recent years due to their potential therapeutic benefits in a variety of disorders. Juglans regia L. ( J. regia L.) or walnut has been identified as a promising candidate, with numerous studies indicating its advantageous effects on human health. This review aims to provide a comprehensive overview of the antioxidant, anti‐inflammatory, apoptosis‐regulatory, and immunomodulatory properties of J. regia L. An extensive literature review was conducted using electronic databases to find relevant research on the effects of J. regia L. on oxidative stress, inflammation, apoptosis, and immune modulation. The search encompassed articles published up to August 2024, and in vitro, in vivo, and clinical trials were included. Walnut possesses potent antioxidant activity, attributed to its rich content of polyphenols, flavonoids, and other bioactive compounds. These components have been demonstrated to scavenge free radicals, alleviate oxidative stress, and prevent cellular damage. J. regia L. inhibits pro‐inflammatory mediators and pathways, including cytokines, cyclooxygenase enzymes, and NF‐κB activation. It also exhibits apoptosis‐regulatory properties, potentially influencing programmed cell death pathways. Furthermore, walnut has immunomodulatory properties that regulate immune cell function, modulate cytokine production, and enhance immunological responses. J. regia L. represents a valuable natural source of antioxidants, anti‐inflammatory agents, apoptosis‐regulatory agents, and immunomodulators. The walnut's rich phytochemical profile contributes to its therapeutic potential in combating oxidative stress and inflammation, regulating apoptosis and immune responses. More research is needed to understand the underlying mechanisms and maximize the use of walnut‐based therapies for the prevention and treatment of a variety of disorders linked to oxidative damage, inflammation, apoptosis, and immunological dysregulation.",
+      "corpusId": 282689459,
+      "url": "https://api.semanticscholar.org/CorpusId:282689459",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Antioxidant Effects of Aqueous Bidens pilosa in Fructose-Fed Rats",
+      "authors": [
+        {
+          "name": "Umamaheswara Raju",
+          "id": "2136467509"
+        },
+        {
+          "name": "S. Shanmugapriyan",
+          "id": "2393778295"
+        },
+        {
+          "name": "T. Chakradhar",
+          "id": "11423067"
+        },
+        {
+          "name": "S. Jaikumar",
+          "id": "2393779262"
+        },
+        {
+          "name": "S. Babu",
+          "id": "2300497508"
+        },
+        {
+          "name": "S. Natarajan",
+          "id": "2241369883"
+        },
+        {
+          "name": "Muninathan",
+          "id": "2400065576"
+        },
+        {
+          "name": "S. Umamaheswara",
+          "id": "2400065584"
+        }
+      ],
+      "year": 2025,
+      "venue": "Cureus",
+      "score": 0.38821014812986776,
+      "abstract": "This narrative review synthesizes preclinical evidence on the antioxidant potential of simple water extracts from the aerial parts of Bidens pilosa in rodent models exposed to chronic fructose feeding. It examines study designs, aqueous extract preparation, and outcome measures, with emphasis on redox and inflammatory endpoints. Across reports, aqueous B. pilosa reduces lipid peroxidation, restores endogenous antioxidant defenses (superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPx), and reduced glutathione (GSH)), and improves histopathology in organs affected by diet-induced stress. These effects coincide with favorable changes in metabolic and inflammatory markers, including attenuation of nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB) and tumor necrosis factor-alpha (TNF-α) signaling, consistent with broad cytoprotective activity in the liver and kidney. However, the coherence of the evidence is limited by methodological heterogeneity, including variable extract composition and dosing, uneven biomarker panels, and a limited mechanistic depth for aqueous fractions compared with organic extracts. Few studies link quantified phytochemistry with in vivo exposure-response, and pharmacokinetic data remain scarce. Clinical translation is currently absent. Despite these gaps, the translational implications are clear. The fructose-fed model provides a pragmatic, human-relevant platform for screening antioxidant interventions. Focusing on aqueous extracts reflects real-world preparation practices and supports efforts to develop standardized, quality-assured products. Priorities include (i) consistent phytochemical profiling with batch-release markers, (ii) exposure-effect study designs integrating oxidative and inflammatory endpoints, (iii) formulation strategies to enhance bioavailability, and (iv) phased human studies in metabolic-risk cohorts incorporating safety, pharmacokinetic, and target-engagement assessments. In summary, aqueous B. pilosa shows reproducible antioxidant and cytoprotective activity under fructose-induced stress, supporting a structured path toward standardization and early clinical evaluation.",
+      "corpusId": 283217512,
+      "url": "https://api.semanticscholar.org/CorpusId:283217512",
+      "pubmed_id": "41431509",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.7759/cureus.97222",
+        "matched_title": "Antioxidant Effects of Aqueous Bidens pilosa in Fructose-Fed Rats.",
+        "matched_pubdate": "2025 Nov",
+        "matched_source": "Cureus"
+      }
+    },
+    {
+      "title": "Pharmacological and Therapeutic Potential of Chrysopogon zizanioides (Vetiver): A Comprehensive Review of Its Medicinal Applications and Future Prospects",
+      "authors": [
+        {
+          "name": "Conjeevaram J Gunasekar",
+          "id": "2382467282"
+        },
+        {
+          "name": "Amin F. Majdalawieh",
+          "id": "2327145607"
+        },
+        {
+          "name": "Imad A. Abu-Yousef",
+          "id": "2311483701"
+        },
+        {
+          "name": "Sham A Al Refaai",
+          "id": "2382467800"
+        }
+      ],
+      "year": 2025,
+      "venue": "Biomolecules",
+      "score": 0.3879606437623543,
+      "abstract": "Chrysopogon zizanioides (Linn.) Nash, commonly known as vetiver, has been an integral component of traditional medicinal systems across India and Asia for centuries. The roots and essential oils of this aromatic grass have been widely utilized for their anti-inflammatory, analgesic, anticancer, antioxidant, antimicrobial, and wound-healing properties. Recent scientific investigations have provided substantial evidence supporting these traditional claims, revealing a diverse array of bioactive phytochemicals with significant pharmacological potential. Preclinical studies have demonstrated the efficacy of C. zizanioides extracts in mitigating inflammation, alleviating pain, combating microbial infections, and even exhibiting anticancer and antidiabetic effects. This review provides a comprehensive analysis of the current literature on the therapeutic properties of C. zizanioides, summarizing findings from in vitro assays, cell line studies, animal models, and available clinical studies. The bioactive constituents responsible for these pharmacological effects, including essential oil components and isolated fractions, are discussed, along with their proposed mechanisms of action. These mechanisms involve modulation of oxidative stress, inflammatory pathways, microbial proliferation, and pain perception. Additionally, current research limitations, gaps in knowledge, and future directions for investigating medicinal applications of C. zizanioides are explored. Emerging scientific evidence increasingly validates traditional claims regarding the healing properties of this versatile medicinal grass.",
+      "corpusId": 281612797,
+      "url": "https://api.semanticscholar.org/CorpusId:281612797",
+      "pubmed_id": "41008619",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/biom15091312",
+        "matched_title": "Pharmacological and Therapeutic Potential of Chrysopogon zizanioides (Vetiver): A Comprehensive Review of Its Medicinal Applications and Future Prospects.",
+        "matched_pubdate": "2025 Sep 12",
+        "matched_source": "Biomolecules"
+      }
+    },
+    {
+      "title": "Phytochemicals as Modulators of Paraoxonase-1 in Health and Diseases",
+      "authors": [
+        {
+          "name": "Z. Arab",
+          "id": "102253508"
+        },
+        {
+          "name": "D. Khayatan",
+          "id": "2125722853"
+        },
+        {
+          "name": "Seyed Mehrad Razavi",
+          "id": "2126884445"
+        },
+        {
+          "name": "Kimia Zare",
+          "id": "2111995481"
+        },
+        {
+          "name": "Elnaz Kheradkhah",
+          "id": "2174099667"
+        },
+        {
+          "name": "S. Momtaz",
+          "id": "5420945"
+        },
+        {
+          "name": "G. Ferretti",
+          "id": "2134638566"
+        },
+        {
+          "name": "T. Bacchetti",
+          "id": "5153846"
+        },
+        {
+          "name": "T. Sathyapalan",
+          "id": "6337065"
+        },
+        {
+          "name": "S. Emami",
+          "id": "144047270"
+        },
+        {
+          "name": "A. Abdolghaffari",
+          "id": "38185485"
+        },
+        {
+          "name": "A. Sahebkar",
+          "id": "1619133511"
+        }
+      ],
+      "year": 2022,
+      "venue": "Antioxidants",
+      "score": 0.38404698811425475,
+      "abstract": "Chronic diseases such as cardiovascular disease (CVD), atherosclerosis, chronic liver disease, and neurodegenerative diseases are major causes of mortality. These diseases have gained much attention due to their complications, and therefore novel approaches with fewer side effects are an important research topic. Free radicals and oxidative stress are involved in the molecular mechanisms of several diseases. Antioxidants can scavenge free radicals and mitigate their adverse effects. One of the most important antioxidant enzymes are paraoxonases (PONs). These enzymes perform a wide range of physiological activities ranging from drug metabolism to detoxification of neuroleptics. Paraoxonase-1 (PON1) is produced in the liver and then transferred to the bloodstream. It has been demonstrated that PON1 could have beneficial effects in numerous diseases such as atherosclerosis, CVD, diabetes mellitus, and neurodegenerative diseases by modulating relevant signalling pathways involved in inflammation and oxidative stress. These pathways include peroxisome proliferator-activated receptor gamma (PPAR-γ) and protein kinase B/nuclear factor kappa-light-chain-enhancer of activated B cells (AKT/NF-κB)-dependent signalling pathways. Increasing PON1 could potentially have protective effects and reduce the incidence of various diseases by modulating these signalling pathways. Several studies have reported that dietary factors are able to modulate PON1 expression and activity. This review aimed at summarizing the state of the art on the effects of dietary phytochemicals on PON1 enzyme activity and the relevant signalling pathways in different diseases.",
+      "corpusId": 250126192,
+      "url": "https://api.semanticscholar.org/CorpusId:250126192",
+      "pubmed_id": "35883764",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/antiox11071273",
+        "matched_title": "Phytochemicals as Modulators of Paraoxonase-1 in Health and Diseases.",
+        "matched_pubdate": "2022 Jun 27",
+        "matched_source": "Antioxidants (Basel)"
+      }
+    },
+    {
+      "title": "Taxillus chinensis (DC.) Danser: a comprehensive review on botany, traditional uses, phytochemistry, pharmacology, and toxicology",
+      "authors": [
+        {
+          "name": "M. Qin",
+          "id": "40648690"
+        },
+        {
+          "name": "Qianqian Huang",
+          "id": "1481738022"
+        },
+        {
+          "name": "Xin Yang",
+          "id": "2150441763"
+        },
+        {
+          "name": "Lu Yu",
+          "id": "145415047"
+        },
+        {
+          "name": "Yong-Fu Tang",
+          "id": "2111322205"
+        },
+        {
+          "name": "Chunxiang Zhang",
+          "id": "2155137098"
+        },
+        {
+          "name": "Da-Lian Qin",
+          "id": "39419613"
+        },
+        {
+          "name": "Wenjun Zou",
+          "id": "5375724"
+        },
+        {
+          "name": "Junzhu Deng",
+          "id": "2191052332"
+        },
+        {
+          "name": "Jian Liu",
+          "id": "2150167877"
+        },
+        {
+          "name": "Haiyang Hu",
+          "id": "2152902245"
+        },
+        {
+          "name": "Long Wang",
+          "id": "2111541931"
+        },
+        {
+          "name": "Anguo Wu",
+          "id": "49863291"
+        },
+        {
+          "name": "Jianming Wu",
+          "id": "2144131734"
+        }
+      ],
+      "year": 2022,
+      "venue": "Chinese Medicine",
+      "score": 0.37417640287950493,
+      "abstract": "Background Taxillus chinensis (DC.) Danser ( T. chinensis ), known as “Sangjisheng” in Chinese, is a member of the family Loranthaceae , with the traditional functions of “dispelling wind dampness, strengthening bones and muscles, and preventing miscarriage”. Since Eastern Han dynasty, it has been used for the treatment of rheumatoid arthritis, arthralgia, threatened abortion, and hypertension. Nowadays, T. chinensis is included in the 2020 Edition of the Chinese Pharmacopoeia as Taxilli Herba. The purpose of this review is to summarize the latest research on T. chinensis in recent years, and make critical comments, so as to provide reference for the clinical application and modern research of T. chinensis . Main body In this review, we summarize the botany, traditional uses, and research advances in the phytochemistry and pharmacological effects of T. chinensis . Its toxicity has also been discussed. The published literature on current pharmacological and toxicological data has also been assessed. To date, approximately 110 compounds, including flavonoids, phenolic acids, phenylpropanoids, tannins, glycosides, amino acids, and nucleosides, have been identified in T. chinensis . Flavonoids are considered the most vital bioactive ingredients in T. chinensis . Pharmacological studies have demonstrated that T. chinensis possesses anti-inflammatory, antioxidant, anticancer, antimicrobial, antiviral, diuretic, antihypertensive, antihyperglycemic, and other properties. Conclusion Currently, research on T. chinensis is in the preliminary stages, and further research is required to understand the active compounds present and mechanisms of action. We hope that this comprehensive review of T. chinensis will serve as a background for further research.",
+      "corpusId": 254368029,
+      "url": "https://api.semanticscholar.org/CorpusId:254368029",
+      "pubmed_id": "36482376",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s13020-022-00694-5",
+        "matched_title": "Taxillus chinensis (DC.) Danser: a comprehensive review on botany, traditional uses, phytochemistry, pharmacology, and toxicology.",
+        "matched_pubdate": "2022 Dec 8",
+        "matched_source": "Chin Med"
+      }
+    },
+    {
+      "title": "Biological Activity and Pharmacological Application of Pectic Polysaccharides: A Review",
+      "authors": [
+        {
+          "name": "S. Minzanova",
+          "id": "14092721"
+        },
+        {
+          "name": "V. Mironov",
+          "id": "8634308"
+        },
+        {
+          "name": "D. Arkhipova",
+          "id": "49532540"
+        },
+        {
+          "name": "A. V. Khabibullina",
+          "id": "89776079"
+        },
+        {
+          "name": "L. Mironova",
+          "id": "108600011"
+        },
+        {
+          "name": "Y. M. Zakirova",
+          "id": "2070921869"
+        },
+        {
+          "name": "V. A. Milyukov",
+          "id": "2101013081"
+        }
+      ],
+      "year": 2018,
+      "venue": "Polymers",
+      "score": 0.36505723367389914,
+      "abstract": "Pectin is a polymer with a core of alternating α-1,4-linked d-galacturonic acid and α-1,2-l-rhamnose units, as well as a variety of neutral sugars such as arabinose, galactose, and lesser amounts of other sugars. Currently, native pectins have been compared to modified ones due to the development of natural medicines and health products. In this review, the results of a study of the bioactivity of pectic polysaccharides, including its various pharmacological applications, such as its immunoregulatory, anti-inflammatory, hypoglycemic, antibacterial, antioxidant and antitumor activities, have been summarized. The potential of pectins to contribute to the enhancement of drug delivery systems has been observed.",
+      "corpusId": 91186255,
+      "url": "https://api.semanticscholar.org/CorpusId:91186255",
+      "pubmed_id": "30961332",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/polym10121407",
+        "matched_title": "Biological Activity and Pharmacological Application of Pectic Polysaccharides: A Review.",
+        "matched_pubdate": "2018 Dec 19",
+        "matched_source": "Polymers (Basel)"
+      }
+    },
+    {
+      "title": "Recent Advances on the Anti-Inflammatory and Antioxidant Properties of Red Grape Polyphenols: In Vitro and In Vivo Studies",
+      "authors": [
+        {
+          "name": "Thea Magrone",
+          "id": "3560529"
+        },
+        {
+          "name": "M. Magrone",
+          "id": "9490721"
+        },
+        {
+          "name": "M. Russo",
+          "id": "4382335"
+        },
+        {
+          "name": "E. Jirillo",
+          "id": "4614782"
+        }
+      ],
+      "year": 2019,
+      "venue": "Antioxidants",
+      "score": 0.3234950611599587,
+      "abstract": "In this review, special emphasis will be placed on red grape polyphenols for their antioxidant and anti-inflammatory activities. Therefore, their capacity to inhibit major pathways responsible for activation of oxidative systems and expression and release of proinflammatory cytokines and chemokines will be discussed. Furthermore, regulation of immune cells by polyphenols will be illustrated with special reference to the activation of T regulatory cells which support a tolerogenic pathway at intestinal level. Additionally, the effects of red grape polyphenols will be analyzed in obesity, as a low-grade systemic inflammation. Also, possible modifications of inflammatory bowel disease biomarkers and clinical course have been studied upon polyphenol administration, either in animal models or in clinical trials. Moreover, the ability of polyphenols to cross the blood–brain barrier has been exploited to investigate their neuroprotective properties. In cancer, polyphenols seem to exert several beneficial effects, even if conflicting data are reported about their influence on T regulatory cells. Finally, the effects of polyphenols have been evaluated in experimental models of allergy and autoimmune diseases. Conclusively, red grape polyphenols are endowed with a great antioxidant and anti-inflammatory potential but some issues, such as polyphenol bioavailability, activity of metabolites, and interaction with microbiota, deserve deeper studies.",
+      "corpusId": 210042116,
+      "url": "https://api.semanticscholar.org/CorpusId:210042116",
+      "pubmed_id": "31906123",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/antiox9010035",
+        "matched_title": "Recent Advances on the Anti-Inflammatory and Antioxidant Properties of Red Grape Polyphenols: In Vitro and In Vivo Studies.",
+        "matched_pubdate": "2019 Dec 31",
+        "matched_source": "Antioxidants (Basel)"
+      }
+    },
+    {
+      "title": "Ilex paraguariensis Promotes Orofacial Pain Relief After Formalin Injection: Involvement of Noradrenergic Pathway",
+      "authors": [
+        {
+          "name": "Eudislaine Fonseca de Carvalho",
+          "id": "14283329"
+        },
+        {
+          "name": "Simone Kobe de Oliveira",
+          "id": "12804638"
+        },
+        {
+          "name": "Viviane Koepp Nardi",
+          "id": "2105856665"
+        },
+        {
+          "name": "Tathiana Carla Gelinski",
+          "id": "2102532375"
+        },
+        {
+          "name": "M. Bortoluzzi",
+          "id": "1893837"
+        },
+        {
+          "name": "M. Maraschin",
+          "id": "144326429"
+        },
+        {
+          "name": "G. M. Nardi",
+          "id": "37162664"
+        }
+      ],
+      "year": 2016,
+      "venue": "Pharmacognosy Research",
+      "score": 0.3092660483714982,
+      "abstract": "Background: Drinking mate or chimarrã, a hot infusion of Ilex paraguariensis (ILEX) leaves, is a common habit in Southern South America that has a social and almost ritualistic role. It has been used as a stimulant beverage in South America and analgesic in regions of Argentina for treatment of headache and others painful inflammatory conditions such as arthritis and rheumatism. Objective: The aim of this study was to evaluate the pharmacological activity of I. paraguariensis infusion (ILEX) on orofacial nociception model induced by formalin, and study its mechanism of action. Materials and Methods: The analgesic effect of ILEX was assessed through writhing test, paw formalin test, paw edema induced by carrageenan, and orofacial pain induced by formalin. To study the action mechanism of ILEX, opioidergic, dopaminergic, nitrergic, and adrenergic pathways were investigated. Results: The high-performance liquid chromatography analysis of ILEX infusion revealed caffeine and theobromine. The treatment with ILEX reduced the number of writhing. However, it was effective neither in the formalin paw test nor in the paw edema induced by carrageenan. Different from formalin paw test, ILEX was able to reduce the orofacial reactivity to formalin in 31.8% (70.4 ± 2.5 s; first phase), and 20% (127.3 ± 18.9 s; second phase). The analgesic effect of ILEX results from the modulation of noradrenergic pathways since prazosin (α1-adrenoceptor antagonist, 0.15 mg/kg; intraperitoneal) reversed the analgesic effect of ILEX. Conclusions: The present report demonstrates that analgesic effect of ILEX in orofacial formalin test is due mainly to modulation of noradrenergic pathways. Abbreviation Used: ILEX: Infusion of Ilex paraguariensis, NSAIDs: Nonsteroidal anti-inflammatory drugs, L-NOARG: L-NG-nitro-arginine, UV: Ultraviolet, i.p.: Intraperitoneal, NOS: Nitric Oxide Synthase, ANOVA: Analysis of variance, S.E.M.: Standard error of mean, HPLC: High-performance liquid chromatography, NO: Nitric Oxide, v.o.: Oral route, DCQ: dicaffeoylquinic acid, BMS: Burning mouth syndrome, PBS: Phosphate-buffered saline.",
+      "corpusId": 20078058,
+      "url": "https://doi.org/10.4103/0974-8490.178643",
+      "pubmed_id": "27114689",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.4103/0974-8490.178643",
+        "matched_title": "Ilex paraguariensis Promotes Orofacial Pain Relief After Formalin Injection: Involvement of Noradrenergic Pathway.",
+        "matched_pubdate": "2016 Mar",
+        "matched_source": "Pharmacognosy Res"
+      }
+    }
+  ]
+}

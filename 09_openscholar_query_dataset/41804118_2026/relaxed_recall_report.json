@@ -1,0 +1,64 @@
+{
+  "target_dir": "public_release\\09_openscholar_query_dataset\\41804118_2026",
+  "gold_path": "05_test_data\\03_Psychiatry\\41804118_2026\\gold_pmids.json",
+  "fuzzy_threshold_same_year": 0.95,
+  "fuzzy_threshold_near_year": 0.98,
+  "reports": [
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41804118_2026\\papers_normal_with_pmid.json",
+      "paper_count": 47,
+      "gold_count": 8,
+      "tp_pmid_exact": 0,
+      "tp_title_year_exact_additional": 0,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 0,
+      "tp_relaxed_total": 0,
+      "recall_pmid_exact": 0.0,
+      "recall_strict": 0.0,
+      "recall_relaxed": 0.0,
+      "matched_pmids_pmid_exact": [],
+      "matched_pmids_strict": [],
+      "matched_pmids_relaxed": [],
+      "exact_title_year_details": [],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "8588535",
+        "8636920",
+        "10939423",
+        "11459379",
+        "15551723",
+        "16838089",
+        "19857378",
+        "28786331"
+      ]
+    },
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41804118_2026\\papers_deep_with_pmid.json",
+      "paper_count": 138,
+      "gold_count": 8,
+      "tp_pmid_exact": 0,
+      "tp_title_year_exact_additional": 0,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 0,
+      "tp_relaxed_total": 0,
+      "recall_pmid_exact": 0.0,
+      "recall_strict": 0.0,
+      "recall_relaxed": 0.0,
+      "matched_pmids_pmid_exact": [],
+      "matched_pmids_strict": [],
+      "matched_pmids_relaxed": [],
+      "exact_title_year_details": [],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "8588535",
+        "8636920",
+        "10939423",
+        "11459379",
+        "15551723",
+        "16838089",
+        "19857378",
+        "28786331"
+      ]
+    }
+  ]
+}

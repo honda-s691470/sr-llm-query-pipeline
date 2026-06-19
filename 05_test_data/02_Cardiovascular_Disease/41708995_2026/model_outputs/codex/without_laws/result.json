@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-13T10:26:57Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41708995_2026",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Brain Ischemia\"[Mesh] OR \"ischemic stroke\"[tiab] OR \"ischaemic stroke\"[tiab] OR \"acute ischemic stroke\"[tiab] OR \"acute ischaemic stroke\"[tiab] OR AIS[tiab] OR \"cerebral infarct*\"[tiab] OR \"brain infarct*\"[tiab]) AND (\"Biomarkers\"[Mesh] OR biomarker*[tiab] OR \"biological marker*\"[tiab] OR metabolite*[tiab] OR microRNA*[tiab] OR miRNA*[tiab] OR \"nucleic acid*\"[tiab] OR \"ribonucleic acid*\"[tiab] OR \"blood biomarker*\"[tiab] OR \"serum biomarker*\"[tiab] OR \"plasma biomarker*\"[tiab] OR \"fluid biomarker*\"[tiab] OR circulating[tiab]) AND (\"stroke mimic*\"[tiab] OR mimic*[tiab] OR \"differential diagnos*\"[tiab] OR differentiat*[tiab] OR distinguish*[tiab]) AND (meta-analysis[pt] OR \"systematic review\"[tiab] OR \"systematic literature review\"[tiab] OR meta-analy*[tiab] OR systematic[sb]) AND (english[lang] OR german[lang] OR dutch[lang] OR italian[lang] OR french[lang] OR spanish[lang] OR portuguese[lang])) NOT (\"animals\"[mh] NOT \"humans\"[mh])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260313_112516\\codex\\02_Cardiovascular_Disease\\41708995_2026\\without_laws"
+}

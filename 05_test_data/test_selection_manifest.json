@@ -1,0 +1,286 @@
+{
+  "generated_at": "2026-03-19T09:00:28Z",
+  "note": "Filtered to 27 prepared test papers. target_dir converted to relative paths for public release.",
+  "split_plans": {
+    "01_Rheumatoid_Arthritis": {
+      "training_papers": [
+        "40815363_2025",
+        "41108024_2025",
+        "41224700_2025"
+      ],
+      "test_papers": [
+        "40815363_2025",
+        "41108024_2025",
+        "41224700_2025",
+        "41470797_2025",
+        "41484688_2026",
+        "41505363_2026",
+        "41630847_2026"
+      ],
+      "split_source": "ra_hypothesis_targets_20260319_test_plus_training.json"
+    },
+    "02_Cardiovascular_Disease": {
+      "training_papers": [],
+      "test_papers": [
+        "41708995_2026",
+        "41709059_2026",
+        "41715180_2026",
+        "41720985_2026"
+      ],
+      "split_source": "cvd_hypothesis_targets_20260312_training_with_legacy.json"
+    },
+    "03_Psychiatry": {
+      "training_papers": [],
+      "test_papers": [
+        "41796365_2026",
+        "41802227_2026",
+        "41804118_2026"
+      ],
+      "split_source": "psy_test_split_20260313_excluding_41805737.json"
+    },
+    "04_Oncology": {
+      "training_papers": [
+        "41641734_2026",
+        "41770755_2026",
+        "41774244_2026"
+      ],
+      "test_papers": [
+        "41641734_2026",
+        "41770755_2026",
+        "41774244_2026",
+        "41781907_2026",
+        "41781990_2026",
+        "41792786_2026",
+        "41794963_2026"
+      ],
+      "split_source": "oncology_hypothesis_targets_20260319_test_plus_training.json"
+    },
+    "05_Infectious_Diseases": {
+      "training_papers": [],
+      "test_papers": [
+        "41792577_2026",
+        "41793737_2026",
+        "41796425_2026"
+      ],
+      "split_source": "infectious_hypothesis_targets_20260313_training_plus_41790564.json"
+    }
+  },
+  "prepared_test_papers": [
+    {
+      "domain_folder": "01_Rheumatoid_Arthritis",
+      "paper_folder": "40815363_2025",
+      "target_dir": "05_test_data/01_Rheumatoid_Arthritis/40815363_2025",
+      "gold_pmids_count": 15,
+      "human_query_length": 826,
+      "human_query_raw_length": 826,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "01_Rheumatoid_Arthritis",
+      "paper_folder": "41108024_2025",
+      "target_dir": "05_test_data/01_Rheumatoid_Arthritis/41108024_2025",
+      "gold_pmids_count": 26,
+      "human_query_length": 1037,
+      "human_query_raw_length": 1037,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "01_Rheumatoid_Arthritis",
+      "paper_folder": "41224700_2025",
+      "target_dir": "05_test_data/01_Rheumatoid_Arthritis/41224700_2025",
+      "gold_pmids_count": 12,
+      "human_query_length": 88,
+      "human_query_raw_length": 88,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "01_Rheumatoid_Arthritis",
+      "paper_folder": "41470797_2025",
+      "target_dir": "05_test_data/01_Rheumatoid_Arthritis/41470797_2025",
+      "gold_pmids_count": 21,
+      "human_query_length": 954,
+      "human_query_raw_length": 954,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "01_Rheumatoid_Arthritis",
+      "paper_folder": "41484688_2026",
+      "target_dir": "05_test_data/01_Rheumatoid_Arthritis/41484688_2026",
+      "gold_pmids_count": 17,
+      "human_query_length": 319,
+      "human_query_raw_length": 335,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "01_Rheumatoid_Arthritis",
+      "paper_folder": "41505363_2026",
+      "target_dir": "05_test_data/01_Rheumatoid_Arthritis/41505363_2026",
+      "gold_pmids_count": 18,
+      "human_query_length": 291,
+      "human_query_raw_length": 291,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "01_Rheumatoid_Arthritis",
+      "paper_folder": "41630847_2026",
+      "target_dir": "05_test_data/01_Rheumatoid_Arthritis/41630847_2026",
+      "gold_pmids_count": 12,
+      "human_query_length": 381,
+      "human_query_raw_length": 381,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "02_Cardiovascular_Disease",
+      "paper_folder": "41708995_2026",
+      "target_dir": "05_test_data/02_Cardiovascular_Disease/41708995_2026",
+      "gold_pmids_count": 27,
+      "human_query_length": 4921,
+      "human_query_raw_length": 4853,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "02_Cardiovascular_Disease",
+      "paper_folder": "41709059_2026",
+      "target_dir": "05_test_data/02_Cardiovascular_Disease/41709059_2026",
+      "gold_pmids_count": 20,
+      "human_query_length": 108,
+      "human_query_raw_length": 108,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "02_Cardiovascular_Disease",
+      "paper_folder": "41715180_2026",
+      "target_dir": "05_test_data/02_Cardiovascular_Disease/41715180_2026",
+      "gold_pmids_count": 44,
+      "human_query_length": 266,
+      "human_query_raw_length": 292,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "02_Cardiovascular_Disease",
+      "paper_folder": "41720985_2026",
+      "target_dir": "05_test_data/02_Cardiovascular_Disease/41720985_2026",
+      "gold_pmids_count": 25,
+      "human_query_length": 355,
+      "human_query_raw_length": 391,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "03_Psychiatry",
+      "paper_folder": "41796365_2026",
+      "target_dir": "05_test_data/03_Psychiatry/41796365_2026",
+      "gold_pmids_count": 9,
+      "human_query_length": 1139,
+      "human_query_raw_length": 1139,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "03_Psychiatry",
+      "paper_folder": "41802227_2026",
+      "target_dir": "05_test_data/03_Psychiatry/41802227_2026",
+      "gold_pmids_count": 38,
+      "human_query_length": 748,
+      "human_query_raw_length": 748,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "03_Psychiatry",
+      "paper_folder": "41804118_2026",
+      "target_dir": "05_test_data/03_Psychiatry/41804118_2026",
+      "gold_pmids_count": 8,
+      "human_query_length": 1658,
+      "human_query_raw_length": 1658,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "04_Oncology",
+      "paper_folder": "41641734_2026",
+      "target_dir": "05_test_data/04_Oncology/41641734_2026",
+      "gold_pmids_count": 54,
+      "human_query_length": 4705,
+      "human_query_raw_length": 4705,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "04_Oncology",
+      "paper_folder": "41770755_2026",
+      "target_dir": "05_test_data/04_Oncology/41770755_2026",
+      "gold_pmids_count": 12,
+      "human_query_length": 2534,
+      "human_query_raw_length": 2534,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "04_Oncology",
+      "paper_folder": "41774244_2026",
+      "target_dir": "05_test_data/04_Oncology/41774244_2026",
+      "gold_pmids_count": 19,
+      "human_query_length": 521,
+      "human_query_raw_length": 521,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "04_Oncology",
+      "paper_folder": "41781907_2026",
+      "target_dir": "05_test_data/04_Oncology/41781907_2026",
+      "gold_pmids_count": 54,
+      "human_query_length": 463,
+      "human_query_raw_length": 505,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "04_Oncology",
+      "paper_folder": "41781990_2026",
+      "target_dir": "05_test_data/04_Oncology/41781990_2026",
+      "gold_pmids_count": 10,
+      "human_query_length": 1288,
+      "human_query_raw_length": 1288,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "04_Oncology",
+      "paper_folder": "41792786_2026",
+      "target_dir": "05_test_data/04_Oncology/41792786_2026",
+      "gold_pmids_count": 20,
+      "human_query_length": 902,
+      "human_query_raw_length": 902,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "04_Oncology",
+      "paper_folder": "41794963_2026",
+      "target_dir": "05_test_data/04_Oncology/41794963_2026",
+      "gold_pmids_count": 16,
+      "human_query_length": 658,
+      "human_query_raw_length": 658,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "05_Infectious_Diseases",
+      "paper_folder": "41792577_2026",
+      "target_dir": "05_test_data/05_Infectious_Diseases/41792577_2026",
+      "gold_pmids_count": 26,
+      "human_query_length": 1031,
+      "human_query_raw_length": 1031,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "05_Infectious_Diseases",
+      "paper_folder": "41793737_2026",
+      "target_dir": "05_test_data/05_Infectious_Diseases/41793737_2026",
+      "gold_pmids_count": 25,
+      "human_query_length": 572,
+      "human_query_raw_length": 572,
+      "human_query_usable": true
+    },
+    {
+      "domain_folder": "05_Infectious_Diseases",
+      "paper_folder": "41796425_2026",
+      "target_dir": "05_test_data/05_Infectious_Diseases/41796425_2026",
+      "gold_pmids_count": 8,
+      "human_query_length": 376,
+      "human_query_raw_length": 376,
+      "human_query_usable": true
+    }
+  ]
+}

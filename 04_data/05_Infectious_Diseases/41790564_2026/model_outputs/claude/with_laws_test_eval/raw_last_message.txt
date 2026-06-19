@@ -1,0 +1,44 @@
+STEP 0 — Confirm paper identity
+target_name=41790564_2026 | topic=Observational evidence on the association between spirochaetal infection (T. pallidum, B. burgdorferi, Leptospira spp.) and neurodegenerative disease / cognitive impairment in adult humans.
+
+STEP 1 — Study design filter decision
+Inclusion criteria: "used an observational design (cross-sectional, cohort, or case-control; prospective or retrospective)."
+Count of distinct acceptable design types: cross-sectional, cohort (prospective + retrospective), case-control = 3+ types → STUDY_FILTER = OMIT.
+
+STEP 2 — Classify each inclusion criterion
+- "diagnosis or seropositivity of spirochaetal infection" → CORE: EXPOSURE/CONDITION (the infectious agent: spirochetes)
+- "assessed cognitive function, impairment, decline, or diagnoses such as Alzheimer's disease, Parkinson's disease, or other dementias" → CORE: CONDITION (neurodegenerative disease / cognitive impairment — this IS what the study is about, not a mere outcome measure)
+- "human studies in adult populations" → NON-CORE for separate AND block — folding adult/human into population context; however, PubMed default indexing covers human studies. No separate AND block needed to avoid recall loss.
+- "published, peer-reviewed original articles" → NON-CORE (not searchable as a Boolean field effectively without risking recall loss)
+- "written in English with full-text availability" → NON-CORE per DATE_LANGUAGE_GUARD: language restriction is stated but it applies only to retrieval/access, not to the study subject. Omit language filter to protect recall.
+- "Clinically acceptable infection diagnosis" (specific lab methods) → NON-CORE methodological criterion (screened at full-text)
+- "Cognitive impairment assessed with validated tools (MMSE, MoCA, CDR) or formal diagnostic criteria (DSM-5, ICD-11, NINCDS-ADRDA)" → NON-CORE outcome measure / methodological criterion (screened at full-text). The topic is cognitive impairment/neurodegeneration itself (CORE), not the specific measurement tool.
+- "observational design" → STUDY_FILTER = OMIT (multiple design types)
+
+STEP 3 — AND block budget check
+Planned: 2 AND blocks (EXPOSURE: spirochetes + CONDITION: neurodegeneration/cognitive impairment) → within budget.
+
+STEP 4 — Population/ethnicity structure check
+No ethnicity/nationality restriction. Not applicable.
+
+STEP 5 — Broad fallback floor check
+EXPOSURE block names specific organisms (Treponema pallidum, Borrelia burgdorferi, Leptospira spp.) → must include broad class "Spirochaetales"[Mesh] and spirochaet*/spirochet* alongside specific instances. Confirmed.
+CONDITION block names specific diseases (Alzheimer's, Parkinson's, dementia) → must include broad class "Neurodegenerative Diseases"[Mesh] and neurodegenerat*. Confirmed.
+MeSH PROTECTION RULE: both MeSH headings and tiab terms retained (not interchangeable).
+
+SELF-CHECK
+target_name: 41790564_2026
+topic: Spirochaetal infection and neurodegenerative disease/cognitive impairment in adults (observational studies)
+CORE blocks:
+  EXPOSURE: Spirochaetales[Mesh], spirochaet*, spirochet*, Treponema pallidum, Treponema[Mesh], syphilis, Syphilis[Mesh], Borrelia burgdorferi, Borrelia[Mesh], Lyme disease, Lyme Disease[Mesh], Leptospira[Mesh], leptospira*, leptospirosis
+  CONDITION: Neurodegenerative Diseases[Mesh], neurodegenerat*, Alzheimer Disease[Mesh], Alzheimer*, Parkinson Disease[Mesh], Parkinson*, Dementia[Mesh], dementia, Cognitive Dysfunction[Mesh], cognitive impairment, cognitive decline, cognitive dysfunction
+NON-CORE elements: language restriction (English), methodological lab standards, specific cognitive tools (MMSE, MoCA), adult population filter, study design types
+STUDY_FILTER decision: 3+ design types (cross-sectional, cohort, case-control) → OMIT
+Population block structure: not applicable
+Broad fallback present: YES (Spirochaetales[Mesh] + spirochaet* alongside specific organisms; Neurodegenerative Diseases[Mesh] + neurodegenerat* alongside specific diseases)
+Umbrella/low-observability: "neurodegenerat*" is sufficiently observable; specific disease names enumerate the umbrella → correct structure
+Mechanism-scope: not applicable
+Date/language filter: NOT APPLIED (language restriction pertains to access, not study subject; omitted to protect recall)
+Final AND block count: 2
+
+FULL_QUERY: ("Spirochaetales"[Mesh] OR spirochaet*[tiab] OR spirochet*[tiab] OR "Treponema pallidum"[tiab] OR "Treponema"[Mesh] OR syphilis[tiab] OR "Syphilis"[Mesh] OR "Borrelia burgdorferi"[tiab] OR "Borrelia"[Mesh] OR "Lyme disease"[tiab] OR "Lyme Disease"[Mesh] OR "Leptospira"[Mesh] OR leptospira*[tiab] OR leptospirosis[tiab]) AND ("Neurodegenerative Diseases"[Mesh] OR neurodegenerat*[tiab] OR "Alzheimer Disease"[Mesh] OR Alzheimer*[tiab] OR "Parkinson Disease"[Mesh] OR Parkinson*[tiab] OR "Dementia"[Mesh] OR dementia[tiab] OR "Cognitive Dysfunction"[Mesh] OR "cognitive impairment"[tiab] OR "cognitive decline"[tiab] OR "cognitive dysfunction"[tiab])

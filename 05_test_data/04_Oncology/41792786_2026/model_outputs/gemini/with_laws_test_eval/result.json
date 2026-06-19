@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-21T07:37:15Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41792786_2026",
+  "provider": "gemini",
+  "model": "gemini-3.0-pro",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Colorectal Neoplasms\"[Mesh] OR \"Colorectal Neoplasm*\"[tiab] OR \"Colorectal Cancer*\"[tiab] OR \"Colorectal Carcinoma*\"[tiab] OR \"Colorectal Tumor*\"[tiab] OR \"Colon Cancer*\"[tiab] OR \"Rectal Cancer*\"[tiab]) AND (\"Heat-Shock Proteins\"[Mesh] OR \"Heat-Shock Protein*\"[tiab] OR \"Heat Shock Protein*\"[tiab] OR \"HSP\"[tiab] OR \"HSPs\"[tiab] OR \"HSP27\"[tiab] OR \"HSP60\"[tiab] OR \"HSP70\"[tiab] OR \"HSP90\"[tiab] OR \"HSP110\"[tiab]) AND (\"Prognosis\"[Mesh] OR \"Survival\"[Mesh] OR \"Survival Analysis\"[Mesh] OR \"Prognostic\"[tiab] OR \"Survival\"[tiab] OR \"Hazard Ratio\"[tiab] OR \"mortality\"[tiab]))",
+  "query_length": 580,
+  "gold_count": 20,
+  "total_hits": 419,
+  "hit_gold_count": 20,
+  "recall": 1.0,
+  "nnr": 20.95,
+  "f1": 0.09111617312072892,
+  "error_note": ""
+}

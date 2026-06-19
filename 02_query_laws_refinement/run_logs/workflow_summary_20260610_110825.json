@@ -1,0 +1,101 @@
+﻿[
+    {
+        "path":  "04_data/02_Cardiovascular_Disease/41522206_2026",
+        "query_laws":  "query_laws_ver2.txt",
+        "recall":  1,
+        "total_hits":  34,
+        "found_count":  3,
+        "total_gold":  3,
+        "outputs_written":  true
+    },
+    {
+        "path":  "04_data/02_Cardiovascular_Disease/41684373_2026",
+        "query_laws":  "query_laws_ver2.txt",
+        "recall":  0.854,
+        "total_hits":  85535,
+        "found_count":  35,
+        "total_gold":  41,
+        "outputs_written":  true
+    },
+    {
+        "path":  "04_data/02_Cardiovascular_Disease/41707176_2026",
+        "query_laws":  "query_laws_ver2.txt",
+        "recall":  0.804,
+        "total_hits":  923,
+        "found_count":  45,
+        "total_gold":  56,
+        "outputs_written":  true
+    },
+    {
+        "path":  "04_data/03_Psychiatry/40357797_2026",
+        "query_laws":  "query_laws_ver2.txt",
+        "recall":  0.75,
+        "total_hits":  131,
+        "found_count":  6,
+        "total_gold":  8,
+        "outputs_written":  true
+    },
+    {
+        "path":  "04_data/03_Psychiatry/41582468_2026",
+        "query_laws":  "query_laws_ver2.txt",
+        "recall":  0.952,
+        "total_hits":  85,
+        "found_count":  20,
+        "total_gold":  21,
+        "outputs_written":  true
+    },
+    {
+        "path":  "04_data/03_Psychiatry/41582599_2026",
+        "query_laws":  "query_laws_ver2.txt",
+        "recall":  0.885,
+        "total_hits":  977,
+        "found_count":  23,
+        "total_gold":  26,
+        "outputs_written":  true
+    },
+    {
+        "path":  "04_data/03_Psychiatry/41694153_2026",
+        "query_laws":  "query_laws_ver2.txt",
+        "recall":  1,
+        "total_hits":  125,
+        "found_count":  4,
+        "total_gold":  4,
+        "outputs_written":  true
+    },
+    {
+        "path":  "04_data/05_Infectious_Diseases/41770456_2026",
+        "query_laws":  "query_laws_ver2.txt",
+        "recall":  1,
+        "total_hits":  2117,
+        "found_count":  20,
+        "total_gold":  20,
+        "outputs_written":  true
+    },
+    {
+        "path":  "04_data/05_Infectious_Diseases/41781415_2026",
+        "query_laws":  "query_laws_ver2.txt",
+        "recall":  0.846,
+        "total_hits":  4565,
+        "found_count":  66,
+        "total_gold":  78,
+        "outputs_written":  true
+    },
+    {
+        "path":  "04_data/05_Infectious_Diseases/41789521_2026",
+        "query_laws":  "query_laws_ver2.txt",
+        "recall":  0.696,
+        "total_hits":  283,
+        "found_count":  16,
+        "total_gold":  23,
+        "outputs_written":  true
+    },
+    {
+        "path":  "04_data/05_Infectious_Diseases/41790564_2026",
+        "query_laws":  "query_laws_ver2.txt",
+        "recall":  0.815,
+        "total_hits":  941,
+        "found_count":  22,
+        "total_gold":  27,
+        "outputs_written":  true
+    }
+]

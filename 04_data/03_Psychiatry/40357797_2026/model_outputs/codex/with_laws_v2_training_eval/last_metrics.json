@@ -1,0 +1,24 @@
+{
+  "query": "(\"Electroconvulsive Therapy\"[Mesh] OR \"electroconvulsive therapy\"[tiab] OR ECT[tiab] OR \"electroshock therapy\"[tiab] OR \"electric convulsive therapy\"[tiab] OR \"electroconvulsive\"[tiab]) AND (\"Memory, Episodic\"[Mesh] OR \"autobiographical memory\"[tiab] OR autobiographical[tiab] OR \"personal memory\"[tiab] OR \"remote memory\"[tiab] OR CAMI[tiab] OR AMI[tiab] OR \"Autobiographical Memory Interview\"[tiab])",
+  "query_path": "04_data\\03_Psychiatry\\40357797_2026\\model_outputs\\codex\\with_laws_v2_training_eval\\normalized_query.txt",
+  "input_config_path": "04_data\\03_Psychiatry\\40357797_2026\\input_config.json",
+  "total_hits": 131,
+  "recall": 0.75,
+  "found_count": 6,
+  "total_gold": 8,
+  "mode": "open",
+  "timestamp_unix": 1781082109,
+  "missed_pmids": [
+    "15863746",
+    "25220219"
+  ],
+  "found_pmids": [
+    "16936712",
+    "23922809",
+    "25470096",
+    "28754306",
+    "29267990",
+    "32408397"
+  ],
+  "missed_count": 2
+}

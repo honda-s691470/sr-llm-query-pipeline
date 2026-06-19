@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41641734_2026",
+  "query": "(\"solitary pulmonary nodule\"[MeSH] OR \"solitary pulmonary nodule\"[tiab] OR \"pulmonary nodule\"[tiab] OR \"lung nodule\"[tiab] OR \"SPN\"[tiab]) AND (\"malignancy\"[tiab] OR \"malignant\"[tiab] OR \"lung cancer\"[tiab] OR \"lung neoplasm\"[tiab] OR \"lung neoplasms\"[MeSH]) AND (\"incidental\"[tiab] OR \"incidentally detected\"[tiab] OR \"incidentally found\"[tiab]) AND (\"risk factor\"[tiab] OR \"risk factors\"[tiab] OR \"risk stratification\"[tiab] OR \"predictors\"[tiab] OR \"predictor\"[tiab]) AND (\"observational study\"[tiab] OR \"cohort study\"[tiab] OR \"cross-sectional\"[tiab] OR \"case-control\"[tiab] OR \"prospective\"[tiab] OR \"retrospective\"[tiab])",
+  "status": "ok"
+}

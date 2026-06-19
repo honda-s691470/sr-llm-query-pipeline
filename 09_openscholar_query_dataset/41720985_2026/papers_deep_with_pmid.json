@@ -1,0 +1,860 @@
+{
+  "papers": [
+    {
+      "title": "Surgical outcomes of spinal cavernous malformations: A retrospective study of 98 patients",
+      "authors": [
+        {
+          "name": "D. Liao",
+          "id": "32682760"
+        },
+        {
+          "name": "Ruoran Wang",
+          "id": "1799416292"
+        },
+        {
+          "name": "Baoyin Shan",
+          "id": "33291429"
+        },
+        {
+          "name": "Hai-Wei Chen",
+          "id": "2118439095"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Surgery",
+      "score": 0.6436436394352901,
+      "abstract": "Objective Spinal cord cavernous malformation (SCCM) is a rare vascular lesion, and the treatment strategy remains controversial at present. The goal of this retrospective study was to analyze the surgical outcomes of the SCCM and to find more appropriate treatment strategies for a better prognosis. Method A retrospective review of 98 patients with SCCM from 2009 to 2018 was conducted at the neurosurgical center of our hospital. Neurological function was assessed using the American Spinal Injury Association (ASIA) impairment scale. Clinical features were analyzed using the multivariable logistic regression. Results Ninety-eight patients with SCCM were included, of whom 36% were female and 64% male. The mean age was 41.6 years; and family history was reported in 8% of patients. Definite hemorrhage was found in 6%. Before surgery, the neurological status was Grade A in 2%, Grade B in 2%, Grade C in 12%, Grade D in 54%, and Grade E in 30% of the patients. 83% (81/98) patients had long-term follow-up, of whom, 42% had improved, 51% were stable and 7% had deteriorated. Patients with dorsal or superficial lesions showed better improvement than those with ventral or lateral deep lesions. Those with symptoms lasting less than three months had higher rates of improvement than those with symptoms lasting more than three months. However, there was no significant difference in prognosis between hemilaminectomy and laminectomy. Conclusion These results suggest that surgical strategies should be preferred for severe symptomatic SCCMs if total resection can be achieved, thereby avoiding the risk of severe complications with subsequent lesion hemorrhage. Earlier (usually within 3 months of symptom duration) surgical resection generally may lead to a better prognosis. For ventral or lateral deep SCCMs, the surgical strategy should be considered more carefully.",
+      "corpusId": 255600725,
+      "url": "https://api.semanticscholar.org/CorpusId:255600725",
+      "pubmed_id": "36713668",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fsurg.2022.1075276",
+        "matched_title": "Surgical outcomes of spinal cavernous malformations: A retrospective study of 98 patients.",
+        "matched_pubdate": "2022",
+        "matched_source": "Front Surg"
+      }
+    },
+    {
+      "title": "Prediction of outcomes for symptomatic spinal cavernous malformation surgery: a multicenter prospective clinical study",
+      "authors": [
+        {
+          "name": "Tong Liu",
+          "id": "78061560"
+        },
+        {
+          "name": "Lichao Wang",
+          "id": "2142465507"
+        },
+        {
+          "name": "Shizhong Zhang",
+          "id": "2145401835"
+        },
+        {
+          "name": "H. Han",
+          "id": "2112453784"
+        },
+        {
+          "name": "Kangjie Du",
+          "id": "2130655689"
+        },
+        {
+          "name": "Xin Chen",
+          "id": "2145231328"
+        },
+        {
+          "name": "Zilong Zhao",
+          "id": "12144937"
+        },
+        {
+          "name": "Liwen Zhao",
+          "id": "2158456366"
+        },
+        {
+          "name": "Jiapeng Xie",
+          "id": "2216566168"
+        },
+        {
+          "name": "L. Zhao",
+          "id": "2116369201"
+        },
+        {
+          "name": "Zhijun Peng",
+          "id": "2113953884"
+        },
+        {
+          "name": "T. Zhu",
+          "id": "2072832843"
+        },
+        {
+          "name": "Qiang Huang",
+          "id": "2111288094"
+        }
+      ],
+      "year": 2023,
+      "venue": "European spine journal",
+      "score": 0.6372837508943252,
+      "abstract": "Purpose Clinical outcome of spinal cavernous malformation (SCM) varies because of its unclear natural history, and reliable prognostic prediction model for SCM patients is limited. The aim of the present study was to investigate potential factors that predict one-year neurological status in postoperative patients with SCM. Methods This was a multicenter prospective observational study in consecutive patients with SCMs. SCMs treated microsurgically between January 2015 and January 2021 were included. Outcome was defined as the American Spinal Injury Association Impairment Scale (AIS) grade at one year after operation. Multivariable analyses were used to construct the best predictive model for patient outcomes. Results We identified 268 eligible SCM patients. Neurological outcome had worsened from preoperative baseline in 51 patients (19.0%) at one year. In the multivariable logistic regression, the best predictive model for unfavorable outcome included symptom duration ≥ 26 months (95% CI 2.80–16.96, P  < 0.001), size ≤ 5 mm (95% CI 1.43–13.50, P  = 0.010), complete intramedullary (95% CI 1.69–8.14, P  = 0.001), subarachnoid hemorrhage (95% CI 2.92–12.57, P  < 0.001), AIS B (95% CI 1.91–40.93, P  = 0.005) and AIS C (95% CI 1.12–14.54, P  = 0.033). Conclusions Admission size of the lesion, morphology, symptom duration, AIS grade and the presence of subarachnoid hemorrhage were strong outcome predictors regarding prognostication of neurological outcome in postoperative patients with SCMs. A decision to surgically remove a symptomatic SCM should be justified by systematic analysis of all factors potentially affecting outcome.",
+      "corpusId": 257183367,
+      "url": "https://api.semanticscholar.org/CorpusId:257183367",
+      "pubmed_id": "36829066",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s00586-023-07585-9",
+        "matched_title": "Prediction of outcomes for symptomatic spinal cavernous malformation surgery: a multicenter prospective clinical study.",
+        "matched_pubdate": "2023 Apr",
+        "matched_source": "Eur Spine J"
+      }
+    },
+    {
+      "title": "Surgical Outcomes of Symptomatic Intramedullary Spinal Cord Cavernous Malformations: Analysis of Consecutive Cases in a Single Center",
+      "authors": [
+        {
+          "name": "Zheng Cai",
+          "id": "47056982"
+        },
+        {
+          "name": "Xinjie Hong",
+          "id": "2150176687"
+        },
+        {
+          "name": "Wei Dai",
+          "id": "2374186972"
+        },
+        {
+          "name": "Zhengwei Zhang",
+          "id": "2245081482"
+        },
+        {
+          "name": "Qiang Liang",
+          "id": "35743042"
+        },
+        {
+          "name": "Xuehua Ding",
+          "id": "2244477525"
+        },
+        {
+          "name": "Wei Sun",
+          "id": "2244795130"
+        }
+      ],
+      "year": 2023,
+      "venue": "Neurospine",
+      "score": 0.6359259630566909,
+      "abstract": "Objective Intramedullary spinal cavernous malformations (ISCMs) are rare vascular lesions of the spinal cord with unclear natural history and controversy over treatment. This study aimed to report a series of symptomatic ISCMs underwent microsurgical management to illustrate the natural history, clinical presentation, and surgical outcomes and to evaluate factors associated with hemorrhage events and neurological prognosis. Methods This single-center retrospective study included 29 consecutive patients with whose demographic, symptomology, imaging, neurological, and surgical data were collected. The risk for hemorrhage events and factors affecting surgical outcomes were retrospectively analyzed. Results There were 12 female (41.4%) and 17 male patients (58.6%), with an average age of 45.2 years (range, 17–69 years). The mean size of the lesion was 9.7 mm (range, 3–20 mm). Most patients had a bowel or/and bladder dysfunction symptom (n = 11, 37.9%), followed by sensory deficits (n = 5, 17.2%), gait disturbance (n = 5, 17.2%), pain (n = 4, 13.8%), and weakness (n = 4, 13.8%), most (n = 15, 51.7%) with a chronic onset. All patients received total resection without rehemorrhages after surgical resection in follow-up. Sixty-five point five percent patients (n = 19) improved, 13.8% (n = 4) remained stable, 20.7% (n = 6) got worsen. The overall annual hemorrhage risk was 2.1% per patient-year. A total of 27 hemorrhages occurred in the 18 patients, of which rehemorrhage rate increased to 50.0% (n = 9) with a previous history of hemorrhage. Patients with smaller lesion sizes were more likely to have hemorrhage or rehemorrhage events (p = 0.008). Recurrent hemorrhage of the lesions was a risk factor for neurological outcomes (p = 0.016). Conclusion The risk of rehemorrhage was significantly increased in symptomatic ISCM patients with a previous history of hemorrhage. Rehemorrhage was a risk factor for neurological outcomes. Patients can benefit from microsurgical treatment to avoid rehemorrhage and further neurological deterioration.",
+      "corpusId": 262213635,
+      "url": "https://api.semanticscholar.org/CorpusId:262213635",
+      "pubmed_id": "37798975",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.14245/ns.2346430.215",
+        "matched_title": "Surgical Outcomes of Symptomatic Intramedullary Spinal Cord Cavernous Malformations: Analysis of Consecutive Cases in a Single Center.",
+        "matched_pubdate": "2023 Sep",
+        "matched_source": "Neurospine"
+      }
+    },
+    {
+      "title": "Functional neurological outcome of spinal cavernous malformation surgery",
+      "authors": [
+        {
+          "name": "L. Rauschenbach",
+          "id": "116918556"
+        },
+        {
+          "name": "A. Santos",
+          "id": "1997769129"
+        },
+        {
+          "name": "A. Engel",
+          "id": "2004932695"
+        },
+        {
+          "name": "Angelina Olbrich",
+          "id": "2186640303"
+        },
+        {
+          "name": "A. Benet",
+          "id": "144195100"
+        },
+        {
+          "name": "Yen-Yi Li",
+          "id": "2110766510"
+        },
+        {
+          "name": "B. Schmidt",
+          "id": "34251584"
+        },
+        {
+          "name": "O. Gembruch",
+          "id": "6562988"
+        },
+        {
+          "name": "N. Özkan",
+          "id": "4865975"
+        },
+        {
+          "name": "R. Jabbarli",
+          "id": "5784739"
+        },
+        {
+          "name": "K. Wrede",
+          "id": "3452806"
+        },
+        {
+          "name": "A. Siegel",
+          "id": "8577673"
+        },
+        {
+          "name": "M. Lawton",
+          "id": "143704540"
+        },
+        {
+          "name": "U. Sure",
+          "id": "2312055"
+        },
+        {
+          "name": "P. Dammann",
+          "id": "3452662"
+        }
+      ],
+      "year": 2023,
+      "venue": "European spine journal",
+      "score": 0.5416112202671892,
+      "abstract": "Purpose Spinal cavernous malformations (SCM) present a risk for intramedullary hemorrhage (IMH), which can cause severe neurologic deficits. Patient selection and time of surgery have not been clearly defined. Methods This observational study included SCM patients who underwent surgery in our department between 2003 and 2021. Inclusion required baseline clinical factors, magnetic resonance imaging studies, and follow-up examination. Functional outcome was assessed using the Modified McCormick scale score. Results Thirty-five patients met the inclusion criteria. The mean age was 44.7 ± 14.5 years, and 60% of the patients were male. In univariate analysis, the unfavorable outcome was significantly associated with multiple bleeding events ( p  = .031), ventral location of the SCM ( p  = .046), and incomplete resection ( p  = .028). The time between IMH and surgery correlated with postoperative outcomes ( p  = .004), and early surgery within 3 months from IMH was associated with favorable outcomes ( p  = .033). This association remained significant in multivariate logistic regression analysis ( p  = .041). Conclusions Removal of symptomatic SCM should be performed within 3 months after IMH when gross total resection is feasible. Patients with ventrally located lesions might be at increased risk for postoperative deficits.",
+      "corpusId": 257583917,
+      "url": "https://api.semanticscholar.org/CorpusId:257583917",
+      "pubmed_id": "36928489",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s00586-023-07640-5",
+        "matched_title": "Functional neurological outcome of spinal cavernous malformation surgery.",
+        "matched_pubdate": "2023 May",
+        "matched_source": "Eur Spine J"
+      }
+    },
+    {
+      "title": "Spinal Cavernomas: Outcome of Surgically Treated 10 Patients",
+      "authors": [
+        {
+          "name": "I. Sun",
+          "id": "37564877"
+        },
+        {
+          "name": "M. Pamir",
+          "id": "3763247"
+        }
+      ],
+      "year": 2017,
+      "venue": "Frontiers in Neurology",
+      "score": 0.5198812270033355,
+      "abstract": "Aim We report the preoperative and postoperative findings and also neurological follow-up results from 10 spinal cavernoma patients treated in our clinic. Several representative cases are presented in terms of clinical features, imaging results, and surgical outcomes. Material and methods The data were retrospectively collected from patients’ files in the hospital records and sorted with regards to clinical presentation, radiologic features, and operative findings. Patients received spinal MRI scans for the diagnosis of spinal cavernomas (SC) and postsurgical evaluation. Clinical presentation was evaluated via Ogilvy classification and symptoms were checked preoperatively and postoperatively at third month and first year using McCormick scale. Primary treatment was microsurgical operation aiming a gross total lesion resection. Results 10 spinal cavernoma patients between the ages 30 and 63 were treated. Six (60%) of the patients were diagnosed with cervical and four (40%) others were diagnosed with thoracic SC. Among the patient group, mean preoperative Ogilvy classification score was 2.3 ± 0.7.8 and McCormick score was 1.9 ± 0.7. There was no residual mass or relapse after surgery. One patient developed surgery-related left hemiparesis, which was normalized at 1 year follow-up. Conclusion Patients must be diagnosed with MRI since it is nowadays a gold standard. Preoperative and postoperative scores are important in evaluating the patients’ condition and improvement. The results from our patient series also reinforce the notion that immediate surgery should be the preferred treatment method for cavernomas. Intraoperative neurophysiologic monitarization should assist the surgery in order to prevent complications. In conclusion, microsurgery is a gold standard method that we recommend for cases of cavernomas, which will not recur if gross total resection is achieved.",
+      "corpusId": 3084818,
+      "url": "https://api.semanticscholar.org/CorpusId:3084818",
+      "pubmed_id": "29326642",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fneur.2017.00672",
+        "matched_title": "Spinal Cavernomas: Outcome of Surgically Treated 10 Patients.",
+        "matched_pubdate": "2017",
+        "matched_source": "Front Neurol"
+      }
+    },
+    {
+      "title": "Cavernous Malformations and Hemangioblastomas of the Spinal Cord Show Distinct Differences in Clinical Course – A Retrospective Single-Center Analysis of 112 Patients",
+      "authors": [
+        {
+          "name": "T. Pantel",
+          "id": "9046775"
+        },
+        {
+          "name": "K. Mende",
+          "id": "10169022"
+        },
+        {
+          "name": "Theresa Mohme",
+          "id": "2141392123"
+        },
+        {
+          "name": "M. Mohme",
+          "id": "7839715"
+        },
+        {
+          "name": "L. Viezens",
+          "id": "8354102"
+        },
+        {
+          "name": "Jakob Matschke",
+          "id": "2250570297"
+        },
+        {
+          "name": "M. Westphal",
+          "id": "2237771190"
+        },
+        {
+          "name": "S. Eicker",
+          "id": "2266156824"
+        }
+      ],
+      "year": 2023,
+      "venue": "Global Spine Journal",
+      "score": 0.4596725828927938,
+      "abstract": "Study Design Retrospective cohort study. Objective Cavernous malformations (CMs) and hemangioblastomas (HBs) of the spinal cord exhibit distinct differences in histopathology but similarities in the neurological course. The aim of our study was to analyze the clinical differences between the vascular pathologies and a benign tumor of the spinal cord in a perioperative situation. Methods We performed a retrospective analysis of patients who had undergone surgery for lesions in the spinal cord between 1984 and 2015. Patients were screened for CMs and HBs as the primary inclusion criteria. General patient information, surgical data, and disease-specific data were collected from the records. Cooper–Epstein scores for clinical symptoms were evaluated preoperatively, at discharge, and at the 6-month follow-up. Results A total of 112 patients were included, of which 46 had been diagnosed with CMs and 66 with HBs. Patients with CMs often demonstrated more preoperative neurological deterioration compared to those with HBs (P < .05); accordingly, in took longer to diagnose HBs. Complete resection was possible for 96.8% of all patients with CMs and 90% of those with HBs. At the 6-month follow-up, patients with HBs more often presented with persisting neurologic impairment of the upper extremities compared to the CM patients (P < .001). Conclusion CMs and HBs of the spinal cord have similarities but also exhibit significant differences in neurological presentation and perioperative course. Surgical therapy is the treatment of choice for symptomatic lesions, and complete surgical resection is possible in the majority of cases for both entities. Neurologic outcomes are usually favorable, although patients with HBs retain neurologic deficits more often.",
+      "corpusId": 265120821,
+      "url": "https://api.semanticscholar.org/CorpusId:265120821",
+      "pubmed_id": "37948580",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1177/21925682231214363",
+        "matched_title": "Cavernous Malformations and Hemangioblastomas of the Spinal Cord Show Distinct Differences in Clinical Course - A Retrospective Single-Center Analysis of 112 Patients.",
+        "matched_pubdate": "2025 Mar",
+        "matched_source": "Global Spine J"
+      }
+    },
+    {
+      "title": "The Long-Term Outcome in a Cohort of 52 Patients With Symptomatic Intramedullary Spinal Cavernous Hemangioma After Microsurgery and Emergency Rescue Surgery",
+      "authors": [
+        {
+          "name": "Yu Duan",
+          "id": "2087104524"
+        },
+        {
+          "name": "R. Mao",
+          "id": "2143666579"
+        },
+        {
+          "name": "Xuanfeng Qin",
+          "id": "4416902"
+        },
+        {
+          "name": "Yu-jun Liao",
+          "id": "8599949"
+        },
+        {
+          "name": "Jian Li",
+          "id": "2151964882"
+        },
+        {
+          "name": "Gong Chen",
+          "id": "2116717973"
+        }
+      ],
+      "year": 2022,
+      "venue": "Frontiers in Medicine",
+      "score": 0.43883098636253787,
+      "abstract": "Background Surgery is the mainstay treatment for patients with symptomatic intramedullary spinal cavernous hemangioma (ISCH), however the time of surgical intervention remains controversial. In this study, we proposed emergency rescue surgery (ERS) for patients in deteriorative type. The prognostic factors of patients with ISCH after microsurgery and the clinical effect of ERS were analyzed. Methods From January 2013 to November 2019, 52 patients with symptomatic ISCH treated by microsurgical treatment were collected, ranging in age from 17 to 66 years old (mean: 45.8 ± 13.5 years). The course of the disease ranged from 2 days to 20 years. Of 52 lesions, 17 lesions were in the cervical segment, 25 in the thoracic segment, and 10 in the lumbosacral segment; while seven cases were at the ventral surface, 25 cases at the dorsal surface, and 20 cases at the central spinal cord. The sagittal diameter ranged from 1 to 58 mm (median: 17.3 mm). The transverse diameter ratio ranged from 20 to 80% (median: 50.7%). Thirty-two patients were diagnosed as deteriorative type and 22 were treated by ERS. Results At 12 months after surgery, all patients were followed up, and no residual or recurrence was found in all patients. Twenty-five patients (48.1%) showed spinal cord functional improvement after surgery; 25 (48.1%) had no functional change; 2 (3.8%) got worse. For deteriorative patients, ERS group had a significantly higher improvement rate than the non-ERS group (χ2 = 5.393, P = 0.02); For all 52 patients, the factors as a lesion at the ventral surface (Z = 10.453, P = 0.015), or lumbosacral segment (χ2 = 9.259, P = 0.010) and longer course of disease (Z = −2.021, P = 0.043) were potential risks in functional recovery in univariate analysis; and in multiple-factor analysis, the lesion at the lumbosacral segment (OR = 4.004, 95% CI: 1.341~11.961, P = 0.013) was the independent risk factors for the functional recovery. Conclusions Microsurgical resection is safe and effective for symptomatic ISCH. The ERS is an effective way to improve deteriorative patients' spinal cord function at long-term follow-up. The lesion at the lumbosacral segment is one of the poor prognostic factors.",
+      "corpusId": 248398395,
+      "url": "https://api.semanticscholar.org/CorpusId:248398395",
+      "pubmed_id": "35547221",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fmed.2022.872824",
+        "matched_title": "The Long-Term Outcome in a Cohort of 52 Patients With Symptomatic Intramedullary Spinal Cavernous Hemangioma After Microsurgery and Emergency Rescue Surgery.",
+        "matched_pubdate": "2022",
+        "matched_source": "Front Med (Lausanne)"
+      }
+    },
+    {
+      "title": "Middle East Spine Society 2015",
+      "authors": [
+        {
+          "name": "Abd-Elhafiz Shehab-Eldien",
+          "id": "114532389"
+        },
+        {
+          "name": "Abd-Elmoneim",
+          "id": "2400118655"
+        },
+        {
+          "name": "Ehab Abo-Elkier",
+          "id": "1411586458"
+        },
+        {
+          "name": "Hisham Taher",
+          "id": "2917630"
+        },
+        {
+          "name": "Eslam M. Kandil",
+          "id": "2400120558"
+        },
+        {
+          "name": "Tarik Mukhtar",
+          "id": "2400124440"
+        }
+      ],
+      "year": 2015,
+      "venue": "Asian Spine Journal",
+      "score": 0.43608265545849245,
+      "abstract": "Copyright C 2015 by Korean Society of Spine Surgery This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. Asian Spine Journal • pISSN 1976-1902 eISSN 1976-7846 • www.asianspinejournal.org ABSTRACTS Asian Spin J 2015; 9(Supplement 1):S1-S24 • http://dx.doi.org/10.4184/asj.2015.9.S1.S1",
+      "corpusId": 218630149,
+      "url": "https://api.semanticscholar.org/CorpusId:218630149",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Abstracts",
+      "authors": [
+        {
+          "name": "B. DeGroot",
+          "id": "47237957"
+        },
+        {
+          "name": "K. Bassos‐Hull",
+          "id": "1415742593"
+        },
+        {
+          "name": "M. McCallister",
+          "id": "88509465"
+        },
+        {
+          "name": "M. Ajemian",
+          "id": "6344657"
+        },
+        {
+          "name": "Jennifer Deitloff",
+          "id": "6081827"
+        },
+        {
+          "name": "E. Myers",
+          "id": "49944416"
+        },
+        {
+          "name": "S. Spear",
+          "id": "3671825"
+        },
+        {
+          "name": "Dirk J. Stevenson",
+          "id": "37096945"
+        },
+        {
+          "name": "C. Guyer",
+          "id": "4649328"
+        }
+      ],
+      "year": 2013,
+      "venue": "European spine journal",
+      "score": 0.4238260529071435,
+      "abstract": "s Chambers-Geheber Last Edited 5/11/2017 0594 Herp Systematics II, Sabine, Sunday 16 July 2017 E. Anne Chambers1, Harry W. Greene2, David M. Hillis1 1University of Texas at Austin, Austin, Texas, USA, 2Cornell University, Ithaca, New York, USA Species Delimitation in Geographically Variable Taxa: A Re-examination of the American Milksnakes (Lampropeltis triangulum complex) Many recent taxonomic revisions have relied heavily on genetic data, often analyzed largely or exclusively using coalescent model-based methods. The assumptions and limitations of these methods are well known, but they are often not taken into account. We describe a protocol for species delimitation in parapatrically-distributed species that incorporates evidence from multiple sources. We test this protocol in a historically problematic species complex, the American milksnakes (Lampropeltis triangulum complex), using available genetic, morphological, behavioral, and biogeographic data. We demonstrate how limitations in sampling and analyses can lead to over-splitting of geographically variable species and to an underestimation of gene flow. We recommend a reduction in the number of recognized species, and note that subspecies designations are useful for distinguishing geographic variation within species. We recommend that coalescent-based species delimitation studies incorporate thorough analyses at contact zones between putative species, and evaluate and synthesize all available evidence before making taxonomic revisions. ______________________________________________________________________________ 0004 LFC Phenotypic Variation II, San Marcos, Thursday 13 July 2017 R Christopher Chambers NOAA / Northeast Fisheries Science Center, Highlands NJ, USA Thermal Reaction Norms of Early Life Stages of Mid-Atlantic Estuarine Fishes Species from coastal and estuarine habitats are likely adapted to extreme seasonal or even daily temperature variations and perhaps have sufficient plasticity to tolerate the higher, more variable temperatures as the climate warms. Although rate processes of ectotherms are expected to increase with temperature, the scope and shape of various biological responses to a wide range of temperatures are poorly known but may vary among species, populations, and spawning habitat. We examined the plasticity of responses in key early life-stage (ELS) features in multiple coastal and estuarine species of the Mid Atlantic Bight including flatfish, silverside, killifish, tomcod, and sturgeons in an attempt to find generalities. Responses include survival to hatch, thermal tolerance range, embryonic period duration (EPD), developmental rate (DR, a derivative of EPD), size and condition at hatching, and persistence of yolk-sac larvae. In general, all species examined were eurythermal with tolerances ranging from 13 °C in winter-spawning taxa (winter flounder, Atlantic tomcod) to over 22 °C in summer-spawning ones (Atlantic silverside, mummichog). Empirically derived thermal tolerances extended beyond temperatures likely to be encountered currently in nature or those projected by climate-change models. EPD ranged five to nearly ten-fold within taxa. DR was typically a linear or slightly convex function of temperature except at thermal extremes, supporting the use of constant water temperature at habitat average and associated DR to predict hatching in a variable thermal regime. Size at hatching typically decreased with increasing temperature which may be a critically important, sub-lethal response to ocean warming. ______________________________________________________________________________ 0434 AES Genetics, Systematics, & Biogeography, Pecos, Sunday 16 July 2017 Alayne Chappell1, Dovi Kacev2, Andrew Nosal1, Kevin Feldheim3, Daniel Cartamil1 1Scripps Institution of Oceanography, La Jolla, California, USA, 2NOAA SWFSC, La Jolla, California, USA, 3Field Museum, Chicago, Illinois, USA Population Structure and Genetic Diversity in Southern California Thresher Sharks (Alopias vulpinus) In both the US and Mexico, the Common Thresher shark (Alopias vulpinas) is targeted in commercial and recreational fisheries, and considered one of the most important commercially-caught sharks in both areas. Exploitation peaked during the 1980s and 90s but has since waned. Common Thresher sharks found in the Eastern Pacific along the US and Mexico coasts are thought to comprise one homogenous population spanning from British Columbia, Canada to Baja California (BC), Mexico. Despite being historically overfished, a recent stock assessment found that overfishing is not currently occurring in California waters. However, catch data from the same population in Mexico is difficult to obtain and actual catch is not fully incorporated into the assessment. Genetic relatedness analyses can provide further insight into the health and demographic history of this population. Genetic data were collected from 551 adult and juvenile Common Thresher sharks off the coast of California and BC, from 11 different years from 1997 to 2012. All individuals were genotyped at 11 independent microsatellite loci for analyses. The results of this study have implications for bilateral management of Common Thresher sharks between the US and Mexico with particular consideration for sensitive nursery areas spanning both jurisdictions. ______________________________________________________________________________ 0892 Snake Biology I, Brazos, Sunday 16 July 2017",
+      "corpusId": 214694231,
+      "url": "https://api.semanticscholar.org/CorpusId:214694231",
+      "pubmed_id": "42109122",
+      "pubmed_resolution": {
+        "method": "title_search:\"Abstracts\"[Title]",
+        "note": "matched",
+        "doi": "",
+        "matched_title": "Selected phlebological abstracts.",
+        "matched_pubdate": "2026 Jun",
+        "matched_source": "Phlebology"
+      }
+    },
+    {
+      "title": "Surgical outcomes and natural history of intramedullary spinal cord cavernous malformations: a single-center series and meta-analysis of individual patient data: Clinic article.",
+      "authors": [
+        {
+          "name": "J. Badhiwala",
+          "id": "6196626"
+        },
+        {
+          "name": "F. Farrokhyar",
+          "id": "4318409"
+        },
+        {
+          "name": "W. Alhazzani",
+          "id": "8527327"
+        },
+        {
+          "name": "B. Yarascavitch",
+          "id": "5253947"
+        },
+        {
+          "name": "Mohammed H. Aref",
+          "id": "9160225"
+        },
+        {
+          "name": "A. Algird",
+          "id": "4968530"
+        },
+        {
+          "name": "N. Murty",
+          "id": "11904148"
+        },
+        {
+          "name": "E. Kachur",
+          "id": "34264703"
+        },
+        {
+          "name": "A. Cenic",
+          "id": "4911179"
+        },
+        {
+          "name": "K. Reddy",
+          "id": "120877250"
+        },
+        {
+          "name": "S. Almenawer",
+          "id": "8137998"
+        }
+      ],
+      "year": 2014,
+      "venue": "Journal of Neurosurgery : Spine",
+      "score": 0.4048161586743662,
+      "abstract": "",
+      "corpusId": 33103455,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/25062285",
+      "pubmed_id": "25062285",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3171/2014.6.spine13949",
+        "matched_title": "Surgical outcomes and natural history of intramedullary spinal cord cavernous malformations: a single-center series and meta-analysis of individual patient data: Clinic article.",
+        "matched_pubdate": "2014 Oct",
+        "matched_source": "J Neurosurg Spine"
+      }
+    },
+    {
+      "title": "Surgical timing and long-term outcomes in patients with severe haemorrhagic spinal cord cavernous malformations",
+      "authors": [
+        {
+          "name": "An Tian",
+          "id": "2148431479"
+        },
+        {
+          "name": "Ziwei Cui",
+          "id": "2266161010"
+        },
+        {
+          "name": "Jian Ren",
+          "id": "2111472211"
+        },
+        {
+          "name": "Yeqing Ren",
+          "id": "9079373"
+        },
+        {
+          "name": "M. Ye",
+          "id": "34707605"
+        },
+        {
+          "name": "Guilin Li",
+          "id": "2146570578"
+        },
+        {
+          "name": "Chuan He",
+          "id": "145118880"
+        },
+        {
+          "name": "Xiaoyu Li",
+          "id": "2108749096"
+        },
+        {
+          "name": "Gao Zeng",
+          "id": "2247995133"
+        },
+        {
+          "name": "P. Hu",
+          "id": "32579484"
+        },
+        {
+          "name": "Yongjie Ma",
+          "id": "145475086"
+        },
+        {
+          "name": "Jiaxing Yu",
+          "id": "9484633"
+        },
+        {
+          "name": "Jingwei Li",
+          "id": "2109598235"
+        },
+        {
+          "name": "Li-song Bian",
+          "id": "7891974"
+        },
+        {
+          "name": "Fan Yang",
+          "id": "2266220067"
+        },
+        {
+          "name": "Qianwen Li",
+          "id": "2143017336"
+        },
+        {
+          "name": "Feng Ling",
+          "id": "2083772955"
+        },
+        {
+          "name": "T. Hong",
+          "id": "2066927118"
+        },
+        {
+          "name": "Liyong Sun",
+          "id": "3912598"
+        },
+        {
+          "name": "Hongqi Zhang",
+          "id": "2108819358"
+        }
+      ],
+      "year": 2023,
+      "venue": "Stroke and vascular neurology",
+      "score": 0.4031134788425263,
+      "abstract": "Background Surgical resection of the lesions remains the main treatment method for most symptomatic spinal cord cavernous malformations (SCCMs) to eliminate the occupation and associated subsequent lifelong haemorrhagic risk. However, the timing of surgical intervention remains controversial, especially for patients in the acute stage after severe haemorrhage. Methods Patients diagnosed with SCCMs who were surgically treated between January 2002 and December 2021 were selected and retrospectively reviewed. The Modified McCormick Scale (MMS) was used to evaluate neurological and disability status. All medical information was reviewed, and all patients were followed up for at least 6 months. Results A total of 279 patients were ultimately included. With regard to long-term outcomes, 110 (39.4%) patients improved, 159 (57.0%) remained unchanged and 10 (3.6%) worsened. For patients with an MMS score of 2–5 on admission, in univariate and multivariate analyses, a ≤6 weeks period between onset and surgery (adjusted OR 3.211, 95% CI 1.504 to 6.856, p=0.003) was a significant predictor of improved MMS. Among 69 patients who first presented with severe haemorrhage, undergoing surgery within 6 weeks of the onset of severe haemorrhage (adjusted OR 4.901, 95% CI 1.126 to 21.325, p=0.034) was significantly associated with improvement of MMS score. Conclusion Surgical timing can influence the long-term outcome of SCCMs. For patients with symptomatic SCCMs, especially those with severe haemorrhage, early surgical intervention within 6 weeks can provide more benefit.",
+      "corpusId": 265121760,
+      "url": "https://api.semanticscholar.org/CorpusId:265121760",
+      "pubmed_id": "37949480",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1136/svn-2023-002745",
+        "matched_title": "Surgical timing and long-term outcomes in patients with severe haemorrhagic spinal cord cavernous malformations.",
+        "matched_pubdate": "2024 Aug 27",
+        "matched_source": "Stroke Vasc Neurol"
+      }
+    },
+    {
+      "title": "Pediatric Arachnoid Cysts: A Comprehensive Systematic Review of Clinical Features and Therapeutic Approaches",
+      "authors": [
+        {
+          "name": "Paula Espinosa Villagomez",
+          "id": "2383785528"
+        },
+        {
+          "name": "Mario S Hinojosa-Figueroa",
+          "id": "2355531631"
+        },
+        {
+          "name": "José E. Leon-Rojas",
+          "id": "2329814773"
+        },
+        {
+          "name": "G. I. Rivas-Martínez",
+          "id": "1477107779"
+        },
+        {
+          "name": "Alcy R. Torres",
+          "id": "2310486298"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.39917138392017093,
+      "abstract": "Background/Objectives: Subarachnoid cysts in children, while often linked to trauma, can also rupture spontaneously without any apparent injury. Their etiology remains complex, involving congenital, traumatic, and infectious factors. This article explores the risks, pathophysiology, and management strategies related to spontaneous rupture in pediatric cases reported in the literature through the means of a systematic review. Materials and Methods: A systematic review of Web of Science, Scopus, PubMed and the Virtual Health Library (BVS, for its acronym in Spanish) was conducted; the online software Ryyan was used to manage the references and conduct the filtering process. The National Heart, Lung, and Blood Institute (NHLBI) quality assessment tool was used to assess bias for each type of study. Results: We analyzed the data of 101 articles; in total we found that 331 pediatric patients with arachnoid cyst were diagnosed with intracranial hemorrhage and 1030 patients had an unruptured arachnoid cyst. The most common cyst diameter was between 5–7 cm in the bleeding group vs. 3–4.5 cm in the non-bleeding group. A head trauma trigger was identified in 36.25% of cases of bleeding and 10.6% were sports related. Most of the hemorrhages were subdural, followed by a mixed pattern between subdural and intracystic. In both groups the arachnoid cyst was mostly located in the middle cranial fossa in the left side. The bleeding arachnoid cysts were mostly treated with surgery, but conservative treatment was also effective; the outcome was good in the majority of cases. Conclusions: Further research is required to elucidate the pathophysiological mechanisms underlying hemorrhage associated with arachnoid cysts in the pediatric population. Nevertheless, upon identification of an arachnoid cyst, neurosurgical follow-up is warranted. Bleeding tends to occur only in the presence of high-risk features and can be precipitated by traumatic events.",
+      "corpusId": 281812375,
+      "url": "https://api.semanticscholar.org/CorpusId:281812375",
+      "pubmed_id": "41095958",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/jcm14196866",
+        "matched_title": "Pediatric Arachnoid Cysts: A Comprehensive Systematic Review of Clinical Features and Therapeutic Approaches.",
+        "matched_pubdate": "2025 Sep 28",
+        "matched_source": "J Clin Med"
+      }
+    },
+    {
+      "title": "Spinal dumbbell-shaped epidural cavernous hemangioma (CM): report of nine surgical cases and literature review",
+      "authors": [
+        {
+          "name": "Liang Zhang",
+          "id": "40962316"
+        },
+        {
+          "name": "Zhifeng Zhang",
+          "id": "2109019517"
+        },
+        {
+          "name": "Wuyang Yang",
+          "id": "6068939"
+        },
+        {
+          "name": "Jifeng Shang",
+          "id": "1998636472"
+        },
+        {
+          "name": "W. Jia",
+          "id": "33688911"
+        },
+        {
+          "name": "Jun Yang",
+          "id": "89056706"
+        },
+        {
+          "name": "Yulun Xu",
+          "id": "2110180299"
+        }
+      ],
+      "year": 2018,
+      "venue": "Chinese Neurosurgical Journal",
+      "score": 0.3625854937095639,
+      "abstract": "BackgroundSpinal dumbbell-shaped epidural cavernous malformation (CM) is a rare, hypervascular entity frequently misdiagnosed for other lesions, leading to unexpected intraoperative bleeding and suboptimal resection. Our study aims to elucidate the demographics, management strategy, and outcome of this vascular disease.MethodsRetrospective review of patients seen in Beijing Tiantan Hospital with symptomatic dumbbell-shaped epidural CM from 2008 to 2013. All lesions were pathologically confirmed after resection. The clinical manifestations, radiographic features, and treatment modalities of these cases were analyzed.ResultsWe included 9 consecutive patients. Average age was 58 ± 12 years (range: 34–79 years), with 66.7% male. Locations of the CMs were: thoracic (n = 7, 77.8%), cervical (n = 1, 11.1%), and cervicothoracic junction (n = 1, 11.1%). Only one case presented with acute manifestations while others experienced chronic progressive spinal cord symptoms. The initial clinical diagnoses were: schwannoma (n = 6, 66.7%), cavernous hemangioma (CM) (n = 1, 11.1%), meningioma (n = 1, 11.1%), and angioma (n = 1, 11.1%). Total resection was achieved in six patients (66.7%), and partial resection in the other three patients (33.3%). Average intraoperative blood loss was 400 ± 300 ml (range: 100–1000 ml). During an average follow-up of 71 ± 21 months (range: 29–94 months), excellent outcome was achieved in seven cases (77.8%), one partially improved (11.1%), and one deteriorated (11.1%). No patients experienced recurrence of symptoms.ConclusionsSpinal dumbbell-shaped epidural CM is a benign vascular malformation that should be differentiated from other dumbbell-shaped lesions. Accurate preoperative diagnose is challenging as no specific radiographic marker has been established. Total surgical resection should be recommended.",
+      "corpusId": 39653880,
+      "url": "https://api.semanticscholar.org/CorpusId:39653880",
+      "pubmed_id": "32922864",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s41016-017-0107-2",
+        "matched_title": "Spinal dumbbell-shaped epidural cavernous hemangioma (CM): report of nine surgical cases and literature review.",
+        "matched_pubdate": "2018",
+        "matched_source": "Chin Neurosurg J"
+      }
+    },
+    {
+      "title": "The reporting of study and population characteristics in degenerative cervical myelopathy: A systematic review",
+      "authors": [
+        {
+          "name": "B. Davies",
+          "id": "144487856"
+        },
+        {
+          "name": "M. McHugh",
+          "id": "143614843"
+        },
+        {
+          "name": "A. Elgheriani",
+          "id": "5290798"
+        },
+        {
+          "name": "A. Kolias",
+          "id": "4051439"
+        },
+        {
+          "name": "Lindsay A. Tetreault",
+          "id": "33954904"
+        },
+        {
+          "name": "P. Hutchinson",
+          "id": "3067455"
+        },
+        {
+          "name": "M. Fehlings",
+          "id": "1781212"
+        },
+        {
+          "name": "M. Kotter",
+          "id": "143849976"
+        }
+      ],
+      "year": 2017,
+      "venue": "PLoS ONE",
+      "score": 0.3572071981909496,
+      "abstract": "Object Degenerative cervical myelopathy [DCM] is a disabling and increasingly prevalent condition. Variable reporting in interventional trials of study design and sample characteristics limits the interpretation of pooled outcomes. This is pertinent in DCM where baseline characteristics are known to influence outcome. The present study aims to assess the reporting of the study design and baseline characteristics in DCM as the premise for the development of a standardised reporting set. Methods A systematic review of MEDLINE and EMBASE databases, registered with PROSPERO (CRD42015025497) was conducted in accordance with PRISMA guidelines. Full text articles in English, with >50 patients (prospective) or >200 patients (retrospective), reporting outcomes of DCM were deemed to be eligible. Results A total of 108 studies involving 23,876 patients, conducted world-wide, were identified. 33 (31%) specified a clear primary objective. Study populations often included radiculopathy (51, 47%) but excluded patients who had undergone previous surgery (42, 39%). Diagnositic criteria for myelopathy were often uncertain; MRI assessment was specified in only 67 (62%) of studies. Patient comorbidities were referenced by 37 (34%) studies. Symptom duration was reported by 46 (43%) studies. Multivariate analysis was used to control for baseline characteristics in 33 (31%) of studies. Conclusions The reporting of study design and sample characteristics is variable. The development of a consensus minimum dataset for (CODE-DCM) will facilitate future research synthesis in the future.",
+      "corpusId": 13731171,
+      "url": "https://api.semanticscholar.org/CorpusId:13731171",
+      "pubmed_id": "28249017",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1371/journal.pone.0172564",
+        "matched_title": "The reporting of study and population characteristics in degenerative cervical myelopathy: A systematic review.",
+        "matched_pubdate": "2017",
+        "matched_source": "PLoS One"
+      }
+    },
+    {
+      "title": "Optimal Timing of Surgery for Intramedullary Cavernous Hemangioma of the Spinal Cord in Relation to Preoperative Motor Paresis, Disease Duration, and Tumor Volume and Location",
+      "authors": [
+        {
+          "name": "S. Imagama",
+          "id": "4982101"
+        },
+        {
+          "name": "Z. Ito",
+          "id": "3651376"
+        },
+        {
+          "name": "K. Ando",
+          "id": "4836313"
+        },
+        {
+          "name": "Kazuyoshi Kobayashi",
+          "id": "5116197"
+        },
+        {
+          "name": "Tetsuro Hida",
+          "id": "7903622"
+        },
+        {
+          "name": "Kenyu Ito",
+          "id": "4823126"
+        },
+        {
+          "name": "Mikito Tsushima",
+          "id": "6822567"
+        },
+        {
+          "name": "Yoshimoto Ishikawa",
+          "id": "3772057"
+        },
+        {
+          "name": "Akiyuki Matsumoto",
+          "id": "7967680"
+        },
+        {
+          "name": "M. Morozumi",
+          "id": "4974104"
+        },
+        {
+          "name": "S. Tanaka",
+          "id": "48543287"
+        },
+        {
+          "name": "M. Machino",
+          "id": "34664650"
+        },
+        {
+          "name": "Kyotaro Ota",
+          "id": "24387549"
+        },
+        {
+          "name": "H. Nakashima",
+          "id": "40204147"
+        },
+        {
+          "name": "Norimitsu Wakao",
+          "id": "4168863"
+        },
+        {
+          "name": "Yoshihito Sakai",
+          "id": "2244624"
+        },
+        {
+          "name": "Y. Matsuyama",
+          "id": "2468430"
+        },
+        {
+          "name": "N. Ishiguro",
+          "id": "4540142"
+        }
+      ],
+      "year": 2017,
+      "venue": "Global Spine Journal",
+      "score": 0.3263523392910093,
+      "abstract": "Study Design: Prospective study. Objective: Investigate factors associated with preoperative motor paresis, recovery, ambulatory status, and intraoperative neurophysiological monitoring (IONM) among patients with no preoperative paresis (N group), complete preoperative motor recovery (CR group), and no complete recovery (NCR group) in patients with intramedullary spinal cavernous hemangioma to determine the optimal timing of surgery. Methods: The study evaluated 41 surgical cases in our institute. Disease duration, tumor lesion, manual muscle testing (MMT), and gait at onset, just before surgery, and final follow-up (FU), tumor and lesion volume, IONM, extent of tumor resection, and tumor recurrence were evaluated among N, CR, and NCR groups. Results: Motor paresis at onset was found in 26 patients (63%), with 42% of those in CR group. Disease duration from onset negatively affected stable gait just before surgery and FU as well as lower preoperative MMT (P < .05). Thoracic tumors were associated with patients with unstable gait before surgery (P < .05). Tumor volume was larger in NCR group (P < .05). IONM significantly decreased in NCR and CR groups than in N group (P < .05). The NCR group had residual mild motor paresis at FU (P < .05). Stable gait at FU was similar in N group and CR group, though lower in NCR group (P < .05). Conclusions: Early surgery is generally recommended for thoracic tumors and large tumors during stable gait without motor paresis before long disease duration. Surgery may be postponed until patients recover from preoperative motor paresis to allow optimal surgical outcome. IONM should be carefully monitored in patients with a history of preoperative paresis even with preoperative complete motor recovery.",
+      "corpusId": 9699888,
+      "url": "https://api.semanticscholar.org/CorpusId:9699888",
+      "pubmed_id": "28660107",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1177/2192568217707938",
+        "matched_title": "Optimal Timing of Surgery for Intramedullary Cavernous Hemangioma of the Spinal Cord in Relation to Preoperative Motor Paresis, Disease Duration, and Tumor Volume and Location.",
+        "matched_pubdate": "2017 May",
+        "matched_source": "Global Spine J"
+      }
+    }
+  ]
+}

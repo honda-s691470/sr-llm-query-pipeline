@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-21T07:12:59Z",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41708995_2026",
+  "provider": "gemini",
+  "model": "gemini-3.0-pro",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Brain Ischemia\"[Mesh] OR stroke[ti] OR \"ischemic stroke\"[tiab] OR \"ischaemic stroke\"[tiab] OR \"acute ischemic stroke\"[tiab] OR \"AIS\"[tiab] OR \"cerebral infarction\"[tiab] OR \"brain infarction\"[tiab] OR \"cerebrovascular accident\"[tiab]) AND (\"Biomarkers\"[Mesh] OR biomarker*[tiab] OR marker*[tiab] OR \"Proteins\"[Mesh] OR protein*[tiab] OR proteomic*[tiab] OR \"Metabolites\"[Mesh] OR metabolite*[tiab] OR metabolic*[tiab] OR metabolomic*[tiab] OR \"RNA\"[Mesh] OR \"DNA\"[Mesh] OR RNA[tiab] OR DNA[tiab] OR microRNA*[tiab] OR \"nucleic acid\"[tiab] OR \"ribonucleic acid\"[tiab]) AND (\"Systematic Review\"[pt] OR \"Meta-Analysis\"[pt] OR \"Systematic Reviews as Topic\"[Mesh] OR \"Meta-Analysis as Topic\"[Mesh] OR \"systematic review\"[tiab] OR \"meta-analysis\"[tiab] OR \"systematic literature review\"[tiab]))",
+  "query_length": 791,
+  "gold_count": 27,
+  "total_hits": 2113,
+  "hit_gold_count": 24,
+  "recall": 0.8888888888888888,
+  "nnr": 88.04166666666667,
+  "f1": 0.022429906542056073,
+  "error_note": ""
+}

@@ -1,0 +1,118 @@
+{
+  "target_dir": "public_release\\09_openscholar_query_dataset\\41630847_2026",
+  "gold_path": "05_test_data\\01_Rheumatoid_Arthritis\\41630847_2026\\gold_pmids.json",
+  "fuzzy_threshold_same_year": 0.95,
+  "fuzzy_threshold_near_year": 0.98,
+  "reports": [
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41630847_2026\\papers_normal_with_pmid.json",
+      "paper_count": 75,
+      "gold_count": 12,
+      "tp_pmid_exact": 9,
+      "tp_title_year_exact_additional": 0,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 9,
+      "tp_relaxed_total": 9,
+      "recall_pmid_exact": 0.75,
+      "recall_strict": 0.75,
+      "recall_relaxed": 0.75,
+      "matched_pmids_pmid_exact": [
+        "24898360",
+        "28678807",
+        "29136635",
+        "29861211",
+        "32984893",
+        "33386606",
+        "33789293",
+        "33999944",
+        "36431290"
+      ],
+      "matched_pmids_strict": [
+        "24898360",
+        "28678807",
+        "29136635",
+        "29861211",
+        "32984893",
+        "33386606",
+        "33789293",
+        "33999944",
+        "36431290"
+      ],
+      "matched_pmids_relaxed": [
+        "24898360",
+        "28678807",
+        "29136635",
+        "29861211",
+        "32984893",
+        "33386606",
+        "33789293",
+        "33999944",
+        "36431290"
+      ],
+      "exact_title_year_details": [],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "12508387",
+        "29860668",
+        "40884091"
+      ]
+    },
+    {
+      "file": "public_release\\09_openscholar_query_dataset\\41630847_2026\\papers_deep_with_pmid.json",
+      "paper_count": 338,
+      "gold_count": 12,
+      "tp_pmid_exact": 11,
+      "tp_title_year_exact_additional": 0,
+      "tp_title_year_fuzzy_additional": 0,
+      "tp_strict_total": 11,
+      "tp_relaxed_total": 11,
+      "recall_pmid_exact": 0.9166666666666666,
+      "recall_strict": 0.9166666666666666,
+      "recall_relaxed": 0.9166666666666666,
+      "matched_pmids_pmid_exact": [
+        "24898360",
+        "28678807",
+        "29136635",
+        "29860668",
+        "29861211",
+        "32984893",
+        "33386606",
+        "33789293",
+        "33999944",
+        "36431290",
+        "40884091"
+      ],
+      "matched_pmids_strict": [
+        "24898360",
+        "28678807",
+        "29136635",
+        "29860668",
+        "29861211",
+        "32984893",
+        "33386606",
+        "33789293",
+        "33999944",
+        "36431290",
+        "40884091"
+      ],
+      "matched_pmids_relaxed": [
+        "24898360",
+        "28678807",
+        "29136635",
+        "29860668",
+        "29861211",
+        "32984893",
+        "33386606",
+        "33789293",
+        "33999944",
+        "36431290",
+        "40884091"
+      ],
+      "exact_title_year_details": [],
+      "fuzzy_title_year_details": [],
+      "unmatched_gold_pmids_after_relaxed": [
+        "12508387"
+      ]
+    }
+  ]
+}

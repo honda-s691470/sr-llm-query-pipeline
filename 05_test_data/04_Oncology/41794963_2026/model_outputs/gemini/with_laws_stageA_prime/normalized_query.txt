@@ -1,0 +1,1 @@
+("Neuroma, Acoustic"[Mesh] OR "acoustic neuroma*"[tiab] OR "vestibular schwannoma*"[tiab] OR "acoustic neurinoma*"[tiab] OR "acoustic neurile*"[tiab]) AND ("Quality of Life"[Mesh] OR "Quality of Life"[tiab] OR HRQOL*[tiab] OR HR-QOL*[tiab] OR PANQOL*[tiab] OR PAN-QOL*[tiab] OR "Penn Acoustic Neuroma Quality of Life"[tiab]) AND (english[la] OR dutch[la]) NOT "Letter"[pt]

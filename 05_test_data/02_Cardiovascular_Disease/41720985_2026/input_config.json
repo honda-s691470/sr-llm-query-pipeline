@@ -1,0 +1,6 @@
+{
+  "target_name": "41720985_2026",
+  "objectives": "To evaluate the consistency and completeness of baseline and surgical variable reporting in studies of spinal cord cavernous malformation surgery, and to identify temporal and geographic trends in reporting practices. The primary outcome was the proportion of studies reporting demographic, clinical, and radiological variables. Secondary outcomes included temporal and geographic trends in reporting practices, with emphasis on identifying inconsistencies and gaps in the literature.",
+  "inclusion_criteria": "Full-text primary studies, English language, published 1995-2025; human patients with spinal cord cavernous malformations; surgical management reported; at least one baseline characteristic reported, such as demographic variables, neurological status, or imaging findings; prospective studies with >=10 patients or retrospective studies with >=20 patients; all randomised controlled trials.",
+  "exclusion_criteria": "Case reports or small case series below the thresholds above; reviews, meta-analyses, editorials, letters, and conference abstracts; mixed pathology cohorts without separately extractable SCM data; studies without extractable baseline characteristics; non-human or in vitro studies; non-English publications."
+}

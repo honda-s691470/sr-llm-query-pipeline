@@ -1,0 +1,8 @@
+{
+  "provider": "gemini",
+  "condition": "without_laws",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41781907_2026",
+  "query": "(Breast Neoplasms[Mesh] OR \"breast cancer\"[tiab] OR \"breast neoplasm*\"[tiab] OR \"breast carcinoma*\"[tiab]) AND (germline[tiab] OR \"Germ-Line Mutation\"[Mesh] OR \"Polymorphism, Single Nucleotide\"[Mesh] OR variant*[tiab] OR mutation*[tiab] OR SNP[tiab] OR SNPs[tiab] OR genotype*[tiab] OR allele*[tiab]) AND (survival[tiab] OR prognos*[tiab] OR outcome*[tiab] OR recurrence[tiab] OR relapse[tiab] OR mortality[tiab] OR \"Survival Analysis\"[Mesh] OR Prognosis[Mesh] OR \"Survival Rate\"[Mesh] OR \"metastas*\"[tiab]) AND (2000/01/01[dp] : 2024/06/30[dp])",
+  "status": "ok"
+}

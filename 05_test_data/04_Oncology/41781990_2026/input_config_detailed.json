@@ -1,0 +1,50 @@
+{
+  "target_name": "41781990_2026",
+  "pmid": "41781990",
+  "objectives": "To systematically evaluate, by meta-analysis, the safety of hyperthermic intraperitoneal chemotherapy (HIPEC) in treating gastrointestinal malignancies, addressing a central clinical concern that often dictates its adoptability independent of efficacy considerations, and to provide evidence-based medical support for its clinical application.",
+  "inclusion_criteria": "English-language randomized controlled trials (RCTs); patients diagnosed with advanced gastric or colorectal cancer with peritoneal metastases; HIPEC as the experimental intervention; a non-HIPEC control group; and studies reporting relevant data on the incidence of adverse reactions or complications.",
+  "exclusion_criteria": "Excluded were studies in patients without gastric or colorectal cancer; studies not using HIPEC; non-randomized controlled trials, case analyses, review articles, protocols, pilot studies, single-arm clinical trials, and multi-arm trials lacking a control group; and studies with incomplete outcome indicators, unobtainable data, or data that could not be converted.",
+  "pmid_query": "(\"Gastrointestinal Neoplasms\"[Mesh] OR \"Peritoneal Neoplasms\"[Mesh] OR \"Digestive System Neoplasms\"[Mesh] OR \"gastrointestinal cancer*\"[tiab] OR \"GI cancer*\"[tiab] OR \"gastric cancer*\"[tiab] OR \"stomach cancer*\"[tiab] OR \"colorectal cancer*\"[tiab] OR \"colon cancer*\"[tiab] OR \"rectal cancer*\"[tiab] OR \"appendiceal cancer*\"[tiab] OR \"peritoneal carcinomatosis\"[tiab] OR \"peritoneal metastasis*\"[tiab]) AND (\"Hyperthermia, Induced\"[Mesh] OR \"Peritoneal Lavage\"[Mesh] OR \"Antineoplastic Agents\"[Mesh] OR \"Hyperthermic Intraperitoneal Chemotherapy\"[tiab] OR \"HIPEC\"[tiab] OR \"intraperitoneal chemohyperthermia\"[tiab] OR \"chemohyperthermia\"[tiab] OR \"intraperitoneal hyperthermic chemotherapy\"[tiab] OR \"heated intraperitoneal chemotherapy\"[tiab] OR \"peritoneal perfusion\"[tiab] OR \"abdominal perfusion\"[tiab]) AND (\"Safety\"[Mesh] OR \"Treatment Outcome\"[Mesh] OR \"Adverse Events\"[Mesh] OR \"Drug-Related Side Effects and Adverse Reactions\"[Mesh] OR \"Postoperative Complications\"[Mesh] OR \"Morbidity\"[Mesh] OR \"Mortality\"[Mesh] OR \"safety\"[tiab] OR \"adverse event*\"[tiab] OR \"side effect*\"[tiab] OR \"toxicity\"[tiab] OR \"treatment-related\"[tiab] OR \"complication*\"[tiab] OR \"morbidity\"[tiab] OR \"mortality\"[tiab] OR \"tolerability\"[tiab] OR \"grade 3\"[tiab] OR \"grade 4\"[tiab] OR \"grade 5\"[tiab]))",
+  "ref_selection_strategy": "ref_numbers",
+  "selected_ref_numbers": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "selected_ref_nums_compact": "8-17",
+  "selection_evidence": "Results/Figure 1 report that 10 RCTs were included. Main Table 1 lists 10 study authors/years, and Supplementary Table 2 repeats the same 10 included trials: Rau B 2024, Yang XJ 2011, Quenet F 2021, Verwaal VJ 2003, Yu P 2023, Liu L 2022, Fan B 2021, Huang O 2015, Beeharry MK 2019, and Baratti D 2020. Matching those author/year entries to the numbered manuscript reference list yields Rau B 2024=8, Yang XJ 2011=9, Quenet F 2021=10, Verwaal VJ 2003=11, Yu P 2023=12, Liu L 2022=13, Fan B 2021=14, Huang O 2015=15, Beeharry MK 2019=16, and Baratti D 2020=17. These references are all literature citations; no website, dataset, or software references are included in refs 8-17.",
+  "notes": "The article-in-press Table 1 shows broken citation placeholders (\"Error: Reference source not found\") instead of visible superscript reference numbers, so the selected ref numbers were reconstructed by exact author/year matching between Table 1/Supplementary Table 2 and the numbered reference list. The stated eligibility criteria require peritoneal metastases, but Results 2.3.1 says 3 included trials were adjuvant/prophylactic without documented peritoneal metastases at surgery.",
+  "predicted_pmids": [
+    "37906724",
+    "21431408",
+    "33476595",
+    "14551293",
+    "37392201",
+    "35100917",
+    "33653317",
+    "25398590",
+    "31533660",
+    "31691116"
+  ],
+  "gold_pmids": [
+    "37906724",
+    "21431408",
+    "33476595",
+    "14551293",
+    "37392201",
+    "35100917",
+    "33653317",
+    "25398590",
+    "31533660",
+    "31691116"
+  ],
+  "generated_at": "2026-03-10T02:22:59.098991+00:00",
+  "pipeline": "auto_include_pipeline_v1"
+}

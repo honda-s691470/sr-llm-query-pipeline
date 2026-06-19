@@ -1,0 +1,1104 @@
+{
+  "papers": [
+    {
+      "title": "Pharmacological and non-pharmacological therapeutic strategies in difficult-to-treat rheumatoid arthritis: a systematic literature review informing the EULAR recommendations for the management of difficult-to-treat rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "N. Roodenrijs",
+          "id": "51113856"
+        },
+        {
+          "name": "A. Hamar",
+          "id": "50240389"
+        },
+        {
+          "name": "M. Kedves",
+          "id": "2046382731"
+        },
+        {
+          "name": "G. Nagy",
+          "id": "50663181"
+        },
+        {
+          "name": "J. V. van Laar",
+          "id": "144517223"
+        },
+        {
+          "name": "D. M. van der Heijde",
+          "id": "8018509"
+        },
+        {
+          "name": "P. Welsing",
+          "id": "48659292"
+        }
+      ],
+      "year": 2021,
+      "venue": "RMD Open",
+      "score": 0.721831431840798,
+      "abstract": "Objectives To summarise, by a systematic literature review (SLR), the evidence regarding pharmacological and non-pharmacological therapeutic strategies in difficult-to-treat rheumatoid arthritis (D2T RA), informing the EULAR recommendations for the management of D2T RA. Methods PubMed, Embase and Cochrane databases were searched up to December 2019. Relevant papers were selected and appraised. Results Two hundred seven (207) papers studied therapeutic strategies. Limited evidence was found on effective and safe disease-modifying antirheumatic drugs (DMARDs) in patients with comorbidities and other contraindications that limit DMARD options (patients with obesity, hepatitis B and C, risk of venous thromboembolisms, pregnancy and lactation). In patients who previously failed biological (b-)DMARDs, all currently used b/targeted synthetic (ts-)DMARDs were found to be more effective than placebo. In patients who previously failed a tumour necrosis factor inhibitor (TNFi), there was a tendency of non-TNFi bDMARDs to be more effective than TNFis. Generally, effectiveness decreased in patients who previously failed a higher number of bDMARDs. Additionally, exercise, psychological, educational and self-management interventions were found to improve non-inflammatory complaints (mainly functional disability, pain, fatigue), education to improve goal setting, and self-management programmes, educational and psychological interventions to improve self-management. The identified evidence had several limitations: (1) no studies were found in patients with D2T RA specifically, (2) heterogeneous outcome criteria were used and (3) most studies had a moderate or high risk of bias. Conclusions This SLR underscores the scarcity of high-quality evidence on the pharmacological and non-pharmacological treatment of patients with D2T RA. Effectiveness of b/tsDMARDs decreased in RA patients who had failed a higher number of bDMARDs and a subsequent b/tsDMARD of a previously not targeted mechanism of action was somewhat more effective. Additionally, a beneficial effect of non-pharmacological interventions was found for improvement of non-inflammatory complaints, goal setting and self-management.",
+      "corpusId": 231305487,
+      "url": "https://api.semanticscholar.org/CorpusId:231305487",
+      "pubmed_id": "33419871",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1136/rmdopen-2020-001512",
+        "matched_title": "Pharmacological and non-pharmacological therapeutic strategies in difficult-to-treat rheumatoid arthritis: a systematic literature review informing the EULAR recommendations for the management of difficult-to-treat rheumatoid arthritis.",
+        "matched_pubdate": "2021 Jan",
+        "matched_source": "RMD Open"
+      }
+    },
+    {
+      "title": "Comparative Effectiveness Research (CER): A Summary of AHRQ’s CER on Therapies for Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "G. Oderda",
+          "id": "6349875"
+        },
+        {
+          "name": "Lisa M. Balfe",
+          "id": "9863079"
+        }
+      ],
+      "year": 2011,
+      "venue": "Journal of Managed Care Pharmacy",
+      "score": 0.5652863625225923,
+      "abstract": "BACKGROUND: In recent years, the U.S. government has designated funding of several large-scale initiatives for comparative effectiveness research (CER) in health care. The American Recovery and Reinvestment Act (ARRA) of 2009 apportioned more than $1 billion to support CER programs administered by the Department of Health and Human Services (DHHS), the National Institutes of Health (NIH), and the Agency for Healthcare Research and Quality (AHRQ). CER is generally defined as the undertaking of original research or systematic reviews of published literature in order to compare the benefits and risks of different approaches to preventing, diagnosing, or treating diseases. These approaches may include diagnostic tests, medications, medical devices, and surgeries. The overall goals of CER are to support informed health care decisions by patients, clinicians, payers, and policy makers and to apply its evidence to ultimately improve the quality, effectiveness, and efficiency of health care. OBJECTIVES: To (a) provide managed care professionals with general definitions of CER, specifically as it is administered by AHRQ; (b) discuss the importance of CER to clinical and managed care pharmacists; and (c) summarize key methods and findings from AHRQ’s 2007 comparative effectiveness review on therapies for rheumatoid arthritis (RA). SUMMARY: As supported by AHRQ, CER is conducted in order to synthesize comprehensive evidence on the comparative benefits and harms of treatment interventions. The findings from comparative effectiveness reviews can thus contribute to informing therapeutic strategies and treatment decisions. In 2007, a multitude of RA treatment options and studies motivated AHRQ to commission a systematic comparative effectiveness review. Conducted by investigators at the RTI-University of North Carolina Evidence-Based Practice Center, the review included comparisons of synthetic disease-modifying antirheumatic drugs (DMARDs), biologic agents, synthetic DMARDs versus biologic agents, and various combination therapies. Head-to-head comparisons of synthetic DMARDs generally revealed no significant differences in long-term clinical and radiographic outcomes, or in functional capacity or health-related quality of life. Two nonrandomized prospective cohort studies and 1 open-label effectiveness trial reported no differences in ACR20 and ACR50 response rates in patients treated with the tissue necrosis factor (TNF)-alpha inhibitors etanercept and infliximab. Comparisons of TNF-alpha inhibitors generally indicated no significant differences in rates of adverse events, including serious infections, and no increases in rates over time. In comparisons of a biologic agent combined with methotrexate versus a biologic agent alone, combination therapies were generally associated with better clinical response rates and better outcomes of functional capacity and quality of life. The most common adverse events observed in studies on biologic agents were diarrhea, headache, nausea, rhinitis, injection site reactions, and upper respiratory tract infections.",
+      "corpusId": 16255534,
+      "url": "https://api.semanticscholar.org/CorpusId:16255534",
+      "pubmed_id": "22073936",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.18553/jmcp.2011.17.s9-b.s19",
+        "matched_title": "Comparative effectiveness research (CER): a summary of AHRQ's CER on therapies for rheumatoid arthritis.",
+        "matched_pubdate": "2011 Nov-Dec",
+        "matched_source": "J Manag Care Pharm"
+      }
+    },
+    {
+      "title": "Digital Therapeutics for Improving Effectiveness of Pharmaceutical Drugs and Biological Products: Preclinical and Clinical Studies Supporting Development of Drug + Digital Combination Therapies for Chronic Diseases",
+      "authors": [
+        {
+          "name": "Zack Biskupiak",
+          "id": "2169999279"
+        },
+        {
+          "name": "Victor Vinh Ha",
+          "id": "2279305259"
+        },
+        {
+          "name": "Aarushi Rohaj",
+          "id": "1657734005"
+        },
+        {
+          "name": "Grzegorz Bulaj",
+          "id": "2154998397"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Clinical Medicine",
+      "score": 0.4330805978015244,
+      "abstract": "Limitations of pharmaceutical drugs and biologics for chronic diseases (e.g., medication non-adherence, adverse effects, toxicity, or inadequate efficacy) can be mitigated by mobile medical apps, known as digital therapeutics (DTx). Authorization of adjunct DTx by the US Food and Drug Administration and draft guidelines on “prescription drug use-related software” illustrate opportunities to create drug + digital combination therapies, ultimately leading towards drug–device combination products (DTx has a status of medical devices). Digital interventions (mobile, web-based, virtual reality, and video game applications) demonstrate clinically meaningful benefits for people living with Alzheimer’s disease, dementia, rheumatoid arthritis, cancer, chronic pain, epilepsy, depression, and anxiety. In the respective animal disease models, preclinical studies on environmental enrichment and other non-pharmacological modalities (physical activity, social interactions, learning, and music) as surrogates for DTx “active ingredients” also show improved outcomes. In this narrative review, we discuss how drug + digital combination therapies can impact translational research, drug discovery and development, generic drug repurposing, and gene therapies. Market-driven incentives to create drug–device combination products are illustrated by Humira® (adalimumab) facing a “patent-cliff” competition with cheaper and more effective biosimilars seamlessly integrated with DTx. In conclusion, pharma and biotech companies, patients, and healthcare professionals will benefit from accelerating integration of digital interventions with pharmacotherapies.",
+      "corpusId": 266974610,
+      "url": "https://api.semanticscholar.org/CorpusId:266974610",
+      "pubmed_id": "38256537",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/jcm13020403",
+        "matched_title": "Digital Therapeutics for Improving Effectiveness of Pharmaceutical Drugs and Biological Products: Preclinical and Clinical Studies Supporting Development of Drug + Digital Combination Therapies for Chronic Diseases.",
+        "matched_pubdate": "2024 Jan 11",
+        "matched_source": "J Clin Med"
+      }
+    },
+    {
+      "title": "Mechanisms, impact and management of pain in rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "D. Walsh",
+          "id": "48259350"
+        },
+        {
+          "name": "D. McWilliams",
+          "id": "3690332"
+        }
+      ],
+      "year": 2014,
+      "venue": "Nature Reviews Rheumatology",
+      "score": 0.42582425407822033,
+      "abstract": "",
+      "corpusId": 3564586,
+      "url": "https://doi.org/10.1038/nrrheum.2014.64",
+      "pubmed_id": "24861185",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1038/nrrheum.2014.64",
+        "matched_title": "Mechanisms, impact and management of pain in rheumatoid arthritis.",
+        "matched_pubdate": "2014 Oct",
+        "matched_source": "Nat Rev Rheumatol"
+      }
+    },
+    {
+      "title": "Comparative effectiveness of treatments for rheumatoid arthritis in clinical practice: A systematic review.",
+      "authors": [
+        {
+          "name": "J. Sparks",
+          "id": "144508761"
+        },
+        {
+          "name": "L. Harrold",
+          "id": "2608799"
+        },
+        {
+          "name": "Teresa A. Simon",
+          "id": "2247157749"
+        },
+        {
+          "name": "K. Wittstock",
+          "id": "2051623533"
+        },
+        {
+          "name": "S. Kelly",
+          "id": "88013098"
+        },
+        {
+          "name": "K. Lozenski",
+          "id": "6654720"
+        },
+        {
+          "name": "V. Khaychuk",
+          "id": "5601133"
+        },
+        {
+          "name": "Kaleb Michaud",
+          "id": "2242159701"
+        }
+      ],
+      "year": 2023,
+      "venue": "Seminars in Arthritis & Rheumatism",
+      "score": 0.4257197017873665,
+      "abstract": "OBJECTIVE\nTo assess real-world comparative effectiveness studies of biologic (b) and targeted synthetic (ts) disease-modifying antirheumatic drugs (DMARDs) in adults with rheumatoid arthritis (RA) through a systematic review.\n\n\nMETHODS\nWe searched Medline for journal articles (2001-2021) and Embase® for abstracts presented at the European Alliance of Associations for Rheumatology and American College of Rheumatology (ACR) 2020 and 2021 annual meetings on non-randomized studies comparing the effectiveness of b/tsDMARDs using ACR-recommended disease activity measures, measures of functional status, and patient-reported outcomes (HAQ, PROMIS PF, patient pain, Patient and Physician Global Assessment of disease activity). Methodological heterogeneity between studies precluded meta-analyses. Risk of bias was assessed using the Cochrane Risk Of Bias In Non-randomized Studies of Interventions-I tool.\n\n\nRESULTS\nOf 1283 records screened, 68 were selected for data extraction, of which 1 was excluded due to critical risk of bias. Most studies were multicenter observational cohort/registry studies (n = 60) and were published between 2011 and 2021 (n = 60). Mean or median reported RA duration was between 6 and 15 years. Disease Activity Score in 28 joints (46 studies), Clinical Disease Activity Index (37 studies), and Health Assessment Questionnaire-Disability Index (32 studies) were the most common outcomes used in clinical practice, with regional differences identified. The most common comparison was between tumor necrosis factor inhibitors (TNFis) and non-TNFi bDMARDs (35 studies). There were no evident differences between b/tsDMARDs in clinical effectiveness.\n\n\nCONCLUSION\nThis systematic review summarizing real-world evidence from a very large number of global studies found there are many effective options for the treatment of RA, but relatively less evidence to support the use of any one b/tsDMARD or drug class over another. Treatment for patients with RA should be tailored to suit individual clinical profiles. Further research is needed to identify whether specific patient subgroups may benefit from specific drug classes.",
+      "corpusId": 265969733,
+      "url": "https://api.semanticscholar.org/CorpusId:265969733",
+      "pubmed_id": "37573754",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.semarthrit.2023.152249",
+        "matched_title": "Comparative effectiveness of treatments for rheumatoid arthritis in clinical practice: A systematic review.",
+        "matched_pubdate": "2023 Oct",
+        "matched_source": "Semin Arthritis Rheum"
+      }
+    },
+    {
+      "title": "Effectiveness of Yoga and Acupuncture in Rheumatoid Arthritis: A Systematic Review and Meta-Analysis",
+      "authors": [
+        {
+          "name": "Carla Andrea Cortés-Ladino",
+          "id": "2256892279"
+        },
+        {
+          "name": "Wanderley Augusto Arias-Ortiz",
+          "id": "2256894683"
+        },
+        {
+          "name": "A. Porras-Ramírez",
+          "id": "1405122637"
+        }
+      ],
+      "year": 2023,
+      "venue": "Evidence-Based Complementary and Alternative Medicine",
+      "score": 0.42510612993780833,
+      "abstract": "Introduction Rheumatoid arthritis is a form of inflammatory joint disease; sometimes, patients need prolonged cycles of nonsteroidal anti-inflammatory drugs and/or glucocorticoids for symptomatology management in addition to traditional disease-modifying drugs and biologics. On some occasions, doses are increased without improvement of symptoms associated with side effects; this is why, on some occasions, patients seek other types of nonpharmacological therapies, such as alternative therapies. Objective To establish the effectiveness of alternative therapies such as yoga and acupuncture in rheumatoid arthritis by measuring disease activity with the disease activity score 28. Methods A systematic review of the literature and meta-analysis was performed; databases such as PubMed and Embase were used to find the best available evidence of randomized clinical trials from 2017 to 2021, two researchers independently screened and extracted the necessary data, and the methodological quality and the risk of bias were assessed through the Cochrane risk-of-bias tool. The articles that applied for meta-analysis were analyzed in Jamovi version 2.2 and EPIDATA version 3.1 software. Results Eight studies were included for qualitative analysis of which seven were included in the meta-analysis, with 550 rheumatoid arthritis patients, predominantly female. The meta-analysis evidenced a significant effect of yoga and acupuncture interventions in decreasing DAS 28 in patients with rheumatoid arthritis (four RCTs; SMD −2.51 95% CI [−2.89, −2.14], p ≤ 0.001, I2 25.9%); in the yoga subgroup analysis, there was also evidence of improvement in the evaluated outcome (three RCTs; SMD −0.51 95% CI [−0.71, −0.30], p ≤ 0.001, I2 0%). Conclusion It was demonstrated that the practice of yoga and acupuncture in patients with rheumatoid arthritis helped to decrease disease activity through the improvement of pain and joint inflammation; we recommend the implementation of this type of alternative intervention associated with conventional therapies for the management of patients diagnosed with rheumatoid arthritis.",
+      "corpusId": 263818840,
+      "url": "https://api.semanticscholar.org/CorpusId:263818840",
+      "pubmed_id": "37842334",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1155/2023/9098442",
+        "matched_title": "Effectiveness of Yoga and Acupuncture in Rheumatoid Arthritis: A Systematic Review and Meta-Analysis.",
+        "matched_pubdate": "2023",
+        "matched_source": "Evid Based Complement Alternat Med"
+      }
+    },
+    {
+      "title": "Pharmacological pain management in patients with rheumatoid arthritis: a narrative literature review",
+      "authors": [
+        {
+          "name": "Natasha Cox",
+          "id": "2239190279"
+        },
+        {
+          "name": "C. Mallen",
+          "id": "2241138533"
+        },
+        {
+          "name": "Ian C Scott",
+          "id": "2239252224"
+        }
+      ],
+      "year": 2025,
+      "venue": "BMC Medicine",
+      "score": 0.42235465349443924,
+      "abstract": "Pain is a major challenge for patients with rheumatoid arthritis (RA), with many people suffering chronic pain. Current RA management guidelines focus on assessing and reducing disease activity using disease-modifying anti-rheumatic drugs (DMARDs). Consequently, pain care is often suboptimal, with growing evidence that analgesics are widely prescribed to patients with RA, despite potential toxicities and limited evidence for efficacy. Our review provides an overview of pharmacological treatments for pain in patients with RA, summarising their efficacy and use. Thirteen systematic reviews of drug efficacy for pain in patients with RA were included in this review. These showed moderate- to high-quality evidence from clinical trials in more contemporary time-periods (mainly 1990s/2000s for synthetic DMARDs and post-2000 for biological/targeted synthetic DMARDs) that, in patients with active RA, short-term glucocorticoids and synthetic, biologic, and targeted synthetic DMARDs have efficacy at reducing pain intensity relative to placebo. In contrast, they showed low-quality evidence from trials in more historical time-periods (mainly in the 1960s–1990s for opioids and paracetamol) that (aside from naproxen) analgesics/neuromodulators provide any improvements in pain relative to placebo, and no supportive evidence for gabapentinoids, or long-term opioids. Despite this evidence base, 21 studies of analgesic prescribing in patients with RA consistently showed substantial and sustained prescribing of analgesics, particularly opioids, with approximately one quarter and > 40% of patients receiving chronic opioid prescriptions in each year in England and North America, respectively. Whilst NSAID prescribing had fallen over time across countries, gabapentinoid prescribing in England had risen from < 1% of patients in 2004 to approximately 10% in 2020. Prescribing levels varied substantially between individual clinicians and groups of patients. In patients with active RA, DMARDs have efficacy at reducing pain, supporting the role of treat-to-target strategies. Despite limited evidence that analgesics improve pain in patients with RA, these medicines are widely prescribed. The reasons for this are unclear. We consider that closing this evidence-to-practice gap requires qualitative research exploring the drivers of this practice, high-quality trials of analgesic efficacy in contemporary RA populations, alongside an increased focus on pain management (including pharmacological and non-pharmacological options) within RA guidelines.",
+      "corpusId": 275959075,
+      "url": "https://api.semanticscholar.org/CorpusId:275959075",
+      "pubmed_id": "39881356",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/s12916-025-03870-0",
+        "matched_title": "Pharmacological pain management in patients with rheumatoid arthritis: a narrative literature review.",
+        "matched_pubdate": "2025 Jan 29",
+        "matched_source": "BMC Med"
+      }
+    },
+    {
+      "title": "The Effects of Aromatherapy Massage and Reflexology on Pain and Fatigue in Patients with Rheumatoid Arthritis: A Randomized Controlled Trial.",
+      "authors": [
+        {
+          "name": "Zehra Gok Metin",
+          "id": "13487689"
+        },
+        {
+          "name": "Leyla Ozdemir",
+          "id": "2243460633"
+        }
+      ],
+      "year": 2016,
+      "venue": "Pain Management Nursing",
+      "score": 0.42012470080762104,
+      "abstract": "",
+      "corpusId": 203766650,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/27091583",
+      "pubmed_id": "27091583",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.pmn.2016.01.004",
+        "matched_title": "The Effects of Aromatherapy Massage and Reflexology on Pain and Fatigue in Patients with Rheumatoid Arthritis: A Randomized Controlled Trial.",
+        "matched_pubdate": "2016 Apr",
+        "matched_source": "Pain Manag Nurs"
+      }
+    },
+    {
+      "title": "Pain Medication and Corticosteroid Use in Ankylosing Spondylitis, Psoriatic Arthritis, and Rheumatoid Arthritis in the United States: A Retrospective Observational Study",
+      "authors": [
+        {
+          "name": "T. Hunter",
+          "id": "81757290"
+        },
+        {
+          "name": "C. Nguyen",
+          "id": "40061654"
+        },
+        {
+          "name": "J. Birt",
+          "id": "2008334"
+        },
+        {
+          "name": "Joseph L. Smith",
+          "id": "2118968340"
+        },
+        {
+          "name": "M. Shan",
+          "id": "51072560"
+        },
+        {
+          "name": "H. Tan",
+          "id": "36921700"
+        },
+        {
+          "name": "J. Lisse",
+          "id": "4450548"
+        },
+        {
+          "name": "K. Isenberg",
+          "id": "2121068790"
+        }
+      ],
+      "year": 2021,
+      "venue": "Rheumatology and Therapy",
+      "score": 0.41913765047387247,
+      "abstract": "We compared pain medication use in patients with ankylosing spondylitis (AS), psoriatic arthritis (PsA), and rheumatoid arthritis (RA) versus matched control over 2 years; a subgroup analysis assessed changes in pain medication use in patients who initiated a biologic during 12 months before and after. This was a retrospective observational cohort study using an administrative claims database. Newly diagnosed adult patients with AS, PsA, or RA identified between 1/1/2014 and 7/31/2017 were included. Demographics, baseline characteristics, and pain medication use were described using descriptive statistics. Differences in pain medication use were assessed using McNemar's/Wilcoxon signed-rank test for categorical/continuous variables. The study included 2180 AS, 5681 PsA, and 34,047 RA patients to assess overall pain medication use over 2 years; 188 AS, 921 PsA, and 1599 RA patients were included to assess changes in pain medication use 12 months before and after initiation of biologic. Demographics and baseline characteristics were balanced. In the overall cohort, 74.6% AS, 75.0% PsA, and 83.0% RA patients used any pain medication at baseline versus matched control; pain medications use 2 years after diagnosis date was reported in 73.5% AS, 74.1% PsA, and 81.3% RA patients. Among AS, PsA, and RA patients, use of prescribed NSAIDs (AS: 68.1 vs. 51.1%; PsA: 51.1 vs. 42.5%; RA: 61.1 vs. 41.5%; P < 0.05), glucocorticoids (AS: 56.4 vs. 41.5%; PsA: 57.4 vs. 46.9%; RA: 88.2 vs. 75.3%; P < 0.05), and opioids (AS: 42.6 vs. 36.2% [non-significant]; PsA: 38.1 vs. 33.8%; RA: 52.0 vs. 40.4%; P < 0.05) significantly decreased 12 months after biologic initiation versus prior. Use of NSAIDs, glucocorticoids, and opioids are common among patients with AS, PsA, or RA, although the reported use of these co-medications after biologic initiation significantly decreases in the first year of treatment.",
+      "corpusId": 236438031,
+      "url": "https://api.semanticscholar.org/CorpusId:236438031",
+      "pubmed_id": "34312825",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s40744-021-00344-6",
+        "matched_title": "Pain Medication and Corticosteroid Use in Ankylosing Spondylitis, Psoriatic Arthritis, and Rheumatoid Arthritis in the United States: A Retrospective Observational Study.",
+        "matched_pubdate": "2021 Sep",
+        "matched_source": "Rheumatol Ther"
+      }
+    },
+    {
+      "title": "Self-Management in Patients with Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "Wen Luo",
+          "id": "2114376616"
+        },
+        {
+          "name": "Xiuli Zhang",
+          "id": "50852758"
+        },
+        {
+          "name": "K. Ren",
+          "id": "49507704"
+        }
+      ],
+      "year": 2020,
+      "venue": "Rheumatoid Arthritis - Other Perspectives towards a Better Practice",
+      "score": 0.41746575564373634,
+      "abstract": "Despite the effective pharmacological management of the disease over the last two decades, many individuals with RA continue to have psychological distress, and this is associated with poor outcomes. Addressing psychological issues hand in hand with pharmacological treatment will help to maximize outcomes for people with RA. Self-management (SM) is of utmost importance for people with rheumatoid arthritis to minimize their complaints, reduce clinic visits, and reduce disability. Considering the continuous update on the guidelines for disease management, non-pharmacological management remains a poorly addressed need of importance. In this chapter, we will introduce the current and progress of self-management in patients with rheumatoid arthritis.",
+      "corpusId": 218956931,
+      "url": "https://api.semanticscholar.org/CorpusId:218956931",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Pain Management Strategies in Rheumatoid Arthritis: A Narrative Review",
+      "authors": [
+        {
+          "name": "J. C. Sánchez-Flórez",
+          "id": "2131540677"
+        },
+        {
+          "name": "Daniela Seija-Butnaru",
+          "id": "2131569988"
+        },
+        {
+          "name": "Edmundo Gónima Valero",
+          "id": "2131473360"
+        },
+        {
+          "name": "C. Acosta",
+          "id": "2131569301"
+        },
+        {
+          "name": "Sebastian Amaya",
+          "id": "121662088"
+        }
+      ],
+      "year": 2021,
+      "venue": "Journal of Pain & Palliative Care Pharmacotherapy",
+      "score": 0.4153923279115296,
+      "abstract": "",
+      "corpusId": 238529464,
+      "url": "https://doi.org/10.1080/15360288.2021.1973647",
+      "pubmed_id": "34623946",
+      "pubmed_resolution": {
+        "method": "doi_search",
+        "note": "matched",
+        "doi": "10.1080/15360288.2021.1973647",
+        "matched_title": "Pain Management Strategies in Rheumatoid Arthritis: A Narrative Review.",
+        "matched_pubdate": "2021 Dec",
+        "matched_source": "J Pain Palliat Care Pharmacother"
+      }
+    },
+    {
+      "title": "Where Do We Stand in the Management of Rheumatoid Arthritis Ahead of EULAR/ACR 2025?",
+      "authors": [
+        {
+          "name": "Adriana Liliana Vlad",
+          "id": "2347643777"
+        },
+        {
+          "name": "C. Popazu",
+          "id": "82866241"
+        },
+        {
+          "name": "Alina-Maria Lescai",
+          "id": "2215642661"
+        },
+        {
+          "name": "D. Voinescu",
+          "id": "16224484"
+        },
+        {
+          "name": "A. Balta",
+          "id": "2274482242"
+        }
+      ],
+      "year": 2025,
+      "venue": "Clinics and Practice",
+      "score": 0.4137581251500567,
+      "abstract": "Background: Rheumatoid arthritis (RA) is a chronic autoimmune disease characterised by systemic inflammation and the progressive damage of joints, significantly impacting patients’ quality of life. Managing this condition requires a complex approach that integrates pharmacological and non-pharmacological therapies, alongside psychosocial support and patient education. Aim: This study aims to highlight the importance of an interdisciplinary approach in the treatment of rheumatoid arthritis, focusing on the role of pharmacological therapies, monitoring treatment response, and the involvement of a multidisciplinary team in the effective management of the disease. Methods: The analysis was based on a review of the specialised literature concerning the role of disease-modifying antirheumatic drugs (DMARDs, both conventional and biological), the use of inflammatory markers (CRP and ESR), advanced imaging techniques, and the contribution of various medical specialities to the holistic management of rheumatoid arthritis. A total of 595,900 records were identified, of which 53 studies were ultimately included in the detailed analysis. Relevant studies from fields such as rheumatology, nutrition, psychology, and physical therapy were included. Results: The findings underline that DMARDs, in combination with other pharmacological therapies, remain essential for slowing disease progression. Monitoring treatment response through inflammatory markers and imaging techniques allows for the adjustment of therapeutic strategies and the prevention of complications. An interdisciplinary approach, involving the rheumatologist, general practitioner, physiotherapist, nutritionist, and psychologist, provides significant benefits, such as reducing inflammation, improving joint function, and offering psychosocial support. Conclusions: The effective management of rheumatoid arthritis requires a personalised interdisciplinary approach. Integrating various specialities, along with patient education and psychosocial support, contributes to better disease management, the prevention of disabilities, and improved quality of life. This review is not registered.",
+      "corpusId": 278964945,
+      "url": "https://api.semanticscholar.org/CorpusId:278964945",
+      "pubmed_id": "40558221",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3390/clinpract15060103",
+        "matched_title": "Where Do We Stand in the Management of Rheumatoid Arthritis Ahead of EULAR/ACR 2025?",
+        "matched_pubdate": "2025 May 28",
+        "matched_source": "Clin Pract"
+      }
+    },
+    {
+      "title": "The effect of eucalyptus inhalation on pain and the quality of life in rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "Zahra Kord Varkaneh",
+          "id": "2182362999"
+        },
+        {
+          "name": "Arezou Karampourian",
+          "id": "12916834"
+        },
+        {
+          "name": "K. Oshvandi",
+          "id": "4727133"
+        },
+        {
+          "name": "Z. Basiri",
+          "id": "6437906"
+        },
+        {
+          "name": "Y. Mohammadi",
+          "id": "2074401612"
+        }
+      ],
+      "year": 2022,
+      "venue": "Contemporary Clinical Trials Communications",
+      "score": 0.4129823511443808,
+      "abstract": "Problem considered Pain is one of the most significant symptoms of rheumatoid arthritis that reduce the quality of life. The purpose of the study was to determine the effect of eucalyptus on pain and the quality of life in patients with rheumatoid arthritis. Methods In this randomized clinical trial, 70 patients with rheumatoid arthritis were selected by random sampling. In the eucalyptus group, 1 mL of eucalyptus oil was inhaled for 5 min, 3 times a day, for one month. The control group received placebo inhalation. Both groups used routine treatments. Data were collected using a questionnaire of demographics, the numerical pain rating scale (NRS), and Quality of Life (SF-12). Statistical analysis was done using 19th edition SPSS software and applied on paired t-test, chi-square, Fisher's exact test, and analysis of covariance. Results The mean score of pain severity in the eucalyptus group significantly decreased in comparison with the control group (P < 0.001). The severity of pain there was no statistical difference in both groups before, the first, and the second weeks after the intervention, (p > 0.05); however, in the third and fourth weeks after the intervention, the mean severity of pain in the eucalyptus group was lower than in the control group, and these differences were statistically significant between the two groups (p < 0.05). Also, the patients' quality of life in the eucalyptus group was increased significantly (P < 0.001). Conclusion The eucalyptus leads to pain reduction, and consequently, improves the quality of life of patients with rheumatoid arthritis. Trial registration IRCT20160110025929N15 Registration date: 2018-10-07; https://en.irct.ir/trial/33573.",
+      "corpusId": 251731861,
+      "url": "https://api.semanticscholar.org/CorpusId:251731861",
+      "pubmed_id": "36060153",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/j.conctc.2022.100976",
+        "matched_title": "The effect of eucalyptus inhalation on pain and the quality of life in rheumatoid arthritis.",
+        "matched_pubdate": "2022 Oct",
+        "matched_source": "Contemp Clin Trials Commun"
+      }
+    },
+    {
+      "title": "Herbal Allies for Rheumatoid Arthritis: A Comprehensive Review of Natural Products",
+      "authors": [
+        {
+          "name": "Ankita Singh",
+          "id": "2238162824"
+        },
+        {
+          "name": "Madhu Kaushik",
+          "id": "46764235"
+        },
+        {
+          "name": "Swati Sinha",
+          "id": "2266378261"
+        },
+        {
+          "name": "Ravindra Kumar Kachhap Oraon",
+          "id": "2238117232"
+        },
+        {
+          "name": "Narotam Sharma",
+          "id": "2238101746"
+        },
+        {
+          "name": "I. Rautela",
+          "id": "2280612257"
+        }
+      ],
+      "year": 2023,
+      "venue": "Plant Science Today",
+      "score": 0.41264669948049104,
+      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disease affecting primarily the joints, producing discomfort, inflammation, and potentially damaging joint destruction. Rheumatoid arthritis affects people all around the world, and its prevalence and impact differ by place. The World Health Organisation (WHO) estimates that 0.5% to 1% of the global population has rheumatoid arthritis. To decrease the progression of rheumatoid arthritis, disease-modifying anti-rheumatic medications (DMARDs) such as methotrexate and sulfasalazine are used. TNF inhibitors and IL-6 inhibitors are two examples of biologic DMARDs that target specific immune system components. Nonsteroidal anti-inflammatory drugs (NSAIDs) and analgesics help manage pain and inflammation while corticosteroids provide short-term relief during flares. Treatment strategies are tailored to the individual, and talking with a healthcare expert is essential for effective management. Herbal therapies are regarded to offer an advantage over synthetic pharmaceuticals for the treatment of rheumatoid arthritis due to their natural approach, potential symptom relief, holistic approach to health, and individualised therapy possibilities. However, scientific data supporting their effectiveness is sparse and variable, and their quality and safety can vary. Before adopting herbal therapies as part of a treatment plan, it is critical to check with a healthcare expert. Because of their natural chemicals with anti-inflammatory and analgesic characteristics, medicinal herbs may aid rheumatoid arthritis. However, further research is required to determine their efficacy, safety, and appropriate application.",
+      "corpusId": 261572982,
+      "url": "https://api.semanticscholar.org/CorpusId:261572982",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Effects of rehabilitation for pain relief in patients with rheumatoid arthritis: a systematic review",
+      "authors": [
+        {
+          "name": "Young-ju Park",
+          "id": "48308026"
+        },
+        {
+          "name": "Moon‐Young Chang",
+          "id": "6173320"
+        }
+      ],
+      "year": 2016,
+      "venue": "Journal of Physical Therapy Science",
+      "score": 0.40953576512922396,
+      "abstract": "[Purpose] The purpose of this study was to find evidence for the effectiveness of rehabilitation for pain relief in patients with rheumatoid arthritis. [Subjects and Methods] A systematic review was conducted of MEDLINE, The Cochrane Central Register of Controlled Trials (CENTRAL), and OVID, for studies published from July 2005 to July 2015. We extracted data regarding patients, intervention, comparison, and outcomes, and assessed the methodological quality of the data. [Results] Nine randomized controlled trials comparing the effects of pain relief in patients with rheumatoid arthritis were found. [Conclusion] Physical therapy and occupational therapy can reduce pain in rheumatoid arthritis.",
+      "corpusId": 16188954,
+      "url": "https://api.semanticscholar.org/CorpusId:16188954",
+      "pubmed_id": "26957779",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1589/jpts.28.304",
+        "matched_title": "Effects of rehabilitation for pain relief in patients with rheumatoid arthritis: a systematic review.",
+        "matched_pubdate": "2016 Jan",
+        "matched_source": "J Phys Ther Sci"
+      }
+    },
+    {
+      "title": "Cost–utility analysis of longstanding exercise therapy versus usual care in people with rheumatoid arthritis and severe functional limitations",
+      "authors": [
+        {
+          "name": "M. Teuwen",
+          "id": "2212351696"
+        },
+        {
+          "name": "S. V. van Weely",
+          "id": "2212350693"
+        },
+        {
+          "name": "C. V. D. van den Ende",
+          "id": "1753753872"
+        },
+        {
+          "name": "M. V. van Wissen",
+          "id": "2140441682"
+        },
+        {
+          "name": "T. Vliet Vlieland",
+          "id": "2312965417"
+        },
+        {
+          "name": "WF Peter",
+          "id": "2245133392"
+        },
+        {
+          "name": "A. den Broeder",
+          "id": "1387445250"
+        },
+        {
+          "name": "D. van Schaardenburg",
+          "id": "49589986"
+        },
+        {
+          "name": "M. Gademan",
+          "id": "83771530"
+        },
+        {
+          "name": "W. van den Hout",
+          "id": "2245133067"
+        }
+      ],
+      "year": 2024,
+      "venue": "Scandinavian Journal of Rheumatology",
+      "score": 0.40728577271099553,
+      "abstract": "Objective To evaluate the cost-effectiveness of longstanding personalized exercise therapy compared with usual care in people with rheumatoid arthritis (RA) and severe functional disability. Method In this cost–utility analysis of a randomized controlled trial (n = 215), with 1 year follow-up, the study population comprised individuals with RA and reported severe difficulties in performing basic daily activities. Assessments were at baseline, 12, 26, and 52 weeks, with measurements of costs including medical and non-medical costs as recorded by patients and healthcare providers. Quality-adjusted life-years (QALYs) were estimated using the EuroQol 5 dimensions 5 levels (EQ-5D-5L) and EuroQol Visual Analogue Scale (EQ-VAS). Costs and QALY differences were analysed according to the intention-to-treat principle using cost-effectiveness acceptability curves. Results The 1 year societal costs were non-significantly in favour of the usual care group, with a small difference of €180 [95% confidence interval (CI) €−4493 to €4852]. The QALYs were non-significantly in favour of the intervention group, by 0.02 according to the EQ-5D-5L (95% CI −0.05 to 0.09) and by 0.04 according to the EQ-VAS (95% CI 0.00 to 0.08). For a willingness-to-pay threshold of €50 000 per QALY, the intervention was the cost-effective strategy with 60% certainty. Conclusion This economic evaluation showed no clear economic preference for either group, as the intervention costs were higher in the intervention group, but partly compensated by other cost savings and improved QALYs. Despite severe RA, patients had better clinical outcomes compared with usual care, suggesting no economic reasons to refrain from exercise therapy. Trial Registration number Netherlands Trial Register NL8235, included in the International Clinical Trial Registry Platform (ICTRP) (https://trialsearch.who.int/Trial2.aspx?TrialID=NL8235).",
+      "corpusId": 272991509,
+      "url": "https://api.semanticscholar.org/CorpusId:272991509",
+      "pubmed_id": "39351606",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1080/03009742.2024.2392360",
+        "matched_title": "Cost-utility analysis of longstanding exercise therapy versus usual care in people with rheumatoid arthritis and severe functional limitations.",
+        "matched_pubdate": "2025 Mar",
+        "matched_source": "Scand J Rheumatol"
+      }
+    },
+    {
+      "title": "Introduction: Medicare Section 1013 and AHRQ's Effective Health Care Program",
+      "authors": [
+        {
+          "name": "Schumarry H. Chao",
+          "id": "34893016"
+        },
+        {
+          "name": "F. Urbano",
+          "id": "8139174"
+        }
+      ],
+      "year": 2007,
+      "venue": "Journal of Managed Care Pharmacy",
+      "score": 0.40313895255873644,
+      "abstract": "OBJECTIVES: To introduce Section 1013 of the Medicare Prescription Drug,Improvement, and Modernization Act (MMA) of 2003 and the Agency forHealthcare Research and Quality's (AHRQ) Effective Health Care Program. BACKGROUND: AHRQ, under Section 1013 of the MMA of 2003, has be encharged with conducting specific health care outcomes studies through the Effective Health Care Program. This research is aimed specifically at determining the safety and effectiveness of certain pharmaceuticals since comparative data is currently lacking. Highly utilized, high-cost (or both)treatments are the focus of the studies that will be conducted through AHRQ's Evidence-based Practice Centers (EPCs) and the Developing Evidence to Inform Decisions about Effectiveness (DEcIDE) Network. Current and completed projects are noted, including more detailed information on the reviews pertaining to treatment of rheumatoid arthritis with nonbiologic disease-modifying antirheumatic drugs (DMARDs) and biologics (anti-tumor necrosis factor[TNF]-a therapies). SUMMARY: AHRQ's EPCs and the DEcIDE Network are studying safety and the comparative effectiveness of a number of different pharmaceutical-related topics, including the safety and effectiveness of biologic and nonbiologic DMARDS (e.g., TNF antagonists). The final reports, once complete, will be translated (explained in terms that can be more easily understood by all decision makers) and then disseminated to all stakeholders.",
+      "corpusId": 26992327,
+      "url": "https://api.semanticscholar.org/CorpusId:26992327",
+      "pubmed_id": "17378699",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.18553/jmcp.2007.13.s1.3",
+        "matched_title": "Introduction: Medicare Section 1013 and AHRQ's Effective Health Care Program.",
+        "matched_pubdate": "2007 Jan",
+        "matched_source": "J Manag Care Pharm"
+      }
+    },
+    {
+      "title": "Comparison of Improvements in Quality of Life With Disease-Modifying Anti-rheumatic Drugs in Seropositive and Seronegative Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "Avinash Muraleedharan",
+          "id": "2341215896"
+        },
+        {
+          "name": "S. Chaubey",
+          "id": "40488902"
+        },
+        {
+          "name": "Shalu A",
+          "id": "2401977913"
+        },
+        {
+          "name": "Ashish Yadav",
+          "id": "2342915026"
+        }
+      ],
+      "year": 2025,
+      "venue": "Cureus",
+      "score": 0.40117476352314435,
+      "abstract": "Background: Rheumatoid arthritis (RA) is a chronic, progressive autoimmune disorder characterized by joint pain, stiffness, and deformities, leading to functional impairment and reduced quality of life (QoL). Disease-modifying anti-rheumatic drugs (DMARDs) are the cornerstone of therapy, effectively reducing disease activity and improving health-related QoL (HRQoL). Objective: To compare HRQoL outcomes between seropositive and seronegative RA patients and to assess the improvement in HRQoL following initiation of conventional synthetic DMARDs (csDMARDs) in both seropositive and seronegative RA patients. Methodology: This prospective, comparative, non-randomized experimental study was conducted over 16 months and included 104 patients with RA who met the inclusion criteria - 87 seropositive and 17 seronegative. All participants received csDMARD therapy and were evaluated using the visual analogue scale (VAS) for pain, Disease Activity Score 28 (DAS28 ESR) for disease severity, and the SF-36 questionnaire for HRQoL at baseline, three months, and six months. Results: Both seropositive and seronegative groups showed significant improvement in HRQoL after csDMARD initiation as measured by the SF-36 index. No significant intergroup differences were observed in HRQoL outcomes. However, the seronegative group demonstrated a more pronounced reduction in pain and disease severity, as indicated by VAS and DAS28-ESR scores, compared to the seropositive group. Conclusion: Early initiation of csDMARDs in RA patients leads to significant improvement in QoL, regardless of serostatus. While both groups benefited similarly in HRQoL, seronegative patients experienced greater reductions in pain and disease activity, underscoring the efficacy of csDMARDs as an initial treatment strategy in RA management.",
+      "corpusId": 284271179,
+      "url": "https://api.semanticscholar.org/CorpusId:284271179",
+      "pubmed_id": "41589166",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.7759/cureus.100094",
+        "matched_title": "Comparison of Improvements in Quality of Life With Disease-Modifying Anti-rheumatic Drugs in Seropositive and Seronegative Rheumatoid Arthritis.",
+        "matched_pubdate": "2025 Dec",
+        "matched_source": "Cureus"
+      }
+    },
+    {
+      "title": "Use of steroid and nonsteroidal anti-inflammatories in the treatment of rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "Mariana Del Grossi Moura",
+          "id": "24047792"
+        },
+        {
+          "name": "Luciane Cruz Lopes",
+          "id": "9555697"
+        },
+        {
+          "name": "M. Silva",
+          "id": "6196847"
+        },
+        {
+          "name": "S. Barberato-Filho",
+          "id": "1401122165"
+        },
+        {
+          "name": "R. Motta",
+          "id": "4612377"
+        },
+        {
+          "name": "C. Bergamaschi",
+          "id": "4516094"
+        }
+      ],
+      "year": 2018,
+      "venue": "Medicine",
+      "score": 0.399383472658846,
+      "abstract": "Background Rheumatoid arthritis affects 1% of the world's population and its current treatment options are costly. There are not enough studies that evaluated the efficacy and safety of anti-inflammatory drugs medications used to reduce rheumatoid arthritis's symptoms. This study will evaluate the effectiveness and the safety of steroid and nonsteroidal anti-inflammatory drugs for the treatment of patients with rheumatoid arthritis. Methods Randomized clinical trials eligible for our systematic review will enroll adults with rheumatoid arthritis treated with anti-inflammatory drugs compared with a control group (placebo or active control) at any dose, duration, and route of administration and double blind studies. In order to include all forms of rheumatoid arthritis and anti-inflammatory drugs, we will search the following electronic databases: Cochrane Central Register of Controlled Trials, MEDLINE (via Ovid); ExcerptaMedica Database (via Ovid); Cumulative Index to Nursing and Allied Health Literature (via Ovid); Web of Science; ClinicalTrial.gov; and WHO International Clinical Trials Registry Platform. We will not impose any language restrictions or publication status. Outcomes of interest include are pain, physical function, swelling, stiffness, grip force, radiological image of the joint, quality of life, adverse events, discontinuation due to adverse events, satisfaction with the treatment, and rescue medication for pain. A team of reviewers will independently screen search results, extract data from eligible trials, and assess risk of bias. We will use the Grading of Recommendations Assessment, Development and Evaluation approach to rate overall certainty of the evidence by outcome. Dichotomous data will be summarized as risk ratios; continuous data will be given as standard average differences with 95% confidence intervals. Results The evidence derived by this study will increase awareness of the effectiveness and safety of steroid and nonsteroidal anti-inflammatory drugs for the treatment of rheumatoid arthritis. Conclusion The results could guide patients and healthcare practitioners and help facilitate evidence-based shared care decision making.",
+      "corpusId": 52977320,
+      "url": "https://api.semanticscholar.org/CorpusId:52977320",
+      "pubmed_id": "30313057",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1097/md.0000000000012658",
+        "matched_title": "Use of steroid and nonsteroidal anti-inflammatories in the treatment of rheumatoid arthritis: Systematic review protocol.",
+        "matched_pubdate": "2018 Oct",
+        "matched_source": "Medicine (Baltimore)"
+      }
+    },
+    {
+      "title": "Opioid therapy for treating rheumatoid arthritis pain.",
+      "authors": [
+        {
+          "name": "Samuel L. Whittle",
+          "id": "4738116"
+        },
+        {
+          "name": "Bethan Richards",
+          "id": "145685379"
+        },
+        {
+          "name": "E. Husni",
+          "id": "120400542"
+        },
+        {
+          "name": "R. Buchbinder",
+          "id": "145679853"
+        }
+      ],
+      "year": 2011,
+      "venue": "Cochrane Database of Systematic Reviews",
+      "score": 0.39874288926450024,
+      "abstract": "",
+      "corpusId": 205168269,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/22071805",
+      "pubmed_id": "22071805",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1002/14651858.cd003113.pub3",
+        "matched_title": "Opioid therapy for treating rheumatoid arthritis pain.",
+        "matched_pubdate": "2011 Nov 9",
+        "matched_source": "Cochrane Database Syst Rev"
+      }
+    },
+    {
+      "title": "Non-pharmacological treatment in difficult-to-treat rheumatoid arthritis",
+      "authors": [
+        {
+          "name": "J. Majnik",
+          "id": "5982660"
+        },
+        {
+          "name": "N. Császár-Nagy",
+          "id": "101971610"
+        },
+        {
+          "name": "Georgina Böcskei",
+          "id": "2183120930"
+        },
+        {
+          "name": "T. Bender",
+          "id": "39203645"
+        },
+        {
+          "name": "G. Nagy",
+          "id": "2055657338"
+        }
+      ],
+      "year": 2022,
+      "venue": "Frontiers in Medicine",
+      "score": 0.39369413383143526,
+      "abstract": "Although the management of rheumatoid arthritis (RA) has improved remarkably with new pharmacological therapies, there is still a significant part of patients not reaching treatment goals. Difficult-to-treat RA (D2TRA) is a complex entity involving several factors apart from persistent inflammation, thereafter requiring a holistic management approach. As pharmacological treatment options are often limited in D2TRA, the need for non-pharmacological treatments (NPT) is even more pronounced. The mechanism of action of non-pharmacological treatments is not well investigated, NPTs seem to have a complex, holistic effect including the immune, neural and endocrine system, which can have a significant additive benefit together with targeted pharmacotherapies in the treatment of D2TRA. In this review we summarize the current knowledge on different NPT in rheumatoid arthritis, and we propose a NPT plan to follow when managing D2TRA patients.",
+      "corpusId": 251886265,
+      "url": "https://api.semanticscholar.org/CorpusId:251886265",
+      "pubmed_id": "36106320",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.3389/fmed.2022.991677",
+        "matched_title": "Non-pharmacological treatment in difficult-to-treat rheumatoid arthritis.",
+        "matched_pubdate": "2022",
+        "matched_source": "Front Med (Lausanne)"
+      }
+    },
+    {
+      "title": "Proceedings of the 42nd annual meeting of the american rheumatism association a section of the arthritis foundation june 1 & 2, 1978 new york city abstracts of papers presented",
+      "authors": [
+        {
+          "name": "Thomas Abel",
+          "id": "152364612"
+        },
+        {
+          "name": "Murray B. Urowitz",
+          "id": "2238520891"
+        }
+      ],
+      "year": 1978,
+      "venue": "Arthritis & Rheumatism",
+      "score": 0.39283077935478805,
+      "abstract": "s of Papers Presented Long-Term Effects of Azathioprine in Rheumatoid Arthritis Thomas Abel, Murray B. Urowitz, Hugh A . Smythe, Edward C. Keystone, and Conolly S. Norman, University of Toronto, Toronto, Canada Azathioprine has been shown t o be an effective agent in the treatment of active rheumatoid arthritis (RA); however, potential long-term neoplastic effects remain a serious concern. To clarify this relationship, 36 patients with classic or definite RA being treated with azathioprine (Group 1) were chosen at random and studied by means of clinical, laboratory, and radiologic measures to detect potential early markers of neoplastic disease. Nineteen age matched patients with RA were concurrently similarly studied as controls (Group 2). Group 1 had a longer disease duration (15.3 versus 9.4 years). The mean duration of treatment with azathioprine was 38.3 months, with a mean dose of 7 1.2 mg/day. Histories of cigarette smoking, hormone treatment, and fertility were comparable. Chest x-rays revealed comparable numbers of inflammatory and fibrotic abnormalities. There was an increased frequency of tumors in first degree relatives in Group I (15 versus 2). Hematologic studies revealed a trend to lower cell counts in Group 1 with a striking increase of marrow megaloblastosis in this group (28 versus I ) . There were no differences in iron saturation or B12 levels. Serum folate was decreased in Group I (14 versus 2). There were neither liver function test abnormalities in Group 1, nor evidence of malignancy in gastrointestinal x-rays when clinically indicated. No neoplastic lesions were identified on mammography in either group. Four patients in Group 1 and none in Group 2 had atypical or dyskaryotic cells on urine cytology. One patient in Group 1 had an abnormal Pap smear and was subsequently shown to have endometrial carcinoma, On chromosomal analysis, Group I showed a greater percent of cells with aberrations, a higher aberration incidence and index, and more patients with hyperdiploidy. Patients in Group 2 had a history of 3 benign neoplasms. Patients in Group I had a history of I benign neoplasm prior to the initiation of azathioprine; subsequently 7 neoplasms were diagnosed, 4 benign and 3 malignant (2 endometrial carcinomas and carcinoma-in-situ of the cervix). In summary, Group I had an increased number of cellular abnormalities, with cytologic atypia, megaloblastic bone marrows, and increased chromosomal aberrations. Clinically this group had more tumors diagnosed while on treatment, particularly in females, and arising from the genitourinary tract. More long-term studies of patients on cytotoxic agents are clearly warranted. Correlations of Circulating Immune Complexes (CIC) and Disease Activity in Patients with Systemic Lupus Erythematosus (SLE) Christine K . Abrass, Kenneth M . Nies. James S . Louie. Wayne A . Border, UCLA School of Medicine; Beverly S . White, Harbor General Hospital, Torrence, California; and Richard J . Glassock, UCLA School of Medicine The occurrence of circulating immune complexes months, had 336 serum samples collected for determination of CIC, antibodies to DNA, C3, and creatinine. Clinical parameters of disease activity and medication dosages were recorded. CIC results were not available t o the primary care physicians, thus, they did not influence therapy. Circulating immune complexes were measured by both the fluid phase Clq (FClq) and (CIC) in SLE has been documented. This study reports the correlations between serologic determinations and disease activity as well as the predictive capabilities of CIC determinations. Forty-eight patients with SLE, followed for 6-18 Arthritis and Rheumatism, Vol. 21, No. 5 (June 1978)",
+      "corpusId": 3557586,
+      "url": "https://api.semanticscholar.org/CorpusId:3557586",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Use of Analgesic and Anti-Inflammatory Medicines before and after Initiation of Biological Disease-Modifying Antirheumatic Drugs for Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "Svetla Gadzhanova",
+          "id": "3015421"
+        },
+        {
+          "name": "E. Roughead",
+          "id": "144980413"
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Clinical Pharmacy and Therapeutics",
+      "score": 0.38909539469227994,
+      "abstract": "Background. Rheumatoid arthritis (RA) is an inflammatory condition that causes joint damage and is associated with pain. The biological disease-modifying antirheumatic drugs (bDMARDs) for RA are linked to additional therapeutic benefits as they suppress the inflammatory process, which in turn prevents joint erosion and reduces pain. Thus, the use of bDMARDs has the potential to reduce the need for other analgesic and anti-inflammatory therapies for RA. The aim of this study was to examine the analgesic and anti-inflammatory use around the initiation of bDMARDs. Methods. A cohort study was conducted using a 10% random sample of the population dispensing medicines under the Australian Pharmaceutical Benefits Scheme. People who initiated the first bDMARD for RA between 2014 and 2018 were included. The proportion who received any analgesic or anti-inflammatory, including nonsteroidal anti-inflammatory drugs, opioids, or glucocorticoids, in the twelve months prior to and post-bDMARD initiation was determined and compared using regression models. Results. There were 18,360 persons in the cohort, with a mean age of 55 years, and 69% were women. The use of any analgesic or anti-inflammatory in both tumor necrosis factor inhibitor (TNFi) and non-TNF initiators increased prior to initiation of bDMARD–from 43% to 52% in TNFi and from 52% to 63% in non-TNF initiators. In both groups, overall use decreased significantly post initiation to 37% and 42% in TNFi and non-TNF initiators, respectively (p<0.0001). bDMARD initiation was associated with lower use of glucocorticoid therapy, but there was no decreasing effect on opioid use. Conclusion. While the use of any analgesic or anti-inflammatories decreased post-initiation of bDMARDs for RA, more than one-third of people were dispensed analgesic or anti-inflammatory agents twelve months post initiation. Ongoing review of the need for analgesic and glucocorticoids appears warranted, with assessment of nonpharmacological approaches to support pain management.",
+      "corpusId": 267969463,
+      "url": "https://api.semanticscholar.org/CorpusId:267969463",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Rheumatoid Arthritis: a debilitating battle with the human immune system",
+      "authors": [
+        {
+          "name": "Anette Surmanski",
+          "id": "1382158458"
+        }
+      ],
+      "year": 2019,
+      "venue": "University of Western Ontario Medical Journal",
+      "score": 0.3874341136904762,
+      "abstract": "Rheumatoid arthritis (RA) is an autoimmune disease in which the immune system mistakenly attacks different regions of the body, notably joints in the hands, knees, elbows, and feet. As a result, these regions become inflamed and lead to pain, swelling, and subsequent joint damage. This can affect daily activities, mental well-being, quality of life, and may decrease expected life span. As of today, there is no cure for RA and its etiology remains elusive. RA is classified using the 2010 American College of Rheumatology/European League Against Rheumatism (ACR/EULAR) Criteria and treated according to the Canadian Rheumatology Association (CRA) Guidelines, which mainly focus on pharmacological interventions. Three classes of pharmaceutical agents havebeen effective in treating RA symptoms - disease modifying antirheumatic drugs (DMARDs), including conventional synthetic and advanced therapeutics (eg biologics, JAK inhibitors), nonsteroidal anti-inflammatory drugs (NSAIDs), and corticosteroids. DMARDs, specifically methotrexate, hydroxychloroquine, and sulfasalazine, are usually used early to treat the underlying course of the disease. However, potential adverse drug reactions may cause some patients to discontinue or experience lack of benefit over time. Non-traditional therapy, such as diet modification, physical activity, and mindfulness-based stress reduction activities, may be adjunctive treatment for pain, fatigue, and overall mental health. Nevertheless, finding optimal treatments remains largely empirical and patient-specific. A better understanding of RA progression is needed to accurately treat the underlying disease, while improving symptoms and minimizing adverse effects. An integrated approach that incorporates both pharmacological and nonpharmacological therapies may provide more comprehensive management of RA.",
+      "corpusId": 202832215,
+      "url": "https://api.semanticscholar.org/CorpusId:202832215",
+      "pubmed_id": "",
+      "pubmed_resolution": {
+        "method": "",
+        "note": "no_match",
+        "doi": "",
+        "matched_title": "",
+        "matched_pubdate": "",
+        "matched_source": ""
+      }
+    },
+    {
+      "title": "Use of the Orem self-care model on pain relief in women with rheumatoid arthritis: a randomized trial",
+      "authors": [
+        {
+          "name": "E. Saeedifar",
+          "id": "51094562"
+        },
+        {
+          "name": "R. Memarian",
+          "id": "6332433"
+        },
+        {
+          "name": "Samira Fatahi",
+          "id": "16223052"
+        },
+        {
+          "name": "Fatemeh Ghelichkhani",
+          "id": "2331710648"
+        }
+      ],
+      "year": 2018,
+      "venue": "Electronic Physician",
+      "score": 0.38685657974702764,
+      "abstract": "Background and aim Self-care is an important tool in controlling pain in patients with rheumatoid arthritis. The aim of this study was to determine the use of the Orem self-care model on pain relief in patients with rheumatoid arthritis. Methods This was a clinical trial performed on 60 patients with rheumatoid arthritis who referred to a rheumatology clinic in Karaj during 2013–2015 (30 patients in the control group and 30 patients in the intervention group), convenience sampling was done and subjects were divided into two groups randomly. Data collecting tools were a demographic questionnaire which consisted of 19 questions and the Numeric Pain Rating Scale. The data result was analyzed by SPSS version 19, using independent-samples t-test and Chi square test. P-value of less than 0.05 was considered significant. Results The mean age was 44.63±10.65 years, 90% were married and 35% had a high school diploma. The results showed a significant difference in three measures of pain in the intervention group (p=0.001), while in the control group, this difference was not significant (p=0.59). Conclusion According to the results, the Orem self-care model is effective in reducing pain in patients with rheumatoid arthritis Therefore, applying the Orem self-care model is recommended to promote and maintain self-care behavior in patients with rheumatoid arthritis. Trial registration The trial was registered at the Iran Registry of Clinical Trials (http://en.irct.ir) with code IRCT2014052517840N1. Funding The authors received no financial support for the research, authorship, and/or publication of this article.",
+      "corpusId": 49889198,
+      "url": "https://api.semanticscholar.org/CorpusId:49889198",
+      "pubmed_id": "30034655",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.19082/6884",
+        "matched_title": "Use of the Orem self-care model on pain relief in women with rheumatoid arthritis: a randomized trial.",
+        "matched_pubdate": "2018 Jun",
+        "matched_source": "Electron Physician"
+      }
+    },
+    {
+      "title": "Efficacy and Safety of the Bushen Quhan Zhiwang Decoction to Achieve Clinical Deep Remission in Rheumatoid Arthritis: Protocol for a Double-Blind, Randomized, Placebo-Controlled Trial",
+      "authors": [
+        {
+          "name": "Longxiao Liu",
+          "id": "2365995633"
+        },
+        {
+          "name": "Jinping Wang",
+          "id": "2311087003"
+        },
+        {
+          "name": "Yanyu Chen",
+          "id": "2365997479"
+        },
+        {
+          "name": "Yunlong Fang",
+          "id": "2366098452"
+        },
+        {
+          "name": "Zihan Wang",
+          "id": "2117423202"
+        },
+        {
+          "name": "Xiaojing Liu",
+          "id": "2377242354"
+        },
+        {
+          "name": "Lidong Hong",
+          "id": "2377984467"
+        },
+        {
+          "name": "Qingwen Tao",
+          "id": "2268003962"
+        },
+        {
+          "name": "Yuan Xu",
+          "id": "2311091292"
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Pain Research",
+      "score": 0.38062366076064436,
+      "abstract": "Purpose Rheumatoid arthritis (RA) is a chronic autoimmune disease characterized by significant disability, with effective management of disease activity and pain constituting critical clinical objectives. The herbal formulation Bushen Quhan Zhiwang Decoction (BQZD) has demonstrated potential efficacy in symptom alleviation, suggesting a promising role in achieving sustained clinical remission in RA. The present study aims to systematically evaluate the efficacy and safety profile of BQZD for managing RA disease activity and pain relief. Patients and Methods This randomized, double-blind, placebo-controlled, single-center clinical trial will enroll a total of 72 RA patients, randomly assigning them into either the intervention group (n=36) receiving BQZD or the placebo control group (n=36). Participants will consume either BQZD or placebo (100 mL, twice daily) over a 12-week intervention period. Clinical assessments are scheduled at enrollment and subsequently at 4-week intervals, continuing through the 16-week mark post-intervention initiation. The primary outcome measure is the Disease Activity Score for 28 joints (DAS28). Secondary outcome variables include visual analogue scale (VAS) pain scores, mechanical pain threshold (MPT), central sensitization inventory (CSI), patient-reported outcomes (PROs), Traditional Chinese medicine (TCM) symptom scores, and biomarkers such as C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR). Safety endpoints will encompass monitoring of hematological parameters, urinalysis results, and adverse events. Discussion This study seeks to generate robust clinical evidence verifying the therapeutic efficacy and safety of BQZD for alleviating pain and achieving deep remission in RA patients. These findings are anticipated to facilitate broader integration of traditional herbal medicine within clinical practice. Additionally, this research endeavors to provide clinically relevant insights into precision treatments for RA by integrating traditional Chinese medicine and Western medical approaches, and aims to lay foundational evidence for future investigations into underlying regulatory mechanisms and potential therapeutic targets of TCM.",
+      "corpusId": 280863880,
+      "url": "https://api.semanticscholar.org/CorpusId:280863880",
+      "pubmed_id": "40860496",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.2147/jpr.s536827",
+        "matched_title": "Efficacy and Safety of the Bushen Quhan Zhiwang Decoction to Achieve Clinical Deep Remission in Rheumatoid Arthritis: Protocol for a Double-Blind, Randomized, Placebo-Controlled Trial.",
+        "matched_pubdate": "2025",
+        "matched_source": "J Pain Res"
+      }
+    },
+    {
+      "title": "Effect of intermittent aerobic exercise on sleep quality and sleep disturbances in patients with rheumatoid arthritis – design of a randomized controlled trial",
+      "authors": [
+        {
+          "name": "K. Løppenthin",
+          "id": "1421621330"
+        },
+        {
+          "name": "B. Esbensen",
+          "id": "5018038"
+        },
+        {
+          "name": "P. Jennum",
+          "id": "145217204"
+        },
+        {
+          "name": "M. Østergaard",
+          "id": "3791609"
+        },
+        {
+          "name": "J. Christensen",
+          "id": "49180352"
+        },
+        {
+          "name": "T. Thomsen",
+          "id": "32400890"
+        },
+        {
+          "name": "Julie Schjerbech Bech",
+          "id": "8361582"
+        },
+        {
+          "name": "J. Midtgaard",
+          "id": "3259568"
+        }
+      ],
+      "year": 2014,
+      "venue": "BMC Musculoskeletal Disorders",
+      "score": 0.37889357264793533,
+      "abstract": "BackgroundPoor sleep is prevalent in patients with systemic inflammatory disorders, including rheumatoid arthritis, and, in addition to fatigue, pain, depression and inflammation, is associated with an increased risk of co-morbidity and all-cause mortality. Whereas non-pharmacological interventions in patients with rheumatoid arthritis have been shown to reduce pain and fatigue, no randomized controlled trials have examined the effect of non-pharmacological interventions on improvement of sleep in patients with rheumatoid arthritis. The aim of this trial was to evaluate the efficacy of an intermittent aerobic exercise intervention on sleep, assessed both objectively and subjectively in patients with rheumatoid arthritis.Methods/designA randomized controlled trial including 44 patients with rheumatoid arthritis randomly assigned to an exercise training intervention or to a control group. The intervention consists of 18 session intermittent aerobic exercise training on a bicycle ergometer three times a week. Patients are evaluated according to objective changes in sleep as measured by polysomnography (primary outcome). Secondary outcomes include changes in subjective sleep quality and sleep disturbances, fatigue, pain, depressive symptoms, physical function, health-related quality of life and cardiorespiratory fitness.DiscussionThis trial will provide evidence of the effect of intermittent aerobic exercise on the improvement of sleep in patients with rheumatoid arthritis, which is considered important in promotion of health and well-being. As such, the trial meets a currently unmet need for the provision of non-pharmacological treatment initiatives of poor sleep in patients with rheumatoid arthritis.Trial registrationClinicalTrials.gov Identifier: NCT01966835",
+      "corpusId": 4679594,
+      "url": "https://api.semanticscholar.org/CorpusId:4679594",
+      "pubmed_id": "24559487",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1186/1471-2474-15-49",
+        "matched_title": "Effect of intermittent aerobic exercise on sleep quality and sleep disturbances in patients with rheumatoid arthritis - design of a randomized controlled trial.",
+        "matched_pubdate": "2014 Feb 21",
+        "matched_source": "BMC Musculoskelet Disord"
+      }
+    },
+    {
+      "title": "Changes in Opioid Utilization Following Tumor Necrosis Factor Inhibitor Initiation in Patients with Rheumatoid Arthritis",
+      "authors": [
+        {
+          "name": "Siyeon Park",
+          "id": "1390858193"
+        },
+        {
+          "name": "T. Le",
+          "id": "1384395048"
+        },
+        {
+          "name": "J. Slejko",
+          "id": "5993054"
+        },
+        {
+          "name": "Ester Villalonga-Olives",
+          "id": "2239178504"
+        },
+        {
+          "name": "E. Onukwugha",
+          "id": "1772639"
+        }
+      ],
+      "year": 2019,
+      "venue": "Rheumatology and Therapy",
+      "score": 0.3708867246742711,
+      "abstract": "Pain control is one of the most important aspects of rheumatoid arthritis (RA) management from the patient’s perspective. Newer generations of RA treatment including tumor necrosis factor inhibitor (TNFi) have the potential to alleviate pain and thus reduce opioid utilization. However, patterns of opioid utilization before and after TNFi initiation have not been well characterized. This study aims to examine multiple measures of change in opioid utilization after the initiation of TNFi. Patients aged ≥ 18 years with RA and 24 months continuous enrollment between January 2007 and December 2015 who newly initiated a TNFi in IQVIA™ Health Plan Claims Data were included in our study. Opioid utilization at baseline and during follow-up were identified and compared. Of 2330 patients with RA that were included in the study, 38.8% of patients used opioids in both baseline and follow-up periods. From pre-index to post-index, the proportion of patients receiving any opioid decreased from 54.0 to 51.0%. In addition, the proportion of those who received ≥ 50 mg median daily MED decreased from 12.6 to 10.6% during pre-post periods. This real-world study of commercially insured patients with RA suggests that opioid use among these patients is prevalent. There was a small decrease in overall opioid utilization after TNFi initiation.",
+      "corpusId": 204757745,
+      "url": "https://api.semanticscholar.org/CorpusId:204757745",
+      "pubmed_id": "31628617",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1007/s40744-019-00175-6",
+        "matched_title": "Changes in Opioid Utilization Following Tumor Necrosis Factor Inhibitor Initiation in Patients with Rheumatoid Arthritis.",
+        "matched_pubdate": "2019 Dec",
+        "matched_source": "Rheumatol Ther"
+      }
+    },
+    {
+      "title": "Relative versus absolute goals of therapies for RA: ACR 20 or ACR 50 responses versus target values for \"near remission\" of DAS or single measures.",
+      "authors": [
+        {
+          "name": "Theodore Pincus",
+          "id": "2238808444"
+        },
+        {
+          "name": "T. Sokka",
+          "id": "6995436"
+        },
+        {
+          "name": "Arthur Kavanaugh",
+          "id": "2239247164"
+        }
+      ],
+      "year": 2004,
+      "venue": "Clinical and Experimental Rheumatology",
+      "score": 0.370881403985855,
+      "abstract": "",
+      "corpusId": 93768,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/15552515",
+      "pubmed_id": "12915156",
+      "pubmed_resolution": {
+        "method": "crossref_doi->doi_search",
+        "note": "matched",
+        "doi": "10.1016/s1521-6942(03)00077-9",
+        "matched_title": "Quantitative measures for assessing rheumatoid arthritis in clinical trials and clinical care.",
+        "matched_pubdate": "2003 Oct",
+        "matched_source": "Best Pract Res Clin Rheumatol"
+      }
+    }
+  ]
+}

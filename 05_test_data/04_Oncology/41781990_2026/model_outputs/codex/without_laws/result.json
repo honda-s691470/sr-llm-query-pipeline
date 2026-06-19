@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-20T12:54:43Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41781990_2026",
+  "domain_folder": "04_Oncology",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"hyperthermic intraperitoneal chemotherapy\"[tiab] OR HIPEC[tiab] OR \"heated intraperitoneal chemotherapy\"[tiab] OR \"hyperthermic intraperitoneal perfusion chemotherapy\"[tiab] OR \"continuous hyperthermic peritoneal perfusion\"[tiab] OR CHPP[tiab]) AND (\"stomach neoplasms\"[Mesh] OR \"colorectal neoplasms\"[Mesh] OR gastric[tiab] OR stomach[tiab] OR colorectal[tiab] OR colon[tiab] OR rectal[tiab] OR rectum[tiab]) AND (\"peritoneal neoplasms\"[Mesh] OR \"peritoneal metast*\"[tiab] OR \"peritoneal carcinomatosis\"[tiab] OR \"peritoneal dissemination\"[tiab] OR \"peritoneal seeding\"[tiab]) AND (\"randomized controlled trial\"[pt] OR \"controlled clinical trial\"[pt] OR random*[tiab] OR trial[ti])) AND english[lang] NOT (animals[mh] NOT humans[mh])",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260320_133322\\codex\\04_Oncology\\41781990_2026\\without_laws"
+}

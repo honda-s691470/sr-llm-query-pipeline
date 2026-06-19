@@ -1,0 +1,1969 @@
+{
+  "papers": [
+    {
+      "title": "Role of L-carnitine in Cardiovascular Health: Literature Review",
+      "authors": [
+        {
+          "name": "Ramy Elantary",
+          "id": "2323015366"
+        },
+        {
+          "name": "Samar Othman",
+          "id": "2323003516"
+        }
+      ],
+      "year": 2024,
+      "venue": "Cureus",
+      "score": 0.9011020161968522,
+      "abstract": "Cardiovascular diseases (CVDs) remain the leading cause of morbidity and mortality worldwide. Secondary preventive measures, like anti-platelet medications, B-blockers, and angiotensin-converting enzyme (ACE) inhibitors, have been found to dramatically lower the risk of cardiovascular disease. However, prolonged usage of these drugs has been linked to multiple adverse impacts. Hence, finding more efficient treatments, especially dietary strategies for long-term use in daily life, is advantageous for primary prevention and treatment. L-carnitine, a naturally occurring amino acid derivative normally synthesized in the liver and kidney, is believed to have a considerable influence on cardiovascular health. L-carnitine can enhance both contractile performance and structural integrity of the cardiac muscle by maintaining efficient energy production and reducing oxidative stress. This literature review aims to address several pressing questions regarding the role of L-carnitine in cardiovascular health: what are the physiological functions of L-carnitine, particularly in relation to cardiovascular health; how effective and safe is L-carnitine supplementation in the management of various cardiovascular diseases, primarily ischemic heart disease, heart failure, and peripheral vascular disease; what are the underlying mechanisms through which L-carnitine exerts its cardioprotective effects; what controversies exist in the current research; and finally, what should be the future directions? Through this comprehensive analysis, the review aims to enrich our understanding of L-carnitine's role in cardiovascular health, providing a robust foundation for future academic and clinical endeavors. PubMed, Embase, and Google Scholar have been used to search the following keywords: L-carnitine, cardiovascular health, mitochondrial function, and L-carnitine side effects. Then, using the existing search engine formats, some keyword combinations were used to find the related articles included and every possibility, including using every first keyword combination with another keyword, using every keyword in every place at each given box, etc. Around 308 articles were reviewed using this process, including systemic reviews, meta-analysis studies, randomized controlled trials, and literature review articles. In the end, after leaving the pure articles related to the topic as 35 articles, which are attached below with direct citation, the majority of them were very fresh articles, as recent as 2010, and back words, except just one paper related to the impact of L-carnitine post-myocardial infarction, as its data provided us with a positive and promising impact of L-carnitine in this field. L‑carnitine seems to have a pivotal role in cardiovascular health due to its energy metabolism, anti-oxidative stress, and endothelial role. The safety and effectiveness of L-carnitine administration remain an issue for scientific investigation. One of the major concerns is that the intestinal metabolism of L-carnitine generates trimethylamine-N-oxide (TMAO), a compound that has been linked with faster atherosclerosis progression.",
+      "corpusId": 272911769,
+      "url": "https://api.semanticscholar.org/CorpusId:272911769"
+    },
+    {
+      "title": "Trimethylamine N-Oxide in Relation to Cardiometabolic Health—Cause or Effect?",
+      "authors": [
+        {
+          "name": "C. Papandreou",
+          "id": "2493218"
+        },
+        {
+          "name": "M. Moré",
+          "id": "40382400"
+        },
+        {
+          "name": "A. Bellamine",
+          "id": "47806525"
+        }
+      ],
+      "year": 2020,
+      "venue": "Nutrients",
+      "score": 0.8573381823615842,
+      "abstract": "Trimethylamine-N-oxide (TMAO) is generated in a microbial-mammalian co-metabolic pathway mainly from the digestion of meat-containing food and dietary quaternary amines such as phosphatidylcholine, choline, betaine, or L-carnitine. Fish intake provides a direct significant source of TMAO. Human observational studies previously reported a positive relationship between plasma TMAO concentrations and cardiometabolic diseases. Discrepancies and inconsistencies of recent investigations and previous studies questioned the role of TMAO in these diseases. Several animal studies reported neutral or even beneficial effects of TMAO or its precursors in cardiovascular disease model systems, supporting the clinically proven beneficial effects of its precursor, L-carnitine, or a sea-food rich diet (naturally containing TMAO) on cardiometabolic health. In this review, we summarize recent preclinical and epidemiological evidence on the effects of TMAO, in order to shed some light on the role of TMAO in cardiometabolic diseases, particularly as related to the microbiome.",
+      "corpusId": 218598630,
+      "url": "https://api.semanticscholar.org/CorpusId:218598630"
+    },
+    {
+      "title": "Role of carnitine in disease",
+      "authors": [
+        {
+          "name": "J. Flanagan",
+          "id": "46907000"
+        },
+        {
+          "name": "P. Simmons",
+          "id": "28634666"
+        },
+        {
+          "name": "J. Vehige",
+          "id": "7026975"
+        },
+        {
+          "name": "M. Willcox",
+          "id": "144710358"
+        },
+        {
+          "name": "Q. Garrett",
+          "id": "5120694"
+        }
+      ],
+      "year": 2010,
+      "venue": "Nutrition and Metabolism",
+      "score": 0.8262121847766244,
+      "abstract": "Carnitine is a conditionally essential nutrient that plays a vital role in energy production and fatty acid metabolism. Vegetarians possess a greater bioavailability than meat eaters. Distinct deficiencies arise either from genetic mutation of carnitine transporters or in association with other disorders such as liver or kidney disease. Carnitine deficiency occurs in aberrations of carnitine regulation in disorders such as diabetes, sepsis, cardiomyopathy, malnutrition, cirrhosis, endocrine disorders and with aging. Nutritional supplementation of L-carnitine, the biologically active form of carnitine, is ameliorative for uremic patients, and can improve nerve conduction, neuropathic pain and immune function in diabetes patients while it is life-saving for patients suffering primary carnitine deficiency. Clinical application of carnitine holds much promise in a range of neural disorders such as Alzheimer's disease, hepatic encephalopathy and other painful neuropathies. Topical application in dry eye offers osmoprotection and modulates immune and inflammatory responses. Carnitine has been recognized as a nutritional supplement in cardiovascular disease and there is increasing evidence that carnitine supplementation may be beneficial in treating obesity, improving glucose intolerance and total energy expenditure.",
+      "corpusId": 2016485,
+      "url": "https://doi.org/10.1186/1743-7075-7-30"
+    },
+    {
+      "title": "Nutraceutical support in heart failure: a position paper of the International Lipid Expert Panel (ILEP)",
+      "authors": [
+        {
+          "name": "A. Cicero",
+          "id": "35229391"
+        },
+        {
+          "name": "A. Colletti",
+          "id": "39932041"
+        },
+        {
+          "name": "S. von Haehling",
+          "id": "48753705"
+        },
+        {
+          "name": "D. Vinereanu",
+          "id": "4527011"
+        },
+        {
+          "name": "A. Bielecka-Dabrowa",
+          "id": "1389999963"
+        },
+        {
+          "name": "A. Sahebkar",
+          "id": "1619133511"
+        },
+        {
+          "name": "P. Toth",
+          "id": "2211787"
+        },
+        {
+          "name": "Ž. Reiner",
+          "id": "3830543"
+        },
+        {
+          "name": "N. Wong",
+          "id": "1992015"
+        },
+        {
+          "name": "D. Mikhailidis",
+          "id": "4323602"
+        },
+        {
+          "name": "C. Ferri",
+          "id": "82372741"
+        },
+        {
+          "name": "M. Banach",
+          "id": "144138973"
+        }
+      ],
+      "year": 2020,
+      "venue": "Nutrition research reviews",
+      "score": 0.7356879633740431,
+      "abstract": "Abstract Heart failure (HF) is a complex clinical syndrome that represents a major cause of morbidity and mortality in Western countries. Several nutraceuticals have shown interesting clinical results in HF prevention as well as in the treatment of the early stages of the disease, alone or in combination with pharmacological therapy. The aim of the present expert opinion position paper is to summarise the available clinical evidence on the role of phytochemicals in HF prevention and/or treatment that might be considered in those patients not treated optimally as well as in those with low therapy adherence. The level of evidence and the strength of recommendation of particular HF treatment options were weighed up and graded according to predefined scales. A systematic search strategy was developed to identify trials in PubMed (January 1970 to June 2019). The terms ‘nutraceuticals’, ‘dietary supplements’, ‘herbal drug’ and ‘heart failure’ or ‘left verntricular dysfunction’ were used in the literature search. The experts discussed and agreed on the recommendation levels. Available clinical trials reported that the intake of some nutraceuticals (hawthorn, coenzyme Q10, l-carnitine, d-ribose, carnosine, vitamin D, probiotics, n-3 PUFA and beet nitrates) might be associated with improvements in self-perceived quality of life and/or functional parameters such as left ventricular ejection fraction, stroke volume and cardiac output in HF patients, with minimal or no side effects. Those benefits tended to be greater in earlier HF stages. Available clinical evidence supports the usefulness of supplementation with some nutraceuticals to improve HF management in addition to evidence-based pharmacological therapy.",
+      "corpusId": 212728606,
+      "url": "https://api.semanticscholar.org/CorpusId:212728606"
+    },
+    {
+      "title": "Nutraceuticals in Chronic Coronary Syndromes: Preclinical Data and Translational Experiences",
+      "authors": [
+        {
+          "name": "C. Tognola",
+          "id": "1989955440"
+        },
+        {
+          "name": "Maloberti Alessandro",
+          "id": "2007196496"
+        },
+        {
+          "name": "M. Milani",
+          "id": "1399596977"
+        },
+        {
+          "name": "I. Cartella",
+          "id": "87304613"
+        },
+        {
+          "name": "G. Tavecchia",
+          "id": "2007549576"
+        },
+        {
+          "name": "E. Grasso",
+          "id": "13845573"
+        },
+        {
+          "name": "Jin-Ke Sun",
+          "id": "2341659344"
+        },
+        {
+          "name": "C. Giannattasio",
+          "id": "144759782"
+        }
+      ],
+      "year": 2020,
+      "venue": "High Blood Pressure & Cardiovascular Prevention",
+      "score": 0.6703354775686847,
+      "abstract": "Non-pharmacological treatments have always been considered important in the management of Chronic Coronary Syndromes. Nutraceuticals (\"Nutrition\" + \"Pharmaceutical\") could fall both under the definition of non-pharmacological treatment and pharmacological one or, probably more correctly, in the middle of these two kinds of therapies. However, the word “nutraceuticals” never appears in the latest guidelines on this issue. This is probably determined by the fact that evidences on this topic are scarce and most of the published articles are based on preclinical data while translational experiences are available only for some molecules. In this review we will focus on nutraceutical strategies that act on the ischemic myocardium itself and not only on the cardiovascular risk factors. As demonstrated by the important number of papers published in recent years, this is an evolving topic and evaluated substances principally act on two mechanisms (cardiac energetics and ischemia-reperfusion damage) that will be also reviewed.",
+      "corpusId": 226205413,
+      "url": "https://api.semanticscholar.org/CorpusId:226205413"
+    },
+    {
+      "title": "L-carnitine supplementation to prevent postoperative complications after cardiac surgery: A systematic review and meta-analysis of randomised clinical trials",
+      "authors": [
+        {
+          "name": "Laila Shalabi",
+          "id": "2285715106"
+        },
+        {
+          "name": "Ahmed Ibrahim",
+          "id": "2356248602"
+        },
+        {
+          "name": "M. Elsawy",
+          "id": "2355978394"
+        },
+        {
+          "name": "S. Zreigh",
+          "id": "2346496892"
+        },
+        {
+          "name": "M. Dervis",
+          "id": "2342808595"
+        },
+        {
+          "name": "M. Elshabrawi",
+          "id": "2292240980"
+        },
+        {
+          "name": "Sohaila Mourad",
+          "id": "2322649882"
+        },
+        {
+          "name": "M. Arafa",
+          "id": "2355981263"
+        },
+        {
+          "name": "M. Abuelazm",
+          "id": "2151178976"
+        }
+      ],
+      "year": 2025,
+      "venue": "Indian Journal of Anaesthesia",
+      "score": 0.6322096805672311,
+      "abstract": "Background and Aims: Cardiac surgeries often lead to postoperative complications, which affect recovery and increase morbidity and mortality. This systematic review aims to assess L-carnitine’s effect on preventing postoperative complications across various cardiac surgeries, addressing gaps in current literature on its potential therapeutic benefits. Methods: We systematically searched Web of Science, Cochrane, Embase, PubMed, and Scopus databases until March 2025. Statistical analysis was performed using R version 4.3.2. Effect sizes were measured with relative risks (RR) for dichotomous outcomes and mean differences (MD) for continuous outcomes, while heterogeneity was evaluated using the I² statistic. Results: Thirteen randomised controlled trials(RCTs) with 786 patients were included. L-carnitine significantly increased the cardiac index (CI) (MD: 0.14; 95% CI: 0.07, 0.20; P < 0.01) and left ventricular stroke work index (LVSWI) (MD: 0.42; 95% CI: 0.06, 0.78; P = 0.02). In addition, L-carnitine significantly improved the left ventricular ejection fraction (LVEF) (MD: 7.88; 95% CI: 6.67, 9.09; P < 0.01), with a significant reduction in postoperative atrial fibrillation (POAF) (RR: 0.53; 95% CI: 0.30, 0.95; P = 0.03). In contrast, there was no significant reduction in in-hospital mortality (RR: 0.51; 95% CI: 0.10, 2.63; P = 1.00) and stroke incidence (RR: 0.85; 95% CI: 0.12, 5.76; P = 0.82). Conclusion: Preoperative administration of L-carnitine demonstrates meaningful short-term benefits in enhancing CI, LVSWI, and LVEF while reducing the incidence of POAF following cardiac surgery. These findings suggest a potential role for L-carnitine supplementation in optimising perioperative cardiac care, enhancing recovery, and reducing complications following cardiac surgery. However, the existing studies are limited in scope, making it challenging to draw robust conclusions.",
+      "corpusId": 278639406,
+      "url": "https://api.semanticscholar.org/CorpusId:278639406"
+    },
+    {
+      "title": "What are the best clinical management strategies for cardiomyopathy? an umbrella review of systematic reviews and meta-analyses",
+      "authors": [
+        {
+          "name": "Wanru Cheng",
+          "id": "2375767953"
+        },
+        {
+          "name": "Jing Wang",
+          "id": "2152445611"
+        },
+        {
+          "name": "Jie Sun",
+          "id": "2363831764"
+        }
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Pharmacology",
+      "score": 0.6124637058731445,
+      "abstract": "Background The aim of this study is to summarize and evaluate the quality of evidence regarding the effectiveness and safety of different interventions for patients with cardiomyopathy, based on published meta-analyses through an umbrella review. Materials and Methods The literature was searched via PubMed, Embase, Web of Science, and the Cochrane Library. Two reviewers evaluated the methodological quality of the included articles using the AMSTAR score. In addition, according to the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE), evidence of each outcome was evaluated and graded as “high,” “moderate,” “low,” or “very low” quality for drawing conclusions. Additionally, each outcome was classified into four categories (classes I–IV and nonsignificant). Results High-quality evidence suggested that for patients with cardiomyopathy, stem cell treatment could significantly improve left ventricular ejection fraction (LVEF), left ventricular ejection volume, 6-min walk distance (6-MWD), and New York Heart Association (NYHA) functional classification. High-quality evidence also suggested that for patients with dilated cardiomyopathy (DCM), adding traditional Chinese medicines (TCMs) such as Qili Qiangxin capsule (QQC), Shenmai injection (SMI), Zhigancao, and Shengmai to conventional Western medical treatment could significantly improve clinical effects, including LVEF, 6-MWD, and reductions in inflammatory indicators, left ventricular end-systolic diameter (LVESD), left ventricular end-diastolic diameter (LVEDD), and heart rate. In addition, high-quality evidence suggested that for patients with DCM, drugs such as atorvastatin, carvedilol, thyroid hormone, and L-carnitine could significantly improve LVEF and cardiac output and reduce C-reactive protein levels, systolic blood pressure, LVEDD, and left ventricular end-diastolic and end-systolic volumes. Furthermore, implantable cardioverter defibrillator (ICD) therapy could significantly reduce sudden cardiac death. Conclusion High-quality evidence showed that cell therapy, atorvastatin, carvedilol, and thyroid hormone have significant improvement effects on the prognosis of cardiomyopathy. In addition, combining traditional Chinese medicines with conventional Western medicine therapy could significantly improve the effectiveness of conventional Western medicine therapy for cardiomyopathy.",
+      "corpusId": 280555986,
+      "url": "https://api.semanticscholar.org/CorpusId:280555986"
+    },
+    {
+      "title": "The role of carnitine in myocardial dysfunction.",
+      "authors": [
+        {
+          "name": "D. Pauly",
+          "id": "11667167"
+        },
+        {
+          "name": "C. Pepine",
+          "id": "5479974"
+        }
+      ],
+      "year": 2003,
+      "venue": "American Journal of Kidney Diseases",
+      "score": 0.6083283338045377,
+      "abstract": "",
+      "corpusId": 24188136,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/12751052"
+    },
+    {
+      "title": "L-carnitine in the secondary prevention of cardiovascular disease: systematic review and meta-analysis.",
+      "authors": [
+        {
+          "name": "J. DiNicolantonio",
+          "id": "3843078"
+        },
+        {
+          "name": "C. Lavie",
+          "id": "27346053"
+        },
+        {
+          "name": "H. Fares",
+          "id": "5787553"
+        },
+        {
+          "name": "A. Menezes",
+          "id": "2070903"
+        },
+        {
+          "name": "J. O’Keefe",
+          "id": "38051693"
+        }
+      ],
+      "year": 2013,
+      "venue": "Mayo Clinic proceedings",
+      "score": 0.5970002781173556,
+      "abstract": "",
+      "corpusId": 4213128,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/23597877"
+    },
+    {
+      "title": "Assessing the Roles of Retinol, Vitamin K2, Carnitine, and Creatine in Plant-Based Diets: A Narrative Review of Nutritional Adequacy and Health Implications",
+      "authors": [
+        {
+          "name": "David M. Goldman",
+          "id": "2064678711"
+        },
+        {
+          "name": "Cassandra B. Warbeck",
+          "id": "2292653034"
+        },
+        {
+          "name": "Robby Barbaro",
+          "id": "1435978881"
+        },
+        {
+          "name": "Cyrus Khambatta",
+          "id": "2081108291"
+        },
+        {
+          "name": "Matthew Nagra",
+          "id": "2343373632"
+        }
+      ],
+      "year": 2025,
+      "venue": "Nutrients",
+      "score": 0.5936960665472005,
+      "abstract": "Plant-based diets are associated with numerous health benefits, including reduced risks of chronic diseases. However, questions persist regarding the implications of lower dietary intakes of certain non-essential nutrients, such as retinol, vitamin K2, carnitine, and creatine, which are primarily found in animal-derived foods. This narrative review evaluates the roles of these nutrients in human physiology and examines whether their absence in plant-based diets is likely to impact health outcomes. Retinol requirements can be met through the consumption of provitamin A carotenoids in plant foods, even in individuals with reduced conversion efficiency. Endogenous synthesis adequately supports physiological needs for vitamin K2, and currently available evidence does not consistently demonstrate that dietary vitamin K2 provides additional benefits for bone or cardiovascular health. Carnitine and creatine levels may differ between individuals following omnivorous and plant-based diets, but these differences do not result in compromised muscle function, cognitive health, or metabolic outcomes. Current evidence does not indicate that the absence of these non-essential nutrients in plant-based diets adversely affects health or confers disadvantages compared to omnivorous diets.",
+      "corpusId": 276056919,
+      "url": "https://api.semanticscholar.org/CorpusId:276056919"
+    },
+    {
+      "title": "The effects of L‐carnitine treatment on left ventricular function and erythrocyte superoxide dismutase activity in patients with ischemic cardiomyopathy",
+      "authors": [
+        {
+          "name": "A. Gürlek",
+          "id": "46318634"
+        },
+        {
+          "name": "E. Tutar",
+          "id": "153515788"
+        },
+        {
+          "name": "Ethem Akçıl",
+          "id": "6229055"
+        },
+        {
+          "name": "İ. Dinçer",
+          "id": "34721817"
+        },
+        {
+          "name": "Ç. Erol",
+          "id": "144632435"
+        },
+        {
+          "name": "P. A. Kocatürk",
+          "id": "7679065"
+        },
+        {
+          "name": "D. Oral",
+          "id": "5616585"
+        }
+      ],
+      "year": 2000,
+      "venue": "European Journal of Heart Failure",
+      "score": 0.5876766531052768,
+      "abstract": "",
+      "corpusId": 20471000,
+      "url": "https://doi.org/10.1016/S1388-9842%2800%2900064-7"
+    },
+    {
+      "title": "Carnitine Deficiency in Chronic Kidney Disease: Pathophysiology, Clinical Implications, and Therapeutic Perspectives",
+      "authors": [
+        {
+          "name": "Y. Kaida",
+          "id": "6045719"
+        },
+        {
+          "name": "K. Taguchi",
+          "id": "49689166"
+        },
+        {
+          "name": "Kei Fukami",
+          "id": "2282245732"
+        }
+      ],
+      "year": 2025,
+      "venue": "Nutrients",
+      "score": 0.5843804991984566,
+      "abstract": "Carnitine is essential for the mitochondrial transport of long-chain fatty acids and thus plays a pivotal role in energy metabolism, particularly in metabolically active organs, such as skeletal and cardiac muscle. In patients with dialysis, carnitine homeostasis is disrupted because of the reduced synthesis, impaired renal reabsorption, and carnitine loss during extracorporeal procedures. Carnitine deficiency is linked to a wide range of clinical manifestations, including muscle weakness, treatment-resistant anemia, intradialytic hypotension, mental disorder, and cardiovascular disease. This review provides a comprehensive overview of the physiological function of carnitine, elucidates the underlying mechanisms of carnitine deficiency in patients with dialysis, and explores the clinical consequences. Furthermore, the efficacy and limitations of L-carnitine supplementation in clinical practice are discussed based on the current literature. A better understanding of the pathophysiological and clinical relevance of carnitine deficiency may help facilitate personalized therapeutic strategies for patients with kidney diseases.",
+      "corpusId": 279659358,
+      "url": "https://api.semanticscholar.org/CorpusId:279659358"
+    },
+    {
+      "title": "Effect of carnitine on patients with heart failure: an evidence-based case report",
+      "authors": [
+        {
+          "name": "Yosua Yan Kristian",
+          "id": "65888773"
+        },
+        {
+          "name": "W. Lestari",
+          "id": "2060346085"
+        }
+      ],
+      "year": 2020,
+      "venue": "unknown",
+      "score": 0.5497626172041369,
+      "abstract": "Background : Heart disease is one of the leading causes of death in Indonesia. Nutritional management plays an important role in overcoming heart disease, both as prevention and treatment. Carnitine plays a role in fat metabolism and can reduce the formation of thrombosis, resulting in improved heart function and quality of life of patients. Objectives: This study is aimed to identify the effect of carnitine in patients with heart failure. Methods : Existing research findings and articles are selected based on inclusion and exclusion criteria in three databases, namely PubMed, Cochrane and Wiley. The outcome were functional capacity and heart function. Results : One meta-analysis that address with the clinical questions was obtained, and based on that article, giving carnitine to patients with heart failure has effects on increasing functional capacity, heart function, BNP serum and NT-proBNP levels. However, no effects found on mortality. Furthermore, no significant side effects on carnitine was found. Conclusions: Carnitine supplementation at a dose of 1 up to 6 g/day has a positive impact on functional capacity, heart function, BNP serum and NT-proBNP levels in patients with heart failure, alongside with minimal side effects.",
+      "corpusId": 225242438,
+      "url": "https://api.semanticscholar.org/CorpusId:225242438"
+    },
+    {
+      "title": "Effects of energy drinks on the cardiovascular system",
+      "authors": [
+        {
+          "name": "Bishoy Wassef",
+          "id": "11730989"
+        },
+        {
+          "name": "Michelle Kohansieh",
+          "id": "5048092"
+        },
+        {
+          "name": "A. Makaryus",
+          "id": "3428822"
+        }
+      ],
+      "year": 2017,
+      "venue": "World Journal of Cardiology",
+      "score": 0.5496934582069827,
+      "abstract": "Throughout the last decade, the use of energy drinks has been increasingly looked upon with caution as potentially dangerous due to their perceived strong concentration of caffeine aside from other substances such as taurine, guarana, and L-carnitine that are largely unknown to the general public. In addition, a large number of energy drink intoxications have been reported all over the world including cases of seizures and arrhythmias. In this paper, we focus on the effect of energy drinks on the cardiovascular system and whether the current ongoing call for the products’ sales and regulation of their contents should continue.",
+      "corpusId": 7385278,
+      "url": "https://api.semanticscholar.org/CorpusId:7385278"
+    },
+    {
+      "title": "Effective dosing of L-carnitine in the secondary prevention of cardiovascular disease: a systematic review and meta-analysis",
+      "authors": [
+        {
+          "name": "Rui-lian Shang",
+          "id": "84344670"
+        },
+        {
+          "name": "Zhiqing Sun",
+          "id": "8048460"
+        },
+        {
+          "name": "Hui Li",
+          "id": "2155493955"
+        }
+      ],
+      "year": 2014,
+      "venue": "BMC Cardiovascular Disorders",
+      "score": 0.5425934191238828,
+      "abstract": "BackgroundL-carnitine supplementation has been associated with a significant reduction in all-cause mortality, ventricular arrhythmia, and angina in the setting of acute myocardial infarction (MI). However, on account of strict homeostatic regulation of plasma L-carnitine concentrations, higher doses of L-carnitine supplementation may not provide additional therapeutic benefits. This study aims to evaluate the effects of various oral maintenance dosages of L-carnitine on all-cause mortality and cardiovascular morbidities in the setting of acute MI.MethodsAfter a systematic review of several major electronic databases (PubMed, EMBASE, and the Cochrane Library) up to November 2013, a meta-analysis of five controlled trials (n = 3108) was conducted to determine the effects of L-carnitine on all-cause mortality and cardiovascular morbidities in the setting of acute MI.ResultsThe interaction test yielded no significant differences between the effects of the four daily oral maintenance dosages of L-carnitine (i.e., 2 g, 3 g, 4 g, and 6 g) on all-cause mortality (risk ratio [RR] = 0.77, 95% CI [0.57-1.03], P = 0.08) with a statistically insignificant trend favoring the 3 g dose (RR = 0.48) over the lower 2 g dose (RR = 0.62), which was favored over the higher 4 g and 6 g doses (RR = 0.78, 0.78). There was no significant differences between the effects of the daily oral maintenance dosages of 2 g and 6 g on heart failure (RR = 0.53, 95% CI [0.25-1.13], P = 0.10), unstable angina (RR = 0.90, 95% CI [0.51-1.58], P = 0.71), or myocardial reinfarction (RR = 0.74, 95% CI [0.30-1.80], P = 0.50).ConclusionsThere appears to be no significant marginal benefit in terms of all-cause mortality, heart failure, unstable angina, or myocardial reinfarction in the setting of acute MI for oral L-carnitine maintenance doses of greater or less than 3 g per day.",
+      "corpusId": 16397169,
+      "url": "https://doi.org/10.1186/1471-2261-14-88"
+    },
+    {
+      "title": "Efficacy Study of Levocarnitine Adjuvant Therapy for Complications of Heart Failure",
+      "authors": [
+        {
+          "name": "Kaili Du",
+          "id": "2323813486"
+        },
+        {
+          "name": "Qixia Jiang",
+          "id": "2324877616"
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Clinical Medicine Research",
+      "score": 0.5372939145430045,
+      "abstract": "The objective is to investigate the role of standard treatment combined with Levocarnitine (LC) in improving clinical outcomes in patients with complications of heart failure. The authors collected and organized data from 700 patients with complications of heart failure admitted to our cardiology department from January 2015 to February 2020. The patients were divided into a control group and an LC group, with 350 cases in each group. The control group received standard treatment, while the LC group received standard treatment combined with LC. The authors compared left ventricular ejection fraction (LVEF) and brain natriuretic peptide (BNP) levels between the two groups. Results: The LVEF level in the LC group was higher than that in the control group after treatment, with P<0.05. The BNP levels were similar between the two groups after treatment, with P>0.05. In the LC group, the LVEF level in patients with heart failure and diabetes was higher than that in the control group, and the BNP level was lower than that in the control group, with P<0.05. In patients with heart failure and atrial fibrillation in the LC group, the LVEF level was higher than that in the control group (P<0.05), and the BNP levels were similar between the two groups (P>0.05) after treatment. In patients with heart failure and dilated cardiomyopathy in the LC group, the LVEF level was higher than that in the control group, and the BNP level was lower than that in the control group, with P<0.05. Conclusion: LC combined with standard treatment can more significantly improve LVEF and BNP levels in patients with complications of heart failure, especially in the subgroup of heart failure with diabetes.",
+      "corpusId": 267162985,
+      "url": "https://api.semanticscholar.org/CorpusId:267162985"
+    },
+    {
+      "title": "Реалии и перспективы применения L-карнитина в кардиологии",
+      "authors": [
+        {
+          "name": "Array М. Аронов",
+          "id": "84092918"
+        }
+      ],
+      "year": 2013,
+      "venue": "unknown",
+      "score": 0.5337542728174383,
+      "abstract": "Carnitine is a substance close to vitamins B, which participates in the mitochondrial energy synthesis. L-carnitine controls the rate of the long-chain fatty acid oxidation and acts as a specific co-factor facilitating their transport via the internal mitochondrial membrane. It also participates in the elimination of long-chain fatty acid excess from mitochondria and cytoplasm. These effects prevent cytotoxicity.  This review presents the results of the studies which comply with the standards of evidence-based medicine.  It has been shown that in patients with acute myocardial infarction (AMI), L-carnitine therapy was associated with a reduction in myocardial necrosis and an improved clinical course of AMI (end-point incidence in the main and control groups was 15,6% and 26%, respectively).  In the first 5 days of L-carnitine therapy, there was a significant reduction in mortality in the main group of AMI patients.  In patients with stable angina, L-carnitine reduces the risk of all-cause mortality, repeat AMI, and ventricular arrhythmias. In patients with intermittent claudication, L-carnitine significantly increases the pain-free walking distance. This medication is well tolerated, with no registered major adverse effects.",
+      "corpusId": 78565184,
+      "url": "https://api.semanticscholar.org/CorpusId:78565184"
+    },
+    {
+      "title": "Efficacy of L-Carnitine for Dilated Cardiomyopathy: A Meta-Analysis of Randomized Controlled Trials",
+      "authors": [
+        {
+          "name": "Y. Weng",
+          "id": "12425756"
+        },
+        {
+          "name": "Shuo Zhang",
+          "id": "1508341548"
+        },
+        {
+          "name": "Wei Huang",
+          "id": "2152491506"
+        },
+        {
+          "name": "Xianze Xie",
+          "id": "30444325"
+        },
+        {
+          "name": "Zhiyuan Ma",
+          "id": "2215131"
+        },
+        {
+          "name": "Qiaomei Fan",
+          "id": "51306566"
+        }
+      ],
+      "year": 2021,
+      "venue": "BioMed Research International",
+      "score": 0.5298939348617445,
+      "abstract": "Background L-carnitine mediates the utilization of fatty acids and glucose in the myocardium. The potential of L-carnitine in managing dilated cardiomyopathy (DCM) in patients has been extensively reported, with additional benefits. Objective This meta-analysis purposed to explore the clinical efficacy of L-carnitine therapy on DCM patients. Methods We searched publications up to May 2020 from several databases including PubMed, Embase, Cochrane Library, Chinese Biomedical (CBM) database, Chinese Science and Technology Periodicals database (VIP), Chinese National Knowledge Infrastructure (CNKI) database, and Wanfang database. Subsequently, publications that met the inclusion criteria were systematically evaluated by two independent reviewers. Results A total of 23 RCTs conducted in China with 1455 DCM patients were included in this study. In the meta-analysis, L-carnitine therapy was associated with a considerable improvement in the overall efficacy (RR = 1.28, 95% CI (1.21-1.36), P < 0.0001), left ventricular ejection fraction (LVEF) (MD = 6.16%, 95% CI (4.50, 7.83), P < 0.0001), and cardiac output (CO) (MD = 0.88 L/min, 95% CI (0.51, 1.25), P < 0.0001) as compared to the control group. Moreover, L-carnitine therapy significantly decreased left ventricular end-diastolic dimension (LVEDD) (MD = −2.53, 95% CI (-3.95, -1.12), P = 0.0005), brain natriuretic peptide (BNP) (SMD = −1.71 ng/L, 95% CI (-3.02, -0.40), P = 0.01), and the transforming growth factor-beta (TGF-β1) (MD = −56.78 ng/L, 95% CI (-66.02, -47.53), P < 0.0001). Conclusions L-carnitine potentially enhanced the therapeutic efficiency in DCM patients. Following weaknesses in the evidence due to low methodological quality and high clinical heterogeneity in the included studies, well-designed trials are recommended.",
+      "corpusId": 231721753,
+      "url": "https://api.semanticscholar.org/CorpusId:231721753"
+    },
+    {
+      "title": "The effects of L-carnitine supplementation on inflammation, oxidative stress, and clinical outcomes in critically Ill patients with sepsis: a randomized, double-blind, controlled trial",
+      "authors": [
+        {
+          "name": "Mahdi Keshani",
+          "id": "2155513622"
+        },
+        {
+          "name": "Babak Alikiaii",
+          "id": "6960693"
+        },
+        {
+          "name": "Zahra Babaei",
+          "id": "2289954531"
+        },
+        {
+          "name": "Gholamreza Askari",
+          "id": "2250472038"
+        },
+        {
+          "name": "Zahra Heidari",
+          "id": "2289956385"
+        },
+        {
+          "name": "Manoj Sharma",
+          "id": "2289769114"
+        },
+        {
+          "name": "Mohammad Bagherniya",
+          "id": "15648360"
+        }
+      ],
+      "year": 2024,
+      "venue": "Nutrix Journal",
+      "score": 0.5209127570371769,
+      "abstract": "Background Sepsis, a life-threatening organ dysfunction caused by a host’s dysregulated response to infection with an inflammatory process, becomes a real challenge for the healthcare systems. L-carnitine (LC) has antioxidant and anti-inflammatory properties as in previous studies. Thus, we aimed to determine the effects of LC on inflammation, oxidative stress, and clinical parameters in critically ill septic patients. Methods A randomized double-blinded controlled trial was conducted. A total of 60 patients were randomized to receive LC (3 g/day, n  = 30) or placebo ( n  = 30) for 7 days. Inflammatory and oxidative stress parameters (C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), superoxide dismutase (SOD), malondialdehyde (MDA), total antioxidant capacity (TAC), 28-day mortality rate, and some monitoring variables were evaluated. Results There was no statistically significant difference between study arms in baseline characteristics and disease severity scores. CRP ( p  < 0.001) and ESR ( p : 0.004) significantly reduced, and SOD ( p  < 0.001) and TAC ( p  < 0.001) significantly improved in the LC group after 7 days. Between-group analysis revealed a significant reduction in CRP ( p : 0.001) and serum chloride ( p : 0.032), an increase in serum albumin ( p : 0.036) and platelet ( p : 0.004) significantly, and an increase in SOD marginally ( p : 0.073). The 28-day mortality rate was also lower in the LC group compared with placebo (7 persons vs. 15 persons) significantly (odds ratio: 0.233, p : 0.010). Conclusions L-carnitine ameliorated inflammation, enhanced antioxidant defense, reduced mortality, and improved some clinical outcomes in critically ill patients with sepsis. Trial registration IRCT20201129049534N1; May 2021.",
+      "corpusId": 268241360,
+      "url": "https://api.semanticscholar.org/CorpusId:268241360"
+    },
+    {
+      "title": "The effects of l-carnitine supplementation on inflammatory factors, oxidative stress, and clinical outcomes in patients with sepsis admitted to the intensive care unit (ICU): study protocol for a double blind, randomized, placebo-controlled clinical trial",
+      "authors": [
+        {
+          "name": "Mahdi Keshani",
+          "id": "2155513622"
+        },
+        {
+          "name": "Babak Alikiaii",
+          "id": "6960693"
+        },
+        {
+          "name": "G. Askari",
+          "id": "7414427"
+        },
+        {
+          "name": "Farveh Yahyapoor",
+          "id": "2006472911"
+        },
+        {
+          "name": "G. Ferns",
+          "id": "49937518"
+        },
+        {
+          "name": "Mohammad Bagherniya",
+          "id": "15648360"
+        }
+      ],
+      "year": 2022,
+      "venue": "Trials",
+      "score": 0.5192273867116171,
+      "abstract": "Background Sepsis is a common cause for admission to the intensive care unit (ICU), and its incidence has been increasing. It is associated with a significant increase in serum inflammatory biomarkers such as C-reactive protein (CRP) and cytokines such as interleukin 1 (IL-1), IL-6, and tumor necrosis factor (TNF). Sepsis is also associated with pathophysiological changes that include fluid accumulation in the lungs, eventually leading to acute respiratory distress syndrome (ARDS), tissue edema, hypotension, and acute kidney injury (AKI). Conventional therapies include antibiotics, but these may have important adverse effects, so novel therapeutic approaches are required. In animal studies, l -carnitine improves antioxidant status, and in some clinical trials, it has been shown to reduce inflammation. It has also been shown to improve respiratory distress and help maintain coenzyme A homeostasis, metabolic flexibility, promoting the normal function of the tricarboxylic acid (TCA) cycle, and oxidation of fatty acids by peroxisomes. We aim to determine the effects of very high doses of l -carnitine on inflammatory factors, oxidative stress, and clinical outcomes of patients with sepsis in ICU. Method and design In this double-blind, randomized controlled clinical trial, we will use block randomization of 60 patients with sepsis, aged between 20 and 65 years from Al-Zahra Hospital, Isfahan, Iran. The intervention group ( n = 30) will receive three capsules of l -carnitine (each capsule contains 1000 mg  l -carnitine; totally 3000 mg/day) for 7 days, and a control group ( n = 30) will receive a placebo with the same dose and for the same duration in addition to usual care. At baseline, scores for clinical and nutritional status (Acute Physiology and Chronic Health Evaluation II (APACHE II), Sequential Organ Failure Assessment (SOFA), Quick SOFA (qSOFA), and NUTRIC Score) will be assessed. At beginning and end point of the study, inflammatory markers (CRP, erythrocyte sedimentation rate (ESR)), oxidative stress status (total oxidative stress (TOS), total antioxidant capacity (TAC)), and clinical variables will be evaluated also. The mortality rate will be assessed within 28 days of the beginning of the intervention. Discussion Because of the anti-inflammatory and antioxidant properties of l -carnitine, it is possible that using a high dose of 3000 mg daily of this nutritional supplement may reduce inflammation and oxidative stress and improve subsequent mortality of critically ill patients with sepsis. Trial registration Iranian Registry of Clinical Trials IRCT20201129049534N1 . Registered on 2 May 2021.",
+      "corpusId": 247013763,
+      "url": "https://api.semanticscholar.org/CorpusId:247013763"
+    },
+    {
+      "title": "Efficacy and Safety of L-Carnitine Treatment for Chronic Heart Failure: A Meta-Analysis of Randomized Controlled Trials",
+      "authors": [
+        {
+          "name": "Xiaolong Song",
+          "id": "50706803"
+        },
+        {
+          "name": "Huiyan Qu",
+          "id": "4390966"
+        },
+        {
+          "name": "Zongguo Yang",
+          "id": "5219749"
+        },
+        {
+          "name": "Jingfeng Rong",
+          "id": "10691117"
+        },
+        {
+          "name": "Wa Cai",
+          "id": "36052465"
+        },
+        {
+          "name": "Hua Zhou",
+          "id": "1674502423"
+        }
+      ],
+      "year": 2017,
+      "venue": "BioMed Research International",
+      "score": 0.5191194022252178,
+      "abstract": "Background. Whether additional benefit can be achieved with the use of L-carnitine (L-C) in patients with chronic heart failure (CHF) remains controversial. We therefore performed a meta-analysis of randomized controlled trials (RCTs) to evaluate the effects of L-C treatment in CHF patients. Methods. Pubmed, Ovid Embase, Web of Science, and Cochrane Library databases, Chinese National Knowledge Infrastructure (CNKI) database, Wanfang database, Chinese Biomedical (CBM) database, and Chinese Science and Technology Periodicals database (VIP) until September 30, 2016, were identified. Studies that met the inclusion criteria were systematically evaluated by two reviewers independently. Results. 17 RCTs with 1625 CHF patients were included in this analysis. L-C treatment in CHF was associated with considerable improvement in overall efficacy (OR = 3.47, P < 0.01), left ventricular ejection fraction (LVEF) (WMD: 4.14%, P = 0.01), strike volume (SV) (WMD: 8.21 ml, P = 0.01), cardiac output (CO) (WMD: 0.88 L/min, P < 0.01), and E/A (WMD: 0.23, P < 0.01). Moreover, treatment with L-C also resulted in significant decrease in serum levels of BNP (WMD: −124.60 pg/ml, P = 0.01), serum levels of NT-proBNP (WMD: −510.36 pg/ml, P < 0.01), LVESD (WMD: −4.06 mm, P < 0.01), LVEDD (WMD: −4.79 mm, P < 0.01), and LVESV (WMD: −20.16 ml, 95% CI: −35.65 to −4.67, P < 0.01). However, there were no significant differences in all-cause mortality, 6-minute walk, and adverse events between L-C and control groups. Conclusions. L-C treatment is effective for CHF patients in improving clinical symptoms and cardiac functions, decreasing serum levels of BNP and NT-proBNP. And it has a good tolerance.",
+      "corpusId": 3348522,
+      "url": "https://pdfs.semanticscholar.org/3c34/8d46c8098e0ede3025c83e47a6dc623cf8af.pdf"
+    },
+    {
+      "title": "Therapeutic Effects of l‐Carnitine and Propionyl‐l‐carnitine on Cardiovascular Diseases: A Review",
+      "authors": [
+        {
+          "name": "R. Ferrari",
+          "id": "144661050"
+        },
+        {
+          "name": "E. Merli",
+          "id": "2375186"
+        },
+        {
+          "name": "G. Cicchitelli",
+          "id": "11685018"
+        },
+        {
+          "name": "D. Mele",
+          "id": "2198661"
+        },
+        {
+          "name": "A. Fucili",
+          "id": "5273431"
+        },
+        {
+          "name": "C. Ceconi",
+          "id": "5998391"
+        }
+      ],
+      "year": 2004,
+      "venue": "Annals of the New York Academy of Sciences",
+      "score": 0.5149820798706042,
+      "abstract": "",
+      "corpusId": 30890751,
+      "url": "https://doi.org/10.1196/annals.1320.007"
+    },
+    {
+      "title": "Nutritional Deficiency in Patients with Heart Failure",
+      "authors": [
+        {
+          "name": "E. Sciatti",
+          "id": "4890961"
+        },
+        {
+          "name": "C. Lombardi",
+          "id": "144851730"
+        },
+        {
+          "name": "Alice Ravera",
+          "id": "35131770"
+        },
+        {
+          "name": "E. Vizzardi",
+          "id": "5876942"
+        },
+        {
+          "name": "I. Bonadei",
+          "id": "3720267"
+        },
+        {
+          "name": "V. Carubelli",
+          "id": "4524646"
+        },
+        {
+          "name": "E. Gorga",
+          "id": "3680302"
+        },
+        {
+          "name": "M. Metra",
+          "id": "4955663"
+        }
+      ],
+      "year": 2016,
+      "venue": "Nutrients",
+      "score": 0.5052479423722973,
+      "abstract": "Heart failure (HF) is the main cause of mortality and morbidity in Western countries. Although evidence-based treatments have substantially improved outcomes, prognosis remains poor with high costs for health care systems. In patients with HF, poor dietary behaviors are associated with unsatisfactory quality of life and adverse outcome. The HF guidelines have not recommended a specific nutritional strategy. Despite the role of micronutrient deficiency it has been extensively studied, and data about the efficacy of supplementation therapy in HF are not supported by large randomized trials and there is limited evidence regarding the outcomes. The aim of the present review is to analyze the state-of-the-art of nutritional deficiencies in HF, focusing on the physiological role and the prognostic impact of micronutrient supplementation.",
+      "corpusId": 6498080,
+      "url": "https://api.semanticscholar.org/CorpusId:6498080"
+    },
+    {
+      "title": "Effects of L-carnitine supplementation on oxidative stress and antioxidant enzymes activities in patients with coronary artery disease: a randomized, placebo-controlled trial",
+      "authors": [
+        {
+          "name": "Bor-Jen Lee",
+          "id": "4838383"
+        },
+        {
+          "name": "Jun-Shuo Lin",
+          "id": "6355904"
+        },
+        {
+          "name": "Yi-Chin Lin",
+          "id": "1983222"
+        },
+        {
+          "name": "Ping-Ting Lin",
+          "id": "6392606"
+        }
+      ],
+      "year": 2014,
+      "venue": "Nutrix Journal",
+      "score": 0.4892901204016569,
+      "abstract": "BackgroundCardiovascular disease is the leading cause of death worldwide. Higher oxidative stress may contribute to the pathogenesis of coronary artery disease (CAD). The purpose of this study was to investigate the effect of L-carnitine (LC, 1000 mg/d) on the markers of oxidative stress and antioxidant enzymes activities in CAD patients.MethodsWe enrolled 47 CAD patients in the study. The CAD patients were identified by cardiac catheterization as having at least 50% stenosis of one major coronary artery. The subjects were randomly assigned to the placebo (n = 24) and LC (n = 23) groups. The intervention was administered for 12 weeks. The levels of serum LC, plasma malondialdehyde (MDA), and erythrocyte antioxidant enzymes activities [catalase (CAT), superoxide dismutase (SOD), glutathione peroxidase (GPx)] were measured before and after intervention.ResultsThirty-nine subjects completed the study (placebo, n = 19; LC, n = 20). After 12 weeks of LC supplementation, the level of MDA was significantly reduced (2.0 ± 0.3 to 1.8 ± 0.3 μmol/L, P = 0.02) and the level of LC (33.6 ± 13.6 to 40.0 ± 12.0 μmol/L, P = 0.04) and antioxidant enzymes activities [CAT (12.7 ± 5.5 to 13.1 ± 5.8 U/mg of protein, P = 0.02), SOD (14.8 ± 2.9 to 20.7 ± 5.8 U/mg of protein, P < 0.01), and GPx (20.3 ± 3.4 to 23.0 ± 3.1 U/mg of protein, P = 0.01)] were significantly increased. The level of LC was significantly positively correlated with the antioxidant enzymes activities (CAT, β = 0.87, P = 0.02; SOD, β = 0.72, P < 0.01).ConclusionLC supplementation at a dose of 1000 mg/d was associated with a significant reduction in oxidative stress and an increase in antioxidant enzymes activities in CAD patients. CAD patients might benefit from using LC supplements to increase their anti-oxidation capacity.Trial registrationClinical Trials.gov Identifier: NCT01819701.",
+      "corpusId": 4664051,
+      "url": "https://doi.org/10.1186/1475-2891-13-79"
+    },
+    {
+      "title": "L-carnitine decreases myocardial injury in children undergoing open-heart surgery: A randomized controlled trial",
+      "authors": [
+        {
+          "name": "Wael El Feky",
+          "id": "17210526"
+        },
+        {
+          "name": "Dalia El-Afify",
+          "id": "1402970404"
+        },
+        {
+          "name": "Dina Abdelhai",
+          "id": "90512775"
+        },
+        {
+          "name": "Mohamed ElKashlan",
+          "id": "2071785604"
+        },
+        {
+          "name": "A. Fakhreldin",
+          "id": "39018679"
+        },
+        {
+          "name": "Doaa El Amrousy",
+          "id": "8142014"
+        }
+      ],
+      "year": 2024,
+      "venue": "European Journal of Pediatrics",
+      "score": 0.484159420531271,
+      "abstract": "Myocardial injury in open-heart surgery is related to several factors including ischemia–reperfusion injury, generation of reactive oxygen species, increased production of inflammatory mediators, and enhancement of apoptosis of cardiomyocytes. The aim of this study was to study the effect of L-carnitine on myocardial injury in children undergoing open-heart surgery. This clinical trial was performed on 60 children with congenital heart disease (CHD) who underwent open-heart surgery. They were randomized into two groups: L-carnitine group who received L-carnitine 50 mg\\kg\\day once daily for 1 month before cardiac surgery and control group who received placebo for 1 month before cardiac surgery. Left ventricular cardiac function was assessed by conventional echocardiography to measure left ventricular ejection fraction (LVEF) and two-dimensional speckle tracking echocardiography (2D-STE) to determine left ventricular global longitudinal strain (2D-LV GLS). Blood samples were obtained pre-operatively at baseline before the administration of L-carnitine or placebo and 12 h post-operatively to measure the level of malondialdehyde (MDA), superoxide dismutase (SOD), fas, caspase-3, creatinine kinase-MB (CK-MB), and troponin I. L-carnitine group had significantly lower post-operative level of oxidative stress marker (MDA), apoptosis markers (fas and caspase-3), and myocardial injury markers (CK-MB and troponin I), but they had significantly higher SOD post-operative level compared to the control group. In addition, post-operative LVEF and 2D-LVGLS were significantly lower in the control group compared to L-carnitine group. Conclusion: L-carnitine can reduce myocardial injury, improve post-operative left ventricular cardiac function, and may provide myocardium protection in children with CHD who underwent open-heart surgery. Trial registration: The clinical trial was registered at www.pactr.org with registration number PACTR202010570607420 at 29/10/2020 before recruiting the patients. What is Known: • Myocardial injury in open-heart surgery is related to several factors including ischemia–reperfusion injury, generation of reactive oxygen species, increased production of inflammatory mediators, and enhancement of apoptosis of cardiomyocytes. • L-carnitine was reported to have myocardial protective effects in rheumatic valvular surgery and coronary artery bypass graft (CABG) in adults; however, there is no evidence on its effectiveness in children undergoing open-heart surgery. What is New: • L-carnitine significantly lowered the post-operative level of oxidative stress marker (MDA), apoptosis markers (fas and caspase-3), and myocardial injury markers (CK-MB and troponin I) in the treatment group. • L-carnitine can reduce myocardial injury, improve post-operative left ventricular cardiac function, and may provide myocardium protection in children with CHD who underwent open-heart surgery. What is Known: • Myocardial injury in open-heart surgery is related to several factors including ischemia–reperfusion injury, generation of reactive oxygen species, increased production of inflammatory mediators, and enhancement of apoptosis of cardiomyocytes. • L-carnitine was reported to have myocardial protective effects in rheumatic valvular surgery and coronary artery bypass graft (CABG) in adults; however, there is no evidence on its effectiveness in children undergoing open-heart surgery. What is New: • L-carnitine significantly lowered the post-operative level of oxidative stress marker (MDA), apoptosis markers (fas and caspase-3), and myocardial injury markers (CK-MB and troponin I) in the treatment group. • L-carnitine can reduce myocardial injury, improve post-operative left ventricular cardiac function, and may provide myocardium protection in children with CHD who underwent open-heart surgery.",
+      "corpusId": 268875234,
+      "url": "https://api.semanticscholar.org/CorpusId:268875234"
+    },
+    {
+      "title": "l‐Carnitine therapy improves right heart dysfunction through Cpt1‐dependent fatty acid oxidation",
+      "authors": [
+        {
+          "name": "V. Agrawal",
+          "id": "2071206"
+        },
+        {
+          "name": "A. Hemnes",
+          "id": "4941692"
+        },
+        {
+          "name": "N. Shelburne",
+          "id": "20769825"
+        },
+        {
+          "name": "N. Fortune",
+          "id": "38163751"
+        },
+        {
+          "name": "J. Fuentes",
+          "id": "2052394662"
+        },
+        {
+          "name": "D. Colvin",
+          "id": "2092870"
+        },
+        {
+          "name": "M. Calcutt",
+          "id": "4340770"
+        },
+        {
+          "name": "M. Talati",
+          "id": "3660976"
+        },
+        {
+          "name": "Emily Poovey",
+          "id": "1474224867"
+        },
+        {
+          "name": "J. West",
+          "id": "32858047"
+        },
+        {
+          "name": "E. Brittain",
+          "id": "3129186"
+        }
+      ],
+      "year": 2022,
+      "venue": "Pulmonary Circulation",
+      "score": 0.4789858014624328,
+      "abstract": "Abstract Pulmonary arterial hypertension (PAH) is a fatal vasculopathy that ultimately leads to elevated pulmonary pressure and death by right ventricular (RV) failure, which occurs in part due to decreased fatty acid oxidation and cytotoxic lipid accumulation. In this study, we tested the hypothesis that decreased fatty acid oxidation and increased lipid accumulation in the failing RV is driven, in part, by a relative carnitine deficiency. We then tested whether supplementation of l‐carnitine can reverse lipotoxic RV failure through augmentation of fatty acid oxidation. In vivo in transgenic mice harboring a human BMPR2 mutation, l‐carnitine supplementation reversed RV failure by increasing RV cardiac output, improving RV ejection fraction, and decreasing RV lipid accumulation through increased PPARγ expression and augmented fatty acid oxidation of long chain fatty acids. These findings were confirmed in a second model of pulmonary artery banding‐induced RV dysfunction. In vitro, l‐carnitine supplementation selectively increased fatty acid oxidation in mitochondria and decreased lipid accumulation through a Cpt1‐dependent pathway. l‐Carnitine supplementation improves right ventricular contractility in the stressed RV through augmentation of fatty acid oxidation and decreases lipid accumulation. Correction of carnitine deficiency through l‐carnitine supplementation in PAH may reverse RV failure.",
+      "corpusId": 250466413,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/35911183"
+    },
+    {
+      "title": "Creatine, L-Carnitine, and ω3 Polyunsaturated Fatty Acid Supplementation from Healthy to Diseased Skeletal Muscle",
+      "authors": [
+        {
+          "name": "G. D'Antona",
+          "id": "2340255428"
+        },
+        {
+          "name": "S. Nabavi",
+          "id": "2049188"
+        },
+        {
+          "name": "P. Micheletti",
+          "id": "2076669756"
+        },
+        {
+          "name": "Arianna Di Lorenzo",
+          "id": "4722810"
+        },
+        {
+          "name": "Roberto Aquilani",
+          "id": "2340253863"
+        },
+        {
+          "name": "E. Nisoli",
+          "id": "2253677810"
+        },
+        {
+          "name": "M. Rondanelli",
+          "id": "2241526837"
+        },
+        {
+          "name": "M. Daglia",
+          "id": "6776572"
+        }
+      ],
+      "year": 2014,
+      "venue": "BioMed Research International",
+      "score": 0.47481196579581275,
+      "abstract": "Myopathies are chronic degenerative pathologies that induce the deterioration of the structure and function of skeletal muscle. So far a definitive therapy has not yet been developed and the main aim of myopathy treatment is to slow the progression of the disease. Current nonpharmacological therapies include rehabilitation, ventilator assistance, and nutritional supplements, all of which aim to delay the onset of the disease and relieve its symptoms. Besides an adequate diet, nutritional supplements could play an important role in the treatment of myopathic patients. Here we review the most recent in vitro and in vivo studies investigating the role supplementation with creatine, L-carnitine, and ω3 PUFAs plays in myopathy treatment. Our results suggest that these dietary supplements could have beneficial effects; nevertheless continued studies are required before they could be recommended as a routine treatment in muscle diseases.",
+      "corpusId": 275548385,
+      "url": "https://api.semanticscholar.org/CorpusId:275548385"
+    },
+    {
+      "title": "Influence of L-carnitine and its derivatives on myocardial metabolism and function in ischemic heart disease and during cardiopulmonary bypass.",
+      "authors": [
+        {
+          "name": "R. Lango",
+          "id": "7865814"
+        },
+        {
+          "name": "R. Smolenski",
+          "id": "1790470"
+        },
+        {
+          "name": "M. Narkiewicz",
+          "id": "153402506"
+        },
+        {
+          "name": "J. Suchorzewska",
+          "id": "8519010"
+        },
+        {
+          "name": "W. Lysiak-Szydlowska",
+          "id": "1403072923"
+        }
+      ],
+      "year": 2001,
+      "venue": "Cardiovascular Research",
+      "score": 0.4727671087731413,
+      "abstract": "",
+      "corpusId": 18454599,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11399244"
+    },
+    {
+      "title": "The Influence of L-Carnitine in the Complex Treatment of Patients with Renal Dysfunction Who Have Synchronous Chronic Coronary Artery Disease and Prostate Adenocarcinoma",
+      "authors": [
+        {
+          "name": "O. Sirenko",
+          "id": "47421135"
+        },
+        {
+          "name": "O. Kuryata",
+          "id": "35705962"
+        }
+      ],
+      "year": 2019,
+      "venue": "Turkiye Klinikleri Journal of Medical Sciences",
+      "score": 0.46909579069047624,
+      "abstract": "ABS TRACT Objective: The aim of the study is to evaluate the effect of L-Carnitine on the dynamics of inflammation, insulin resistance (IR), functional status of kidneys in the complex therapy of patients with coronary heart disease (CHD) in combination with prostate adenocarcinoma and renal dysfunction. Material and Methods: Forty two men with prostate adenocarcinoma and coronary heart disease were enrolled. The patients were randomly and blindly divided into 2 groups: Group I patients were treated with L-Carnitine in addition to standard treatment; Group II patients received only conventional treatment. Standard laboratory blood tests, lipid profile, glucose, renal and liver function tests, serum C-reactive protein (CRP), insulin, testosterone levels, echocardiographic examination were performed for all patients at baseline and after 10 days of treatment. Results: Median level of HOMA index was 3.1 [1.9; 4.8] mg/ml. Insulin resistance was established in 54.8% patients of Group I and 40% patients of control group (p<0.05). In Group I, the mean insulin index and HOMA index decreased by 15.4% (p=0.001) and 19.2% (p=0.003), respectively. The supplementation of L-Carnitine in standard therapy contributed to a significant decrease in serum creatinine level and an increase in the level of glomerular filtration rate (GFR) in Group I patients (p<0.05). Conclusion: The supplementation of L-Carnitine in the complex therapy of patients with coronary artery disease in combination with prostate adenocarcinoma contributes to a significant decrease in insulin resistance, improves the functional state of kidneys.",
+      "corpusId": 203585346,
+      "url": "https://api.semanticscholar.org/CorpusId:203585346"
+    },
+    {
+      "title": "Effect of L-carnitine supplementation on inflammatory marker of coronary artery disease",
+      "authors": [
+        {
+          "name": "A. Singhai",
+          "id": "5837887"
+        },
+        {
+          "name": "V. Yadav",
+          "id": "2145574056"
+        },
+        {
+          "name": "R. Jha",
+          "id": "46746789"
+        }
+      ],
+      "year": 2017,
+      "venue": "unknown",
+      "score": 0.4662975139590095,
+      "abstract": "Background:  L-carnitine (LC) might have the potential to control inflammation by reduction of major inflammatory cytokines, including CRP.  Therefore, this study was planned to investigate the effect of LC supplementation on CRP levels in CAD patients. Methods: 50 subjects comprised placebo group who received standard line of treatment for coronary artery disease while other 50 subjects comprised LC group who received 1000 mg of LC daily apart from standard treatment for 12 weeks. CRP levels were measured at baseline and again after 12 weeks of treatment in all subjects. Results:  The participants in the LC group had significantly lower levels of CRP after 12 weeks of supplementation with LC, than at baseline (p<0.01). Conclusions:  We suggest that LC supplementation, due to its antioxidant effects, have potential utility to reduce inflammation in CAD.",
+      "corpusId": 78609164,
+      "url": "https://api.semanticscholar.org/CorpusId:78609164"
+    },
+    {
+      "title": "L-carnitine supplementation in the recovery of plasma L-carnitine in patients with heart failure submitted to coronary artery bypass grafting.",
+      "authors": [
+        {
+          "name": "W. M. S. Cruz",
+          "id": "80488005"
+        },
+        {
+          "name": "S. M. S. Guimarães",
+          "id": "81314361"
+        },
+        {
+          "name": "Gabrielle Maciel",
+          "id": "79800965"
+        },
+        {
+          "name": "A. B. Huguenin",
+          "id": "35171710"
+        },
+        {
+          "name": "Monicque E M DE Carvalho",
+          "id": "120412619"
+        },
+        {
+          "name": "B. Costa",
+          "id": "51512910"
+        },
+        {
+          "name": "G. D. Silva",
+          "id": "7280161"
+        },
+        {
+          "name": "A. Colafranceschi",
+          "id": "4373761"
+        },
+        {
+          "name": "F. Scalco",
+          "id": "4558531"
+        },
+        {
+          "name": "Marcia Ribeiro",
+          "id": "2306624364"
+        }
+      ],
+      "year": 2018,
+      "venue": "Anais da Academia Brasileira de Ciências",
+      "score": 0.463265629222828,
+      "abstract": "Coronary artery bypass grafting reduces plasma L-carnitine and may impair the production of myocardial energy. L-carnitine supplementation may elevate plasma L-carnitine and increase cardiac mechanical efficiency. The objective of this study was to verify the recovery of preoperative plasma LC in patients with heart failure undergoing coronary artery bypass grafting supplemented with a daily oral dose of 50 mg / kg. Volunteers with ischemic heart failure who underwent surgery were randomized into a supplemented group (A-received 50 mg / kg L-carnitine) or placebo group (B) for 60 days. Supplementation was started on the third postoperative day. The spectrophotometric enzymatic method was used to quantify plasma L-carnitine. In the preoperative period, both groups had plasma L-carnitine adequate to the reference range (18.9-71.1 μM). On the second postoperative day, there was a reduction in plasma L-carnitine in groups A (17.4%) and B (14.4%). In the comparison between the groups, plasma L-carnitine was higher in group A than B in 10º (p = 0.024), 30º (p = 0.001), and 60º postoperative day (p = 0.008). Supplementation of L-carnitine at a daily oral dose of 50 mg / kg in patients with heart failure undergoing coronary artery bypass grafting may recover preoperative plasma L-carnitine within 10 days.",
+      "corpusId": 52953708,
+      "url": "https://api.semanticscholar.org/CorpusId:52953708"
+    },
+    {
+      "title": "Is there a Role for Oral L-Carnitine Therapy in Anemia and Cardiac Dysfunction Management in Egyptian Patients on Maintenance Hemodialysis?",
+      "authors": [
+        {
+          "name": "A. Sabry",
+          "id": "83564406"
+        },
+        {
+          "name": "Osama Ghaith",
+          "id": "1405182121"
+        },
+        {
+          "name": "Tarek Medhat",
+          "id": "46752238"
+        },
+        {
+          "name": "S. K. George",
+          "id": "31849484"
+        },
+        {
+          "name": "Eid M El-Shafey",
+          "id": "13041422"
+        }
+      ],
+      "year": 2009,
+      "venue": "unknown",
+      "score": 0.4513640059943922,
+      "abstract": "Aim: L-carnitine is a short organic hydrosoluble molecule and is\npresent in biological materials like free carnitine and acylcarnitines,\nwhich constitute the carnitine system. Long-term intermittent\nhemodialysis is associated with a reduction in plasma and tissue\nL-carnitine levels. Available studies on carnitine supplementation\nsuggest the use of this molecule in dialysis, especially for those\npatients with cardiac complications, impaired exercise and functional\ncapacities, and increased episodes of hypotension. Moreover, in some\npatients, the improved stability of erythrocyte membranes with\nL-carnitine supplementation may decrease erythropoietin requirements,\nthus leading to a reduction of dialytic costs. To study if there a\npossible advantageous effects for L– carnitine oral\nsupplementation in anemia and cardiac dysfunction management in a\ncohort of Egyptian patients on maintenance hemodialysis. Methods: \nFifty-five patients with chronic renal failure on maintenance\nhemodialysis were classified into 2 groups: L-carnitine group: 20\npatients (12 male and 8 female, mean age 47.66±17.73 years,\nhemodialysis duration 51.36±18.14 months, subjected to three\nsessions/week reaching a Kt/V of 1.49±0.37) they received oral\nL-carnitine therapy 1.500 mg/day and control group: 35 patients (24\nmale and 11 female, mean age 37.9±14.7 years, hemodialysis\nduration 53.83±15.17 months, subjected to three sessions/week\nreaching Kt/V of 1.33±0.23). Both groups were on Erythropoietin\ntherapy and IV iron whenever indicated. Echogardiographic studies were\nperformed before and at the end of the study. Results: Serum\nhemoglobin were comparable in the L-carnitine group and control group\nat the start and six months after therapy (8.63±1.77 and\n9.39±2.02 gm/dl, p= 0.18, 10.49±1.65 and 10.92±2.48\ngm/dL p= 0.76 respectively). The weekly maintenance dose of\nErythropoietin in spite of being lower in L-carnitine group\n(80.16±35.61 units/kg) compared to control group (91.9±38.21\nunits/kg) it does not reach a statistical significance (p= 0.20). No\nsignificant improvement could be observed in echogardiographic findings\nin the L-carnitine group after therapy. Conclusion: The role of\nL-carnitine in hemodialysis patients is questionable. Our study\nrevealed no observed significant improvement in echocardiographic\nfindings 6 months after therapy. However, -a statistically non\nsignificant-reduction in Erythropoietin dose was achieved in the\nL-carnitine-treated compared to the control group while maintaining\ncomparable target hemoglobin in both groups. Long-term studies\nincluding larger number of patients are required to clarify its role in\nhemodialysis patients.",
+      "corpusId": 26870278,
+      "url": "https://api.semanticscholar.org/CorpusId:26870278"
+    },
+    {
+      "title": "Effects of l‐carnitine supplement on serum inflammatory cytokines, C‐reactive protein, lipoprotein (a), and oxidative stress in hemodialysis patients with Lp (a) hyperlipoproteinemia",
+      "authors": [
+        {
+          "name": "Azam Shakery",
+          "id": "52108341"
+        },
+        {
+          "name": "H. Tabibi",
+          "id": "7881175"
+        },
+        {
+          "name": "M. Hedayati",
+          "id": "144080373"
+        }
+      ],
+      "year": 2010,
+      "venue": "Hemodialysis international. International Symposium on Home Hemodialysis",
+      "score": 0.44110488986824703,
+      "abstract": "",
+      "corpusId": 205756941,
+      "url": "https://doi.org/10.1111/j.1542-4758.2010.00476.x"
+    },
+    {
+      "title": "Revisiting the Role of Carnitine in Heart Disease Through the Lens of the Gut Microbiota",
+      "authors": [
+        {
+          "name": "Jean Demarquoy",
+          "id": "2298662467"
+        }
+      ],
+      "year": 2024,
+      "venue": "Nutrients",
+      "score": 0.4387153028959639,
+      "abstract": "L-Carnitine, sourced from red meat, dairy, and endogenous synthesis, plays a vital role in fatty acid metabolism and energy production. While beneficial for cardiovascular, muscular, and neural health, its interaction with the gut microbiota and conversion into trimethylamine (TMA) and trimethylamine N-oxide (TMAO) raise concerns about heart health. TMAO, produced through the gut-microbial metabolism of L-carnitine and subsequent liver oxidation, is associated with cardiovascular risks, including atherosclerosis, heart attacks, and stroke. It contributes to cholesterol deposition, vascular dysfunction, and platelet aggregation. Omnivorous diets, rich in L-carnitine, are associated with higher TMAO levels compared to plant-based diets, which are linked to lower cardiovascular disease risks. Dietary interventions, such as increasing fiber, polyphenols, and probiotics, can modulate the gut microbiota to reduce TMAO production. These strategies seek to balance L-carnitine’s benefits with its potential risks related to TMAO production. Future research should focus on personalized approaches to optimize L-carnitine use while mitigating its cardiovascular impacts, exploring microbial modulation and dietary strategies to minimize the TMAO levels and associated risks.",
+      "corpusId": 274622188,
+      "url": "https://api.semanticscholar.org/CorpusId:274622188"
+    },
+    {
+      "title": "The effect of L-Carnitine supplementation on clinical symptoms, C-reactive protein and malondialdehyde in obese women with knee osteoarthritis: a double blind randomized controlled trial",
+      "authors": [
+        {
+          "name": "Farnaz Baghban",
+          "id": "2051165292"
+        },
+        {
+          "name": "M. Hosseinzadeh",
+          "id": "34260008"
+        },
+        {
+          "name": "H. Mozaffari‐khosravi",
+          "id": "82680421"
+        },
+        {
+          "name": "A. Dehghan",
+          "id": "150010104"
+        },
+        {
+          "name": "H. Fallahzadeh",
+          "id": "87834273"
+        }
+      ],
+      "year": 2021,
+      "venue": "BMC Musculoskeletal Disorders",
+      "score": 0.4377821480132357,
+      "abstract": "Backgrounds L-carnitine decreases oxidation and inflammation by reducing the fatty acid in plasma and using oxygen in ATP synthesis. As such, knee osteoarthritis (KOA) can be improved by reducing apoptotic chondrocytes. This study was designed to compare the effect of L-carnitine supplementation and low-calorie diet on improving KOA among obese women. We further investigated the effect of L- carnitine on improvement of KOA in obese women on low calorie diet. Methods To conduct the study, 76 obese women with KOA were randomly assigned into two low-calorie diet groups: the first received 1000 mg of LCG and the second took the placebo (PLG) ( n  = 38). Anthropometry indices, body composition, lipid profile, C-reactive Protein (CRP), Malondialdehyde (MDA), and the Western Ontario and McMaster Universities Arthritis Index (WOMAC) were assessed at the baseline condition and after 12 weeks. Results The mean change of body mass index (BMI) (− 1.21 ± 0.84 vs. -0.79 ± 0.70; P  = 0.02) and weight (− 2.76 ± 1.69 vs. -1.95 ± 1.73; P  = 0.05) were significant in the LCG compared with the PLG. Likewise, LCG compared to the PLG showed insignificant improvement in waist circumference (WC) (− 5.65 ± 5.85 vs. -3.64 ± 3.37; P  = 0.08). Total cholesterol ( P  = 0.02), MDA ( P  = 0.03), fat mass (P = 0.03) and visceral fat ( P  = 0.001) only showed decreased levels in LCG in comparison to the baseline condition. There was no significant difference between LCG and PLG, in the mean changes of hip circumference, visceral fat, free fat mass, fat mass, lipid profiles, CRP, MDA as well as stiffness, physical function, decrease of pain and total scores ( P  > 0.05). Conclusion The 12-week L-carnitine supplementation could improve BMI, but had no significant effect on other anthropometric and body composition measures as well as clinical symptoms, CRP, MDA, and lipid profile in women with KOA. Further trials with higher doses and longer durations are required. IRCT registration number: IRCT2017011932026N2. Registration date: 2017-04-27.",
+      "corpusId": 231948166,
+      "url": "https://api.semanticscholar.org/CorpusId:231948166"
+    },
+    {
+      "title": "The effect of l-carnitine supplementation on mortality and clinical outcomes in ventilator-dependent critically ill patients with obesity and COVID-19: Protocol for a randomized double-blind placebo-controlled trial",
+      "authors": [
+        {
+          "name": "Seyyed Mostafa Arabi",
+          "id": "1844454198"
+        },
+        {
+          "name": "Saeid Hadi",
+          "id": "66384970"
+        },
+        {
+          "name": "Parisa Gholambareshi",
+          "id": "2203436190"
+        },
+        {
+          "name": "Leila Sadat Bahrami",
+          "id": "51172873"
+        },
+        {
+          "name": "E. Hazrati",
+          "id": "40632344"
+        },
+        {
+          "name": "S. Mirghazanfari",
+          "id": "6140708"
+        },
+        {
+          "name": "A. Sahebkar",
+          "id": "2131047983"
+        },
+        {
+          "name": "Vahid Hadi",
+          "id": "7559473"
+        }
+      ],
+      "year": 2023,
+      "venue": "Contemporary Clinical Trials Communications",
+      "score": 0.4350309272304911,
+      "abstract": "Background Coronavirus disease 2019 (COVID-19) still remains a pandemic accounting for at least 15% of intensive care unit (ICU) admissions. Recently, it has been observed that l-carnitine levels, which play an important role in fatty acid metabolism, have an inverse association with the severity of COVID-19 and its complications, hence a potential role for supplementing with this nutraceutical has been suggested. The current protocol describes a trial aiming to an evaluation of the effect of l-carnitine intervention on mortality and clinical outcomes in ICU-admitted patients with COVID-19. Methods This parallel-group, randomized, placebo-controlled, and double-blind clinical trial involves 50 participants and will be performed at the ICU of Artesh (AJA) Hospital, Mashhad, IRAN. Eligible participants will be randomized into two groups: 1) the intervention group will receive 1000 mg l-carnitine capsules 3 times a day, and 2) the placebo group will receive 1000 mg placebo capsules 3 times a day. Assessments will be performed at baseline, 7 and 28 days after study initiation. The primary outcome includes changes in serum levels of C-reactive protein (CRP). Secondary outcomes include the length of stay in the ICU, ICU mortality, hospital mortality, 28-day mortality, duration of mechanical ventilation (MV), and the neutrophil-lymphocyte ratio (NLR). Conclusion Based on previous evidence, l-carnitine may reduce inflammation and oxidation stress and improve respiratory function. However, the effects of l-carnitine on ventilator-dependent COVID-19 critically ill patients have not been assessed yet, justifying the necessity to conduct a clinical study in this field. c",
+      "corpusId": 256417144,
+      "url": "https://api.semanticscholar.org/CorpusId:256417144"
+    },
+    {
+      "title": "L-Carnitine Reduces Myocardial Oxidative Stress and Alleviates Myocardial Ischemia-Reperfusion Injury by Activating Nuclear Transcription-Related Factor 2 (Nrf2)/Heme Oxygenase-1 (HO-1) Signaling Pathway",
+      "authors": [
+        {
+          "name": "T. Zhao",
+          "id": "1716697844"
+        },
+        {
+          "name": "Shangjun Chen",
+          "id": "47335896"
+        },
+        {
+          "name": "Bingxin Wang",
+          "id": "2152594497"
+        },
+        {
+          "name": "D. Cai",
+          "id": "2130429512"
+        }
+      ],
+      "year": 2020,
+      "venue": "Medical Science Monitor",
+      "score": 0.431687149206933,
+      "abstract": "Background Myocardial ischemia-reperfusion injury (IRI) is an important injury mechanism of myocardial infarction. The purpose of this study was to explore the effects of L-carnitine (LC) on myocardial IRI and its mechanism. Material/Methods The IRI model was made by ligating the left anterior descending coronary artery. Then, we injected LC intraperitoneally into the rats of the experimental group to assess the effect of LC on IRI rats by use of serum markers, Western blot, and qRT-PCR. H9c2 cells were cultured and then treated with hypoxia-reoxygenation. The effect of LC on oxidative stress, apoptosis, and nuclear transcription-related factor 2/heme oxygenase-1 (Nrf2/HO-1) signaling pathway of H9c2 cells were detected by Western blot, RT-PCR, and flow cytometry. Results LC significantly reduced malondialdehyde (MDA), creatine kinase (CK), and lactate dehydrogenase (LDH) levels in rat myocardial tissue and increased superoxide dismutase (SOD) expression. LC also increased the expression of SOD1/2 and Bcl-2 in rat myocardial tissue and H9c2 cells and decreased the expression of caspase3/8 and Bax. In addition, LC increased the expression of Nrf2/HO-1 signaling pathway-related molecules in H9c2 cells and increased the activity of the Nrf2/HO-1 signaling pathway. Moreover, inhibition of the Nrf2/HO-1 signaling pathway attenuated the protective effect of LC on H9c2 cells. Conclusions LC can activate the Nrf2/HO-1 signaling pathway and reduce oxidative stress and apoptosis in cardiomyocytes, thereby reducing myocardial IRI.",
+      "corpusId": 218895068,
+      "url": "https://api.semanticscholar.org/CorpusId:218895068"
+    },
+    {
+      "title": "L-Carnitine prevents the development of ventricular fibrosis and heart failure with preserved ejection fraction in hypertensive heart disease",
+      "authors": [
+        {
+          "name": "Y. Omori",
+          "id": "31412693"
+        },
+        {
+          "name": "T. Ohtani",
+          "id": "35349190"
+        },
+        {
+          "name": "Y. Sakata",
+          "id": "31488191"
+        },
+        {
+          "name": "T. Mano",
+          "id": "90571572"
+        },
+        {
+          "name": "Yasuharu Takeda",
+          "id": "6333299"
+        },
+        {
+          "name": "S. Tamaki",
+          "id": "10959396"
+        },
+        {
+          "name": "Y. Tsukamoto",
+          "id": "48474819"
+        },
+        {
+          "name": "D. Kamimura",
+          "id": "48390211"
+        },
+        {
+          "name": "Y. Aizawa",
+          "id": "152436979"
+        },
+        {
+          "name": "T. Miwa",
+          "id": "2069158135"
+        },
+        {
+          "name": "I. Komuro",
+          "id": "3672831"
+        },
+        {
+          "name": "T. Soga",
+          "id": "2795829"
+        },
+        {
+          "name": "Kazuhiro Yamamoto",
+          "id": "47010386"
+        }
+      ],
+      "year": 2012,
+      "venue": "Journal of Hypertension",
+      "score": 0.41985829388540047,
+      "abstract": "",
+      "corpusId": 19477885,
+      "url": "https://doi.org/10.1097/HJH.0b013e3283569c5a"
+    },
+    {
+      "title": "Effects of L-carnitine supplementation on inflammatory factors and malondialdehyde in patients with nonalcoholic steatohepatitis (NASH)",
+      "authors": [
+        {
+          "name": "S. Amiri-Moghadam",
+          "id": "1435154450"
+        },
+        {
+          "name": "M. Nematy",
+          "id": "5143686"
+        },
+        {
+          "name": "S. Eghtesadi",
+          "id": "3377951"
+        },
+        {
+          "name": "M. Khalili",
+          "id": "144774800"
+        },
+        {
+          "name": "M. Mojarrad",
+          "id": "78142455"
+        },
+        {
+          "name": "S. Jazayeri",
+          "id": "145553265"
+        },
+        {
+          "name": "H. Vosooghinia",
+          "id": "1666055889"
+        },
+        {
+          "name": "A. Khosravi",
+          "id": "145434107"
+        },
+        {
+          "name": "M. Salehi",
+          "id": "144392229"
+        }
+      ],
+      "year": 2015,
+      "venue": "unknown",
+      "score": 0.4188724474203907,
+      "abstract": "",
+      "corpusId": 218416991,
+      "url": "https://api.semanticscholar.org/CorpusId:218416991"
+    },
+    {
+      "title": "l-Carnitine Mitigates Trazadone Induced Rat Cardiotoxicity Mediated via Modulation of Autophagy and Oxidative Stress",
+      "authors": [
+        {
+          "name": "N. Khedr",
+          "id": "3564859"
+        },
+        {
+          "name": "Ola A El-Feky",
+          "id": "1422452202"
+        },
+        {
+          "name": "R. Werida",
+          "id": "78043998"
+        }
+      ],
+      "year": 2022,
+      "venue": "Cardiovascular Toxicology",
+      "score": 0.40504913602865794,
+      "abstract": "Trazodone (TRZ) is an antidepressant drug which widely used to treat insomnia, but it has a cardiotoxic effect which considered one of the TRZ limitations. The aim of this study was to investigate the protective role of l-carnitine in rats against TRZ-induced cardiotoxicity, as well as to look into the molecular mechanisms underlying its cardioprotective effects via autophagy-mediated cell death and oxidative stress. Male albino rats were randomized into four experimental groups (n = 8): normal control, TRZ group (TRZ, 20 mg/kg/day), l-carnitine group (LC, 200 mg/kg/day), and Co-treated group (l-carnitine and TRZ). All treatments were administered via oral gavage for 4 weeks. Cardiac enzymes (AST & CK-MB) and serum cardiac troponin T(cTnI) were assessed. Oxidative stress biomarkers in heart tissue (malondialdehyde; MDA, total thiol, and catalase activity) were measured. Autophagy related-genes (ATG-5 and Beclin-1), P62, and TNF-α were quantified. AST and CK-MB and cTnI significantly (p < 0.001) were increased with enhanced autophagy as well as severe histopathological changes which were manifested as scattered chronic inflammatory cells with focal fragmentation of myocardial fibers and loss of nuclei in TRZ-treated group. However, daily administration of l-carnitine (200 mg/kg) for 28 days completely reversed TRZ-induced the increased cardiac enzymes, autophagy, and myocardial inflammatory processes to the normal values. TRZ administration might have the potential to cause cardiotoxic effects that can be treated with l-carnitine administration.",
+      "corpusId": 250282331,
+      "url": "https://api.semanticscholar.org/CorpusId:250282331"
+    },
+    {
+      "title": "l‐Carnitine and heart disease",
+      "authors": [
+        {
+          "name": "Zhongyao Wang",
+          "id": "16524742"
+        },
+        {
+          "name": "Ying-Yi Liu",
+          "id": "2282089727"
+        },
+        {
+          "name": "Guo-hui Liu",
+          "id": "34773369"
+        },
+        {
+          "name": "Hai‐Bin Lu",
+          "id": "5300199"
+        },
+        {
+          "name": "Cuiying Mao",
+          "id": "21861772"
+        }
+      ],
+      "year": 2018,
+      "venue": "Life Science",
+      "score": 0.40428727248400703,
+      "abstract": "",
+      "corpusId": 46740635,
+      "url": "https://doi.org/10.1016/j.lfs.2017.12.015"
+    },
+    {
+      "title": "The Effect of L- Carnitine on Cardiac Output in Patient with Chronic Kidney Disease on Regular Hemodialysis",
+      "authors": [
+        {
+          "name": "S. A. Mahdi",
+          "id": "2106099983"
+        },
+        {
+          "name": "A. Abdul-Aziz",
+          "id": "1431146716"
+        }
+      ],
+      "year": 2021,
+      "venue": "Indian Journal of Forensic Medicine & Toxicology",
+      "score": 0.40049897162507986,
+      "abstract": "Background: L- carnitine deficiency is common in patients with chronic kidney disease, especially thosewho are in regular dialysis. L- carnitine deficiency associated with high incidence of oxidative stress,dyslipidemia and impaired cardiac performance. The present study tends to evaluate the effect of L-carnitinesupplement on cardiac output in patients with chronic kidney disease on regular hemodialysis.Methods: the current study included 105 patients with chronic kidney disease, they were randomly selectedfrom patients attending artificial kidney unit at Al-Hussein Teaching Hospital in Thiqar city for regularhemodialysis. They were divided into two groups, group I include 35 patients with chronic kidney diseasewho did not receive L- carnitine and considered as control group, group II include 70 patients with chronickidney disease who receive L- carnitine. patients of group II further divided into two subgroups depending ondose of L- carnitine. Group II(A), include 35 patients with chronic kidney disease who received L- carnitine10/kg body weight one time daily and group II(B): include 35 patients with chronic kidney disease whoreceived L- carnitine 10/kg body weight two time daily. Ejection fraction was determined by transthoracicechocardiography. Frequency, percentage, association, paired t-test were used for analysis of variables. Allvariables represented by mean ± SD. P value of < 0.05 considered statistically significant.Results: There was statistically significant increase in the mean of EF% (P<0.001) among patients withchronic kidney disease who receive L- carnitine in a dose of 10mg/Kg body weight twice daily (group IIB)after six months of treatment in comparison with the baseline values. There was a slight but significant (p<0.05) increase in the mean of EF% in patients with chronic kidney disease who received single daily doseof L- carnitine 10mg/Kg body weight (group IIA) after six months in comparison with the initial values atthe beginning of the study. \nConclusion: carnitine supplement in a suitable dose seem to improve cardiac performance among patientswith chronic kidney diseases on regular hemodialysis.",
+      "corpusId": 238775763,
+      "url": "https://api.semanticscholar.org/CorpusId:238775763"
+    },
+    {
+      "title": "Effect of L-Carnitine on Troponin, IL6 and HS– CRP levels after Coronary Artery Bypass Graft Surgery",
+      "authors": [
+        {
+          "name": "A. Khalili",
+          "id": "40505804"
+        },
+        {
+          "name": "K. Fani",
+          "id": "39931436"
+        },
+        {
+          "name": "M. Naziri",
+          "id": "6189689"
+        },
+        {
+          "name": "M. Foroughi",
+          "id": "3436292"
+        },
+        {
+          "name": "F. Dastan",
+          "id": "6012507"
+        },
+        {
+          "name": "A. Dabbagh",
+          "id": "143810667"
+        },
+        {
+          "name": "H. Moghadam",
+          "id": "34460138"
+        },
+        {
+          "name": "A. Jahangirifard",
+          "id": "6685738"
+        }
+      ],
+      "year": 2019,
+      "venue": "unknown",
+      "score": 0.3954520260029628,
+      "abstract": "",
+      "corpusId": 208392634,
+      "url": "https://doi.org/10.22037/JCMA.V4I2.26169"
+    },
+    {
+      "title": "Acute Improvement of Cardiac Function with Intravenous L‐Propionylcarnitine in Humans",
+      "authors": [
+        {
+          "name": "G. Bartels",
+          "id": "145537089"
+        },
+        {
+          "name": "W. J. Remme",
+          "id": "2246805607"
+        },
+        {
+          "name": "M. Pillay",
+          "id": "50763407"
+        },
+        {
+          "name": "D. Schönfeld",
+          "id": "34766068"
+        },
+        {
+          "name": "P. Cox",
+          "id": "2142480881"
+        },
+        {
+          "name": "H. Kruijssen",
+          "id": "15847201"
+        },
+        {
+          "name": "N. M. J. Knufman",
+          "id": "2259405663"
+        }
+      ],
+      "year": 1992,
+      "venue": "Journal of Cardiovascular Pharmacology",
+      "score": 0.3943281586839526,
+      "abstract": "",
+      "corpusId": 26070784,
+      "url": "https://doi.org/10.1097/00005344-199207000-00020"
+    },
+    {
+      "title": "Effects of Postconditioning, Preconditioning and Perfusion of L-carnitine During Whole Period of Ischemia/ Reperfusion on Cardiac Hemodynamic Functions and Myocardial Infarction Size in Isolated Rat Heart",
+      "authors": [
+        {
+          "name": "M. Najafi",
+          "id": "4987516"
+        }
+      ],
+      "year": 2013,
+      "venue": "Iranian Journal of Basic Medical Sciences",
+      "score": 0.39353210010780804,
+      "abstract": "Objective(s): In the present work, the effects of L-carnitine (LC) on postischemic cardiac hemodynamic functions and infarction size were studied in isolated rat heart. Materials and Methods: The hearts were subjected to 30 min regional ischemia followed by 120 min reperfusion. Then they were perfused by a drug-free or LC-enriched Krebs–Henseleit (K/H) solution during ischemia/ reperfusion (I/R) (Protocol 1), 10 min before ischemia induction (Protocol 2; preconditioning group) or the first 10 min of reperfusion (Protocol 3; postconditioning group). Results: The perfusion of LC in protocol 1 significantly reduced left ventricular end diastolic pressure (LVEDP) (P<0.05), and increased left ventricular developed pressure (LVDP) (P<0.05), rate pressure product (RPP) (P<0.01) and coronary flow rate (CFR) (P<0.05). The short-term preischemic administration of LC in protocol 2 improved RPP, CFR and decreased the extent of LVEDP elevation. However, protective effects of LC in this protocol were low compared to the whole period perfusion. In protocol 3, LC preserved postischemic cardiac functions not as much as the other protocols. In addition, infarct size significantly decreased by LC in all protocols as opposed to the control group (P<0.001). Conclusion: The results of the present work showed that LC produced protective effects against I/R injury. These protective actions were reversed by concomitant use of etomoxir (a CPT-I inhibitor), suggesting that the efficacy of LC could be due to its mitochondrial action, probably related to the raise in glucose oxidation of the reperfused hearts.",
+      "corpusId": 266694977,
+      "url": "https://api.semanticscholar.org/CorpusId:266694977"
+    },
+    {
+      "title": "Effects of L-carnitine supplementation on nutritional, immunological, and cardiac parameters in hemodialysis patients: a pilot study",
+      "authors": [
+        {
+          "name": "Haruki Sada",
+          "id": "37965581"
+        },
+        {
+          "name": "Akihiko Kato",
+          "id": "49180347"
+        },
+        {
+          "name": "R. Sumimoto",
+          "id": "9870440"
+        },
+        {
+          "name": "Hiromitsu Ohmori",
+          "id": "50624121"
+        },
+        {
+          "name": "H. Ohdan",
+          "id": "4592489"
+        }
+      ],
+      "year": 2015,
+      "venue": "Renal Replacement Therapy",
+      "score": 0.3882107580453907,
+      "abstract": "BackgroundL-carnitine is an essential compound that facilitates the transport of long-chain fatty acid across the inner mitochondrial membrane for β-oxidation. However, the effect of L-carnitine supplementation remains to be fully explored in patients with chronic kidney disease. We aimed in this study to determine the multidirectional effects of L-carnitine supplementation on clinical parameters in more detail.MethodsWe orally administered L-carnitine to maintain serum-free carnitine levels within the normal range (30 to 70 μmol/L) for 6 months in 21 hemodialysis (HD) patients (age, 74 ± 11 years; time on HD, 60 ± 84 months).ResultsL-carnitine supplementation significantly increased serum transferrin from 155 ± 41 to 175 ± 48 mg/dL (p < 0.01) and retinol-binding protein from 8.9 ± 2.5 to 10.0 ± 3.4 mg/dL (p < 0.05). The triceps skinfold thickness was also significantly increased (p < 0.05), while the skeletal muscle mass in limbs and handgrip strength was not. L-carnitine enhanced natural killer (NK) cell activity at the E (effector cell)/T (target cell) ratio of 20:1 from 17.3 ± 14.1 to 20.8 ± 17.7 % (p < 0.01). In addition, L-carnitine improved left ventricular functional shortening (p < 0.01) with a significant decrease of brain natriuretic peptide (BNP) from 621.4 ± 666.8 to 412.0 ± 426.0 pg/mL (p < 0.05).ConclusionsThese findings suggest that oral L-carnitine treatment improves immunological and cardiac markers in HD patients. In contrast, L-carnitine did not change the skeletal mass-related parameters during the 6-month follow-up.",
+      "corpusId": 3917799,
+      "url": "https://api.semanticscholar.org/CorpusId:3917799"
+    },
+    {
+      "title": "The effect of L-carnitine supplementation on lipid profile in adults: an umbrella meta-analysis on interventional meta-analyses",
+      "authors": [
+        {
+          "name": "Vali Musazadeh",
+          "id": "2005262316"
+        },
+        {
+          "name": "Hanie Alinejad",
+          "id": "2237884540"
+        },
+        {
+          "name": "Niloofar Kouhi Esfahani",
+          "id": "2237876896"
+        },
+        {
+          "name": "Zeynab Kavyani",
+          "id": "2179800846"
+        },
+        {
+          "name": "M. Keramati",
+          "id": "145076702"
+        },
+        {
+          "name": "Neda Roshanravan",
+          "id": "5243152"
+        },
+        {
+          "name": "Erfan Mosharkesh",
+          "id": "2117580006"
+        },
+        {
+          "name": "P. Dehghan",
+          "id": "4913984"
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Nutrition",
+      "score": 0.37748319404656006,
+      "abstract": "Introduction Previous meta-analyses investigating the therapeutic effects of L-carnitine on lipid profiles have demonstrated inconsistent results. The present umbrella meta-analysis aimed to investigate the impact of efficacy of L-carnitine on lipid profiles in adults. Methods Databases including PubMed, Scopus, and Embase, Web of Science, and Google Scholar were searched up to June 2023. Meta-analysis was performed using a random-effects model. Results Our results from thirteen meta-analyses indicated that L-carnitine supplementation significantly total cholesterol (TC) (ES = −1.05 mg/dL, 95% CI: −1.71, −0.39; p = 0.002), triglycerides (TG) (ES = −2.51 mg/dL; 95% CI: −3.62, −1.39, p < 0.001), and low-density lipoprotein-cholesterol (LDL-C) (ES = −4.81 mg/dL; 95% CI: −6.04, −3.59; p < 0.001). It also increased high-density lipoprotein-cholesterol (HDL-C) (ES: 0.66 mg/dL, 95% CI: 0.20, 1.12, p = 0.005) levels. Conclusion The present umbrella meta-analysis suggests supplementation with L-carnitine in a dosage of more than 2 g/day can improve lipid profile. Thus, L-carnitine supplementation can be recommended as an adjuvant anti-hyperlipidemic agent.",
+      "corpusId": 261542375,
+      "url": "https://api.semanticscholar.org/CorpusId:261542375"
+    },
+    {
+      "title": "Effects of L-Carnitine Intake on Exercise-Induced Muscle Damage and Oxidative Stress: A Narrative Scoping Review",
+      "authors": [
+        {
+          "name": "Alberto Caballero-García",
+          "id": "1403316072"
+        },
+        {
+          "name": "David C. Noriega-González",
+          "id": "2129417952"
+        },
+        {
+          "name": "E. Roche",
+          "id": "47788380"
+        },
+        {
+          "name": "F. Drobnic",
+          "id": "2577094"
+        },
+        {
+          "name": "Alfredo Córdova",
+          "id": "2061056916"
+        }
+      ],
+      "year": 2023,
+      "venue": "Nutrients",
+      "score": 0.37137556691236656,
+      "abstract": "Exercise-induced muscle damage results in decreased physical performance that is accompanied by an inflammatory response in muscle tissue. The inflammation process occurs with the infiltration of phagocytes (neutrophils and macrophages) that play a key role in the repair and regeneration of muscle tissue. In this context, high intensity or long-lasting exercise results in the breakdown of cell structures. The removal of cellular debris is performed by infiltrated phagocytes, but with the release of free radicals as collateral products. L-carnitine is a key metabolite in cellular energy metabolism, but at the same time, it exerts antioxidant actions in the neuromuscular system. L-carnitine eliminates reactive oxygen and nitrogen species that, in excess, alter DNA, lipids and proteins, disturbing cell function. Supplementation using L-carnitine results in an increase in serum L-carnitine levels that correlates positively with the decrease in cell alterations induced by oxidative stress situations, such as hypoxia. The present narrative scoping review focuses on the critical evaluation of the efficacy of L-carnitine supplementation on exercise-induced muscle damage, particularly in postexercise inflammatory and oxidative damage. Although both concepts appear associated, only in two studies were evaluated together. In addition, other studies explored the effect of L-carnitine in perception of fatigue and delayed onset of muscle soreness. In view of the studies analyzed and considering the role of L-carnitine in muscle bioenergetics and its antioxidant potential, this supplement could help in postexercise recovery. However, further studies are needed to conclusively clarify the mechanisms underlying these protective effects.",
+      "corpusId": 259030267,
+      "url": "https://api.semanticscholar.org/CorpusId:259030267"
+    },
+    {
+      "title": "Effects of L-carnitine supplementation on lipid profiles in patients with coronary artery disease",
+      "authors": [
+        {
+          "name": "Bor-Jen Lee",
+          "id": "4838383"
+        },
+        {
+          "name": "Jun-Shuo Lin",
+          "id": "6355904"
+        },
+        {
+          "name": "Yi-Chin Lin",
+          "id": "1983222"
+        },
+        {
+          "name": "Ping-Ting Lin",
+          "id": "6392606"
+        }
+      ],
+      "year": 2016,
+      "venue": "Lipids in Health and Disease",
+      "score": 0.3672515765361982,
+      "abstract": "L-carnitine (LC) plays an important physiologic role in lipid metabolism. To date, no clinical study has been performed to examine the effect of LC supplementation on the lipid status of coronary artery disease (CAD) patients. The aim of this study was to investigate the lipid lowering effects of LC supplementation (1000 mg/d) in CAD patients. CAD patients were identified by cardiac catheterization as having at least 50 % stenosis of one major coronary artery. Forty-seven subjects were recruited and randomly assigned to the placebo (n = 24) and to the LC (n = 23) groups. The intervention was administered for 12 weeks. The levels of LC, lipid profiles, and antioxidant enzyme activity (superoxide dismutase, SOD) were measured. The subjects in the LC group had significantly higher SOD activity (20.7 ± 4.2 versus 13.1 ± 2.9 U/mg of protein, P < 0.01), high density lipoprotein-cholesterol (1.34 ± 0.42 vs. 1.16 ± 0.24 mmol/L, HDL-C, P = 0.03), and apolipoprotein-A1 (Apo-A1, 1.24 ± 0.18 vs. 1.12 ± 0.13 g/L, P = 0.02) than those in the placebo group at week 12. Triglyceride (TG) level was slightly significantly reduced (1.40 ± 0.74 vs. 1.35 ± 0.62 mmol/L, P = 0.06) and the level of LC was negatively correlated with TG and apolipoprotein-B (Apo-B), and positively correlated with HDL-C and Apo-A1 after LC supplementation. Additionally, SOD activity was significantly negatively correlated with lipid profiles (total cholesterol, TG, and Apo-B) after supplementation. LC supplementation at a dose of 1000 mg/d showed significantly increased in HDL-C and Apo-A1 levels and a slight decrease in TG levels but no other changes in other lipids in CAD patients, and this lipid-lowering effect may be related to its antioxidant ability. Further studies should be conducted to define an optimal dose of LC for lipid-lowering in patients with CAD. Clinical Trials.gov Identifier: NCT01819701",
+      "corpusId": 4817346,
+      "url": "https://doi.org/10.1186/s12944-016-0277-5"
+    },
+    {
+      "title": "The Effects of Dietary Protein Supplementation on Exercise-Induced Inflammation and Oxidative Stress: A Systematic Review of Human Trials",
+      "authors": [
+        {
+          "name": "Abrar Alhebshi",
+          "id": "2150689856"
+        },
+        {
+          "name": "Nehal Alsharif",
+          "id": "2114018600"
+        },
+        {
+          "name": "Josh Thorley",
+          "id": "2150690099"
+        },
+        {
+          "name": "Lewis J James",
+          "id": "2075421130"
+        },
+        {
+          "name": "Tom Clifford",
+          "id": "144805723"
+        }
+      ],
+      "year": 2021,
+      "venue": "Antioxidants",
+      "score": 0.3636925034882357,
+      "abstract": "This systematic review examined the effects of whole protein and commonly consumed amino acid supplements on markers of exercise-induced inflammation and oxidative stress and was reported according to the PRISMA guidelines. MEDLINE and SPORTDiscus were searched from inception until June 2021. The inclusion criteria were randomized clinical trials in humans, healthy adult participants (≥18 years), dietary protein/amino acid interventions, and measurements of oxidative stress/the redox status or inflammation post-exercise. The Cochrane Collaboration risk of bias 2 tool was used to critically appraise the studies. Data extracted from thirty-four studies were included in the systematic review (totaling 757 participants with only 10 females; age range 19–40 years). The included trials examined five types of whole protein and seven different amino acids supplements; most studies (n = 20) failed to identify statistically significant effects on markers of inflammation or oxidative stress after exercise; some (n = 14) showed either anti-inflammatory or antioxidant effects on some, but not all, markers. In conclusion, we found weak and inconsistent evidence that dietary protein/amino acid interventions can modify exercise-induced changes in oxidative stress and inflammation. However, given that these were not the primary outcomes in many of the included studies and many had design limitations, further research is warranted (Open Science Framework registration number: 10.17605/OSF.IO/AGUR2).",
+      "corpusId": 245430866,
+      "url": "https://api.semanticscholar.org/CorpusId:245430866"
+    },
+    {
+      "title": "L-carnitine Improved the Cardiac Function via the Effect on Myocardial Fatty Acid Metabolism in a Hemodialysis Patient",
+      "authors": [
+        {
+          "name": "M. Kaneko",
+          "id": "152507586"
+        },
+        {
+          "name": "H. Fukasawa",
+          "id": "48527375"
+        },
+        {
+          "name": "Kento Ishibuchi",
+          "id": "33844839"
+        },
+        {
+          "name": "H. Niwa",
+          "id": "48978201"
+        },
+        {
+          "name": "H. Yasuda",
+          "id": "34703298"
+        },
+        {
+          "name": "Ryuichi Furuya",
+          "id": "1399781719"
+        }
+      ],
+      "year": 2018,
+      "venue": "Internal medicine",
+      "score": 0.3634015207831406,
+      "abstract": "Patients on hemodialysis often have carnitine deficiency. We herein report a woman who experienced the dramatic improvement of cardiac dysfunction after intravenous L-carnitine administration. We also investigated the myocardial fatty acid metabolism using 123I-labeled β-methyl-p-iodophenyl-pentadecanoic acid (BMIPP) single-photon emission computed tomography (SPECT) before and after L-carnitine therapy, and the impaired metabolism was ameliorated. Taken together, these findings indicate that L-carnitine therapy improved cardiac dysfunction via the amelioration of the abnormal myocardial fatty acid metabolism, at least in part.",
+      "corpusId": 52092052,
+      "url": "https://api.semanticscholar.org/CorpusId:52092052"
+    },
+    {
+      "title": "L-carnitine supplementation decreases the left ventricular mass in patients undergoing hemodialysis.",
+      "authors": [
+        {
+          "name": "T. Sakurabayashi",
+          "id": "11685513"
+        },
+        {
+          "name": "S. Miyazaki",
+          "id": "1689164"
+        },
+        {
+          "name": "Y. Yuasa",
+          "id": "49363084"
+        },
+        {
+          "name": "S. Sakai",
+          "id": "2069158123"
+        },
+        {
+          "name": "Masashi Suzuki",
+          "id": "2111452491"
+        },
+        {
+          "name": "Sachio Takahashi",
+          "id": "2110673391"
+        },
+        {
+          "name": "Y. Hirasawa",
+          "id": "49425817"
+        }
+      ],
+      "year": 2008,
+      "venue": "Circulation Journal",
+      "score": 0.36118628877467834,
+      "abstract": "",
+      "corpusId": 24148955,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/18503218"
+    },
+    {
+      "title": "Effects of Postconditioning, Preconditioning and Perfusion of L-carnitine During Whole Period of Ischemia/ Reperfusion on Cardiac Hemodynamic Functions and Myocardial Infarction Size in Isolated Rat Heart",
+      "authors": [],
+      "year": 2013,
+      "venue": "Iranian Journal of Basic Medical Sciences",
+      "score": 0.36094297665410296,
+      "abstract": "Objective(s): In the present work, the effects of L-carnitine (LC) on postischemic cardiac hemodynamic functions and infarction size were studied in isolated rat heart. Materials and Methods: The hearts were subjected to 30 min regional ischemia followed by 120 min reperfusion. Then they were perfused by a drug-free or LC-enriched Krebs–Henseleit (K/H) solution during ischemia/ reperfusion (I/R) (Protocol 1), 10 min before ischemia induction (Protocol 2; preconditioning group) or the first 10 min of reperfusion (Protocol 3; postconditioning group). Results: The perfusion of LC in protocol 1 significantly reduced left ventricular end diastolic pressure (LVEDP) (P<0.05), and increased left ventricular developed pressure (LVDP) (P<0.05), rate pressure product (RPP) (P<0.01) and coronary flow rate (CFR) (P<0.05). The short-term preischemic administration of LC in protocol 2 improved RPP, CFR and decreased the extent of LVEDP elevation. However, protective effects of LC in this protocol were low compared to the whole period perfusion. In protocol 3, LC preserved postischemic cardiac functions not as much as the other protocols. In addition, infarct size significantly decreased by LC in all protocols as opposed to the control group (P<0.001). Conclusion: The results of the present work showed that LC produced protective effects against I/R injury. These protective actions were reversed by concomitant use of etomoxir (a CPT-I inhibitor), suggesting that the efficacy of LC could be due to its mitochondrial action, probably related to the raise in glucose oxidation of the reperfused hearts.",
+      "corpusId": 11744993,
+      "url": "https://api.semanticscholar.org/CorpusId:11744993"
+    },
+    {
+      "title": "L-carnitine on myocardial function after coronary artery bypass grafting.",
+      "authors": [
+        {
+          "name": "C. Furat",
+          "id": "12157291"
+        },
+        {
+          "name": "G. Ílhan",
+          "id": "152681328"
+        },
+        {
+          "name": "E. Bayar",
+          "id": "11631593"
+        },
+        {
+          "name": "Ş. Bozok",
+          "id": "3894372"
+        },
+        {
+          "name": "M. Güvener",
+          "id": "5407190"
+        },
+        {
+          "name": "M. Yılmaz",
+          "id": "152415172"
+        }
+      ],
+      "year": 2018,
+      "venue": "Turk gogus kalp damar cerrahisi dergisi",
+      "score": 0.36063915506127103,
+      "abstract": "",
+      "corpusId": 51960953,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/32082707"
+    },
+    {
+      "title": "l-Carnitine Supplementation in Older Women. A Pilot Study on Aging Skeletal Muscle Mass and Function",
+      "authors": [
+        {
+          "name": "A. Sawicka",
+          "id": "35378755"
+        },
+        {
+          "name": "D. Hartmane",
+          "id": "15734398"
+        },
+        {
+          "name": "P. Lipińska",
+          "id": "4296485"
+        },
+        {
+          "name": "E. Wójtowicz",
+          "id": "49316650"
+        },
+        {
+          "name": "W. Lysiak-Szydlowska",
+          "id": "1403072923"
+        },
+        {
+          "name": "R. Olek",
+          "id": "4130318"
+        }
+      ],
+      "year": 2018,
+      "venue": "Nutrients",
+      "score": 0.3600677310251756,
+      "abstract": "Skeletal muscle wasting, associated with aging, may be regulated by the inflammatory cytokines as well as by insulin-like growth factor 1 (IGF-1). l-carnitine possesses anti-inflammatory properties and increases plasma IGF-1 concentration, leading to the regulation of the genes responsible for protein catabolism and anabolism. The purpose of the present study was to evaluate the effect of a 24-week l-carnitine supplementation on serum inflammatory markers, IGF-1, body composition and skeletal muscle strength in healthy human subjects over 65 years of age. Women between 65 and 70 years of age were supplemented for 24 weeks with either 1500 mg l-carnitine-l-tartrate or an isonitrogenous placebo per day in a double-blind fashion. Before and after the supplementation protocol, body mass and composition, as well as knee extensor and flexor muscle strength were determined. In the blood samples, free carnitine, interleukin-6, tumor necrosis factor-α, C-reactive protein and IGF-1 were determined. A marked increase in free plasma carnitine concentration was observed due to l-carnitine supplementation. No substantial changes in other parameters were noted. In the current study, supplementation for 24 weeks affected neither the skeletal muscle strength nor circulating markers in healthy women over 65 years of age. Positive and negative aspects of l-carnitine supplementation need to be clarified.",
+      "corpusId": 3462617,
+      "url": "https://api.semanticscholar.org/CorpusId:3462617"
+    },
+    {
+      "title": "Plasma Trimethylamine-N-oxide following Cessation of L-carnitine Supplementation in Healthy Aged Women",
+      "authors": [
+        {
+          "name": "Joanna J. Samulak",
+          "id": "52103662"
+        },
+        {
+          "name": "A. Sawicka",
+          "id": "35378755"
+        },
+        {
+          "name": "E. Samborowska",
+          "id": "11236627"
+        },
+        {
+          "name": "R. Olek",
+          "id": "4130318"
+        }
+      ],
+      "year": 2019,
+      "venue": "Nutrients",
+      "score": 0.35798465473830315,
+      "abstract": "L-carnitine supplementation elevates plasma trimethylamine-N-oxide (TMAO), which may participate in atherosclerosis development by affecting cholesterol metabolism. The aim of the current study was to determine the effect of increased plasma TMAO on biochemical markers in the blood following cessation of L-carnitine supplementation. The follow-up measurements were performed on subjects who completed 24 weeks of L-carnitine or placebo supplementation protocol. Blood samples were taken after finishing the supplementation and then 4 and 12 months following the supplementation withdrawal. Four months after cessation of L-carnitine supplementation, plasma TMAO concentration reached a normal level which was stable for the following eight months. During this period, no modifications in serum lipid profile and circulating leukocyte count were noted. TMAO implications in health and disease is widely discussed. The results of this study demonstrate no adverse effects of elevated plasma TMAO, induced by L-carnitine, on the measured parameters at 4 and 12 months after withdrawal of supplementation.",
+      "corpusId": 189862129,
+      "url": "https://api.semanticscholar.org/CorpusId:189862129"
+    },
+    {
+      "title": "The effects of L-carnitine supplementation on cardiovascular risk factors in participants with impaired glucose tolerance and diabetes: a systematic review and dose–response meta-analysis",
+      "authors": [
+        {
+          "name": "Rezvan Gheysari",
+          "id": "82637981"
+        },
+        {
+          "name": "Mahlagha Nikbaf-Shandiz",
+          "id": "2186947804"
+        },
+        {
+          "name": "A. Hosseini",
+          "id": "153101713"
+        },
+        {
+          "name": "Niloufar Rasaei",
+          "id": "51091501"
+        },
+        {
+          "name": "Shabnam Hosseini",
+          "id": "2274009088"
+        },
+        {
+          "name": "Hossein Bahari",
+          "id": "2187155062"
+        },
+        {
+          "name": "Omid Asbaghi",
+          "id": "81189144"
+        },
+        {
+          "name": "S. Rastgoo",
+          "id": "1933449822"
+        },
+        {
+          "name": "K. Goudarzi",
+          "id": "2005826098"
+        },
+        {
+          "name": "Farideh Shiraseb",
+          "id": "5775443"
+        },
+        {
+          "name": "Reza Behmadi",
+          "id": "2276292893"
+        }
+      ],
+      "year": 2024,
+      "venue": "Diabetology & Metabolic Syndrome",
+      "score": 0.34099986120482617,
+      "abstract": "L-carnitine plays a role related to cardiometabolic factors, but its effectiveness and safety in CVD are still unknown. We aim to assess the effect of L-carnitine supplementation on CVD risk factors. A systematic literature search was conducted in PubMed, Web of Science, and Scopus until October 2022. The main outcomes were lipid profiles, anthropometric parameters, insulin resistance, serum glucose levels, leptin, blood pressure, and inflammatory markers. The pooled weighted mean difference (WMD) was calculated using a random-effects model. We included the 21 RCTs (n = 2900) with 21 effect sizes in this study. L-carnitine supplementation had a significant effect on TG (WMD = − 13.50 mg/dl, p = 0.039), LDL (WMD = − 12.66 mg/dl, p < 0.001), FBG (WMD = − 6.24 mg/dl, p = 0.001), HbA1c (WMD = -0.37%, p = 0.013) HOMA-IR (WMD = -0.72, p = 0.038 (, CRP (WMD = − 0.07 mg/dl, P = 0.037), TNF-α (WMD = − 1.39 pg/ml, p = 0.033), weight (WMD = − 1.58 kg, p = 0.001 (, BMI (WMD = − 0.28 kg/m2, p = 0.017(, BFP (WMD = − 1.83, p < 0.001) and leptin (WMD = − 2.21 ng/ml, p = 0.003 (in intervention, compared to the placebo group, in the pooled analysis. This meta-analysis demonstrated that administration of L-carnitine in diabetic and glucose intolerance patients can significantly reduce TG, LDL-C, FBG, HbA1c, HOMA-IR, CRP, TNF-α, weight, BMI, BFP, and leptin levels. PROSPERO registration code: CRD42022366992.",
+      "corpusId": 271597409,
+      "url": "https://api.semanticscholar.org/CorpusId:271597409"
+    },
+    {
+      "title": "Effect of L-carnitine on the lipid profile, glycemic control, oxidative stress, and anthropometric indices of individuals with type 2 diabetes: A systematic review",
+      "authors": [
+        {
+          "name": "Navideh Khodadadi",
+          "id": "2042359320"
+        },
+        {
+          "name": "B. Abbasi",
+          "id": "5451101"
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Diabetology",
+      "score": 0.3348991227874982,
+      "abstract": "Diabetes mellitus is one of the most prevalent metabolic diseases in existence. With more than 536.6 million cases having been diagnosed globally, its prevalence is reported to be 10.5% in 2021. In individuals with diabetes, plasma L-carnitine is low and metabolized abnormally. In this review, we aimed to assess whether L-carnitine supplementation is correlated with a reduction of the risk of cardiovascular diseases in individuals with diabetes by improving the compositions of lipid profiles, indicators of oxidative stress, glycemic control, and anthropometric indices. A literature search in major databases such as Web of Science, PubMed, Google Scholar, Scopus, and Scientific Information Database was conducted until November 2021. This was done in conjunction with a search in Elsevier and SpringerLink databases, resulting in the inclusion of relevant articles in this review. To construct the search strategy, “Carnitine” OR “glycine propionyl carnitine” OR “Acetylcarnitine” in combination with “Diabetes Mellitus” OR “Diabetes Complications” OR “Lipid Profile” and all of its components were used to search for and within the articles and databases. After screening, 10 articles published between 1998 and 2017 were identified. They evaluated the effect of L-carnitine on lipid profile metabolism, glycemic control, anthropometric indices, and oxidative stress markers in individuals with diabetes. In this systematic review, we concluded that L-carnitine had no notable effect on lipid profile as well as glycemic control and anthropometric indices. Therefore, using L-carnitine probably has no notable effect on metabolic status in individuals with diabetes. Meanwhile, some articles suggested that L-carnitine may have positive effects on some oxidative stress indicators.",
+      "corpusId": 252686641,
+      "url": "https://api.semanticscholar.org/CorpusId:252686641"
+    },
+    {
+      "title": "L-Carnitine Supplementation Increases Trimethylamine-N-Oxide but not Markers of Atherosclerosis in Healthy Aged Women",
+      "authors": [
+        {
+          "name": "Joanna J. Samulak",
+          "id": "52103662"
+        },
+        {
+          "name": "A. Sawicka",
+          "id": "35378755"
+        },
+        {
+          "name": "D. Hartmane",
+          "id": "15734398"
+        },
+        {
+          "name": "S. Grinberga",
+          "id": "143735086"
+        },
+        {
+          "name": "O. Pugovics",
+          "id": "4293801"
+        },
+        {
+          "name": "W. Lysiak-Szydlowska",
+          "id": "1403072923"
+        },
+        {
+          "name": "R. Olek",
+          "id": "4130318"
+        }
+      ],
+      "year": 2018,
+      "venue": "Annals of Nutrition and Metabolism",
+      "score": 0.3314506326178294,
+      "abstract": "",
+      "corpusId": 54109184,
+      "url": "https://doi.org/10.1159/000495037"
+    },
+    {
+      "title": "The role of inflammatory markers in the cardioprotective effect of L-carnitine in L-NAME-induced hypertension.",
+      "authors": [
+        {
+          "name": "J. L. Miguel-Carrasco",
+          "id": "1398378057"
+        },
+        {
+          "name": "A. Mate",
+          "id": "40541362"
+        },
+        {
+          "name": "María T. Monserrat",
+          "id": "36870503"
+        },
+        {
+          "name": "J. L. Arias",
+          "id": "78586300"
+        },
+        {
+          "name": "Ó. Aramburu",
+          "id": "5117162"
+        },
+        {
+          "name": "C. Vázquez",
+          "id": "38803425"
+        }
+      ],
+      "year": 2008,
+      "venue": "American Journal of Hypertension",
+      "score": 0.3244674079034507,
+      "abstract": "",
+      "corpusId": 2306976,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/18787523"
+    },
+    {
+      "title": "Effect of L-carnitine Supplementation on Circulating C-reactive Protein Levels: A Systematic Review and Meta-Analysis",
+      "authors": [
+        {
+          "name": "A. Sahebkar",
+          "id": "2131047983"
+        }
+      ],
+      "year": 2015,
+      "venue": "Journal of Medical Biochemistry",
+      "score": 0.32334786761778,
+      "abstract": "Summary Background: C-reactive protein (CRP) has been proposed as a risk marker and risk factor of cardiovascular disease. There have been a number of clinical reports suggesting that supplementation with L-carnitine can modulate systemic inflammation and lower circulating CRP concentrations, but the results have not been consistent. Methods: A comprehensive literature search in Medline, Scopus and Cochrane Central Register of Controlled Trials was performed in December 2012 to identify clinical trials investigating the impact of oral L-carnitine supplementation on serum/plasma CRP concentration. A random effect method was used to calculate the combined effect size. Results: Six studies comprising 541 cases and 546 controls met the inclusion criteria. Meta-analysis of included trials revealed a significant reduction of circulating CRP concentrations in subjects under L-carnitine intervention compared to the control treatment. The calculated combined weighted mean reduction in CRP concentrations was -0.39 mg/L [95% CI (-0.62 - -0.16)]. This effect size estimate was found to be robust and remained unaffected by the removal of each single study. Conclusions: The overall findings of the present metaanalysis support the clinically relevant benefit of L-carnitine supplementation in lowering the circulating levels of CRP. Kratak sadržaj Uvod: C-reaktivni protein (CRP) predložen je kao marker rizika i faktor rizika za kardiovaskularnu bolest. Postoji izves- tan broj kliničkih izveštaja koji su pokazali da suplementacija L-karnitinom može modulisati sistemsku inflamaciju i sniziti koncentracije CRP-a u cirkulaciji, ali njihovi rezultati nisu usa- glašeni. Metode: U decembru 2012, sprovedena je sveobuhvatna pretraga literature u bazama Medline, Scopus i Cochrane Central Register of Controlled Trials radi identifikacije kli- ničkih ispitivanja koja su istraživala uticaj oralne suplemen- tacije L-karnitinom na koncentraciju CRP-a u serumu/ plazmi. Za izračunavanje kombinovanih dimenzija efekta korišćena je metoda nasumičnog efekta. Rezultati: Sest studija koje su obuhvatile 541 pacijenta i 546 kontrolnih subjekata ispunilo je kriterijume za uključenje u ovu studiju. Metaanalizom obuhvaćenih ispitivanja je otkri- veno značajno sniženje koncentracija CRP-a u cirkulaciji kod subjekata podvrgnutih intervenciji L-karnitinom u poređenju s kontrolom. Izračunato kombinovano srednje sniženje koncentracija CRP-a iznosilo je -0,39 mg/L[95% CI(-0,62 -0,16)]. Ovakva procena dimenzija efekta označena je kao robusna i ostala je nepromenjena i posle odstranjivanja svake pojedinačne studije. Zaključak: Ukupni rezultat predstavljene metaanalize svedoči u prilog klinički relevantne koristi od suplementacije L-karnitinom za snižavanje nivoa CRP u cirkulaciji.",
+      "corpusId": 17992945,
+      "url": "https://api.semanticscholar.org/CorpusId:17992945"
+    },
+    {
+      "title": "Carnitine and its role in cardiovascular disease.",
+      "authors": [
+        {
+          "name": "A. Retter",
+          "id": "65912694"
+        }
+      ],
+      "year": 1999,
+      "venue": "Heart Disease",
+      "score": 0.3194022000822498,
+      "abstract": "",
+      "corpusId": 27836276,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11720611"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "condition": "without_laws",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41720985_2026",
+  "query": "(((\"spinal cord\"[tiab] OR \"spinal\"[tiab] OR \"intramedullary\"[tiab] OR \"intradural\"[tiab]) AND (\"cavernous malformation\"[tiab] OR \"cavernous malformations\"[tiab] OR \"cavernoma\"[tiab] OR \"cavernomas\"[tiab] OR \"cavernous angioma\"[tiab] OR \"cavernous angiomas\"[tiab] OR \"cavernous hemangioma\"[tiab] OR \"cavernous hemangiomas\"[tiab] OR \"cavernous haemangioma\"[tiab] OR \"cavernous haemangiomas\"[tiab] OR \"cavernous vascular malformation\"[tiab] OR \"hemangioma cavernosum\"[tiab] OR \"Hemangioma, Cavernous, Central Nervous System\"[MeSH Terms]) AND (\"surgery\"[tiab] OR \"surgical\"[tiab] OR \"resection\"[tiab] OR \"microsurgery\"[tiab] OR \"microsurgical\"[tiab] OR \"excision\"[tiab] OR \"laminectomy\"[tiab] OR \"laminotomy\"[tiab] OR \"myelotomy\"[tiab] OR \"operative\"[tiab] OR \"neurosurgery\"[tiab] OR \"neurosurgical\"[tiab] OR \"surgical resection\"[tiab] OR \"surgical removal\"[tiab] OR \"surgical treatment\"[tiab])) AND (\"1995/01/01\"[PDAT] : \"2025/12/31\"[PDAT]) AND (English[lang]) AND (humans[MeSH Terms]))",
+  "status": "ok"
+}

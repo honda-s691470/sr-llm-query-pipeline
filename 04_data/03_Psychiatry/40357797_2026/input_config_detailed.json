@@ -1,0 +1,59 @@
+{
+  "target_name": "40357797_2026",
+  "pmid": "40357797",
+  "objectives": "First, we aim to provide an updated overview of the effect of ECT on autobiographical memory in patients with depression, including an assessment of the methodological quality of the included studies. Second, we want to explore whether the effect of ECT on autobiographical memory is temporary or permanent. Finally, we want to analyse whether ECT parameters can explain some of the deterioration of autobiographical memory, and if clinical information is associated with such an effect.",
+  "inclusion_criteria": "Papers written in English; prospective or retrospective longitudinal studies with measurement of autobiographical memory, as well as antidepressant effect, before and after ECT; the intervention must be a series of ECT sessions (>=6 sessions); the intervention group must consist of at least five participants; the intervention group must consist of human adults (>=18 years old) diagnosed with unipolar or bipolar moderate to severe depression according to DSM-III or later, ICD-8 or later, or similar primary depression research diagnostic criteria; a control group had to be included, consisting of either healthy controls or patients with unipolar or bipolar depression receiving treatment other than ECT; the outcome measure for autobiographical memory function had to be CAMI, CAMI-SF, or Kopelman AMI; the outcome measure for antidepressant effect had to be HAM-D or MADRS; ECT pulse had to be brief pulse or ultra-brief pulse, independent of electrode placement.",
+  "exclusion_criteria": "Animal studies; grey literature; comments or letters to editors; conference abstracts; maintenance ECT.",
+  "pmid_query": "PubMed, EMBASE, PsycINFO and Web of Science were searched with no restrictions to language, type of study or publication year using: (ECT OR \"electroconvulsive therapy\" OR \"electroshock therapy\" OR \"convulsive therapy\") AND (autobiographical OR retrograde) AND (memory OR amnesia). The first search was conducted on 8 September 2022 and the last on 26 January 2024; on the latter date, \"OR remote\" was added to the second parenthesis, but it yielded no additional relevant studies.",
+  "ref_selection_strategy": "ref_numbers",
+  "selected_ref_numbers": [
+    34,
+    35,
+    36,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+  ],
+  "selected_ref_nums_compact": "34-36,43-48",
+  "selection_evidence": "Fig. 1 reports 11 studies included after screening, but the Results state that refs 41 and 42 were not included in either the meta-analysis or the narrative review because the authors did not provide the necessary raw data. Table 3 ('Overview of included studies') then lists nine effective studies, with numbered references: Sackeim et al. (34), Kessler et al. (35), Bjoerke-Bertheussen et al. (36), Semkovska and O'Grady (43), Bergfeld et al. (44), Blomberg et al. (45), Dybedal et al. (46), Schulze-Rauschenbach et al. (47), and Weeks et al. (48). Supplementary file S0007125025000029sup001_1 ('List of all included papers') names the same nine studies.",
+  "notes": "Use the 9-study effective set, not the 11-study PRISMA screening count. Ref 34 remained included, but only a subset of its participants was analysed after excluding schizoaffective disorder cases and sine-wave ECT recipients.\n\nManual update note: Manual review confirmed the remaining unresolved study is not indexed in PubMed; gold_pmids now reflect only OK rows.",
+  "predicted_pmids": [
+    "16936712",
+    "25470096",
+    "29267990",
+    "28754306",
+    "32408397",
+    "25220219",
+    "15863746",
+    "23922809"
+  ],
+  "gold_pmids": [
+    "16936712",
+    "25470096",
+    "29267990",
+    "28754306",
+    "32408397",
+    "25220219",
+    "15863746",
+    "23922809"
+  ],
+  "generated_at": "2026-03-07T18:58:09.919916+00:00",
+  "pipeline": "auto_include_pipeline_v1",
+  "pmid_query_exact_source": "(ECT OR \"electroconvulsive therapy\" OR \"electroshock therapy\" OR \"convulsive therapy\") AND (autobiographical OR retrograde OR remote) AND (memory OR amnesia)",
+  "pmid_query_repair_notes": "format_error: original pmid_query merged narrative prefix ('PubMed, EMBASE, PsycINFO and Web of Science were searched ... using:') and suffix (dates, note about 'OR remote') with the executable boolean. Stripped prose and preserved only the boolean query. 'OR remote' included in second set as it was added in the final update (January 26, 2024).",
+  "non_pubmed_excluded_studies": [
+    {
+      "row_number": 5,
+      "authors": "Semkovska M, O ’Grady T",
+      "title": "Unravelling autobiographical retrograde amnesia following bitemporal electroconvulsive therapy: effect of treatment versus effect of time",
+      "doi": "10.4236/psych.2017.84039",
+      "pmid": null,
+      "check": "NG",
+      "check_note": "Confirmed non-PubMed-indexed by manual review; excluded from gold_pmids",
+      "full_original": "43 Semkovska M, O ’Grady T. Unravelling autobiographical retrograde amnesia following bitemporal electroconvulsive therapy: effect of treatment versus effect of time. Psychology 2017; 08: 611 –26."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+# Large data — host on Zenodo instead
+06_exclusion_screening_pipeline/pubmed_cache/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary execution directories
+03_hypothesis_accumlation_test/runs/
+
+# Environment files
+.env
+
+# Archived/superseded figures and scripts
+archive/
+
+# Large cache archive is hosted on Zenodo
+pubmed_cache.zip

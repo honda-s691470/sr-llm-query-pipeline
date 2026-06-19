@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-13T15:25:24Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41796365_2026",
+  "domain_folder": "03_Psychiatry",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Hallucinogens\"[Mesh] OR \"Hallucinogen-Related Disorders\"[Mesh] OR hallucinogen*[tiab] OR psychedelic*[tiab] OR \"lysergic acid diethylamide\"[tiab] OR LSD[tiab] OR psilocybin[tiab] OR mescaline[tiab] OR peyote[tiab] OR \"phencyclidine\"[tiab] OR PCP[tiab] OR \"magic mushroom*\"[tiab]) AND (\"Adolescent\"[Mesh] OR \"Child\"[Mesh] OR adolescen*[tiab] OR teen*[tiab] OR youth[tiab] OR child*[tiab] OR pediatric*[tiab]) AND (\"Psychotic Disorders\"[Mesh] OR \"Schizophrenia\"[Mesh] OR psychosis[tiab] OR psychotic[tiab] OR \"psychotic symptom*\"[tiab] OR \"psychotic-like\"[tiab] OR \"psychotic-like experience*\"[tiab] OR schizophrenia[tiab] OR schizoaffective[tiab] OR \"early-onset psychosis\"[tiab] OR \"early onset psychosis\"[tiab] OR \"first-episode psychosis\"[tiab] OR \"first episode psychosis\"[tiab] OR EOP[tiab] OR \"unusual experience*\"[tiab]))",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260313_162438\\codex\\03_Psychiatry\\41796365_2026\\without_laws"
+}

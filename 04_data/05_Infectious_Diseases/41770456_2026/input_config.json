@@ -1,0 +1,27 @@
+{
+  "target_name": "41770456_2026",
+  "objectives": "We performed this quantitative synthesis to consolidate the latest evidence comparing the surgical efficacy and safety profile of the MAKO platform against manual UKA procedures. The aims were to evaluate pain outcomes (VAS, PCS), functional outcomes (AKSS, AKSS Total, AKSSF, OKS, FJS), radiological implant positioning/alignment accuracy (MFTA, FCCA, TCCA, TCPT, LFCFEA, FCCA outliers, TCCA outliers), and perioperative metrics (operative time, ROM, complication rate, PJI rate, revision rate) for MAKO-UKA versus conventional UKA.",
+  "inclusion_criteria": "Studies qualified for inclusion if they used a comparative design (such as RCTs or observational cohorts) in patients with end-stage knee osteoarthritis treated with either robotic or manual UKA, assessed at least one clinical or radiographic parameter (VAS, PCS, AKSS, AKSS Total, AKSSF, OKS, FJS, MFTA, FCCA, TCCA, TCPT, LFCFEA, FCCA outlier, TCCA outlier, operation time, ROM, complication rate, PJI rate, revision rate), and provided enough raw data to derive effect sizes (RR, OR, or MD).",
+  "gold_pmids": [
+    "34058870",
+    "27098321",
+    "29162608",
+    "36345186",
+    "37992738",
+    "31010509",
+    "29627257",
+    "26441329",
+    "24851792",
+    "30062950",
+    "30601042",
+    "19593669",
+    "36374325",
+    "29524796",
+    "31794587",
+    "32114810",
+    "40291971",
+    "32952328",
+    "30747237",
+    "35011960"
+  ]
+}

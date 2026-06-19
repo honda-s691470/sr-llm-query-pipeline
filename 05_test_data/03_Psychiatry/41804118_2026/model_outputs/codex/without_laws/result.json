@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-13T15:32:18Z",
+  "provider": "codex",
+  "condition": "without_laws",
+  "paper_folder": "41804118_2026",
+  "domain_folder": "03_Psychiatry",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Depressive Disorder\"[Mesh] OR depress*[tiab] OR \"mental distress\"[tiab]) AND (symptom*[tiab] OR phenomenolog*[tiab] OR presentation*[tiab] OR manifestation*[tiab]) AND (\"South Asian*\"[tiab] OR Afghan*[tiab] OR Bangladeshi*[tiab] OR Bhutanese*[tiab] OR Indian*[tiab] OR Maldiv*[tiab] OR Nepalese[tiab] OR Nepali[tiab] OR Pakistani*[tiab] OR \"Sri Lankan*\"[tiab]) AND ((diaspora[tiab] OR immigrant*[tiab] OR migrant*[tiab] OR \"ethnic minorit*\"[tiab] OR \"British Asian*\"[tiab] OR \"Asian American*\"[tiab]) OR (\"United Kingdom\"[tiab] OR UK[tiab] OR Britain[tiab] OR England[tiab] OR Scotland[tiab] OR Wales[tiab] OR \"United States\"[tiab] OR USA[tiab] OR Canada[tiab] OR Australia[tiab] OR \"New Zealand\"[tiab]))) NOT (postpartum[tiab] OR postnatal[tiab] OR perinatal[tiab]) AND english[lang]",
+  "run_dir": "02_hypothesis_accumlation_test\\runs\\20260313_162438\\codex\\03_Psychiatry\\41804118_2026\\without_laws"
+}

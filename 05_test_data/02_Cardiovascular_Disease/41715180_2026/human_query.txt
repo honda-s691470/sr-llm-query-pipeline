@@ -1,0 +1,1 @@
+(Heart Failure OR Cardiac Failure OR Congestive Heart Failure OR HF) AND (PREDICTION OR PREDICTIVE OR PROGNOSTIC OR PROGNOSIS) AND (MODELS OR Machine Learning OR Regression Analysis OR regression OR Proportional Hazards Models) AND (Disease Progression OR evolution)
