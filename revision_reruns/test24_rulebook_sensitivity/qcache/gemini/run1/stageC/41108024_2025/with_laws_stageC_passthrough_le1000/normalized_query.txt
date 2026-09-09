@@ -1,0 +1,1 @@
+() NOT "Case Reports"[pt] NOT "Letter"[pt] NOT "Editorial"[pt] NOT (animals[mh] NOT humans[mh])

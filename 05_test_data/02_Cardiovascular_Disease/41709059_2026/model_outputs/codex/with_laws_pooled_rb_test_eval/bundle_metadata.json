@@ -1,0 +1,6 @@
+{
+  "generated_at": "2026-08-25T07:07:18Z",
+  "condition": "with_laws",
+  "prompt_file": "test_prompt_with.md",
+  "query_laws_file": "pooled_consensus_rulebook_refined.txt"
+}

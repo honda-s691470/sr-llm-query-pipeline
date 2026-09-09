@@ -1,0 +1,6 @@
+﻿domain,n,mean_stage1_rec,mean_stageC_rec,median_stageC_rec,mean_stage1_hits,mean_stageB_hits,mean_stageC_hits,mean_stage1_nnr,mean_stageC_nnr,median_stageC_nnr,mean_workload_red
+01_Rheumatoid_Arthritis,7,0.8717,0.7030,0.7333,6305.0,3200.1,1218.1,295.14,90.16,90.91,46.1%
+02_Cardiovascular_Disease,4,0.7685,0.6526,0.6833,11429.8,5196.8,1700.8,515.57,98.14,95.88,64.1%
+03_Psychiatry,3,0.6918,0.6128,0.6250,2144.7,2127.3,845.0,318.22,115.67,58.40,43.7%
+04_Oncology,7,0.9489,0.8135,0.8333,4823.0,3012.1,1212.4,138.83,63.28,52.00,42.3%
+05_Infectious_Diseases,3,0.8451,0.6903,0.8400,3019.0,1981.3,942.0,171.57,100.20,75.88,50.2%

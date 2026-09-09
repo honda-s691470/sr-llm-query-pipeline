@@ -1,0 +1,10 @@
+{
+  "domain": "05_Infectious_Diseases",
+  "paper_id": "41792577_2026",
+  "query": "(\"Mpox\"[Mesh] OR \"Monkeypox\"[Mesh] OR \"Smallpox\"[Mesh] OR mpox[tiab] OR monkeypox[tiab] OR smallpox[tiab] OR vaccinia[tiab]) AND (\"Vaccines\"[Mesh] OR vaccin*[tiab] OR immuniz*[tiab] OR immunis*[tiab] OR inoculat*[tiab]) AND (\"Pregnant Women\"[Mesh] OR \"Child\"[Mesh] OR \"Adolescent\"[Mesh] OR \"Infant\"[Mesh] OR pregnant[tiab] OR pregnancy[tiab] OR child*[tiab] OR pediatric*[tiab] OR paediatric*[tiab] OR adolescent*[tiab] OR infant*[tiab] OR neonat*[tiab])",
+  "total_hits": 2500,
+  "num_gold": 26,
+  "found_gold": 16,
+  "recall": 0.6154,
+  "nnr": 96.15
+}

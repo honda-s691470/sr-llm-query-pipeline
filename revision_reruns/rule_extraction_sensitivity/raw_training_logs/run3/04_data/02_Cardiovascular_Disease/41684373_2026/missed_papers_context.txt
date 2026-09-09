@@ -1,0 +1,388 @@
+--- Missed Papers Context (sampled) ---
+Sample size: 3 / Missed count: 3
+Seed: 1787401314
+Sampled PMIDs: 28559499, 35250810, 33444330
+
+MEDLINE FIELDS OF INTEREST:
+- TI: Title
+- AB: Abstract
+- MH: MeSH Headings
+
+
+PMID- 28559499
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190102
+LR  - 20190102
+IS  - 1524-4539 (Electronic)
+IS  - 0009-7322 (Linking)
+VI  - 135
+IP  - 22
+DP  - 2017 May 30
+TI  - The Revised Framingham Stroke Risk Profile in a Primary Prevention Population: 
+      The Rotterdam Study.
+PG  - 2207-2209
+LID - 10.1161/CIRCULATIONAHA.117.028429 [doi]
+FAU - Bos, Daniel
+AU  - Bos D
+AD  - From Departments of Epidemiology (D.B., M.A.I., M.J.G.L., M.K.I.), Radiology and 
+      Nuclear Medicine (D.B., M.A.I.), Neurology (M.A.I., M.K.I.), and Cardiology 
+      (M.J.G.L.), Erasmus MC-University Medical Center Rotterdam, The Netherlands; and 
+      Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA 
+      (D.B., M.J.G.L.). d.bos@erasmusmc.nl.
+FAU - Ikram, M Arfan
+AU  - Ikram MA
+AD  - From Departments of Epidemiology (D.B., M.A.I., M.J.G.L., M.K.I.), Radiology and 
+      Nuclear Medicine (D.B., M.A.I.), Neurology (M.A.I., M.K.I.), and Cardiology 
+      (M.J.G.L.), Erasmus MC-University Medical Center Rotterdam, The Netherlands; and 
+      Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA 
+      (D.B., M.J.G.L.).
+FAU - Leening, Maarten J G
+AU  - Leening MJG
+AD  - From Departments of Epidemiology (D.B., M.A.I., M.J.G.L., M.K.I.), Radiology and 
+      Nuclear Medicine (D.B., M.A.I.), Neurology (M.A.I., M.K.I.), and Cardiology 
+      (M.J.G.L.), Erasmus MC-University Medical Center Rotterdam, The Netherlands; and 
+      Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA 
+      (D.B., M.J.G.L.).
+FAU - Ikram, M Kamran
+AU  - Ikram MK
+AD  - From Departments of Epidemiology (D.B., M.A.I., M.J.G.L., M.K.I.), Radiology and 
+      Nuclear Medicine (D.B., M.A.I.), Neurology (M.A.I., M.K.I.), and Cardiology 
+      (M.J.G.L.), Erasmus MC-University Medical Center Rotterdam, The Netherlands; and 
+      Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA 
+      (D.B., M.J.G.L.).
+LA  - eng
+PT  - Clinical Trial
+PT  - Letter
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Netherlands/epidemiology
+MH  - Risk Factors
+MH  - Stroke/*epidemiology/physiopathology/*prevention & control
+OTO - NOTNLM
+OT  - epidemiology
+OT  - risk model
+OT  - risk prediction
+OT  - stroke
+OT  - stroke prevention
+EDAT- 2017/06/01 06:00
+MHDA- 2019/01/03 06:00
+CRDT- 2017/06/01 06:00
+PHST- 2017/06/01 06:00 [entrez]
+PHST- 2017/06/01 06:00 [pubmed]
+PHST- 2019/01/03 06:00 [medline]
+AID - CIRCULATIONAHA.117.028429 [pii]
+AID - 10.1161/CIRCULATIONAHA.117.028429 [doi]
+PST - ppublish
+SO  - Circulation. 2017 May 30;135(22):2207-2209. doi: 
+      10.1161/CIRCULATIONAHA.117.028429.
+
+PMID- 35250810
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220308
+IS  - 1664-2295 (Print)
+IS  - 1664-2295 (Electronic)
+IS  - 1664-2295 (Linking)
+VI  - 13
+DP  - 2022
+TI  - Age Specific Models to Capture the Change in Risk Factor Contribution by Age to 
+      Short Term Primary Ischemic Stroke Risk.
+PG  - 803749
+LID - 10.3389/fneur.2022.803749 [doi]
+LID - 803749
+AB  - Age is one of the most important risk factors when it comes to stroke risk 
+      prediction. However, including age as a risk factor in a stroke prediction model 
+      can give rise to a number of difficulties. Age often dominates the risk score, 
+      and also not all risk factors contribute proportionally to stroke risk by age. In 
+      this study we investigate a number of common stroke risk factors, using 
+      Framingham heart study data from the NHLBI Biologic Specimen and Data Repository 
+      Information Coordinating Center to determine if they appear to contribute 
+      proportionally by age to a stroke risk score. As we find evidence that there is 
+      some non-proportionality by age, we then create a set of logistic regression risk 
+      models that each predict the 5 year stroke risk for a different age group. The 
+      age group models are shown to be better calibrated when compared to a model for 
+      all ages that includes age as a risk factor. This suggests that to get better 
+      predictions for stroke risk it may be necessary to consider alternative methods 
+      for including age in stroke risk prediction models that account for the 
+      non-proportionality of the other risk factors as age changes.
+CI  - Copyright (c) 2022 Hunter and Kelleher.
+FAU - Hunter, Elizabeth
+AU  - Hunter E
+AD  - PRECISE4Q Predictive Modelling in Stroke, Technological University Dublin, 
+      Dublin, Ireland.
+FAU - Kelleher, John D
+AU  - Kelleher JD
+AD  - PRECISE4Q Predictive Modelling in Stroke, Technological University Dublin, 
+      Dublin, Ireland.
+AD  - ADAPT Research Centre, Technological University Dublin, Dublin, Ireland.
+LA  - eng
+PT  - Journal Article
+DEP - 20220217
+PL  - Switzerland
+TA  - Front Neurol
+JT  - Frontiers in neurology
+JID - 101546899
+PMC - PMC8891452
+OTO - NOTNLM
+OT  - epidemiology
+OT  - machine learning
+OT  - predictive modeling
+OT  - risk
+OT  - stroke
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2022/03/08 06:00
+MHDA- 2022/03/08 06:01
+PMCR- 2022/02/17
+CRDT- 2022/03/07 06:02
+PHST- 2021/10/28 00:00 [received]
+PHST- 2022/01/27 00:00 [accepted]
+PHST- 2022/03/07 06:02 [entrez]
+PHST- 2022/03/08 06:00 [pubmed]
+PHST- 2022/03/08 06:01 [medline]
+PHST- 2022/02/17 00:00 [pmc-release]
+AID - 10.3389/fneur.2022.803749 [doi]
+PST - epublish
+SO  - Front Neurol. 2022 Feb 17;13:803749. doi: 10.3389/fneur.2022.803749. eCollection 
+      2022.
+
+PMID- 33444330
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210506
+LR  - 20250530
+IS  - 1549-1676 (Electronic)
+IS  - 1549-1277 (Print)
+IS  - 1549-1277 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2021 Jan
+TI  - Polygenic risk scores in cardiovascular risk prediction: A cohort study and 
+      modelling analyses.
+PG  - e1003498
+LID - 10.1371/journal.pmed.1003498 [doi]
+LID - e1003498
+AB  - BACKGROUND: Polygenic risk scores (PRSs) can stratify populations into 
+      cardiovascular disease (CVD) risk groups. We aimed to quantify the potential 
+      advantage of adding information on PRSs to conventional risk factors in the 
+      primary prevention of CVD. METHODS AND FINDINGS: Using data from UK Biobank on 
+      306,654 individuals without a history of CVD and not on lipid-lowering treatments 
+      (mean age [SD]: 56.0 [8.0] years; females: 57%; median follow-up: 8.1 years), we 
+      calculated measures of risk discrimination and reclassification upon addition of 
+      PRSs to risk factors in a conventional risk prediction model (i.e., age, sex, 
+      systolic blood pressure, smoking status, history of diabetes, and total and 
+      high-density lipoprotein cholesterol). We then modelled the implications of 
+      initiating guideline-recommended statin therapy in a primary care setting using 
+      incidence rates from 2.1 million individuals from the Clinical Practice Research 
+      Datalink. The C-index, a measure of risk discrimination, was 0.710 (95% CI 
+      0.703-0.717) for a CVD prediction model containing conventional risk predictors 
+      alone. Addition of information on PRSs increased the C-index by 0.012 (95% CI 
+      0.009-0.015), and resulted in continuous net reclassification improvements of 
+      about 10% and 12% in cases and non-cases, respectively. If a PRS were assessed in 
+      the entire UK primary care population aged 40-75 years, assuming that statin 
+      therapy would be initiated in accordance with the UK National Institute for 
+      Health and Care Excellence guidelines (i.e., for persons with a predicted risk of 
+      >/=10% and for those with certain other risk factors, such as diabetes, 
+      irrespective of their 10-year predicted risk), then it could help prevent 1 
+      additional CVD event for approximately every 5,750 individuals screened. By 
+      contrast, targeted assessment only among people at intermediate (i.e., 5% to 
+      <10%) 10-year CVD risk could help prevent 1 additional CVD event for 
+      approximately every 340 individuals screened. Such a targeted strategy could help 
+      prevent 7% more CVD events than conventional risk prediction alone. Potential 
+      gains afforded by assessment of PRSs on top of conventional risk factors would be 
+      about 1.5-fold greater than those provided by assessment of C-reactive protein, a 
+      plasma biomarker included in some risk prediction guidelines. Potential 
+      limitations of this study include its restriction to European ancestry 
+      participants and a lack of health economic evaluation. CONCLUSIONS: Our results 
+      suggest that addition of PRSs to conventional risk factors can modestly enhance 
+      prediction of first-onset CVD and could translate into population health benefits 
+      if used at scale.
+FAU - Sun, Luanluan
+AU  - Sun L
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Pennells, Lisa
+AU  - Pennells L
+AUID- ORCID: 0000-0002-8594-3061
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Kaptoge, Stephen
+AU  - Kaptoge S
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Nelson, Christopher P
+AU  - Nelson CP
+AUID- ORCID: 0000-0001-8025-2897
+AD  - Department of Cardiovascular Sciences and NIHR Leicester Biomedical Research 
+      Centre, University of Leicester, Leicester, United Kingdom.
+FAU - Ritchie, Scott C
+AU  - Ritchie SC
+AUID- ORCID: 0000-0002-8454-9548
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+AD  - Cambridge Baker Systems Genomics Initiative, Baker Heart and Diabetes Institute, 
+      Melbourne, Victoria, Australia.
+FAU - Abraham, Gad
+AU  - Abraham G
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+AD  - Cambridge Baker Systems Genomics Initiative, Baker Heart and Diabetes Institute, 
+      Melbourne, Victoria, Australia.
+FAU - Arnold, Matthew
+AU  - Arnold M
+AUID- ORCID: 0000-0001-6339-1115
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Bell, Steven
+AU  - Bell S
+AUID- ORCID: 0000-0001-6774-3149
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Bolton, Thomas
+AU  - Bolton T
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Burgess, Stephen
+AU  - Burgess S
+AUID- ORCID: 0000-0001-5365-8760
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Dudbridge, Frank
+AU  - Dudbridge F
+AUID- ORCID: 0000-0002-8817-8908
+AD  - Department of Cardiovascular Sciences and NIHR Leicester Biomedical Research 
+      Centre, University of Leicester, Leicester, United Kingdom.
+AD  - Department of Health Sciences, University of Leicester, Leicester, United 
+      Kingdom.
+FAU - Guo, Qi
+AU  - Guo Q
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Sofianopoulou, Eleni
+AU  - Sofianopoulou E
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Stevens, David
+AU  - Stevens D
+AUID- ORCID: 0000-0001-8874-7122
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Thompson, John R
+AU  - Thompson JR
+AUID- ORCID: 0000-0003-4819-1611
+AD  - Department of Cardiovascular Sciences and NIHR Leicester Biomedical Research 
+      Centre, University of Leicester, Leicester, United Kingdom.
+FAU - Butterworth, Adam S
+AU  - Butterworth AS
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Wood, Angela
+AU  - Wood A
+AUID- ORCID: 0000-0002-7937-304X
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+FAU - Danesh, John
+AU  - Danesh J
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+AD  - Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, United Kingdom.
+FAU - Samani, Nilesh J
+AU  - Samani NJ
+AUID- ORCID: 0000-0002-3286-8133
+AD  - Department of Cardiovascular Sciences and NIHR Leicester Biomedical Research 
+      Centre, University of Leicester, Leicester, United Kingdom.
+AD  - Department of Health Sciences, University of Leicester, Leicester, United 
+      Kingdom.
+FAU - Inouye, Michael
+AU  - Inouye M
+AUID- ORCID: 0000-0001-9413-6520
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+AD  - Cambridge Baker Systems Genomics Initiative, Baker Heart and Diabetes Institute, 
+      Melbourne, Victoria, Australia.
+AD  - The Alan Turing Institute, London, United Kingdom.
+FAU - Di Angelantonio, Emanuele
+AU  - Di Angelantonio E
+AUID- ORCID: 0000-0001-8776-6719
+AD  - Department of Public Health and Primary Care, University of Cambridge, Cambridge, 
+      United Kingdom.
+LA  - eng
+GR  - MR/L003120/1/MRC_/Medical Research Council/United Kingdom
+GR  - MC_QA137853/MRC_/Medical Research Council/United Kingdom
+GR  - RG/18/13/33946/BHF_/British Heart Foundation/United Kingdom
+GR  - MC_UU_00002/7/MRC_/Medical Research Council/United Kingdom
+GR  - SP/16/4/32697/BHF_/British Heart Foundation/United Kingdom
+GR  - CH/12/2/29428/BHF_/British Heart Foundation/United Kingdom
+GR  - 204623/Z/16/Z/WT_/Wellcome Trust/United Kingdom
+GR  - MC_PC_17228/MRC_/Medical Research Council/United Kingdom
+GR  - CSO_/Chief Scientist Office/United Kingdom
+GR  - BTRU-2014-10024/DH_/Department of Health/United Kingdom
+GR  - SP/18/3/33801/BHF_/British Heart Foundation/United Kingdom
+GR  - RG/13/13/30194/BHF_/British Heart Foundation/United Kingdom
+GR  - MR/K014811/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210114
+PL  - United States
+TA  - PLoS Med
+JT  - PLoS medicine
+JID - 101231360
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Biomarkers/blood
+MH  - Cardiovascular Diseases/*epidemiology/*prevention & control
+MH  - Cohort Studies
+MH  - Female
+MH  - *Heart Disease Risk Factors
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Risk Assessment
+MH  - United Kingdom/epidemiology
+PMC - PMC7808664
+COIS- I have read the journal's policy and the authors of this manuscript have the 
+      following competing interests: SK is funded by grants to institution from: 
+      British Heart Foundation, UK Medical Research Council, UK National Institute of 
+      Health Research, Cambridge Biomedical Research Centre. SB is a paid statistical 
+      reviewer for PLOS Medicine. ASB received grants outside of this work from 
+      AstraZeneca, Biogen, Bioverativ, Merck, Novartis and Sanofi, as well as personal 
+      fees from Novartis. JD serves on the International Cardiovascular and Metabolic 
+      Advisory Board for Novartis (since 2010), the Steering Committee of UK Biobank 
+      (since 2011), the MRC International Advisory Group (ING) member, London (since 
+      2013), the MRC High Throughput Science 'Omics Panel Member, London (since 2013), 
+      the Scientific Advisory Committee for Sanofi (since 2013), the International 
+      Cardiovascular and Metabolism Research and Development Portfolio Committee for 
+      Novartis and the Astra Zeneca Genomics Advisory Board (2018).
+EDAT- 2021/01/15 06:00
+MHDA- 2021/05/07 06:00
+PMCR- 2021/01/14
+CRDT- 2021/01/14 17:11
+PHST- 2020/01/31 00:00 [received]
+PHST- 2020/12/14 00:00 [accepted]
+PHST- 2021/01/14 17:11 [entrez]
+PHST- 2021/01/15 06:00 [pubmed]
+PHST- 2021/05/07 06:00 [medline]
+PHST- 2021/01/14 00:00 [pmc-release]
+AID - PMEDICINE-D-20-00284 [pii]
+AID - 10.1371/journal.pmed.1003498 [doi]
+PST - epublish
+SO  - PLoS Med. 2021 Jan 14;18(1):e1003498. doi: 10.1371/journal.pmed.1003498. 
+      eCollection 2021 Jan.

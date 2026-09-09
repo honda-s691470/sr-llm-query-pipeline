@@ -1,0 +1,7 @@
+﻿domain,n,mean_recall,median_recall,min_recall,mean_hits,median_hits
+01_Rheumatoid_Arthritis,7,0.8537,0.8571,0.6111,26366.7143,2888
+02_Cardiovascular_Disease,4,0.8623,0.886,0.7,32862.75,26473.5
+03_Psychiatry,3,0.5799,0.5556,0.5,4607,3707
+04_Oncology,7,0.9017,0.9259,0.6875,6893,2885
+05_Infectious_Diseases,3,0.8585,0.96,0.6154,44750.3333,5650
+Overall,24,0.8355,0.8619,0.5,21347.5417,3297.5

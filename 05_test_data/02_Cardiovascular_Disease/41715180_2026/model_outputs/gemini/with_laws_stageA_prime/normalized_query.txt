@@ -1,0 +1,1 @@
+("Heart Failure"[Mesh] OR "heart failure"[ti]) AND ("Prognosis"[Mesh] OR "Models, Statistical"[Mesh] OR "prognos* predict*"[tiab:~3] OR "machine learning"[tiab] OR "risk score"[tiab] OR nomogram[tiab] OR algorithm*[tiab]) NOT "Comment"[pt] NOT "Letter"[pt] NOT "Case Reports"[pt] NOT (animals[mh] NOT humans[mh]) NOT "Editorial"[pt]

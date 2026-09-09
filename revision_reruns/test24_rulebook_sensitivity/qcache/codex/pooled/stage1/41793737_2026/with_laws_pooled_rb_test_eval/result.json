@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:18:05Z",
+  "domain_folder": "05_Infectious_Diseases",
+  "paper_folder": "41793737_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Guided Tissue Regeneration\"[Mesh] OR \"guided bone regeneration\"[tiab] OR GBR[tiab] OR \"guided bone augmentation\"[tiab] OR \"alveolar ridge augmentation\"[tiab] OR \"ridge augmentation\"[tiab] OR \"bone regeneration\"[tiab]) AND (\"Membranes, Artificial\"[Mesh] OR membrane*[tiab] OR barrier*[tiab] OR \"resorbable membrane*\"[tiab] OR \"non-resorbable membrane*\"[tiab] OR nonresorbable[tiab] OR \"non resorbable\"[tiab] OR absorbable[tiab] OR resorbable[tiab])",
+  "query_length": 449,
+  "gold_count": 25,
+  "total_hits": 7149,
+  "hit_gold_count": 25,
+  "recall": 1.0,
+  "nnr": 285.96,
+  "f1": 0.006969612489545582,
+  "error_note": ""
+}

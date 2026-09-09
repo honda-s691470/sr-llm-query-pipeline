@@ -1,0 +1,17 @@
+﻿{
+  "saved_at_utc": "2026-08-25T02:55:36.194574+00:00",
+  "dataset_split": "test",
+  "domain": "01_Rheumatoid_Arthritis",
+  "paper_id": "41108024_2025",
+  "provider": "claude",
+  "stage": "A",
+  "condition": "with_laws_stageA",
+  "source_condition": "with_laws_stageA_prime",
+  "query_type": "pubmed_boolean",
+  "query_length": 850,
+  "query_sha256": "ae5c447b2247d162f1f763fa0966be238ae74bd830ef76927813edda3f255e33",
+  "query_path": "public_release/05_test_data/01_Rheumatoid_Arthritis\\41108024_2025\\model_outputs\\claude\\with_laws_stageA\\normalized_query.txt",
+  "extra": {
+    "stage_a_total_hits": 3910
+  }
+}

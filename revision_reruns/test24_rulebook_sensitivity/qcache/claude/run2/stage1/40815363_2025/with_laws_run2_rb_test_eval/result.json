@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-24T09:24:35Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "40815363_2025",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_run2_rb_test_eval",
+  "status": "completed",
+  "query": "((\"Probiotics\"[Mesh] OR probiotic*[tiab] OR synbiotic*[tiab] OR \"Lactobacillus\"[Mesh] OR \"Bifidobacterium\"[Mesh] OR lactobacillus*[tiab] OR bifidobacterium*[tiab] OR \"Saccharomyces boulardii\"[tiab]) AND (\"Oxidative Stress\"[Mesh] OR \"oxidative stress\"[tiab] OR \"nitrosative stress\"[tiab] OR \"Inflammation\"[Mesh] OR inflammation[tiab] OR inflammatory[tiab] OR \"Reactive Oxygen Species\"[Mesh] OR \"oxidative damage\"[tiab]) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti]))",
+  "query_length": 565,
+  "gold_count": 15,
+  "total_hits": 3411,
+  "hit_gold_count": 13,
+  "recall": 0.8666666666666667,
+  "nnr": 262.38461538461536,
+  "f1": 0.007589025102159953,
+  "error_note": ""
+}

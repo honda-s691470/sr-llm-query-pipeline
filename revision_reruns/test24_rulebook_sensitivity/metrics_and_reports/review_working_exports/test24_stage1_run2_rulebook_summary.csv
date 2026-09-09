@@ -1,0 +1,2 @@
+﻿provider,rulebook,n,mean_recall,median_recall,min_recall,max_recall,mean_hits,median_hits,mean_nnr,median_nnr,mean_f1
+gemini,run2_rulebook_refined,24,0.47273333333333334,0.51925,0.0,1.0,3394.5833333333335,1933.5,548.826,156.26,0.01528072472340129

@@ -1,0 +1,2 @@
+﻿domain,paper_id,raw_total_hits,raw_recall,prime_total_hits,prime_recall,stage_a_total_hits,stage_a_recall,stage_b_total_hits,stage_b_recall,stage_c_k_used,stage_c_recall,stage_c_alpha,prime_gate_ok_for_stage_a
+01_Rheumatoid_Arthritis,41470797_2025,5031,0.5238,4983,0.5238,4983,0.5238,4983,0.5238,1495,0.4762,,True

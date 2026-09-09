@@ -1,0 +1,35 @@
+﻿{
+  "query": "(\"Lymphoma, Non-Hodgkin\"[Mesh] OR \"non-Hodgkin lymphoma\"[tiab] OR NHL[tiab] OR \"non-Hodgkin's lymphoma\"[tiab] OR \"non-Hodgkin\"[tiab]) AND (\"Quality of Life\"[Mesh] OR \"quality of life\"[tiab] OR QoL[tiab] OR HRQoL[tiab] OR \"health-related quality of life\"[tiab]) AND (\"Survivors\"[Mesh] OR survivor*[tiab] OR \"survivorship\"[tiab])",
+  "query_path": "05_test_data/04_Oncology\\41774244_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data/04_Oncology\\41774244_2026\\input_config_detailed.json",
+  "total_hits": 199,
+  "recall": 0.8421052631578947,
+  "found_count": 16,
+  "total_gold": 19,
+  "mode": "open",
+  "timestamp_unix": 1781083246,
+  "missed_pmids": [
+    "30074622",
+    "33187112",
+    "39536378"
+  ],
+  "found_pmids": [
+    "24318593",
+    "25751114",
+    "26036473",
+    "26856728",
+    "27073128",
+    "28184983",
+    "29121713",
+    "32472708",
+    "33008767",
+    "33909148",
+    "33928815",
+    "34617134",
+    "34778941",
+    "36342349",
+    "37568701",
+    "40002304"
+  ],
+  "missed_count": 3
+}

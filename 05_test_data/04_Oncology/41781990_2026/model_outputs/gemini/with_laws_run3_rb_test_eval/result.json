@@ -1,0 +1,10 @@
+{
+  "domain": "04_Oncology",
+  "paper_id": "41781990_2026",
+  "query": "(\"Gastrointestinal Neoplasms\"[Mesh] OR \"Stomach Neoplasms\"[Mesh] OR \"Colorectal Neoplasms\"[Mesh] OR \"gastrointestinal cancer\"[tiab] OR \"gastric cancer\"[tiab] OR \"stomach cancer\"[tiab] OR \"colorectal cancer\"[tiab] OR \"peritoneal metastases\"[tiab] OR \"peritoneal carcinomatosis\"[tiab]) AND (\"Hyperthermic Intraperitoneal Chemotherapy\"[Mesh] OR \"hyperthermic intraperitoneal chemotherapy\"[tiab] OR HIPEC[tiab]) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])",
+  "total_hits": 389,
+  "num_gold": 10,
+  "found_gold": 8,
+  "recall": 0.8,
+  "nnr": 38.9
+}

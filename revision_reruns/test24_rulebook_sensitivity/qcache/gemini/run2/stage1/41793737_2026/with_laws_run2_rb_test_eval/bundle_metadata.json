@@ -1,0 +1,6 @@
+{
+  "generated_at": "2026-08-24T21:38:21Z",
+  "condition": "with_laws",
+  "prompt_file": "test_prompt_with.md",
+  "query_laws_file": "run2_rulebook_refined.txt"
+}

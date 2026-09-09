@@ -1,0 +1,10 @@
+{
+  "domain": "02_Cardiovascular_Disease",
+  "paper_id": "41708995_2026",
+  "provider": "gemini",
+  "current_hits": 11161,
+  "current_recall": 0.0,
+  "gold_n": 0,
+  "target_hits": 9999,
+  "instruction": "Send the contents of phase5_manual_prompt.md to chat, obtain one raw query line only, save the accepted query to with_laws_stageA_prime/normalized_query.txt, then rerun."
+}

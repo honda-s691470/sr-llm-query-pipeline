@@ -1,0 +1,7 @@
+﻿domain,n,mean_raw_recall,mean_stageC_recall,mean_recall_loss,mean_raw_hits,mean_stageC_kept,mean_workload_reduction
+01_Rheumatoid_Arthritis,7,0.8644,0.6817,0.1828,9688.1429,1056.2857,0.6233
+02_Cardiovascular_Disease,2,0.83,0.79,0.04,487,341.5,0.3014
+03_Psychiatry,2,0.6492,0.636,0.0132,743,685,0.0929
+04_Oncology,7,0.9403,0.79,0.1504,8058,1504.4286,0.3651
+05_Infectious_Diseases,3,0.8718,0.7564,0.1154,4538.6667,1201.3333,0.4808
+Overall,21,0.867,0.7344,0.1326,6680.9048,1122.9524,0.4357

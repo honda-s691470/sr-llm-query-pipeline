@@ -1,0 +1,1 @@
+("Ischemic Stroke"[Mesh] OR "brain ischemia"[Mesh] OR "ischaemic stroke"[tiab] OR "acute ischemic stroke"[tiab] OR "acute ischaemic stroke"[tiab]) AND ("Biomarkers"[Mesh] OR "biological marker"[tiab] OR "biological markers"[tiab] OR "biomarker* protein*"[tiab:~3] OR metabolite*[tiab] OR RNA[tiab] OR microRNA*[tiab]) NOT "Editorial"[pt]

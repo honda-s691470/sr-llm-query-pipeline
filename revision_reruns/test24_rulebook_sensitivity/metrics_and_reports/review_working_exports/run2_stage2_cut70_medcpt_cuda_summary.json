@@ -1,0 +1,70 @@
+{
+  "output_csv": "paper/JMIR\\review\\test24_rulebook_sensitivity\\run2_stage2_cut70_medcpt_cuda_merged.csv",
+  "n_papers": 24,
+  "source_csvs": {
+    "40815363_2025": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_000930.csv",
+    "41108024_2025": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_001024.csv",
+    "41224700_2025": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_001149.csv",
+    "41470797_2025": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_001207.csv",
+    "41484688_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_001633.csv",
+    "41505363_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_001656.csv",
+    "41630847_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_001716.csv",
+    "41708995_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_001944.csv",
+    "41709059_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_002931.csv",
+    "41715180_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_002954.csv",
+    "41720985_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_003944.csv",
+    "41796365_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_004015.csv",
+    "41802227_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_004038.csv",
+    "41804118_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_004243.csv",
+    "41641734_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_005135.csv",
+    "41770755_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_005920.csv",
+    "41774244_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_010351.csv",
+    "41781907_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_010409.csv",
+    "41781990_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_011445.csv",
+    "41792786_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_011504.csv",
+    "41794963_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_011641.csv",
+    "41792577_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_011700.csv",
+    "41793737_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_011725.csv",
+    "41796425_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_012347.csv"
+  },
+  "phase5_completed_papers": [
+    "41108024_2025",
+    "41470797_2025",
+    "41792577_2026"
+  ],
+  "stage_c_mode_counts": {
+    "passthrough_stageb": 10,
+    "ranked": 14
+  },
+  "ranked_stage_c_device_effective_counts": {
+    "cuda": 14
+  },
+  "mean_stage_c_recall": 0.7004458333333333,
+  "median_stage_c_recall": 0.7639,
+  "min_stage_c_recall": 0.1136,
+  "max_stage_c_recall": 1.0,
+  "mean_stage_c_hits": 1250.6666666666667,
+  "median_stage_c_hits": 1000.0,
+  "mean_nnr": 121.73122065222896,
+  "median_nnr": 68.67857142857143,
+  "papers_below_0_60_recall": [
+    "40815363_2025",
+    "41108024_2025",
+    "41470797_2025",
+    "41484688_2026",
+    "41715180_2026",
+    "41796365_2026",
+    "41804118_2026",
+    "41792577_2026"
+  ],
+  "papers_at_or_below_0_60_recall": [
+    "40815363_2025",
+    "41108024_2025",
+    "41470797_2025",
+    "41484688_2026",
+    "41715180_2026",
+    "41796365_2026",
+    "41804118_2026",
+    "41792577_2026"
+  ]
+}

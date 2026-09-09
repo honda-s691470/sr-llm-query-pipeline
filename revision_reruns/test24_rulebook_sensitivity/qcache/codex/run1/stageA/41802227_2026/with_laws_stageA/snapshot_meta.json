@@ -1,0 +1,17 @@
+﻿{
+  "saved_at_utc": "2026-08-24T13:37:28.290686+00:00",
+  "dataset_split": "test",
+  "domain": "03_Psychiatry",
+  "paper_id": "41802227_2026",
+  "provider": "codex",
+  "stage": "A",
+  "condition": "with_laws_stageA",
+  "source_condition": "with_laws_stageA_prime",
+  "query_type": "pubmed_boolean",
+  "query_length": 661,
+  "query_sha256": "99689e9877385430ffc2b7edaa08b9836a2be129c1222637a9a5365a7718b8f9",
+  "query_path": "public_release/05_test_data/03_Psychiatry\\41802227_2026\\model_outputs\\codex\\with_laws_stageA\\normalized_query.txt",
+  "extra": {
+    "stage_a_total_hits": 2265
+  }
+}

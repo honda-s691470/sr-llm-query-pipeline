@@ -1,0 +1,1 @@
+("Ischemic Stroke"[Mesh] OR "Stroke"[Mesh] OR "acute ischemic stroke"[ti]) AND ("Biomarkers"[Mesh] OR biomarker*[tiab] OR "fluid biomarker*"[tiab] OR "blood biomarker*"[tiab] OR "biological markers"[tiab])

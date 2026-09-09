@@ -1,0 +1,4 @@
+﻿provider,missed_gold_pmids,unique_missed_gold_pmids,median_year,no_abstract_n,low_query_overlap_n,limited_mesh_n,pubtype_filter_sensitive_n,no_abstract_pct,low_query_overlap_pct,limited_mesh_pct,pubtype_filter_sensitive_pct
+Claude,87,87,2020.0,7,14,22,10,8.0,16.1,25.3,11.5
+Codex,73,73,2020.0,8,16,14,11,11.0,21.9,19.2,15.1
+Gemini,52,52,2020.0,5,14,13,5,9.6,26.9,25.0,9.6

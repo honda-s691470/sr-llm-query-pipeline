@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:04:55Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41484688_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR rheumatoid[tiab] OR RA[tiab] OR \"inflammatory arthritis\"[tiab] OR \"early arthritis\"[tiab] OR \"early inflammatory arthritis\"[tiab] OR \"undifferentiated arthritis\"[tiab] OR \"recent onset arthritis\"[tiab] OR \"new onset arthritis\"[tiab] OR polyarthritis[tiab]) AND (\"Referral and Consultation\"[Mesh] OR referral*[tiab] OR \"early referral\"[tiab] OR \"urgent referral\"[tiab]) AND (criteria[tiab] OR criterion[tiab] OR guideline*[tiab] OR recommendation*[tiab] OR algorithm*[tiab] OR rule*[tiab] OR \"clinical decision rule\"[tiab] OR \"Diagnosis\"[Mesh] OR diagnos*[tiab])",
+  "query_length": 627,
+  "gold_count": 17,
+  "total_hits": 1066,
+  "hit_gold_count": 15,
+  "recall": 0.8823529411764706,
+  "nnr": 71.06666666666666,
+  "f1": 0.027700831024930747,
+  "error_note": ""
+}

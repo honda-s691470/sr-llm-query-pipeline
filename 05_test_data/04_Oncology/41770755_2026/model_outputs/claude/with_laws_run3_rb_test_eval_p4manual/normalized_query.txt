@@ -1,0 +1,1 @@
+("Neoplasms"[Mesh] OR cancer[tiab] OR cancers[tiab] OR oncology[tiab] OR tumor[tiab] OR tumour[tiab]) AND (prehabilitation[tiab] OR "pre-habilitation"[tiab] OR prehabilitative[tiab]) AND ("Adult"[Mesh] OR "Middle Aged"[Mesh] OR "Aged"[Mesh]) NOT "Review"[pt] NOT "Clinical Trial Protocol"[pt] NOT "Comment"[pt] NOT "Editorial"[pt] NOT "Case Reports"[pt] NOT "Letter"[pt]

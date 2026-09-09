@@ -13,14 +13,75 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import json
+import os
 import re
 import subprocess
 import sys
+import urllib.error
+import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 PIPELINE_DIR = ROOT / "06_exclusion_screening_pipeline"
 RUN_LOGS_DIR = PIPELINE_DIR / "run_logs"
+
+
+
+def load_dotenv_map(dotenv_path: Path) -> dict[str, str]:
+    loaded: dict[str, str] = {}
+    if not dotenv_path.exists():
+        return loaded
+    for raw_line in dotenv_path.read_text(encoding="utf-8", errors="ignore").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        loaded[key.strip()] = value.strip().strip('"').strip("'")
+    return loaded
+
+
+def load_openai_api_key() -> str:
+    if os.environ.get("OPENAI_API_KEY"):
+        return os.environ["OPENAI_API_KEY"]
+    for dotenv_path in (ROOT.parent / ".env", ROOT / ".env"):
+        loaded = load_dotenv_map(dotenv_path)
+        if loaded.get("OPENAI_API_KEY"):
+            return loaded["OPENAI_API_KEY"]
+    return ""
+
+
+def extract_openai_response_text(payload: dict[str, object]) -> str:
+    texts: list[str] = []
+    for item in payload.get("output", []) or []:
+        if not isinstance(item, dict):
+            continue
+        for content in item.get("content", []) or []:
+            if isinstance(content, dict) and content.get("type") in {"output_text", "text"}:
+                texts.append(str(content.get("text", "")))
+    if texts:
+        return "\n".join(texts)
+    return str(payload.get("output_text", ""))
+
+
+def call_openai_responses_api(prompt_text: str, *, model: str, max_output_tokens: int = 8096) -> str:
+    api_key = load_openai_api_key()
+    if not api_key:
+        raise RuntimeError("OPENAI_API_KEY was not found for Codex API fallback.")
+    body = json.dumps({"model": model, "input": prompt_text, "max_output_tokens": max_output_tokens}).encode("utf-8")
+    request = urllib.request.Request(
+        "https://api.openai.com/v1/responses",
+        data=body,
+        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=300) as response:
+            payload = json.loads(response.read().decode("utf-8"))
+            return extract_openai_response_text(payload)
+    except urllib.error.HTTPError as exc:
+        detail = exc.read().decode("utf-8", errors="replace")[:2000]
+        raise RuntimeError(f"OpenAI Responses API fallback failed ({exc.code}): {detail}") from exc
 
 
 def _run(cmd: list[str], check: bool = True) -> subprocess.CompletedProcess:
@@ -89,11 +150,27 @@ def _call_llm(prompt_path: Path, model: str) -> Path:
             input=prompt_text,
             text=True,
             encoding="utf-8",
-            capture_output=False,
+            capture_output=True,
         )
         if result.returncode != 0:
-            print(f"ERROR: codex exec failed (exit {result.returncode})", file=sys.stderr)
-            sys.exit(result.returncode)
+            fallback_log = RUN_LOGS_DIR / f"aprime_rewrite_api_fallback_{ts}.log"
+            try:
+                response_text = call_openai_responses_api(prompt_text, model=model)
+            except Exception as exc:
+                fallback_log.write_text(
+                    f"codex_cli_returncode={result.returncode}\nSTDOUT:\n{result.stdout or ''}\nSTDERR:\n{result.stderr or ''}\nAPI_ERROR:\n{exc}\n",
+                    encoding="utf-8",
+                )
+                print(f"ERROR: codex exec failed and API fallback failed: {exc}", file=sys.stderr)
+                sys.exit(result.returncode)
+            response_path.write_text(response_text, encoding="utf-8")
+            fallback_log.write_text(
+                f"codex_cli_returncode={result.returncode}\nmodel={model}\n",
+                encoding="utf-8",
+            )
+            return response_path
+        if result.stdout and not response_path.exists():
+            response_path.write_text(result.stdout, encoding="utf-8")
         return response_path
 
     print(f"ERROR: unsupported rewrite model '{model}'", file=sys.stderr)

@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:20:32Z",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41708995_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Stroke\"[Mesh] OR \"Ischemic Stroke\"[Mesh] OR \"ischemic stroke\"[tiab] OR \"acute ischemic stroke\"[tiab] OR \"AIS\"[tiab] OR \"stroke mimic\"[tiab] OR \"stroke mimics\"[tiab]) AND (\"Biomarkers\"[Mesh] OR biomarker*[tiab] OR \"biological marker\"[tiab] OR \"fluid biomarker\"[tiab] OR \"blood biomarker\"[tiab] OR \"serum biomarker\"[tiab] OR \"plasma biomarker\"[tiab] OR \"protein marker\"[tiab] OR \"metabolite\"[tiab] OR \"nucleic acid\"[tiab] OR \"ribonucleic acid\"[tiab] OR \"RNA\"[tiab] OR \"microRNA\"[tiab] OR \"miRNA\"[tiab])",
+  "query_length": 502,
+  "gold_count": 27,
+  "total_hits": 14902,
+  "hit_gold_count": 22,
+  "recall": 0.8148148148148148,
+  "nnr": 677.3636363636364,
+  "f1": 0.002947283810034162,
+  "error_note": ""
+}

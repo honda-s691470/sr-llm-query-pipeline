@@ -1,0 +1,10 @@
+{
+  "domain": "05_Infectious_Diseases",
+  "paper_id": "41796425_2026",
+  "query": "(\"Post-Acute COVID-19 Syndrome\"[Mesh] OR \"long COVID\"[tiab] OR \"post-COVID\"[tiab] OR \"post COVID\"[tiab] OR \"long-haul COVID\"[tiab] OR \"post-acute sequelae of COVID-19\"[tiab] OR \"PASC\"[tiab]) AND (\"Female Urogenital Diseases\"[Mesh] OR \"Male Urogenital Diseases\"[Mesh] OR \"genitourinary\"[tiab] OR \"urogenital\"[tiab] OR \"urinary\"[tiab] OR \"renal\"[tiab] OR \"incontinence\"[tiab] OR \"erectile dysfunction\"[tiab] OR \"orchitis\"[tiab] OR \"menstrual\"[tiab])",
+  "total_hits": 611,
+  "num_gold": 8,
+  "found_gold": 8,
+  "recall": 1.0,
+  "nnr": 76.38
+}

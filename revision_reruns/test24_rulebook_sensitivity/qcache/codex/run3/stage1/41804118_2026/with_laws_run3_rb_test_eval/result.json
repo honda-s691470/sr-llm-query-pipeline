@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T02:49:24Z",
+  "domain_folder": "03_Psychiatry",
+  "paper_folder": "41804118_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_run3_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Depression\"[Mesh] OR \"Depressive Disorder\"[Mesh] OR depress*[tiab] OR \"mental distress\"[tiab] OR \"psychological distress\"[tiab]) AND (\"South Asian\"[tiab] OR \"South Asians\"[tiab] OR \"Asian Indian\"[tiab] OR \"Asian Indians\"[tiab] OR Afghan*[tiab] OR Bangladeshi*[tiab] OR Bhutanese[tiab] OR Indian*[tiab] OR Maldivian*[tiab] OR Nepalese[tiab] OR Nepali*[tiab] OR Pakistani*[tiab] OR \"Sri Lankan\"[tiab] OR diaspora[tiab] OR immigrant*[tiab] OR migrant*[tiab] OR \"ethnic minorit*\"[tiab] OR \"Asian Continental Ancestry Group\"[Mesh] OR \"Emigrants and Immigrants\"[Mesh])",
+  "query_length": 564,
+  "gold_count": 8,
+  "total_hits": 10661,
+  "hit_gold_count": 4,
+  "recall": 0.5,
+  "nnr": 2665.25,
+  "f1": 0.0007498359733808229,
+  "error_note": ""
+}

@@ -1,0 +1,6 @@
+﻿{
+    "condition":  "with_laws_pooled_rb_test_eval_phase5_accepted",
+    "source":  "independent_phase5_manual_rewrite_from_pooled_rulebook",
+    "cache_label":  "pooled_rb_cut70_medcpt_cuda",
+    "saved_at":  "2026-08-25T13:10:58"
+}

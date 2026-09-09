@@ -1,7 +1,7 @@
-{
+﻿{
   "query": "(\"Breast Neoplasms\"[Mesh] OR \"breast cancer\"[tiab] OR \"breast carcinoma\"[tiab] OR \"breast neoplasm\"[tiab]) AND (\"Germ-Line Mutation\"[Mesh] OR germline[tiab] OR \"germline variant\"[tiab] OR \"germline mutation\"[tiab] OR SNP[tiab] OR \"single nucleotide polymorphism\"[tiab] OR \"genetic variant\"[tiab] OR \"genetic polymorphism\"[tiab] OR \"pathogenic variant\"[tiab]) AND (\"Prognosis\"[Mesh] OR prognosis[tiab] OR \"overall survival\"[tiab] OR \"disease-free survival\"[tiab] OR \"progression-free survival\"[tiab] OR \"survival outcome\"[tiab])",
-  "query_path": "05_test_data\\04_Oncology\\41781907_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
-  "input_config_path": "05_test_data\\04_Oncology\\41781907_2026\\input_config_detailed.json",
+  "query_path": "05_test_data/04_Oncology\\41781907_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data/04_Oncology\\41781907_2026\\input_config_detailed.json",
   "total_hits": 1915,
   "recall": 0.8888888888888888,
   "found_count": 48,

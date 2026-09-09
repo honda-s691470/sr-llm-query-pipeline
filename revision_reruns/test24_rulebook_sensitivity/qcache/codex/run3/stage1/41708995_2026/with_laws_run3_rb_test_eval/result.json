@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T02:45:08Z",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41708995_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_run3_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Stroke\"[Mesh] OR \"Brain Ischemia\"[Mesh] OR \"Cerebral Infarction\"[Mesh] OR \"Infarction, Middle Cerebral Artery\"[Mesh] OR \"ischemic stroke\"[tiab] OR \"ischaemic stroke\"[tiab] OR \"acute ischemic stroke\"[tiab] OR \"acute ischaemic stroke\"[tiab] OR AIS[tiab] OR \"cerebral ischemia\"[tiab] OR \"cerebral ischaemia\"[tiab] OR \"brain ischemia\"[tiab] OR \"brain ischaemia\"[tiab] OR \"cerebral infarct*\"[tiab] OR \"brain infarct*\"[tiab]) AND (\"Biomarkers\"[Mesh] OR biomarker*[tiab] OR \"biological marker*\"[tiab] OR \"fluid biomarker*\"[tiab] OR \"blood biomarker*\"[tiab] OR \"serum biomarker*\"[tiab] OR \"plasma biomarker*\"[tiab] OR \"Proteomics\"[Mesh] OR proteomic*[tiab] OR protein*[tiab] OR \"Metabolomics\"[Mesh] OR \"Metabolome\"[Mesh] OR metabolomic*[tiab] OR metabolite*[tiab] OR \"Nucleic Acids\"[Mesh] OR \"RNA\"[Mesh] OR \"MicroRNAs\"[Mesh] OR RNA[tiab] OR miRNA[tiab] OR microRNA*[tiab]) AND (\"Diagnosis, Differential\"[Mesh] OR \"Early Diagnosis\"[Mesh] OR \"Sensitivity and Specificity\"[Mesh] OR diagnos*[tiab] OR differentiati*[tiab] OR discriminat*[tiab] OR distinguish*[tiab] OR \"stroke mimic*\"[tiab] OR mimic*[tiab])",
+  "query_length": 1097,
+  "gold_count": 27,
+  "total_hits": 9491,
+  "hit_gold_count": 19,
+  "recall": 0.7037037037037037,
+  "nnr": 499.5263157894737,
+  "f1": 0.003992435385585207,
+  "error_note": ""
+}

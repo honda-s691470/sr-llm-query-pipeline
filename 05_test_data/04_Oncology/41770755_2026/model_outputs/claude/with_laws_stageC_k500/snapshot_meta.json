@@ -1,0 +1,27 @@
+﻿{
+  "saved_at_utc": "2026-08-25T12:44:49.737138+00:00",
+  "dataset_split": "test",
+  "domain": "04_Oncology",
+  "paper_id": "41770755_2026",
+  "provider": "claude",
+  "stage": "C",
+  "condition": "with_laws_stageC_k500",
+  "source_condition": "with_laws_stageB",
+  "query_type": "hyde_pseudo_abstract",
+  "query_length": 1785,
+  "query_sha256": "ecf9af65baf018cbf6295dec25ba88fee2ebba6d16b5f1c1e4247ef30a44772e",
+  "query_path": "public_release/05_test_data/04_Oncology\\41770755_2026\\model_outputs\\claude\\with_laws_stageC_k500\\normalized_query.txt",
+  "extra": {
+    "stage_c_mode": "ranked",
+    "stagec_min_hits": 1001,
+    "stagec_gate_hits": 1000,
+    "stagec_floor_hits": 1000,
+    "stagec_cut_percent": 70.0,
+    "use_fixed_k": false,
+    "final_formula": "rank(s_q)+rank(s_pos_mean)-rank(s_neg_mean)",
+    "k_used": 1535,
+    "query_hash": "8b960b9e6f",
+    "abstract_fetch_n": 200,
+    "hyde_newly_generated": false
+  }
+}

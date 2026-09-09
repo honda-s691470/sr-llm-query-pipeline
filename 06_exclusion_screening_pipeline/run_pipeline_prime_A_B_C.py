@@ -5,7 +5,7 @@ Unified exclusion screening pipeline: Stage A' -> A -> B -> C
 
 Key behavioural differences by mode
   test     : Stage A' uses run_prime_no_recall (no recall guard); dataset_split="test"
-  training : Stage A' uses phase1+phase3 with Δrecall<=0.02 guard; live recall at A/B/C;
+  training : Stage A' uses phase1+phase3 with ﾎ排ecall<=0.02 guard; live recall at A/B/C;
              Phase5 manual-rewrite prompt written when prime_hits>=9999; dataset_split="training_eval_non27"
 
 HyDE cache filenames differ by mode (hyde_query_test.txt / hyde_query_training.txt)
@@ -31,6 +31,19 @@ TEST_DIR = ROOT / "05_test_data"
 RESULTS_DIR = ROOT / "06_exclusion_screening_pipeline" / "results"
 LOG_DIR = ROOT / "06_exclusion_screening_pipeline" / "logs"
 CACHE_ROOT = ROOT / "06_exclusion_screening_pipeline" / "pubmed_cache"
+CACHE_LABEL = ""
+
+
+def _cache_provider_key(provider: str) -> str:
+    if not CACHE_LABEL:
+        return provider
+    return f"{provider}__{CACHE_LABEL}"
+
+
+def _stage_condition(condition: str) -> str:
+    if not CACHE_LABEL:
+        return condition
+    return f"{condition}__{CACHE_LABEL}"
 BASE_TEST_PROMPT_PATH = ROOT / "03_hypothesis_accumlation_test" / "test_prompt_with.md"
 def _latest_query_laws_path() -> Path:
     candidates = sorted(
@@ -61,9 +74,16 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+def rel_public_path(path: Path) -> str:
+    try:
+        return path.resolve().relative_to(ROOT.resolve()).as_posix()
+    except ValueError:
+        return path.as_posix()
+
+
+# 笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武
 # Shared utilities
-# ══════════════════════════════════════════════════════════════════════════════
+# 笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武
 
 def _compute_kept_n_with_gate_floor(
     stage_b_hits: int, gate_hits: int, floor_hits: int, cut_percent: float
@@ -138,7 +158,7 @@ def _run_stage_c(
 
     Returns (pmids_c, hyde_text, query_hash, abstract_fetch_n, hyde_newly_generated).
     """
-    cache_dir = CACHE_ROOT / domain / paper_id / provider
+    cache_dir = CACHE_ROOT / domain / paper_id / _cache_provider_key(provider)
     cache_file = cache_dir / "pubmed_records.json"
     cache_dir.mkdir(parents=True, exist_ok=True)
 
@@ -161,13 +181,11 @@ def _run_stage_c(
 
     score_jsonl = cache_dir / f"stagec_scored_records_medcpt_{query_hash}_{pmid_hash}.jsonl"
     score_meta_file = cache_dir / f"stagec_scored_records_medcpt_{query_hash}_{pmid_hash}.meta.json"
-    # Legacy: test runner wrote query_hash-only filenames with full final scores
     legacy_score_jsonl = cache_dir / f"stagec_scored_records_medcpt_{query_hash}.jsonl"
 
     scored: list[dict] | None = None
     abstract_fetch_n = 0
 
-    # ── Try primary cache ────────────────────────────────────────────────────
     if score_jsonl.exists() and score_meta_file.exists():
         try:
             meta_obj = json.loads(score_meta_file.read_text(encoding="utf-8"))
@@ -186,7 +204,6 @@ def _run_stage_c(
         except Exception:
             scored = None
 
-    # ── Try legacy cache (query_hash only, pre-unification test runner) ──────
     if scored is None and legacy_score_jsonl.exists():
         try:
             rows_tmp = []
@@ -215,7 +232,6 @@ def _run_stage_c(
         except Exception:
             scored = None
 
-    # ── Compute fresh scores ─────────────────────────────────────────────────
     if scored is None:
         records = fetch_all_abstracts(pmids_b, batch_size=100, cache_file=str(cache_file))
         n_with_abstract = sum(1 for r in records if r.get("abstract", ""))
@@ -224,23 +240,24 @@ def _run_stage_c(
 
         rec_by_pmid = {str(r.get("pmid", "")).strip(): r for r in records}
         pmids_canonical = sorted(p for p in pmids_b if p in rec_by_pmid)
-        recs_canonical = [rec_by_pmid[p] for p in pmids_canonical]
 
-        scored_ranked = medcpt_ranker.rank(hyde_text, recs_canonical, top_k=len(recs_canonical))
-        score_map = {
-            str(r.get("pmid", "")).strip(): (
-                float(r.get("_dense_score", 0.0)),
-                float(r.get("_bm25_score", 0.0)),
-            )
-            for r in scored_ranked
-        }
         corpus = [
             f"{rec_by_pmid[p].get('title', '')} {rec_by_pmid[p].get('abstract', '')[:500]}"
             for p in pmids_canonical
         ]
-        doc_embs = np.asarray(medcpt_ranker.dense.encode_docs(corpus), dtype=np.float32)
-        dense_vals = [score_map[p][0] for p in pmids_canonical]
-        bm25_vals = [score_map[p][1] for p in pmids_canonical]
+        doc_embs = medcpt_ranker.dense.encode_docs(corpus)
+        if medcpt_ranker.dense.available():
+            query_vec = medcpt_ranker.dense.encode_query([hyde_text])[0]
+            dense_vals = (doc_embs @ query_vec).tolist()
+        else:
+            dense_vals = [0.0] * len(pmids_canonical)
+
+        from ranker import BM25
+        bm25 = BM25(corpus)
+        bm25_raw = bm25.score_all(hyde_text)
+        bm25_max = max(bm25_raw) if bm25_raw else 1.0
+        bm25_vals = [s / bm25_max if bm25_max > 0 else 0.0 for s in bm25_raw]
+
         comp = compute_stagec_final(
             pmids=pmids_canonical,
             dense_scores=dense_vals,
@@ -285,9 +302,9 @@ def _run_stage_c(
     return pmids_c, hyde_text, query_hash, abstract_fetch_n, hyde_newly_generated
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+# 笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武
 # Training-mode helpers
-# ══════════════════════════════════════════════════════════════════════════════
+# 笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武
 
 def _is_sr_of_srs(inclusion_text: str, objectives_text: str = "") -> bool:
     text = f"{inclusion_text}\n{objectives_text}".lower()
@@ -396,7 +413,7 @@ def _run_stage_a_prime_with_recall_guard(
     log_ts: str = "",
     recall_threshold: float = 0.02,
 ) -> tuple[str, int, float, str]:
-    """Stage A' with Δrecall guard (training mode). Uses eval_stages tier narrowing."""
+    """Stage A' with ﾎ排ecall guard (training mode). Uses eval_stages tier narrowing."""
     import run_eval_training11_stages as eval_stages
 
     base_hits, _ = search_pubmed(base_query, retmax=1)
@@ -587,8 +604,8 @@ def _a_prime_output_condition(source_condition: str) -> str:
     Avoid overwriting a manual Phase 5 query when it is used as the input source.
     """
     if source_condition == "with_laws_stageA_prime":
-        return "with_laws_stageA_prime_rerun"
-    return "with_laws_stageA_prime"
+        return _stage_condition("with_laws_stageA_prime_rerun")
+    return _stage_condition("with_laws_stageA_prime")
 
 
 def _run_one_paper_training(
@@ -611,7 +628,7 @@ def _run_one_paper_training(
 ) -> tuple[list[dict], dict]:
     domain = paper["domain"]
     paper_id = paper["paper_id"]
-    cache_dir = CACHE_ROOT / domain / paper_id / provider
+    cache_dir = CACHE_ROOT / domain / paper_id / _cache_provider_key(provider)
     cache_file = cache_dir / "pubmed_records.json"
     cache_dir.mkdir(parents=True, exist_ok=True)
 
@@ -620,7 +637,7 @@ def _run_one_paper_training(
     paper_dir = DATA_DIR / domain / paper_id
     a_prime_condition = _a_prime_output_condition(condition)
 
-    # Base (raw query) — recall is safe to compute in training mode
+    # Base (raw query) 窶・recall is safe to compute in training mode
     base_query = paper["base_query"]
     base_hits, _ = search_pubmed(base_query, retmax=1)
     base_tp, base_recall = _true_recall_uid(base_query, gold)
@@ -678,7 +695,7 @@ def _run_one_paper_training(
             gold_n=gold_n,
             target_hits=9999,
         )
-        phase5_prompt_path = str(phase5_prompt_file)
+        phase5_prompt_path = rel_public_path(phase5_prompt_file)
         logger.warning(
             "[%s] Phase5 required: prime_hits=%d >= 9999. Prompt saved: %s",
             paper_id, prime_hits, phase5_prompt_file,
@@ -715,7 +732,7 @@ def _run_one_paper_training(
         paper_id=paper_id,
         provider=provider,
         stage="A",
-        condition="with_laws_stageA",
+        condition=_stage_condition("with_laws_stageA"),
         source_condition=a_prime_condition,
         query_text=q_a,
         query_type="pubmed_boolean",
@@ -740,8 +757,8 @@ def _run_one_paper_training(
         paper_id=paper_id,
         provider=provider,
         stage="B",
-        condition="with_laws_stageB",
-        source_condition="with_laws_stageA",
+        condition=_stage_condition("with_laws_stageB"),
+        source_condition=_stage_condition("with_laws_stageA"),
         query_text=q_a,
         query_type="pubmed_boolean",
         extra={
@@ -779,8 +796,8 @@ def _run_one_paper_training(
             paper_id=paper_id,
             provider=provider,
             stage="C",
-            condition="with_laws_stageC_passthrough_le1000",
-            source_condition="with_laws_stageB",
+            condition=_stage_condition("with_laws_stageC_passthrough_le1000"),
+            source_condition=_stage_condition("with_laws_stageB"),
             query_text=q_a,
             query_type="pubmed_boolean",
             extra={
@@ -817,8 +834,8 @@ def _run_one_paper_training(
             paper_id=paper_id,
             provider=provider,
             stage="C",
-            condition="with_laws_stageC_k500",
-            source_condition="with_laws_stageB",
+            condition=_stage_condition("with_laws_stageC_k500"),
+            source_condition=_stage_condition("with_laws_stageB"),
             query_text=hyde_text,
             query_type="hyde_pseudo_abstract",
             extra={
@@ -887,9 +904,9 @@ def _run_one_paper_training(
     return [row], status
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+# 笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武
 # Test-mode helpers
-# ══════════════════════════════════════════════════════════════════════════════
+# 笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武
 
 def _find_base_query_path(paper_dir: Path, provider: str, condition: str) -> Path | None:
     p = paper_dir / "model_outputs" / provider / condition / "normalized_query.txt"
@@ -956,7 +973,7 @@ def _run_pipeline_test(
 
         raw_hits, _ = search_pubmed(base_query, retmax=1)
 
-        # Stage A' (no recall guard — test mode)
+        # Stage A' (no recall guard 窶・test mode)
         prime_query, prime_hits, prime_meta = run_prime_no_recall(
             base_query=base_query,
             inclusion_text=inclusion_text,
@@ -1020,7 +1037,7 @@ def _run_pipeline_test(
                     current_hits=prime_hits,
                     target_hits=target,
                 )
-                phase5_prompt_path = str(phase5_prompt_file)
+                phase5_prompt_path = rel_public_path(phase5_prompt_file)
                 logger.warning(
                     "[%s] Phase5 required: prime_hits=%d >= %d. Prompt saved: %s",
                     paper, prime_hits, target, phase5_prompt_file,
@@ -1046,7 +1063,7 @@ def _run_pipeline_test(
                 paper_id=paper,
                 provider=provider,
                 stage="A",
-                condition="with_laws_stageA",
+                condition=_stage_condition("with_laws_stageA"),
                 source_condition=a_prime_condition,
                 query_text=query_a,
                 query_type="pubmed_boolean",
@@ -1059,7 +1076,7 @@ def _run_pipeline_test(
             meta_b = fetch_all_metadata(
                 pmids_for_b,
                 batch_size=metadata_batch_size,
-                cache_file=str(CACHE_ROOT / domain / paper / provider / "pubmed_records.json"),
+                cache_file=str(CACHE_ROOT / domain / paper / _cache_provider_key(provider) / "pubmed_records.json"),
             )
             kept_b, excluded_b = stage_b_filter(meta_b, parsed)
             pmids_b = [r["pmid"] for r in kept_b]
@@ -1073,8 +1090,8 @@ def _run_pipeline_test(
                 paper_id=paper,
                 provider=provider,
                 stage="B",
-                condition="with_laws_stageB",
-                source_condition="with_laws_stageA",
+                condition=_stage_condition("with_laws_stageB"),
+                source_condition=_stage_condition("with_laws_stageA"),
                 query_text=query_a,
                 query_type="pubmed_boolean",
                 extra={
@@ -1120,8 +1137,8 @@ def _run_pipeline_test(
                     paper_id=paper,
                     provider=provider,
                     stage="C",
-                    condition="with_laws_stageC_k500",
-                    source_condition="with_laws_stageB",
+                    condition=_stage_condition("with_laws_stageC_k500"),
+                    source_condition=_stage_condition("with_laws_stageB"),
                     query_text=hyde_text,
                     query_type="hyde_pseudo_abstract",
                     extra={
@@ -1151,8 +1168,8 @@ def _run_pipeline_test(
                     paper_id=paper,
                     provider=provider,
                     stage="C",
-                    condition="with_laws_stageC_passthrough_le1000",
-                    source_condition="with_laws_stageB",
+                    condition=_stage_condition("with_laws_stageC_passthrough_le1000"),
+                    source_condition=_stage_condition("with_laws_stageB"),
                     query_text=query_a,
                     query_type="pubmed_boolean",
                     extra={
@@ -1172,7 +1189,7 @@ def _run_pipeline_test(
             "paper_id": paper,
             "provider": provider,
             "condition": condition,
-            "base_query_source": str(query_path.relative_to(ROOT)),
+            "base_query_source": rel_public_path(query_path),
             "raw_total_hits": raw_hits,
             "prime_total_hits": prime_hits,
             "prime_gate_ok_for_stage_a": prime_gate_ok,
@@ -1269,9 +1286,9 @@ def _compute_posthoc_recall(
     return final_rows
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+# 笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武
 # Output helpers
-# ══════════════════════════════════════════════════════════════════════════════
+# 笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武
 
 def _save_test_outputs(
     final_rows: list[dict],
@@ -1495,9 +1512,9 @@ def _save_training_outputs(
     logger.info("Saved: %s", report_md)
 
 
-# ══════════════════════════════════════════════════════════════════════════════
+# 笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武
 # Main
-# ══════════════════════════════════════════════════════════════════════════════
+# 笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武笊絶武
 
 def main() -> None:
     parser = argparse.ArgumentParser(
@@ -1513,6 +1530,8 @@ def main() -> None:
         help="Pipeline mode.",
     )
     parser.add_argument("--provider", default="claude", choices=["codex", "claude", "gemini"])
+    parser.add_argument("--cache-label", default="",
+                        help="Optional suffix for PubMed/Stage C cache folders, e.g. run2_rb_cut70. Prevents overwriting provider-level caches.")
     parser.add_argument("--condition", default="with_laws_test_eval",
                         help="Model output condition directory name.")
     parser.add_argument("--hyde-model", default=None,
@@ -1551,8 +1570,12 @@ def main() -> None:
     parser.add_argument("--paper-id", default=None,
                         help="Run only this paper_id (e.g. 41781415_2026). Works in both modes.")
     parser.add_argument("--recall-threshold", type=float, default=0.02,
-                        help="Max allowed recall drop (ΔR) for Phase 1/3 NOT-block acceptance (default: 0.02).")
+                        help="Max allowed recall drop (ﾎ燃) for Phase 1/3 NOT-block acceptance (default: 0.02).")
     args = parser.parse_args()
+    global CACHE_LABEL
+    CACHE_LABEL = re.sub(r"[^A-Za-z0-9_.-]+", "_", args.cache_label.strip())
+    if args.cache_label and not CACHE_LABEL:
+        raise ValueError("--cache-label contained no usable characters")
 
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
     LOG_DIR.mkdir(parents=True, exist_ok=True)
@@ -1657,3 +1680,7 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+
+

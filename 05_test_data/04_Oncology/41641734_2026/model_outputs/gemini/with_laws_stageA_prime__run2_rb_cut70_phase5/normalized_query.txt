@@ -1,0 +1,1 @@
+("Solitary Pulmonary Nodule"[Mesh] OR "Multiple Pulmonary Nodules"[Mesh] OR "solitary pulmonary nodule"[tiab] OR "solitary pulmonary nodules"[ti] OR "pulmonary nodule"[tiab] OR "lung nodule"[ti] OR "lung nodules"[tiab] OR SPNs[tiab]) NOT "Case Reports"[pt] NOT (animals[mh] NOT humans[mh]) NOT "Comment"[pt] NOT "Letter"[pt] NOT "Editorial"[pt]

@@ -1,0 +1,10 @@
+{
+  "domain": "05_Infectious_Diseases",
+  "paper_id": "41793737_2026",
+  "query": "(\"Guided Tissue Regeneration\"[Mesh] OR \"Bone Regeneration\"[Mesh] OR \"guided bone regeneration\"[tiab] OR \"guided tissue regeneration\"[tiab] OR \"GBR\"[tiab]) AND (\"Membranes, Artificial\"[Mesh] OR membrane*[tiab] OR resorbable[tiab] OR non-resorbable[tiab] OR nonresorbable[tiab])",
+  "total_hits": 6419,
+  "num_gold": 25,
+  "found_gold": 24,
+  "recall": 0.96,
+  "nnr": 256.76
+}

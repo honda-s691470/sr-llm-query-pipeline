@@ -1,0 +1,28 @@
+﻿{
+  "source_csv": "public_release/05_test_data/_results\\eval_test_codex_gpt-5_5_20260825_044029.csv",
+  "output_csv": "paper/JMIR\\review\\test24_rulebook_sensitivity\\run3_stage1_test24_codex_gpt-5_5.csv",
+  "run_summary_json": "public_release/03_hypothesis_accumlation_test/runs/20260825_044029/codex/run_summary.json",
+  "rulebook_path": "paper/JMIR/review/rule_extraction_sensitivity/refined_rulebooks/run3_rulebook_refined.txt",
+  "n_papers": 24,
+  "completed": 24,
+  "mean_recall": 0.8369097160531629,
+  "median_recall": 0.9027777777777777,
+  "min_recall": 0.4666666666666667,
+  "max_recall": 1.0,
+  "mean_total_hits": 13834.541666666666,
+  "median_total_hits": 1880.0,
+  "mean_nnr": 622.7400374998371,
+  "median_nnr": 167.75833333333333,
+  "recall_below_0_60": [
+    "40815363_2025",
+    "41484688_2026",
+    "41804118_2026",
+    "41792577_2026"
+  ],
+  "recall_at_or_below_0_60": [
+    "40815363_2025",
+    "41484688_2026",
+    "41804118_2026",
+    "41792577_2026"
+  ]
+}

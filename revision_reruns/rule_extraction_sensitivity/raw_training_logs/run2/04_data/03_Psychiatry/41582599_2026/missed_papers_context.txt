@@ -1,0 +1,268 @@
+--- Missed Papers Context (sampled) ---
+Sample size: 2 / Missed count: 2
+Seed: 1787397670
+Sampled PMIDs: 39114398, 33451263
+
+MEDLINE FIELDS OF INTEREST:
+- TI: Title
+- AB: Abstract
+- MH: MeSH Headings
+
+
+PMID- 39114398
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240809
+IS  - 0971-4065 (Print)
+IS  - 1998-3662 (Electronic)
+IS  - 0971-4065 (Linking)
+VI  - 34
+IP  - 3
+DP  - 2024 May-Jun
+TI  - A Retrospective Study of End-Stage Renal Disease Patients on Maintenance 
+      Hemodialysis with COVID-19.
+PG  - 252-253
+LID - 10.4103/ijn.ijn_230_23 [doi]
+FAU - P, Aiswharya Lakshmi
+AU  - P AL
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - A, Sunnesh
+AU  - A S
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - S, Mathini
+AU  - S M
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - Kumar, Prasanna N
+AU  - Kumar PN
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - M, Gurupriya
+AU  - M G
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Vishwaeswar Rao
+AU  - G VR
+AD  - Community Medicine, Sri Venkateswara Institute of Medical Sciences, Tirupati, 
+      Andhra Pradesh, India.
+FAU - M, Raja Amarendra
+AU  - M RA
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - K, Naveen
+AU  - K N
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Gayathri Bhatt
+AU  - G GB
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Srilakshmi
+AU  - G S
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - Manuel, Maria Bethasida
+AU  - Manuel MB
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - B, Alekhya
+AU  - B A
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - V, Kiran Kumar
+AU  - V KK
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - K, Dinakar Reddy
+AU  - K DR
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - K P, Rahul
+AU  - K P R
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - P, Lohitha
+AU  - P L
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - K, Pravallika
+AU  - K P
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Jahnavi
+AU  - G J
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - B, Anil Kumar
+AU  - B AK
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Charishma
+AU  - G C
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - S, Taranum Bhanu
+AU  - S TB
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - S, Soundarya
+AU  - S S
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Ram Thulasi
+AU  - G RT
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - P, Bhargav
+AU  - P B
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - S, Sailaja
+AU  - S S
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - R, Ram
+AU  - R R
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - V, Siva Kumar
+AU  - V SK
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - B, Vengamma
+AU  - B V
+AD  - Department of Neurology, Director-cum-Vice Chancellor, Sri Venkateswara Institute 
+      of Medical Sciences, Tirupati, Andhra Pradesh, India.
+LA  - eng
+PT  - Journal Article
+DEP - 20231106
+PL  - India
+TA  - Indian J Nephrol
+JT  - Indian journal of nephrology
+JID - 8914356
+PMC - PMC11302128
+COIS- There are no conflicts of interest.
+EDAT- 2024/08/08 06:42
+MHDA- 2024/08/08 06:43
+PMCR- 2024/05/01
+CRDT- 2024/08/08 04:32
+PHST- 2023/05/30 00:00 [received]
+PHST- 2023/08/07 00:00 [accepted]
+PHST- 2024/08/08 06:43 [medline]
+PHST- 2024/08/08 06:42 [pubmed]
+PHST- 2024/08/08 04:32 [entrez]
+PHST- 2024/05/01 00:00 [pmc-release]
+AID - 10.4103/ijn.ijn_230_23 [pii]
+AID - 10.4103/ijn.ijn_230_23 [doi]
+PST - ppublish
+SO  - Indian J Nephrol. 2024 May-Jun;34(3):252-253. doi: 10.4103/ijn.ijn_230_23. Epub 
+      2023 Nov 6.
+
+PMID- 33451263
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211125
+LR  - 20211125
+IS  - 1552-681X (Electronic)
+IS  - 0272-989X (Linking)
+VI  - 41
+IP  - 3
+DP  - 2021 Apr
+TI  - Efficacy of Advance Care Planning Videos for Patients: A Randomized Controlled 
+      Trial in Cancer, Heart, and Kidney Failure Outpatient Settings.
+PG  - 292-304
+LID - 10.1177/0272989X20985836 [doi]
+AB  - BACKGROUND: Patient videos about advance care planning (ACP; hereafter "Videos"), 
+      were developed to support uptake of provincial policy and address the complexity 
+      of patients' decision-making process. We evaluate self-administered ACP Videos, 
+      compare the studies' choice of outcomes, show correlations between the patients' 
+      ACP actions, and discuss implications for health care policy. OBJECTIVE: To test 
+      the efficacy of the Videos on patients' ACP/goals of care designation 
+      conversations with a health care provider. DESIGN, SETTING, AND PARTICIPANTS: 
+      Using a 2-arm, 1:1 randomized controlled trial, we recruited outpatients with a 
+      diagnosis of kidney failure, heart failure, metastatic lung, gastrointestinal, or 
+      gynecological cancer from 22 sites. Analysis followed the intention-to-treat 
+      principle. INTERVENTIONS: Videos describing the ACP process and illustrating the 
+      resuscitative, medical, and comfort levels of care. MAIN OUTCOMES AND MEASURES: 
+      The primary outcome was the proportion of participants who reported having an 
+      ACP/goals of care designation (GCD) conversation with a health care provider by 3 
+      mo. Outcomes were measured using the Behaviours in Advance Care Planning and 
+      Actions Survey, an online survey capturing ACP attitudes, processes, and actions. 
+      RESULTS: We analyzed 241 and 217 participants at baseline and 3 mo, respectively. 
+      The proportion of participants who had an ACP/GCD conversation with a health care 
+      provider by 3 mo was significantly different between study arms (46% 
+      intervention; 32% control; adjusted odds ratio, 1.83; P = 0.032). Adjusted for 
+      the quality of conversations, there was no significant difference. CONCLUSIONS: 
+      Videos as stand-alone tools do not engage individuals in high-quality ACP. 
+      Pragmatic trials are necessary to evaluate their impact on downstream outcomes 
+      when integrated into intentional, comprehensive conversations with a health care 
+      provider. Considering the strong correlation between 2 activities (physicians 
+      discussing options, patients telling health care providers preferences), policy 
+      should focus on empowering patients to initiate these conversations.
+FAU - Douglas, Maureen L
+AU  - Douglas ML
+AUID- ORCID: 0000-0002-3952-1693
+AD  - Department of Oncology, Division of Palliative Medicine, Cumming School of 
+      Medicine, University of Calgary, AB, Canada.
+AD  - Covenant Health Palliative Institute, Edmonton, AB, Canada.
+FAU - Simon, Jessica
+AU  - Simon J
+AD  - Department of Oncology, Division of Palliative Medicine, Cumming School of 
+      Medicine, University of Calgary, AB, Canada.
+AD  - Department of Community Health Sciences, University of Calgary, AB, Canada.
+FAU - Davison, Sara N
+AU  - Davison SN
+AD  - Division of Nephrology & Immunology, University of Alberta, Edmonton, AB, CAN.
+FAU - Biondo, Patricia
+AU  - Biondo P
+AD  - Department of Oncology, Division of Palliative Medicine, Cumming School of 
+      Medicine, University of Calgary, AB, Canada.
+FAU - Ghosh, Sunita
+AU  - Ghosh S
+AD  - Department of Oncology, University of Alberta, Edmonton, AB, Canada.
+AD  - Department of Mathematical and Statistical Sciences, University of Alberta, 
+      Edmonton, AB, Canada.
+FAU - Kassam, Aliya
+AU  - Kassam A
+AD  - Department of Community Health Sciences, University of Calgary, AB, Canada.
+FAU - Fassbender, Konrad
+AU  - Fassbender K
+AD  - Department of Oncology, University of Alberta, Edmonton, AB, Canada.
+AD  - Covenant Health Palliative Institute, Edmonton, AB, Canada.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT02463162
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210115
+PL  - United States
+TA  - Med Decis Making
+JT  - Medical decision making : an international journal of the Society for Medical 
+      Decision Making
+JID - 8109073
+SB  - IM
+MH  - *Advance Care Planning
+MH  - Communication
+MH  - *Heart Neoplasms
+MH  - Humans
+MH  - Outpatients
+MH  - *Renal Insufficiency
+OTO - NOTNLM
+OT  - advance care planning
+OT  - goals of care designations
+OT  - palliative care
+OT  - patient decision aids
+OT  - patient-physician communication
+OT  - videos
+EDAT- 2021/01/17 06:00
+MHDA- 2021/11/26 06:00
+CRDT- 2021/01/16 05:24
+PHST- 2021/01/17 06:00 [pubmed]
+PHST- 2021/11/26 06:00 [medline]
+PHST- 2021/01/16 05:24 [entrez]
+AID - 10.1177/0272989X20985836 [doi]
+PST - ppublish
+SO  - Med Decis Making. 2021 Apr;41(3):292-304. doi: 10.1177/0272989X20985836. Epub 
+      2021 Jan 15.

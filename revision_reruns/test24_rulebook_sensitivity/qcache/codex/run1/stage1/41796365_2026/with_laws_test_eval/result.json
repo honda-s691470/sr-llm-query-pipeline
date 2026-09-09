@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:44:58Z",
+  "domain_folder": "03_Psychiatry",
+  "paper_folder": "41796365_2026",
+  "provider": "codex",
+  "model": "gpt-5.3-codex",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Hallucinogens\"[Mesh] OR \"Hallucinogen-Related Disorders\"[Mesh] OR hallucinogen*[tiab] OR psychedelic*[tiab] OR \"Lysergic Acid Diethylamide\"[Mesh] OR \"lysergic acid diethylamide\"[tiab] OR LSD[tiab] OR \"Psilocybin\"[Mesh] OR psilocybin[tiab] OR \"Mescaline\"[Mesh] OR mescaline[tiab] OR peyote[tiab] OR \"Phencyclidine\"[Mesh] OR phencyclidine[tiab] OR PCP[tiab] OR \"Dimethyltryptamine\"[tiab] OR DMT[tiab] OR ayahuasca[tiab] OR ecstasy[tiab] OR MDMA[tiab]) AND (\"Psychotic Disorders\"[Mesh] OR \"Schizophrenia\"[Mesh] OR psychosis[tiab] OR psychotic[tiab] OR schizophrenia[tiab] OR schizoaffective[tiab] OR \"brief psychotic disorder\"[tiab] OR \"early-onset psychosis\"[tiab] OR EOP[tiab] OR \"psychotic-like\"[tiab] OR \"psychotic like\"[tiab] OR \"psychotic-like experience*\"[tiab] OR \"psychotic experience*\"[tiab] OR \"psychotic symptom*\"[tiab] OR \"subthreshold psychotic symptom*\"[tiab] OR \"unusual experience*\"[tiab]) AND (\"Adolescent\"[Mesh] OR \"Child\"[Mesh] OR adolescen*[tiab] OR teen*[tiab] OR youth[tiab] OR child*[tiab] OR pediatric*[tiab] OR paediatric*[tiab] OR \"young people\"[tiab]))",
+  "query_length": 1080,
+  "gold_count": 9,
+  "total_hits": 395,
+  "hit_gold_count": 6,
+  "recall": 0.6666666666666666,
+  "nnr": 65.83333333333333,
+  "f1": 0.0297029702970297,
+  "error_note": ""
+}

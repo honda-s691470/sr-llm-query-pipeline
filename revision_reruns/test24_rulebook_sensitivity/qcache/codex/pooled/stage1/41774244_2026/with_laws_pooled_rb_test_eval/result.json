@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:13:02Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41774244_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Lymphoma, Non-Hodgkin\"[Mesh] OR \"non-Hodgkin lymphoma\"[tiab] OR \"non Hodgkin lymphoma\"[tiab] OR NHL[tiab] OR \"B-cell lymphoma\"[tiab] OR \"T-cell lymphoma\"[tiab]) AND (\"Quality of Life\"[Mesh] OR \"quality of life\"[tiab] OR QoL[tiab] OR HRQoL[tiab] OR \"health-related quality of life\"[tiab]) AND (\"2014/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication]) AND english[la]",
+  "query_length": 379,
+  "gold_count": 19,
+  "total_hits": 794,
+  "hit_gold_count": 19,
+  "recall": 1.0,
+  "nnr": 41.78947368421053,
+  "f1": 0.046740467404674045,
+  "error_note": ""
+}

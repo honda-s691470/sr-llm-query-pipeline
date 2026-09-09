@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-24T09:25:33Z",
+  "domain_folder": "05_Infectious_Diseases",
+  "paper_folder": "41792577_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_run2_rb_test_eval",
+  "status": "completed",
+  "query": "(\"Mpox\"[Mesh] OR \"Smallpox Vaccine\"[Mesh] OR \"Vaccinia virus\"[Mesh] OR mpox[tiab] OR monkeypox[tiab] OR \"monkey pox\"[tiab] OR smallpox[tiab] OR vaccinia[tiab] OR \"pox vaccine\"[tiab] OR \"vaccinia vaccine\"[tiab] OR ACAM2000[tiab] OR \"MVA-BN\"[tiab] OR Imvanex[tiab] OR Jynneos[tiab] OR Imvamune[tiab] OR LC16[tiab] OR Dryvax[tiab] OR vaccin*[tiab]) AND (pregnan*[tiab] OR \"Pregnancy\"[Mesh] OR \"Pregnant Women\"[Mesh] OR gestation*[tiab] OR maternal[tiab] OR neonat*[tiab] OR \"Infant, Newborn\"[Mesh] OR infant*[tiab] OR \"Infant\"[Mesh] OR child*[tiab] OR \"Child\"[Mesh] OR pediatric*[tiab] OR paediatric*[tiab] OR adolescen*[tiab] OR \"Adolescent\"[Mesh])",
+  "query_length": 646,
+  "gold_count": 26,
+  "total_hits": 130962,
+  "hit_gold_count": 16,
+  "recall": 0.6153846153846154,
+  "nnr": 8185.125,
+  "f1": 0.0002442971875286286,
+  "error_note": ""
+}

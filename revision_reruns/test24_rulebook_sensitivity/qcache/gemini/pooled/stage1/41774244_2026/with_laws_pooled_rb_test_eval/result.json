@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:00:49Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41774244_2026",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Lymphoma, Non-Hodgkin\"[Mesh] OR \"non-Hodgkin lymphoma\"[tiab] OR \"non-Hodgkin's lymphoma\"[tiab] OR \"non-Hodgkin\"[tiab] OR \"non-Hodgkins\"[tiab] OR NHL[tiab]) AND (\"Cancer Survivors\"[Mesh] OR \"Survivors\"[Mesh] OR survivor*[tiab] OR survivorship[tiab] OR \"Quality of Life\"[Mesh] OR \"quality of life\"[tiab] OR QoL[tiab])",
+  "query_length": 317,
+  "gold_count": 19,
+  "total_hits": 2331,
+  "hit_gold_count": 19,
+  "recall": 1.0,
+  "nnr": 122.6842105263158,
+  "f1": 0.01617021276595745,
+  "error_note": ""
+}

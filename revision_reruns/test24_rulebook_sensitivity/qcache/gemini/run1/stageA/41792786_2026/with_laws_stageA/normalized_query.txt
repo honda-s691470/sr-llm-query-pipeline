@@ -1,0 +1,1 @@
+(("Colorectal Neoplasms"[Mesh] OR "colorectal cancer"[tiab] OR "colorectal neoplasm*"[tiab]) AND ("Heat-Shock Proteins"[Mesh] OR "heat-shock protein*"[tiab] OR HSP[tiab] OR HSPs[tiab]) NOT "Comment"[pt]) NOT "Case Reports"[pt] NOT "Letter"[pt] NOT "Comment"[pt] NOT "Published Erratum"[pt]

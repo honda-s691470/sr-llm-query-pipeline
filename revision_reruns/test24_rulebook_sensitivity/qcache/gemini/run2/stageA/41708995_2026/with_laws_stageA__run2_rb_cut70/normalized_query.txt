@@ -1,0 +1,1 @@
+(("Ischemic Stroke"[Mesh] OR "stroke"[Mesh] OR "acute ischemic stroke"[tiab] OR AIS[tiab]) AND ("Biomarkers"[Mesh:NoExp] OR biomarker*[tiab] OR "fluid biomarker"[tiab] OR "blood biomarker"[tiab] OR "serum biomarker"[tiab] OR "plasma biomarker"[tiab]) NOT "Case Reports"[pt]) NOT "Published Erratum"[pt]

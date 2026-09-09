@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T02:40:29Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "40815363_2025",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_run3_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Probiotics\"[Mesh] OR \"Bacteriotherapy\"[Mesh] OR \"Lactobacillus\"[Mesh] OR \"Bifidobacterium\"[Mesh] OR probiotic*[tiab] OR bacteriotherap*[tiab] OR lactobacill*[tiab] OR bifidobacter*[tiab] OR saccharomyces[tiab]) AND (\"Noncommunicable Diseases\"[Mesh] OR \"Arthritis, Rheumatoid\"[Mesh] OR \"Diabetes Mellitus\"[Mesh] OR \"Hypertension\"[Mesh] OR \"Cardiovascular Diseases\"[Mesh] OR \"Kidney Diseases\"[Mesh] OR \"Fatty Liver\"[Mesh] OR \"Metabolic Syndrome\"[Mesh] OR \"Polycystic Ovary Syndrome\"[Mesh] OR noncommunicable[tiab] OR \"non-communicable\"[tiab] OR \"chronic disease\"[tiab] OR \"chronic diseases\"[tiab] OR \"rheumatoid arthritis\"[tiab] OR diabetes[tiab] OR diabetic[tiab] OR hypertension[tiab] OR cardiovascular[tiab] OR \"chronic kidney disease\"[tiab] OR \"fatty liver\"[tiab] OR NAFLD[tiab] OR \"metabolic syndrome\"[tiab] OR \"polycystic ovary syndrome\"[tiab] OR PCOS[tiab]) AND (\"Oxidative Stress\"[Mesh] OR \"Inflammation\"[Mesh] OR \"Biomarkers\"[Mesh] OR \"oxidative stress\"[tiab] OR \"nitrosative stress\"[tiab] OR oxidant*[tiab] OR antioxidant*[tiab] OR inflammation[tiab] OR inflammatory[tiab] OR biomarker*[tiab] OR \"malondialdehyde\"[tiab] OR MDA[tiab] OR \"nitric oxide\"[tiab] OR \"total antioxidant capacity\"[tiab] OR TAC[tiab] OR glutathione[tiab] OR \"superoxide dismutase\"[tiab] OR SOD[tiab] OR \"C-reactive protein\"[tiab] OR CRP[tiab] OR \"erythrocyte sedimentation rate\"[tiab] OR ESR[tiab] OR \"tumor necrosis factor\"[tiab] OR TNF[tiab] OR interleukin*[tiab] OR IL-6[tiab])) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])",
+  "query_length": 1612,
+  "gold_count": 15,
+  "total_hits": 838,
+  "hit_gold_count": 7,
+  "recall": 0.4666666666666667,
+  "nnr": 119.71428571428571,
+  "f1": 0.0164126611957796,
+  "error_note": ""
+}

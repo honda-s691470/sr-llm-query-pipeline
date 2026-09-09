@@ -1,0 +1,32 @@
+{
+  "label": "run3_rerun",
+  "roots": [
+    {
+      "run_label": "run3_rerun",
+      "path": "public_release/revision_reruns/rule_extraction_sensitivity/raw_training_logs/run3/04_data"
+    }
+  ],
+  "n_logs": 11,
+  "n_records": 187,
+  "n_global_laws": 32,
+  "n_top_do": 12,
+  "n_top_avoid": 12,
+  "domains": [
+    "02_Cardiovascular_Disease",
+    "03_Psychiatry",
+    "05_Infectious_Diseases"
+  ],
+  "log_weights": {
+    "02_Cardiovascular_Disease/41522206_2026/search_history.jsonl": 1.0,
+    "02_Cardiovascular_Disease/41684373_2026/search_history.jsonl": 0.7777777777777778,
+    "02_Cardiovascular_Disease/41707176_2026/search_history.jsonl": 1.0,
+    "03_Psychiatry/40357797_2026/search_history.jsonl": 1.0,
+    "03_Psychiatry/41582468_2026/search_history.jsonl": 1.0,
+    "03_Psychiatry/41582599_2026/search_history.jsonl": 1.0,
+    "03_Psychiatry/41694153_2026/search_history.jsonl": 0.5555555555555556,
+    "05_Infectious_Diseases/41770456_2026/search_history.jsonl": 1.0,
+    "05_Infectious_Diseases/41781415_2026/search_history.jsonl": 0.7222222222222222,
+    "05_Infectious_Diseases/41789521_2026/search_history.jsonl": 1.0,
+    "05_Infectious_Diseases/41790564_2026/search_history.jsonl": 0.5555555555555556
+  }
+}

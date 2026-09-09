@@ -1,0 +1,1 @@
+("Coronary Artery Disease"[Mesh] OR "myocardial ischemia"[Mesh] OR "coronary artery disease"[tiab] OR "coronary heart disease"[tiab] OR "ischemic heart disease"[tiab]) AND ("Carnitine"[Mesh] OR "L-carnitine"[tiab] OR "carnitine"[tiab] OR "levocarnitine"[tiab])

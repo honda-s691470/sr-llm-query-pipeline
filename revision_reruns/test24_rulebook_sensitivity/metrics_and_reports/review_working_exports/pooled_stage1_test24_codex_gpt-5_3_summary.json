@@ -1,0 +1,18 @@
+﻿{
+  "source_csv": "public_release/05_test_data/_results\\eval_test_codex_gpt-5_5_20260825_090206.csv",
+  "output_csv": "paper/JMIR\\review\\test24_rulebook_sensitivity\\pooled_stage1_test24_codex_gpt-5_5.csv",
+  "run_summary_json": "public_release/03_hypothesis_accumlation_test/runs/20260825_090206/codex/run_summary.json",
+  "rulebook_path": "paper/JMIR/review/rule_extraction_sensitivity/refined_rulebooks/pooled_consensus_rulebook_refined.txt",
+  "n_papers": 24,
+  "completed": 24,
+  "mean_recall": 0.9002749371228473,
+  "median_recall": 0.9234892787524367,
+  "min_recall": 0.6153846153846154,
+  "max_recall": 1.0,
+  "mean_total_hits": 19388.375,
+  "median_total_hits": 1996.0,
+  "mean_nnr": 1183.895735183869,
+  "median_nnr": 159.38809523809525,
+  "recall_below_0_60": [],
+  "recall_at_or_below_0_60": []
+}

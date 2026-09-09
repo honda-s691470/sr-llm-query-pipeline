@@ -1,0 +1,11 @@
+﻿Comparison,Shared,Shared / smaller set
+Run1 vs Run2,13/19,0.684
+Run1 vs Run3,16/20,0.800
+Run1 vs Pooled,17/20,0.850
+Run2 vs Run3,16/19,0.842
+Run2 vs Pooled,17/19,0.895
+Run3 vs Pooled,18/22,0.818
+Definitions,,
+Shared,"Number of laws with an identical strict normalized key (META_ACTION + META_CONCEPT + Action_Operator + Target_Block + Target_Slot + Field_Policy) present in BOTH final refined rulebooks being compared, out of the size of the smaller of the two rulebooks. E.g. Run1 vs Run2 = 13/19 means the smaller rulebook has 19 laws and 13 of them also appear in the other rulebook.",
+Shared / smaller set,"Overlap coefficient (Szymkiewicz-Simpson coefficient) = Shared / min(|rulebook A|, |rulebook B|). Unlike Jaccard (which divides by the union size and is penalized when the two rulebooks differ in total size), this measures what fraction of the SMALLER rulebook's laws are also found in the larger one -- i.e. how much of the smaller set is 'contained' in the larger set.",
+Source,"public_release/revision_reruns/rule_extraction_sensitivity/reports/refined_rulebook_topn_similarity.csv, ALL/top_n=24 section (final refined rulebooks, after refinement).",

@@ -1,0 +1,31 @@
+{
+  "query": "(((\"transcranial random noise stimulation\"[tiab] OR tRNS[tiab] OR \"random noise stimulation\"[tiab]) AND (\"Mental Disorders\"[Mesh] OR psychiatric[tiab] OR psychiatry[tiab] OR depression[tiab] OR depressive[tiab] OR schizophrenia[tiab] OR psychosis[tiab] OR psychotic[tiab] OR anxiety[tiab] OR obsessive-compulsive[tiab] OR OCD[tiab] OR autism[tiab] OR autistic[tiab] OR ADHD[tiab] OR \"attention deficit\"[tiab] OR \"attention-deficit\"[tiab] OR addiction[tiab] OR substance[tiab] OR bipolar[tiab] OR \"eating disorder\"[tiab] OR anorexia[tiab] OR bulimia[tiab] OR PTSD[tiab] OR \"post-traumatic stress\"[tiab] OR Tourette[tiab] OR tic[tiab] OR tics[tiab] OR hallucination[tiab] OR hallucinations[tiab] OR delusion[tiab] OR delusions[tiab] OR suicid*[tiab] OR self-harm[tiab] OR \"personality disorder\"[tiab] OR borderline[tiab] OR \"negative symptoms\"[tiab] OR patients[tiab]))) AND ((english[lang] NOT (animals[mh] NOT humans[mh]) NOT review[pt] NOT \"systematic review\"[tiab] NOT meta-analysis[pt]))",
+  "total_hits": 102,
+  "recall": 1.0,
+  "found_count": 18,
+  "total_gold": 18,
+  "mode": "open",
+  "timestamp_unix": 1787406752,
+  "missed_pmids": [],
+  "found_pmids": [
+    "28681715",
+    "30826318",
+    "31899509",
+    "33086145",
+    "33096356",
+    "33561725",
+    "35966992",
+    "36294806",
+    "36359217",
+    "37528107",
+    "37963422",
+    "38146280",
+    "38157711",
+    "38556535",
+    "38610090",
+    "39915614",
+    "40032021",
+    "40678092"
+  ],
+  "missed_count": 0
+}

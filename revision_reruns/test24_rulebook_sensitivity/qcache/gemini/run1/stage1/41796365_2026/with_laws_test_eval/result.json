@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-21T07:21:32Z",
+  "domain_folder": "03_Psychiatry",
+  "paper_folder": "41796365_2026",
+  "provider": "gemini",
+  "model": "gemini-3.0-pro",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Hallucinogens\"[Mesh] OR hallucinogen*[tiab] OR \"Lysergic Acid Diethylamide\"[Mesh] OR LSD[tiab] OR \"Psilocybin\"[Mesh] OR psilocybin*[tiab] OR \"Mescaline\"[Mesh] OR mescaline[tiab] OR \"Dimethyltryptamine\"[Mesh] OR DMT[tiab] OR \"Phencyclidine\"[Mesh] OR PCP[tiab] OR \"magic mushrooms\"[tiab] OR salvia[tiab] OR ayahuasca[tiab] OR peyote[tiab]) AND (\"Psychotic Disorders\"[Mesh] OR \"Schizophrenia Spectrum and Other Psychotic Disorders\"[Mesh] OR \"Schizophrenia\"[Mesh] OR psychosis[tiab] OR psychotic[tiab] OR schizophrenia[tiab] OR schizoaffective[tiab] OR \"psychotic-like\"[tiab] OR \"unusual experiences\"[tiab] OR \"subthreshold psychotic\"[tiab] OR \"brief psychotic\"[tiab]) AND (\"Adolescent\"[Mesh] OR \"Child\"[Mesh] OR \"Pediatrics\"[Mesh] OR adolescent*[tiab] OR child*[tiab] OR youth*[tiab] OR teen*[tiab] OR pediatric*[tiab] OR \"early onset\"[tiab] OR minors[tiab])",
+  "query_length": 857,
+  "gold_count": 9,
+  "total_hits": 340,
+  "hit_gold_count": 6,
+  "recall": 0.6666666666666666,
+  "nnr": 56.666666666666664,
+  "f1": 0.034383954154727794,
+  "error_note": ""
+}

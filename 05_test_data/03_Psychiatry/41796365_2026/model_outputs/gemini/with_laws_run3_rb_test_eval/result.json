@@ -1,0 +1,10 @@
+{
+  "domain": "03_Psychiatry",
+  "paper_id": "41796365_2026",
+  "query": "(\"Adolescent\"[Mesh] OR \"Child\"[Mesh] OR adolescent*[tiab] OR child*[tiab] OR youth*[tiab] OR teen*[tiab]) AND (\"Hallucinogens\"[Mesh] OR hallucinogen*[tiab] OR LSD[tiab] OR psilocybin[tiab] OR MDMA[tiab] OR ecstasy[tiab] OR psychedelic*[tiab]) AND (\"Psychotic Disorders\"[Mesh] OR \"Schizophrenia\"[Mesh] OR psychosis[tiab] OR psychotic[tiab] OR \"psychotic-like\"[tiab] OR \"schizophrenia\"[tiab])",
+  "total_hits": 266,
+  "num_gold": 9,
+  "found_gold": 5,
+  "recall": 0.5556,
+  "nnr": 29.56
+}

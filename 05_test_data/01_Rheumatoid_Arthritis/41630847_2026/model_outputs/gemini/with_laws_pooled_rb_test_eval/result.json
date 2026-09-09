@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:00:19Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41630847_2026",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab]) AND (\"Stroke\"[Mesh] OR stroke*[tiab] OR \"cerebrovascular accident\"[tiab] OR \"brain infarction\"[tiab])",
+  "query_length": 165,
+  "gold_count": 12,
+  "total_hits": 1148,
+  "hit_gold_count": 12,
+  "recall": 1.0,
+  "nnr": 95.66666666666667,
+  "f1": 0.020689655172413796,
+  "error_note": ""
+}

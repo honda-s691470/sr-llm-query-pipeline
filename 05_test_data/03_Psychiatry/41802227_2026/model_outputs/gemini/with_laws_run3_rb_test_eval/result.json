@@ -1,0 +1,10 @@
+{
+  "domain": "03_Psychiatry",
+  "paper_id": "41802227_2026",
+  "query": "(\"Anxiety\"[Mesh] OR \"Anxiety Disorders\"[Mesh] OR anxiety[tiab]) AND (\"Wearable Electronic Devices\"[Mesh] OR \"wearable technology\"[tiab] OR wearable*[tiab] OR smartwatch*[tiab] OR \"smart watch*\"[tiab] OR \"fitness tracker*\"[tiab] OR \"wrist-worn\"[tiab] OR \"digital biomarker*\"[tiab])",
+  "total_hits": 925,
+  "num_gold": 38,
+  "found_gold": 14,
+  "recall": 0.3684,
+  "nnr": 24.34
+}

@@ -1,0 +1,1 @@
+(("Neoplasms"[Mesh] OR cancer*[tiab] OR neoplasm*[tiab]) AND ("Preoperative Exercise"[Mesh] OR prehabilitation[tiab] OR pre-habilitation[tiab]) AND ("Telemedicine"[Mesh] OR "digital"[tiab] OR "mobile"[tiab] OR tele*[tiab]) NOT "Clinical Trial Protocol"[pt]) NOT "Editorial"[pt] NOT "Published Erratum"[pt]

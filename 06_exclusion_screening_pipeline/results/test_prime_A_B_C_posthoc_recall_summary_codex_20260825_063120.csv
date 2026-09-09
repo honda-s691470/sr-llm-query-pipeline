@@ -1,0 +1,3 @@
+﻿domain,n,mean_raw_recall,mean_prime_recall,mean_stage_a_recall,mean_stage_b_recall,mean_stage_c_recall,mean_raw_hits,mean_prime_hits,mean_stage_a_hits,mean_stage_b_hits,mean_stage_c_k
+04_Oncology,1,1.0,1.0,1.0,1.0,1.0,606.0,598.0,566.0,564.0,564.0
+Overall,1,1.0,1.0,1.0,1.0,1.0,606.0,598.0,566.0,564.0,564.0

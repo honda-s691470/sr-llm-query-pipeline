@@ -1,0 +1,1 @@
+("Mpox"[Mesh] OR "Monkeypox"[Mesh] OR mpox[tiab] OR monkeypox[tiab] OR "Smallpox"[Mesh] OR smallpox[tiab]) AND ("Vaccines"[Mesh] OR vaccin*[tiab]) AND ("Pregnancy"[Mesh] OR "Child"[Mesh] OR pregnan*[tiab] OR child*[tiab] OR pediatric*[tiab]) ("Adult"[Mesh] OR "Middle Aged"[Mesh] OR "Aged"[Mesh])

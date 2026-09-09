@@ -1,0 +1,6 @@
+{
+  "codex": "gpt-5.3-codex",
+  "claude_opus": "claude-opus-4-5-20251001",
+  "gemini_run1": "gemini-3.0-pro",
+  "gemini_run2_run3_pooled": "gemini-3.1-pro-preview"
+}

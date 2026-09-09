@@ -1,0 +1,1 @@
+("Multiple Pulmonary Nodules"[Mesh] OR "Solitary Pulmonary Nodule"[Mesh] OR "pulmonary nodule*"[tiab] OR "lung nodule*"[tiab]) AND ("Incidental Findings"[Mesh] OR incidental*[tiab]) AND ("Neoplasms"[Mesh] OR malignan*[tiab] OR cancer*[tiab])

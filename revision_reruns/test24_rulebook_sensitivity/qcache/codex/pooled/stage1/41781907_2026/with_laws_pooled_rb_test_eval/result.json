@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:13:34Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41781907_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Breast Neoplasms\"[Mesh] OR \"breast cancer\"[tiab] OR \"breast cancers\"[tiab] OR \"breast carcinoma\"[tiab] OR \"breast carcinomas\"[tiab] OR \"mammary cancer\"[tiab] OR \"mammary carcinoma\"[tiab]) AND (\"Mutation, Germ-Line\"[Mesh] OR \"Genetic Variation\"[Mesh] OR \"Polymorphism, Genetic\"[Mesh] OR \"Polymorphism, Single Nucleotide\"[Mesh] OR \"Genotype\"[Mesh] OR \"Genes, BRCA1\"[Mesh] OR \"Genes, BRCA2\"[Mesh] OR germline[tiab] OR \"germ-line\"[tiab] OR inherited[tiab] OR hereditary[tiab] OR \"genetic variant\"[tiab] OR \"genetic variants\"[tiab] OR \"pathogenic variant\"[tiab] OR \"pathogenic variants\"[tiab] OR mutation*[tiab] OR polymorphism*[tiab] OR SNP[tiab] OR SNPs[tiab] OR genotype*[tiab] OR allele*[tiab] OR BRCA1[tiab] OR BRCA2[tiab]) AND (\"Prognosis\"[Mesh] OR \"Survival Analysis\"[Mesh] OR \"Disease-Free Survival\"[Mesh] OR prognos*[tiab] OR survival[tiab] OR recurrence[tiab] OR \"disease-free survival\"[tiab] OR \"overall survival\"[tiab] OR \"breast cancer-specific survival\"[tiab] OR \"breast cancer specific survival\"[tiab] OR \"progression-free survival\"[tiab] OR \"metastasis-free survival\"[tiab] OR DFS[tiab] OR OS[tiab] OR BCSS[tiab] OR PFS[tiab] OR MFS[tiab] OR \"hazard ratio\"[tiab] OR \"Cox regression\"[tiab]) AND (\"2000/01/01\"[dp] : \"2024/06/30\"[dp])",
+  "query_length": 1244,
+  "gold_count": 54,
+  "total_hits": 13016,
+  "hit_gold_count": 53,
+  "recall": 0.9814814814814815,
+  "nnr": 245.58490566037736,
+  "f1": 0.00811017597551645,
+  "error_note": ""
+}

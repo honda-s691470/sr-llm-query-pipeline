@@ -1,0 +1,1 @@
+("Lymphoma, Non-Hodgkin"[Mesh] OR "non-Hodgkin lymphoma"[tiab] OR "non-Hodgkin's lymphoma"[tiab] OR "non-Hodgkin"[tiab] OR "non-Hodgkins"[tiab] OR NHL[tiab]) AND ("Cancer Survivors"[Mesh] OR "Survivors"[Mesh] OR survivor*[tiab] OR survivorship[tiab] OR "Quality of Life"[Mesh] OR "quality of life"[tiab] OR QoL[tiab]) NOT "Clinical Trial Protocol"[pt]

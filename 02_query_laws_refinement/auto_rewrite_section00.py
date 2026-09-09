@@ -6,6 +6,8 @@ import os
 import re
 import subprocess
 import sys
+import urllib.error
+import urllib.request
 from pathlib import Path
 
 
@@ -110,6 +112,63 @@ def write_failure_log(path: Path, *, command: list[str], timed_out: bool, return
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
+
+def load_dotenv_map(dotenv_path: Path) -> dict[str, str]:
+    loaded: dict[str, str] = {}
+    if not dotenv_path.exists():
+        return loaded
+    for raw_line in dotenv_path.read_text(encoding="utf-8", errors="ignore").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        loaded[key.strip()] = value.strip().strip('"').strip("'")
+    return loaded
+
+
+def load_openai_api_key(bundle_root: Path) -> str:
+    if os.environ.get("OPENAI_API_KEY"):
+        return os.environ["OPENAI_API_KEY"]
+    for dotenv_path in (bundle_root / ".env", bundle_root.parent / ".env"):
+        loaded = load_dotenv_map(dotenv_path)
+        if loaded.get("OPENAI_API_KEY"):
+            return loaded["OPENAI_API_KEY"]
+    return ""
+
+
+def extract_openai_response_text(payload: dict[str, object]) -> str:
+    texts: list[str] = []
+    for item in payload.get("output", []) or []:
+        if not isinstance(item, dict):
+            continue
+        for content in item.get("content", []) or []:
+            if isinstance(content, dict) and content.get("type") in {"output_text", "text"}:
+                texts.append(str(content.get("text", "")))
+    if texts:
+        return "\n".join(texts)
+    return str(payload.get("output_text", ""))
+
+
+def run_openai_responses_api(prompt_text: str, *, model: str, bundle_root: Path, max_output_tokens: int = 8096) -> str:
+    api_key = load_openai_api_key(bundle_root)
+    if not api_key:
+        raise RuntimeError("OPENAI_API_KEY was not found for Codex API fallback.")
+    body = json.dumps({"model": model, "input": prompt_text, "max_output_tokens": max_output_tokens}).encode("utf-8")
+    request = urllib.request.Request(
+        "https://api.openai.com/v1/responses",
+        data=body,
+        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=300) as response:
+            payload = json.loads(response.read().decode("utf-8"))
+            return extract_openai_response_text(payload)
+    except urllib.error.HTTPError as exc:
+        detail = exc.read().decode("utf-8", errors="replace")[:2000]
+        raise RuntimeError(f"OpenAI Responses API fallback failed ({exc.code}): {detail}") from exc
+
+
 def extract_rewrite_block(text: str, begin_marker: str = BEGIN_MARKER, end_marker: str = END_MARKER) -> str | None:
     """Extract text between begin/end markers. Returns None if not found (optional blocks)."""
     pattern = re.compile(
@@ -142,6 +201,11 @@ def main() -> None:
     ap.add_argument("--low-recall-threshold", type=float, default=0.60)
     ap.add_argument("--delta-threshold", type=float, default=0.05)
     ap.add_argument("--codex-timeout-seconds", type=int, default=900)
+    ap.add_argument(
+        "--no-codex-api-fallback",
+        action="store_true",
+        help="Disable OpenAI Responses API fallback when Codex CLI fails.",
+    )
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
@@ -216,7 +280,6 @@ def main() -> None:
         input_text=prompt_text,
     )
     raw_output = (codex_proc.stdout or "") + ("\n" + codex_proc.stderr if codex_proc.stderr else "")
-    raw_output_path.write_text(raw_output, encoding="utf-8")
     if codex_timed_out or codex_proc.returncode != 0:
         write_failure_log(
             failure_log_path,
@@ -226,15 +289,24 @@ def main() -> None:
             stdout=codex_proc.stdout or "",
             stderr=codex_proc.stderr or "",
         )
-        if codex_timed_out:
+        if args.no_codex_api_fallback:
+            raw_output_path.write_text(raw_output, encoding="utf-8")
+            if codex_timed_out:
+                raise RuntimeError(
+                    "Codex rewrite timed out. "
+                    f"See: {raw_output_path} and {failure_log_path}"
+                )
             raise RuntimeError(
-                "Codex rewrite timed out. "
+                "Codex rewrite failed. "
                 f"See: {raw_output_path} and {failure_log_path}"
             )
-        raise RuntimeError(
-            "Codex rewrite failed. "
-            f"See: {raw_output_path} and {failure_log_path}"
+        raw_output = run_openai_responses_api(prompt_text, model=args.codex_model, bundle_root=bundle_root)
+        (run_logs_dir / f"section00_rewrite_api_fallback_{stem}.log").write_text(
+            f"codex_cli_returncode={codex_proc.returncode}\ncodex_cli_timed_out={codex_timed_out}\nmodel={args.codex_model}\n",
+            encoding="utf-8",
         )
+
+    raw_output_path.write_text(raw_output, encoding="utf-8")
 
     # Apply each rewritable block found in the LLM output
     applied_targets = []

@@ -1,0 +1,25 @@
+﻿{
+  "query": "(\"Hallucinogens\"[Mesh] OR hallucinogen*[tiab] OR psychedelic*[tiab] OR LSD[tiab] OR psilocybin[tiab] OR \"psilocin\"[tiab] OR MDMA[tiab] OR ketamine[tiab] OR phencyclidine[tiab] OR DMT[tiab] OR \"magic mushroom\"[tiab]) AND (\"Psychotic Disorders\"[Mesh] OR psychosis[tiab] OR psychotic[tiab] OR \"schizophrenia\"[tiab] OR \"early onset psychosis\"[tiab] OR EOP[tiab] OR \"psychotic-like\"[tiab]) AND (\"Adolescent\"[Mesh] OR adolescent*[tiab] OR \"Child\"[Mesh] OR child*[tiab] OR pediatric*[tiab] OR youth[tiab] OR teenager*[tiab])",
+  "query_path": "05_test_data/03_Psychiatry\\41796365_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data/03_Psychiatry\\41796365_2026\\input_config_detailed.json",
+  "total_hits": 369,
+  "recall": 0.6666666666666666,
+  "found_count": 6,
+  "total_gold": 9,
+  "mode": "open",
+  "timestamp_unix": 1781083231,
+  "missed_pmids": [
+    "20435448",
+    "27038079",
+    "38566305"
+  ],
+  "found_pmids": [
+    "17201620",
+    "19427172",
+    "21054283",
+    "38477889",
+    "39535804",
+    "755380"
+  ],
+  "missed_count": 3
+}

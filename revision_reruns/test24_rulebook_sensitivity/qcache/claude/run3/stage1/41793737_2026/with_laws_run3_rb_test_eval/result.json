@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-24T21:09:39Z",
+  "domain_folder": "05_Infectious_Diseases",
+  "paper_folder": "41793737_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_run3_rb_test_eval",
+  "status": "completed",
+  "query": "(\"Guided Tissue Regeneration\"[Mesh] OR \"guided bone regeneration\"[tiab] OR GBR[tiab] OR \"bone regeneration\"[tiab]) AND (\"Membranes, Artificial\"[Mesh] OR membrane*[tiab] OR \"resorbable membrane\"[tiab] OR \"non-resorbable membrane\"[tiab] OR \"nonresorbable membrane\"[tiab] OR \"biodegradable membrane\"[tiab] OR \"collagen membrane\"[tiab] OR \"PTFE membrane\"[tiab] OR \"titanium mesh\"[tiab] OR \"barrier membrane\"[tiab]) AND (english[la] OR spanish[la])",
+  "query_length": 443,
+  "gold_count": 25,
+  "total_hits": 5650,
+  "hit_gold_count": 24,
+  "recall": 0.96,
+  "nnr": 235.41666666666666,
+  "f1": 0.008458149779735684,
+  "error_note": ""
+}

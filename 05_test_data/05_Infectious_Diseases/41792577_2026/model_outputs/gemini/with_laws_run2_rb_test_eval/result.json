@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-24T21:58:55Z",
+  "domain_folder": "05_Infectious_Diseases",
+  "paper_folder": "41792577_2026",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
+  "condition": "with_laws_run2_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Pregnancy\"[Mesh] OR \"Pregnant Women\"[Mesh] OR \"Child\"[Mesh] OR \"Adolescent\"[Mesh] OR \"Infant\"[Mesh] OR pregnan*[tiab] OR child*[tiab] OR adolescent*[tiab] OR pediatric*[tiab] OR paediatric*[tiab] OR maternal[tiab]) AND (\"Smallpox Vaccine\"[Mesh] OR \"Vaccinia virus\"[Mesh] OR \"Vaccination\"[Mesh] OR \"mpox vaccine\"[tiab] OR \"monkeypox vaccine\"[tiab] OR \"smallpox vaccine\"[tiab] OR \"vaccinia vaccine\"[tiab] OR \"vaccinia-based\"[tiab] OR vaccinia[tiab] OR mpox[tiab] OR monkeypox[tiab] OR smallpox[tiab])",
+  "query_length": 500,
+  "gold_count": 26,
+  "total_hits": 47959,
+  "hit_gold_count": 16,
+  "recall": 0.6153846153846154,
+  "nnr": 2997.4375,
+  "f1": 0.000666875065124518,
+  "error_note": ""
+}

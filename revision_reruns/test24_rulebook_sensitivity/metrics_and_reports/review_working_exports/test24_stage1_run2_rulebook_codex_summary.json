@@ -1,0 +1,38 @@
+﻿{
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "rulebook_label": "run2_rb",
+  "rulebook_path": "paper/JMIR/review/rule_extraction_sensitivity/refined_rulebooks/run2_rulebook_refined.txt",
+  "output_condition": "with_laws_run2_rb_test_eval",
+  "n_total": 24,
+  "n_completed": 24,
+  "n_failed": 0,
+  "recall": {
+    "mean": 0.8573878749843017,
+    "median": 0.9188596491228069,
+    "min": 0.5,
+    "max": 1.0
+  },
+  "total_hits": {
+    "mean": 20512.666666666668,
+    "median": 2224.5,
+    "min": 75.0,
+    "max": 156528.0
+  },
+  "nnr": {
+    "mean": 1060.8131875138656,
+    "median": 216.54716981132077,
+    "min": 5.0,
+    "max": 9783.0
+  },
+  "f1": {
+    "mean": 0.04069584654507882,
+    "median": 0.0092182261955729,
+    "min": 0.00020440231485621574,
+    "max": 0.32967032967032966
+  },
+  "n_recall_lt_0_60": 2,
+  "n_recall_le_0_60": 3,
+  "source_summary_csv": "public_release/05_test_data/_results\\eval_test_codex_gpt-5_5_20260824_110812.csv",
+  "run_summary_json": "public_release/03_hypothesis_accumlation_test/runs/20260824_110812/codex/run_summary.json"
+}

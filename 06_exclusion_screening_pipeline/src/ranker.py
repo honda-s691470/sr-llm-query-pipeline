@@ -161,38 +161,43 @@ class MedCPTDenseRanker:
     def available(self) -> bool:
         return self.q_model is not None and self.a_model is not None and self._torch is not None
 
-    def _encode_with(self, texts: list[str], tokenizer, model) -> list[list[float]]:
-        if not self.available():
-            return [[0.0] for _ in texts]
+    def _encode_with(self, texts: list[str], tokenizer, model) -> np.ndarray:
+        import numpy as np
+        if not self.available() or not texts:
+            return np.zeros((len(texts), 768), dtype=np.float32)
 
-        out: list[list[float]] = []
+        out: list[np.ndarray] = []
         torch = self._torch
-        bs = 32
-        for i in range(0, len(texts), bs):
-            batch = texts[i:i + bs]
-            inputs = tokenizer(
-                batch,
-                padding=True,
-                truncation=True,
-                max_length=512,
-                return_tensors="pt",
-            )
-            inputs = {k: v.to(self.device) for k, v in inputs.items()}
-            with torch.no_grad():
+        bs = 16
+        total = len(texts)
+        with torch.inference_mode():
+            for i in range(0, total, bs):
+                batch = texts[i:i + bs]
+                inputs = tokenizer(
+                    batch,
+                    padding=True,
+                    truncation=True,
+                    max_length=512,
+                    return_tensors="pt",
+                )
+                inputs = {k: v.to(self.device) for k, v in inputs.items()}
                 h = model(**inputs).last_hidden_state
                 mask = inputs["attention_mask"].unsqueeze(-1)
                 summed = (h * mask).sum(dim=1)
                 counts = mask.sum(dim=1).clamp(min=1)
                 emb = summed / counts
                 emb = torch.nn.functional.normalize(emb, p=2, dim=1)
-            out.extend(emb.cpu().tolist())
-        return out
+                out.append(emb.cpu().numpy().astype(np.float32))
+                if (i + bs) % 800 < bs or (i + bs) >= total:
+                    logger.info("    MedCPT encoded %d / %d docs", min(i + bs, total), total)
+        return np.vstack(out) if out else np.zeros((0, 768), dtype=np.float32)
 
-    def encode_query(self, texts: list[str]) -> list[list[float]]:
+    def encode_query(self, texts: list[str]) -> np.ndarray:
         return self._encode_with(texts, self.q_tokenizer, self.q_model)
 
-    def encode_docs(self, texts: list[str]) -> list[list[float]]:
+    def encode_docs(self, texts: list[str]) -> np.ndarray:
         return self._encode_with(texts, self.a_tokenizer, self.a_model)
+
 
 
 # ─────────────────────────────────────────────
@@ -444,15 +449,19 @@ class HybridRanker:
 
         # Dense
         if self.dense.available():
+            import numpy as np
             if self.dense_backend == "medcpt":
                 query_vec = self.dense.encode_query([query_text])[0]
                 corpus_vecs = self.dense.encode_docs(corpus)
+                dense_scores = (corpus_vecs @ query_vec).tolist()
             else:
-                query_vec = self.dense.encode([query_text])[0]
-                corpus_vecs = self.dense.encode(corpus)
-            dense_scores = [_cosine(query_vec, cv) for cv in corpus_vecs]
+                query_vec = np.array(self.dense.encode([query_text])[0], dtype=np.float32)
+                corpus_vecs = np.array(self.dense.encode(corpus), dtype=np.float32)
+                dense_scores = [_cosine(query_vec.tolist(), cv) for cv in corpus_vecs.tolist()]
         else:
             dense_scores = [0.0] * len(records)
+            corpus_vecs = None
+
 
         # Hybrid
         alpha = self.alpha

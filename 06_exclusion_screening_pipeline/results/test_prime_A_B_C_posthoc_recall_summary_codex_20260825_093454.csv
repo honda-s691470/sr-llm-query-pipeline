@@ -1,0 +1,3 @@
+﻿domain,n,mean_raw_recall,mean_prime_recall,mean_stage_a_recall,mean_stage_b_recall,mean_stage_c_recall,mean_raw_hits,mean_prime_hits,mean_stage_a_hits,mean_stage_b_hits,mean_stage_c_k
+01_Rheumatoid_Arthritis,1,0.9615,0.9615,NA,NA,NA,43215.0,12877.0,NA,0.0,0.0
+Overall,1,0.9615,0.9615,NA,NA,NA,43215.0,12877.0,NA,0.0,0.0

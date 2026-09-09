@@ -1,0 +1,3 @@
+FULL_QUERY: (("Arthritis, Rheumatoid"[Mesh] OR "rheumatoid arthritis"[tiab] OR RA[tiab]) AND ("Telemedicine"[Mesh] OR telemedicine[tiab] OR telehealth[tiab] OR "Mobile Applications"[Mesh] OR "mobile health"[tiab] OR mHealth[tiab] OR eHealth[tiab] OR "smart health*"[tiab] OR "digital health"[tiab] OR "remote monitoring"[tiab] OR teleconsultation[tiab])) AND ("Randomized Controlled Trial"[pt] OR "Controlled Clinical Trial"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])
+
+[subagent self-check notes: STUDY_FILTER=INCLUDE (RCTs only per PICOS framework, other designs implicitly excluded). Smart-healthcare/telemedicine treated as CORE INTERVENTION (the intervention itself, not merely a delivery-mode modifier of a drug). AND block count = 3.]

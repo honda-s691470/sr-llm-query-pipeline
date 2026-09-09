@@ -1,7 +1,7 @@
-{
+﻿{
   "query": "(\"Mpox\"[Mesh] OR \"Monkeypox\"[Mesh] OR \"Smallpox Vaccines\"[Mesh] OR mpox[tiab] OR monkeypox[tiab] OR \"smallpox vaccine\"[tiab] OR \"vaccinia vaccine\"[tiab] OR vaccinia[tiab] OR JYNNEOS[tiab] OR ACAM2000[tiab] OR \"smallpox vaccination\"[tiab]) AND (\"Pregnancy\"[Mesh] OR pregnant[tiab] OR pregnancy[tiab] OR \"Child\"[Mesh] OR child*[tiab] OR pediatric*[tiab] OR adolescent*[tiab] OR \"Adolescent\"[Mesh] OR neonatal[tiab] OR newborn[tiab])",
-  "query_path": "05_test_data\\05_Infectious_Diseases\\41792577_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
-  "input_config_path": "05_test_data\\05_Infectious_Diseases\\41792577_2026\\input_config_detailed.json",
+  "query_path": "05_test_data/05_Infectious_Diseases\\41792577_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data/05_Infectious_Diseases\\41792577_2026\\input_config_detailed.json",
   "total_hits": 2059,
   "recall": 0.5769230769230769,
   "found_count": 15,

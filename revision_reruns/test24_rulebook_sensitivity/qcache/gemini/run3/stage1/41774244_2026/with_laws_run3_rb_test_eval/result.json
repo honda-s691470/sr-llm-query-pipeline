@@ -1,0 +1,10 @@
+{
+  "domain": "04_Oncology",
+  "paper_id": "41774244_2026",
+  "query": "(\"Lymphoma, Non-Hodgkin\"[Mesh] OR \"non-Hodgkin lymphoma\"[tiab] OR \"non-Hodgkin\"[tiab] OR \"NHL\"[tiab]) AND (\"Quality of Life\"[Mesh] OR \"Survivors\"[Mesh] OR \"quality of life\"[tiab] OR QoL[tiab] OR survivor*[tiab] OR survivorship[tiab]) AND 2014/01/01:2025/12/31[dp]",
+  "total_hits": 1161,
+  "num_gold": 19,
+  "found_gold": 19,
+  "recall": 1.0,
+  "nnr": 61.11
+}

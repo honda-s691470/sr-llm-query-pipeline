@@ -1,0 +1,10 @@
+{
+  "domain": "01_Rheumatoid_Arthritis",
+  "paper_id": "40815363_2025",
+  "query": "(\"Probiotics\"[Mesh] OR probiotic*[tiab] OR \"Bacteriotherapy\"[Mesh] OR bacteriotherapy[tiab]) AND (\"Oxidative Stress\"[Mesh] OR \"oxidative stress\"[tiab] OR \"Inflammation\"[Mesh] OR inflammation[tiab] OR \"nitrosative stress\"[tiab]) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])",
+  "total_hits": 1756,
+  "num_gold": 15,
+  "found_gold": 13,
+  "recall": 0.8667,
+  "nnr": 117.07
+}

@@ -1,0 +1,1 @@
+("Lymphoma, Non-Hodgkin"[Mesh] OR "non-Hodgkin lymphoma"[tiab] OR "non-Hodgkin's lymphoma"[tiab] OR "non Hodgkin lymphoma"[tiab] OR NHL[tiab]) AND ("Quality of Life"[Mesh] OR "quality of life"[tiab] OR QoL[tiab] OR HRQoL[tiab] OR "health-related quality of life"[tiab]) AND English[lang] AND ("2014/01/01"[dp] : "2025/12/31"[dp])

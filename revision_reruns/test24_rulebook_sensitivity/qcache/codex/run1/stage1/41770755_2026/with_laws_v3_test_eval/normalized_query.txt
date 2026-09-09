@@ -1,0 +1,1 @@
+("Neoplasms"[Mesh] OR cancer*[tiab] OR oncol*[tiab] OR tumor*[tiab] OR tumour*[tiab] OR malignancy[tiab]) AND (prehabilitation[tiab] OR "pre-rehabilitation"[tiab] OR "prehabiliation"[tiab]) AND ("Telemedicine"[Mesh] OR digital*[tiab] OR telehealth[tiab] OR mHealth[tiab] OR "mobile health"[tiab] OR wearable*[tiab] OR "online"[tiab] OR eHealth[tiab])

@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-24T21:08:57Z",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41708995_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_run3_rb_test_eval",
+  "status": "completed",
+  "query": "(\"Stroke\"[Mesh] OR \"Brain Ischemia\"[Mesh] OR stroke[tiab] OR \"ischemic stroke\"[tiab] OR \"ischaemic stroke\"[tiab] OR \"stroke mimic*\"[tiab]) AND (\"Biomarkers\"[Mesh] OR biomarker*[tiab] OR \"fluid biomarker*\"[tiab] OR protein*[tiab] OR metabolite*[tiab] OR \"nucleic acid*\"[tiab] OR microRNA[tiab] OR miRNA[tiab])",
+  "query_length": 308,
+  "gold_count": 27,
+  "total_hits": 52459,
+  "hit_gold_count": 23,
+  "recall": 0.8518518518518519,
+  "nnr": 2280.8260869565215,
+  "f1": 0.0008764241893076249,
+  "error_note": ""
+}

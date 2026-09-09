@@ -1,0 +1,20 @@
+﻿{
+  "saved_at_utc": "2026-08-24T21:22:24.797978+00:00",
+  "dataset_split": "test",
+  "domain": "04_Oncology",
+  "paper_id": "41781907_2026",
+  "provider": "gemini",
+  "stage": "B",
+  "condition": "with_laws_stageB",
+  "source_condition": "with_laws_stageA",
+  "query_type": "pubmed_boolean",
+  "query_length": 219,
+  "query_sha256": "19b6b763a960612d7a40eb69e9bf096e464f92f5aa5687f3a152c8c78fb61c93",
+  "query_path": "public_release/05_test_data/04_Oncology\\41781907_2026\\model_outputs\\gemini\\with_laws_stageB\\normalized_query.txt",
+  "extra": {
+    "stage_b_total_hits": 8268,
+    "stage_b_input_n": 8500,
+    "stage_b_excluded_n": 232,
+    "stage_b_capped_top9999": false
+  }
+}

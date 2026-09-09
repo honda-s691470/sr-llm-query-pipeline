@@ -1,0 +1,1 @@
+(("Psychotic Disorders"[Mesh] OR "Schizophrenia"[Mesh] OR psychosis[tiab] OR psychotic[tiab] OR schizophrenia[tiab]) AND ("Hallucinogens"[Mesh] OR hallucinogen*[tiab] OR psychedelic*[tiab]) AND ("Adolescent"[Mesh] OR adolescent*[tiab] OR youth*[tiab] OR teen*[tiab]) NOT "Case Reports"[pt]) NOT "Case Reports"[pt] NOT "Published Erratum"[pt]

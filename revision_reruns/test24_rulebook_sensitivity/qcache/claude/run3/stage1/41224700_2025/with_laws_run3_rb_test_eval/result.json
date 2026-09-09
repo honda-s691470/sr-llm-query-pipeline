@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-24T21:08:45Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41224700_2025",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_run3_rb_test_eval",
+  "status": "completed",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR RA[tiab]) AND (\"Contraceptives, Oral\"[Mesh] OR \"oral contraceptive*\"[tiab] OR \"oral contraception\"[tiab] OR \"birth control pill*\"[tiab] OR OCP[tiab])",
+  "query_length": 215,
+  "gold_count": 12,
+  "total_hits": 301,
+  "hit_gold_count": 10,
+  "recall": 0.8333333333333334,
+  "nnr": 30.1,
+  "f1": 0.06389776357827476,
+  "error_note": ""
+}

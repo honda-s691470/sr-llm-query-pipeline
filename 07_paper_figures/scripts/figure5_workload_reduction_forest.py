@@ -1,4 +1,4 @@
-"""Figure 5: Relative screening workload forest plot — human query = 1.00 baseline."""
+﻿"""Figure 5: Relative screening workload forest plot —human query = 1.00 baseline."""
 
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
@@ -25,7 +25,23 @@ _RAW = [
     ("Elicit Keyword all",       0.745, 0.296, 0.891, 0.209, "#C9B8D8", True),
 ]
 
-# Transform: workload = 1 - R_search; CI reverses (lo ↔ hi)
+# Replace manuscript display values with values recomputed from the public Test24 CSV.
+# Run reproduce_stage2_statistics.py first.
+_stats_path = _SCRIPT_DIR.parent / "data" / "test24_eval" / "reproduced_stage2_statistics.csv"
+if not _stats_path.exists():
+    raise FileNotFoundError("Run reproduce_stage2_statistics.py before generating Figure 5")
+_stats = {row["method"]: row for row in __import__("csv").DictReader(_stats_path.open(encoding="utf-8-sig"))}
+_recomputed = []
+for label, _, _, _, recall, color, low_recall in _RAW:
+    key = label.replace("\n", " ")
+    if key == "Human query":
+        values = (0.0, 0.0, 0.0)
+    else:
+        row = _stats[key]
+        values = tuple(float(row[col]) for col in ("r_search", "r_search_ci_low", "r_search_ci_high"))
+    _recomputed.append((label, *values, recall, color, low_recall))
+_RAW = _recomputed
+# Transform: workload = 1 - R_search; CI reverses (lo →hi)
 METHODS = [
     (label, 1 - mean, 1 - ci_hi, 1 - ci_lo, recall, color, low_recall)
     for label, mean, ci_lo, ci_hi, recall, color, low_recall in _RAW
@@ -117,3 +133,5 @@ fig.text(0.54, -0.02,
 out = OUT_DIR / "figure5_workload_reduction_forest.png"
 fig.savefig(out, dpi=300, bbox_inches="tight")
 print(f"Saved: {out}")
+
+

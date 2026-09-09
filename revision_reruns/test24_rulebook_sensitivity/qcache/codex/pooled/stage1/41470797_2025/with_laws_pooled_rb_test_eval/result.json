@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:04:10Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41470797_2025",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Arthritis, Rheumatoid\"[Mesh] OR \"Arthritis, Experimental\"[Mesh] OR \"Arthritis\"[Mesh] OR \"Inflammation\"[Mesh] OR \"Oxidative Stress\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR arthritis[tiab] OR inflammatory[tiab] OR inflammation[tiab] OR \"oxidative stress\"[tiab] OR \"fibroblast-like synoviocyte*\"[tiab] OR synoviocyte*[tiab] OR \"NF-kappaB\"[tiab] OR \"NF-kB\"[tiab] OR \"JAK/STAT\"[tiab] OR Nrf2[tiab] OR RANKL[tiab] OR OPG[tiab]) AND (\"Ilex paraguariensis\"[tiab] OR \"yerba mate\"[tiab] OR \"erva mate\"[tiab] OR \"mate tea\"[tiab] OR \"maté tea\"[tiab] OR \"Ilex\"[Mesh] OR \"Plant Extracts\"[Mesh] OR phytochemical*[tiab] OR polyphenol*[tiab] OR \"Chlorogenic Acid\"[Mesh] OR \"chlorogenic acid\"[tiab] OR \"chlorogenic acids\"[tiab] OR caffeoylquinic[tiab] OR \"caffeoylquinic acid\"[tiab] OR \"caffeoylquinic acids\"[tiab] OR quercetin[tiab] OR \"Quercetin\"[Mesh] OR rutin[tiab] OR \"Rutin\"[Mesh]))",
+  "query_length": 874,
+  "gold_count": 21,
+  "total_hits": 88313,
+  "hit_gold_count": 20,
+  "recall": 0.9523809523809523,
+  "nnr": 4415.65,
+  "f1": 0.0004528267711187085,
+  "error_note": ""
+}

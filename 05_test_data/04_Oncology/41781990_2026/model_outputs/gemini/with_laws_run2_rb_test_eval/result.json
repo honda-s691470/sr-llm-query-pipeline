@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-24T21:58:47Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41781990_2026",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
+  "condition": "with_laws_run2_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Stomach Neoplasms\"[Mesh] OR \"Colorectal Neoplasms\"[Mesh] OR \"gastric cancer\"[tiab] OR \"stomach cancer\"[tiab] OR \"colorectal cancer\"[tiab] OR \"colon cancer\"[tiab] OR \"rectal cancer\"[tiab] OR \"gastrointestinal cancer\"[tiab] OR \"gastrointestinal malignancies\"[tiab]) AND (\"Hyperthermic Intraperitoneal Chemotherapy\"[Mesh] OR HIPEC[tiab] OR \"hyperthermic intraperitoneal chemotherapy\"[tiab] OR \"hyperthermic intraperitoneal perfusion\"[tiab]) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])",
+  "query_length": 585,
+  "gold_count": 10,
+  "total_hits": 307,
+  "hit_gold_count": 9,
+  "recall": 0.9,
+  "nnr": 34.111111111111114,
+  "f1": 0.05678233438485804,
+  "error_note": ""
+}

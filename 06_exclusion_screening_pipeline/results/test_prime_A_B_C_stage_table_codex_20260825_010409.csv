@@ -1,0 +1,2 @@
+﻿domain,paper_id,raw_total_hits,raw_recall,prime_total_hits,prime_recall,stage_a_total_hits,stage_a_recall,stage_b_total_hits,stage_b_recall,stage_c_k_used,stage_c_recall,stage_c_alpha,prime_gate_ok_for_stage_a
+04_Oncology,41781907_2026,12248,0.9815,9998,0.9815,9992,0.9815,9896,0.9815,2969,0.7778,,True

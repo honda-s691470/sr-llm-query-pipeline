@@ -1,0 +1,1 @@
+("rheumatoid arthritis"[tiab]) AND ("Analgesics"[Mesh] OR "Analgesics"[Pharm Action] OR "pain management"[tiab] OR pain[ti] OR "Analgesics, Opioid"[Mesh] OR "analgesic* opioid*"[tiab:~3] OR "Anti-Inflammatory Agents, Non-Steroidal"[Mesh] OR NSAID*[tiab]) NOT "Case Reports"[pt] NOT (animals[mh] NOT humans[mh]) NOT "Letter"[pt] NOT "Editorial"[pt] NOT "Comment"[pt]

@@ -1,0 +1,1 @@
+FULL_QUERY: ("Solitary Pulmonary Nodule"[Mesh] OR "Multiple Pulmonary Nodules"[Mesh] OR "solitary pulmonary nodule*"[tiab] OR "incidental pulmonary nodule*"[tiab] OR "pulmonary nodule*"[tiab] OR "lung nodule*"[tiab]) AND ("Neoplasms"[Mesh] OR "Lung Neoplasms"[Mesh] OR malignan*[tiab] OR cancer*[tiab] OR "risk factor*"[tiab] OR incidental*[tiab])

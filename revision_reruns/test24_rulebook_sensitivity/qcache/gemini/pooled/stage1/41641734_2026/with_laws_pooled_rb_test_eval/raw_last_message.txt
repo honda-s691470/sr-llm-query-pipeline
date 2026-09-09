@@ -1,0 +1,1 @@
+FULL_QUERY: ("Solitary Pulmonary Nodule"[Mesh] OR "solitary pulmonary nodule"[tiab] OR "solitary pulmonary nodules"[tiab] OR "pulmonary nodule"[tiab] OR "pulmonary nodules"[tiab] OR "lung nodule"[tiab] OR "lung nodules"[tiab] OR "incidentaloma"[tiab] OR "incidentalomas"[tiab])

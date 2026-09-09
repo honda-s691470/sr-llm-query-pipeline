@@ -1,0 +1,3 @@
+FULL_QUERY: (("Coronary Artery Disease"[Mesh] OR "coronary artery disease"[tiab] OR "coronary heart disease"[tiab] OR CAD[tiab] OR "ischemic heart disease"[tiab] OR "myocardial infarction"[tiab]) AND ("Carnitine"[Mesh] OR carnitine[tiab] OR "L-carnitine"[tiab] OR levocarnitine[tiab]))
+
+[subagent self-check notes: STUDY_FILTER=OMIT (inclusion lists >=2 design types: preclinical/case reports/cross-sectional/observational/retrospective/RCT/SR/MA). AND blocks=2 (CONDITION=coronary artery disease, INTERVENTION=L-carnitine). English-only restriction originates in EXCLUSION criteria (with translation exception), so per DATE_LANGUAGE_GUARD-style reasoning it is left for screening rather than encoded as a mandatory [la] filter.]

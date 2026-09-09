@@ -1,0 +1,17 @@
+{
+  "query": "(((\"body dysmorphic disorder\"[MeSH Terms] OR \"body dysmorphic disorder\"[tiab] OR \"body dysmorphia\"[tiab] OR dysmorphophobia[tiab]) AND (\"neuroimaging\"[tiab] OR \"brain imaging\"[tiab] OR \"magnetic resonance imaging\"[MeSH Terms] OR \"magnetic resonance imaging\"[tiab] OR MRI[tiab] OR fMRI[tiab] OR \"functional MRI\"[tiab] OR \"functional magnetic resonance imaging\"[tiab] OR \"positron-emission tomography\"[MeSH Terms] OR \"positron emission tomography\"[tiab] OR PET[tiab] OR \"single-photon emission-computed tomography\"[MeSH Terms] OR SPECT[tiab] OR \"magnetic resonance spectroscopy\"[tiab] OR spectroscopy[tiab] OR neurochemical*[tiab] OR neurochemistry[tiab] OR \"brain activation\"[tiab] OR \"neural activation\"[tiab])) AND (english[lang] AND humans[MeSH Terms] AND journal article[pt] AND (control*[tiab] OR \"healthy volunteer*\"[tiab] OR \"healthy control*\"[tiab] OR \"case-control studies\"[MeSH Terms]) NOT (review[pt] OR systematic review[pt] OR meta-analysis[pt]))\n・ｿ",
+  "total_hits": 31,
+  "recall": 1.0,
+  "found_count": 4,
+  "total_gold": 4,
+  "mode": "open",
+  "timestamp_unix": 1787403554,
+  "missed_pmids": [],
+  "found_pmids": [
+    "18056550",
+    "20124119",
+    "21557897",
+    "32875486"
+  ],
+  "missed_count": 0
+}

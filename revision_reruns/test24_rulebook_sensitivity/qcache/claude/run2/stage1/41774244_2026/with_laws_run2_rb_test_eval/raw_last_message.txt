@@ -1,0 +1,3 @@
+FULL_QUERY: ("Lymphoma, Non-Hodgkin"[Mesh] OR "non-Hodgkin lymphoma"[tiab] OR "non-Hodgkin's lymphoma"[tiab] OR NHL[tiab]) AND ("Quality of Life"[Mesh] OR "quality of life"[tiab] OR QoL[tiab] OR HRQoL[tiab])
+
+[subagent self-check notes: STUDY_FILTER=OMIT: inclusion allows quantitative/qualitative/mixed-methods (>=2 design types). 2 AND blocks: CONDITION (non-Hodgkin lymphoma) and QoL, kept as CONDITION_OUTCOME under Exception A since QoL IS the review's study topic.]

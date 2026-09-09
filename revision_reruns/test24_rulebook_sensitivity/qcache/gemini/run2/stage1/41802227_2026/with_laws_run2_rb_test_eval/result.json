@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-24T21:58:30Z",
+  "domain_folder": "03_Psychiatry",
+  "paper_folder": "41802227_2026",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
+  "condition": "with_laws_run2_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Anxiety\"[Mesh] OR \"Anxiety Disorders\"[Mesh] OR anxiety[tiab] OR \"generalized anxiety disorder\"[tiab] OR GAD[tiab]) AND (\"Wearable Electronic Devices\"[Mesh] OR \"Actigraphy\"[Mesh] OR wearable*[tiab] OR smartwatch*[tiab] OR \"smart watch\"[tiab] OR \"wrist-worn\"[tiab] OR actigraph*[tiab] OR accelerometer*[tiab] OR \"digital biomarker\"[tiab] OR \"digital biomarkers\"[tiab])",
+  "query_length": 368,
+  "gold_count": 38,
+  "total_hits": 1939,
+  "hit_gold_count": 34,
+  "recall": 0.8947368421052632,
+  "nnr": 57.029411764705884,
+  "f1": 0.03439554881133029,
+  "error_note": ""
+}

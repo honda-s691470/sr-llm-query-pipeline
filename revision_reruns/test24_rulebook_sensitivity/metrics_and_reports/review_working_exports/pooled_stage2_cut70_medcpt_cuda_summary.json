@@ -1,0 +1,73 @@
+{
+  "output_csv": "paper/JMIR\\review\\test24_rulebook_sensitivity\\pooled_stage2_cut70_medcpt_cuda_merged.csv",
+  "n_papers": 24,
+  "source_csvs": {
+    "40815363_2025": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_092717.csv",
+    "41108024_2025": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_093454.csv",
+    "41224700_2025": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_101325.csv",
+    "41470797_2025": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_101355.csv",
+    "41484688_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_101431.csv",
+    "41505363_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_101504.csv",
+    "41630847_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_101528.csv",
+    "41708995_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_101647.csv",
+    "41709059_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_102812.csv",
+    "41715180_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_102841.csv",
+    "41720985_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_104448.csv",
+    "41796365_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_104518.csv",
+    "41802227_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_104611.csv",
+    "41804118_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_105413.csv",
+    "41641734_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_111935.csv",
+    "41770755_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_113244.csv",
+    "41774244_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_114807.csv",
+    "41781907_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_114850.csv",
+    "41781990_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_121116.csv",
+    "41792786_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_121155.csv",
+    "41794963_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_121230.csv",
+    "41792577_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_121304.csv",
+    "41793737_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_121342.csv",
+    "41796425_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_124944.csv"
+  },
+  "cache_label": "pooled_rb_cut70_medcpt_cuda",
+  "stage1_condition": "with_laws_pooled_rb_test_eval",
+  "stage_c_mode_counts": {
+    "not_run_prime_gate_failed": 3,
+    "passthrough_stageb": 11,
+    "ranked": 10
+  },
+  "ranked_stage_c_device_effective_counts": {
+    "cuda": 10
+  },
+  "phase5_pending_papers": [
+    "41108024_2025",
+    "41470797_2025",
+    "41804118_2026"
+  ],
+  "mean_stage_c_recall": 0.6374833333333333,
+  "median_stage_c_recall": 0.7256,
+  "min_stage_c_recall": 0.0,
+  "max_stage_c_recall": 1.0,
+  "mean_stage_c_hits": 1116.2916666666667,
+  "median_stage_c_hits": 840.5,
+  "mean_nnr": 112.20004058377536,
+  "median_nnr": 74.725,
+  "papers_below_0_60_recall": [
+    "41108024_2025",
+    "41470797_2025",
+    "41484688_2026",
+    "41708995_2026",
+    "41715180_2026",
+    "41804118_2026",
+    "41770755_2026",
+    "41792577_2026"
+  ],
+  "papers_at_or_below_0_60_recall": [
+    "41108024_2025",
+    "41470797_2025",
+    "41484688_2026",
+    "41708995_2026",
+    "41715180_2026",
+    "41804118_2026",
+    "41770755_2026",
+    "41792577_2026"
+  ]
+}

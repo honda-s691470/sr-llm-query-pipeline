@@ -1,0 +1,27 @@
+﻿{
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR RA[tiab]) AND (\"Stroke\"[Mesh] OR stroke[tiab] OR \"cerebrovascular accident\"[tiab] OR \"cerebrovascular disease\"[tiab] OR \"cerebral infarction\"[tiab] OR \"ischemic stroke\"[tiab])",
+  "query_path": "05_test_data/01_Rheumatoid_Arthritis\\41630847_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data/01_Rheumatoid_Arthritis\\41630847_2026\\input_config_detailed.json",
+  "total_hits": 1915,
+  "recall": 1.0,
+  "found_count": 12,
+  "total_gold": 12,
+  "mode": "open",
+  "timestamp_unix": 1781083216,
+  "missed_pmids": [],
+  "found_pmids": [
+    "12508387",
+    "24898360",
+    "28678807",
+    "29136635",
+    "29860668",
+    "29861211",
+    "32984893",
+    "33386606",
+    "33789293",
+    "33999944",
+    "36431290",
+    "40884091"
+  ],
+  "missed_count": 0
+}

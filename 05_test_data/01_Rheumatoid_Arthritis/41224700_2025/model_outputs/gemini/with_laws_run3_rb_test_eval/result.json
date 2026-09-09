@@ -1,0 +1,10 @@
+{
+  "domain": "01_Rheumatoid_Arthritis",
+  "paper_id": "41224700_2025",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab]) AND (\"Contraceptives, Oral\"[Mesh] OR \"oral contraceptives\"[tiab] OR \"oral contraceptive\"[tiab])",
+  "total_hits": 251,
+  "num_gold": 12,
+  "found_gold": 10,
+  "recall": 0.8333,
+  "nnr": 20.92
+}

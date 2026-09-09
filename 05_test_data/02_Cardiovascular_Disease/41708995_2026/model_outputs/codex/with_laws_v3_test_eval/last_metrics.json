@@ -1,7 +1,7 @@
-{
+﻿{
   "query": "(\"Stroke\"[Mesh] OR \"Ischemic Stroke\"[Mesh] OR \"ischemic stroke\"[tiab] OR \"acute ischemic stroke\"[tiab] OR AIS[tiab] OR \"stroke mimic\"[tiab]) AND (\"Biomarkers\"[Mesh] OR biomarker*[tiab] OR \"blood biomarker\"[tiab] OR \"serum biomarker\"[tiab] OR \"plasma biomarker\"[tiab] OR \"fluid biomarker\"[tiab] OR \"protein biomarker\"[tiab]) AND (\"systematic review\"[tiab] OR \"meta-analysis\"[tiab] OR \"Meta-Analysis\"[pt] OR \"Systematic Review\"[pt])",
-  "query_path": "05_test_data\\02_Cardiovascular_Disease\\41708995_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
-  "input_config_path": "05_test_data\\02_Cardiovascular_Disease\\41708995_2026\\input_config_detailed.json",
+  "query_path": "05_test_data/02_Cardiovascular_Disease\\41708995_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data/02_Cardiovascular_Disease\\41708995_2026\\input_config_detailed.json",
   "total_hits": 570,
   "recall": 0.8148148148148148,
   "found_count": 22,

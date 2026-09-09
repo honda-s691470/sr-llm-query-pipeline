@@ -1,1 +1,1 @@
-(("Arthritis, Rheumatoid"[Mesh] OR "rheumatoid arthritis"[tiab] OR RA[tiab]) AND ("Contraceptives, Oral"[Mesh] OR contraceptive*[tiab] OR "birth control pill"[tiab] OR "birth control pills"[tiab] OR OC[tiab] OR OCP[tiab] OR OCPs[tiab])) NOT "Letter"[pt]
+("Arthritis, Rheumatoid"[Mesh] OR "rheumatoid arthritis"[tiab]) AND ("Contraceptives, Oral"[Mesh] OR "oral contraceptives"[tiab] OR "oral contraceptive"[tiab]) NOT "Letter"[pt]

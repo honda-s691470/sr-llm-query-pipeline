@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:00:28Z",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41715180_2026",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Heart Failure\"[Mesh] OR \"heart failure\"[tiab] OR \"cardiac failure\"[tiab]) AND (\"Prognosis\"[Mesh] OR \"Risk Assessment\"[Mesh] OR \"Models, Statistical\"[Mesh] OR \"Machine Learning\"[Mesh] OR \"prediction model\"[tiab] OR \"predictive model\"[tiab] OR \"prognostic model\"[tiab] OR \"risk score\"[tiab] OR nomogram*[tiab] OR algorithm*[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"risk stratification\"[tiab])",
+  "query_length": 414,
+  "gold_count": 44,
+  "total_hits": 79151,
+  "hit_gold_count": 43,
+  "recall": 0.9772727272727273,
+  "nnr": 1840.7209302325582,
+  "f1": 0.0010859271418650167,
+  "error_note": ""
+}

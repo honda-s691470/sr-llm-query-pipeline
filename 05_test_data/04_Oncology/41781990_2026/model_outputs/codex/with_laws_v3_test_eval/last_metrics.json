@@ -1,7 +1,7 @@
-{
+﻿{
   "query": "(\"Stomach Neoplasms\"[Mesh] OR \"Colorectal Neoplasms\"[Mesh] OR \"gastric cancer\"[tiab] OR \"stomach cancer\"[tiab] OR \"colorectal cancer\"[tiab] OR \"colon cancer\"[tiab] OR \"rectal cancer\"[tiab] OR \"gastrointestinal cancer\"[tiab]) AND (\"Hyperthermia, Induced\"[Mesh] OR HIPEC[tiab] OR \"hyperthermic intraperitoneal chemotherapy\"[tiab] OR \"hyperthermic intraperitoneal\"[tiab] OR \"heated intraperitoneal\"[tiab]) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])",
-  "query_path": "05_test_data\\04_Oncology\\41781990_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
-  "input_config_path": "05_test_data\\04_Oncology\\41781990_2026\\input_config_detailed.json",
+  "query_path": "05_test_data/04_Oncology\\41781990_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data/04_Oncology\\41781990_2026\\input_config_detailed.json",
   "total_hits": 409,
   "recall": 0.9,
   "found_count": 9,

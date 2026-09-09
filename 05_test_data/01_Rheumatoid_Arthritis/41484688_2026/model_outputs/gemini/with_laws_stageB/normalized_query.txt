@@ -1,0 +1,1 @@
+("Arthritis, Rheumatoid"[Mesh] OR "rheumatoid arthritis"[tiab]) AND ("Referral and Consultation"[Mesh] OR referral*[tiab]) NOT "Review"[pt]

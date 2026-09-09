@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:00:05Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41108024_2025",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab]) AND (\"Analgesics\"[Mesh] OR \"Analgesics\"[Pharm Action] OR analgesic*[tiab] OR \"Pain Management\"[Mesh] OR \"pain management\"[tiab] OR pain[tiab] OR \"Analgesics, Opioid\"[Mesh] OR opioid*[tiab] OR \"Anti-Inflammatory Agents, Non-Steroidal\"[Mesh] OR NSAID*[tiab])",
+  "query_length": 320,
+  "gold_count": 26,
+  "total_hits": 26855,
+  "hit_gold_count": 26,
+  "recall": 1.0,
+  "nnr": 1032.8846153846155,
+  "f1": 0.0019344518433094006,
+  "error_note": ""
+}

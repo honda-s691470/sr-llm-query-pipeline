@@ -1,0 +1,1 @@
+("Oxidative Stress"[Mesh] OR "oxidative stress"[tiab] OR "nitrosative stress"[tiab] OR "Inflammation"[Mesh] OR inflammat*[tiab]) AND ("Probiotics"[Mesh] OR probiotic*[tiab] OR synbiotic*[tiab] OR bacteriotherapy[tiab]) AND ("Randomized Controlled Trial"[pt] OR "Controlled Clinical Trial"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])

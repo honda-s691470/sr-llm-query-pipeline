@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-24T09:20:58Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41792786_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_run2_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Colorectal Neoplasms\"[Mesh] OR colorectal cancer*[tiab] OR colorectal carcinoma*[tiab] OR colorectal neoplasm*[tiab] OR colorectal tumor*[tiab] OR colorectal tumour*[tiab] OR colon cancer*[tiab] OR colon carcinoma*[tiab] OR colonic cancer*[tiab] OR colonic carcinoma*[tiab] OR rectal cancer*[tiab] OR rectal carcinoma*[tiab] OR rectum cancer*[tiab]) AND (\"Heat-Shock Proteins\"[Mesh] OR \"heat shock protein*\"[tiab] OR \"heat-shock protein*\"[tiab] OR HSP[tiab] OR HSPs[tiab] OR HSP27[tiab] OR HSP60[tiab] OR HSP70[tiab] OR HSP90[tiab] OR HSP110[tiab] OR HSPB1[tiab] OR HSPA1A[tiab] OR HSPA1B[tiab] OR HSPA2[tiab] OR HSPA4[tiab] OR HSPA5[tiab] OR HSPA8[tiab] OR HSPD1[tiab] OR HSP90AA1[tiab] OR HSP90AB1[tiab] OR GRP78[tiab] OR BiP[tiab] OR chaperone*[tiab])",
+  "query_length": 756,
+  "gold_count": 20,
+  "total_hits": 1781,
+  "hit_gold_count": 20,
+  "recall": 1.0,
+  "nnr": 89.05,
+  "f1": 0.02220988339811216,
+  "error_note": ""
+}

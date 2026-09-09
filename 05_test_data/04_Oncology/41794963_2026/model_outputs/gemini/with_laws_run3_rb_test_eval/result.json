@@ -1,0 +1,10 @@
+{
+  "domain": "04_Oncology",
+  "paper_id": "41794963_2026",
+  "query": "(\"Neuroma, Acoustic\"[Mesh] OR \"vestibular schwannoma\"[tiab] OR \"acoustic neuroma\"[tiab] OR \"acoustic schwannoma\"[tiab]) AND (\"Quality of Life\"[Mesh] OR PANQOL[tiab] OR \"Penn Acoustic Neuroma Quality of Life\"[tiab] OR \"quality of life\"[tiab] OR HRQoL[tiab])",
+  "total_hits": 584,
+  "num_gold": 16,
+  "found_gold": 16,
+  "recall": 1.0,
+  "nnr": 36.5
+}

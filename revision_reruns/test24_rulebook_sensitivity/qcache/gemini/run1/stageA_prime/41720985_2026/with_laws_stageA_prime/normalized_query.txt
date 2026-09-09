@@ -1,0 +1,1 @@
+("Hemangioma, Cavernous, Central Nervous System"[Mesh] OR "cavernous malformation"[tiab] OR "cavernoma"[tiab]) AND ("Spinal Cord"[Mesh] OR "spinal cord"[tiab]) AND ("Surgical Procedures, Operative"[Mesh] OR surgery[tiab] OR surgical[tiab]) english[lang]

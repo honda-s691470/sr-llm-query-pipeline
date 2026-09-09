@@ -1,0 +1,1 @@
+("Solitary Pulmonary Nodule"[Mesh] OR "solitary pulmonary nodule"[tiab] OR "pulmonary nodule"[tiab] OR "lung nodule"[tiab] OR "pulmonary coin lesion"[tiab] OR SPN[tiab]) AND ("Lung Neoplasms"[Mesh] OR "lung cancer"[tiab] OR "lung malignancy"[tiab] OR "malignant nodule"[tiab] OR malignancy[tiab] OR "risk factor"[tiab] OR "risk factors"[tiab])

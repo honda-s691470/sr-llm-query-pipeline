@@ -1,0 +1,10 @@
+{
+  "query": "((\"Body Dysmorphic Disorders\"[Mesh] OR \"body dysmorphic disorder\"[tiab] OR \"body dysmorphic disorders\"[tiab] OR dysmorphophobia[tiab] OR \"body dysmorphia\"[tiab]) AND (\"Neuroimaging\"[Mesh] OR \"Magnetic Resonance Imaging\"[Mesh] OR \"Positron-Emission Tomography\"[Mesh] OR \"Tomography, Emission-Computed, Single-Photon\"[Mesh] OR \"Magnetic Resonance Spectroscopy\"[Mesh] OR neuroimaging[tiab] OR \"magnetic resonance imaging\"[tiab] OR MRI[tiab] OR fMRI[tiab] OR \"functional MRI\"[tiab] OR \"functional magnetic resonance\"[tiab] OR \"positron emission tomography\"[tiab] OR PET[tiab] OR SPECT[tiab] OR \"single photon emission\"[tiab] OR spectroscopy[tiab] OR neurochemical*[tiab] OR neurochemistry[tiab] OR \"brain activation\"[tiab] OR \"brain activations\"[tiab] OR \"neural activation\"[tiab] OR \"neural activations\"[tiab] OR \"functional connectivity\"[tiab])) AND (english[lang] AND journal article[pt] AND humans[mh] AND (\"Case-Control Studies\"[Mesh] OR control*[tiab] OR healthy[tiab]) NOT review[pt] NOT letter[pt])",
+  "total_hits": 46,
+  "recall": 1.0,
+  "found_count": 4,
+  "total_gold": 4,
+  "mode": "blind",
+  "timestamp_unix": 1787398189,
+  "missed_count": 0
+}

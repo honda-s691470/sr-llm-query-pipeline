@@ -1,0 +1,1 @@
+(("Post-Acute COVID-19 Syndrome"[Mesh] OR "long COVID"[tiab] OR "post-COVID"[tiab]) AND ("Male Urogenital Diseases"[Mesh] OR "Female Urogenital Diseases"[Mesh] OR genitourinary[tiab] OR urogenital[tiab] OR "renal"[tiab] OR "urinary"[tiab]) NOT "Comment"[pt]) NOT "Letter"[pt] NOT "Editorial"[pt]

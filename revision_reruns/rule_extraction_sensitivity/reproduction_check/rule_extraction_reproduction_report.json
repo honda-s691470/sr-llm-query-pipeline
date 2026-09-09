@@ -1,0 +1,105 @@
+{
+  "all_match": true,
+  "results": {
+    "run1_original": {
+      "files": {
+        "query_laws_candidates.txt": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run1_original/query_laws_candidates.txt",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run1_original/query_laws_candidates.txt",
+          "match": true
+        },
+        "candidate_laws_section1.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run1_original/candidate_laws_section1.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run1_original/candidate_laws_section1.csv",
+          "match": true
+        },
+        "top_do_laws.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run1_original/top_do_laws.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run1_original/top_do_laws.csv",
+          "match": true
+        },
+        "top_avoid_laws.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run1_original/top_avoid_laws.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run1_original/top_avoid_laws.csv",
+          "match": true
+        }
+      },
+      "metadata_core_match": true
+    },
+    "run2_rerun": {
+      "files": {
+        "query_laws_candidates.txt": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run2_rerun/query_laws_candidates.txt",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run2_rerun/query_laws_candidates.txt",
+          "match": true
+        },
+        "candidate_laws_section1.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run2_rerun/candidate_laws_section1.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run2_rerun/candidate_laws_section1.csv",
+          "match": true
+        },
+        "top_do_laws.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run2_rerun/top_do_laws.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run2_rerun/top_do_laws.csv",
+          "match": true
+        },
+        "top_avoid_laws.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run2_rerun/top_avoid_laws.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run2_rerun/top_avoid_laws.csv",
+          "match": true
+        }
+      },
+      "metadata_core_match": true
+    },
+    "run3_rerun": {
+      "files": {
+        "query_laws_candidates.txt": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run3_rerun/query_laws_candidates.txt",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run3_rerun/query_laws_candidates.txt",
+          "match": true
+        },
+        "candidate_laws_section1.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run3_rerun/candidate_laws_section1.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run3_rerun/candidate_laws_section1.csv",
+          "match": true
+        },
+        "top_do_laws.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run3_rerun/top_do_laws.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run3_rerun/top_do_laws.csv",
+          "match": true
+        },
+        "top_avoid_laws.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/run3_rerun/top_avoid_laws.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/run3_rerun/top_avoid_laws.csv",
+          "match": true
+        }
+      },
+      "metadata_core_match": true
+    },
+    "pooled_run1_run2_run3": {
+      "files": {
+        "query_laws_candidates.txt": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/pooled_run1_run2_run3/query_laws_candidates.txt",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/pooled_run1_run2_run3/query_laws_candidates.txt",
+          "match": true
+        },
+        "candidate_laws_section1.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/pooled_run1_run2_run3/candidate_laws_section1.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/pooled_run1_run2_run3/candidate_laws_section1.csv",
+          "match": true
+        },
+        "top_do_laws.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/pooled_run1_run2_run3/top_do_laws.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/pooled_run1_run2_run3/top_do_laws.csv",
+          "match": true
+        },
+        "top_avoid_laws.csv": {
+          "expected": "public_release/revision_reruns/rule_extraction_sensitivity/candidate_rules_pre_refinement/pooled_run1_run2_run3/top_avoid_laws.csv",
+          "generated": "public_release/revision_reruns/rule_extraction_sensitivity/reproduction_check/generated_candidate_rules_pre_refinement/pooled_run1_run2_run3/top_avoid_laws.csv",
+          "match": true
+        }
+      },
+      "metadata_core_match": true
+    }
+  }
+}

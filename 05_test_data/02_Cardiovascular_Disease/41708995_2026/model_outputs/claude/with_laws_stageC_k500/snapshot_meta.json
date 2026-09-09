@@ -1,0 +1,27 @@
+﻿{
+  "saved_at_utc": "2026-08-25T13:12:59.848037+00:00",
+  "dataset_split": "test",
+  "domain": "02_Cardiovascular_Disease",
+  "paper_id": "41708995_2026",
+  "provider": "claude",
+  "stage": "C",
+  "condition": "with_laws_stageC_k500",
+  "source_condition": "with_laws_stageB",
+  "query_type": "hyde_pseudo_abstract",
+  "query_length": 1098,
+  "query_sha256": "11f14a6310ecf3aca6b6d8b781a7ff373091c2832519484b15f189c325284de8",
+  "query_path": "public_release/05_test_data/02_Cardiovascular_Disease\\41708995_2026\\model_outputs\\claude\\with_laws_stageC_k500\\normalized_query.txt",
+  "extra": {
+    "stage_c_mode": "ranked",
+    "stagec_min_hits": 1001,
+    "stagec_gate_hits": 1000,
+    "stagec_floor_hits": 1000,
+    "stagec_cut_percent": 70.0,
+    "use_fixed_k": false,
+    "final_formula": "rank(s_q)+rank(s_pos_mean)-rank(s_neg_mean)",
+    "k_used": 2744,
+    "query_hash": "e0e0fb6741",
+    "abstract_fetch_n": 56,
+    "hyde_newly_generated": false
+  }
+}

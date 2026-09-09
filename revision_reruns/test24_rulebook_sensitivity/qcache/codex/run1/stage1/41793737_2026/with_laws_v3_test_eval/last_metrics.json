@@ -1,0 +1,41 @@
+﻿{
+  "query": "(\"Guided Tissue Regeneration\"[Mesh] OR \"Bone Regeneration\"[Mesh] OR \"guided bone regeneration\"[tiab] OR GBR[tiab] OR \"bone regeneration\"[tiab]) AND (\"Membranes, Artificial\"[Mesh] OR membrane*[tiab] OR \"resorbable membrane\"[tiab] OR \"resorbable\"[tiab] OR \"non-resorbable\"[tiab] OR \"barrier membrane\"[tiab] OR \"collagen membrane\"[tiab] OR PTFE[tiab] OR \"titanium mesh\"[tiab])",
+  "query_path": "05_test_data/05_Infectious_Diseases\\41793737_2026\\model_outputs\\codex\\with_laws_v3_test_eval\\normalized_query.txt",
+  "input_config_path": "05_test_data/05_Infectious_Diseases\\41793737_2026\\input_config_detailed.json",
+  "total_hits": 7020,
+  "recall": 0.96,
+  "found_count": 24,
+  "total_gold": 25,
+  "mode": "open",
+  "timestamp_unix": 1781083266,
+  "missed_pmids": [
+    "11737108"
+  ],
+  "found_pmids": [
+    "10551065",
+    "10959787",
+    "11128923",
+    "11759861",
+    "11990447",
+    "12479641",
+    "12519332",
+    "14731178",
+    "15777327",
+    "16579708",
+    "17199537",
+    "19438941",
+    "22697628",
+    "25032771",
+    "27659296",
+    "28745035",
+    "30954146",
+    "31226196",
+    "31286649",
+    "33977571",
+    "34447081",
+    "36079220",
+    "40199760",
+    "9249640"
+  ],
+  "missed_count": 1
+}

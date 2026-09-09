@@ -1,0 +1,7 @@
+﻿domain,n,mean_raw_recall,mean_prime_recall,mean_stage_a_recall,mean_stage_b_recall,mean_stage_c_recall,mean_raw_hits,mean_prime_hits,mean_stage_a_hits,mean_stage_b_hits,mean_stage_c_k
+01_Rheumatoid_Arthritis,7,0.8454,0.7791,0.7723,0.7628,0.7628,4500.9,4311.4,3591.9,3549.4,3544.3
+02_Cardiovascular_Disease,4,0.6926,0.6926,0.6726,0.6726,0.6726,6264.5,5552.2,4834.2,4644.0,4643.8
+03_Psychiatry,3,0.6501,0.6084,0.6084,0.6084,0.6084,7913.7,5231.0,5231.0,5204.7,5198.0
+04_Oncology,7,0.95,0.9394,0.9319,0.9319,0.9319,5323.9,3604.6,3591.0,3553.7,3549.6
+05_Infectious_Diseases,3,0.8585,0.7431,0.7431,0.7431,0.7431,18101.7,5336.3,5132.0,5119.3,5119.3
+Overall,24,0.8277,0.7856,0.7781,0.7753,0.7753,7161.5,4555.1,4196.1,4136.2,4132.7

@@ -1,0 +1,21 @@
+﻿{
+  "saved_at_utc": "2026-08-25T09:58:08.030810+00:00",
+  "dataset_split": "test",
+  "domain": "04_Oncology",
+  "paper_id": "41781907_2026",
+  "provider": "codex",
+  "stage": "A_prime",
+  "condition": "with_laws_stageA_prime__pooled_rb_cut70_medcpt_cuda",
+  "source_condition": "with_laws_pooled_rb_test_eval",
+  "query_type": "pubmed_boolean",
+  "query_length": 1233,
+  "query_sha256": "da90e5bf39d30d5eb5cd62308e34a913b8b19a331fb70334863ce0c530a2295b",
+  "query_path": "public_release/05_test_data/04_Oncology\\41781907_2026\\model_outputs\\codex\\with_laws_stageA_prime__pooled_rb_cut70_medcpt_cuda\\normalized_query.txt",
+  "extra": {
+    "prime_total_hits": 9998,
+    "target": 9999,
+    "prime_gate_ok_for_stage_a": true,
+    "phase2_attempted": true,
+    "phase2_no_further_reduction": true
+  }
+}

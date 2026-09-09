@@ -42,6 +42,13 @@ SLEEP = 0.4  # seconds between API calls (NCBI rate limit: 3/sec without key)
 
 PROVIDERS = ["claude", "codex", "gemini"]
 
+
+def rel_public_path(path: Path) -> str:
+    try:
+        return path.resolve().relative_to(PUBLIC_RELEASE.resolve()).as_posix()
+    except ValueError:
+        return path.as_posix()
+
 # ── Cache ─────────────────────────────────────────────────────────────────────
 
 def load_cache() -> dict:
@@ -186,7 +193,7 @@ def collect_rows(test_data: Path, cache: dict, refresh: bool) -> list[dict]:
                             "gold_count": len(gold_pmids),
                             "total_hits": -1, "hit_gold_count": -1, "recall": None,
                             "status": "error", "error_note": str(e),
-                            "source_path": str(hq_path),
+                            "source_path": rel_public_path(hq_path),
                         })
                         continue
                 else:
@@ -198,7 +205,7 @@ def collect_rows(test_data: Path, cache: dict, refresh: bool) -> list[dict]:
                     "provider": "human", "condition": "human_reference",
                     "method_label": "human::human_reference",
                     "query_length": len(query), "raw_query_length": len(query),
-                    "gold_count": len(gold_pmids), "source_path": str(hq_path),
+                    "gold_count": len(gold_pmids), "source_path": rel_public_path(hq_path),
                     **m,
                 })
                 print(f"hits={m['total_hits']} recall={m['recall']:.3f}")
@@ -247,7 +254,7 @@ def collect_rows(test_data: Path, cache: dict, refresh: bool) -> list[dict]:
                                 "gold_count": len(gold_pmids),
                                 "total_hits": -1, "hit_gold_count": -1, "recall": None,
                                 "status": "error", "error_note": str(e),
-                                "source_path": str(src),
+                                "source_path": rel_public_path(src),
                             })
                             continue
                     else:
@@ -259,7 +266,7 @@ def collect_rows(test_data: Path, cache: dict, refresh: bool) -> list[dict]:
                         "provider": provider, "condition": condition,
                         "method_label": f"{provider}::{condition}",
                         "query_length": len(query), "raw_query_length": len(query),
-                        "gold_count": len(gold_pmids), "source_path": str(src),
+                        "gold_count": len(gold_pmids), "source_path": rel_public_path(src),
                         **m,
                     })
                     print(f"hits={m['total_hits']} recall={m['recall']:.3f}")

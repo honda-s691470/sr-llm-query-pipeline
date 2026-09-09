@@ -1,0 +1,21 @@
+{
+  "query": "((depress*[tiab] OR \"Depressive Disorder\"[Mesh] OR \"Bipolar Disorder\"[Mesh] OR bipolar[tiab] OR unipolar[tiab]) AND (\"Electroconvulsive Therapy\"[Mesh] OR electroconvulsive[tiab] OR ECT[tiab]) AND (\"Memory\"[Mesh] OR autobiographical memor*[tiab] OR autobiographic memor*[tiab] OR personal memor*[tiab] OR remote memor*[tiab] OR retrograde amnesia[tiab] OR CAMI[tiab] OR \"Columbia Autobiographical Memory Interview\"[tiab] OR AMI[tiab] OR \"Autobiographical Memory Interview\"[tiab] OR Kopelman[tiab] OR cognitive[tiab] OR cognition[tiab] OR neuropsycholog*[tiab] OR \"Neuropsychological Tests\"[Mesh])) AND (english[lang] AND humans[Mesh] AND (adult[Mesh] OR adult*[tiab] OR aged[Mesh]) AND (longitudinal[tiab] OR follow-up[tiab] OR after[tiab] OR baseline[tiab]) AND (control*[tiab] OR compar*[tiab]) NOT (review[pt] OR systematic review[pt] OR meta-analysis[pt] OR editorial[pt] OR letter[pt] OR guideline[pt] OR case reports[pt]))",
+  "total_hits": 392,
+  "recall": 1.0,
+  "found_count": 8,
+  "total_gold": 8,
+  "mode": "open",
+  "timestamp_unix": 1787396926,
+  "missed_pmids": [],
+  "found_pmids": [
+    "15863746",
+    "16936712",
+    "23922809",
+    "25220219",
+    "25470096",
+    "28754306",
+    "29267990",
+    "32408397"
+  ],
+  "missed_count": 0
+}

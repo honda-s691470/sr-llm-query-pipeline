@@ -1,0 +1,1 @@
+("Lymphoma, Non-Hodgkin"[Mesh] OR "non-Hodgkin lymphoma"[tiab] OR "non-Hodgkin's lymphoma"[tiab] OR "non Hodgkin lymphoma"[tiab] OR NHL[tiab]) AND ("Quality of Life"[Mesh] OR "Cancer Survivors"[Mesh] OR "quality of life"[tiab] OR QoL[tiab] OR survivor*[tiab] OR survivorship[tiab])

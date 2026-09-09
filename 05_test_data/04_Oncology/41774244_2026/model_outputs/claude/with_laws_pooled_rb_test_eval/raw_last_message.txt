@@ -1,0 +1,3 @@
+FULL_QUERY: ("Lymphoma, Non-Hodgkin"[Mesh] OR "non-Hodgkin lymphoma"[tiab] OR "non-Hodgkin's lymphoma"[tiab] OR "non Hodgkin lymphoma"[tiab] OR NHL[tiab]) AND ("Quality of Life"[Mesh] OR "quality of life"[tiab] OR QoL[tiab] OR HRQoL[tiab] OR "health-related quality of life"[tiab]) AND English[lang] AND ("2014/01/01"[dp] : "2025/12/31"[dp])
+
+[subagent self-check notes: STUDY_FILTER = OMIT: inclusion allows quantitative, qualitative, or mixed-methods studies, no single mandatory design restriction. 2 core AND blocks (CONDITION: NHL survivors; OUTCOME/topic: QoL, included under Exception A since QoL factors ARE the review's topic) plus explicit uniform English-language and 2014-2025 date filters.]

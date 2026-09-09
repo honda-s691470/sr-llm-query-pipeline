@@ -1,0 +1,1 @@
+FULL_QUERY: ("Colorectal Neoplasms"[Mesh] OR "colorectal cancer"[tiab] OR "colorectal neoplasm*"[tiab] OR "colon cancer"[tiab] OR "rectal cancer"[tiab]) AND ("Heat-Shock Proteins"[Mesh] OR "heat shock protein*"[tiab] OR HSP[tiab] OR HSPs[tiab] OR HSP70[tiab] OR HSP90[tiab] OR HSP27[tiab] OR "heat-shock protein*"[tiab])

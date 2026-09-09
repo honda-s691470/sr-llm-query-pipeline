@@ -1,0 +1,1 @@
+("Arthritis, Rheumatoid"[Mesh] OR "rheumatoid arthritis"[tiab]) AND ("Ilex paraguariensis"[Mesh] OR "yerba mate"[tiab] OR "Ilex paraguariensis"[tiab])

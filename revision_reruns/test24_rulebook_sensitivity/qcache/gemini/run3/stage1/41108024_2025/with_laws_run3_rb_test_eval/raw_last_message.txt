@@ -1,0 +1,1 @@
+FULL_QUERY: ("Arthritis, Rheumatoid"[Mesh] OR "rheumatoid arthritis"[tiab]) AND ("Analgesics"[Mesh] OR "Pain Management"[Mesh] OR analgesic*[tiab] OR "pain management"[tiab] OR "analgesic therapy"[tiab] OR "pain therapy"[tiab] OR NSAID*[tiab] OR opioid*[tiab] OR paracetamol[tiab] OR acetaminophen[tiab])

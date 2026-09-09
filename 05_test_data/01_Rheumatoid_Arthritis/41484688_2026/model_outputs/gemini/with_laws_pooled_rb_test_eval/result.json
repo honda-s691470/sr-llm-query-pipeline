@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:00:13Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41484688_2026",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR \"inflammatory arthritis\"[tiab] OR \"early arthritis\"[tiab]) AND (\"Referral and Consultation\"[Mesh] OR referral*[tiab] OR \"referral criteria\"[tiab] OR \"triage\"[Mesh] OR triage*[tiab])",
+  "query_length": 247,
+  "gold_count": 17,
+  "total_hits": 1256,
+  "hit_gold_count": 16,
+  "recall": 0.9411764705882353,
+  "nnr": 78.5,
+  "f1": 0.02513747054202671,
+  "error_note": ""
+}

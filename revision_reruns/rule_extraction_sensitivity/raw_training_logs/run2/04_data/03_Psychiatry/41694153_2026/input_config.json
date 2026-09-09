@@ -1,0 +1,11 @@
+{
+  "target_name": "41694153_2026",
+  "objectives": "To synthesize the latest findings on the neurobiology of body dysmorphic disorder (BDD), quantify brain activation patterns with activation likelihood estimation (ALE) meta-analysis, and propose an updated BDD neurocircuitry model.",
+  "inclusion_criteria": "All studies regarding neuroimaging and functional neurochemistry research in BDD were considered. Studies were included if they met the following eligibility criteria: full-text availability in English, publication in a peer-reviewed journal, BDD diagnosed per DSM criteria, and demographically matched healthy control participants.",
+  "gold_pmids": [
+    "21557897",
+    "20124119",
+    "18056550",
+    "32875486"
+  ]
+}

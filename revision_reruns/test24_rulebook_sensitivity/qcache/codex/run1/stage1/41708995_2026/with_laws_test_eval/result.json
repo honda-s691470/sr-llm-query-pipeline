@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:36:58Z",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41708995_2026",
+  "provider": "codex",
+  "model": "gpt-5.3-codex",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Cerebral Infarction\"[Mesh] OR \"Brain Ischemia\"[Mesh] OR \"ischemic stroke\"[tiab] OR \"ischaemic stroke\"[tiab] OR \"acute ischemic stroke\"[tiab] OR \"acute ischaemic stroke\"[tiab] OR \"cerebral infarct*\"[tiab] OR \"brain ischem*\"[tiab] OR \"brain ischaem*\"[tiab] OR AIS[tiab]) AND (\"Biomarkers\"[Mesh] OR \"Biological Markers\"[Mesh] OR biomarker*[tiab] OR \"biological marker\"[tiab] OR \"biological markers\"[tiab] OR \"diagnostic marker\"[tiab] OR \"diagnostic markers\"[tiab] OR \"blood biomarker\"[tiab] OR \"blood biomarkers\"[tiab] OR \"plasma biomarker\"[tiab] OR \"plasma biomarkers\"[tiab] OR \"serum biomarker\"[tiab] OR \"serum biomarkers\"[tiab] OR \"fluid biomarker\"[tiab] OR \"fluid biomarkers\"[tiab] OR \"cerebrospinal fluid biomarker\"[tiab] OR \"cerebrospinal fluid biomarkers\"[tiab] OR \"Proteomics\"[Mesh] OR proteom*[tiab] OR \"Metabolomics\"[Mesh] OR metabolom*[tiab] OR metabolite*[tiab] OR \"RNA\"[Mesh] OR \"MicroRNAs\"[Mesh] OR RNA[tiab] OR microRNA*[tiab] OR miRNA*[tiab] OR \"Nucleic Acids\"[Mesh] OR \"cell-free DNA\"[tiab] OR cfDNA[tiab]) AND (\"Diagnosis, Differential\"[Mesh] OR diagnos*[tiab] OR differentiat*[tiab] OR \"stroke mimic\"[tiab] OR \"stroke mimics\"[tiab] OR \"stroke chameleon\"[tiab] OR \"stroke chameleons\"[tiab])) AND (english[la] OR german[la] OR dutch[la] OR italian[la] OR french[la] OR spanish[la] OR portuguese[la])",
+  "query_length": 1316,
+  "gold_count": 27,
+  "total_hits": 3697,
+  "hit_gold_count": 18,
+  "recall": 0.6666666666666666,
+  "nnr": 205.38888888888889,
+  "f1": 0.00966702470461869,
+  "error_note": ""
+}

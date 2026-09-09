@@ -1,0 +1,10 @@
+{
+  "domain": "02_Cardiovascular_Disease",
+  "paper_id": "41715180_2026",
+  "query": "(\"Heart Failure\"[Mesh] OR \"heart failure\"[tiab]) AND (\"prediction model*\"[tiab] OR \"predictive model*\"[tiab] OR \"prognostic model*\"[tiab] OR \"risk score*\"[tiab] OR \"risk model*\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR nomogram*[tiab] OR \"prognostic index\"[tiab] OR \"clinical prediction rule*\"[tiab])",
+  "total_hits": 7527,
+  "num_gold": 44,
+  "found_gold": 28,
+  "recall": 0.6364,
+  "nnr": 171.07
+}

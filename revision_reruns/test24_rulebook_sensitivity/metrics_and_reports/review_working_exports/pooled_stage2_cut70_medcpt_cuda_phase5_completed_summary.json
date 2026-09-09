@@ -1,0 +1,54 @@
+{
+  "source_base_csv": "paper/JMIR\\review\\test24_rulebook_sensitivity\\pooled_stage2_cut70_medcpt_cuda_merged.csv",
+  "phase5_replacement_csvs": {
+    "41108024_2025": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_131110.csv",
+    "41470797_2025": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_131642.csv",
+    "41804118_2026": "public_release/06_exclusion_screening_pipeline/results\\test_prime_A_B_C_posthoc_recall_codex_20260825_133022.csv"
+  },
+  "output_csv": "paper/JMIR\\review\\test24_rulebook_sensitivity\\pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv",
+  "n_papers": 24,
+  "cache_label": "pooled_rb_cut70_medcpt_cuda",
+  "stage1_condition": "with_laws_pooled_rb_test_eval",
+  "phase5_accepted_condition": "with_laws_pooled_rb_test_eval_phase5_accepted",
+  "phase5_completed_papers": [
+    "41108024_2025",
+    "41470797_2025",
+    "41804118_2026"
+  ],
+  "phase5_pending_papers": [],
+  "stage_c_mode_counts": {
+    "passthrough_stageb": 11,
+    "ranked": 13
+  },
+  "ranked_stage_c_device_effective_counts": {
+    "cuda": 13
+  },
+  "mean_stage_c_recall": 0.6905791666666666,
+  "median_stage_c_recall": 0.7256,
+  "min_stage_c_recall": 0.1591,
+  "max_stage_c_recall": 1.0,
+  "mean_stage_c_hits": 1261.9166666666667,
+  "median_stage_c_hits": 1000.0,
+  "mean_nnr": 122.08096985423778,
+  "median_nnr": 81.0625,
+  "papers_below_0_60_recall": [
+    "41108024_2025",
+    "41470797_2025",
+    "41484688_2026",
+    "41708995_2026",
+    "41715180_2026",
+    "41804118_2026",
+    "41770755_2026",
+    "41792577_2026"
+  ],
+  "papers_at_or_below_0_60_recall": [
+    "41108024_2025",
+    "41470797_2025",
+    "41484688_2026",
+    "41708995_2026",
+    "41715180_2026",
+    "41804118_2026",
+    "41770755_2026",
+    "41792577_2026"
+  ]
+}

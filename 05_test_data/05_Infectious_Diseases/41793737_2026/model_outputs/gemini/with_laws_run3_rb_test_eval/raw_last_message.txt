@@ -1,0 +1,1 @@
+FULL_QUERY: ("Guided Tissue Regeneration"[Mesh] OR "Bone Regeneration"[Mesh] OR "guided bone regeneration"[tiab] OR "guided tissue regeneration"[tiab] OR "GBR"[tiab]) AND ("Membranes, Artificial"[Mesh] OR membrane*[tiab] OR resorbable[tiab] OR non-resorbable[tiab] OR nonresorbable[tiab])

@@ -1,0 +1,10 @@
+{
+  "target_name": "41522206_2026",
+  "objectives": "To assess the impact of GLP-1 receptor agonists on all-cause mortality, major adverse cardiovascular events (MACE), and major adverse kidney events (MAKE) in adult kidney transplant recipients with type 2 diabetes mellitus, and to synthesize the limited available evidence to inform future research and clinical practice in this population.",
+  "inclusion_criteria": "Studies were eligible if they included adult (>=18 years) kidney transplant recipients with type 2 diabetes mellitus diagnosed either before or after transplantation, treated with any GLP-1 receptor agonist, reported at least one of the following outcomes: all-cause mortality, MACE, or MAKE, and used either a randomized controlled trial design or an observational design (prospective or retrospective cohort study).",
+  "gold_pmids": [
+    "40054529",
+    "40056927",
+    "39984953"
+  ]
+}

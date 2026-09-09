@@ -1,0 +1,1 @@
+("Anxiety"[Mesh] OR "Anxiety Disorders"[Mesh] OR anxiety[tiab]) AND ("Wearable Electronic Devices"[Mesh] OR wearable*[tiab] OR smartwatch*[tiab] OR "digital biomarker*"[tiab])

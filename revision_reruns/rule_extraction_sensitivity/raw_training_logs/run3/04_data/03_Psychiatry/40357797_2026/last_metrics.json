@@ -1,0 +1,21 @@
+{
+  "query": "(((depression[MeSH Terms] OR depress*[tiab] OR \"major depressive disorder\"[tiab] OR \"bipolar depression\"[tiab]) AND (\"Electroconvulsive Therapy\"[MeSH Terms] OR electroconvulsive[tiab] OR ECT[tiab]) AND (memory[tiab] OR autobiographical[tiab] OR \"autobiographical memory\"[tiab]))) AND ((english[lang] AND humans[MeSH Terms] AND adult[MeSH Terms] NOT review[Publication Type] NOT case reports[Publication Type] NOT child[MeSH Terms]))",
+  "total_hits": 318,
+  "recall": 1.0,
+  "found_count": 8,
+  "total_gold": 8,
+  "mode": "open",
+  "timestamp_unix": 1787402381,
+  "missed_pmids": [],
+  "found_pmids": [
+    "15863746",
+    "16936712",
+    "23922809",
+    "25220219",
+    "25470096",
+    "28754306",
+    "29267990",
+    "32408397"
+  ],
+  "missed_count": 0
+}

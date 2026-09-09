@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-24T21:09:19Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41770755_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_run3_rb_test_eval",
+  "status": "completed",
+  "query": "(\"Neoplasms\"[Mesh] OR cancer[tiab] OR cancers[tiab] OR oncology[tiab] OR tumor[tiab] OR tumour[tiab]) AND (\"Preoperative Care\"[Mesh] OR prehabilitation[tiab] OR \"pre-habilitation\"[tiab] OR prehabilitative[tiab])",
+  "query_length": 211,
+  "gold_count": 12,
+  "total_hits": 22737,
+  "hit_gold_count": 11,
+  "recall": 0.9166666666666666,
+  "nnr": 2067.0,
+  "f1": 0.000967075475845092,
+  "error_note": ""
+}

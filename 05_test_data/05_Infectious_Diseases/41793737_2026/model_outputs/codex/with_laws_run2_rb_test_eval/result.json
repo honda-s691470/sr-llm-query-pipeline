@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-24T09:23:07Z",
+  "domain_folder": "05_Infectious_Diseases",
+  "paper_folder": "41793737_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_run2_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Guided Tissue Regeneration, Periodontal\"[Mesh] OR \"Bone Regeneration\"[Mesh] OR \"guided bone regeneration\"[tiab] OR \"guided bone regenerative\"[tiab] OR GBR[tiab] OR \"bone augmentation\"[tiab] OR \"alveolar ridge augmentation\"[tiab] OR \"ridge augmentation\"[tiab]) AND (\"Membranes, Artificial\"[Mesh] OR membrane*[tiab] OR \"barrier membrane\"[tiab] OR \"barrier membranes\"[tiab] OR resorbable[tiab] OR nonresorbable[tiab] OR \"non-resorbable\"[tiab] OR absorbable[tiab] OR nonabsorbable[tiab] OR \"non-absorbable\"[tiab] OR collagen[tiab] OR PTFE[tiab] OR ePTFE[tiab] OR \"expanded polytetrafluoroethylene\"[tiab] OR \"titanium mesh\"[tiab] OR \"titanium-reinforced\"[tiab])) AND (english[lang] OR spanish[lang])",
+  "query_length": 697,
+  "gold_count": 25,
+  "total_hits": 8881,
+  "hit_gold_count": 25,
+  "recall": 1.0,
+  "nnr": 355.24,
+  "f1": 0.005614192679092746,
+  "error_note": ""
+}

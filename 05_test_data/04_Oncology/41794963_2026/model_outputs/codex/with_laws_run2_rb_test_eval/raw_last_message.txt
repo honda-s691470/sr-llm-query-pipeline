@@ -1,0 +1,1 @@
+FULL_QUERY: ("Neuroma, Acoustic"[Mesh] OR "vestibular schwannoma*"[tiab] OR "acoustic neuroma*"[tiab] OR "acoustic neurinoma*"[tiab] OR "vestibular neurinoma*"[tiab]) AND (PANQOL[tiab] OR "Penn Acoustic Neuroma Quality of Life"[tiab] OR "Penn Acoustic Neuroma Quality-of-Life"[tiab])

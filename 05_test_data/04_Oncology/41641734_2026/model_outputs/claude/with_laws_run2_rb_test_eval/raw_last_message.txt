@@ -1,0 +1,3 @@
+FULL_QUERY: ("Solitary Pulmonary Nodule"[Mesh] OR "solitary pulmonary nodule"[tiab] OR "solitary pulmonary nodules"[tiab] OR "pulmonary nodule"[tiab] OR "pulmonary nodules"[tiab] OR SPN[tiab] OR SPNs[tiab] OR "lung nodule"[tiab] OR "lung nodules"[tiab] OR "Lung Neoplasms"[Mesh]) AND (malignan*[tiab] OR "lung cancer"[tiab] OR "Risk Factors"[Mesh] OR "risk factor*"[tiab] OR benign[tiab])
+
+[subagent self-check notes: STUDY_FILTER=OMIT: inclusion states only 'observational' design (not RCT-only), so default OMIT applies. 2 AND blocks: CONDITION (SPN) and malignancy/risk-factor outcome, the latter kept per Exception A since malignancy rate IS the review topic.]

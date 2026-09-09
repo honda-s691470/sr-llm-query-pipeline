@@ -1,0 +1,1 @@
+FULL_QUERY: ("Anxiety"[Mesh] OR "Anxiety Disorders"[Mesh] OR anxiety[tiab]) AND ("Wearable Electronic Devices"[Mesh] OR "wearable technology"[tiab] OR wearable*[tiab] OR smartwatch*[tiab] OR "smart watch*"[tiab] OR "fitness tracker*"[tiab] OR "wrist-worn"[tiab] OR "digital biomarker*"[tiab])

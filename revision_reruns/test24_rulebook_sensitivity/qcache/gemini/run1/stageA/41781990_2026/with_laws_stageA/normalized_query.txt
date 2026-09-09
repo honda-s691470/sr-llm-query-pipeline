@@ -1,0 +1,1 @@
+("Gastrointestinal Neoplasms"[Mesh] OR "Stomach Neoplasms"[Mesh] OR "Colorectal Neoplasms"[Mesh] OR "gastrointestinal cancer"[tiab] OR "gastric cancer"[tiab] OR "colorectal cancer"[tiab]) AND ("Hyperthermia, Induced"[Mesh] OR HIPEC[tiab] OR "hyperthermic intraperitoneal chemotherapy"[tiab]) NOT "Clinical Trial Protocol"[pt]

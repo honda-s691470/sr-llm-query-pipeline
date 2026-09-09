@@ -1,0 +1,1 @@
+("Guided Tissue Regeneration"[Mesh] OR "Bone Regeneration"[Mesh] OR "guided bone regeneration"[tiab] OR GBR[tiab]) AND ("Membranes, Artificial"[Mesh] OR membrane*[tiab] OR resorbable[tiab] OR "non-resorbable"[tiab]) NOT "Systematic Review"[pt]

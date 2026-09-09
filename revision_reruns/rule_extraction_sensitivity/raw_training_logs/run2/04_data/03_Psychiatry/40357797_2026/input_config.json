@@ -1,0 +1,15 @@
+{
+  "target_name": "40357797_2026",
+  "objectives": "First, we aim to provide an updated overview of the effect of ECT on autobiographical memory in patients with depression, including an assessment of the methodological quality of the included studies. Second, we want to explore whether the effect of ECT on autobiographical memory is temporary or permanent. Finally, we want to analyse whether ECT parameters can explain some of the deterioration of autobiographical memory, and if clinical information is associated with such an effect.",
+  "inclusion_criteria": "Papers written in English; prospective or retrospective longitudinal studies with measurement of autobiographical memory, as well as antidepressant effect, before and after ECT; the intervention must be a series of ECT sessions (>=6 sessions); the intervention group must consist of at least five participants; the intervention group must consist of human adults (>=18 years old) diagnosed with unipolar or bipolar moderate to severe depression according to DSM-III or later, ICD-8 or later, or similar primary depression research diagnostic criteria; a control group had to be included, consisting of either healthy controls or patients with unipolar or bipolar depression receiving treatment other than ECT; the outcome measure for autobiographical memory function had to be CAMI, CAMI-SF, or Kopelman AMI; the outcome measure for antidepressant effect had to be HAM-D or MADRS; ECT pulse had to be brief pulse or ultra-brief pulse, independent of electrode placement.",
+  "gold_pmids": [
+    "16936712",
+    "25470096",
+    "29267990",
+    "28754306",
+    "32408397",
+    "25220219",
+    "15863746",
+    "23922809"
+  ]
+}

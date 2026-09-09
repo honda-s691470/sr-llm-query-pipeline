@@ -1,0 +1,20 @@
+﻿{
+  "saved_at_utc": "2026-08-25T10:15:22.999975+00:00",
+  "dataset_split": "test",
+  "domain": "05_Infectious_Diseases",
+  "paper_id": "41793737_2026",
+  "provider": "codex",
+  "stage": "B",
+  "condition": "with_laws_stageB__pooled_rb_cut70_medcpt_cuda",
+  "source_condition": "with_laws_stageA__pooled_rb_cut70_medcpt_cuda",
+  "query_type": "pubmed_boolean",
+  "query_length": 502,
+  "query_sha256": "9e321c37d4b20f4b418f1ddc0275d5564a4b0d120123cacf92a6664ef43f9cac",
+  "query_path": "public_release/05_test_data/05_Infectious_Diseases\\41793737_2026\\model_outputs\\codex\\with_laws_stageB__pooled_rb_cut70_medcpt_cuda\\normalized_query.txt",
+  "extra": {
+    "stage_b_total_hits": 6304,
+    "stage_b_input_n": 6353,
+    "stage_b_excluded_n": 49,
+    "stage_b_capped_top9999": false
+  }
+}

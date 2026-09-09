@@ -1,0 +1,13 @@
+﻿provider,rulebook,paper_ids_with_files,condition_dirs_with_files,files
+claude,run1,24,129,282
+claude,run2,24,28,100
+claude,run3,24,35,107
+claude,pooled,24,30,102
+codex,run1,24,139,303
+codex,run2,24,155,406
+codex,run3,24,120,336
+codex,pooled,24,123,342
+gemini,run1,24,129,281
+gemini,run2,24,210,518
+gemini,run3,24,207,510
+gemini,pooled,24,120,336

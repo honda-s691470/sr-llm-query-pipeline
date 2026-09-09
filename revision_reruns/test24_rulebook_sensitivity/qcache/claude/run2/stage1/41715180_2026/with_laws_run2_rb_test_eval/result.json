@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-24T09:25:00Z",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41715180_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_run2_rb_test_eval",
+  "status": "completed",
+  "query": "((\"Heart Failure\"[Mesh] OR \"heart failure\"[tiab] OR HF[tiab]) AND (\"Prognosis\"[Mesh] OR \"Risk Assessment\"[Mesh] OR \"Models, Statistical\"[Mesh] OR \"Decision Support Techniques\"[Mesh] OR \"prediction model*\"[tiab] OR \"predictive model*\"[tiab] OR \"risk score*\"[tiab] OR \"risk model*\"[tiab] OR nomogram*[tiab] OR algorithm*[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"risk stratification\"[tiab] OR \"clinical prediction rule*\"[tiab]))",
+  "query_length": 447,
+  "gold_count": 44,
+  "total_hits": 81145,
+  "hit_gold_count": 44,
+  "recall": 1.0,
+  "nnr": 1844.2045454545455,
+  "f1": 0.0010838906748451146,
+  "error_note": ""
+}

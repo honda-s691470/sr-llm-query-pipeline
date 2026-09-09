@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-24T21:58:38Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41770755_2026",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
+  "condition": "with_laws_run2_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Neoplasms\"[Mesh] OR cancer*[tiab] OR oncology[tiab] OR tumor*[tiab] OR tumour*[tiab] OR malignan*[tiab] OR carcinoma*[tiab]) AND (\"Prehabilitation\"[Mesh] OR prehabilitation[tiab] OR \"pre-habilitation\"[tiab] OR \"preoperative exercise\"[tiab])",
+  "query_length": 242,
+  "gold_count": 12,
+  "total_hits": 1699,
+  "hit_gold_count": 11,
+  "recall": 0.9166666666666666,
+  "nnr": 154.45454545454547,
+  "f1": 0.012857977790765635,
+  "error_note": ""
+}

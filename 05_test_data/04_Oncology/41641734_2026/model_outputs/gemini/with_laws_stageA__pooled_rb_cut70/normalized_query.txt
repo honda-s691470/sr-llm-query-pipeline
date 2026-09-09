@@ -1,0 +1,1 @@
+("solitary pulmonary nodule"[tiab] OR "solitary pulmonary nodules"[tiab] OR "pulmonary nodule"[tiab] OR "lung nodule"[tiab] OR "lung nodules"[tiab] OR "incidentalomas"[tiab] OR "incidentaloma* solitary pulmonary nodules"[tiab:~5]) NOT "Case Reports"[pt] NOT (animals[mh] NOT humans[mh]) NOT "Comment"[pt] NOT "Letter"[pt] NOT "Editorial"[pt]

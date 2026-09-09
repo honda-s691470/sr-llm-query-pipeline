@@ -1,0 +1,1 @@
+FULL_QUERY: ("Breast Neoplasms"[Mesh] OR "breast cancer"[tiab] OR "breast neoplasm"[tiab] OR "breast carcinoma"[tiab] OR "breast tumor"[tiab] OR "breast tumour"[tiab]) AND ("Polymorphism, Single Nucleotide"[Mesh] OR "Germ-Line Mutation"[Mesh] OR "Genetic Variation"[Mesh] OR germline[tiab] OR SNP[tiab] OR SNPs[tiab] OR polymorphism*[tiab] OR variant*[tiab] OR mutation*[tiab])

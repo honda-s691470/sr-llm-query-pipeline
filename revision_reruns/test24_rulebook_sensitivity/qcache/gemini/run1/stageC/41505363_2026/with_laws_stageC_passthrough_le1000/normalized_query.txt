@@ -1,0 +1,1 @@
+("Arthritis, Rheumatoid"[Mesh] OR "rheumatoid arthritis"[tiab]) AND ("Telemedicine"[Mesh] OR telemedicine[tiab] OR "mobile applications"[tiab] OR mhealth[tiab] OR telehealth[tiab]) ("Adult"[Mesh] OR "Middle Aged"[Mesh] OR "Aged"[Mesh])

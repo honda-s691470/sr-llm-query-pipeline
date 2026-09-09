@@ -1,0 +1,3 @@
+FULL_QUERY: ("Neoplasms"[Mesh] OR cancer[tiab] OR oncology[tiab] OR "cancer patient*"[tiab]) AND (prehabilitation[tiab] OR prehab[tiab] OR "pre-rehabilitation"[tiab] OR "preoperative optimization"[tiab] OR "Preoperative Care"[Mesh] OR "Exercise Therapy"[Mesh])
+
+[subagent self-check notes: STUDY_FILTER=OMIT: inclusion allows quantitative/qualitative/mixed-methods (>=2 design types). 2 AND blocks: CONDITION (cancer) and INTERVENTION (prehabilitation); 'digitally delivered' and 'multimodal' treated as non-core delivery-mode/modality qualifiers and omitted from mandatory AND per rulebook.]

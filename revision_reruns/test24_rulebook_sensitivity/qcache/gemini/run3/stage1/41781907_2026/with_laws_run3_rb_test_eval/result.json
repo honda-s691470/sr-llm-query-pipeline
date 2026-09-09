@@ -1,0 +1,10 @@
+{
+  "domain": "04_Oncology",
+  "paper_id": "41781907_2026",
+  "query": "(\"Breast Neoplasms\"[Mesh] OR \"breast cancer\"[tiab] OR \"breast neoplasm*\"[tiab] OR \"breast tumor*\"[tiab] OR \"breast carcinoma*\"[tiab]) AND (\"Germ-Line Mutation\"[Mesh] OR \"Polymorphism, Single Nucleotide\"[Mesh:NoExp] OR \"germline\"[tiab] OR \"germ-line\"[tiab] OR SNP[tiab] OR SNPs[tiab] OR \"germline mutation*\"[tiab] OR \"germline variant*\"[tiab]) AND 2000/01/01:2024/06/30[dp] NOT \"Review\"[pt] NOT \"Letter\"[pt] NOT \"Comment\"[pt]",
+  "total_hits": 8630,
+  "num_gold": 54,
+  "found_gold": 50,
+  "recall": 0.9259,
+  "nnr": 159.81
+}

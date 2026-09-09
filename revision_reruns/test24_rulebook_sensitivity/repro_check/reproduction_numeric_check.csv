@@ -1,0 +1,11 @@
+﻿metric,max_abs_diff
+n,0.0
+mean_recall,0.0
+median_recall,1.1102230246251565e-16
+min_recall,0.0
+max_recall,0.0
+mean_hits,0.0
+median_hits,0.0
+mean_nnr,2.2737367544323206e-13
+median_nnr,2.842170943040401e-14
+no_tp_n,0.0

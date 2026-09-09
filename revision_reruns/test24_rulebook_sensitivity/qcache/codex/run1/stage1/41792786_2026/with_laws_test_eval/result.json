@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T15:07:24Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41792786_2026",
+  "provider": "codex",
+  "model": "gpt-5.3-codex",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Colorectal Neoplasms\"[Mesh] OR colorectal cancer*[tiab] OR colorectal neoplasm*[tiab] OR colorectal carcinoma*[tiab] OR colon cancer*[tiab] OR colon neoplasm*[tiab] OR colon carcinoma*[tiab] OR rectal cancer*[tiab] OR rectal neoplasm*[tiab] OR rectal carcinoma*[tiab] OR CRC[tiab]) AND (\"Heat-Shock Proteins\"[Mesh] OR heat shock protein*[tiab] OR heat-shock protein*[tiab] OR HSP*[tiab] OR HSP27[tiab] OR HSP70[tiab] OR HSP90[tiab] OR HSP60[tiab] OR HSP110[tiab] OR HSPB1[tiab] OR HSPA1A[tiab] OR HSPA5[tiab] OR HSP90AA1[tiab] OR GRP78[tiab] OR mortalin[tiab]) AND (\"Prognosis\"[Mesh] OR \"Survival Analysis\"[Mesh] OR \"Disease-Free Survival\"[Mesh] OR prognos*[tiab] OR surviv*[tiab] OR \"overall survival\"[tiab] OR \"disease-free survival\"[tiab] OR \"progression-free survival\"[tiab] OR \"event-free survival\"[tiab] OR \"relapse-free survival\"[tiab] OR \"cancer-specific survival\"[tiab] OR \"hazard ratio\"[tiab]))",
+  "query_length": 907,
+  "gold_count": 20,
+  "total_hits": 497,
+  "hit_gold_count": 20,
+  "recall": 1.0,
+  "nnr": 24.85,
+  "f1": 0.07736943907156672,
+  "error_note": ""
+}

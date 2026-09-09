@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:11:29Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41641734_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Solitary Pulmonary Nodule\"[Mesh] OR \"solitary pulmonary nodule\"[tiab] OR \"solitary pulmonary nodules\"[tiab] OR SPN[tiab] OR SPNs[tiab] OR \"pulmonary nodule\"[tiab] OR \"pulmonary nodules\"[tiab] OR \"lung nodule\"[tiab] OR \"lung nodules\"[tiab]) AND (\"Lung Neoplasms\"[Mesh] OR malignan*[tiab] OR cancer*[tiab] OR carcinoma*[tiab] OR neoplasm*[tiab] OR tumor*[tiab] OR tumour*[tiab] OR benign[tiab])",
+  "query_length": 394,
+  "gold_count": 54,
+  "total_hits": 15091,
+  "hit_gold_count": 50,
+  "recall": 0.9259259259259259,
+  "nnr": 301.82,
+  "f1": 0.006602839220864972,
+  "error_note": ""
+}

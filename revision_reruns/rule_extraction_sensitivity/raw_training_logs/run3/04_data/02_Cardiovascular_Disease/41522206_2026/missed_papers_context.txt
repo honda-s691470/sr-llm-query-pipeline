@@ -1,0 +1,160 @@
+--- Missed Papers Context (sampled) ---
+Sample size: 1 / Missed count: 1
+Seed: 1787400620
+Sampled PMIDs: 40054529
+
+MEDLINE FIELDS OF INTEREST:
+- TI: Title
+- AB: Abstract
+- MH: MeSH Headings
+
+
+PMID- 40054529
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250613
+LR  - 20250613
+IS  - 1530-891X (Print)
+IS  - 1530-891X (Linking)
+VI  - 31
+IP  - 6
+DP  - 2025 Jun
+TI  - Benefits of Glucagon-like Peptide-1 Receptor Agonists After Kidney 
+      Transplantation.
+PG  - 798-804
+LID - S1530-891X(25)00068-0 [pii]
+LID - 10.1016/j.eprac.2025.02.020 [doi]
+AB  - OBJECTIVE: Benefits of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) in 
+      kidney transplant (KT) recipients have not been adequately studied. METHODS: We 
+      retrospectively examined the effects of GLP-1 RA on mortality, kidney outcomes 
+      and metabolic parameters in KT recipients with type 2 diabetes mellitus (T2DM) 
+      treated versus not treated with GLP-1 RA. A reference group of KT recipients not 
+      treated with GLP-1 RA was used for comparison. Data were analyzed using analysis 
+      of variance, chi2 tests, and generalized estimating equation models. GLP-1 RA was 
+      used as a time-dependent model in Cox regression modeling. For survival analysis, 
+      the final model fitting was stratified by race-ethnicity. RESULTS: Seventy-seven 
+      KT recipients with T2DM were treated with GLP-1 RA for at least 12 months. 
+      Reference group included 2094 patients not on GLP-1 RA. The mean (SD) age at 
+      transplant was 57.9 (9.5) and 60.8 (9.5) years for the treatment and reference 
+      groups, respectively. Median follow-up time from the index date for mortality was 
+      1.5 (IQR 0.99, 2.4) in the treatment and 5.8 (IQR 3.4, 9.1) years in the 
+      reference group. GLP-1 RA use was associated with improved survival (P = .049), 
+      decreased urine albumin to creatinine ratio (net reduction of 10.62 mg/g per 
+      year, P = .003), slower estimated glomerular filtration rate decline (1.04 vs 
+      1.56 mL/min/1.73 m(2) per year, P = .04), and lower troponin levels. CONCLUSIONS: 
+      GLP-1 RA in KT recipients with T2DM was associated with reduced mortality, and 
+      improved kidney function compared to the reference group. Larger, prospective 
+      studies are needed to fully evaluate the risks and benefits of GLP-1 RA therapy 
+      in KT recipients.
+CI  - Copyright (c) 2025 AACE. Published by Elsevier Inc. All rights reserved.
+FAU - Sahi, Sukhdeep S
+AU  - Sahi SS
+AD  - Department of Medicine, Division of Nephrology and Hypertension, Mayo Clinic, 
+      Rochester, Minnesota.
+FAU - Garcia Valencia, Oscar
+AU  - Garcia Valencia O
+AD  - Department of Medicine, Division of Nephrology and Hypertension, Mayo Clinic, 
+      Rochester, Minnesota.
+FAU - Na, Jie
+AU  - Na J
+AD  - Department of Pharmacy, Mayo Clinic, Rochester, Minnesota.
+FAU - Lemke, Adley
+AU  - Lemke A
+AD  - Department of Health Sciences Research, Division of Biomedical Statistics and 
+      Informatics, Mayo Clinic, Rochester, Minnesota.
+FAU - Duffy, Dustin
+AU  - Duffy D
+AD  - Department of Pharmacy, Mayo Clinic, Rochester, Minnesota.
+FAU - Smith, Byron
+AU  - Smith B
+AD  - Department of Pharmacy, Mayo Clinic, Rochester, Minnesota.
+FAU - Navratil, Pavel
+AU  - Navratil P
+AD  - Department of Medicine, Division of Nephrology and Hypertension, Mayo Clinic, 
+      Rochester, Minnesota; Department of Urology, University Hospital Hradec Kralove, 
+      Czechia; Charles University, Faculty of Medicine in Hradec Kralove, Czechia.
+FAU - Budhiraja, Pooja
+AU  - Budhiraja P
+AD  - Department of Internal Medicine Division of Nephrology and Transplant, Mayo 
+      Clinic, Phoenix, Arizona.
+FAU - Diwan, Tayyab S
+AU  - Diwan TS
+AD  - Department of Surgery and Immunology, Mayo Clinic, Rochester, Minnesota; Von 
+      Liebig Transplant Center, Mayo Clinic, Rochester, Minnesota.
+FAU - Issa, Naim
+AU  - Issa N
+AD  - Department of Medicine, Division of Nephrology and Hypertension, Mayo Clinic, 
+      Rochester, Minnesota.
+FAU - Stegall, Mark D
+AU  - Stegall MD
+AD  - Department of Surgery and Immunology, Mayo Clinic, Rochester, Minnesota; Von 
+      Liebig Transplant Center, Mayo Clinic, Rochester, Minnesota.
+FAU - Denic, Aleksandar
+AU  - Denic A
+AD  - Department of Nephrology and Hypertension Research, Mayo Clinic, Rochester, 
+      Minnesota.
+FAU - Abdelrheem, Ahmed A
+AU  - Abdelrheem AA
+AD  - Department of Surgery and Immunology, Mayo Clinic, Rochester, Minnesota.
+FAU - Wadei, Hani M
+AU  - Wadei HM
+AD  - Department of Transplant, Mayo Clinic, Jacksonville, Florida.
+FAU - Park, Walter D
+AU  - Park WD
+AD  - Department of Cardiovascular Surgery Research, Mayo Clinic, Rochester, Minnesota.
+FAU - Shah, Pankaj
+AU  - Shah P
+AD  - Department of Medicine, Division of Endocrinology, Diabetes, Metabolism, & 
+      Nutrition, Mayo Clinic Rochester, Minnesota.
+FAU - Kudva, Yogish C
+AU  - Kudva YC
+AD  - Von Liebig Transplant Center, Mayo Clinic, Rochester, Minnesota; Department of 
+      Medicine, Division of Endocrinology, Diabetes, Metabolism, & Nutrition, Mayo 
+      Clinic Rochester, Minnesota.
+FAU - Kukla, Aleksandra
+AU  - Kukla A
+AD  - Department of Medicine, Division of Nephrology and Hypertension, Mayo Clinic, 
+      Rochester, Minnesota; Von Liebig Transplant Center, Mayo Clinic, Rochester, 
+      Minnesota. Electronic address: kukla.aleksandra@mayo.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20250305
+PL  - United States
+TA  - Endocr Pract
+JT  - Endocrine practice : official journal of the American College of Endocrinology 
+      and the American Association of Clinical Endocrinologists
+JID - 9607439
+RN  - 0 (Glucagon-Like Peptide-1 Receptor Agonists)
+RN  - 0 (Hypoglycemic Agents)
+SB  - IM
+MH  - Humans
+MH  - *Kidney Transplantation/mortality
+MH  - Female
+MH  - Male
+MH  - Middle Aged
+MH  - *Glucagon-Like Peptide-1 Receptor Agonists
+MH  - Retrospective Studies
+MH  - *Diabetes Mellitus, Type 2/drug therapy/mortality/complications
+MH  - Aged
+MH  - *Hypoglycemic Agents/therapeutic use
+OTO - NOTNLM
+OT  - diabetes mellitus
+OT  - glucagon-like peptide-1 receptor agonist
+OT  - kidney transplantation
+OT  - post-transplant diabetes mellitus
+COIS- Disclosure Aleksandra Kukla participated in NovoNordisk Advisory Board in 2020; 
+      received no personal compensation.
+EDAT- 2025/03/09 15:09
+MHDA- 2025/06/14 16:47
+CRDT- 2025/03/07 19:13
+PHST- 2024/12/11 00:00 [received]
+PHST- 2025/02/26 00:00 [revised]
+PHST- 2025/02/28 00:00 [accepted]
+PHST- 2025/06/14 16:47 [medline]
+PHST- 2025/03/09 15:09 [pubmed]
+PHST- 2025/03/07 19:13 [entrez]
+AID - S1530-891X(25)00068-0 [pii]
+AID - 10.1016/j.eprac.2025.02.020 [doi]
+PST - ppublish
+SO  - Endocr Pract. 2025 Jun;31(6):798-804. doi: 10.1016/j.eprac.2025.02.020. Epub 2025 
+      Mar 5.

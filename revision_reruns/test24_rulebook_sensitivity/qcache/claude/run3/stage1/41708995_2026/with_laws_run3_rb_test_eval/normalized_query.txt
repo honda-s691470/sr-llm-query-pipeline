@@ -1,0 +1,1 @@
+("Stroke"[Mesh] OR "Brain Ischemia"[Mesh] OR stroke[tiab] OR "ischemic stroke"[tiab] OR "ischaemic stroke"[tiab] OR "stroke mimic*"[tiab]) AND ("Biomarkers"[Mesh] OR biomarker*[tiab] OR "fluid biomarker*"[tiab] OR protein*[tiab] OR metabolite*[tiab] OR "nucleic acid*"[tiab] OR microRNA[tiab] OR miRNA[tiab])

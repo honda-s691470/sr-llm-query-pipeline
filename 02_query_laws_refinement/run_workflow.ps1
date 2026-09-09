@@ -2,7 +2,8 @@ param(
     [string]$CodexCommand = "codex",
     [string]$CodexModel = "gpt-5.3-codex",
     [string]$PythonCommand = "python",
-    [switch]$AutoRewriteSection00
+    [switch]$AutoRewriteSection00,
+    [switch]$NoCodexApiFallback
 )
 
 $ErrorActionPreference = "Stop"
@@ -22,6 +23,57 @@ function Get-QueryVersion {
         return [int]$Matches[1]
     }
     throw "Could not parse query_laws version from: $FileName"
+}
+
+function Get-DotEnvValue {
+    param([string]$Path, [string]$Name)
+    if (-not (Test-Path -LiteralPath $Path)) { return $null }
+    foreach ($line in Get-Content -LiteralPath $Path) {
+        $trimmed = $line.Trim()
+        if (-not $trimmed -or $trimmed.StartsWith("#") -or -not $trimmed.Contains("=")) { continue }
+        $parts = $trimmed.Split("=", 2)
+        if ($parts[0].Trim() -eq $Name) {
+            return $parts[1].Trim().Trim('"').Trim("'")
+        }
+    }
+    return $null
+}
+
+function Get-OpenAIApiKey {
+    if ($env:OPENAI_API_KEY) { return $env:OPENAI_API_KEY }
+    $candidate = Get-DotEnvValue -Path (Join-Path $bundleRoot ".env") -Name "OPENAI_API_KEY"
+    if ($candidate) { return $candidate }
+    $candidate = Get-DotEnvValue -Path (Join-Path (Split-Path -Parent $bundleRoot) ".env") -Name "OPENAI_API_KEY"
+    if ($candidate) { return $candidate }
+    return $null
+}
+
+function Invoke-OpenAIResponsesFallback {
+    param([string]$Prompt, [string]$Model, [string]$LogPath)
+    $apiKey = Get-OpenAIApiKey
+    if (-not $apiKey) { throw "OPENAI_API_KEY was not found for Codex API fallback." }
+    $body = @{
+        model = $Model
+        input = $Prompt
+        max_output_tokens = 8096
+    } | ConvertTo-Json -Depth 8
+    try {
+        $resp = Invoke-RestMethod -Uri "https://api.openai.com/v1/responses" -Method Post -Headers @{
+            Authorization = "Bearer $apiKey"
+            "Content-Type" = "application/json"
+        } -Body $body -TimeoutSec 300
+        $texts = @()
+        foreach ($item in $resp.output) {
+            foreach ($content in $item.content) {
+                if ($content.type -eq "output_text" -or $content.type -eq "text") { $texts += $content.text }
+            }
+        }
+        "api_status=200`nmodel=$($resp.model)" | Set-Content -Encoding UTF8 $LogPath
+        return ($texts -join "`n")
+    } catch {
+        "api_error=$($_.Exception.Message)" | Set-Content -Encoding UTF8 $LogPath
+        throw
+    }
 }
 
 $bundleRoot = (Get-Location).Path
@@ -61,8 +113,14 @@ foreach ($target in $targetDirs) {
     $queryLawsCopyPath = Join-Path $outDir ("query_laws_v{0}.txt" -f $version)
     Copy-Item -LiteralPath $latestQueryLaws.FullName -Destination $queryLawsCopyPath -Force
 
+    $inputConfigText = Get-Content -Raw (Join-Path $targetDir "input_config.json")
     $combinedPrompt = @"
 $promptTemplate
+
+----------------------------------------
+INPUT CONFIG CONTENT
+----------------------------------------
+$inputConfigText
 
 ----------------------------------------
 QUERY LAWS CONTENT
@@ -70,7 +128,16 @@ QUERY LAWS CONTENT
 $queryLawsText
 "@
 
-    $rawOutput = $combinedPrompt | & $CodexCommand exec --skip-git-repo-check -s danger-full-access -C $targetDir -m $CodexModel -
+    $rawOutput = $combinedPrompt | & $CodexCommand exec --skip-git-repo-check -s danger-full-access -C $targetDir -m $CodexModel - 2>&1
+    $codexExitCode = $LASTEXITCODE
+    if ($codexExitCode -ne 0) {
+        if ($NoCodexApiFallback) {
+            $rawOutput | Set-Content -Encoding UTF8 $rawOutputPath
+            throw "Codex CLI failed for $targetDir (exit $codexExitCode)."
+        }
+        $fallbackLogPath = Join-Path $outDir "openai_api_fallback.log"
+        $rawOutput = Invoke-OpenAIResponsesFallback -Prompt $combinedPrompt -Model $CodexModel -LogPath $fallbackLogPath
+    }
     $rawOutput | Set-Content -Encoding UTF8 $rawOutputPath
 
     $fullQueryLine = ($rawOutput -split "`r?`n" | Where-Object { $_ -match '^FULL_QUERY:\s*' } | Select-Object -Last 1)

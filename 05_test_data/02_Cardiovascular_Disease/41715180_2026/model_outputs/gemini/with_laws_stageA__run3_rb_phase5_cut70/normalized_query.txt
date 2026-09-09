@@ -1,0 +1,1 @@
+(("Heart Failure"[Mesh] OR "heart failure"[tiab]) AND ("prediction model*"[tiab] OR "predictive model*"[tiab] OR "prognostic model*"[tiab] OR "risk score*"[tiab] OR "risk model*"[tiab] OR "machine learning"[tiab] OR "deep learning"[tiab] OR nomogram*[tiab] OR "prognostic index"[tiab] OR "clinical prediction rule*"[tiab]) NOT "Letter"[pt]) NOT "Letter"[pt]

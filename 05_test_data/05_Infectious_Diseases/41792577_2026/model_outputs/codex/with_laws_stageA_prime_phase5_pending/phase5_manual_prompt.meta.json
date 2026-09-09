@@ -1,0 +1,10 @@
+{
+  "domain": "05_Infectious_Diseases",
+  "paper_id": "41792577_2026",
+  "provider": "codex",
+  "current_hits": 20629,
+  "current_recall": 0.0,
+  "gold_n": 0,
+  "target_hits": 9999,
+  "instruction": "Send the contents of phase5_manual_prompt.md to chat, obtain one raw query line only, save the accepted query to with_laws_stageA_prime/normalized_query.txt, then rerun."
+}

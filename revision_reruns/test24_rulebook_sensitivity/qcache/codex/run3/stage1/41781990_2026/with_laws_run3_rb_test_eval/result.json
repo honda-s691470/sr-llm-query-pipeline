@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T02:52:19Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41781990_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_run3_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Stomach Neoplasms\"[Mesh] OR \"Colorectal Neoplasms\"[Mesh] OR \"Colonic Neoplasms\"[Mesh] OR \"Rectal Neoplasms\"[Mesh] OR \"Gastrointestinal Neoplasms\"[Mesh] OR gastric cancer*[tiab] OR stomach cancer*[tiab] OR gastric neoplasm*[tiab] OR colorectal cancer*[tiab] OR colon cancer*[tiab] OR rectal cancer*[tiab] OR gastrointestinal cancer*[tiab] OR gastrointestinal malignan*[tiab]) AND (\"Peritoneal Neoplasms\"[Mesh] OR \"peritoneal metastasis\"[tiab] OR \"peritoneal metastases\"[tiab] OR \"peritoneal carcinomatosis\"[tiab] OR \"peritoneal dissemination\"[tiab] OR \"peritoneal surface malignancy\"[tiab] OR \"peritoneal surface malignancies\"[tiab] OR peritoneal[tiab]) AND (\"Hyperthermic Intraperitoneal Chemotherapy\"[Mesh] OR \"hyperthermic intraperitoneal chemotherapy\"[tiab] OR \"heated intraperitoneal chemotherapy\"[tiab] OR \"intraperitoneal hyperthermic chemotherapy\"[tiab] OR \"hyperthermic intraoperative intraperitoneal chemotherapy\"[tiab] OR HIPEC[tiab])) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti]) AND english[la]",
+  "query_length": 1110,
+  "gold_count": 10,
+  "total_hits": 293,
+  "hit_gold_count": 8,
+  "recall": 0.8,
+  "nnr": 36.625,
+  "f1": 0.052805280528052806,
+  "error_note": ""
+}

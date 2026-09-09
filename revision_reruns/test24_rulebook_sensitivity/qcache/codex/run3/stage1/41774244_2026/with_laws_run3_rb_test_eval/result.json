@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T02:51:07Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41774244_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_run3_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "((\"Lymphoma, Non-Hodgkin\"[Mesh] OR \"non-Hodgkin lymphoma\"[tiab] OR \"non-Hodgkin's lymphoma\"[tiab] OR \"non Hodgkin lymphoma\"[tiab] OR \"non Hodgkin's lymphoma\"[tiab] OR NHL[tiab] OR \"B-cell lymphoma\"[tiab] OR \"T-cell lymphoma\"[tiab] OR \"diffuse large B-cell lymphoma\"[tiab] OR DLBCL[tiab] OR \"follicular lymphoma\"[tiab]) AND (\"Survivors\"[Mesh] OR survivor*[tiab] OR survivorship[tiab] OR \"post-treatment\"[tiab] OR posttreatment[tiab] OR \"after treatment\"[tiab] OR \"completed treatment\"[tiab] OR \"completion of treatment\"[tiab] OR remission[tiab]) AND (\"Quality of Life\"[Mesh] OR \"quality of life\"[tiab] OR QoL[tiab] OR HRQoL[tiab] OR \"health-related quality of life\"[tiab]) AND (\"2014/01/01\"[dp] : \"2025/12/31\"[dp]) AND english[lang])",
+  "query_length": 732,
+  "gold_count": 19,
+  "total_hits": 239,
+  "hit_gold_count": 16,
+  "recall": 0.8421052631578947,
+  "nnr": 14.9375,
+  "f1": 0.12403100775193798,
+  "error_note": ""
+}

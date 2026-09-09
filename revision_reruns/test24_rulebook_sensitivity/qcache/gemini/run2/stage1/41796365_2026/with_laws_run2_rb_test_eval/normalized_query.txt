@@ -1,0 +1,1 @@
+("Adolescent"[Mesh] OR "Child"[Mesh] OR adolescent*[tiab] OR child*[tiab] OR youth*[tiab] OR teen*[tiab] OR pediatric*[tiab] OR paediatric*[tiab]) AND ("Hallucinogens"[Mesh] OR hallucinogen*[tiab] OR psychedelic*[tiab] OR LSD[tiab] OR psilocybin[tiab] OR MDMA[tiab] OR ecstasy[tiab] OR DMT[tiab] OR mescaline[tiab] OR ayahuasca[tiab])

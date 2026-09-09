@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:24:07Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41630847_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR RA[tiab]) AND (\"Stroke\"[Mesh] OR stroke[tiab] OR \"cerebrovascular accident\"[tiab] OR CVA[tiab] OR \"cerebrovascular disease\"[tiab] OR \"cerebrovascular disorder\"[tiab] OR \"ischemic stroke\"[tiab] OR \"haemorrhagic stroke\"[tiab] OR \"hemorrhagic stroke\"[tiab] OR \"brain infarction\"[tiab] OR \"cerebral infarction\"[tiab])",
+  "query_length": 379,
+  "gold_count": 12,
+  "total_hits": 1894,
+  "hit_gold_count": 12,
+  "recall": 1.0,
+  "nnr": 157.83333333333334,
+  "f1": 0.012591815320041971,
+  "error_note": ""
+}

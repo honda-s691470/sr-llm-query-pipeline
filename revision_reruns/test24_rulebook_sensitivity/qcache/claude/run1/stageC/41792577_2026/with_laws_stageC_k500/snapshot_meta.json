@@ -1,0 +1,27 @@
+﻿{
+  "saved_at_utc": "2026-08-24T21:29:31.513430+00:00",
+  "dataset_split": "test",
+  "domain": "05_Infectious_Diseases",
+  "paper_id": "41792577_2026",
+  "provider": "claude",
+  "stage": "C",
+  "condition": "with_laws_stageC_k500",
+  "source_condition": "with_laws_stageB",
+  "query_type": "hyde_pseudo_abstract",
+  "query_length": 1621,
+  "query_sha256": "7383c10dec1f4a81eba4a87912ac8a3e5172de048b7c4b8ce57faaadbf483e3d",
+  "query_path": "public_release/05_test_data/05_Infectious_Diseases\\41792577_2026\\model_outputs\\claude\\with_laws_stageC_k500\\normalized_query.txt",
+  "extra": {
+    "stage_c_mode": "ranked",
+    "stagec_min_hits": 1001,
+    "stagec_gate_hits": 1000,
+    "stagec_floor_hits": 1000,
+    "stagec_cut_percent": 70.0,
+    "use_fixed_k": false,
+    "final_formula": "rank(s_q)+rank(s_pos_mean)-rank(s_neg_mean)",
+    "k_used": 2918,
+    "query_hash": "4ab9ab3bfc",
+    "abstract_fetch_n": 129,
+    "hyde_newly_generated": false
+  }
+}

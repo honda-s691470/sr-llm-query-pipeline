@@ -1,0 +1,268 @@
+--- Missed Papers Context (sampled) ---
+Sample size: 2 / Missed count: 2
+Seed: 1787403003
+Sampled PMIDs: 39114398, 32045328
+
+MEDLINE FIELDS OF INTEREST:
+- TI: Title
+- AB: Abstract
+- MH: MeSH Headings
+
+
+PMID- 39114398
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240809
+IS  - 0971-4065 (Print)
+IS  - 1998-3662 (Electronic)
+IS  - 0971-4065 (Linking)
+VI  - 34
+IP  - 3
+DP  - 2024 May-Jun
+TI  - A Retrospective Study of End-Stage Renal Disease Patients on Maintenance 
+      Hemodialysis with COVID-19.
+PG  - 252-253
+LID - 10.4103/ijn.ijn_230_23 [doi]
+FAU - P, Aiswharya Lakshmi
+AU  - P AL
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - A, Sunnesh
+AU  - A S
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - S, Mathini
+AU  - S M
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - Kumar, Prasanna N
+AU  - Kumar PN
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - M, Gurupriya
+AU  - M G
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Vishwaeswar Rao
+AU  - G VR
+AD  - Community Medicine, Sri Venkateswara Institute of Medical Sciences, Tirupati, 
+      Andhra Pradesh, India.
+FAU - M, Raja Amarendra
+AU  - M RA
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - K, Naveen
+AU  - K N
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Gayathri Bhatt
+AU  - G GB
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Srilakshmi
+AU  - G S
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - Manuel, Maria Bethasida
+AU  - Manuel MB
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - B, Alekhya
+AU  - B A
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - V, Kiran Kumar
+AU  - V KK
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - K, Dinakar Reddy
+AU  - K DR
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - K P, Rahul
+AU  - K P R
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - P, Lohitha
+AU  - P L
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - K, Pravallika
+AU  - K P
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Jahnavi
+AU  - G J
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - B, Anil Kumar
+AU  - B AK
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Charishma
+AU  - G C
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - S, Taranum Bhanu
+AU  - S TB
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - S, Soundarya
+AU  - S S
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - G, Ram Thulasi
+AU  - G RT
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - P, Bhargav
+AU  - P B
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - S, Sailaja
+AU  - S S
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - R, Ram
+AU  - R R
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - V, Siva Kumar
+AU  - V SK
+AD  - Nephrology, Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra 
+      Pradesh, India.
+FAU - B, Vengamma
+AU  - B V
+AD  - Department of Neurology, Director-cum-Vice Chancellor, Sri Venkateswara Institute 
+      of Medical Sciences, Tirupati, Andhra Pradesh, India.
+LA  - eng
+PT  - Journal Article
+DEP - 20231106
+PL  - India
+TA  - Indian J Nephrol
+JT  - Indian journal of nephrology
+JID - 8914356
+PMC - PMC11302128
+COIS- There are no conflicts of interest.
+EDAT- 2024/08/08 06:42
+MHDA- 2024/08/08 06:43
+PMCR- 2024/05/01
+CRDT- 2024/08/08 04:32
+PHST- 2023/05/30 00:00 [received]
+PHST- 2023/08/07 00:00 [accepted]
+PHST- 2024/08/08 06:43 [medline]
+PHST- 2024/08/08 06:42 [pubmed]
+PHST- 2024/08/08 04:32 [entrez]
+PHST- 2024/05/01 00:00 [pmc-release]
+AID - 10.4103/ijn.ijn_230_23 [pii]
+AID - 10.4103/ijn.ijn_230_23 [doi]
+PST - ppublish
+SO  - Indian J Nephrol. 2024 May-Jun;34(3):252-253. doi: 10.4103/ijn.ijn_230_23. Epub 
+      2023 Nov 6.
+
+PMID- 32045328
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210618
+LR  - 20241211
+IS  - 1557-7740 (Electronic)
+IS  - 1096-6218 (Print)
+IS  - 1557-7740 (Linking)
+VI  - 23
+IP  - 8
+DP  - 2020 Aug
+TI  - Barriers and Facilitators to Discussing Goals of Care among Nephrology Trainees: 
+      A Qualitative Analysis and Novel Educational Intervention.
+PG  - 1045-1051
+LID - 10.1089/jpm.2019.0570 [doi]
+AB  - Background: Goals of care (GOC) conversations are critical to advance care 
+      planning but occur infrequently in nephrology. National workshops have improved 
+      trainee comfort with initiating GOC conversations but lack interface with 
+      palliative subspecialists and can incur travel-related costs. We developed an 
+      educational intervention focused on GOC conversations for nephrology trainees 
+      that incorporated into routine schedules and offered feedback from palliative 
+      subspecialists. Objective: To explore barriers and facilitators to discussing GOC 
+      and uncover perceptions of GOC-related behavior change post-intervention. Design: 
+      Qualitative study. Setting/Subjects: Sixteen nephrology trainees at an academic 
+      medical center. Measurements: Analyses of semistructured interviews occurred in 
+      phases: (1) isolation of quotes; (2) development of a coding system; and (3) 
+      creation of a framework of interrelationships between quotes using an 
+      inductive/deductive approach. Results: We captured the following themes: (1) 
+      prior knowledge (ability to define GOC, knowledge of communication frameworks and 
+      prognostic data, exposure to outpatient GOC conversations; (2) attitudes related 
+      to GOC conversations (responsibility, comfort, therapeutic alliance, patient 
+      preparedness, partnership with care teams); and (3) potential change in behaviors 
+      (increased likelihood to initiate GOC conversations early, more accurate 
+      identification of patients appropriate for a GOC conversation). Conclusions: 
+      Prior knowledge of, exposure to, and attitudes toward advance care planning were 
+      key determinants of a nephrology trainees' ability to initiate timely GOC 
+      conversations. After our intervention, trainees reported increased comfort with 
+      and likelihood to initiate GOC conversations and an improved ability to identify 
+      appropriate candidates. Our intervention may be a novel, feasible way to coach 
+      nephrologists to initiate timely GOC conversations.
+FAU - Nair, Devika
+AU  - Nair D
+AD  - Division of Nephrology and Hypertension, Department of Medicine, Vanderbilt 
+      University Medical Center, Center for Health Services Research, Nashville, 
+      Tennessee, USA.
+AD  - Vanderbilt Center for Kidney Disease, Nashville, Tennessee, USA.
+FAU - El-Sourady, Maie
+AU  - El-Sourady M
+AD  - Division of General Internal Medicine, Department of Medicine, Vanderbilt 
+      University Medical Center, Nashville, Tennessee, USA.
+FAU - Bonnet, Kemberlee
+AU  - Bonnet K
+AD  - Department of Psychology, Vanderbilt University, Nashville, Tennessee, USA.
+FAU - Schlundt, David G
+AU  - Schlundt DG
+AD  - Department of Psychology, Vanderbilt University, Nashville, Tennessee, USA.
+FAU - Fanning, Joseph B
+AU  - Fanning JB
+AD  - Center for Biomedical Ethics and Society, Vanderbilt University, Nashville, 
+      Tennessee, USA.
+FAU - Karlekar, Mohana B
+AU  - Karlekar MB
+AD  - Division of General Internal Medicine, Department of Medicine, Vanderbilt 
+      University Medical Center, Nashville, Tennessee, USA.
+LA  - eng
+GR  - I01 BX000320/BX/BLRD VA/United States
+GR  - P30 DK114809/DK/NIDDK NIH HHS/United States
+GR  - T32 DK007569/DK/NIDDK NIH HHS/United States
+GR  - UL1 TR002243/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20200211
+PL  - United States
+TA  - J Palliat Med
+JT  - Journal of palliative medicine
+JID - 9808462
+SB  - IM
+MH  - *Advance Care Planning
+MH  - Communication
+MH  - Humans
+MH  - *Nephrology
+MH  - Palliative Care
+MH  - Patient Care Planning
+PMC - PMC7404821
+OTO - NOTNLM
+OT  - advance care planning
+OT  - communication skills
+OT  - end-of-life care
+OT  - goals of care
+OT  - medical education
+OT  - palliative care
+OT  - qualitative research
+COIS- No competing financial interests exist.
+EDAT- 2020/02/12 06:00
+MHDA- 2021/06/22 06:00
+PMCR- 2021/08/01
+CRDT- 2020/02/12 06:00
+PHST- 2020/02/12 06:00 [pubmed]
+PHST- 2021/06/22 06:00 [medline]
+PHST- 2020/02/12 06:00 [entrez]
+PHST- 2021/08/01 00:00 [pmc-release]
+AID - 10.1089/jpm.2019.0570 [pii]
+AID - 10.1089/jpm.2019.0570 [doi]
+PST - ppublish
+SO  - J Palliat Med. 2020 Aug;23(8):1045-1051. doi: 10.1089/jpm.2019.0570. Epub 2020 
+      Feb 11.

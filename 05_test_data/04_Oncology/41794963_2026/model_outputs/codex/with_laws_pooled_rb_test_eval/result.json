@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:16:01Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41794963_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Neuroma, Acoustic\"[Mesh] OR \"vestibular schwannoma\"[tiab] OR \"vestibular schwannomas\"[tiab] OR \"acoustic neuroma\"[tiab] OR \"acoustic neuromas\"[tiab] OR \"acoustic neurinoma\"[tiab] OR \"acoustic neurinomas\"[tiab]) AND (\"Quality of Life\"[Mesh] OR \"quality of life\"[tiab] OR HRQoL[tiab] OR QOL[tiab] OR PANQOL[tiab] OR \"Penn Acoustic Neuroma Quality-of-Life\"[tiab] OR \"Penn Acoustic Neuroma Quality of Life\"[tiab])",
+  "query_length": 411,
+  "gold_count": 16,
+  "total_hits": 600,
+  "hit_gold_count": 16,
+  "recall": 1.0,
+  "nnr": 37.5,
+  "f1": 0.05194805194805195,
+  "error_note": ""
+}

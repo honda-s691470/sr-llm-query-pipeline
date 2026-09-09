@@ -1,0 +1,16 @@
+{
+  "query": "((\"kidney transplant*\"[tiab] OR \"renal transplant*\"[tiab] OR \"kidney graft*\"[tiab] OR \"renal graft*\"[tiab]) AND (\"type 2 diabetes\"[tiab] OR T2DM[tiab] OR \"post-transplant diabetes\"[tiab] OR PTDM[tiab]) AND (\"glucagon-like peptide-1 receptor agonist*\"[tiab] OR \"GLP-1 receptor agonist*\"[tiab] OR \"GLP-1RA\"[tiab] OR semaglutide[tiab] OR liraglutide[tiab] OR dulaglutide[tiab] OR exenatide[tiab] OR lixisenatide[tiab]) AND (mortality[tiab] OR cardiovascular[tiab] OR MACE[tiab] OR \"major adverse cardiovascular\"[tiab])) AND (\"Retrospective Studies\"[Mesh] AND english[Language] NOT (case reports[Publication Type] OR editorial[Publication Type] OR letter[Publication Type]))",
+  "total_hits": 13,
+  "recall": 1.0,
+  "found_count": 3,
+  "total_gold": 3,
+  "mode": "open",
+  "timestamp_unix": 1787400889,
+  "missed_pmids": [],
+  "found_pmids": [
+    "39984953",
+    "40054529",
+    "40056927"
+  ],
+  "missed_count": 0
+}

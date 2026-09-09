@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-24T09:24:57Z",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41709059_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_run2_rb_test_eval",
+  "status": "completed",
+  "query": "((\"Coronary Artery Disease\"[Mesh] OR \"coronary artery disease\"[tiab] OR \"coronary heart disease\"[tiab] OR CAD[tiab] OR \"ischemic heart disease\"[tiab] OR \"myocardial infarction\"[tiab]) AND (\"Carnitine\"[Mesh] OR carnitine[tiab] OR \"L-carnitine\"[tiab] OR levocarnitine[tiab]))",
+  "query_length": 273,
+  "gold_count": 20,
+  "total_hits": 352,
+  "hit_gold_count": 14,
+  "recall": 0.7,
+  "nnr": 25.142857142857142,
+  "f1": 0.07526881720430108,
+  "error_note": ""
+}

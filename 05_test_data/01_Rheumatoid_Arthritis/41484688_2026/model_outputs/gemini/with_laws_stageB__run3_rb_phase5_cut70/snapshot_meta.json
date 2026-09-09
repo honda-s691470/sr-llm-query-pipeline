@@ -1,0 +1,20 @@
+﻿{
+  "saved_at_utc": "2026-08-25T09:26:13.949679+00:00",
+  "dataset_split": "test",
+  "domain": "01_Rheumatoid_Arthritis",
+  "paper_id": "41484688_2026",
+  "provider": "gemini",
+  "stage": "B",
+  "condition": "with_laws_stageB__run3_rb_phase5_cut70",
+  "source_condition": "with_laws_stageA__run3_rb_phase5_cut70",
+  "query_type": "pubmed_boolean",
+  "query_length": 278,
+  "query_sha256": "13d64e3a99cc400dbeb6bec438b7fd7af6f7978a62790d3ccfbb30428355c877",
+  "query_path": "public_release/05_test_data/01_Rheumatoid_Arthritis\\41484688_2026\\model_outputs\\gemini\\with_laws_stageB__run3_rb_phase5_cut70\\normalized_query.txt",
+  "extra": {
+    "stage_b_total_hits": 683,
+    "stage_b_input_n": 683,
+    "stage_b_excluded_n": 0,
+    "stage_b_capped_top9999": false
+  }
+}

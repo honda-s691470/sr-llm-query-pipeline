@@ -1,0 +1,10 @@
+{
+  "domain": "04_Oncology",
+  "paper_id": "41641734_2026",
+  "query": "(\"Solitary Pulmonary Nodule\"[Mesh] OR \"Multiple Pulmonary Nodules\"[Mesh] OR \"solitary pulmonary nodule*\"[tiab] OR \"incidental pulmonary nodule*\"[tiab] OR \"pulmonary nodule*\"[ti] OR \"lung nodule*\"[tiab]) AND (\"Neoplasms\"[Mesh:NoExp] OR \"Lung Neoplasms\"[majr] OR malignan*[tiab] OR cancer*[tiab] OR \"risk factor*\"[tiab]) NOT \"Review\"[pt] NOT \"Letter\"[pt] NOT \"Comment\"[pt] NOT \"Editorial\"[pt]",
+  "total_hits": 8743,
+  "num_gold": 54,
+  "found_gold": 49,
+  "recall": 0.9074,
+  "nnr": 161.91
+}

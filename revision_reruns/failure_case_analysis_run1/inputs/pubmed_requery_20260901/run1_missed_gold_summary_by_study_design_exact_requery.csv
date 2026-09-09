@@ -1,0 +1,22 @@
+﻿provider,study_design_or_record_type,missed_gold_pmids
+Claude,Diagnostic/prognostic/biomarker study,7
+Claude,Observational study,30
+Claude,Other/unclear design,7
+Claude,Preclinical/animal/in vitro,11
+Claude,Qualitative/mixed-methods study,3
+Claude,Randomized/clinical trial,20
+Claude,Review/SR-of-SRs record,9
+Codex,Diagnostic/prognostic/biomarker study,2
+Codex,Observational study,18
+Codex,Other/unclear design,11
+Codex,Preclinical/animal/in vitro,8
+Codex,Qualitative/mixed-methods study,5
+Codex,Randomized/clinical trial,19
+Codex,Review/SR-of-SRs record,10
+Gemini,Diagnostic/prognostic/biomarker study,3
+Gemini,Observational study,17
+Gemini,Other/unclear design,6
+Gemini,Preclinical/animal/in vitro,10
+Gemini,Qualitative/mixed-methods study,2
+Gemini,Randomized/clinical trial,9
+Gemini,Review/SR-of-SRs record,5

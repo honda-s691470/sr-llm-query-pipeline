@@ -1,0 +1,17 @@
+﻿{
+  "saved_at_utc": "2026-08-25T03:48:59.306639+00:00",
+  "dataset_split": "test",
+  "domain": "05_Infectious_Diseases",
+  "paper_id": "41793737_2026",
+  "provider": "gemini",
+  "stage": "A",
+  "condition": "with_laws_stageA__run2_rb_cut70",
+  "source_condition": "with_laws_stageA_prime__run2_rb_cut70",
+  "query_type": "pubmed_boolean",
+  "query_length": 441,
+  "query_sha256": "53504c51f2af04dd2df4883e4b9333d9595b94c405bb21dea1ca9687e9a6220b",
+  "query_path": "public_release/05_test_data/05_Infectious_Diseases\\41793737_2026\\model_outputs\\gemini\\with_laws_stageA__run2_rb_cut70\\normalized_query.txt",
+  "extra": {
+    "stage_a_total_hits": 5017
+  }
+}

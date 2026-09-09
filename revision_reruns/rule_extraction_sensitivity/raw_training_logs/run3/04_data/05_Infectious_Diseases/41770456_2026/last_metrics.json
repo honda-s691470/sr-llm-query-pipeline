@@ -1,0 +1,33 @@
+{
+  "query": "((\"Unicompartmental Knee Arthroplasty\"[Mesh] OR \"Arthroplasty, Replacement, Knee\"[Mesh] OR unicompartmental knee arthroplast*[tiab] OR unicompartmental knee replacement*[tiab] OR unicondylar knee arthroplast*[tiab] OR unicondylar knee replacement*[tiab] OR UKA[tiab] OR UKR[tiab] OR partial knee arthroplast*[tiab] OR partial knee replacement*[tiab]) AND (robotic*[tiab] OR robot-assisted[tiab] OR computer-assisted[tiab] OR computer navigat*[tiab] OR navigat*[tiab] OR MAKO[tiab] OR conventional[tiab] OR manual[tiab])) AND (((comparative[tiab] OR compared[tiab] OR versus[tiab] OR prospective[tiab]) NOT (case reports[pt] OR review[pt] OR meta-analysis[pt] OR editorial[pt] OR letter[pt])) AND english[lang])",
+  "total_hits": 2227,
+  "recall": 1.0,
+  "found_count": 20,
+  "total_gold": 20,
+  "mode": "open",
+  "timestamp_unix": 1787403922,
+  "missed_pmids": [],
+  "found_pmids": [
+    "19593669",
+    "24851792",
+    "26441329",
+    "27098321",
+    "29162608",
+    "29524796",
+    "29627257",
+    "30062950",
+    "30601042",
+    "30747237",
+    "31010509",
+    "31794587",
+    "32114810",
+    "32952328",
+    "34058870",
+    "35011960",
+    "36345186",
+    "36374325",
+    "37992738",
+    "40291971"
+  ],
+  "missed_count": 0
+}

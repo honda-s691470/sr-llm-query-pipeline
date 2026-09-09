@@ -1,0 +1,1 @@
+("Arthritis, Rheumatoid"[Mesh] OR "rheumatoid arthritis"[tiab] OR RA[tiab]) AND ("Pain Management"[Mesh] OR "Analgesics"[Mesh] OR analgesic*[tiab] OR NSAID*[tiab] OR "pain management"[tiab] OR "pain relief"[tiab] OR "pain treatment"[tiab] OR "pain control"[tiab] OR "pain reduction"[tiab] OR "pain intensity"[tiab])

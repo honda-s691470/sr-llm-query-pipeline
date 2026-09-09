@@ -1,0 +1,1 @@
+(("Arthritis, Rheumatoid"[Mesh] OR "rheumatoid arthritis"[tiab]) AND ("Analgesics"[Mesh] OR analgesic*[tiab] OR "Pain Management"[Mesh] OR "pain management"[tiab]) NOT "Editorial"[pt]) NOT "Case Reports"[pt] NOT "Letter"[pt] NOT "Editorial"[pt] NOT (animals[mh] NOT humans[mh])

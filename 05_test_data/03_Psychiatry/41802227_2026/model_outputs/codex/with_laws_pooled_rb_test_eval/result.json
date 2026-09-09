@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:10:12Z",
+  "domain_folder": "03_Psychiatry",
+  "paper_folder": "41802227_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Anxiety\"[Mesh] OR \"Anxiety Disorders\"[Mesh] OR anxiety[tiab] OR anxious[tiab] OR \"generalized anxiety\"[tiab] OR \"generalised anxiety\"[tiab] OR GAD[tiab]) AND (\"Wearable Electronic Devices\"[Mesh] OR wearable*[tiab] OR \"wrist-worn\"[tiab] OR wristworn[tiab] OR wristband*[tiab] OR \"wrist band\"[tiab] OR \"wrist bands\"[tiab] OR smartwatch*[tiab] OR \"smart watch\"[tiab] OR \"smart watches\"[tiab] OR \"fitness tracker\"[tiab] OR \"fitness trackers\"[tiab] OR Fitbit[tiab] OR Garmin[tiab] OR \"Apple Watch\"[tiab] OR actigraph*[tiab] OR actimetr*[tiab] OR Actiwatch[tiab] OR acceleromet*[tiab] OR \"heart rate variability\"[tiab] OR HRV[tiab] OR \"skin conductance\"[tiab] OR electrodermal[tiab])",
+  "query_length": 679,
+  "gold_count": 38,
+  "total_hits": 5633,
+  "hit_gold_count": 35,
+  "recall": 0.9210526315789473,
+  "nnr": 160.94285714285715,
+  "f1": 0.012343502027861048,
+  "error_note": ""
+}

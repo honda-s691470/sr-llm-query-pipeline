@@ -1,0 +1,24 @@
+﻿{
+  "saved_at_utc": "2026-08-25T03:48:56.974752+00:00",
+  "dataset_split": "test",
+  "domain": "03_Psychiatry",
+  "paper_id": "41796365_2026",
+  "provider": "claude",
+  "stage": "C",
+  "condition": "with_laws_stageC_passthrough_le1000",
+  "source_condition": "with_laws_stageB",
+  "query_type": "pubmed_boolean",
+  "query_length": 1019,
+  "query_sha256": "f685973309e601e3a53e1d1f91b2fd61d171d2d1fbf58832bad3d4fc4e4682f1",
+  "query_path": "public_release/05_test_data/03_Psychiatry\\41796365_2026\\model_outputs\\claude\\with_laws_stageC_passthrough_le1000\\normalized_query.txt",
+  "extra": {
+    "stage_c_mode": "passthrough_stageb",
+    "stagec_min_hits": 1001,
+    "stagec_gate_hits": 1000,
+    "stagec_floor_hits": 1000,
+    "stagec_cut_percent": 70.0,
+    "use_fixed_k": false,
+    "k_used": 370,
+    "passthrough_reason": "stage_b_hits_below_threshold"
+  }
+}

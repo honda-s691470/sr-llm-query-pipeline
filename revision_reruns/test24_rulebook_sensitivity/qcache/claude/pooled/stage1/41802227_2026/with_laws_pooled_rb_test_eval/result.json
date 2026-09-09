@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-25T02:29:33Z",
+  "domain_folder": "03_Psychiatry",
+  "paper_folder": "41802227_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "status": "completed",
+  "query": "(\"Anxiety\"[Mesh] OR \"Anxiety Disorders\"[Mesh] OR anxiety[tiab] OR anxious[tiab] OR \"generalized anxiety disorder\"[tiab] OR \"generalised anxiety disorder\"[tiab] OR GAD[tiab]) AND (\"Wearable Electronic Devices\"[Mesh] OR \"Fitness Trackers\"[Mesh] OR wearable*[tiab] OR \"wrist-worn\"[tiab] OR wristband*[tiab] OR smartwatch*[tiab] OR \"smart watch\"[tiab] OR \"fitness tracker*\"[tiab] OR actigraphy[tiab] OR accelerometer*[tiab] OR Fitbit[tiab] OR \"Apple Watch\"[tiab] OR Garmin[tiab] OR \"digital biomarker*\"[tiab] OR \"digital phenotyping\"[tiab]) AND (\"Adult\"[Mesh] OR adult*[tiab])",
+  "query_length": 572,
+  "gold_count": 38,
+  "total_hits": 1062,
+  "hit_gold_count": 24,
+  "recall": 0.631578947368421,
+  "nnr": 44.25,
+  "f1": 0.04363636363636363,
+  "error_note": ""
+}

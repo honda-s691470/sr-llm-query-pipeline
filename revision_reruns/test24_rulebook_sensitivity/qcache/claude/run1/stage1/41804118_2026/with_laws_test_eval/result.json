@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-20T14:24:03Z",
+  "domain_folder": "03_Psychiatry",
+  "paper_folder": "41804118_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Depression\"[Mesh] OR \"Depressive Disorder\"[Mesh] OR depression[tiab] OR depressive[tiab] OR \"depressive symptoms\"[tiab] OR \"mental distress\"[tiab]) AND (Afghan[tiab] OR Bangladeshi[tiab] OR Bhutanese[tiab] OR Indian[tiab] OR Maldivian[tiab] OR Nepalese[tiab] OR Nepali[tiab] OR Pakistani[tiab] OR \"Sri Lankan\"[tiab] OR \"South Asian\"[tiab] OR \"South Asia\"[tiab] OR diaspora[tiab] OR immigrant*[tiab] OR migrant*[tiab] OR \"United Kingdom\"[tiab] OR \"UK\"[tiab] OR \"United States\"[tiab] OR \"USA\"[tiab] OR Canada[tiab] OR Australia[tiab] OR \"New Zealand\"[tiab])",
+  "query_length": 557,
+  "gold_count": 8,
+  "total_hits": 35491,
+  "hit_gold_count": 5,
+  "recall": 0.625,
+  "nnr": 7098.2,
+  "f1": 0.0002816980760021409,
+  "error_note": ""
+}

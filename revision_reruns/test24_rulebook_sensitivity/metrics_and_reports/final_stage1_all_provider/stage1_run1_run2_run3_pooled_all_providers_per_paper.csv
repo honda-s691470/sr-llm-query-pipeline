@@ -1,0 +1,289 @@
+﻿provider,rulebook,paper_id,hits,tp,gold_n,recall,source_file,nnr
+Claude,Run 1,40815363_2025,1492.0,5.0,15.0,0.3333333333333333,all_test_metrics.csv:with_laws_v14_stage1_raw,298.4
+Codex,Run 1,40815363_2025,1339.0,4.0,15.0,0.2666666666666666,all_test_metrics.csv:with_laws_v14_stage1_raw,334.75
+Gemini,Run 1,40815363_2025,2990.0,13.0,15.0,0.8666666666666667,all_test_metrics.csv:with_laws_v14_stage1_raw,230.0
+Claude,Run 1,41108024_2025,39193.0,22.0,26.0,0.8461538461538461,all_test_metrics.csv:with_laws_v14_stage1_raw,1781.5
+Codex,Run 1,41108024_2025,4968.0,24.0,26.0,0.9230769230769232,all_test_metrics.csv:with_laws_v14_stage1_raw,207.0
+Gemini,Run 1,41108024_2025,5174.0,24.0,26.0,0.9230769230769232,all_test_metrics.csv:with_laws_v14_stage1_raw,215.58333333333334
+Claude,Run 1,41224700_2025,1219.0,11.0,12.0,0.9166666666666666,all_test_metrics.csv:with_laws_v14_stage1_raw,110.81818181818181
+Codex,Run 1,41224700_2025,318.0,10.0,12.0,0.8333333333333334,all_test_metrics.csv:with_laws_v14_stage1_raw,31.8
+Gemini,Run 1,41224700_2025,564.0,10.0,12.0,0.8333333333333334,all_test_metrics.csv:with_laws_v14_stage1_raw,56.4
+Claude,Run 1,41470797_2025,33275.0,20.0,21.0,0.9523809523809524,all_test_metrics.csv:with_laws_v14_stage1_raw,1663.75
+Codex,Run 1,41470797_2025,15280.0,20.0,21.0,0.9523809523809524,all_test_metrics.csv:with_laws_v14_stage1_raw,764.0
+Gemini,Run 1,41470797_2025,67826.0,20.0,21.0,0.9523809523809524,all_test_metrics.csv:with_laws_v14_stage1_raw,3391.3
+Claude,Run 1,41484688_2026,5482.0,12.0,17.0,0.7058823529411765,all_test_metrics.csv:with_laws_v14_stage1_raw,456.8333333333333
+Codex,Run 1,41484688_2026,1062.0,15.0,17.0,0.8823529411764706,all_test_metrics.csv:with_laws_v14_stage1_raw,70.8
+Gemini,Run 1,41484688_2026,34928.0,12.0,17.0,0.7058823529411765,all_test_metrics.csv:with_laws_v14_stage1_raw,2910.6666666666665
+Claude,Run 1,41505363_2026,168.0,15.0,18.0,0.8333333333333334,all_test_metrics.csv:with_laws_v14_stage1_raw,11.2
+Codex,Run 1,41505363_2026,114.0,14.0,18.0,0.7777777777777778,all_test_metrics.csv:with_laws_v14_stage1_raw,8.142857142857142
+Gemini,Run 1,41505363_2026,138.0,17.0,18.0,0.9444444444444444,all_test_metrics.csv:with_laws_v14_stage1_raw,8.117647058823529
+Claude,Run 1,41630847_2026,1894.0,12.0,12.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,157.83333333333334
+Codex,Run 1,41630847_2026,1922.0,12.0,12.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,160.16666666666666
+Gemini,Run 1,41630847_2026,1891.0,12.0,12.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,157.58333333333334
+Claude,Run 1,41708995_2026,14902.0,22.0,27.0,0.8148148148148148,all_test_metrics.csv:with_laws_v14_stage1_raw,677.3636363636364
+Codex,Run 1,41708995_2026,3697.0,18.0,27.0,0.6666666666666666,all_test_metrics.csv:with_laws_v14_stage1_raw,205.38888888888889
+Gemini,Run 1,41708995_2026,2113.0,24.0,27.0,0.8888888888888888,all_test_metrics.csv:with_laws_v14_stage1_raw,88.04166666666667
+Claude,Run 1,41709059_2026,392.0,14.0,20.0,0.7,all_test_metrics.csv:with_laws_v14_stage1_raw,28.0
+Codex,Run 1,41709059_2026,1971.0,17.0,20.0,0.85,all_test_metrics.csv:with_laws_v14_stage1_raw,115.94117647058823
+Gemini,Run 1,41709059_2026,3903.0,16.0,20.0,0.8,all_test_metrics.csv:with_laws_v14_stage1_raw,243.9375
+Claude,Run 1,41715180_2026,69069.0,40.0,44.0,0.9090909090909092,all_test_metrics.csv:with_laws_v14_stage1_raw,1726.725
+Codex,Run 1,41715180_2026,125431.0,44.0,44.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,2850.7045454545455
+Gemini,Run 1,41715180_2026,135910.0,44.0,44.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,3088.8636363636365
+Claude,Run 1,41720985_2026,2571.0,24.0,25.0,0.96,all_test_metrics.csv:with_laws_v14_stage1_raw,107.125
+Codex,Run 1,41720985_2026,496.0,24.0,25.0,0.96,all_test_metrics.csv:with_laws_v14_stage1_raw,20.666666666666668
+Gemini,Run 1,41720985_2026,531.0,24.0,25.0,0.96,all_test_metrics.csv:with_laws_v14_stage1_raw,22.125
+Claude,Run 1,41796365_2026,376.0,6.0,9.0,0.6666666666666666,all_test_metrics.csv:with_laws_v14_stage1_raw,62.666666666666664
+Codex,Run 1,41796365_2026,395.0,6.0,9.0,0.6666666666666666,all_test_metrics.csv:with_laws_v14_stage1_raw,65.83333333333333
+Gemini,Run 1,41796365_2026,340.0,6.0,9.0,0.6666666666666666,all_test_metrics.csv:with_laws_v14_stage1_raw,56.666666666666664
+Claude,Run 1,41802227_2026,1486.0,27.0,38.0,0.7105263157894737,all_test_metrics.csv:with_laws_v14_stage1_raw,55.03703703703704
+Codex,Run 1,41802227_2026,2102.0,35.0,38.0,0.9210526315789472,all_test_metrics.csv:with_laws_v14_stage1_raw,60.05714285714286
+Gemini,Run 1,41802227_2026,2178.0,32.0,38.0,0.8421052631578947,all_test_metrics.csv:with_laws_v14_stage1_raw,68.0625
+Claude,Run 1,41804118_2026,35491.0,5.0,8.0,0.625,all_test_metrics.csv:with_laws_v14_stage1_raw,7098.2
+Codex,Run 1,41804118_2026,6645.0,4.0,8.0,0.5,all_test_metrics.csv:with_laws_v14_stage1_raw,1661.25
+Gemini,Run 1,41804118_2026,89092.0,7.0,8.0,0.875,all_test_metrics.csv:with_laws_v14_stage1_raw,12727.42857142857
+Claude,Run 1,41641734_2026,7269.0,40.0,54.0,0.7407407407407407,all_test_metrics.csv:with_laws_v14_stage1_raw,181.725
+Codex,Run 1,41641734_2026,13375.0,50.0,54.0,0.925925925925926,all_test_metrics.csv:with_laws_v14_stage1_raw,267.5
+Gemini,Run 1,41641734_2026,14765.0,51.0,54.0,0.9444444444444444,all_test_metrics.csv:with_laws_v14_stage1_raw,289.5098039215686
+Claude,Run 1,41770755_2026,1487.0,11.0,12.0,0.9166666666666666,all_test_metrics.csv:with_laws_v14_stage1_raw,135.1818181818182
+Codex,Run 1,41770755_2026,3011.0,11.0,12.0,0.9166666666666666,all_test_metrics.csv:with_laws_v14_stage1_raw,273.72727272727275
+Gemini,Run 1,41770755_2026,14139.0,11.0,12.0,0.9166666666666666,all_test_metrics.csv:with_laws_v14_stage1_raw,1285.3636363636363
+Claude,Run 1,41774244_2026,124.0,16.0,19.0,0.8421052631578947,all_test_metrics.csv:with_laws_v14_stage1_raw,7.75
+Codex,Run 1,41774244_2026,163.0,16.0,19.0,0.8421052631578947,all_test_metrics.csv:with_laws_v14_stage1_raw,10.1875
+Gemini,Run 1,41774244_2026,159.0,16.0,19.0,0.8421052631578947,all_test_metrics.csv:with_laws_v14_stage1_raw,9.9375
+Claude,Run 1,41781907_2026,38473.0,53.0,54.0,0.9814814814814816,all_test_metrics.csv:with_laws_v14_stage1_raw,725.9056603773585
+Codex,Run 1,41781907_2026,11421.0,53.0,54.0,0.9814814814814816,all_test_metrics.csv:with_laws_v14_stage1_raw,215.49056603773585
+Gemini,Run 1,41781907_2026,25716.0,53.0,54.0,0.9814814814814816,all_test_metrics.csv:with_laws_v14_stage1_raw,485.20754716981133
+Claude,Run 1,41781990_2026,491.0,9.0,10.0,0.9,all_test_metrics.csv:with_laws_v14_stage1_raw,54.55555555555556
+Codex,Run 1,41781990_2026,311.0,8.0,10.0,0.8,all_test_metrics.csv:with_laws_v14_stage1_raw,38.875
+Gemini,Run 1,41781990_2026,442.0,8.0,10.0,0.8,all_test_metrics.csv:with_laws_v14_stage1_raw,55.25
+Claude,Run 1,41792786_2026,1341.0,20.0,20.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,67.05
+Codex,Run 1,41792786_2026,497.0,20.0,20.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,24.85
+Gemini,Run 1,41792786_2026,419.0,20.0,20.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,20.95
+Claude,Run 1,41794963_2026,562.0,16.0,16.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,35.125
+Codex,Run 1,41794963_2026,50.0,13.0,16.0,0.8125,all_test_metrics.csv:with_laws_v14_stage1_raw,3.8461538461538463
+Gemini,Run 1,41794963_2026,539.0,16.0,16.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,33.6875
+Claude,Run 1,41792577_2026,130347.0,16.0,26.0,0.6153846153846154,all_test_metrics.csv:with_laws_v14_stage1_raw,8146.6875
+Codex,Run 1,41792577_2026,2329.0,13.0,26.0,0.5,all_test_metrics.csv:with_laws_v14_stage1_raw,179.15384615384616
+Gemini,Run 1,41792577_2026,2594.0,16.0,26.0,0.6153846153846154,all_test_metrics.csv:with_laws_v14_stage1_raw,162.125
+Claude,Run 1,41793737_2026,7048.0,25.0,25.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,281.92
+Codex,Run 1,41793737_2026,6709.0,25.0,25.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,268.36
+Gemini,Run 1,41793737_2026,8415.0,24.0,25.0,0.96,all_test_metrics.csv:with_laws_v14_stage1_raw,350.625
+Claude,Run 1,41796425_2026,999.0,8.0,8.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,124.875
+Codex,Run 1,41796425_2026,5670.0,7.0,8.0,0.875,all_test_metrics.csv:with_laws_v14_stage1_raw,810.0
+Gemini,Run 1,41796425_2026,10923.0,8.0,8.0,1.0,all_test_metrics.csv:with_laws_v14_stage1_raw,1365.375
+Claude,Run 2,40815363_2025,3411.0,13.0,15.0,0.8667,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,262.38461538461536
+Claude,Run 2,41108024_2025,5495.0,21.0,26.0,0.8077,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,261.6666666666667
+Claude,Run 2,41224700_2025,301.0,10.0,12.0,0.8333,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,30.1
+Claude,Run 2,41470797_2025,10333.0,18.0,21.0,0.8571,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,574.0555555555555
+Claude,Run 2,41484688_2026,3751.0,16.0,17.0,0.9412,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,234.4375
+Claude,Run 2,41505363_2026,174.0,13.0,18.0,0.7222,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,13.384615384615385
+Claude,Run 2,41630847_2026,3000.0,12.0,12.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,250.0
+Claude,Run 2,41708995_2026,9727.0,21.0,27.0,0.7778,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,463.1904761904762
+Claude,Run 2,41709059_2026,352.0,14.0,20.0,0.7,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,25.142857142857142
+Claude,Run 2,41715180_2026,81146.0,44.0,44.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,1844.2272727272727
+Claude,Run 2,41720985_2026,1090.0,24.0,25.0,0.96,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,45.416666666666664
+Claude,Run 2,41796365_2026,8948.0,6.0,9.0,0.6667,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,1491.3333333333333
+Claude,Run 2,41802227_2026,3896.0,33.0,38.0,0.8684,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,118.06060606060606
+Claude,Run 2,41804118_2026,10566.0,5.0,8.0,0.625,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,2113.2
+Claude,Run 2,41641734_2026,197005.0,47.0,54.0,0.8704,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,4191.595744680851
+Claude,Run 2,41770755_2026,26900.0,11.0,12.0,0.9167,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,2445.4545454545455
+Claude,Run 2,41774244_2026,1228.0,19.0,19.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,64.63157894736842
+Claude,Run 2,41781907_2026,13247.0,53.0,54.0,0.9815,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,249.9433962264151
+Claude,Run 2,41781990_2026,250.0,8.0,10.0,0.8,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,31.25
+Claude,Run 2,41792786_2026,425.0,20.0,20.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,21.25
+Claude,Run 2,41794963_2026,430.0,14.0,16.0,0.875,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,30.714285714285715
+Claude,Run 2,41792577_2026,130965.0,16.0,26.0,0.6154,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,8185.3125
+Claude,Run 2,41793737_2026,9513.0,25.0,25.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,380.52
+Claude,Run 2,41796425_2026,525.0,8.0,8.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper.csv,65.625
+Codex,Run 2,40815363_2025,1819.0,9.0,15.0,0.6,run2_stage2_cut70_phase5_completed_merged.csv,202.11111111111111
+Codex,Run 2,41108024_2025,1635.0,17.0,26.0,0.6538,run2_stage2_cut70_phase5_completed_merged.csv,96.17647058823529
+Codex,Run 2,41224700_2025,354.0,10.0,12.0,0.8333,run2_stage2_cut70_phase5_completed_merged.csv,35.4
+Codex,Run 2,41470797_2025,6989.0,11.0,21.0,0.5238,run2_stage2_cut70_phase5_completed_merged.csv,635.3636363636364
+Codex,Run 2,41484688_2026,815.0,14.0,17.0,0.8235,run2_stage2_cut70_phase5_completed_merged.csv,58.214285714285715
+Codex,Run 2,41505363_2026,840.0,17.0,18.0,0.9444,run2_stage2_cut70_phase5_completed_merged.csv,49.411764705882355
+Codex,Run 2,41630847_2026,3086.0,12.0,12.0,1.0,run2_stage2_cut70_phase5_completed_merged.csv,257.1666666666667
+Codex,Run 2,41708995_2026,19227.0,22.0,27.0,0.8148,run2_stage2_cut70_phase5_completed_merged.csv,873.9545454545455
+Codex,Run 2,41709059_2026,715.0,15.0,20.0,0.75,run2_stage2_cut70_phase5_completed_merged.csv,47.666666666666664
+Codex,Run 2,41715180_2026,113339.0,44.0,44.0,1.0,run2_stage2_cut70_phase5_completed_merged.csv,2575.8863636363635
+Codex,Run 2,41720985_2026,1587.0,24.0,25.0,0.96,run2_stage2_cut70_phase5_completed_merged.csv,66.125
+Codex,Run 2,41796365_2026,378.0,5.0,9.0,0.5556,run2_stage2_cut70_phase5_completed_merged.csv,75.6
+Codex,Run 2,41802227_2026,2265.0,35.0,38.0,0.9211,run2_stage2_cut70_phase5_completed_merged.csv,64.71428571428571
+Codex,Run 2,41804118_2026,12777.0,4.0,8.0,0.5,run2_stage2_cut70_phase5_completed_merged.csv,3194.25
+Codex,Run 2,41641734_2026,14843.0,51.0,54.0,0.9444,run2_stage2_cut70_phase5_completed_merged.csv,291.03921568627453
+Codex,Run 2,41770755_2026,5760.0,11.0,12.0,0.9167,run2_stage2_cut70_phase5_completed_merged.csv,523.6363636363636
+Codex,Run 2,41774244_2026,107.0,16.0,19.0,0.8421,run2_stage2_cut70_phase5_completed_merged.csv,6.6875
+Codex,Run 2,41781907_2026,12248.0,53.0,54.0,0.9815,run2_stage2_cut70_phase5_completed_merged.csv,231.0943396226415
+Codex,Run 2,41781990_2026,253.0,8.0,10.0,0.8,run2_stage2_cut70_phase5_completed_merged.csv,31.625
+Codex,Run 2,41792786_2026,1781.0,20.0,20.0,1.0,run2_stage2_cut70_phase5_completed_merged.csv,89.05
+Codex,Run 2,41794963_2026,75.0,15.0,16.0,0.9375,run2_stage2_cut70_phase5_completed_merged.csv,5.0
+Codex,Run 2,41792577_2026,1389.0,13.0,26.0,0.5,run2_stage2_cut70_phase5_completed_merged.csv,106.84615384615384
+Codex,Run 2,41793737_2026,8881.0,25.0,25.0,1.0,run2_stage2_cut70_phase5_completed_merged.csv,355.24
+Codex,Run 2,41796425_2026,2184.0,8.0,8.0,1.0,run2_stage2_cut70_phase5_completed_merged.csv,273.0
+Gemini,Run 2,40815363_2025,10600.0,15.0,15.0,1.0,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,706.6666666666666
+Gemini,Run 2,41108024_2025,8130.0,19.0,26.0,0.7308,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,427.89473684210526
+Gemini,Run 2,41224700_2025,268.0,10.0,12.0,0.8333,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,26.8
+Gemini,Run 2,41470797_2025,9326.0,18.0,21.0,0.8571,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,518.1111111111111
+Gemini,Run 2,41484688_2026,1217.0,16.0,17.0,0.9412,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,76.0625
+Gemini,Run 2,41505363_2026,77.0,10.0,18.0,0.5556,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,7.7
+Gemini,Run 2,41630847_2026,1888.0,12.0,12.0,1.0,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,157.33333333333334
+Gemini,Run 2,41708995_2026,12678.0,22.0,27.0,0.8148,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,576.2727272727273
+Gemini,Run 2,41709059_2026,587.0,13.0,20.0,0.65,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,45.15384615384615
+Gemini,Run 2,41715180_2026,5830.0,24.0,44.0,0.5455,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,242.91666666666666
+Gemini,Run 2,41720985_2026,5963.0,19.0,25.0,0.76,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,313.8421052631579
+Gemini,Run 2,41796365_2026,4098.0,5.0,9.0,0.5556,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,819.6
+Gemini,Run 2,41802227_2026,1941.0,34.0,38.0,0.8947,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,57.088235294117645
+Gemini,Run 2,41804118_2026,17702.0,4.0,8.0,0.5,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,4425.5
+Gemini,Run 2,41641734_2026,21893.0,51.0,54.0,0.9444,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,429.27450980392155
+Gemini,Run 2,41770755_2026,1699.0,11.0,12.0,0.9167,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,154.45454545454547
+Gemini,Run 2,41774244_2026,2225.0,19.0,19.0,1.0,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,117.10526315789474
+Gemini,Run 2,41781907_2026,9232.0,48.0,54.0,0.8889,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,192.33333333333334
+Gemini,Run 2,41781990_2026,308.0,9.0,10.0,0.9,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,34.22222222222222
+Gemini,Run 2,41792786_2026,1326.0,20.0,20.0,1.0,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,66.3
+Gemini,Run 2,41794963_2026,584.0,16.0,16.0,1.0,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,36.5
+Gemini,Run 2,41792577_2026,47968.0,16.0,26.0,0.6154,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,2998.0
+Gemini,Run 2,41793737_2026,5706.0,24.0,25.0,0.96,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,237.75
+Gemini,Run 2,41796425_2026,631.0,8.0,8.0,1.0,test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv,78.875
+Claude,Run 3,40815363_2025,2731.0,13.0,15.0,0.8667,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,210.07692307692307
+Claude,Run 3,41108024_2025,4330.0,21.0,26.0,0.8077,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,206.1904761904762
+Claude,Run 3,41224700_2025,301.0,10.0,12.0,0.8333,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,30.1
+Claude,Run 3,41470797_2025,113595.0,18.0,21.0,0.8571,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,6310.833333333333
+Claude,Run 3,41484688_2026,60640.0,17.0,17.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,3567.0588235294117
+Claude,Run 3,41505363_2026,82.0,11.0,18.0,0.6111,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,7.454545454545454
+Claude,Run 3,41630847_2026,2888.0,12.0,12.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,240.66666666666666
+Claude,Run 3,41708995_2026,52459.0,23.0,27.0,0.8519,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,2280.8260869565215
+Claude,Run 3,41709059_2026,488.0,14.0,20.0,0.7,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,34.857142857142854
+Claude,Run 3,41715180_2026,78163.0,43.0,44.0,0.9773,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,1817.7441860465117
+Claude,Run 3,41720985_2026,341.0,23.0,25.0,0.92,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,14.826086956521738
+Claude,Run 3,41796365_2026,257.0,5.0,9.0,0.5556,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,51.4
+Claude,Run 3,41802227_2026,3707.0,26.0,38.0,0.6842,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,142.57692307692307
+Claude,Run 3,41804118_2026,9857.0,4.0,8.0,0.5,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,2464.25
+Claude,Run 3,41641734_2026,13192.0,50.0,54.0,0.9259,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,263.84
+Claude,Run 3,41770755_2026,22737.0,11.0,12.0,0.9167,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,2067.0
+Claude,Run 3,41774244_2026,8370.0,19.0,19.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,440.5263157894737
+Claude,Run 3,41781907_2026,2885.0,53.0,54.0,0.9815,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,54.43396226415094
+Claude,Run 3,41781990_2026,405.0,8.0,10.0,0.8,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,50.625
+Claude,Run 3,41792786_2026,441.0,20.0,20.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,22.05
+Claude,Run 3,41794963_2026,221.0,11.0,16.0,0.6875,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,20.09090909090909
+Claude,Run 3,41792577_2026,127697.0,16.0,26.0,0.6154,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,7981.0625
+Claude,Run 3,41793737_2026,5650.0,24.0,25.0,0.96,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,235.41666666666666
+Claude,Run 3,41796425_2026,904.0,8.0,8.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv,113.0
+Codex,Run 3,40815363_2025,838.0,7.0,15.0,0.4666666666666667,run3_stage1_test24_codex_gpt-5_5.csv,119.71428571428571
+Codex,Run 3,41108024_2025,5817.0,23.0,26.0,0.8846153846153846,run3_stage1_test24_codex_gpt-5_5.csv,252.91304347826087
+Codex,Run 3,41224700_2025,280.0,10.0,12.0,0.8333333333333334,run3_stage1_test24_codex_gpt-5_5.csv,28.0
+Codex,Run 3,41470797_2025,95740.0,20.0,21.0,0.9523809523809524,run3_stage1_test24_codex_gpt-5_5.csv,4787.0
+Codex,Run 3,41484688_2026,1472.0,8.0,17.0,0.4705882352941176,run3_stage1_test24_codex_gpt-5_5.csv,184.0
+Codex,Run 3,41505363_2026,293.0,16.0,18.0,0.8888888888888888,run3_stage1_test24_codex_gpt-5_5.csv,18.3125
+Codex,Run 3,41630847_2026,2191.0,12.0,12.0,1.0,run3_stage1_test24_codex_gpt-5_5.csv,182.58333333333334
+Codex,Run 3,41708995_2026,9491.0,19.0,27.0,0.7037037037037037,run3_stage1_test24_codex_gpt-5_5.csv,499.5263157894737
+Codex,Run 3,41709059_2026,704.0,15.0,20.0,0.75,run3_stage1_test24_codex_gpt-5_5.csv,46.93333333333333
+Codex,Run 3,41715180_2026,116244.0,44.0,44.0,1.0,run3_stage1_test24_codex_gpt-5_5.csv,2641.909090909091
+Codex,Run 3,41720985_2026,491.0,24.0,25.0,0.96,run3_stage1_test24_codex_gpt-5_5.csv,20.458333333333332
+Codex,Run 3,41796365_2026,681.0,6.0,9.0,0.6666666666666666,run3_stage1_test24_codex_gpt-5_5.csv,113.5
+Codex,Run 3,41802227_2026,39491.0,36.0,38.0,0.9473684210526316,run3_stage1_test24_codex_gpt-5_5.csv,1096.9722222222222
+Codex,Run 3,41804118_2026,10661.0,4.0,8.0,0.5,run3_stage1_test24_codex_gpt-5_5.csv,2665.25
+Codex,Run 3,41641734_2026,14878.0,51.0,54.0,0.9444444444444444,run3_stage1_test24_codex_gpt-5_5.csv,291.72549019607845
+Codex,Run 3,41770755_2026,1569.0,11.0,12.0,0.9166666666666666,run3_stage1_test24_codex_gpt-5_5.csv,142.63636363636363
+Codex,Run 3,41774244_2026,239.0,16.0,19.0,0.8421052631578947,run3_stage1_test24_codex_gpt-5_5.csv,14.9375
+Codex,Run 3,41781907_2026,12207.0,53.0,54.0,0.9814814814814816,run3_stage1_test24_codex_gpt-5_5.csv,230.32075471698113
+Codex,Run 3,41781990_2026,293.0,8.0,10.0,0.8,run3_stage1_test24_codex_gpt-5_5.csv,36.625
+Codex,Run 3,41792786_2026,547.0,20.0,20.0,1.0,run3_stage1_test24_codex_gpt-5_5.csv,27.35
+Codex,Run 3,41794963_2026,606.0,16.0,16.0,1.0,run3_stage1_test24_codex_gpt-5_5.csv,37.875
+Codex,Run 3,41792577_2026,2294.0,15.0,26.0,0.5769230769230769,run3_stage1_test24_codex_gpt-5_5.csv,152.93333333333334
+Codex,Run 3,41793737_2026,6129.0,25.0,25.0,1.0,run3_stage1_test24_codex_gpt-5_5.csv,245.16
+Codex,Run 3,41796425_2026,8873.0,8.0,8.0,1.0,run3_stage1_test24_codex_gpt-5_5.csv,1109.125
+Gemini,Run 3,40815363_2025,1756.0,13.0,15.0,0.8667,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,135.07692307692307
+Gemini,Run 3,41108024_2025,7587.0,20.0,26.0,0.7692,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,379.35
+Gemini,Run 3,41224700_2025,251.0,10.0,12.0,0.8333,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,25.1
+Gemini,Run 3,41470797_2025,9344.0,18.0,21.0,0.8571,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,519.1111111111111
+Gemini,Run 3,41484688_2026,833.0,15.0,17.0,0.8824,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,55.53333333333333
+Gemini,Run 3,41505363_2026,64.0,10.0,18.0,0.5556,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,6.4
+Gemini,Run 3,41630847_2026,1145.0,12.0,12.0,1.0,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,95.41666666666667
+Gemini,Run 3,41708995_2026,8718.0,0.0,27.0,0.0,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,
+Gemini,Run 3,41709059_2026,121.0,6.0,20.0,0.3,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,20.166666666666668
+Gemini,Run 3,41715180_2026,7529.0,28.0,44.0,0.6364,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,268.89285714285717
+Gemini,Run 3,41720985_2026,8452.0,24.0,25.0,0.96,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,352.1666666666667
+Gemini,Run 3,41796365_2026,266.0,5.0,9.0,0.5556,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,53.2
+Gemini,Run 3,41802227_2026,926.0,14.0,38.0,0.3684,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,66.14285714285714
+Gemini,Run 3,41804118_2026,9362.0,4.0,8.0,0.5,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,2340.5
+Gemini,Run 3,41641734_2026,8743.0,49.0,54.0,0.9074,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,178.42857142857142
+Gemini,Run 3,41770755_2026,1828.0,11.0,12.0,0.9167,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,166.1818181818182
+Gemini,Run 3,41774244_2026,1161.0,19.0,19.0,1.0,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,61.10526315789474
+Gemini,Run 3,41781907_2026,8630.0,50.0,54.0,0.9259,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,172.6
+Gemini,Run 3,41781990_2026,389.0,8.0,10.0,0.8,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,48.625
+Gemini,Run 3,41792786_2026,1306.0,20.0,20.0,1.0,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,65.3
+Gemini,Run 3,41794963_2026,584.0,16.0,16.0,1.0,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,36.5
+Gemini,Run 3,41792577_2026,2500.0,16.0,26.0,0.6154,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,156.25
+Gemini,Run 3,41793737_2026,6420.0,24.0,25.0,0.96,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,267.5
+Gemini,Run 3,41796425_2026,611.0,8.0,8.0,1.0,test24_stage2_phase5_cut70_run3_rb_per_paper.csv,76.375
+Claude,Pooled,40815363_2025,2727.0,13.0,15.0,0.8667,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,209.76923076923077
+Claude,Pooled,41108024_2025,4607.0,22.0,26.0,0.8462,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,209.4090909090909
+Claude,Pooled,41224700_2025,268.0,10.0,12.0,0.8333,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,26.8
+Claude,Pooled,41470797_2025,51396.0,20.0,21.0,0.9524,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,2569.8
+Claude,Pooled,41484688_2026,5924.0,16.0,17.0,0.9412,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,370.25
+Claude,Pooled,41505363_2026,82.0,11.0,18.0,0.6111,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,7.454545454545454
+Claude,Pooled,41630847_2026,2813.0,12.0,12.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,234.41666666666666
+Claude,Pooled,41708995_2026,124373.0,23.0,27.0,0.8519,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,5407.521739130435
+Claude,Pooled,41709059_2026,494.0,14.0,20.0,0.7,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,35.285714285714285
+Claude,Pooled,41715180_2026,81196.0,44.0,44.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,1845.3636363636363
+Claude,Pooled,41720985_2026,480.0,24.0,25.0,0.96,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,20.0
+Claude,Pooled,41796365_2026,424.0,6.0,9.0,0.6667,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,70.66666666666667
+Claude,Pooled,41802227_2026,1062.0,24.0,38.0,0.6316,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,44.25
+Claude,Pooled,41804118_2026,50581.0,7.0,8.0,0.875,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,7225.857142857143
+Claude,Pooled,41641734_2026,13174.0,50.0,54.0,0.9259,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,263.48
+Claude,Pooled,41770755_2026,32130.0,12.0,12.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,2677.5
+Claude,Pooled,41774244_2026,661.0,19.0,19.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,34.78947368421053
+Claude,Pooled,41781907_2026,9114.0,53.0,54.0,0.9815,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,171.96226415094338
+Claude,Pooled,41781990_2026,533.0,8.0,10.0,0.8,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,66.625
+Claude,Pooled,41792786_2026,421.0,20.0,20.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,21.05
+Claude,Pooled,41794963_2026,373.0,14.0,16.0,0.875,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,26.642857142857142
+Claude,Pooled,41792577_2026,2524.0,16.0,26.0,0.6154,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,157.75
+Claude,Pooled,41793737_2026,10894.0,25.0,25.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,435.76
+Claude,Pooled,41796425_2026,198.0,8.0,8.0,1.0,test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv,24.75
+Codex,Pooled,40815363_2025,4941.0,13.0,15.0,0.8667,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,380.0769230769231
+Codex,Pooled,41108024_2025,2638.0,18.0,26.0,0.6923,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,146.55555555555554
+Codex,Pooled,41224700_2025,265.0,10.0,12.0,0.8333,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,26.5
+Codex,Pooled,41470797_2025,5031.0,11.0,21.0,0.5238,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,457.3636363636364
+Codex,Pooled,41484688_2026,1066.0,15.0,17.0,0.8824,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,71.06666666666666
+Codex,Pooled,41505363_2026,131.0,15.0,18.0,0.8333,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,8.733333333333333
+Codex,Pooled,41630847_2026,1329.0,12.0,12.0,1.0,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,110.75
+Codex,Pooled,41708995_2026,36971.0,22.0,27.0,0.8148,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,1680.5
+Codex,Pooled,41709059_2026,733.0,16.0,20.0,0.8,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,45.8125
+Codex,Pooled,41715180_2026,126326.0,44.0,44.0,1.0,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,2871.0454545454545
+Codex,Pooled,41720985_2026,503.0,24.0,25.0,0.96,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,20.958333333333332
+Codex,Pooled,41796365_2026,947.0,6.0,9.0,0.6667,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,157.83333333333334
+Codex,Pooled,41802227_2026,5633.0,35.0,38.0,0.9211,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,160.94285714285715
+Codex,Pooled,41804118_2026,1387.0,3.0,8.0,0.375,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,462.3333333333333
+Codex,Pooled,41641734_2026,15091.0,50.0,54.0,0.9259,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,301.82
+Codex,Pooled,41770755_2026,15101.0,11.0,12.0,0.9167,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,1372.8181818181818
+Codex,Pooled,41774244_2026,794.0,19.0,19.0,1.0,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,41.78947368421053
+Codex,Pooled,41781907_2026,13016.0,53.0,54.0,0.9815,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,245.58490566037736
+Codex,Pooled,41781990_2026,283.0,8.0,10.0,0.8,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,35.375
+Codex,Pooled,41792786_2026,571.0,20.0,20.0,1.0,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,28.55
+Codex,Pooled,41794963_2026,600.0,16.0,16.0,1.0,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,37.5
+Codex,Pooled,41792577_2026,2663.0,16.0,26.0,0.6154,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,166.4375
+Codex,Pooled,41793737_2026,7150.0,25.0,25.0,1.0,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,286.0
+Codex,Pooled,41796425_2026,1171.0,8.0,8.0,1.0,pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv,146.375
+Gemini,Pooled,40815363_2025,2501.0,13.0,15.0,0.8666666666666667,test24_stage1_pooled_rb_per_paper.csv,192.3846153846154
+Gemini,Pooled,41108024_2025,26855.0,26.0,26.0,1.0,test24_stage1_pooled_rb_per_paper.csv,1032.8846153846155
+Gemini,Pooled,41224700_2025,256.0,10.0,12.0,0.8333333333333334,test24_stage1_pooled_rb_per_paper.csv,25.6
+Gemini,Pooled,41470797_2025,12054.0,19.0,21.0,0.9047619047619048,test24_stage1_pooled_rb_per_paper.csv,634.421052631579
+Gemini,Pooled,41484688_2026,1256.0,16.0,17.0,0.9411764705882352,test24_stage1_pooled_rb_per_paper.csv,78.5
+Gemini,Pooled,41505363_2026,65.0,10.0,18.0,0.5555555555555556,test24_stage1_pooled_rb_per_paper.csv,6.5
+Gemini,Pooled,41630847_2026,1148.0,12.0,12.0,1.0,test24_stage1_pooled_rb_per_paper.csv,95.66666666666667
+Gemini,Pooled,41708995_2026,31216.0,21.0,27.0,0.7777777777777778,test24_stage1_pooled_rb_per_paper.csv,1486.4761904761904
+Gemini,Pooled,41709059_2026,607.0,14.0,20.0,0.7,test24_stage1_pooled_rb_per_paper.csv,43.357142857142854
+Gemini,Pooled,41715180_2026,7823.0,28.0,44.0,0.6363636363636364,test24_stage1_pooled_rb_per_paper.csv,279.39285714285717
+Gemini,Pooled,41720985_2026,6073.0,24.0,25.0,0.96,test24_stage1_pooled_rb_per_paper.csv,253.04166666666666
+Gemini,Pooled,41796365_2026,333.0,5.0,9.0,0.5555555555555556,test24_stage1_pooled_rb_per_paper.csv,66.6
+Gemini,Pooled,41802227_2026,1946.0,34.0,38.0,0.8947368421052632,test24_stage1_pooled_rb_per_paper.csv,57.23529411764706
+Gemini,Pooled,41804118_2026,4153.0,5.0,8.0,0.625,test24_stage1_pooled_rb_per_paper.csv,830.6
+Gemini,Pooled,41641734_2026,21747.0,51.0,54.0,0.9444444444444444,test24_stage1_pooled_rb_per_paper.csv,426.4117647058824
+Gemini,Pooled,41770755_2026,1727.0,11.0,12.0,0.9166666666666666,test24_stage1_pooled_rb_per_paper.csv,157.0
+Gemini,Pooled,41774244_2026,2331.0,19.0,19.0,1.0,test24_stage1_pooled_rb_per_paper.csv,122.6842105263158
+Gemini,Pooled,41781907_2026,5574.0,53.0,54.0,0.9814814814814816,test24_stage1_pooled_rb_per_paper.csv,105.16981132075472
+Gemini,Pooled,41781990_2026,452.0,8.0,10.0,0.8,test24_stage1_pooled_rb_per_paper.csv,56.5
+Gemini,Pooled,41792786_2026,1328.0,20.0,20.0,1.0,test24_stage1_pooled_rb_per_paper.csv,66.4
+Gemini,Pooled,41794963_2026,602.0,16.0,16.0,1.0,test24_stage1_pooled_rb_per_paper.csv,37.625
+Gemini,Pooled,41792577_2026,3661.0,16.0,26.0,0.6153846153846154,test24_stage1_pooled_rb_per_paper.csv,228.8125
+Gemini,Pooled,41793737_2026,4766.0,23.0,25.0,0.92,test24_stage1_pooled_rb_per_paper.csv,207.2173913043478
+Gemini,Pooled,41796425_2026,629.0,8.0,8.0,1.0,test24_stage1_pooled_rb_per_paper.csv,78.625

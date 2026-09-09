@@ -1,0 +1,10 @@
+{
+  "domain": "03_Psychiatry",
+  "paper_id": "41804118_2026",
+  "provider": "gemini",
+  "current_hits": 29686,
+  "current_recall": 0.0,
+  "gold_n": 0,
+  "target_hits": 9999,
+  "instruction": "Send the contents of phase5_manual_prompt.md to chat, obtain one raw query line only, save the accepted query to with_laws_stageA_prime/normalized_query.txt, then rerun."
+}

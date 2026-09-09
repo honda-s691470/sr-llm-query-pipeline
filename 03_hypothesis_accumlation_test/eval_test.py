@@ -59,7 +59,17 @@ def parse_args() -> argparse.Namespace:
         default="",
         help="Optional output condition label. Default is '<condition>_test_eval'.",
     )
+    parser.add_argument(
+        "--query-laws-path",
+        default="",
+        help="Optional explicit query_laws/rulebook path for with_laws runs. If omitted, the newest query_laws_ver*.txt is used.",
+    )
     parser.add_argument("--codex-bin", default="codex")
+    parser.add_argument(
+        "--no-codex-api-fallback",
+        action="store_true",
+        help="Disable OpenAI Responses API fallback when Codex CLI fails.",
+    )
     parser.add_argument("--claude-bin", default="claude")
     parser.add_argument("--gemini-bin", default="gemini")
     parser.add_argument("--approval", default="never")
@@ -174,7 +184,7 @@ def run_codex_cli(run_dir: Path, args: argparse.Namespace, prompt_text: str, *, 
         else contextlib.nullcontext(subprocess.DEVNULL)
     )
     with (run_dir / "provider_stdout.log").open("w", encoding="utf-8") as stdout_handle, stderr_ctx as stderr_handle:
-        return subprocess.run(
+        completed = subprocess.run(
             command,
             input=prompt_text,
             text=True,
@@ -182,7 +192,101 @@ def run_codex_cli(run_dir: Path, args: argparse.Namespace, prompt_text: str, *, 
             stdout=stdout_handle,
             stderr=stderr_handle,
             check=False,
+            shell=True,
         )
+    if completed.returncode != 0 and not args.no_codex_api_fallback:
+        return run_codex_api_fallback(run_dir, args, prompt_text, cli_returncode=completed.returncode)
+    return completed
+
+
+def load_openai_api_key() -> str:
+    if os.environ.get("OPENAI_API_KEY"):
+        return os.environ["OPENAI_API_KEY"]
+    for dotenv_path in (PUBLIC_RELEASE_DIR.parent / ".env", PUBLIC_RELEASE_DIR / ".env"):
+        loaded = load_dotenv_map(dotenv_path)
+        if loaded.get("OPENAI_API_KEY"):
+            return loaded["OPENAI_API_KEY"]
+    return ""
+
+
+def build_openai_fallback_prompt(run_dir: Path, prompt_text: str) -> str:
+    parts = [
+        prompt_text.strip(),
+        "",
+        "The Codex CLI was unavailable. Use the following attached file contents from the run directory.",
+    ]
+    for name in ("test_prompt_with.md", "test_prompt_without.md", "input_config.json", "query_laws.txt"):
+        path = run_dir / name
+        if path.exists():
+            parts.extend(
+                [
+                    "",
+                    f"===== FILE: {name} =====",
+                    path.read_text(encoding="utf-8-sig", errors="replace"),
+                ]
+            )
+    return "\n".join(parts).strip() + "\n"
+
+
+def extract_openai_response_text(payload: dict[str, object]) -> str:
+    texts: list[str] = []
+    for item in payload.get("output", []) or []:
+        if not isinstance(item, dict):
+            continue
+        for content in item.get("content", []) or []:
+            if isinstance(content, dict) and content.get("type") in {"output_text", "text"}:
+                texts.append(str(content.get("text", "")))
+    if texts:
+        return "\n".join(texts)
+    return str(payload.get("output_text", ""))
+
+
+def run_codex_api_fallback(
+    run_dir: Path,
+    args: argparse.Namespace,
+    prompt_text: str,
+    *,
+    cli_returncode: int,
+) -> subprocess.CompletedProcess[str]:
+    api_key = load_openai_api_key()
+    fallback_log = run_dir / "openai_api_fallback.log"
+    if not api_key:
+        msg = "Codex CLI failed and OPENAI_API_KEY was not found for API fallback."
+        fallback_log.write_text(msg + "\n", encoding="utf-8")
+        return subprocess.CompletedProcess(["openai_responses_api", args.model], 1, stdout="", stderr=msg)
+
+    payload = {
+        "model": args.model,
+        "input": build_openai_fallback_prompt(run_dir, prompt_text),
+        "max_output_tokens": 8096,
+    }
+    try:
+        response = requests.post(
+            "https://api.openai.com/v1/responses",
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+            json=payload,
+            timeout=300,
+        )
+        if response.status_code >= 400:
+            err = response.text[:2000]
+            fallback_log.write_text(
+                f"cli_returncode={cli_returncode}\napi_status={response.status_code}\n{err}\n",
+                encoding="utf-8",
+            )
+            return subprocess.CompletedProcess(["openai_responses_api", args.model], 1, stdout="", stderr=err)
+        response_payload = response.json()
+        response_text = extract_openai_response_text(response_payload)
+        (run_dir / "raw_last_message.txt").write_text(response_text, encoding="utf-8")
+        (run_dir / "provider_stdout.log").write_text(response_text, encoding="utf-8")
+        fallback_log.write_text(
+            f"cli_returncode={cli_returncode}\napi_status={response.status_code}\nmodel={response_payload.get('model', args.model)}\n",
+            encoding="utf-8",
+        )
+        return subprocess.CompletedProcess(["openai_responses_api", args.model], 0, stdout=response_text, stderr="")
+    except Exception as exc:
+        msg = f"Codex API fallback failed: {exc}"
+        fallback_log.write_text(f"cli_returncode={cli_returncode}\n{msg}\n", encoding="utf-8")
+        return subprocess.CompletedProcess(["openai_responses_api", args.model], 1, stdout="", stderr=msg)
 
 
 def run_claude_cli(run_dir: Path, args: argparse.Namespace, prompt_text: str, *, save_logs: bool = False) -> subprocess.CompletedProcess[str]:
@@ -376,7 +480,14 @@ def main() -> int:
     domain_filter = set(args.domain) if args.domain else None
     paper_filter = set(args.paper) if args.paper else None
     output_condition = args.output_condition.strip() or f"{args.condition}_test_eval"
-    laws_path = latest_query_laws_path() if CONDITION_CONFIG[args.condition]["uses_laws"] else None
+    laws_path = None
+    if CONDITION_CONFIG[args.condition]["uses_laws"]:
+        if args.query_laws_path.strip():
+            laws_path = Path(args.query_laws_path).expanduser().resolve()
+            if not laws_path.exists():
+                raise FileNotFoundError(f"Explicit query laws file not found: {laws_path}")
+        else:
+            laws_path = latest_query_laws_path()
 
     base_data_dir = SOURCE_DATA_DIR if args.split == "train" else TEST_DATA_DIR
     results_dir = base_data_dir / "_results"
@@ -396,17 +507,37 @@ def main() -> int:
             continue
 
         output_dir = paper_dir / "model_outputs" / provider / output_condition
+        result_record: dict[str, object] = {
+            "generated_at": utc_timestamp(),
+            "domain_folder": domain_folder,
+            "paper_folder": paper_folder,
+            "provider": provider,
+            "model": args.model,
+            "condition": output_condition,
+        }
         if args.skip_existing and (output_dir / "normalized_query.txt").exists():
-            summary_rows.append(
-                {
-                    "domain_folder": domain_folder,
-                    "paper_folder": paper_folder,
-                    "provider": provider,
-                    "model": args.model,
-                    "condition": output_condition,
-                    "status": "skipped_existing",
-                }
+            extracted_query = (output_dir / "normalized_query.txt").read_text(encoding="utf-8").strip()
+            gold_pmids = load_gold_pmids(paper_dir)
+            total_hits, hit_gold, recall, nnr, f1, error_note = fetch_pubmed_stats(
+                extracted_query, gold_pmids, session, args.pubmed_timeout_seconds
             )
+            status = "completed" if not error_note else "eval_error"
+            result_payload = {
+                **result_record,
+                "returncode": 0,
+                "status": status,
+                "query": extracted_query,
+                "query_length": len(extracted_query),
+                "gold_count": len(gold_pmids),
+                "total_hits": total_hits,
+                "hit_gold_count": hit_gold,
+                "recall": recall,
+                "nnr": safe_metric_value(nnr),
+                "f1": f1,
+                "error_note": error_note,
+            }
+            (output_dir / "result.json").write_text(json.dumps(result_payload, indent=2), encoding="utf-8")
+            summary_rows.append(result_payload)
             continue
 
         if args.dry_run:
@@ -416,14 +547,6 @@ def main() -> int:
         run_dir = run_root / domain_folder / paper_folder / args.condition
         prepare_bundle(run_dir, paper_dir, args.condition, laws_path, save_logs=args.log)
         prompt_text = (run_dir / "run_instruction.txt").read_text(encoding="utf-8")
-        result_record: dict[str, object] = {
-            "generated_at": utc_timestamp(),
-            "domain_folder": domain_folder,
-            "paper_folder": paper_folder,
-            "provider": provider,
-            "model": args.model,
-            "condition": output_condition,
-        }
 
         if args.bundle_only:
             result_record["status"] = "bundle_prepared"
@@ -511,3 +634,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+

@@ -1,0 +1,4 @@
+provider,rulebook,n,mean_recall,median_recall,min_recall,mean_hits,median_hits,mean_nnr,median_nnr
+gemini,Pooled,24,0.6296,0.6933,0.0,9078.2083,897.5,471.3573,86.1629
+gemini,Run2,24,0.6296,0.6933,0.0,9078.2083,897.5,471.3573,86.1629
+gemini,Run3,24,0.6296,0.6933,0.0,9078.4167,897.5,471.362,86.1629

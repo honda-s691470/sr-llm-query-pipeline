@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-25T07:07:59Z",
+  "domain_folder": "02_Cardiovascular_Disease",
+  "paper_folder": "41715180_2026",
+  "provider": "codex",
+  "model": "gpt-5.3",
+  "condition": "with_laws_pooled_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Heart Failure\"[Mesh] OR \"heart failure\"[tiab] OR \"cardiac failure\"[tiab] OR \"myocardial failure\"[tiab] OR \"congestive heart failure\"[tiab] OR CHF[tiab] OR HFrEF[tiab] OR HFpEF[tiab]) AND (\"Prognosis\"[Mesh] OR \"Risk Assessment\"[Mesh] OR \"Models, Statistical\"[Mesh] OR \"Algorithms\"[Mesh] OR \"Machine Learning\"[Mesh] OR \"Artificial Intelligence\"[Mesh] OR \"Decision Support Techniques\"[Mesh] OR \"Nomograms\"[Mesh] OR prognos*[tiab] OR predict*[tiab] OR \"prediction model\"[tiab] OR \"prediction models\"[tiab] OR \"predictive model\"[tiab] OR \"predictive models\"[tiab] OR \"prognostic model\"[tiab] OR \"prognostic models\"[tiab] OR \"risk model\"[tiab] OR \"risk models\"[tiab] OR \"risk score\"[tiab] OR \"risk scores\"[tiab] OR \"risk prediction\"[tiab] OR \"risk stratification\"[tiab] OR \"clinical prediction rule\"[tiab] OR \"clinical prediction rules\"[tiab] OR nomogram*[tiab] OR algorithm*[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"random forest\"[tiab] OR \"random forests\"[tiab] OR \"support vector machine\"[tiab] OR \"support vector machines\"[tiab] OR regression[tiab] OR \"external validation\"[tiab] OR validat*[tiab] OR calibrat*[tiab] OR discriminat*[tiab])",
+  "query_length": 1214,
+  "gold_count": 44,
+  "total_hits": 126326,
+  "hit_gold_count": 44,
+  "recall": 1.0,
+  "nnr": 2871.0454545454545,
+  "f1": 0.0006963678088153833,
+  "error_note": ""
+}

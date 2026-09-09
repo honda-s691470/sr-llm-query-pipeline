@@ -1,8 +1,11 @@
 from __future__ import annotations
 
 import argparse
+import os
 import shutil
 import subprocess
+
+import requests
 from pathlib import Path
 
 from pipeline_common import (
@@ -40,7 +43,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--codex-bin", default="codex")
     parser.add_argument("--approval", default="never")
     parser.add_argument("--sandbox", default="danger-full-access")
-    parser.add_argument("--model", default="", help="Optional Codex model override.")
+    parser.add_argument("--model", default="gpt-5.3-codex", help="Codex model ID.")
+    parser.add_argument(
+        "--no-codex-api-fallback",
+        action="store_true",
+        help="Disable OpenAI Responses API fallback when Codex CLI fails.",
+    )
     parser.add_argument(
         "--output-condition",
         default="",
@@ -98,13 +106,12 @@ def run_codex(run_dir: Path, args: argparse.Namespace, prompt_text: str) -> subp
         "-o",
         str(run_dir / "raw_last_message.txt"),
     ]
-    if args.model:
-        command.extend(["-m", args.model])
+    command.extend(["-m", args.model])
     command.append("-")
     with (run_dir / "codex_stdout.log").open("w", encoding="utf-8") as stdout_handle, (
         run_dir / "codex_stderr.log"
     ).open("w", encoding="utf-8") as stderr_handle:
-        return subprocess.run(
+        completed = subprocess.run(
             command,
             input=prompt_text,
             text=True,
@@ -113,6 +120,89 @@ def run_codex(run_dir: Path, args: argparse.Namespace, prompt_text: str) -> subp
             stderr=stderr_handle,
             check=False,
         )
+    if completed.returncode != 0 and not args.no_codex_api_fallback:
+        return run_codex_api_fallback(run_dir, args, prompt_text, cli_returncode=completed.returncode)
+    return completed
+
+
+def load_dotenv_map(dotenv_path: Path) -> dict[str, str]:
+    loaded: dict[str, str] = {}
+    if not dotenv_path.exists():
+        return loaded
+    for raw_line in dotenv_path.read_text(encoding="utf-8", errors="ignore").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        loaded[key.strip()] = value.strip().strip('"').strip("'")
+    return loaded
+
+
+def load_openai_api_key() -> str:
+    if os.environ.get("OPENAI_API_KEY"):
+        return os.environ["OPENAI_API_KEY"]
+    root = TEST_PIPELINE_DIR.parent.parent
+    for dotenv_path in (root / ".env", TEST_PIPELINE_DIR.parent / ".env"):
+        loaded = load_dotenv_map(dotenv_path)
+        if loaded.get("OPENAI_API_KEY"):
+            return loaded["OPENAI_API_KEY"]
+    return ""
+
+
+def build_openai_fallback_prompt(run_dir: Path, prompt_text: str) -> str:
+    parts = [
+        prompt_text.strip(),
+        "",
+        "The Codex CLI was unavailable. Use the following attached file contents from the run directory.",
+    ]
+    for name in ("test_prompt_with.md", "test_prompt_without.md", "input_config.json", "query_laws.txt"):
+        path = run_dir / name
+        if path.exists():
+            parts.extend(["", f"===== FILE: {name} =====", path.read_text(encoding="utf-8-sig", errors="replace")])
+    return "\n".join(parts).strip() + "\n"
+
+
+def extract_openai_response_text(payload: dict[str, object]) -> str:
+    texts: list[str] = []
+    for item in payload.get("output", []) or []:
+        if not isinstance(item, dict):
+            continue
+        for content in item.get("content", []) or []:
+            if isinstance(content, dict) and content.get("type") in {"output_text", "text"}:
+                texts.append(str(content.get("text", "")))
+    if texts:
+        return "\n".join(texts)
+    return str(payload.get("output_text", ""))
+
+
+def run_codex_api_fallback(run_dir: Path, args: argparse.Namespace, prompt_text: str, *, cli_returncode: int) -> subprocess.CompletedProcess[str]:
+    api_key = load_openai_api_key()
+    fallback_log = run_dir / "openai_api_fallback.log"
+    if not api_key:
+        msg = "Codex CLI failed and OPENAI_API_KEY was not found for API fallback."
+        fallback_log.write_text(msg + "\n", encoding="utf-8")
+        return subprocess.CompletedProcess(["openai_responses_api", args.model], 1, stdout="", stderr=msg)
+    try:
+        response = requests.post(
+            "https://api.openai.com/v1/responses",
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+            json={"model": args.model, "input": build_openai_fallback_prompt(run_dir, prompt_text), "max_output_tokens": 8096},
+            timeout=300,
+        )
+        if response.status_code >= 400:
+            err = response.text[:2000]
+            fallback_log.write_text(f"cli_returncode={cli_returncode}\napi_status={response.status_code}\n{err}\n", encoding="utf-8")
+            return subprocess.CompletedProcess(["openai_responses_api", args.model], 1, stdout="", stderr=err)
+        payload = response.json()
+        response_text = extract_openai_response_text(payload)
+        (run_dir / "raw_last_message.txt").write_text(response_text, encoding="utf-8")
+        (run_dir / "codex_stdout.log").write_text(response_text, encoding="utf-8")
+        fallback_log.write_text(f"cli_returncode={cli_returncode}\napi_status={response.status_code}\nmodel={payload.get('model', args.model)}\n", encoding="utf-8")
+        return subprocess.CompletedProcess(["openai_responses_api", args.model], 0, stdout=response_text, stderr="")
+    except Exception as exc:
+        msg = f"Codex API fallback failed: {exc}"
+        fallback_log.write_text(f"cli_returncode={cli_returncode}\n{msg}\n", encoding="utf-8")
+        return subprocess.CompletedProcess(["openai_responses_api", args.model], 1, stdout="", stderr=msg)
 
 
 def main() -> int:

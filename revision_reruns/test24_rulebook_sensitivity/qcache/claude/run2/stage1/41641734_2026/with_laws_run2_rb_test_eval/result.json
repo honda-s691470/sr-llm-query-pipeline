@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-24T09:25:14Z",
+  "domain_folder": "04_Oncology",
+  "paper_folder": "41641734_2026",
+  "provider": "claude",
+  "model": "claude-opus-4-5",
+  "condition": "with_laws_run2_rb_test_eval",
+  "status": "completed",
+  "query": "(\"Solitary Pulmonary Nodule\"[Mesh] OR \"solitary pulmonary nodule\"[tiab] OR \"solitary pulmonary nodules\"[tiab] OR \"pulmonary nodule\"[tiab] OR \"pulmonary nodules\"[tiab] OR SPN[tiab] OR SPNs[tiab] OR \"lung nodule\"[tiab] OR \"lung nodules\"[tiab] OR \"Lung Neoplasms\"[Mesh]) AND (malignan*[tiab] OR \"lung cancer\"[tiab] OR \"Risk Factors\"[Mesh] OR \"risk factor*\"[tiab] OR benign[tiab])",
+  "query_length": 376,
+  "gold_count": 54,
+  "total_hits": 196994,
+  "hit_gold_count": 47,
+  "recall": 0.8703703703703703,
+  "nnr": 4191.36170212766,
+  "f1": 0.0004770411270350372,
+  "error_note": ""
+}

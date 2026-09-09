@@ -15,6 +15,13 @@ BASE_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 RATE_LIMIT_SLEEP = 1.0
 
 
+def rel_test_data_path(path: Path) -> str:
+    try:
+        return path.resolve().relative_to(TEST_DATA_DIR.parent.resolve()).as_posix()
+    except ValueError:
+        return path.as_posix()
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Evaluate prepared test queries against gold PMIDs.")
     parser.add_argument("--domain", action="append", default=[], help="Restrict to one or more domain folders.")
@@ -67,7 +74,7 @@ def collect_queries(paper_dir: Path) -> list[dict[str, str]]:
                 "provider": "human",
                 "condition": "human_reference",
                 "query": normalize_query(human_query_path.read_text(encoding="utf-8")),
-                "source_path": str(human_qc_path if human_qc_path.exists() else human_query_path),
+                "source_path": rel_test_data_path(human_qc_path if human_qc_path.exists() else human_query_path),
                 "raw_query_length": len(str(human_qc.get("raw_query", ""))),
                 "skip_reason": "" if bool(human_qc.get("query_usable", True)) else f"invalid_human_query:{';'.join(human_qc.get('issues', []))}",
             }
@@ -93,7 +100,7 @@ def collect_queries(paper_dir: Path) -> list[dict[str, str]]:
                         "provider": provider_dir.name,
                         "condition": condition_dir.name,
                         "query": query,
-                        "source_path": str(result_path if result_path.exists() else query_path),
+                        "source_path": rel_test_data_path(result_path if result_path.exists() else query_path),
                         "raw_query_length": len(query),
                         "skip_reason": "",
                     }

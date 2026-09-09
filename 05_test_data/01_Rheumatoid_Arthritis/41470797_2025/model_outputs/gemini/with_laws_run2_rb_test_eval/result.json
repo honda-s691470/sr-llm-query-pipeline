@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-24T21:58:03Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41470797_2025",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
+  "condition": "with_laws_run2_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Ilex paraguariensis\"[Mesh] OR \"yerba mate\"[tiab] OR \"Ilex paraguariensis\"[tiab] OR \"chlorogenic acid\"[tiab] OR \"caffeoylquinic acid\"[tiab] OR quercetin[tiab] OR rutin[tiab]) AND (\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR RA[tiab] OR \"Inflammation\"[Mesh] OR inflammation[tiab] OR \"Oxidative Stress\"[Mesh] OR \"oxidative stress\"[tiab])",
+  "query_length": 357,
+  "gold_count": 21,
+  "total_hits": 9325,
+  "hit_gold_count": 18,
+  "recall": 0.8571428571428571,
+  "nnr": 518.0555555555555,
+  "f1": 0.0038519152578643267,
+  "error_note": ""
+}

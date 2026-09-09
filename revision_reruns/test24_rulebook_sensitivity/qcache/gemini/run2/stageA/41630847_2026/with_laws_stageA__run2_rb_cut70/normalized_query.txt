@@ -1,0 +1,1 @@
+(("Arthritis, Rheumatoid"[Mesh] OR "rheumatoid arthritis"[tiab] OR RA[tiab]) AND ("Stroke"[Mesh] OR stroke*[tiab] OR "cerebrovascular accident"[tiab] OR CVA[tiab]) NOT "Clinical Trial Protocol"[pt]) NOT "Published Erratum"[pt]

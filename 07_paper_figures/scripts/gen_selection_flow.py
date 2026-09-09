@@ -1,4 +1,4 @@
-"""Figure S: SR selection flow + gold PMID extraction workflow."""
+﻿"""Figure S: SR selection flow + gold PMID extraction workflow."""
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
@@ -72,8 +72,10 @@ excl1_lines = ['Excluded at eligibility screening  (n = 539):',
                '  Not in target domain  (n = 21)',
                '  No explicit I/E criteria  (n = 88)',
                '  No explicit PubMed query  (n = 10)',
-               '  Full text not accessible  (n = 420)']
-excl1_h = side_excl(ax, EXCL_CX, Y1 + 0.3, EXCL_W, excl1_lines, fs=8.2)
+               '  Full text / PDF not accessible  (n = 289)',
+               '  Exact GOLD PMID list not identifiable  (n = 115)',
+               '  Many non-PubMed / thesis records  (n = 16)']
+excl1_h = side_excl(ax, EXCL_CX, Y1 + 0.3, EXCL_W, excl1_lines, fs=7.7)
 h_arrow(ax, CX + BW/2, EXCL_CX - EXCL_W/2, Y1 + 0.3)
 
 # ── Box 2: Gold PMID extraction ─────────────────────────────────────────
@@ -201,6 +203,7 @@ from pathlib import Path
 _SCRIPT_DIR = Path(__file__).resolve().parent
 _OUT_DIR = _SCRIPT_DIR.parent / "figures"
 _OUT_DIR.mkdir(parents=True, exist_ok=True)
-outpath = _OUT_DIR / "figureS_sr_selection_flow.png"
+outpath = _OUT_DIR / "figureS_sr_selection_flow_revised.png"
 fig.savefig(outpath, dpi=200, bbox_inches='tight', facecolor='white')
 print("Saved:", outpath)
+

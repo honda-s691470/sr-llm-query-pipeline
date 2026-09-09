@@ -1,0 +1,24 @@
+﻿{
+  "saved_at_utc": "2026-08-24T12:43:14.546682+00:00",
+  "dataset_split": "test",
+  "domain": "02_Cardiovascular_Disease",
+  "paper_id": "41709059_2026",
+  "provider": "codex",
+  "stage": "C",
+  "condition": "with_laws_stageC_passthrough_le1000",
+  "source_condition": "with_laws_stageB",
+  "query_type": "pubmed_boolean",
+  "query_length": 743,
+  "query_sha256": "5bb653c06afaf23df59a9a5d4845cb70136430b6bf1cd048754f5af5d71a7310",
+  "query_path": "public_release/05_test_data/02_Cardiovascular_Disease\\41709059_2026\\model_outputs\\codex\\with_laws_stageC_passthrough_le1000\\normalized_query.txt",
+  "extra": {
+    "stage_c_mode": "passthrough_stageb",
+    "stagec_min_hits": 1001,
+    "stagec_gate_hits": 1000,
+    "stagec_floor_hits": 1000,
+    "stagec_cut_percent": 70.0,
+    "use_fixed_k": false,
+    "k_used": 636,
+    "passthrough_reason": "stage_b_hits_below_threshold"
+  }
+}

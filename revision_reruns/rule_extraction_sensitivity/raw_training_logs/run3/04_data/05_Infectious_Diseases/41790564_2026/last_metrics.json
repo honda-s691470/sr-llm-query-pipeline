@@ -1,0 +1,10 @@
+{
+  "query": "((\"Spirochaetales\"[Mesh] OR spirochaet*[tiab] OR spirochet*[tiab] OR \"Treponema pallidum\"[Mesh] OR \"treponema pallidum\"[tiab] OR treponem*[tiab] OR pallidum[tiab] OR antitreponemal[tiab] OR syphilis[Mesh] OR syphilis[tiab] OR syphilitic[tiab] OR neurosyphilis[Mesh] OR neurosyphilis[tiab] OR \"Borrelia burgdorferi\"[Mesh] OR \"borrelia burgdorferi\"[tiab] OR borrelia[tiab] OR borreliosis[tiab] OR neuroborreliosis[tiab] OR \"anti-borrelia\"[tiab] OR \"Lyme Disease\"[Mesh] OR lyme[tiab] OR \"Leptospira\"[Mesh] OR leptospira[tiab] OR leptospiral[tiab] OR leptospirosis[Mesh] OR leptospirosis[tiab] OR \"spirochete antibody\"[tiab] OR \"spirochaete antibody\"[tiab] OR \"treponemal antibody\"[tiab] OR \"borrelia antibody\"[tiab] OR \"leptospira antibody\"[tiab] OR \"CSF antibody index\"[tiab]) AND (\"Neurodegenerative Diseases\"[Mesh] OR \"Cognition Disorders\"[Mesh] OR \"Dementia\"[Mesh] OR \"Alzheimer Disease\"[Mesh] OR \"Parkinson Disease\"[Mesh] OR \"Memory Disorders\"[Mesh] OR \"Neuropsychological Tests\"[Mesh] OR \"Mental Status and Dementia Tests\"[Mesh] OR dement*[tiab] OR alzheimer*[tiab] OR parkinson*[tiab] OR neurodegenerative[tiab] OR cognition[tiab] OR cognitive[tiab] OR \"cognitive impairment\"[tiab] OR \"cognitive decline\"[tiab] OR \"mild cognitive impairment\"[tiab] OR MCI[tiab] OR neuropsycholog*[tiab] OR MMSE[tiab] OR MoCA[tiab] OR \"clinical dementia rating\"[tiab])) AND (english[lang])",
+  "total_hits": 2609,
+  "recall": 1.0,
+  "found_count": 27,
+  "total_gold": 27,
+  "mode": "blind",
+  "timestamp_unix": 1787405098,
+  "missed_count": 0
+}

@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-24T21:58:09Z",
+  "domain_folder": "01_Rheumatoid_Arthritis",
+  "paper_folder": "41505363_2026",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
+  "condition": "with_laws_run2_rb_test_eval",
+  "returncode": 0,
+  "status": "completed",
+  "query": "(\"Arthritis, Rheumatoid\"[Mesh] OR \"rheumatoid arthritis\"[tiab] OR RA[tiab]) AND (\"Telemedicine\"[Mesh] OR \"Mobile Applications\"[Mesh] OR \"Digital Health\"[Mesh] OR \"telemedicine\"[tiab] OR \"telehealth\"[tiab] OR \"smart health\"[tiab] OR \"smart healthcare\"[tiab] OR \"mobile app\"[tiab] OR \"mobile health\"[tiab] OR eHealth[tiab] OR mHealth[tiab]) AND (\"Randomized Controlled Trial\"[pt] OR \"Controlled Clinical Trial\"[pt] OR randomized[tiab] OR randomised[tiab] OR randomly[tiab] OR trial[ti])",
+  "query_length": 484,
+  "gold_count": 18,
+  "total_hits": 77,
+  "hit_gold_count": 10,
+  "recall": 0.5555555555555556,
+  "nnr": 7.7,
+  "f1": 0.21052631578947364,
+  "error_note": ""
+}

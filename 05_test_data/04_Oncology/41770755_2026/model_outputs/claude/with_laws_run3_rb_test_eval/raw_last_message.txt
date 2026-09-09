@@ -1,0 +1,3 @@
+FULL_QUERY: ("Neoplasms"[Mesh] OR cancer[tiab] OR cancers[tiab] OR oncology[tiab] OR tumor[tiab] OR tumour[tiab]) AND ("Preoperative Care"[Mesh] OR prehabilitation[tiab] OR "pre-habilitation"[tiab] OR prehabilitative[tiab])
+
+[subagent self-check notes: STUDY_FILTER=OMIT (quantitative, qualitative, and mixed-methods studies all eligible = 3 design types >=2). Final AND block count = 2 (CONDITION: cancer; INTERVENTION: prehabilitation). Delivery mode (digital) and modality (multimodal) treated as NON-CORE per rulebook and left out of mandatory AND blocks; date restriction (2008 onward) omitted as a conservative recall-protective default since not unambiguously critical to eligibility.]

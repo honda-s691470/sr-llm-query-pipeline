@@ -1,0 +1,1 @@
+FULL_QUERY: ("Neoplasms"[Mesh] OR neoplasm*[tiab] OR cancer*[tiab] OR tumor*[tiab] OR tumour*[tiab] OR oncolog*[tiab] OR malignan*[tiab]) AND ("Prehabilitation"[Mesh] OR prehabilitation[tiab] OR prehabilitat*[tiab] OR prehab[tiab] OR "pre-habilitation"[tiab] OR "pre habilitation"[tiab]) AND (english[lang]) AND ("2008/01/01"[dp] : "3000"[dp])

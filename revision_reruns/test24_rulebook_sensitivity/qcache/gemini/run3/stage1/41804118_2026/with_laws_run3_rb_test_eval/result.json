@@ -1,0 +1,10 @@
+{
+  "domain": "03_Psychiatry",
+  "paper_id": "41804118_2026",
+  "query": "(\"Depression\"[Mesh] OR \"Depressive Disorder\"[Mesh] OR depression[tiab] OR depressive[tiab]) AND (\"Asian People\"[Mesh] OR \"South Asian\"[tiab] OR \"South Asians\"[tiab] OR Indian[tiab] OR Pakistani[tiab] OR Bangladeshi[tiab] OR Sri Lankan[tiab] OR Afghan[tiab] OR Nepalese[tiab] OR Bhutanese[tiab] OR Maldivian[tiab] OR diaspora[tiab] OR immigrant*[tiab]) NOT \"Review\"[pt] NOT \"Letter\"[pt] NOT \"Comment\"[pt] NOT \"Editorial\"[pt]",
+  "total_hits": 9360,
+  "num_gold": 8,
+  "found_gold": 4,
+  "recall": 0.5,
+  "nnr": 1170.0
+}
