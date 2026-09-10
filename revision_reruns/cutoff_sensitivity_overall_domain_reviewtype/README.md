@@ -1,4 +1,4 @@
-﻿# Cutoff Sensitivity: Overall, Domain, and Broad Review Type
+# Cutoff Sensitivity: Overall, Domain, and Broad Review Type
 
 This package contains the data and code needed to reproduce the 10-panel supplementary cutoff-sensitivity figure added during revision.
 
@@ -14,7 +14,7 @@ This package contains the data and code needed to reproduce the 10-panel supplem
 From the repository root, run:
 
 ```bash
-python public_release/revision_reruns/cutoff_sensitivity_overall_domain_reviewtype/scripts/reproduce_cutoff_sensitivity_10panel.py
+python revision_reruns/cutoff_sensitivity_overall_domain_reviewtype/scripts/reproduce_cutoff_sensitivity_10panel.py
 ```
 
 Outputs are written to `repro_check/`:

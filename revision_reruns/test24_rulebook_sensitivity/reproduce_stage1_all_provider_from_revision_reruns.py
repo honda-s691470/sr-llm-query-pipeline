@@ -1,4 +1,4 @@
-﻿from pathlib import Path
+from pathlib import Path
 from decimal import Decimal, ROUND_HALF_UP
 import numpy as np
 import pandas as pd
@@ -97,7 +97,7 @@ def build_data():
         from_query_eval_csv(SRC / "run2_stage2_cut70_phase5_completed_merged.csv", "Run 2"),
         from_query_eval_csv(STAGE2 / "gemini" / "test_prime_A_B_C_posthoc_recall_gemini_20260825_105143.csv", "Run 2"),
         from_claude_stage2_raw(SRC / "test24_stage2_cut70_rulebook_sensitivity_per_paper_run3.csv", "Run 3"),
-        from_query_eval_csv(SRC / "run3_stage1_test24_codex_gpt-5_5.csv", "Run 3"),
+        from_query_eval_csv(SRC / "run3_stage1_test24_codex_gpt-5_3.csv", "Run 3"),
         from_query_eval_csv(SRC / "test24_stage2_phase5_cut70_run3_rb_per_paper.csv", "Run 3"),
         from_claude_stage2_raw(SRC / "test24_stage2_cut70_rulebook_sensitivity_per_paper_pooled.csv", "Pooled"),
         from_query_eval_csv(SRC / "pooled_stage2_cut70_medcpt_cuda_phase5_completed_merged.csv", "Pooled"),
