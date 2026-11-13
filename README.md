@@ -40,6 +40,8 @@ See `REPRODUCIBILITY_MAP.md` for the script/data mapping for this release, inclu
 
 ## Quick Start
 
+On Windows, run `git config --global core.longpaths true` before cloning: some historical files under `05_test_data/` have paths longer than 260 characters. To check the deposited Stage C files, run `sha256sum -c MANIFEST.sha256` inside `stageC_harmonized/`.
+
 ### 1. Generate a PubMed query for a new SR (Stage 1)
 
 Provide an LLM (Claude / Codex / Gemini) with:
