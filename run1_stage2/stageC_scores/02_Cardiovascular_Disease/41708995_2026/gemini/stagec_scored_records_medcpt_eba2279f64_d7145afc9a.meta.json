@@ -1,0 +1,19 @@
+{
+  "domain": "02_Cardiovascular_Disease",
+  "paper_id": "41708995_2026",
+  "provider": "gemini",
+  "query_hash": "eba2279f64",
+  "pmid_set_hash": "d7145afc9a",
+  "n_stage_b_input": 2081,
+  "records_scored_n": 2078,
+  "dense_backend": "medcpt",
+  "stagec_formula": "final=rank(s_q)+rank(s_pos_mean)-rank(s_neg_mean)",
+  "pos_anchor_idx": [
+    2032,
+    1014
+  ],
+  "neg_anchor_idx": [
+    2077,
+    29
+  ]
+}

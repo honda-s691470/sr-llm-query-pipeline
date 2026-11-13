@@ -1,0 +1,10 @@
+model,category,n
+Claude,floor1000,7
+Claude,full70,10
+Claude,pass_through,7
+Codex,floor1000,5
+Codex,full70,9
+Codex,pass_through,10
+Gemini,floor1000,7
+Gemini,full70,8
+Gemini,pass_through,9

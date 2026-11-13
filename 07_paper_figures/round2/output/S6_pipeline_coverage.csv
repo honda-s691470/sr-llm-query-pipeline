@@ -1,0 +1,25 @@
+paper_id,condition_id,gate,score_source,n_pipe,n_with_doi,n_with_title
+40815363_2025,Codex__40815363_2025__main,False,stageC_harmonized score file,1134,1103,1134
+41108024_2025,Codex__41108024_2025__main,False,stageC_harmonized score file,4112,3239,4112
+41224700_2025,Codex__41224700_2025__main,True,data/codex_gate_reviews_T2_a0.5_final.csv,303,219,303
+41470797_2025,Codex__41470797_2025__main,False,stageC_harmonized score file,9449,9259,9449
+41484688_2026,Codex__41484688_2026__main,True,data/codex_gate_reviews_T2_a0.5_final.csv,889,777,889
+41505363_2026,Codex__41505363_2026__main,True,data/codex_gate_reviews_T2_a0.5_final.csv,58,58,58
+41630847_2026,Codex__41630847_2026__main,False,stageC_harmonized score file,1884,1733,1884
+41641734_2026,Codex__41641734_2026__7ffa06c634,False,stageC_harmonized score file,9994,9045,9992
+41708995_2026,Codex__41708995_2026__main,False,stageC_harmonized score file,3556,3460,3556
+41709059_2026,Codex__41709059_2026__f84505169f,False,stageC_harmonized score file,1868,1749,1867
+41715180_2026,Codex__41715180_2026__main,False,stageC_harmonized score file,6095,5986,6095
+41720985_2026,Codex__41720985_2026__main,True,data/codex_gate_reviews_T2_a0.5_final.csv,203,200,203
+41770755_2026,Codex__41770755_2026__e98555e363,False,stageC_harmonized score file,2926,2871,2925
+41774244_2026,Codex__41774244_2026__main,True,data/codex_gate_reviews_T2_a0.5_final.csv,155,153,155
+41781907_2026,Codex__41781907_2026__main,False,stageC_harmonized score file,9347,8835,9347
+41781990_2026,Codex__41781990_2026__main,True,data/codex_gate_reviews_T2_a0.5_final.csv,298,285,298
+41792577_2026,Codex__41792577_2026__main,True,data/codex_gate_reviews_T2_a0.5_final.csv,830,593,830
+41792786_2026,Codex__41792786_2026__main,True,data/codex_gate_reviews_T2_a0.5_final.csv,492,470,492
+41793737_2026,Codex__41793737_2026__main,False,stageC_harmonized score file,5325,4749,5325
+41794963_2026,Codex__41794963_2026__main,True,data/codex_gate_reviews_T2_a0.5_final.csv,48,47,48
+41796365_2026,Codex__41796365_2026__main,True,data/codex_gate_reviews_T2_a0.5_final.csv,291,224,291
+41796425_2026,Codex__41796425_2026__main,False,stageC_harmonized score file,5505,5388,5505
+41802227_2026,Codex__41802227_2026__f4299ad942,False,stageC_harmonized score file,2118,2097,2114
+41804118_2026,Codex__41804118_2026__b0adb72070,False,stageC_harmonized score file,6670,6186,6658

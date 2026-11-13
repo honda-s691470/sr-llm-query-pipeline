@@ -1,0 +1,9 @@
+{
+  "provider": "codex",
+  "query_hash": "e0e0fb6741",
+  "n_stage_b_input": 3558,
+  "records_scored_n": 2000,
+  "dense_backend": "medcpt",
+  "alpha": 0.5,
+  "suffix": "latestB_oldquery"
+}

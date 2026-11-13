@@ -1,0 +1,22 @@
+method,n_papers,mean_recall,mean_nnr,mean_f1
+Elicit Keyword all,24,0.2092,63.3,0.0659
+Elicit Question all,24,0.5913,112.0,0.0244
+Elicit Question include,24,0.5275,29.7,0.1229
+OpenScholar normal,24,0.3013,11.7,0.1585
+OpenScholar deep,24,0.5119,27.5,0.1004
+Human query,24,0.699,418.1,0.0917
+Claude cut0,24,0.7654,264.9,0.0368
+Claude cut30,24,0.7461,212.7,0.0396
+Claude cut50,24,0.7368,163.2,0.0411
+Claude cut70,24,0.718,131.8,0.0438
+Claude unified,24,0.6513,116.3,0.0469
+Codex cut0,24,0.7575,265.7,0.0624
+Codex cut30,24,0.7141,161.9,0.0661
+Codex cut50,24,0.6972,146.9,0.0675
+Codex cut70,24,0.6738,122.4,0.0688
+Codex unified,24,0.6099,99.9,0.0715
+Gemini cut0,24,0.7748,259.7,0.046
+Gemini cut30,24,0.7598,192.5,0.0483
+Gemini cut50,24,0.7368,150.1,0.0508
+Gemini cut70,24,0.7132,111.9,0.0535
+Gemini unified,24,0.6537,93.0,0.0561

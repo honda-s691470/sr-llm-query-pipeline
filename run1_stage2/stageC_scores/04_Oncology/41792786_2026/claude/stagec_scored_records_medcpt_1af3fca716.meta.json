@@ -1,0 +1,9 @@
+{
+  "domain": "04_Oncology",
+  "paper_id": "41792786_2026",
+  "provider": "claude",
+  "query_hash": "1af3fca716",
+  "n_stage_b_input": 1316,
+  "records_scored_n": 1316,
+  "dense_backend": "medcpt"
+}

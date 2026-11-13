@@ -1,0 +1,25 @@
+﻿method,paper_id,recall
+Elicit Question (K=Codex cap),40815363_2025,0.7142857142857143
+Codex unified (cut0/top1000),40815363_2025,0.26666666666666666
+Elicit Question (K=Claude cap),40815363_2025,0.7142857142857143
+Claude unified (cut0/top1000),40815363_2025,0.3333333333333333
+Elicit Question (K=Codex cap),41108024_2025,0.35
+Codex unified (cut0/top1000),41108024_2025,0.5384615384615384
+Elicit Question (K=Claude cap),41108024_2025,0.35
+Claude unified (cut0/top1000),41108024_2025,0.5769230769230769
+Elicit Question (K=Codex cap),41224700_2025,0.9166666666666666
+Codex unified (cut0/top1000),41224700_2025,0.8333
+Elicit Question (K=Claude cap),41224700_2025,0.9166666666666666
+Claude unified (cut0/top1000),41224700_2025,0.9166666666666666
+Elicit Question (K=Codex cap),41470797_2025,0.6190476190476191
+Codex unified (cut0/top1000),41470797_2025,0.5714285714285714
+Elicit Question (K=Claude cap),41470797_2025,0.6190476190476191
+Claude unified (cut0/top1000),41470797_2025,0.6666666666666666
+Elicit Question (K=Codex cap),41484688_2026,0.8125
+Codex unified (cut0/top1000),41484688_2026,0.5882
+Elicit Question (K=Claude cap),41484688_2026,0.8125
+Claude unified (cut0/top1000),41484688_2026,0.4117647058823529
+Elicit Question (K=Codex cap),41630847_2026,0.2727272727272727
+Codex unified (cut0/top1000),41630847_2026,0.5
+Elicit Question (K=Claude cap),41630847_2026,0.2727272727272727
+Claude unified (cut0/top1000),41630847_2026,0.5

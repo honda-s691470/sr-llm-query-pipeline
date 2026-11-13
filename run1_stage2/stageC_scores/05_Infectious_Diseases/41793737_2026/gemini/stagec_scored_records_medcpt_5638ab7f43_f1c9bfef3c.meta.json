@@ -1,0 +1,19 @@
+{
+  "domain": "05_Infectious_Diseases",
+  "paper_id": "41793737_2026",
+  "provider": "gemini",
+  "query_hash": "5638ab7f43",
+  "pmid_set_hash": "f1c9bfef3c",
+  "n_stage_b_input": 7516,
+  "records_scored_n": 7515,
+  "dense_backend": "medcpt",
+  "stagec_formula": "final=rank(s_q)+rank(s_pos_mean)-rank(s_neg_mean)",
+  "pos_anchor_idx": [
+    6770,
+    5359
+  ],
+  "neg_anchor_idx": [
+    6556,
+    6847
+  ]
+}

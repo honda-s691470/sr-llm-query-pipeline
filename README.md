@@ -1,4 +1,4 @@
-﻿# SR Benchmark 窶・Public Release
+# SR Benchmark — Public Release
 
 Reproducibility package for the paper:  
 **"An Agentic Learning Framework for Systematic Review Literature Search"**
@@ -12,7 +12,7 @@ Leiden University Medical Center
 
 ![Figure 1: SR-LLM Query Pipeline](07_paper_figures/figures/figure1_pipeline.png)
 
-**Figure 1.** Overview of the two-stage pipeline. Stage 1 derives a structured Boolean query rulebook through iterative hypothesis accumulation on training SRs (left), then applies it one-shot to generate queries for held-out SRs. Stage 2 applies exclusion-criteria-based filtering and MedCPT semantic re-ranking to reduce screening workload while preserving recall (right).
+**Figure 1.** Overview of the two-stage pipeline. Stage 1 derives a structured Boolean query rulebook through iterative hypothesis accumulation on training SRs (left), then applies it to generate queries for held-out SRs. Stage 2 applies exclusion-criteria-based filtering and MedCPT semantic re-ranking (right).
 
 ---
 
@@ -22,28 +22,30 @@ Leiden University Medical Center
 public_release/
   01_hypothesis_accumulation/          # Stage 1: Iterative hypothesis accumulation pipeline (Codex CLI)
   02_query_laws_refinement/            # Stage 1: Law extraction + iterative rulebook refinement workflow
-  03_hypothesis_accumlation_test/      # Stage 1: One-shot query generation & evaluation (Claude / Codex / Gemini)
+  03_hypothesis_accumlation_test/      # Stage 1: Query generation & evaluation (Claude / Codex / Gemini)
   04_data/                             # Training SR input configs (11 papers) and model outputs
   05_test_data/                        # Test SR data (24 papers: gold PMIDs, human queries, input configs, model outputs)
   06_exclusion_screening_pipeline/     # Stage 2: Exclusion filtering + MedCPT semantic re-ranking pipeline
-  07_paper_figures/                    # Scripts and data to reproduce all paper figures
+  07_paper_figures/                    # Selected figure scripts and historical analysis data
   08_elicit_queryb_dataset/            # Elicit retrieval results and recall computation
   09_openscholar_query_dataset/        # OpenScholar (Asta) retrieval results and recall computation
   revision_reruns/                     # Reviewer-requested analyses added during peer review (rerun reproducibility, cutoff sensitivity, failure cases)
+  stageC_harmonized/                   # Revised primary Stage 2 metrics, statistics and sensitivity analyses
+  run1_stage2/                         # Historical intermediate files; see limitations in its README
 ```
 
-See `REPRODUCIBILITY_MAP.md` for the complete figure/table/statistic 竊・script/data mapping, including the `revision_reruns/` analyses.
+See `REPRODUCIBILITY_MAP.md` for the script/data mapping for this release, including historical analyses under `revision_reruns/`.
 
 ---
 
 ## Quick Start
 
-### 1. Generate a PubMed query for a new SR (Stage 1, one-shot)
+### 1. Generate a PubMed query for a new SR (Stage 1)
 
 Provide an LLM (Claude / Codex / Gemini) with:
-- `02_query_laws_refinement/test_prompt_with.md` 窶・query construction prompt (with rulebook)
-- `02_query_laws_refinement/query_laws_ver14.txt` 窶・finalized rulebook (v14, used in paper)
-- `05_test_data/{domain}/{paper_id}/input_config.json` 窶・SR objectives and criteria
+- `02_query_laws_refinement/test_prompt_with.md` — query construction prompt (with rulebook)
+- `02_query_laws_refinement/query_laws_ver14.txt` — finalized rulebook (v14, used in paper)
+- `05_test_data/{domain}/{paper_id}/input_config.json` — SR objectives and criteria
 
 Evaluate recall via PubMed:
 ```
@@ -64,24 +66,35 @@ See `02_query_laws_refinement/WORKFLOW.md` for the full 3-step workflow.
 
 See `06_exclusion_screening_pipeline/README.md`.
 
-### 5. Reproduce paper figures
+For the revised primary analysis, replay the saved scores offline from the repository root (no GPU, PubMed requests or model calls):
 
-Figure 1 is a manually laid-out schematic (no generating script); the remaining figures are reproduced with:
+```bash
+python stageC_harmonized/code/replay_metrics.py --public-root . --out ../stageC_reproduction/metrics
+python stageC_harmonized/code/statistics.py --metrics ../stageC_reproduction/metrics --public-root . --out ../stageC_reproduction/stats
+python stageC_harmonized/code/compare_expected.py --metrics ../stageC_reproduction/metrics --stats ../stageC_reproduction/stats
+```
+
+See `stageC_harmonized/README.md` for candidate provenance, score components and analysis conditions.
+
+### 5. Reproduce selected figures and historical analyses
+
+Figure 1 is a manually laid-out schematic (no generating script). The following commands generate selected figures. The Stage 2 commands reproduce historical Run1 summaries, not the harmonized Stage 2 primary analysis used in the second revision.
 
 ```bash
 cd 07_paper_figures/scripts/
-python build_test_metrics.py             # builds data/test24_eval/all_test_metrics.csv + test24_without_laws_all_providers.csv (must run first)
-python generate_training_figures_v2.py   # Figure 2, Figure S1, legend-only panel
-python figure3_v3_mean_ci_bar.py         # Figure 3 (Stage 1 recall/NNR)
-python figure4_v3_mean_ci_bar.py         # Figure 4 (Stage 2 recall/NNR, cut70)
+python generate_training_figures_v2.py   # Figure 2, Round 2 Figure S2 (historical Figure S1), legend-only panel
+python figure3_v4_mean_ci_bar.py ../..   # Figure 3, using the supplied fixed Stage 1 CSVs
+python ../clinical_areas/figureS3_unseen_areas_mean_ci_bar.py --release-root ../.. --output-dir ../../../clinical_area_reproduction
+# Historical Stage 2 and subgroup renderers (not revised primary figures):
+python figure4_v3_mean_ci_bar.py         # Historical Figure 4
 python figure4_stage2_boxplot.py         # Figure 4 alternate boxplot view
-python figureS2_novel_domains_mean_ci_bar.py  # Figure S2 (RA + oncology only)
-python gen_selection_flow.py             # Figure S: SR selection flow / gold PMID extraction
-python reproduce_stage2_statistics.py        # Stage 2 NNR tests, R_search, projected savings
-python figure5_workload_reduction_forest.py   # Figure 5 (workload reduction forest plot)
+python figureS2_novel_domains_mean_ci_bar.py  # Round 1 Figure S2 (RA + oncology only)
+python gen_selection_flow.py             # Round 2 Figure S1: SR selection flow / gold PMID extraction
+python reproduce_stage2_statistics.py        # Historical Stage 2 NNR tests and R_search
+python figure5_workload_reduction_forest.py   # Historical Figure 5 (Run1 workload reduction forest plot)
 ```
 
-For the reviewer-requested supplementary analyses added during revision (rerun-based rulebook reproducibility, cutoff-sensitivity by domain/review-type, and failure-case analysis), see `REPRODUCIBILITY_MAP.md`, which lists every figure/table together with its generating script and required inputs, including the analyses under `revision_reruns/`.
+For the historical rulebook reproducibility, cutoff-sensitivity and failure-case analyses included in this release, see `REPRODUCIBILITY_MAP.md` for scripts and required inputs. Historical supplementary figure/table labels use Round 1 numbering. The second-revision figure and table numbers, and which of them this release reproduces, are listed in `REPRODUCIBILITY_MAP.md` ("Second-revision (Round 2) numbering").
 
 ---
 
@@ -89,37 +102,18 @@ For the reviewer-requested supplementary analyses added during revision (rerun-b
 
 | Set | N | Domains | Purpose |
 |---|---:|---|---|
-| Training | 11 | CVﾃ・, PSYﾃ・, INFﾃ・ | Hypothesis accumulation + rulebook refinement |
-| Test | 24 | RAﾃ・, ONCﾃ・, CVﾃ・, PSYﾃ・, INFﾃ・ | Benchmark evaluation (held out) |
+| Training | 11 | CV×3, PSY×3, INF×2, Other×3 | Hypothesis accumulation + rulebook refinement |
+| Test | 24 | ONC×7, RH×6, CV×4, PSY×3, INF×2, Other×2 | Benchmark evaluation (held out) |
+
+Clinical-area assignments are provided in `07_paper_figures/clinical_areas/clinical_areas_35reviews.csv`. RH denotes rheumatology; directory names retain historical domain labels. The unseen-area analysis includes RH and ONC (13 test reviews).
 
 ---
 
-## Key Results (Test Set, N=24)
+## Interpreting the analysis files
 
-### Stage 1: Recall (raw queries, with rulebook)
+Stage 1 metrics are stored under `07_paper_figures/data/test24_eval/`. NNR is the number of candidate records divided by the number of retrieved gold-standard studies; it is not a direct measurement of screening time or cost.
 
-| Method | Recall | vs. Human |
-|---|---|---|
-| Human query | 0.699 [0.592窶・.802] | 窶・|
-| Gemini with rulebook | **0.888** [0.820窶・.943] | +19 pp, p=0.002 |
-| Claude with rulebook | **0.832** [0.749窶・.904] | +13 pp, p=0.022 |
-| Codex with rulebook | **0.817** [0.733窶・.893] | +12 pp, p=0.022 |
-
-Recall gains generalized to the two domains absent from training (RA, oncology): +14 to +20 pp vs. human queries.
-
-### Stage 2: Recall vs. NNR after cut70 (top 30% by MedCPT rank, floor=1,000)
-
-| Method | Recall | NNR | Workload reduction vs. Human |
-|---|---|---|---|
-| Human query | 0.699 | 418 | 窶・|
-| Claude cut70 | 0.718 | **93** | 竏・8.5% (p<0.05) |
-| Codex cut70 | 0.674 | **100** | 竏・0.7% (p<0.05) |
-| Gemini cut70 | 0.713 | **93** | 竏・3.2% (p<0.05) |
-| Elicit Question all | 0.591 | 108 | (low recall) |
-| OpenScholar normal | 0.301 | 34 | (low recall) |
-
-NNR = Number Needed to Read (hits / TP). Lower is better for screening efficiency.  
-All three LLM cut70 conditions maintained recall comparable to the human baseline while reducing NNR by ~4.5ﾃ・
+The May 2026 Stage 2 aggregate CSVs and their plotting scripts preserve historical Run1 results. They are not the harmonized Stage 2 primary analysis used in the second revision and should not be cited as evidence of demonstrated workload, time or cost savings. `run1_stage2/README.md` describes the provenance and limitations of the preserved article-level files.
 
 ---
 
@@ -130,11 +124,3 @@ The PubMed API response cache (~694 MB, excluded from this repository) is availa
 > Honda S, Knevel R, van den Akker EB. *PubMed Cache Data for SR-LLM Query Pipeline Benchmark.* Zenodo, 2026. DOI: [10.5281/zenodo.20392130](https://doi.org/10.5281/zenodo.20392130)
 
 Place the extracted `pubmed_cache/` directory under `06_exclusion_screening_pipeline/` before running Stage 2.
-
----
-
-## Citation
-
-*(To be added upon publication)*
-
-

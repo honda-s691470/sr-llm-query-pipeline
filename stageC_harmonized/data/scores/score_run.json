@@ -1,0 +1,314 @@
+{
+ "environment": {
+  "torch": "2.11.0+cu128",
+  "transformers": "5.12.0",
+  "numpy": "2.4.2",
+  "python": "3.14.2",
+  "gpu": "NVIDIA GeForce RTX 4090 Laptop GPU",
+  "model_files_sha256": {
+   "d83a36cc6b8e3a5c5e9d9d6ba156808c1643dcbc": {
+    "added_tokens.json": "691a5ce0135045c12b8410af8d472ff8de864094df40ac9af418d6c644c7588d",
+    "config.json": "3fea00b31d018d676d6b7e2f6cddcfe1abc69bcb88f5f09f51b848212e1671d1",
+    "model.safetensors": "19d78c0d5eaee2f81e6c47c5425bbadcc0c6af016cbb5da4a000d64e59d6e342",
+    "special_tokens_map.json": "b6d346be366a7d1d48332dbc9fdf3bf8960b5d879522b7799ddba59e76237ee3",
+    "tokenizer.json": "6e046044df8a2fcedb10607075dca187cae61d806c0d80a96c5b81017edc90c9",
+    "tokenizer_config.json": "cabeefb4bbba68c42d40a56bfc1e73dd2e5dfb6e0ca90a66349519c375452d1e",
+    "vocab.txt": "79489a52be45e6fa033521e8ce8e4f62aedc0a742ee2aa6fc04667e5b0b1454d"
+   },
+   "d05a736da4bb84ee4057b7f7999485be6ed85465": {
+    "added_tokens.json": "691a5ce0135045c12b8410af8d472ff8de864094df40ac9af418d6c644c7588d",
+    "config.json": "3fea00b31d018d676d6b7e2f6cddcfe1abc69bcb88f5f09f51b848212e1671d1",
+    "model.safetensors": "a5d5ffe4d8666c1d0aa15f371b94fc3492ca8f927e5621abd4b3ee9fc845b0f3",
+    "special_tokens_map.json": "b6d346be366a7d1d48332dbc9fdf3bf8960b5d879522b7799ddba59e76237ee3",
+    "tokenizer.json": "6e046044df8a2fcedb10607075dca187cae61d806c0d80a96c5b81017edc90c9",
+    "tokenizer_config.json": "cabeefb4bbba68c42d40a56bfc1e73dd2e5dfb6e0ca90a66349519c375452d1e",
+    "vocab.txt": "79489a52be45e6fa033521e8ce8e4f62aedc0a742ee2aa6fc04667e5b0b1454d"
+   }
+  }
+ },
+ "protocol_sha256": "0c641730f41c2b2d1ba7d193cfc6a657f5dec5214b60c0b965cdcbd6757bcac0",
+ "conditions": [
+  {
+   "condition_id": "Claude__40815363_2025__main",
+   "n": 1264,
+   "seconds": 14.4,
+   "doc_texts_sha256": "bd037bf0c594ffe92cbefb23169d1ccba535e2e1fe8249b4c7be22fccf84281d"
+  },
+  {
+   "condition_id": "Claude__41108024_2025__main",
+   "n": 4553,
+   "seconds": 52.5,
+   "doc_texts_sha256": "39fb0ecf96636d3878736bfec1ebe6dd51ec1a971a799c9405f6cf2896111e5e"
+  },
+  {
+   "condition_id": "Claude__41224700_2025__main",
+   "n": 1197,
+   "seconds": 14.6,
+   "doc_texts_sha256": "a95e6176f87c7d1424cb304267cdda2196d40b60635328e65acd643c653f9ddf"
+  },
+  {
+   "condition_id": "Claude__41470797_2025__main",
+   "n": 5163,
+   "seconds": 71.6,
+   "doc_texts_sha256": "e4f8be11a60e64641bdc3a30b0b5afa85e94c71b7ea3053f449348e6f9ccba28"
+  },
+  {
+   "condition_id": "Claude__41484688_2026__main",
+   "n": 4146,
+   "seconds": 50.4,
+   "doc_texts_sha256": "7792c520e43fe5cece150f9c7f5936bd53674e8765b51caf79480f8d9a674566"
+  },
+  {
+   "condition_id": "Claude__41630847_2026__main",
+   "n": 1853,
+   "seconds": 23.9,
+   "doc_texts_sha256": "71178aee28ee21fa59c83eab8c4967631cdfe8a5b62c5a85d636324fde220197"
+  },
+  {
+   "condition_id": "Claude__41641734_2026__main",
+   "n": 7289,
+   "seconds": 88.4,
+   "doc_texts_sha256": "4ec03f448f3122680e2210b620408be519e39269f7847ad5484b5bb0193ed31c"
+  },
+  {
+   "condition_id": "Claude__41708995_2026__main",
+   "n": 9354,
+   "seconds": 115.0,
+   "doc_texts_sha256": "132b5c375868cc183048425411342aae26d19ef0a73c3fb191c5aa92cee359a0"
+  },
+  {
+   "condition_id": "Claude__41715180_2026__main",
+   "n": 9089,
+   "seconds": 115.8,
+   "doc_texts_sha256": "52e9f5069275cdcd206745c3a0a9b3ba290ee53acd04e632940710a30cc5db89"
+  },
+  {
+   "condition_id": "Claude__41720985_2026__main",
+   "n": 1251,
+   "seconds": 14.9,
+   "doc_texts_sha256": "8e35a55f99a3607574333af56896cd986a4eaf230b143efa60c1adc226f7525d"
+  },
+  {
+   "condition_id": "Claude__41770755_2026__main",
+   "n": 1414,
+   "seconds": 16.4,
+   "doc_texts_sha256": "126211e624731365763575b70fd45be51417a365cca6474662632b80673d57f7"
+  },
+  {
+   "condition_id": "Claude__41781907_2026__main",
+   "n": 6565,
+   "seconds": 83.9,
+   "doc_texts_sha256": "b1ec9d1f641c5e321f1049196bf256a109c83e1366f4ac41347680f4eff0752d"
+  },
+  {
+   "condition_id": "Claude__41792577_2026__main",
+   "n": 7834,
+   "seconds": 99.7,
+   "doc_texts_sha256": "afa870127967322558a0ef995fb1528f710fe7a408495bd42b6fb42312cb9e7b"
+  },
+  {
+   "condition_id": "Claude__41792786_2026__main",
+   "n": 1316,
+   "seconds": 16.8,
+   "doc_texts_sha256": "837f6044315a6788af33dabcd630a00380b976b5a91fc3977cc09fe52dbde4ef"
+  },
+  {
+   "condition_id": "Claude__41793737_2026__main",
+   "n": 5633,
+   "seconds": 70.6,
+   "doc_texts_sha256": "91af0f76b891b028ec4965890284a1e67ee35e5b1698aa165dc0caf3eee591d5"
+  },
+  {
+   "condition_id": "Claude__41802227_2026__main",
+   "n": 1493,
+   "seconds": 17.6,
+   "doc_texts_sha256": "ab3ac754a5d1a06ce4fadf590a2438a769fd1d0bf63d3bb6d6869b2e89b7bdb2"
+  },
+  {
+   "condition_id": "Claude__41804118_2026__main",
+   "n": 3937,
+   "seconds": 46.1,
+   "doc_texts_sha256": "e7bfa014d2c4ef136b9cb1092f8406f6bf9468d430e7960dcf858185e6f9c943"
+  },
+  {
+   "condition_id": "Codex__40815363_2025__main",
+   "n": 1134,
+   "seconds": 14.1,
+   "doc_texts_sha256": "b780a44a11157d211ba800fae3a3f53cd5aa92184423fac8516031adcc78c000"
+  },
+  {
+   "condition_id": "Codex__41108024_2025__main",
+   "n": 4112,
+   "seconds": 51.0,
+   "doc_texts_sha256": "d87ef00c91a8f38032e86e60cb0df4a065c87ef0c7dce54ce0cf4a07c44f68a1"
+  },
+  {
+   "condition_id": "Codex__41470797_2025__main",
+   "n": 9449,
+   "seconds": 127.2,
+   "doc_texts_sha256": "30e5e6ba0ee0bd52e303689de401b156884b2eb5f541046896af1eecb9516388"
+  },
+  {
+   "condition_id": "Codex__41630847_2026__main",
+   "n": 1884,
+   "seconds": 22.5,
+   "doc_texts_sha256": "a114a5c16a000d7c60ef7ae455f79a7975faad5ba07f5c2260746e53b4353b7d"
+  },
+  {
+   "condition_id": "Codex__41641734_2026__4b8f95c4f7",
+   "n": 9994,
+   "seconds": 114.3,
+   "doc_texts_sha256": "6721d4ee0a57c8d8d128f1b08e6d9e2860b61a0a55bbb174b3296422aaeea92c"
+  },
+  {
+   "condition_id": "Codex__41641734_2026__7ffa06c634",
+   "n": 9994,
+   "seconds": 114.2,
+   "doc_texts_sha256": "474f58b352d96ce1c588f0a82231ef69b4c8331116bc7e28f0d4445fba5811dc"
+  },
+  {
+   "condition_id": "Codex__41708995_2026__main",
+   "n": 3556,
+   "seconds": 39.6,
+   "doc_texts_sha256": "87a9fa203fb0ff01fefa18ef9edf4bd5da82811bc171073331333ef49f96938e"
+  },
+  {
+   "condition_id": "Codex__41709059_2026__f84505169f",
+   "n": 1868,
+   "seconds": 23.9,
+   "doc_texts_sha256": "4b725fd85e4deec476d7333ac51231f2c57b9337c110c3d7a5b24c208b012e6c"
+  },
+  {
+   "condition_id": "Codex__41715180_2026__main",
+   "n": 6095,
+   "seconds": 70.2,
+   "doc_texts_sha256": "bf5a2bcf5f7023844c7519385425bd77d033e3f8f36152625d72c76ee5b9affe"
+  },
+  {
+   "condition_id": "Codex__41770755_2026__e98555e363",
+   "n": 2926,
+   "seconds": 32.0,
+   "doc_texts_sha256": "1ac9ed5030dd0f78f3dbc33ffb89be1558b8e8b1e52d1ba7f9c46122ac1ac08d"
+  },
+  {
+   "condition_id": "Codex__41781907_2026__main",
+   "n": 9347,
+   "seconds": 109.4,
+   "doc_texts_sha256": "547d49df515a00fd8a21118b9841928ea702efcf9a0e8c153fec392ff0ea797e"
+  },
+  {
+   "condition_id": "Codex__41793737_2026__main",
+   "n": 5325,
+   "seconds": 63.4,
+   "doc_texts_sha256": "01c781dfc9df5763adcc2b479c79372c7c916c5cfac1b8a21df6c71089f145e2"
+  },
+  {
+   "condition_id": "Codex__41796425_2026__main",
+   "n": 5505,
+   "seconds": 66.5,
+   "doc_texts_sha256": "d057bf4dc6753ce99c970d11b6c9ff9d615582c1664b12da3b1548c6674828ff"
+  },
+  {
+   "condition_id": "Codex__41802227_2026__f4299ad942",
+   "n": 2118,
+   "seconds": 23.7,
+   "doc_texts_sha256": "fc901392b0e0cca3e98ffe5fae312d270e841f1998560462317018304b0e11da"
+  },
+  {
+   "condition_id": "Codex__41804118_2026__b0adb72070",
+   "n": 6670,
+   "seconds": 77.2,
+   "doc_texts_sha256": "b317e210f6d34153a72c1c059a4e471e589a90b1fddca6c4b4aa47a69f99c2c8"
+  },
+  {
+   "condition_id": "Gemini__40815363_2025__dd2cb244ae",
+   "n": 2990,
+   "seconds": 38.2,
+   "doc_texts_sha256": "635e2eade6110fa297f21815c2cdb119cc6154a5496232e253dc2d07f51aa92b"
+  },
+  {
+   "condition_id": "Gemini__41108024_2025__main",
+   "n": 4270,
+   "seconds": 50.8,
+   "doc_texts_sha256": "6f4dd7ae3df5284ee31fffb175a387fa8081833bd49c24b0fb5a607f02a097f5"
+  },
+  {
+   "condition_id": "Gemini__41470797_2025__main",
+   "n": 5015,
+   "seconds": 66.1,
+   "doc_texts_sha256": "ebc764847ba5001f79e2612264c77a20406cf05f131eecc8fd9eff75a4f6a832"
+  },
+  {
+   "condition_id": "Gemini__41484688_2026__main",
+   "n": 9980,
+   "seconds": 120.4,
+   "doc_texts_sha256": "3e70d18518e9557297b998f872ebabeebe0b1c2e2214cd9de4a3949b15057d28"
+  },
+  {
+   "condition_id": "Gemini__41630847_2026__main",
+   "n": 1870,
+   "seconds": 22.6,
+   "doc_texts_sha256": "d1b00cb26b2d4fd92eccf8009cb772c3263af3557fa83048908e9696128ab87f"
+  },
+  {
+   "condition_id": "Gemini__41641734_2026__326345ac08",
+   "n": 9907,
+   "seconds": 118.9,
+   "doc_texts_sha256": "fd9fd5a16e26f99d994580239d80cef04fee7ede6648fd23057513ff38a894a6"
+  },
+  {
+   "condition_id": "Gemini__41708995_2026__main",
+   "n": 2078,
+   "seconds": 24.4,
+   "doc_texts_sha256": "de160f42b4afa621cab137f27ab913dc726e9a2f1102ac7c217be12c130210b1"
+  },
+  {
+   "condition_id": "Gemini__41709059_2026__82efb02fae",
+   "n": 3782,
+   "seconds": 49.9,
+   "doc_texts_sha256": "10cef189ae97d5ed09cfecaaa4108487ee2adf10185b728c869e1aa449de7e44"
+  },
+  {
+   "condition_id": "Gemini__41715180_2026__0873a221b4",
+   "n": 2196,
+   "seconds": 27.2,
+   "doc_texts_sha256": "ce8b9099842a18ab7aee2524056b52fdbe7985afb467aa456b92173067484f99"
+  },
+  {
+   "condition_id": "Gemini__41770755_2026__main",
+   "n": 1317,
+   "seconds": 15.6,
+   "doc_texts_sha256": "a9fbce7e183611a962d39f96765d0cc53223d3cd9ab6173c4654c73b38763eeb"
+  },
+  {
+   "condition_id": "Gemini__41781907_2026__main",
+   "n": 9783,
+   "seconds": 125.1,
+   "doc_texts_sha256": "b12fb3074e800a184226769b3b2fecb05bcd4694ea852ce9fd67943b3487eced"
+  },
+  {
+   "condition_id": "Gemini__41793737_2026__f1c9bfef3c",
+   "n": 7516,
+   "seconds": 96.9,
+   "doc_texts_sha256": "fd57bd41b13ed1c6d4064cac8bb17044f213b162104fd130f48c67fed105ec7d"
+  },
+  {
+   "condition_id": "Gemini__41796425_2026__main",
+   "n": 9243,
+   "seconds": 118.4,
+   "doc_texts_sha256": "23cf262274df9b77bafaeafe4a6ec43314d297960437970d7ae4a03ba2eeddb4"
+  },
+  {
+   "condition_id": "Gemini__41802227_2026__3e62fa82c6",
+   "n": 2227,
+   "seconds": 27.7,
+   "doc_texts_sha256": "646be3809a5722cbedf0d58d8e50e17540ed73ac8f709923d111811501e0419b"
+  },
+  {
+   "condition_id": "Gemini__41804118_2026__c9b4c2a9ef",
+   "n": 1888,
+   "seconds": 22.8,
+   "doc_texts_sha256": "83922e4cbaf11ffb15c5c992778a3460c2d12ae372ab3564c94626ca45129a01"
+  }
+ ]
+}

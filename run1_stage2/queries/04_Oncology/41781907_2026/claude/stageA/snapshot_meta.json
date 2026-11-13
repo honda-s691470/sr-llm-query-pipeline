@@ -1,0 +1,17 @@
+{
+  "saved_at_utc": "2026-04-01T13:33:18.551995+00:00",
+  "dataset_split": "test27",
+  "domain": "04_Oncology",
+  "paper_id": "41781907_2026",
+  "provider": "claude",
+  "stage": "A",
+  "condition": "with_laws_stageA",
+  "source_condition": "with_laws_stageA_prime",
+  "query_type": "pubmed_boolean",
+  "query_length": 516,
+  "query_sha256": "4550a2844eda134e196fb8e59abe307f39742f3138bf99a53ec7827576f38c1e",
+  "query_path": "05_test_data\\04_Oncology\\41781907_2026\\model_outputs\\claude\\with_laws_stageA\\normalized_query.txt",
+  "extra": {
+    "stage_a_total_hits": 6575
+  }
+}

@@ -1,0 +1,19 @@
+﻿cohort,method,tp_sum,hit_sum,gold_sum,micro_precision,nnr
+12papers,Elicit Keyword,52,2233,193,0.023287,42.942308
+12papers,Elicit Question all,135,12000,193,0.01125,88.888889
+12papers,Elicit Question include,132,5474,193,0.024114,41.469697
+12papers,Codex cut0,196,28169,240,0.006958,143.719388
+12papers,Codex cut30,196,20418,240,0.009599,104.173469
+12papers,Codex cut50,192,15226,240,0.01261,79.302083
+12papers,Claude cut0,192,27251,240,0.007046,141.932292
+12papers,Claude cut30,184,19449,240,0.009461,105.701087
+12papers,Claude cut50,177,14233,240,0.012436,80.412429
+27papers,Elicit Keyword,,,,,
+27papers,Elicit Question all,,,,,
+27papers,Elicit Question include,,,,,
+27papers,Codex cut0,442,73806,575,0.005989,166.9819
+27papers,Codex cut30,434,52881,575,0.008207,121.845622
+27papers,Codex cut50,420,38875,575,0.010804,92.559524
+27papers,Claude cut0,440,76687,575,0.005738,174.288636
+27papers,Claude cut30,419,54708,575,0.007659,130.568019
+27papers,Claude cut50,404,40031,575,0.010092,99.086634

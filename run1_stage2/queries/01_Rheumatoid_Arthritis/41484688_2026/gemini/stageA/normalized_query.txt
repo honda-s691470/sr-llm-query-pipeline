@@ -1,0 +1,1 @@
+("rheumatoid arthritis"[tiab]) AND ("Referral and Consultation"[Mesh] OR "Triage"[Mesh] OR referral*[tiab] OR triage[tiab] OR "early arthritis"[tiab] OR "inflammatory arthritis"[tiab] OR "early diagnosis"[tiab] OR criteria[tiab] OR "guideline* pathway*"[tiab:~3]) NOT "Review"[pt]

@@ -1,0 +1,67 @@
+﻿method,paper_id,value
+Elicit Keyword (K=Codex cap),40815363_2025,39.0
+Elicit Keyword (K=Codex cap),41224700_2025,5.0
+Elicit Keyword (K=Codex cap),41470797_2025,3.5
+Elicit Keyword (K=Codex cap),41484688_2026,67.5
+Elicit Keyword (K=Codex cap),41505363_2026,16.0
+Elicit Keyword (K=Codex cap),41630847_2026,76.75
+Elicit Keyword (K=Codex cap),41774244_2026,15.5
+Elicit Keyword (K=Codex cap),41781907_2026,14.923076923076923
+Elicit Keyword (K=Codex cap),41792786_2026,21.529411764705884
+Elicit Keyword (K=Codex cap),41794963_2026,6.857142857142857
+Elicit Question (K=Codex cap),40815363_2025,100.0
+Elicit Question (K=Codex cap),41108024_2025,142.85714285714286
+Elicit Question (K=Codex cap),41224700_2025,27.545454545454547
+Elicit Question (K=Codex cap),41470797_2025,76.92307692307692
+Elicit Question (K=Codex cap),41484688_2026,68.46153846153847
+Elicit Question (K=Codex cap),41505363_2026,5.8
+Elicit Question (K=Codex cap),41630847_2026,333.3333333333333
+Elicit Question (K=Codex cap),41774244_2026,10.6
+Elicit Question (K=Codex cap),41781907_2026,32.25806451612903
+Elicit Question (K=Codex cap),41781990_2026,37.25
+Elicit Question (K=Codex cap),41794963_2026,4.8
+Codex unified,40815363_2025,250.0
+Codex unified,41108024_2025,71.42857142857143
+Codex unified,41224700_2025,30.301212048481936
+Codex unified,41470797_2025,83.33333333333333
+Codex unified,41484688_2026,89.00534032041922
+Codex unified,41505363_2026,4.833091678749397
+Codex unified,41630847_2026,166.66666666666666
+Codex unified,41774244_2026,10.599646678444053
+Codex unified,41781907_2026,52.63157894736842
+Codex unified,41781990_2026,37.25
+Codex unified,41792786_2026,24.6
+Codex unified,41794963_2026,3.6923076923076925
+Elicit Keyword (K=Claude cap),40815363_2025,39.0
+Elicit Keyword (K=Claude cap),41224700_2025,5.0
+Elicit Keyword (K=Claude cap),41470797_2025,3.5
+Elicit Keyword (K=Claude cap),41484688_2026,67.5
+Elicit Keyword (K=Claude cap),41505363_2026,16.0
+Elicit Keyword (K=Claude cap),41630847_2026,76.75
+Elicit Keyword (K=Claude cap),41774244_2026,15.5
+Elicit Keyword (K=Claude cap),41781907_2026,14.923076923076923
+Elicit Keyword (K=Claude cap),41792786_2026,21.529411764705884
+Elicit Keyword (K=Claude cap),41794963_2026,32.857142857142854
+Elicit Question (K=Claude cap),40815363_2025,100.0
+Elicit Question (K=Claude cap),41108024_2025,142.85714285714286
+Elicit Question (K=Claude cap),41224700_2025,90.9090909090909
+Elicit Question (K=Claude cap),41470797_2025,76.92307692307692
+Elicit Question (K=Claude cap),41484688_2026,76.92307692307692
+Elicit Question (K=Claude cap),41505363_2026,7.75
+Elicit Question (K=Claude cap),41630847_2026,333.3333333333333
+Elicit Question (K=Claude cap),41774244_2026,10.727272727272727
+Elicit Question (K=Claude cap),41781907_2026,32.25806451612903
+Elicit Question (K=Claude cap),41781990_2026,58.0
+Elicit Question (K=Claude cap),41794963_2026,40.23076923076923
+Claude unified,40815363_2025,200.0
+Claude unified,41108024_2025,66.66666666666667
+Claude unified,41224700_2025,90.9090909090909
+Claude unified,41470797_2025,71.42857142857143
+Claude unified,41484688_2026,142.85714285714286
+Claude unified,41505363_2026,7.749612519374033
+Claude unified,41630847_2026,166.66666666666666
+Claude unified,41774244_2026,7.866404453184894
+Claude unified,41781907_2026,58.8235294117647
+Claude unified,41781990_2026,51.55555555555556
+Claude unified,41792786_2026,55.55555555555556
+Claude unified,41794963_2026,32.6875

@@ -1,0 +1,213 @@
+"""Figure 3 v4 (revision 2): Stage 1 — both panels as mean±95%CI bar with individual SR dots.
+
+Copy of public_release/07_paper_figures/scripts/figure3_v3_mean_ci_bar.py (2026-11-11). Change: the recall
+p values versus the human query are computed from the input CSVs (two-sided paired sign-flip test, exact
+enumeration of all 2^24 sign assignments) instead of fixed labels; labels use three decimals.
+
+Panel A  : Recall — mean ± 95% CI bar (linear scale, 0–1) + individual SR dots
+Panel B  : NNR    — mean ± 95% CI bar (log scale)          + individual SR dots
+
+Usage: python figure3_v4_mean_ci_bar.py <repo root containing 07_paper_figures/data/test24_eval>
+Output: ../figures/figure3_v4_mean_ci_bar.png, ../figures/figure3_v4_pvalues.csv
+"""
+
+from __future__ import annotations
+
+import sys
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+from pathlib import Path
+
+_SCRIPT_DIR = Path(__file__).resolve().parent
+DATA_DIR = Path(sys.argv[1]) / "07_paper_figures" / "data" / "test24_eval"
+OUT_DIR  = _SCRIPT_DIR.parent / "figures"
+OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+# ── Load data ─────────────────────────────────────────────────────────────────
+df_all = pd.read_csv(DATA_DIR / "all_test_metrics.csv")
+df_wo  = pd.read_csv(DATA_DIR / "test24_without_laws_all_providers.csv")
+
+TEST24 = set(df_wo[df_wo["provider"] == "claude"]["paper_folder"].unique())
+
+def get_series(provider, condition, source_df):
+    sub = source_df[
+        (source_df["provider"] == provider) &
+        (source_df["condition"] == condition) &
+        (source_df["paper_folder"].isin(TEST24))
+    ].copy()
+    sub = sub.drop_duplicates(subset="paper_folder", keep="last")
+    sub["nnr"] = sub.apply(
+        lambda r: r["total_hits"] / r["hit_gold_count"]
+        if r["hit_gold_count"] > 0 else np.nan, axis=1)
+    return sub[["paper_folder", "recall", "nnr"]].set_index("paper_folder")
+
+human = get_series("human",  "human_reference",    df_all)
+cl_wo = get_series("claude", "without_laws",        df_wo)
+co_wo = get_series("codex",  "without_laws",        df_wo)
+ge_wo = get_series("gemini", "without_laws",        df_wo)
+cl_wi = get_series("claude", "with_laws_test_eval", df_all)
+co_wi = get_series("codex",  "with_laws_test_eval", df_all)
+ge_wi = get_series("gemini", "with_laws_test_eval", df_all)
+
+GROUPS = [
+    ("Human",          human,  "#5B7FA6"),
+    ("Claude\nw/o RB", cl_wo,  "#A8C5DA"),
+    ("Claude\nw/ RB",  cl_wi,  "#2E6FA3"),
+    ("Codex\nw/o RB",  co_wo,  "#F2C18D"),
+    ("Codex\nw/ RB",   co_wi,  "#D97B2B"),
+    ("Gemini\nw/o RB", ge_wo,  "#A8D5A2"),
+    ("Gemini\nw/ RB",  ge_wi,  "#3A9E52"),
+]
+
+def exact_signflip_p(model: pd.DataFrame, ref: pd.DataFrame) -> float:
+    """Two-sided paired sign-flip test of mean recall difference, exact over all 2^n sign assignments."""
+    x = pd.concat([model["recall"], ref["recall"]], axis=1, keys=["m", "h"]).dropna()
+    d = (x["m"] - x["h"]).to_numpy()
+    assert len(d) == 24
+    bits = ((np.arange(1 << 12)[:, None] >> np.arange(12)) & 1) * 2 - 1
+    s = ((bits @ d[:12])[:, None] + (bits @ d[12:])[None, :]).ravel()
+    return float((np.abs(s) >= abs(d.sum()) - 1e-12).mean())
+
+
+def p_label(p: float) -> str:
+    mark = "**" if p < 0.01 else "*" if p < 0.05 else "†" if p < 0.10 else ""
+    text = "p<.001" if p < 0.001 else f"p={p:.3f}".replace("0.", ".", 1)
+    return f"{mark} {text}".strip()
+
+
+P_ROWS = []
+for label, (name, grp) in {"Claude": ("claude", cl_wi), "Codex": ("codex", co_wi), "Gemini": ("gemini", ge_wi)}.items():
+    P_ROWS.append(dict(model=name, condition="with_laws_test_eval", p_exact=exact_signflip_p(grp, human)))
+for name, grp in [("claude", cl_wo), ("codex", co_wo), ("gemini", ge_wo)]:
+    P_ROWS.append(dict(model=name, condition="without_laws", p_exact=exact_signflip_p(grp, human)))
+P_EXACT = {(r["model"], r["condition"]): r["p_exact"] for r in P_ROWS}
+pd.DataFrame(P_ROWS).to_csv(OUT_DIR / "figure3_v4_pvalues.csv", index=False, lineterminator="\n")
+
+RNG    = np.random.default_rng(42)
+N_BOOT = 10_000
+JIT    = 0.12
+
+def bootstrap_ci(vals: np.ndarray, n_boot: int = N_BOOT) -> tuple[float, float, float]:
+    v = vals[np.isfinite(vals)]
+    if len(v) == 0:
+        return np.nan, np.nan, np.nan
+    boots = RNG.choice(v, size=(n_boot, len(v)), replace=True).mean(axis=1)
+    return v.mean(), np.percentile(boots, 2.5), np.percentile(boots, 97.5)
+
+# ── Style ──────────────────────────────────────────────────────────────────────
+plt.rcParams.update({
+    "font.family": "Arial",
+    "font.size":   10,
+    "axes.labelsize": 11,
+    "axes.spines.top": False,
+    "axes.spines.right": False,
+})
+
+fig, (ax_r, ax_n) = plt.subplots(1, 2, figsize=(15, 6))
+fig.subplots_adjust(left=0.06, right=0.98, top=0.93, bottom=0.24, wspace=0.28)
+
+X    = np.arange(len(GROUPS))
+BAR  = 0.55
+colors = [c for _, _, c in GROUPS]
+labels = [lb for lb, _, _ in GROUPS]
+
+# Precompute bootstrap CI for both metrics
+recall_vals = [grp["recall"].dropna().values for _, grp, _ in GROUPS]
+nnr_vals    = [grp["nnr"].replace([np.inf, -np.inf], np.nan).dropna().values
+               for _, grp, _ in GROUPS]
+
+recall_stats = [bootstrap_ci(v) for v in recall_vals]
+nnr_stats    = [bootstrap_ci(v) for v in nnr_vals]
+
+r_mean = np.array([s[0] for s in recall_stats])
+r_lo   = np.array([s[1] for s in recall_stats])
+r_hi   = np.array([s[2] for s in recall_stats])
+
+n_mean = np.array([s[0] for s in nnr_stats])
+n_lo   = np.array([s[1] for s in nnr_stats])
+n_hi   = np.array([s[2] for s in nnr_stats])
+
+# ── Panel A: Recall mean±CI bar (linear) ──────────────────────────────────────
+ax_r.bar(X, r_mean, width=BAR, color=colors, alpha=0.75,
+         edgecolor="white", linewidth=0.8, zorder=3)
+ax_r.errorbar(X, r_mean,
+              yerr=[r_mean - r_lo, r_hi - r_mean],
+              fmt="none", color="#222222", capsize=5, capthick=1.4,
+              linewidth=1.4, zorder=4)
+
+for xi, (vals, color) in enumerate(zip(recall_vals, colors)):
+    jitter = RNG.uniform(-JIT, JIT, size=len(vals))
+    ax_r.scatter(xi + jitter, vals, s=30, color=color,
+                 edgecolors="black", linewidths=0.8, zorder=5, alpha=0.9)
+
+ax_r.axhline(r_mean[0], color=colors[0], linestyle="--", linewidth=1.2, alpha=0.6)
+
+# Significance brackets: Human (x=0) vs each LLM w/ RB
+# Brackets float well above data; short tick stubs (detached from CI lines)
+SIG_BRACKET_PAIRS = [
+    (2, p_label(P_EXACT[("claude", "with_laws_test_eval")])),   # Claude w/ RB
+    (4, p_label(P_EXACT[("codex", "with_laws_test_eval")])),    # Codex w/ RB
+    (6, p_label(P_EXACT[("gemini", "with_laws_test_eval")])),   # Gemini w/ RB
+]
+base_y    = 1.04   # above all recall dots (max=1.0)
+step      = 0.055
+stub_len  = 0.012  # short downward tick — does not reach CI lines
+for i, (xi, plabel) in enumerate(SIG_BRACKET_PAIRS):
+    y = base_y + i * step
+    ax_r.plot([0, 0, xi, xi], [y - stub_len, y, y, y - stub_len],
+              color="#333333", linewidth=1.0, clip_on=False, zorder=6)
+    ax_r.text(xi / 2, y + 0.005, plabel, ha="center", va="bottom",
+              fontsize=8.5, fontweight="bold", color="#333333")
+
+ax_r.set_xticks(X); ax_r.set_xticklabels(labels, fontsize=9.5)
+ax_r.set_ylabel("Recall"); ax_r.set_ylim(0, 1.25)
+ax_r.set_title("A  Stage 1 Recall", loc="left", fontweight="bold", fontsize=12)
+ax_r.yaxis.grid(True, linestyle="--", alpha=0.35, zorder=0)
+
+# ── Panel B: NNR mean±CI bar (log scale) ──────────────────────────────────────
+ax_n.bar(X, n_mean, width=BAR, color=colors, alpha=0.75,
+         edgecolor="white", linewidth=0.8, zorder=3)
+ax_n.errorbar(X, n_mean,
+              yerr=[n_mean - n_lo, n_hi - n_mean],
+              fmt="none", color="#222222", capsize=5, capthick=1.4,
+              linewidth=1.4, zorder=4)
+
+for xi, (vals, color) in enumerate(zip(nnr_vals, colors)):
+    jitter = RNG.uniform(-JIT, JIT, size=len(vals))
+    ax_n.scatter(xi + jitter, vals, s=30, color=color,
+                 edgecolors="black", linewidths=0.8, zorder=5, alpha=0.9)
+
+ax_n.axhline(n_mean[0], color=colors[0], linestyle="--", linewidth=1.2, alpha=0.6)
+
+ax_n.set_yscale("log")
+ax_n.set_xticks(X); ax_n.set_xticklabels(labels, fontsize=9.5)
+ax_n.set_ylabel("NNR — Mean ± 95% CI (log scale)")
+ax_n.set_title("B  Stage 1 NNR", loc="left", fontweight="bold", fontsize=12)
+ax_n.yaxis.grid(True, linestyle="--", alpha=0.35, zorder=0)
+
+# ── Legend ────────────────────────────────────────────────────────────────────
+legend_items = [
+    mpatches.Patch(color="#5B7FA6", label="Human query"),
+    mpatches.Patch(color="#A8C5DA", label="Claude  w/o Rulebook"),
+    mpatches.Patch(color="#2E6FA3", label="Claude  w/ Rulebook"),
+    mpatches.Patch(color="#F2C18D", label="Codex  w/o Rulebook"),
+    mpatches.Patch(color="#D97B2B", label="Codex  w/ Rulebook"),
+    mpatches.Patch(color="#A8D5A2", label="Gemini  w/o Rulebook"),
+    mpatches.Patch(color="#3A9E52", label="Gemini  w/ Rulebook"),
+]
+fig.legend(handles=legend_items, loc="lower center", ncol=4,
+           bbox_to_anchor=(0.5, 0.01), frameon=False, fontsize=10,
+           handlelength=1.4, handletextpad=0.5, columnspacing=1.4)
+
+out = OUT_DIR / "figure3_v4_mean_ci_bar.png"
+fig.savefig(out, dpi=300, bbox_inches="tight")
+print(f"Saved: {out}")
+
+print("\nRecall mean / 95% CI per group:")
+for (label, _, _), m, lo, hi in zip(GROUPS, r_mean, r_lo, r_hi):
+    print(f"  {label.replace(chr(10), ' '):<22} mean={m:.3f}  [{lo:.3f}-{hi:.3f}]")
+print("\nNNR mean / 95% CI per group:")
+for (label, _, _), m, lo, hi in zip(GROUPS, n_mean, n_lo, n_hi):
+    print(f"  {label.replace(chr(10), ' '):<22} mean={m:8.1f}  [{lo:8.1f}-{hi:8.1f}]")

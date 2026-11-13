@@ -1,0 +1,17 @@
+{
+  "saved_at_utc": "2026-05-07T08:50:23.750537+00:00",
+  "dataset_split": "test27",
+  "domain": "02_Cardiovascular_Disease",
+  "paper_id": "41720985_2026",
+  "provider": "gemini",
+  "stage": "A",
+  "condition": "with_laws_stageA",
+  "source_condition": "with_laws_stageA_prime",
+  "query_type": "pubmed_boolean",
+  "query_length": 636,
+  "query_sha256": "dd1b27d404ff8c69711e5bc21fb22c40714d34ff155f013494ddd19bfad6a7e3",
+  "query_path": "05_test_data\\02_Cardiovascular_Disease\\41720985_2026\\model_outputs\\gemini\\with_laws_stageA\\normalized_query.txt",
+  "extra": {
+    "stage_a_total_hits": 254
+  }
+}

@@ -1,0 +1,8 @@
+# Versions used for the revised (harmonized) Stage C analysis and its reproduction check
+python==3.14.2
+numpy==2.4.2
+pandas==3.0.0
+scipy==1.18.1
+torch==2.11.0+cu128      # Step 1 only (GPU)
+transformers==5.12.0     # Step 1 only
+huggingface_hub==1.7.2   # Step 1 only

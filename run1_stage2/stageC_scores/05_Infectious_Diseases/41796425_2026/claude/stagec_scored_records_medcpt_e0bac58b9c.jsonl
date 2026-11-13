@@ -1,0 +1,971 @@
+{"pmid": "41796425", "dense_sim_medcpt": 0.8745, "bm25_score": 1.0, "title": "Unveiling the genitourinary phenotype of long COVID: a systematic review and meta-analysis."}
+{"pmid": "41552054", "dense_sim_medcpt": 0.8637, "bm25_score": 0.6453, "title": "COVID-19-Associated Cystitis: De Novo Urinary Urgency Following SARS-CoV-2."}
+{"pmid": "38828830", "dense_sim_medcpt": 0.8614, "bm25_score": 0.6399, "title": "Prospective follow-up of overactive bladder symptoms in patients with prior SARS-CoV-2 infection."}
+{"pmid": "39391784", "dense_sim_medcpt": 0.8536, "bm25_score": 0.6511, "title": "Endometriosis Patients Have an Increased Risk of Experiencing Long-Covid Symptoms: Results from a Cross-Sectional Multicenter Study."}
+{"pmid": "38822168", "dense_sim_medcpt": 0.8533, "bm25_score": 0.6498, "title": "Comparing risk of post infection erectile dysfunction following SARS Coronavirus 2 stratified by acute and long COVID, hospitalization status, and vasopressor administration: a U.S. large claims database analysis."}
+{"pmid": "39934662", "dense_sim_medcpt": 0.8663, "bm25_score": 0.6267, "title": "Investigation of renal function in patients with long COVID in the Amazon region: a cross-sectional study."}
+{"pmid": "37274795", "dense_sim_medcpt": 0.8548, "bm25_score": 0.5718, "title": "Gastrointestinal manifestations of long-term effects after COVID-19 infection in patients with dialysis or kidney transplantation: An observational cohort study."}
+{"pmid": "35198136", "dense_sim_medcpt": 0.8654, "bm25_score": 0.5534, "title": "Neurological manifestations of long-COVID syndrome: a narrative review."}
+{"pmid": "39438144", "dense_sim_medcpt": 0.8676, "bm25_score": 0.5436, "title": "Long COVID or Post-Acute Sequelae of COVID-19 (PASC) in Children and Adolescents."}
+{"pmid": "37410305", "dense_sim_medcpt": 0.8613, "bm25_score": 0.5492, "title": "COVID-associated cystitis: the culprit behind the bladder woes post-COVID infection? A review."}
+{"pmid": "36769888", "dense_sim_medcpt": 0.8631, "bm25_score": 0.5385, "title": "Does Post-COVID-19 Erectile Dysfunction Improve over Time?"}
+{"pmid": "37249281", "dense_sim_medcpt": 0.8658, "bm25_score": 0.5219, "title": "HIV and inflammatory markers are associated with persistent COVID-19 symptoms."}
+{"pmid": "38155884", "dense_sim_medcpt": 0.8684, "bm25_score": 0.4968, "title": "The impact of COVID-19 on pulmonary, neurological, and cardiac outcomes: evidence from a Mendelian randomization study."}
+{"pmid": "35600705", "dense_sim_medcpt": 0.8582, "bm25_score": 0.5024, "title": "Post-discharge follow-up of patients with COVID-19: A Brazilian experience."}
+{"pmid": "34773422", "dense_sim_medcpt": 0.8521, "bm25_score": 0.5103, "title": "Predictive factors of erectile dysfunction in Egyptian individuals after contracting COVID-19: A prospective case-control study."}
+{"pmid": "36775262", "dense_sim_medcpt": 0.8559, "bm25_score": 0.5042, "title": "Oral lesions with immunohistochemical evidence of Sars-CoV-2 in swab-negative post-COVID syndrome."}
+{"pmid": "38663423", "dense_sim_medcpt": 0.8648, "bm25_score": 0.4885, "title": "The persistence of SARS-CoV-2 in tissues and its association with long COVID symptoms: a cross-sectional cohort study in China."}
+{"pmid": "35247132", "dense_sim_medcpt": 0.8533, "bm25_score": 0.4958, "title": "Reactive arthritis before and after the onset of the COVID-19 pandemic."}
+{"pmid": "37406989", "dense_sim_medcpt": 0.8546, "bm25_score": 0.4915, "title": "Long COVID sexual dysfunction among both genders: Evaluation of a cohort of COVID-19 recoverees."}
+{"pmid": "17868423", "dense_sim_medcpt": 0.8216, "bm25_score": 0.5371, "title": "Total or partial prostate sparing cystectomy for invasive bladder cancer: long-term implications on erectile function."}
+{"pmid": "37064319", "dense_sim_medcpt": 0.8645, "bm25_score": 0.4706, "title": "Post-COVID-19-associated multiorgan complications or \"long COVID\" with literature review and management strategy discussion: A meta-analysis."}
+{"pmid": "38958890", "dense_sim_medcpt": 0.8541, "bm25_score": 0.4784, "title": "The Interplay of HIV and Long COVID in Sub-Saharan Africa: Mechanisms of Endothelial Dysfunction."}
+{"pmid": "37626956", "dense_sim_medcpt": 0.8408, "bm25_score": 0.4911, "title": "Kidney Damage in Long COVID: Studies in Experimental Mice."}
+{"pmid": "39536242", "dense_sim_medcpt": 0.8732, "bm25_score": 0.4395, "title": "Prolonged urinary retention in COVID-19 survivors: observational study."}
+{"pmid": "40977575", "dense_sim_medcpt": 0.8532, "bm25_score": 0.4686, "title": "Microneurography Reveals Unmyelinated Small Nerve Fiber Dysfunction in Long COVID."}
+{"pmid": "40375203", "dense_sim_medcpt": 0.8657, "bm25_score": 0.448, "title": "Long COVID and endometriosis: a systematic review and meta-analysis."}
+{"pmid": "35881153", "dense_sim_medcpt": 0.8802, "bm25_score": 0.4247, "title": "What might COVID-19 patients experience after recovery? A comprehensive review."}
+{"pmid": "40908304", "dense_sim_medcpt": 0.8679, "bm25_score": 0.4406, "title": "Long COVID and the kidney."}
+{"pmid": "34787782", "dense_sim_medcpt": 0.8623, "bm25_score": 0.4479, "title": "Long COVID and COVID-19-associated cystitis (CAC)."}
+{"pmid": "37415973", "dense_sim_medcpt": 0.8701, "bm25_score": 0.4362, "title": "The genetic associations of COVID-19 on genitourinary symptoms."}
+{"pmid": "39979349", "dense_sim_medcpt": 0.853, "bm25_score": 0.4588, "title": "Prevalence of erectile dysfunction as long-COVID symptom in hospitalized Japanese patients."}
+{"pmid": "36071155", "dense_sim_medcpt": 0.8501, "bm25_score": 0.4604, "title": "Long Covid: where we stand and challenges ahead."}
+{"pmid": "34440170", "dense_sim_medcpt": 0.8649, "bm25_score": 0.4313, "title": "Long COVID-19 Syndrome: A Comprehensive Review of Its Effect on Various Organ Systems and Recommendation on Rehabilitation Plans."}
+{"pmid": "38884994", "dense_sim_medcpt": 0.8747, "bm25_score": 0.4125, "title": "Epidemiologic Features of Recovery From SARS-CoV-2 Infection."}
+{"pmid": "38790912", "dense_sim_medcpt": 0.8676, "bm25_score": 0.4228, "title": "Kidney Function Tests and Continuous eGFR Decrease at Six Months after SARS-CoV-2 Infection in Patients Clinically Diagnosed with Post-COVID Syndrome."}
+{"pmid": "34768725", "dense_sim_medcpt": 0.8508, "bm25_score": 0.4471, "title": "Post-COVID-19 Sydrome and Decrease in Health-Related Quality of Life in Kidney Transplant Recipients after SARS-COV-2 Infection-A Cohort Longitudinal Study from the North of Poland."}
+{"pmid": "40634157", "dense_sim_medcpt": 0.8621, "bm25_score": 0.4256, "title": "Long-Term Decline in Renal Allograft Function After Severe COVID-19 in Kidney Transplant Recipients: Evidence From a Four-Year Retrospective Cohort Study."}
+{"pmid": "36320554", "dense_sim_medcpt": 0.8481, "bm25_score": 0.4462, "title": "Evaluation of Overactive Bladder Symptoms in Patients Recovering from Post-Acute COVID-19 Syndrome."}
+{"pmid": "38075566", "dense_sim_medcpt": 0.8628, "bm25_score": 0.4222, "title": "Prolonged impacts of COVID-19-associated cystitis: A study on long-term consequences."}
+{"pmid": "41573062", "dense_sim_medcpt": 0.8583, "bm25_score": 0.4281, "title": "Aggravation of lower urinary tract symptoms in patients with benign prostatic hyperplasia after COVID-19."}
+{"pmid": "34319569", "dense_sim_medcpt": 0.8646, "bm25_score": 0.417, "title": "Long COVID, a comprehensive systematic scoping review."}
+{"pmid": "33976921", "dense_sim_medcpt": 0.8587, "bm25_score": 0.4224, "title": "The SCQ-SCORE: initial validation of a new scoring system for elective stone surgery prioritization in the COVID-19 era."}
+{"pmid": "36553888", "dense_sim_medcpt": 0.8796, "bm25_score": 0.3904, "title": "A Systematic Review and Quality Evaluation of Studies on Long-Term Sequelae of COVID-19."}
+{"pmid": "38270210", "dense_sim_medcpt": 0.8522, "bm25_score": 0.4295, "title": "Clinical characteristics of female long COVID patients with menstrual symptoms: a retrospective study from a Japanese outpatient clinic."}
+{"pmid": "39524912", "dense_sim_medcpt": 0.8654, "bm25_score": 0.4086, "title": "Overlapping conditions in Long COVID at a multisite academic center."}
+{"pmid": "41717886", "dense_sim_medcpt": 0.8587, "bm25_score": 0.4179, "title": "Impact of nirmatrelvir/ritonavir on the risk of long COVID in outpatients: a systematic review and meta-analysis."}
+{"pmid": "41828637", "dense_sim_medcpt": 0.8481, "bm25_score": 0.4333, "title": "Tubular Damage Biomarkers Are a Useful Tool for Identifying Early Renal Injury in Long COVID."}
+{"pmid": "38002711", "dense_sim_medcpt": 0.8339, "bm25_score": 0.4498, "title": "Effects of COVID-19 Infection on Spermatogenesis, Oxidative Stress and Erectile Function."}
+{"pmid": "34078004", "dense_sim_medcpt": 0.8685, "bm25_score": 0.3942, "title": "Long-coronavirus disease among people living with HIV in western India: An observational study."}
+{"pmid": "39607228", "dense_sim_medcpt": 0.8612, "bm25_score": 0.4038, "title": "Prevalence of urinary incontinence and associated factors in patients with post-COVID-19 syndrome after hospital discharge."}
+{"pmid": "39966921", "dense_sim_medcpt": 0.8332, "bm25_score": 0.4434, "title": "Alterations in menstrual characteristics and associated factors in Chinese women post SARS-CoV-2 infection: a cross-sectional study."}
+{"pmid": "38622927", "dense_sim_medcpt": 0.8376, "bm25_score": 0.4356, "title": "Examining the long-term effects of COVID-19 in surgical nurses: Case of Aegean Region."}
+{"pmid": "40762988", "dense_sim_medcpt": 0.8491, "bm25_score": 0.4176, "title": "Symptoms of long COVID in children and adolescents: a scoping review."}
+{"pmid": "37401682", "dense_sim_medcpt": 0.8565, "bm25_score": 0.4059, "title": "[Impact of the SARS-CV-2 virus on the urinary bladder]."}
+{"pmid": "35647857", "dense_sim_medcpt": 0.8509, "bm25_score": 0.4135, "title": "Does COVID-19 cause testicular damage? A cross-sectional study comparing hormonal parameters."}
+{"pmid": "38822405", "dense_sim_medcpt": 0.8558, "bm25_score": 0.4054, "title": "Development and validation of a prognostic model for assessing long COVID risk following Omicron wave-a large population-based cohort study."}
+{"pmid": "40473290", "dense_sim_medcpt": 0.8519, "bm25_score": 0.4105, "title": "Cohort profile: characterisation, determinants, mechanisms and consequences of the long-term effects of COVID-19 - providing the evidence base for health care services (CONVALESCENCE) in the UK."}
+{"pmid": "39696010", "dense_sim_medcpt": 0.8496, "bm25_score": 0.4128, "title": "Association between Hepatitis B virus infection and COVID-19: outcomes from clinical analysis and online survey from Beijing, China."}
+{"pmid": "37811042", "dense_sim_medcpt": 0.8579, "bm25_score": 0.3984, "title": "Long COVID syndrome: psychological and sexual dysfunction among survivors of COVID-19 infection."}
+{"pmid": "39890144", "dense_sim_medcpt": 0.8463, "bm25_score": 0.4155, "title": "Determining the incidence, risk factors and biological drivers of irritable bowel syndrome (IBS) as part of the constellation of postacute sequelae of SARS-CoV-2 infection (PASC) outcomes in the Arizona CoVHORT-GI: a longitudinal cohort study."}
+{"pmid": "39199353", "dense_sim_medcpt": 0.8498, "bm25_score": 0.4085, "title": "The Significance of Endothelial Dysfunction in Long COVID-19 for the Possible Future Pandemic of Chronic Kidney Disease and Cardiovascular Disease."}
+{"pmid": "38284464", "dense_sim_medcpt": 0.8652, "bm25_score": 0.3851, "title": "The effect of long-term COVID-19 on aetiological factors related to nocturia."}
+{"pmid": "40491049", "dense_sim_medcpt": 0.8594, "bm25_score": 0.3891, "title": "Longitudinal kidney outcomes in surviving COVID-19 patients in Africa: a prospective Congolese single-center cohort study."}
+{"pmid": "40760815", "dense_sim_medcpt": 0.8482, "bm25_score": 0.4054, "title": "Pauci-immune glomerulonephritis: Post-COVID kidney disease continues to reappear, a case report."}
+{"pmid": "35752482", "dense_sim_medcpt": 0.8577, "bm25_score": 0.3896, "title": "The Provision of Dental Care to COVID-19 Survivors: A Concise Review."}
+{"pmid": "36454631", "dense_sim_medcpt": 0.871, "bm25_score": 0.3692, "title": "Chronic viral coinfections differentially affect the likelihood of developing long COVID."}
+{"pmid": "37830367", "dense_sim_medcpt": 0.8321, "bm25_score": 0.4266, "title": "Association of SARS-CoV-2 Infection and Cardiopulmonary Long COVID With Exercise Capacity and Chronotropic Incompetence Among People With HIV."}
+{"pmid": "39089714", "dense_sim_medcpt": 0.8494, "bm25_score": 0.4002, "title": "Systematic review and meta-analysis of postpartum depression and its associated factors among women before and after the COVID-19 pandemic in Uganda."}
+{"pmid": "36231717", "dense_sim_medcpt": 0.8619, "bm25_score": 0.381, "title": "Effect of COVID-19 Vaccines on Reducing the Risk of Long COVID in the Real World: A Systematic Review and Meta-Analysis."}
+{"pmid": "41037811", "dense_sim_medcpt": 0.8504, "bm25_score": 0.3979, "title": "Long COVID After Acquisition of the Omicron Variant of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) During Pregnancy Compared With Outside of Pregnancy."}
+{"pmid": "41596479", "dense_sim_medcpt": 0.8509, "bm25_score": 0.395, "title": "Possible Involvement of Hypothalamic Dysfunction in Long COVID Patients Characterized by Delayed Response to Gonadotropin-Releasing Hormone."}
+{"pmid": "36927426", "dense_sim_medcpt": 0.8595, "bm25_score": 0.3776, "title": "The Association between COVID-19 and Reactive Arthritis: A Systematic Review of Case Reports and Case Series."}
+{"pmid": "40345680", "dense_sim_medcpt": 0.8426, "bm25_score": 0.4019, "title": "Tubulointerstitial nephritis and uveitis post COVID-19 infection in an adult."}
+{"pmid": "41188149", "dense_sim_medcpt": 0.8626, "bm25_score": 0.3717, "title": "Targeted Prostate Health Checks, a Novel Screening System to Identify Men at Risk of Prostate Cancer: Real-world Evidence from More than 18 000 Prostate-specific Antigen Tests."}
+{"pmid": "41085189", "dense_sim_medcpt": 0.8573, "bm25_score": 0.3792, "title": "Elevated Risk of Long-Term Decline in Left Ventricular Ejection Fraction After COVID-19."}
+{"pmid": "40130884", "dense_sim_medcpt": 0.843, "bm25_score": 0.3999, "title": "Prediction and phenotyping of long COVID in kidney transplant recipients: A cross-sectional study."}
+{"pmid": "38225587", "dense_sim_medcpt": 0.8627, "bm25_score": 0.3695, "title": "Characterisation, symptom pattern and symptom clusters from a retrospective cohort of Long COVID patients in primary care in Catalonia."}
+{"pmid": "36505982", "dense_sim_medcpt": 0.873, "bm25_score": 0.3536, "title": "Evaluation of lower urinary tract symptoms among male COVID-19 patients during the second wave: An observational study."}
+{"pmid": "39762090", "dense_sim_medcpt": 0.8633, "bm25_score": 0.3666, "title": "Early prediction of long COVID-19 syndrome persistence at 12 months after hospitalisation: a prospective observational study from Ukraine."}
+{"pmid": "40540167", "dense_sim_medcpt": 0.8674, "bm25_score": 0.3601, "title": "Long-term renal consequences of COVID-19. Emerging evidence and unanswered questions."}
+{"pmid": "39252604", "dense_sim_medcpt": 0.8615, "bm25_score": 0.3679, "title": "Long COVID among people with HIV: A systematic review and meta-analysis."}
+{"pmid": "39081145", "dense_sim_medcpt": 0.8457, "bm25_score": 0.3909, "title": "Laboratory profiling of patients with long COVID in the Brazilian Amazon region: A cross-sectional study."}
+{"pmid": "35337143", "dense_sim_medcpt": 0.8458, "bm25_score": 0.3901, "title": "Efficacy of Adaptogens in Patients with Long COVID-19: A Randomized, Quadruple-Blind, Placebo-Controlled Trial."}
+{"pmid": "37787893", "dense_sim_medcpt": 0.8795, "bm25_score": 0.3363, "title": "Long-term renal outcomes of patients with COVID-19: a meta-analysis of observational studies."}
+{"pmid": "34678309", "dense_sim_medcpt": 0.8341, "bm25_score": 0.403, "title": "Whole Exome Sequencing Identifies a Rare Mutation in NACAD as a Possible Cause of COVID Orchitis in Brothers."}
+{"pmid": "40746934", "dense_sim_medcpt": 0.8774, "bm25_score": 0.3371, "title": "Renal Long COVID: A Scoping Review."}
+{"pmid": "36498091", "dense_sim_medcpt": 0.8535, "bm25_score": 0.373, "title": "Long COVID Classification: Findings from a Clustering Analysis in the Predi-COVID Cohort Study."}
+{"pmid": "40215290", "dense_sim_medcpt": 0.8405, "bm25_score": 0.3923, "title": "Arginine-vasopressin deficiency due to long COVID-associated infundibulo-neurohypophysitis."}
+{"pmid": "36426580", "dense_sim_medcpt": 0.8653, "bm25_score": 0.3543, "title": "Evidence for residual SARS-CoV-2 in corpus cavernosum of patients who recovered from COVID-19 infection."}
+{"pmid": "36228200", "dense_sim_medcpt": 0.8622, "bm25_score": 0.3588, "title": "High Prevalence of Long-COVID Among Kidney Transplant Recipients: A Longitudinal Cohort Study."}
+{"pmid": "36176639", "dense_sim_medcpt": 0.852, "bm25_score": 0.3739, "title": "Persistent or new symptoms 1 year after a single high dose of vitamin D3 in patients with moderate to severe COVID-19."}
+{"pmid": "37964338", "dense_sim_medcpt": 0.8597, "bm25_score": 0.362, "title": "Cough and sputum in long COVID are associated with severe acute COVID-19: a Japanese cohort study."}
+{"pmid": "36520039", "dense_sim_medcpt": 0.8736, "bm25_score": 0.3409, "title": "Long COVID."}
+{"pmid": "37013749", "dense_sim_medcpt": 0.8401, "bm25_score": 0.3911, "title": "Can anxiety and depression serve as primary factors associated with erectile dysfunction after coronavirus disease?"}
+{"pmid": "41741757", "dense_sim_medcpt": 0.856, "bm25_score": 0.3657, "title": "The risk of kidney disease increases following SARS-CoV-2 infection compared to influenza."}
+{"pmid": "38594493", "dense_sim_medcpt": 0.8325, "bm25_score": 0.3995, "title": "Impact of COVID-19 infections and vaccination on menstrual cycle symptoms in the south of Jordan: a cross-sectional study."}
+{"pmid": "40957873", "dense_sim_medcpt": 0.8566, "bm25_score": 0.3623, "title": "The potential bidirectional relationship between long COVID and menstruation."}
+{"pmid": "38236510", "dense_sim_medcpt": 0.865, "bm25_score": 0.3482, "title": "SARS-CoV-2 and its Multifaceted Impact on Bone Health: Mechanisms and Clinical Evidence."}
+{"pmid": "36438042", "dense_sim_medcpt": 0.8592, "bm25_score": 0.3567, "title": "Hospital admission and vaccination as predictive factors of long COVID-19 symptoms."}
+{"pmid": "39669584", "dense_sim_medcpt": 0.8625, "bm25_score": 0.3514, "title": "Long COVID symptoms 6 months after acute infection among people living with HIV and people not living with HIV."}
+{"pmid": "34414665", "dense_sim_medcpt": 0.856, "bm25_score": 0.3611, "title": "Follow-up of renal transplant recipients after acute COVID-19-A prospective cohort single-center study."}
+{"pmid": "39465803", "dense_sim_medcpt": 0.8569, "bm25_score": 0.3594, "title": "Is detrusor underactivity the urodynamic characteristic of long-COVID in patients with benign prostate hyperplasia?"}
+{"pmid": "36828919", "dense_sim_medcpt": 0.8707, "bm25_score": 0.3378, "title": "Long-term interplay between COVID-19 and chronic kidney disease."}
+{"pmid": "40431181", "dense_sim_medcpt": 0.8645, "bm25_score": 0.3463, "title": "Increased Measured GFR and Proteinuria in Children with Previous Infection by SARS-CoV-2: Should We Be Concerned?"}
+{"pmid": "37632118", "dense_sim_medcpt": 0.8365, "bm25_score": 0.3875, "title": "Associations of Serum Calprotectin, Arterial Stiffness and Long COVID Symptoms in Dalmatian Kidney Transplant Recipients."}
+{"pmid": "38992068", "dense_sim_medcpt": 0.8604, "bm25_score": 0.351, "title": "Identification of risk factors of Long COVID and predictive modeling in the RECOVER EHR cohorts."}
+{"pmid": "38506116", "dense_sim_medcpt": 0.8561, "bm25_score": 0.3563, "title": "Does COVID-19 cause or worsen LUT dysfunction, what are the mechanisms and possible treatments? ICI-RS 2023."}
+{"pmid": "34659998", "dense_sim_medcpt": 0.8581, "bm25_score": 0.3526, "title": "Study of Post-COVID-19 Syndrome in Saudi Arabia."}
+{"pmid": "32739381", "dense_sim_medcpt": 0.8478, "bm25_score": 0.3674, "title": "Testing for gestational diabetes during the COVID-19 pandemic. An evaluation of proposed protocols for the United Kingdom, Canada and Australia."}
+{"pmid": "41175359", "dense_sim_medcpt": 0.8602, "bm25_score": 0.3483, "title": "Post-COVID-19-Associated Asymptomatic Sarcoidosis with Hypercalcemia and Renal Dysfunction: A Case Report and Literature Review."}
+{"pmid": "40258532", "dense_sim_medcpt": 0.8643, "bm25_score": 0.3417, "title": "Impact of pre-existing comorbidities and multimorbidities, demography and viral variants on post-acute sequelae of COVID-19 ('Long COVID') in Dutch primary care: A retrospective cohort study."}
+{"pmid": "36736066", "dense_sim_medcpt": 0.8527, "bm25_score": 0.359, "title": "Comparative analysis of long-term self-reported COVID-19 symptoms among pregnant women."}
+{"pmid": "41089618", "dense_sim_medcpt": 0.8512, "bm25_score": 0.361, "title": "Impact of COVID-19 Pneumonia on Chest Computed Tomography Scan and Spirometry During Six Months."}
+{"pmid": "40135199", "dense_sim_medcpt": 0.8686, "bm25_score": 0.3346, "title": "A Cohort Study of the Long-Term Influences of SARS-CoV-2 on Kidney Allograft Outcomes in Chinese Recipients: 1-Year Follow-Up Experience."}
+{"pmid": "35498893", "dense_sim_medcpt": 0.8418, "bm25_score": 0.3738, "title": "Middle-term outcomes in renal transplant recipients with COVID-19: a national, multicenter, controlled study."}
+{"pmid": "32861429", "dense_sim_medcpt": 0.8287, "bm25_score": 0.3925, "title": "Parent-Adolescent Sex Communication with Sexual and Gender Minority Youth: An Integrated Review."}
+{"pmid": "41646734", "dense_sim_medcpt": 0.8596, "bm25_score": 0.3461, "title": "Cardiovascular, renal and pulmonary risks of Long COVID: a retrospective cohort study stratified by age and sex."}
+{"pmid": "40929538", "dense_sim_medcpt": 0.8441, "bm25_score": 0.3692, "title": "Coronavirus disease 2019 (Covid-19) during pregnancy: Pathomorphological changes in the terminal villi of the placenta."}
+{"pmid": "39133923", "dense_sim_medcpt": 0.8466, "bm25_score": 0.3636, "title": "Differentiation of Prior SARS-CoV-2 Infection and Postacute Sequelae by Standard Clinical Laboratory Measurements in the RECOVER Cohort."}
+{"pmid": "40762975", "dense_sim_medcpt": 0.8622, "bm25_score": 0.3401, "title": "The Association of Long COVID and CKD: Findings from the National Clinical Cohort Collaborative."}
+{"pmid": "36456834", "dense_sim_medcpt": 0.8562, "bm25_score": 0.3476, "title": "Data-driven identification of post-acute SARS-CoV-2 infection subphenotypes."}
+{"pmid": "38981586", "dense_sim_medcpt": 0.8407, "bm25_score": 0.3703, "title": "Impact of cultural diversity on COVID-19 vaccination hesitancy in kidney transplant recipients."}
+{"pmid": "32415472", "dense_sim_medcpt": 0.8522, "bm25_score": 0.3517, "title": "Short fractionation radiotherapy for early prostate cancer in the time of COVID-19: long-term excellent outcomes from a multicenter Italian trial suggest a larger adoption in clinical practice."}
+{"pmid": "37605232", "dense_sim_medcpt": 0.8664, "bm25_score": 0.33, "title": "Long-term health consequences among individuals with SARS-CoV-2 infection compared to individuals without infection: results of the population-based cohort study CoMoLo Follow-up."}
+{"pmid": "38826995", "dense_sim_medcpt": 0.8491, "bm25_score": 0.355, "title": "Multidisciplinary Management Strategies for Long COVID: A Narrative Review."}
+{"pmid": "33789877", "dense_sim_medcpt": 0.8759, "bm25_score": 0.3148, "title": "Post-covid syndrome in individuals admitted to hospital with covid-19: retrospective cohort study."}
+{"pmid": "38064402", "dense_sim_medcpt": 0.8603, "bm25_score": 0.3379, "title": "Possible association of urinary incontinence with post-COVID-19: a report of three cases."}
+{"pmid": "33919537", "dense_sim_medcpt": 0.8694, "bm25_score": 0.3244, "title": "Long-COVID and Post-COVID Health Complications: An Up-to-Date Review on Clinical Conditions and Their Possible Molecular Mechanisms."}
+{"pmid": "38896723", "dense_sim_medcpt": 0.8619, "bm25_score": 0.3356, "title": "Impact on pulmonary, cardiac, and renal function and long-term quality of life after hospitalization for acute respiratory distress syndrome due to COVID-19: Protocol of the Post-COVID Brazil 3 study."}
+{"pmid": "40073919", "dense_sim_medcpt": 0.8411, "bm25_score": 0.3663, "title": "Long COVID-19 in pregnancy: increased risk but modest incidence following mild Omicron infection in a boosted obstetric cohort during endemicity."}
+{"pmid": "39791609", "dense_sim_medcpt": 0.8379, "bm25_score": 0.3711, "title": "Relation Between COVID-19 Infection and Vaccine and Menstrual Cycle Changes of Portuguese Adolescents in Higher Education."}
+{"pmid": "37197226", "dense_sim_medcpt": 0.8524, "bm25_score": 0.349, "title": "Long-term post-acute sequelae of COVID-19 infection: a retrospective, multi-database cohort study in Hong Kong and the UK."}
+{"pmid": "37302406", "dense_sim_medcpt": 0.8487, "bm25_score": 0.3543, "title": "Outpatient treatment of COVID-19 and incidence of post-COVID-19 condition over 10 months (COVID-OUT): a multicentre, randomised, quadruple-blind, parallel-group, phase 3 trial."}
+{"pmid": "40276305", "dense_sim_medcpt": 0.8524, "bm25_score": 0.3485, "title": "Epidemiology, Symptoms and Pathophysiology of Long Covid Complications."}
+{"pmid": "40804645", "dense_sim_medcpt": 0.838, "bm25_score": 0.3698, "title": "MicroRNAs in long COVID: roles, diagnostic biomarker potential and detection."}
+{"pmid": "35925799", "dense_sim_medcpt": 0.8675, "bm25_score": 0.3253, "title": "Post-COVID-19 Symptoms and Conditions Among Children and Adolescents - United States, March 1, 2020-January 31, 2022."}
+{"pmid": "38573196", "dense_sim_medcpt": 0.8545, "bm25_score": 0.3443, "title": "Lingering effects of COVID-19 in the care of perioperative patients."}
+{"pmid": "34611512", "dense_sim_medcpt": 0.8578, "bm25_score": 0.3388, "title": "Honeybee products for the treatment and recovery from viral respiratory infections including SARS-COV-2: A rapid systematic review."}
+{"pmid": "35930187", "dense_sim_medcpt": 0.8816, "bm25_score": 0.3011, "title": "COVID-19 Outcomes and Risk Factors Among People Living with HIV."}
+{"pmid": "38428480", "dense_sim_medcpt": 0.8477, "bm25_score": 0.3514, "title": "Post COVID-19 condition imposes significant burden in patients with advanced chronic kidney disease: A nested case-control study."}
+{"pmid": "34319201", "dense_sim_medcpt": 0.8466, "bm25_score": 0.3532, "title": "Is there still a role for digital rectal examination in the prostate cancer diagnostic pathway in the COVID-19 and post COVID-19 era?"}
+{"pmid": "37045862", "dense_sim_medcpt": 0.8556, "bm25_score": 0.3394, "title": "Long COVID and risk of erectile dysfunction in recovered patients from mild to moderate COVID-19."}
+{"pmid": "37414856", "dense_sim_medcpt": 0.8701, "bm25_score": 0.3176, "title": "Physical and cognitive impact following SARS-CoV-2 infection in a large population-based case-control study."}
+{"pmid": "39497750", "dense_sim_medcpt": 0.8565, "bm25_score": 0.3376, "title": "The clinical course of SARS-CoV-2 infection in patients with glomerular diseases and evaluation of the subsequent risk of relapse."}
+{"pmid": "38372528", "dense_sim_medcpt": 0.8521, "bm25_score": 0.3434, "title": "COVID-19 and abnormal uterine bleeding: potential associations and mechanisms."}
+{"pmid": "35614233", "dense_sim_medcpt": 0.8603, "bm25_score": 0.3303, "title": "Long COVID after breakthrough SARS-CoV-2 infection."}
+{"pmid": "37373853", "dense_sim_medcpt": 0.8693, "bm25_score": 0.3153, "title": "Diagnostic Usefulness of Spiroergometry and Risk Factors of Long COVID in Patients with Normal Left Ventricular Ejection Fraction."}
+{"pmid": "38673514", "dense_sim_medcpt": 0.8594, "bm25_score": 0.3284, "title": "Organ-Dysfunction Markers in Mild-to-Moderate COVID-19 Convalescents."}
+{"pmid": "37422797", "dense_sim_medcpt": 0.8564, "bm25_score": 0.3324, "title": "Glutathione-related antioxidant defence, DNA damage, and DNA repair in patients suffering from post-COVID conditions."}
+{"pmid": "37378769", "dense_sim_medcpt": 0.8604, "bm25_score": 0.3259, "title": "Potential Biomarkers of Mitochondrial Dysfunction Associated with COVID-19 Infection."}
+{"pmid": "39553000", "dense_sim_medcpt": 0.8375, "bm25_score": 0.3598, "title": "Zinc Deficiency and Post-acute Outcomes in Patients With COVID-19: A Six-Month Retrospective Cohort Analysis of 3,726 Patients."}
+{"pmid": "38566449", "dense_sim_medcpt": 0.86, "bm25_score": 0.3247, "title": "Assessment of COVID-19 impact on menstrual symptom variation among women in the United Arab Emirates."}
+{"pmid": "40898009", "dense_sim_medcpt": 0.871, "bm25_score": 0.3071, "title": "Estimated glomerular filtration rate in post COVID-19 patients at 3-6 months and 12-18 months after infection."}
+{"pmid": "40869200", "dense_sim_medcpt": 0.8415, "bm25_score": 0.3509, "title": "Do Long COVID and COVID Vaccine Side Effects Share Pathophysiological Picture and Biochemical Pathways?"}
+{"pmid": "35726132", "dense_sim_medcpt": 0.8799, "bm25_score": 0.2925, "title": "Sex differences in sequelae from COVID-19 infection and in long COVID syndrome: a review."}
+{"pmid": "39600184", "dense_sim_medcpt": 0.8709, "bm25_score": 0.3059, "title": "Long COVID: A Comprehensive Overview of the Signs and Symptoms across Multiple Organ Systems."}
+{"pmid": "37373021", "dense_sim_medcpt": 0.8448, "bm25_score": 0.3447, "title": "No Evidence for Myocarditis or Other Organ Affection by Induction of an Immune Response against Critical SARS-CoV-2 Protein Epitopes in a Mouse Model Susceptible for Autoimmunity."}
+{"pmid": "34172387", "dense_sim_medcpt": 0.8514, "bm25_score": 0.335, "title": "Clinical characteristics, management practices, and outcomes among lung transplant patients with COVID-19."}
+{"pmid": "33942071", "dense_sim_medcpt": 0.8667, "bm25_score": 0.311, "title": "Post-COVID-19 Syndrome: Theoretical Basis, Identification, and Management."}
+{"pmid": "36128671", "dense_sim_medcpt": 0.868, "bm25_score": 0.3082, "title": "Renal, cardiac, neurological, cutaneous and coagulopathic long-term manifestations of COVID-19 after recovery; A review."}
+{"pmid": "36271419", "dense_sim_medcpt": 0.8495, "bm25_score": 0.3357, "title": "Dehydration is associated with production of organic osmolytes and predicts physical long-term symptoms after COVID-19: a multicenter cohort study."}
+{"pmid": "38974645", "dense_sim_medcpt": 0.8567, "bm25_score": 0.3249, "title": "Undesirable effects of COVID-19 vaccination on Saudi population: A descriptive study, Winter 2022."}
+{"pmid": "35444473", "dense_sim_medcpt": 0.8353, "bm25_score": 0.3566, "title": "Self-Reported Menstrual Alterations During the COVID-19 Syndemic in Spain: A Cross-Sectional Study."}
+{"pmid": "39860412", "dense_sim_medcpt": 0.855, "bm25_score": 0.327, "title": "Safety Profile of SARS-CoV-2 Vaccination in Patients with Lupus Nephritis: A Retrospective Study."}
+{"pmid": "35857629", "dense_sim_medcpt": 0.8526, "bm25_score": 0.3303, "title": "SARS-CoV-2 infection in hamsters and humans results in lasting and unique systemic perturbations after recovery."}
+{"pmid": "36734068", "dense_sim_medcpt": 0.8624, "bm25_score": 0.3153, "title": "Factors affecting prolonged SARS-CoV-2 infection and development and validation of predictive nomograms."}
+{"pmid": "37144614", "dense_sim_medcpt": 0.8706, "bm25_score": 0.3024, "title": "Long COVID in people living with HIV."}
+{"pmid": "38590963", "dense_sim_medcpt": 0.8459, "bm25_score": 0.3387, "title": "Gunshot wound injury to the genitourinary tract: a 4-year retrospective review at an academic level 1 trauma center."}
+{"pmid": "37076050", "dense_sim_medcpt": 0.8377, "bm25_score": 0.3509, "title": "Serologic response to COVID-19 infection or vaccination in pediatric kidney transplant recipients compared to healthy children."}
+{"pmid": "34019446", "dense_sim_medcpt": 0.8463, "bm25_score": 0.3376, "title": "[The Long-COVID Syndrome - a New Clinical Picture after COVID-19 Infection]."}
+{"pmid": "40139929", "dense_sim_medcpt": 0.8545, "bm25_score": 0.3249, "title": "Characteristics and Medication Use Patterns of Pregnancies With COVID-19 Ending in Live-Birth in the Sentinel System."}
+{"pmid": "35601952", "dense_sim_medcpt": 0.8591, "bm25_score": 0.3181, "title": "Cardiac tamponade - an unexpected \"long COVID-19\" complication."}
+{"pmid": "40206472", "dense_sim_medcpt": 0.8522, "bm25_score": 0.328, "title": "Impact of QazVac vaccination on clinical manifestations and immune responses in post-COVID syndrome: a cross-sectional study."}
+{"pmid": "34931145", "dense_sim_medcpt": 0.8444, "bm25_score": 0.3391, "title": "COVID-19 Infection Is Associated With New Onset Erectile Dysfunction: Insights From a National Registry."}
+{"pmid": "36295814", "dense_sim_medcpt": 0.8213, "bm25_score": 0.3732, "title": "Gut Microbiota Dynamics in Relation to Long-COVID-19 Syndrome: Role of Probiotics to Combat Psychiatric Complications."}
+{"pmid": "38001354", "dense_sim_medcpt": 0.8464, "bm25_score": 0.3355, "title": "Haematological sequelae in the post-acute phase of symptomatic SARS-CoV-2 infection."}
+{"pmid": "37280530", "dense_sim_medcpt": 0.8624, "bm25_score": 0.3107, "title": "The long-term effects of the Covid-19 infection on cardiac symptoms."}
+{"pmid": "36833146", "dense_sim_medcpt": 0.8375, "bm25_score": 0.3479, "title": "The Impact of the COVID-19 Pandemic on Kidney Transplant Candidate Waitlist Status across Demographic and Geographic Groups: A National Analysis of UNOS STAR Data."}
+{"pmid": "38055615", "dense_sim_medcpt": 0.8702, "bm25_score": 0.2981, "title": "The impact of COVID-19 and long COVID on sexual function in cisgender women."}
+{"pmid": "37147589", "dense_sim_medcpt": 0.8501, "bm25_score": 0.3283, "title": "Symptoms compatible with long COVID in an Italian pediatric cohort of Tourette patients with and without SARS‑CoV‑2 infection: a short-term follow-up assessment."}
+{"pmid": "34933829", "dense_sim_medcpt": 0.8602, "bm25_score": 0.3122, "title": "The Sexual Long COVID (SLC): Erectile Dysfunction as a Biomarker of Systemic Complications for COVID-19 Long Haulers."}
+{"pmid": "37953468", "dense_sim_medcpt": 0.8544, "bm25_score": 0.3207, "title": "Long COVID Among Kidney Transplant Recipients Appears to Be Attenuated During the Omicron Predominance."}
+{"pmid": "38672267", "dense_sim_medcpt": 0.8639, "bm25_score": 0.3062, "title": "The Aftermath of COVID-19: Exploring the Long-Term Effects on Organ Systems."}
+{"pmid": "36427058", "dense_sim_medcpt": 0.8383, "bm25_score": 0.3432, "title": "Is SARS-CoV-2 the only cause of long-COVID?"}
+{"pmid": "35521752", "dense_sim_medcpt": 0.8585, "bm25_score": 0.313, "title": "Post-acute sequelae of SARS-CoV-2 infection: relationship of central nervous system manifestations with physical disability and systemic inflammation."}
+{"pmid": "40412134", "dense_sim_medcpt": 0.8509, "bm25_score": 0.3226, "title": "The post-COVID-19 pandemic situation regarding the number of cases and the profile of patients treated for suspected child and adolescent sexual violence."}
+{"pmid": "39407818", "dense_sim_medcpt": 0.8586, "bm25_score": 0.3112, "title": "Development of a Risk Predictive Model for Erectile Dysfunction at 12 Months after COVID-19 Recovery: A Prospective Observational Study."}
+{"pmid": "37292432", "dense_sim_medcpt": 0.8595, "bm25_score": 0.309, "title": "[Post-COVID-19 syndrome]."}
+{"pmid": "37349962", "dense_sim_medcpt": 0.8612, "bm25_score": 0.3063, "title": "Long-term effect of COVID-19 infection on kidney function among COVID-19 patients followed in post-COVID-19 recovery clinics in British Columbia, Canada."}
+{"pmid": "41235244", "dense_sim_medcpt": 0.8553, "bm25_score": 0.3149, "title": "CKD-related impairment in humoral and cellular immune response and potential correlation with long COVID-19: a systematic review."}
+{"pmid": "37243248", "dense_sim_medcpt": 0.8517, "bm25_score": 0.3204, "title": "False-Positive Screening and Confirmatory HIV Diagnostic Test in a Patient with Cured SARS-CoV-2 Infection Is Not Mediated by Env/Spike Cross-Reactive Antibodies."}
+{"pmid": "36293160", "dense_sim_medcpt": 0.8587, "bm25_score": 0.3099, "title": "The Challenge of Long COVID-19 Management: From Disease Molecular Hallmarks to the Proposal of Exercise as Therapy."}
+{"pmid": "39052582", "dense_sim_medcpt": 0.852, "bm25_score": 0.3195, "title": "The association of sociodemographic characteristics and comorbidities with post-acute sequelae of SARS-CoV-2 in a Medicaid managed care population with and without HIV."}
+{"pmid": "37575987", "dense_sim_medcpt": 0.8459, "bm25_score": 0.3278, "title": "Endothelial dysfunction in autoimmune, pulmonary, and kidney systems, and exercise tolerance following SARS-CoV-2 infection."}
+{"pmid": "37160535", "dense_sim_medcpt": 0.843, "bm25_score": 0.3317, "title": "Cognitive function and impact on driving after SARS-COV-2 infection in a man with long-standing HIV infection: a case report."}
+{"pmid": "38927466", "dense_sim_medcpt": 0.8571, "bm25_score": 0.3105, "title": "Post-Acute Sequelae of SARS-CoV-2 Infection (PASC) for Patients-3-Year Follow-Up of Patients with Chronic Kidney Disease."}
+{"pmid": "39862702", "dense_sim_medcpt": 0.8644, "bm25_score": 0.2992, "title": "Subphenotypes of Long COVID and the clinical applications of probiotics."}
+{"pmid": "35841938", "dense_sim_medcpt": 0.8508, "bm25_score": 0.319, "title": "A prospective study of the association between SARS-CoV-2 infection and COVID-19 vaccination with changes in usual menstrual cycle characteristics."}
+{"pmid": "40818996", "dense_sim_medcpt": 0.8433, "bm25_score": 0.3301, "title": "Cardiorenal outcomes after herpes zoster reactivation in COVID-19 survivors from a global TriNetX study."}
+{"pmid": "39944516", "dense_sim_medcpt": 0.8494, "bm25_score": 0.3191, "title": "Post-COVID-19 neurogenic lower urinary tract dysfunction in pediatrics: A case series of clinical manifestations resembling Elsberg syndrome."}
+{"pmid": "37622530", "dense_sim_medcpt": 0.8488, "bm25_score": 0.3188, "title": "Exercise as a therapeutic intervention in chronic kidney disease: are we nearly there yet?"}
+{"pmid": "40525917", "dense_sim_medcpt": 0.8526, "bm25_score": 0.313, "title": "Impact of COVID-19 on management and outcomes of NHS patients with recurrent respiratory papillomatosis: evidence from a UK registry."}
+{"pmid": "40391677", "dense_sim_medcpt": 0.8596, "bm25_score": 0.3026, "title": "Burden of Selected Chronic Conditions Among Adults of Prime Working Age (25-54) by 2022 Self-Reported COVID-19 and Long COVID History Compared to 2019 Pre-Pandemic Baseline Prevalence: Behavioral Risk Factor Surveillance System."}
+{"pmid": "36575228", "dense_sim_medcpt": 0.8503, "bm25_score": 0.3159, "title": "Long COVID and hypertension-related disorders: a report from the Japanese Society of Hypertension Project Team on COVID-19."}
+{"pmid": "40863220", "dense_sim_medcpt": 0.8176, "bm25_score": 0.3652, "title": "Persistent Inflammation, Maladaptive Remodeling, and Fibrosis in the Kidney Following Long COVID-like MHV-1 Mouse Model."}
+{"pmid": "39943820", "dense_sim_medcpt": 0.8673, "bm25_score": 0.2898, "title": "Cardiovascular Symposium on Perspectives in Long COVID."}
+{"pmid": "38337760", "dense_sim_medcpt": 0.8592, "bm25_score": 0.3015, "title": "The Multisystem Impact of Long COVID: A Comprehensive Review."}
+{"pmid": "37297800", "dense_sim_medcpt": 0.8489, "bm25_score": 0.316, "title": "Quality of Life, Fatigue, and Physical Symptoms Post-COVID-19 Condition: A Cross-Sectional Comparative Study."}
+{"pmid": "35767537", "dense_sim_medcpt": 0.8438, "bm25_score": 0.3232, "title": "Menstrual changes following COVID-19 infection: A cross-sectional study from Jordan and Iraq."}
+{"pmid": "40978701", "dense_sim_medcpt": 0.8263, "bm25_score": 0.3496, "title": "Frequency and Mortality of Adult Meningitis, Pneumonia, or Bacteremia in Colombia from 2015 to 2022: A Retrospective Database Study in a Health Maintenance Organization."}
+{"pmid": "41627925", "dense_sim_medcpt": 0.8559, "bm25_score": 0.3051, "title": "Prevalence and pattern of abnormal menstruation after COVID-19 infection."}
+{"pmid": "36222077", "dense_sim_medcpt": 0.853, "bm25_score": 0.3088, "title": "Short-term complications and post-acute sequelae in hospitalized paediatric patients with COVID-19 and obesity: A multicenter cohort study."}
+{"pmid": "40966301", "dense_sim_medcpt": 0.8612, "bm25_score": 0.2952, "title": "Adverse outcomes post-COVID-19 hospitalization among ESRD patients: A retrospective cohort study in 5 California university medical centers."}
+{"pmid": "36215047", "dense_sim_medcpt": 0.8503, "bm25_score": 0.3113, "title": "Healthy outcomes of patients with COVID-19 two years after the infection: a prospective cohort study."}
+{"pmid": "37830667", "dense_sim_medcpt": 0.8553, "bm25_score": 0.3037, "title": "Sociodemographic and Clinical Profile of Long COVID-19 Patients, and Its Correlation with Medical Leave: A Comprehensive Descriptive and Multicenter Study."}
+{"pmid": "35505733", "dense_sim_medcpt": 0.8413, "bm25_score": 0.3238, "title": "The Microbial Profile and Resistance Pattern of Pathogens Isolated From Long COVID Pneumonia Patients and Their Correlation to Clinical Outcome: Our Experience From a Tertiary Care Hospital."}
+{"pmid": "36747883", "dense_sim_medcpt": 0.8389, "bm25_score": 0.3262, "title": "[Long COVID-A New Challenge in Medicine: Focus on Pregnancy and Breastfeeding]."}
+{"pmid": "37077670", "dense_sim_medcpt": 0.8533, "bm25_score": 0.3044, "title": "Long COVID: Is there a kidney link?"}
+{"pmid": "40113175", "dense_sim_medcpt": 0.8582, "bm25_score": 0.2968, "title": "The influence of diabetes and hyperglycemia on short and long-term mortality after the first-ever known COVID-19 infection."}
+{"pmid": "41297077", "dense_sim_medcpt": 0.8553, "bm25_score": 0.3007, "title": "Higher levels of urinary extracellular vesicles and immune mediators are related to acute infection severity during the post-COVID period."}
+{"pmid": "41827265", "dense_sim_medcpt": 0.87, "bm25_score": 0.2783, "title": "Post-COVID-19 Outcomes of Patients with Autosomal Dominant Polycystic Kidney Disease: A Multicenter Controlled Study."}
+{"pmid": "41120604", "dense_sim_medcpt": 0.8556, "bm25_score": 0.2995, "title": "The sperm quality change in 6 months recovery from COVID-19: a retrospective observational study."}
+{"pmid": "34508486", "dense_sim_medcpt": 0.8696, "bm25_score": 0.278, "title": "Long COVID Patient Symptoms and its Evaluation and Management."}
+{"pmid": "36274640", "dense_sim_medcpt": 0.8511, "bm25_score": 0.3048, "title": "Durability of antibodies post vaccination with two doses of inactivated BBIBP-CorV vaccine."}
+{"pmid": "34967958", "dense_sim_medcpt": 0.8614, "bm25_score": 0.2893, "title": "Hospitalization and death after recovery from acute COVID-19 among renal transplant recipients."}
+{"pmid": "35484639", "dense_sim_medcpt": 0.8344, "bm25_score": 0.3293, "title": "Restless legs syndrome is associated with long-COVID in women."}
+{"pmid": "39972044", "dense_sim_medcpt": 0.8457, "bm25_score": 0.3111, "title": "Long term outcomes of patients with chronic kidney disease after COVID-19 in an urban population in the Bronx."}
+{"pmid": "34386903", "dense_sim_medcpt": 0.8225, "bm25_score": 0.3452, "title": "Autonomic dysfunction in post-COVID patients with and witfhout neurological symptoms: a prospective multidomain observational study."}
+{"pmid": "38258769", "dense_sim_medcpt": 0.8386, "bm25_score": 0.321, "title": "Obesity and its Relationship with Covid-19: A Review of the Main Pharmaceutical Aspects."}
+{"pmid": "35503606", "dense_sim_medcpt": 0.857, "bm25_score": 0.2933, "title": "Prevalence of vitamin D deficiency among patients attending Post COVID-19 follow-up clinic: a cross-sectional study."}
+{"pmid": "37726566", "dense_sim_medcpt": 0.8545, "bm25_score": 0.2965, "title": "Effect of the COVID-19 pandemic on the pediatric infectious disease landscape."}
+{"pmid": "38330962", "dense_sim_medcpt": 0.8527, "bm25_score": 0.2991, "title": "Post-COVID in women after SARS-CoV-2 infection during pregnancy - a pilot study with follow-up data from the COVID-19-related Obstetric and Neonatal Outcome Study (CRONOS)."}
+{"pmid": "41277954", "dense_sim_medcpt": 0.8284, "bm25_score": 0.3348, "title": "Impact of COVID-19 therapeutics on the development of post-infectious lung fibrosis."}
+{"pmid": "40964980", "dense_sim_medcpt": 0.8484, "bm25_score": 0.3047, "title": "Comparison of biomarkers and laboratory results in unaffected, moderate, and severe COVID-19 recovered patients."}
+{"pmid": "41001562", "dense_sim_medcpt": 0.8407, "bm25_score": 0.3152, "title": "Epidemiological changes in anti-glomerular basement membrane disease in Madrid in the context of the COVID-19 pandemic."}
+{"pmid": "40169569", "dense_sim_medcpt": 0.8478, "bm25_score": 0.3043, "title": "Long COVID after SARS-CoV-2 during pregnancy in the United States."}
+{"pmid": "38700658", "dense_sim_medcpt": 0.8662, "bm25_score": 0.2764, "title": "Long-term symptoms after SARS-CoV-2 infection in a cohort of people living with HIV."}
+{"pmid": "40188838", "dense_sim_medcpt": 0.8584, "bm25_score": 0.2881, "title": "Nirmatrelvir-ritonavir versus placebo-ritonavir in individuals with long COVID in the USA (PAX LC): a double-blind, randomised, placebo-controlled, phase 2, decentralised trial."}
+{"pmid": "34814196", "dense_sim_medcpt": 0.8377, "bm25_score": 0.3189, "title": "Maternal COVID-19 Infection and Possible Associated Adverse Neurological Fetal Outcomes, Two Case Reports."}
+{"pmid": "37789881", "dense_sim_medcpt": 0.85, "bm25_score": 0.3, "title": "Severe, Persistent, Disruptive Fatigue Post-SARS-CoV-2 Disproportionately Affects Young Women."}
+{"pmid": "40354184", "dense_sim_medcpt": 0.8572, "bm25_score": 0.2882, "title": "HIV Infection and Long COVID: A RECOVER Program, Electronic Health Record-Based Cohort Study."}
+{"pmid": "40725613", "dense_sim_medcpt": 0.813, "bm25_score": 0.3542, "title": "Anxiety and Depressive Symptoms Post-COVID-19 Pandemic Onset in Solid Organ Transplant Recipients: Canadian Repeated Cross-Sectional Study."}
+{"pmid": "35566253", "dense_sim_medcpt": 0.8667, "bm25_score": 0.2732, "title": "The Pathophysiology of Long COVID throughout the Renin-Angiotensin System."}
+{"pmid": "37675861", "dense_sim_medcpt": 0.8621, "bm25_score": 0.2801, "title": "Exploring the mechanisms of long COVID: Insights from computational analysis of SARS-CoV-2 gene expression and symptom associations."}
+{"pmid": "35957648", "dense_sim_medcpt": 0.8301, "bm25_score": 0.3277, "title": "Menstrual irregularities following COVID-19 vaccination: A global cross-sectional survey."}
+{"pmid": "39429741", "dense_sim_medcpt": 0.8542, "bm25_score": 0.2909, "title": "COVID-19 and persistent symptoms: implications for polycystic ovary syndrome and its management."}
+{"pmid": "36964860", "dense_sim_medcpt": 0.8565, "bm25_score": 0.2869, "title": "What is really 'Long COVID'?"}
+{"pmid": "37881715", "dense_sim_medcpt": 0.8596, "bm25_score": 0.2816, "title": "Post COVID-19 complications and follow up biomarkers."}
+{"pmid": "34547156", "dense_sim_medcpt": 0.8558, "bm25_score": 0.2873, "title": "Long-term follow-up of SARS-CoV-2 recovered renal transplant recipients: A single-center experience from India."}
+{"pmid": "38498685", "dense_sim_medcpt": 0.8616, "bm25_score": 0.2782, "title": "Lower Urinary Tract Symptoms in a prospective cohort of COVID-19 survivors."}
+{"pmid": "41527037", "dense_sim_medcpt": 0.8462, "bm25_score": 0.3006, "title": "Is long-term disruption of the renin-angiotensin-aldosterone system associated with long COVID? A retrospective cohort study among healthcare workers."}
+{"pmid": "37287691", "dense_sim_medcpt": 0.8449, "bm25_score": 0.3022, "title": "Investigating the association between the COVID-19 vaccination and incident gastrointestinal symptomology: A comprehensive dataset."}
+{"pmid": "38188200", "dense_sim_medcpt": 0.8341, "bm25_score": 0.3171, "title": "Spinal cord infarction attributed to SARS-CoV-2, with post-acute sequelae of COVID-19: A case report."}
+{"pmid": "35738600", "dense_sim_medcpt": 0.8561, "bm25_score": 0.2841, "title": "To Fight or to Flee? A Systematic Review of Ectopic Pregnancy Management and Complications During the Covid-19 Pandemic."}
+{"pmid": "36945608", "dense_sim_medcpt": 0.8566, "bm25_score": 0.283, "title": "Risk Factors and Predictive Modeling for Post-Acute Sequelae of SARS-CoV-2 Infection: Findings from EHR Cohorts of the RECOVER Initiative."}
+{"pmid": "38512106", "dense_sim_medcpt": 0.8608, "bm25_score": 0.2766, "title": "Risk of kidney and liver diseases after COVID-19 infection: A systematic review and meta-analysis."}
+{"pmid": "37234076", "dense_sim_medcpt": 0.8462, "bm25_score": 0.2983, "title": "Female reproductive health impacts of Long COVID and associated illnesses including ME/CFS, POTS, and connective tissue disorders: a literature review."}
+{"pmid": "36856820", "dense_sim_medcpt": 0.8655, "bm25_score": 0.2693, "title": "Female reproductive health during the COVID-19 pandemic: latest evidence and understanding."}
+{"pmid": "40051430", "dense_sim_medcpt": 0.834, "bm25_score": 0.3162, "title": "Role of Gut Microbiota in Long COVID: Impact on Immune Function and Organ System Health."}
+{"pmid": "39527314", "dense_sim_medcpt": 0.854, "bm25_score": 0.2859, "title": "Identifying influencing factors and constructing a prediction model for long COVID-19 in hemodialysis patients."}
+{"pmid": "40643819", "dense_sim_medcpt": 0.833, "bm25_score": 0.3172, "title": "COVID-19 infection increases the risk of venous thromboembolism during pregnancy and the postpartum period."}
+{"pmid": "40361909", "dense_sim_medcpt": 0.8485, "bm25_score": 0.2935, "title": "SARS-CoV-2 Infection Is Associated with an Accelerated eGFR Decline in Kidney Transplant Recipients up to Four Years Post Infection."}
+{"pmid": "34470828", "dense_sim_medcpt": 0.8614, "bm25_score": 0.2731, "title": "Kidney Outcomes in Long COVID."}
+{"pmid": "35606552", "dense_sim_medcpt": 0.8608, "bm25_score": 0.274, "title": "Multisystem involvement is common in post-COVID-19 syndrome."}
+{"pmid": "38031223", "dense_sim_medcpt": 0.8719, "bm25_score": 0.2572, "title": "Characterisation of admissions and readmissions after 20 days of illness among COVID-19 patients."}
+{"pmid": "36994040", "dense_sim_medcpt": 0.8445, "bm25_score": 0.2983, "title": "Magnitude and associated factors of menstrual irregularity among young girls: A cross-sectional study during COVID-19 second wave in India."}
+{"pmid": "34268500", "dense_sim_medcpt": 0.8593, "bm25_score": 0.2756, "title": "Neurological Manifestations in COVID-19: An Unrecognized Crisis in Our Elderly?"}
+{"pmid": "39449339", "dense_sim_medcpt": 0.8289, "bm25_score": 0.3207, "title": "Potential Mechanisms of COVID-19 Related Nervous System Damage and Effects on Female Fertility."}
+{"pmid": "38071990", "dense_sim_medcpt": 0.8317, "bm25_score": 0.3161, "title": "A synbiotic preparation (SIM01) for post-acute COVID-19 syndrome in Hong Kong (RECOVERY): a randomised, double-blind, placebo-controlled trial."}
+{"pmid": "38979107", "dense_sim_medcpt": 0.8599, "bm25_score": 0.2735, "title": "The impact of mild and moderate COVID-19 infection on the progression of kidney dysfunction in patients with IgA nephropathy."}
+{"pmid": "36503165", "dense_sim_medcpt": 0.8506, "bm25_score": 0.2872, "title": "Clinical outcomes of kidney recipients with COVID-19 (COVID-19 in kidney recipients)."}
+{"pmid": "36497810", "dense_sim_medcpt": 0.8466, "bm25_score": 0.2934, "title": "Post-Viral Fatigue Following SARS-CoV-2 Infection during Pregnancy: A Longitudinal Comparative Study."}
+{"pmid": "38977844", "dense_sim_medcpt": 0.8543, "bm25_score": 0.2814, "title": "Complex patterns of multimorbidity associated with severe COVID-19 and long COVID."}
+{"pmid": "39618677", "dense_sim_medcpt": 0.8353, "bm25_score": 0.3099, "title": "Systemic Vasculitis Post-COVID-19: A Case Report."}
+{"pmid": "38813483", "dense_sim_medcpt": 0.854, "bm25_score": 0.2809, "title": "COVID-19 in cancer patients: patient characteristics and outcomes in the post-COVID-19 vaccination period."}
+{"pmid": "35445425", "dense_sim_medcpt": 0.8551, "bm25_score": 0.2785, "title": "A factor not to be ignored in post-COVID-19 erectile dysfunction; psychological effect, a prospective study."}
+{"pmid": "39066303", "dense_sim_medcpt": 0.8545, "bm25_score": 0.279, "title": "Clinical Spectrum of Long COVID: Effects on Female Reproductive Health."}
+{"pmid": "41043442", "dense_sim_medcpt": 0.845, "bm25_score": 0.2933, "title": "Long COVID associated with SARS-CoV-2 reinfection among children and adolescents in the omicron era (RECOVER-EHR): a retrospective cohort study."}
+{"pmid": "40156281", "dense_sim_medcpt": 0.8239, "bm25_score": 0.3249, "title": "Disease exacerbation and COVID-19 following mRNA COVID-19 vaccination in adolescents with Systemic Lupus Erythematosus."}
+{"pmid": "36071914", "dense_sim_medcpt": 0.8315, "bm25_score": 0.3132, "title": "Disseminated Histoplasmosis, Pulmonary Tuberculosis, and Cytomegalovirus Disease in a Renal Transplant Recipient after Infection with SARS-CoV-2."}
+{"pmid": "38993852", "dense_sim_medcpt": 0.8295, "bm25_score": 0.3153, "title": "Safety attitudes culture remain stable in a transplant center: evidence from the coronavirus pandemic."}
+{"pmid": "35973704", "dense_sim_medcpt": 0.8632, "bm25_score": 0.2645, "title": "Long-term spill-over impact of COVID-19 on health and healthcare of people with non-communicable diseases: a study protocol for a population-based cohort and health economic study."}
+{"pmid": "33724246", "dense_sim_medcpt": 0.8537, "bm25_score": 0.2784, "title": "A Multicenter Cohort Study From India of 75 Kidney Transplants in Recipients Recovered After COVID-19."}
+{"pmid": "41598649", "dense_sim_medcpt": 0.8611, "bm25_score": 0.2667, "title": "Prevalence and Persistence of Post-COVID-19 Condition After Critical Care: 32-Month Follow-Up."}
+{"pmid": "35663120", "dense_sim_medcpt": 0.8431, "bm25_score": 0.2926, "title": "Peritoneal effusion as unusual complication post COVID 19 infection."}
+{"pmid": "37950846", "dense_sim_medcpt": 0.8534, "bm25_score": 0.2767, "title": "Update on Central Nervous System Effects of the Intersection of HIV-1 and SARS-CoV-2."}
+{"pmid": "39064139", "dense_sim_medcpt": 0.851, "bm25_score": 0.2801, "title": "Importance of Blood Glucose Measurement for Predicting the Prognosis of Long COVID: A Retrospective Study in Japan."}
+{"pmid": "41136644", "dense_sim_medcpt": 0.8637, "bm25_score": 0.261, "title": "Pre-existing comorbidities and hospitalization for COVID-19 are associated with post-COVID conditions in the U.S. veteran population."}
+{"pmid": "35364700", "dense_sim_medcpt": 0.8568, "bm25_score": 0.2713, "title": "Organ manifestations of COVID-19: what have we learned so far (not only) from autopsies?"}
+{"pmid": "34504319", "dense_sim_medcpt": 0.8615, "bm25_score": 0.2636, "title": "Long COVID and kidney disease."}
+{"pmid": "40400397", "dense_sim_medcpt": 0.8351, "bm25_score": 0.3025, "title": "Postacute Sequelae of COVID-19 Across 12 Major Health Domains and 141 Diseases in Individuals With Mental Illness Among COVID-19 Survivors: A Population-Based Cohort Study in South Korea."}
+{"pmid": "35870131", "dense_sim_medcpt": 0.8529, "bm25_score": 0.2757, "title": "The adverse effects of high-dose corticosteroid on infectious and non-infectious sequelae in renal transplant recipients with coronavirus disease-19 in India."}
+{"pmid": "38185318", "dense_sim_medcpt": 0.8686, "bm25_score": 0.2516, "title": "Association between COVID-19 and increased incidence of overactive bladder symptoms in female patients: A retrospective analysis."}
+{"pmid": "40361045", "dense_sim_medcpt": 0.8544, "bm25_score": 0.2729, "title": "Prevalence of and factors associated with long COVID among US adults: a nationwide survey."}
+{"pmid": "35454144", "dense_sim_medcpt": 0.8419, "bm25_score": 0.2913, "title": "Long COVID-19 in Children: From the Pathogenesis to the Biologically Plausible Roots of the Syndrome."}
+{"pmid": "38431462", "dense_sim_medcpt": 0.8231, "bm25_score": 0.3193, "title": "Contemporary disparities in progression to orchiopexy for cryptorchidism as reported in the Pediatric Health Information System (PHIS) database."}
+{"pmid": "38472045", "dense_sim_medcpt": 0.8606, "bm25_score": 0.2629, "title": "Risk prediction of major cardiac adverse events and all-cause death following covid-19 hospitalization at one year follow-up: The HOPE-2 score."}
+{"pmid": "36472295", "dense_sim_medcpt": 0.8421, "bm25_score": 0.2891, "title": "RARE COMPLICATION OF COVID -19 DISEASE TINU SYNDROME IN A 11-YEAR-OLD BOY, FEATURES AND MANAGMENT."}
+{"pmid": "38953987", "dense_sim_medcpt": 0.8354, "bm25_score": 0.2992, "title": "SARS-CoV-2-related peptides induce endothelial-to-mesenchymal transition in endothelial capillary cells derived from different body districts: focus on membrane (M) protein."}
+{"pmid": "36633677", "dense_sim_medcpt": 0.8686, "bm25_score": 0.2491, "title": "Obstetrical and gynecologic implications of COVID-19: what have we learned over the first two years of the pandemic."}
+{"pmid": "40146983", "dense_sim_medcpt": 0.8542, "bm25_score": 0.2706, "title": "Developing a Multisensor-Based Machine Learning Technology (Aidar Decompensation Index) for Real-Time Automated Detection of Post-COVID-19 Condition: Protocol for an Observational Study."}
+{"pmid": "34563758", "dense_sim_medcpt": 0.8541, "bm25_score": 0.2704, "title": "NLRP3 inflammasome: A joint, potential therapeutic target in management of COVID-19 and fertility problems."}
+{"pmid": "39519343", "dense_sim_medcpt": 0.8398, "bm25_score": 0.2912, "title": "Neutrophil Elastase, Neuron-Specific Enolase, and S100B Protein as Potential Markers of Long-Term Complications Caused by COVID-19 in Patients with Type 2 Diabetes Mellitus (T2DM) and Advanced Stage of Diabetic Nephropathy (NfT2DM)-Observational Studies."}
+{"pmid": "40481056", "dense_sim_medcpt": 0.8196, "bm25_score": 0.3212, "title": "Incidence and risk factors of new clinical disorders in patients with COVID-19 hyperinflammatory syndrome."}
+{"pmid": "35765690", "dense_sim_medcpt": 0.8583, "bm25_score": 0.2628, "title": "Impact of Severe Acute Respiratory Syndrome Coronavirus 2-Induced COVID-19 on Fixed Operating Room Times in Urologic Operations."}
+{"pmid": "34975571", "dense_sim_medcpt": 0.8252, "bm25_score": 0.3121, "title": "Use of Transcutaneous Auricular Vagus Nerve Stimulation as an Adjuvant Therapy for the Depressive Symptoms of COVID-19: A Literature Review."}
+{"pmid": "41466230", "dense_sim_medcpt": 0.8433, "bm25_score": 0.2852, "title": "Evaluation of glucose metabolism, endocrine, and renal functions following vaccination in post-COVID-19 individuals: a longitudinal retrospective single-center cohort study."}
+{"pmid": "35610313", "dense_sim_medcpt": 0.8614, "bm25_score": 0.2576, "title": "Cardiometabolic syndrome - an emergent feature of Long COVID?"}
+{"pmid": "40475987", "dense_sim_medcpt": 0.8447, "bm25_score": 0.2828, "title": "Prior COVID-19 infection increases degenerated oocytes but does not affect IVF outcomes: a prospective cohort study."}
+{"pmid": "41129241", "dense_sim_medcpt": 0.8274, "bm25_score": 0.3086, "title": "Plasma Biomarkers of Neurogenesis Are Increased Among People With HIV After COVID."}
+{"pmid": "35140117", "dense_sim_medcpt": 0.8674, "bm25_score": 0.2482, "title": "Risk of persistent and new clinical sequelae among adults aged 65 years and older during the post-acute phase of SARS-CoV-2 infection: retrospective cohort study."}
+{"pmid": "41088815", "dense_sim_medcpt": 0.8447, "bm25_score": 0.2815, "title": "Does Prenatal SARS-CoV-2 Infection Exacerbate Postpartum Lower Urinary Tract Symptoms? A Multicenter Retrospective Cohort Study."}
+{"pmid": "40403025", "dense_sim_medcpt": 0.8464, "bm25_score": 0.2784, "title": "Association of long COVID documentation with clinical outcomes among Veterans with diabetes."}
+{"pmid": "36319152", "dense_sim_medcpt": 0.8395, "bm25_score": 0.2877, "title": "[COVID-19 treated with oral Nirmatrelvir-Ritonavir in 3 children]."}
+{"pmid": "39912173", "dense_sim_medcpt": 0.8147, "bm25_score": 0.3247, "title": "Syphilis renaissance: Truth or mirage. Analysis of syphilis trends and possible factors from a tertiary care centre in North India."}
+{"pmid": "36159103", "dense_sim_medcpt": 0.8633, "bm25_score": 0.2515, "title": "Issues related to post-COVID-19 syndrome."}
+{"pmid": "38991216", "dense_sim_medcpt": 0.8492, "bm25_score": 0.2725, "title": "Post-Acute Sequelae of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) After Infection During Pregnancy."}
+{"pmid": "39194726", "dense_sim_medcpt": 0.823, "bm25_score": 0.3117, "title": "A New Case of Paediatric Systemic Lupus Erythematosus with Onset after SARS-CoV-2 and Epstein-Barr Infection-A Case Report and Literature Review."}
+{"pmid": "36836605", "dense_sim_medcpt": 0.8163, "bm25_score": 0.3216, "title": "Cystatin-c May Indicate Subclinical Renal Involvement, While Orosomucoid Is Associated with Fatigue in Patients with Long-COVID Syndrome."}
+{"pmid": "41303228", "dense_sim_medcpt": 0.8284, "bm25_score": 0.3029, "title": "Using the International Index of Erectile Function-15 in Comparative Analysis Between Transcutaneous Electrical Nerve Stimulation of the Pudendal Nerve and Low-Level Laser Therapy in the Treatment of Erectile Dysfunction After COVID-19."}
+{"pmid": "39335603", "dense_sim_medcpt": 0.8579, "bm25_score": 0.2578, "title": "Mortality Risk and Urinary Proteome Changes in Acute COVID-19 Survivors in the Multinational CRIT-COV-U Study."}
+{"pmid": "37402613", "dense_sim_medcpt": 0.8586, "bm25_score": 0.2562, "title": "New insights into kidney disease after COVID-19 infection and vaccination: histopathological and clinical findings."}
+{"pmid": "36567743", "dense_sim_medcpt": 0.8456, "bm25_score": 0.276, "title": "Post-acute sequelae of COVID-19 infection."}
+{"pmid": "39005610", "dense_sim_medcpt": 0.8446, "bm25_score": 0.2774, "title": "Secondary bacterial infections in post-COVID-19 mucormycosis cases: a retrospective study at Imam Khomeini Hospital Complex, March 2020-April 2021."}
+{"pmid": "39651165", "dense_sim_medcpt": 0.8429, "bm25_score": 0.2792, "title": "Unraveling SARS-CoV-2 Host-Response Heterogeneity through Longitudinal Molecular Subtyping."}
+{"pmid": "37372894", "dense_sim_medcpt": 0.8396, "bm25_score": 0.2839, "title": "Use of Digital Healthcare Communication to Improve Urologists' Surveillance of Lithiasis Patients Treated with Internal Urinary Drainage Pre- and Post-COVID-19 Period."}
+{"pmid": "39367443", "dense_sim_medcpt": 0.8367, "bm25_score": 0.2882, "title": "Timing of total joint arthroplasty post-COVID-19: an evaluation of the optimal window to minimize perioperative risks."}
+{"pmid": "37731224", "dense_sim_medcpt": 0.848, "bm25_score": 0.2711, "title": "Thromboembolic complications after COVID-19 in kidney transplant recipients."}
+{"pmid": "35951255", "dense_sim_medcpt": 0.863, "bm25_score": 0.2482, "title": "Post-COVID-19 outcomes of non-dialysis dependent chronic kidney disease patients: a national, multicenter, controlled study."}
+{"pmid": "35704737", "dense_sim_medcpt": 0.8441, "bm25_score": 0.2766, "title": "The Effect of the COVID-19 Pandemic on Urine Culture Results and Resistance to Antibiotics in the Emergency Department."}
+{"pmid": "39055942", "dense_sim_medcpt": 0.8449, "bm25_score": 0.2753, "title": "Pulmonary and renal long COVID at two-year revisit."}
+{"pmid": "34060731", "dense_sim_medcpt": 0.828, "bm25_score": 0.2997, "title": "Preventive effects of Pycnogenol® on cardiovascular risk factors (including endothelial function) and microcirculation in subjects recovering from coronavirus disease 2019 (COVID-19)."}
+{"pmid": "32769232", "dense_sim_medcpt": 0.8536, "bm25_score": 0.2612, "title": "Cardiac Involvement in Children With COVID-19."}
+{"pmid": "39337889", "dense_sim_medcpt": 0.8421, "bm25_score": 0.2782, "title": "Relationship of Non-Invasive Arterial Stiffness Parameters with 10-Year Atherosclerotic Cardiovascular Disease Risk Score in Post-COVID-19 Patients-The Results of a Cross-Sectional Study."}
+{"pmid": "35847136", "dense_sim_medcpt": 0.8569, "bm25_score": 0.2555, "title": "Post-COVID-19 menstrual abnormalities and infertility: Repercussions of the pandemic."}
+{"pmid": "40346585", "dense_sim_medcpt": 0.8406, "bm25_score": 0.28, "title": "COVID-19 infection history as a risk factor for early pregnancy loss: results from the electronic health record-based Southeast Texas COVID and Pregnancy Cohort Study."}
+{"pmid": "40528247", "dense_sim_medcpt": 0.849, "bm25_score": 0.2672, "title": "HIV Clinic Visit Attendance Among People With HIV Aged 50+ Years: Exploring the Role of Increasing Age, Comorbidity Burden, and the COVID-19 Pandemic."}
+{"pmid": "39258661", "dense_sim_medcpt": 0.8599, "bm25_score": 0.2504, "title": "Acute kidney injury: a post-COVID-19 complication in children and adolescents."}
+{"pmid": "39928595", "dense_sim_medcpt": 0.8682, "bm25_score": 0.2377, "title": "Classifying COVID-19 hospitalizations in epidemiology cohort studies: The C4R study."}
+{"pmid": "39338165", "dense_sim_medcpt": 0.8544, "bm25_score": 0.258, "title": "Insulin Resistance in Long COVID-19 Syndrome."}
+{"pmid": "34541421", "dense_sim_medcpt": 0.8587, "bm25_score": 0.2513, "title": "Postacute Sequelae of Severe Acute Respiratory Syndrome Coronavirus 2 Infection: A State-of-the-Art Review."}
+{"pmid": "38654961", "dense_sim_medcpt": 0.8184, "bm25_score": 0.3118, "title": "The Evaluation of Menstrual Alterations in Mexican Women After Vaccination Against COVID-19."}
+{"pmid": "34919795", "dense_sim_medcpt": 0.8494, "bm25_score": 0.2653, "title": "Immunosuppressive therapy reduction and early post-infection graft function in kidney transplant recipients with COVID-19."}
+{"pmid": "40382282", "dense_sim_medcpt": 0.8557, "bm25_score": 0.2554, "title": "Febrile Young Infants Less than 120 Days Old in the Post-COVID-19 Pandemic Era: Sterile Pyuria or Urinary Tract Infection?"}
+{"pmid": "37750316", "dense_sim_medcpt": 0.8403, "bm25_score": 0.2782, "title": "Epidemiology, time course, and risk factors for hospital-acquired bloodstream infections in a cohort of 14,884 patients before and during the COVID-19 pandemic."}
+{"pmid": "33347790", "dense_sim_medcpt": 0.871, "bm25_score": 0.2308, "title": "COVID-19: from an acute to chronic disease? Potential long-term health consequences."}
+{"pmid": "36248863", "dense_sim_medcpt": 0.8453, "bm25_score": 0.2693, "title": "Phosphate and IL-10 concentration as predictors of long-covid in hemodialysis patients: A Brazilian study."}
+{"pmid": "36947108", "dense_sim_medcpt": 0.8348, "bm25_score": 0.2845, "title": "Pathogenic mechanisms of post-acute sequelae of SARS-CoV-2 infection (PASC)."}
+{"pmid": "37310901", "dense_sim_medcpt": 0.8661, "bm25_score": 0.2377, "title": "Post-acute sequelae of COVID-19 in older persons: multi-organ complications and mortality."}
+{"pmid": "35373130", "dense_sim_medcpt": 0.862, "bm25_score": 0.2433, "title": "COVID-19 in Patients with Glomerular Disease: Follow-Up Results from the IRoc-GN International Registry."}
+{"pmid": "37161995", "dense_sim_medcpt": 0.8692, "bm25_score": 0.2323, "title": "Molnupiravir and risk of post-acute sequelae of covid-19: cohort study."}
+{"pmid": "39006431", "dense_sim_medcpt": 0.85, "bm25_score": 0.2613, "title": "Complex patterns of multimorbidity associated with severe COVID-19 and Long COVID."}
+{"pmid": "36657383", "dense_sim_medcpt": 0.8683, "bm25_score": 0.2337, "title": "Kidney outcome after mild to moderate COVID-19."}
+{"pmid": "38654819", "dense_sim_medcpt": 0.8422, "bm25_score": 0.2725, "title": "Plasmapheresis in post-COVID-19 myelitis: A case report."}
+{"pmid": "40171476", "dense_sim_medcpt": 0.8353, "bm25_score": 0.2821, "title": "A Cross-Sectional Study on Post-COVID-19 Menstrual Abnormalities in Women of Reproductive Age Group at a Tertiary Care Hospital."}
+{"pmid": "32991035", "dense_sim_medcpt": 0.8636, "bm25_score": 0.2395, "title": "Assessment and characterisation of post-COVID-19 manifestations."}
+{"pmid": "40051033", "dense_sim_medcpt": 0.8317, "bm25_score": 0.2866, "title": "Ongoing outbreak of maternal parvovirus B19 infections in Germany since end of 2023: consequence of COVID-19 pandemic?"}
+{"pmid": "35995711", "dense_sim_medcpt": 0.8431, "bm25_score": 0.2695, "title": "A Multicenter Cohort Study From India of ABO-Incompatible Kidney Transplantation in Post-COVID-19 Patients."}
+{"pmid": "37887357", "dense_sim_medcpt": 0.8392, "bm25_score": 0.2743, "title": "Hyperbaric Oxygen Therapy Counters Oxidative Stress/Inflammation-Driven Symptoms in Long COVID-19 Patients: Preliminary Outcomes."}
+{"pmid": "36702551", "dense_sim_medcpt": 0.8627, "bm25_score": 0.2388, "title": "Long-term outcomes of COVID-19 survivors with hospital AKI: association with time to recovery from AKI."}
+{"pmid": "34520702", "dense_sim_medcpt": 0.8475, "bm25_score": 0.2611, "title": "Opioid treatment programs, telemedicine and COVID-19: A scoping review."}
+{"pmid": "36733514", "dense_sim_medcpt": 0.8349, "bm25_score": 0.28, "title": "Menstrual symptoms variation among Lebanese women before and after the COVID-19 pandemic."}
+{"pmid": "41115626", "dense_sim_medcpt": 0.8347, "bm25_score": 0.2799, "title": "Burden of post-acute sequelae of COVID-19 in patients with type 2 diabetes: a binational cohort study in South Korea and Japan."}
+{"pmid": "34853850", "dense_sim_medcpt": 0.8454, "bm25_score": 0.263, "title": "COVID-19 Legacy."}
+{"pmid": "35294747", "dense_sim_medcpt": 0.8584, "bm25_score": 0.2434, "title": "Post-acute COVID-19 syndrome and kidney diseases: what do we know?"}
+{"pmid": "39396608", "dense_sim_medcpt": 0.8456, "bm25_score": 0.2623, "title": "Symptoms of post COVID-19 condition and diseases/conditions diagnosed after COVID-19 in Japanese patients: A real-world study using a claims database."}
+{"pmid": "34786334", "dense_sim_medcpt": 0.8574, "bm25_score": 0.2442, "title": "ANCA vasculitis: A manifestation of Post-Covid-19 Syndrome."}
+{"pmid": "38021725", "dense_sim_medcpt": 0.8422, "bm25_score": 0.2661, "title": "The Second COVID-19 Wave Is a Tsunami With Aftershocks: Mucormycosis Ire as Seen in a Tertiary Care Hospital in Uttarakhand, India."}
+{"pmid": "38639531", "dense_sim_medcpt": 0.8253, "bm25_score": 0.2913, "title": "The relationship between quality of sleep and physical activity with level of symptom severity post-COVID-19 among HIV/AIDS patients."}
+{"pmid": "41778126", "dense_sim_medcpt": 0.8322, "bm25_score": 0.281, "title": "Post-COVID fatigue disproportionately affects women: evidence from the DEFEAT Corona cohort."}
+{"pmid": "36446232", "dense_sim_medcpt": 0.8538, "bm25_score": 0.2482, "title": "Myoclonus status revealing COVID 19 infection."}
+{"pmid": "36059353", "dense_sim_medcpt": 0.8366, "bm25_score": 0.2742, "title": "Post Chikungunya Fever and Post COVID-19 Bilateral Pedal Edema: A Case Report."}
+{"pmid": "35747093", "dense_sim_medcpt": 0.8305, "bm25_score": 0.2831, "title": "Post-vaccination analysis of anti-spike antibody responses in kidney transplant recipients with and without COVID-19 infection in a tertiary care centre, India."}
+{"pmid": "38612641", "dense_sim_medcpt": 0.8273, "bm25_score": 0.2876, "title": "Microfluidic Isolation of Neuronal-Enriched Extracellular Vesicles Shows Distinct and Common Neurological Proteins in Long COVID, HIV Infection and Alzheimer's Disease."}
+{"pmid": "37763088", "dense_sim_medcpt": 0.8516, "bm25_score": 0.2511, "title": "Increase in Chronic Medications and Polypharmacy-The Multifaceted Burden of COVID-19 Disease on Public Health Care."}
+{"pmid": "37900449", "dense_sim_medcpt": 0.8658, "bm25_score": 0.2284, "title": "Prevalence and Determinants of Long COVID Among Patients Attending the Outpatient Department of a Subdistrict Hospital in Haryana."}
+{"pmid": "36960247", "dense_sim_medcpt": 0.8402, "bm25_score": 0.2666, "title": "Central Pontine Myelinolysis as a Late Complication After Hyponatremia and COVID-19 Infection."}
+{"pmid": "35896202", "dense_sim_medcpt": 0.8669, "bm25_score": 0.2265, "title": "Long covid: Hair loss and sexual dysfunction are among wider symptoms, study finds."}
+{"pmid": "36184341", "dense_sim_medcpt": 0.8602, "bm25_score": 0.2361, "title": "Kidney Transplantation in Patients With the History of SARS-CoV-2 Infection."}
+{"pmid": "36858811", "dense_sim_medcpt": 0.8444, "bm25_score": 0.2597, "title": "Sexual behaviour, STI and HIV testing and testing need among gay, bisexual and other men who have sex with men recruited for online surveys pre/post-COVID-19 restrictions in the UK."}
+{"pmid": "38608516", "dense_sim_medcpt": 0.8666, "bm25_score": 0.2263, "title": "SARS-CoV-2 infection increases long-term multiple sclerosis disease activity and all-cause mortality in an underserved inner-city population."}
+{"pmid": "35378898", "dense_sim_medcpt": 0.8424, "bm25_score": 0.2626, "title": "Need for resuming sports and physical activity for children and adolescents following COVID-19 infection."}
+{"pmid": "41591677", "dense_sim_medcpt": 0.848, "bm25_score": 0.2543, "title": "Large-Scale Disease-Wide Association Study Identified Predisposition Links Between Influenza and Cardiovascular Diseases."}
+{"pmid": "37203896", "dense_sim_medcpt": 0.8421, "bm25_score": 0.2624, "title": "Depression among People Living With HIV/AIDS Undergoing Antiretroviral Therapy at a Tertiary Care Centre: A Descriptive Cross-sectional Study."}
+{"pmid": "38986121", "dense_sim_medcpt": 0.8625, "bm25_score": 0.2318, "title": "A Single Site, Retrospective Chart Review of Renal Transplant Graft Failure and Mortality Rates Pre and Post COVID-19 Pandemic."}
+{"pmid": "36990807", "dense_sim_medcpt": 0.849, "bm25_score": 0.2516, "title": "SARS-CoV-2 infection and female reproductive health: A narrative review."}
+{"pmid": "35523708", "dense_sim_medcpt": 0.8459, "bm25_score": 0.2558, "title": "COVID-19 disease does not cause ovarian injury in women of reproductive age: an observational before-and-after COVID-19 study."}
+{"pmid": "41058624", "dense_sim_medcpt": 0.8332, "bm25_score": 0.2746, "title": "Risk of hematologic malignancies following herpes zoster after COVID-19: a global cohort study."}
+{"pmid": "34966840", "dense_sim_medcpt": 0.8481, "bm25_score": 0.2521, "title": "Outcomes of SOT Recipients With COVID-19 in Different Eras of COVID-19 Therapeutics."}
+{"pmid": "39631405", "dense_sim_medcpt": 0.8605, "bm25_score": 0.2331, "title": "Admission diagnoses and outcomes among hospitalized people living with HIV during pre-COVID-19, COVID-19 and post-COVID-19 pandemic periods."}
+{"pmid": "36119409", "dense_sim_medcpt": 0.8547, "bm25_score": 0.2415, "title": "Post-COVID-19 mental health and its associated factors at 3-months after discharge: A case-control study."}
+{"pmid": "36646099", "dense_sim_medcpt": 0.8341, "bm25_score": 0.2721, "title": "Prenatal Vaccination Patterns among Birthing Individuals with History of Preterm Birth in the Pre- and Post-COVID Era."}
+{"pmid": "36224218", "dense_sim_medcpt": 0.8522, "bm25_score": 0.2447, "title": "Post-acute sequelae of SARS-CoV-2 with clinical condition definitions and comparison in a matched cohort."}
+{"pmid": "33993018", "dense_sim_medcpt": 0.8582, "bm25_score": 0.2355, "title": "Acute symptomatic seizures and COVID-19: Hospital-based study."}
+{"pmid": "35279666", "dense_sim_medcpt": 0.8294, "bm25_score": 0.2787, "title": "Differential Diagnostic Challenges in the COVID-19 Pandemic: Renal Abscess After SARS-CoV-2 Infection in a Young Adolescent."}
+{"pmid": "38335408", "dense_sim_medcpt": 0.8322, "bm25_score": 0.2743, "title": "The impact of \"long COVID\" on menstruation in Chinese female college students and the intervention of acupuncture."}
+{"pmid": "37735816", "dense_sim_medcpt": 0.8602, "bm25_score": 0.2323, "title": "Long-term effects of coronavirus disease 2019 on diabetes complications and mortality in people with diabetes: Two cohorts in the UK and Hong Kong."}
+{"pmid": "40126331", "dense_sim_medcpt": 0.824, "bm25_score": 0.2862, "title": "Unhealthy Food Consumption Is Associated with Post-Acute Sequelae of COVID-19 in Brazilian Elderly People."}
+{"pmid": "38808794", "dense_sim_medcpt": 0.855, "bm25_score": 0.2392, "title": "Postorotracheal intubation dysphagia in patients with COVID-19: A retrospective study."}
+{"pmid": "35821795", "dense_sim_medcpt": 0.8275, "bm25_score": 0.28, "title": "Acupuncture in Multidisciplinary Treatment for Post-COVID-19 Syndrome."}
+{"pmid": "38256424", "dense_sim_medcpt": 0.8712, "bm25_score": 0.2143, "title": "Atypical Complications during the Course of COVID-19: A Comprehensive Review."}
+{"pmid": "41639746", "dense_sim_medcpt": 0.8427, "bm25_score": 0.2572, "title": "Characterization of post-acute multi-organ sequelae following SARS-CoV-2 Infection in the Delta and Omicron Eras in a highly boosted population."}
+{"pmid": "41456474", "dense_sim_medcpt": 0.846, "bm25_score": 0.2516, "title": "Beyond COVID-19 in people with HIV: Specific miRNA expression profile persist after SARS-CoV-2 clearance."}
+{"pmid": "36041788", "dense_sim_medcpt": 0.8431, "bm25_score": 0.2559, "title": "Blood Transcriptomes of SARS-CoV-2-Infected Kidney Transplant Recipients Associated with Immune Insufficiency Proportionate to Severity."}
+{"pmid": "36067701", "dense_sim_medcpt": 0.8492, "bm25_score": 0.2462, "title": "Point shear wave velocity(pSWV) evaluation of the placenta of pregnant women who had recovered from COVID-19: A prospective cohort study from a tertiary pandemic center."}
+{"pmid": "37323744", "dense_sim_medcpt": 0.8497, "bm25_score": 0.2455, "title": "Renal Complications Following COVID-19 Vaccination: A Narrative Literature Review."}
+{"pmid": "36951832", "dense_sim_medcpt": 0.8685, "bm25_score": 0.2166, "title": "Risk Factors Associated With Post-COVID-19 Condition: A Systematic Review and Meta-analysis."}
+{"pmid": "33428867", "dense_sim_medcpt": 0.8644, "bm25_score": 0.222, "title": "6-month consequences of COVID-19 in patients discharged from hospital: a cohort study."}
+{"pmid": "35437141", "dense_sim_medcpt": 0.8466, "bm25_score": 0.2489, "title": "18 months on: an interrupted time series analysis investigating the effect of COVID-19 on chlamydia and gonorrhoea testing and test positivity at the Gold Coast, Australia."}
+{"pmid": "39454249", "dense_sim_medcpt": 0.8553, "bm25_score": 0.2354, "title": "Unlike other medical conditions, type 2 diabetes is a risk factor for new-onset major depression after COVID-19."}
+{"pmid": "37334432", "dense_sim_medcpt": 0.824, "bm25_score": 0.2822, "title": "Effect of COVID-19 on sexual and reproductive functions of Egyptian males following recovery: A cross sectional study."}
+{"pmid": "38415466", "dense_sim_medcpt": 0.8545, "bm25_score": 0.2365, "title": "Does Postlong Coronavirus 2019 Disease Affect Renal Stiffness without any Chronic Systemic Disorders?"}
+{"pmid": "40100769", "dense_sim_medcpt": 0.8416, "bm25_score": 0.2558, "title": "Podocyte-Specific Protein Expression in Urine Exosome Acts as a Marker for Renal Injury in Post-COVID State."}
+{"pmid": "40142631", "dense_sim_medcpt": 0.8624, "bm25_score": 0.224, "title": "Long-Term Evolution of Post-COVID-19 Echocardiographic Parameters in Patients with Chronic Kidney Disease: A Prospective Comparative Observational Study."}
+{"pmid": "35881229", "dense_sim_medcpt": 0.8316, "bm25_score": 0.2701, "title": "Menstrual abnormalities post-COVID vaccination: a cross-sectional study on adult Lebanese women."}
+{"pmid": "35119395", "dense_sim_medcpt": 0.8332, "bm25_score": 0.267, "title": "Post-COVID-19 Unusual Inflammatory Syndromes Detected on 18F-FDG PET/CT Scan."}
+{"pmid": "40980657", "dense_sim_medcpt": 0.849, "bm25_score": 0.243, "title": "Community-Acquired Acute Kidney Injury and Late Kidney Dysfunction in Survivors of COVID-19 Hospitalization."}
+{"pmid": "40329717", "dense_sim_medcpt": 0.8527, "bm25_score": 0.2367, "title": "Navigating the COVID-19 Treatment Landscape: Efficacy and Side-Effects of Current Therapies against SARS-CoV-2."}
+{"pmid": "35669099", "dense_sim_medcpt": 0.819, "bm25_score": 0.2873, "title": "COVID-19 in Coincidence with Transient Distal Renal Tubular Acidosis in an Infant."}
+{"pmid": "41418608", "dense_sim_medcpt": 0.8522, "bm25_score": 0.2373, "title": "Estimating risk of long COVID using a Bayesian network-based decision support tool."}
+{"pmid": "40522614", "dense_sim_medcpt": 0.8344, "bm25_score": 0.2637, "title": "Granulomatous interstitial nephritis due to sarcoidosis following SARS-CoV-2 infection: a rare case report."}
+{"pmid": "35818655", "dense_sim_medcpt": 0.8585, "bm25_score": 0.2271, "title": "COVID-19 Pandemic-to-Endemic Transition in Indonesia: What Does the Future Hold?"}
+{"pmid": "41293404", "dense_sim_medcpt": 0.8533, "bm25_score": 0.235, "title": "Real-World Study on the Impact of Novel Coronavirus Infection on Male Erectile Function."}
+{"pmid": "36175361", "dense_sim_medcpt": 0.8371, "bm25_score": 0.259, "title": "Acute cerebellitis, transverse myelitis and polyradiculoneuritis related to post-COVID-19 infection."}
+{"pmid": "38944382", "dense_sim_medcpt": 0.8498, "bm25_score": 0.24, "title": "Association between post-COVID-19 conditions and male semen quality in Japan: A descriptive investigation."}
+{"pmid": "36587841", "dense_sim_medcpt": 0.8429, "bm25_score": 0.2501, "title": "A cohort study of post-COVID-19 condition across the Beta, Delta, and Omicron waves in South Africa: 6-month follow-up of hospitalized and nonhospitalized participants."}
+{"pmid": "34637599", "dense_sim_medcpt": 0.8449, "bm25_score": 0.2461, "title": "Sex and organ-specific risk of major adverse renal or cardiac events in solid organ transplant recipients with COVID-19."}
+{"pmid": "41068760", "dense_sim_medcpt": 0.8553, "bm25_score": 0.2302, "title": "Impact of the COVID-19 pandemic on regional and national uptake of HIV testing services in Sierra Leone: a descriptive analysis."}
+{"pmid": "40189695", "dense_sim_medcpt": 0.806, "bm25_score": 0.3036, "title": "Virtual reality enhanced mindfulness and yoga intervention for postpartum depression and anxiety in the post COVID era."}
+{"pmid": "36641756", "dense_sim_medcpt": 0.8298, "bm25_score": 0.2681, "title": "[Exacerbation of obstructive pulmonary diseases by SARS-CoV-2 infection in patients treated in the Pulmonology Clinic of Târgu Mures]."}
+{"pmid": "39506723", "dense_sim_medcpt": 0.8557, "bm25_score": 0.2291, "title": "Impact of COVID-19 on nephropathy in diabetes mellitus type-II patients: a systematic literature review and meta-analysis."}
+{"pmid": "35447302", "dense_sim_medcpt": 0.8468, "bm25_score": 0.2421, "title": "Six-month sequelae of post-vaccination SARS-CoV-2 infection: A retrospective cohort study of 10,024 breakthrough infections."}
+{"pmid": "38367183", "dense_sim_medcpt": 0.8353, "bm25_score": 0.2596, "title": "A case of late-onset organizing pneumonia following COVID-19 infection in a post-kidney transplant patient."}
+{"pmid": "39459463", "dense_sim_medcpt": 0.8558, "bm25_score": 0.2286, "title": "Maternal and Fetal Outcome of COVID-19 Infection among Pregnant Women."}
+{"pmid": "38574363", "dense_sim_medcpt": 0.85, "bm25_score": 0.2373, "title": "Premature Ovarian Insufficiency After Coronavirus Disease 2019 (COVID-19): Autoimmune Follicle-Stimulating Hormone (FSH) and FSH Receptor Blockade."}
+{"pmid": "34918990", "dense_sim_medcpt": 0.8537, "bm25_score": 0.2316, "title": "Long-Term Follow up of Renal and Other Acute Organ Failure in Survivors of Critical Illness Due to Covid-19."}
+{"pmid": "41836412", "dense_sim_medcpt": 0.848, "bm25_score": 0.2401, "title": "Principal component analysis of cytokine signature in COVID-19 and Long COVID."}
+{"pmid": "37602375", "dense_sim_medcpt": 0.8543, "bm25_score": 0.2307, "title": "Incidence of New-Onset Hypertension Post-COVID-19: Comparison With Influenza."}
+{"pmid": "36347056", "dense_sim_medcpt": 0.8212, "bm25_score": 0.2798, "title": "CROI 2022: neurologic complications of HIV-1, SARS-CoV-2, and other pathogens."}
+{"pmid": "40877593", "dense_sim_medcpt": 0.8626, "bm25_score": 0.2178, "title": "Assessment of smoking exposure by urine cotinine levels in severe COVID-19 patients: a case-control study."}
+{"pmid": "37995422", "dense_sim_medcpt": 0.8392, "bm25_score": 0.2528, "title": "Anxiety but not menopausal status influences the risk of long-COVID-19 syndrome in women living in Latin America."}
+{"pmid": "41599072", "dense_sim_medcpt": 0.8345, "bm25_score": 0.2593, "title": "Synergy of SARS-CoV-2 and HIV-1 Infections in the Human Brain."}
+{"pmid": "38418616", "dense_sim_medcpt": 0.8551, "bm25_score": 0.2284, "title": "Socioeconomic deprivation and illness trajectory in the Scottish population after COVID-19 hospitalization."}
+{"pmid": "36183694", "dense_sim_medcpt": 0.8423, "bm25_score": 0.2472, "title": "Evaluation of Outcomes of Peritoneal Dialysis Patients in the Post-COVID-19 Period: A National Multicenter Case-Control Study from Turkey."}
+{"pmid": "40587673", "dense_sim_medcpt": 0.8204, "bm25_score": 0.2798, "title": "Evaluating the impact of COVID-19 infection and vaccination on the presentation and severity of idiopathic granulomatous mastitis: A retrospective cohort study."}
+{"pmid": "38689605", "dense_sim_medcpt": 0.8623, "bm25_score": 0.2171, "title": "Impact of long COVID on health-related quality-of-life: an OpenSAFELY population cohort study using patient-reported outcome measures (OpenPROMPT)."}
+{"pmid": "37974147", "dense_sim_medcpt": 0.848, "bm25_score": 0.2382, "title": "The impact of SARS-COV-2 infection on menstruation."}
+{"pmid": "38180927", "dense_sim_medcpt": 0.8471, "bm25_score": 0.2392, "title": "A Case of COVID Cholangiopathy and Literature Review."}
+{"pmid": "39543003", "dense_sim_medcpt": 0.7939, "bm25_score": 0.3186, "title": "Expression Levels of PF4, ALOX12, ITGA2B, F131A in Pregnant COVID-19 Survivors."}
+{"pmid": "40757253", "dense_sim_medcpt": 0.8658, "bm25_score": 0.2105, "title": "Long COVID Syndrome, Mortality and Morbidity in Patients Hospitalized with COVID-19 From 16 Countries: The World Heart Federation Global COVID-19 Study."}
+{"pmid": "40682673", "dense_sim_medcpt": 0.8234, "bm25_score": 0.274, "title": "Characterization of HPV Vaccination Uptake by Birth Cohorts in a Healthcare System in Pennsylvania: A Post-COVID-19 Pandemic Historical Cohort Assessment."}
+{"pmid": "35336900", "dense_sim_medcpt": 0.8613, "bm25_score": 0.2171, "title": "Factors Associated with Severe COVID-19 and Post-Acute COVID-19 Syndrome in a Cohort of People Living with HIV on Antiretroviral Treatment and with Undetectable HIV RNA."}
+{"pmid": "34113150", "dense_sim_medcpt": 0.8612, "bm25_score": 0.2172, "title": "Viral Nephropathies, Adding SARS-CoV-2 to the List."}
+{"pmid": "35106196", "dense_sim_medcpt": 0.8412, "bm25_score": 0.247, "title": "Post-COVID-19 Acute Transverse Myelitis: A Case Report and Literature Review."}
+{"pmid": "36951829", "dense_sim_medcpt": 0.8602, "bm25_score": 0.2181, "title": "Association of Treatment With Nirmatrelvir and the Risk of Post-COVID-19 Condition."}
+{"pmid": "40496870", "dense_sim_medcpt": 0.8487, "bm25_score": 0.2351, "title": "Long COVID-19 autoantibodies and their potential effect on fertility."}
+{"pmid": "41144164", "dense_sim_medcpt": 0.8618, "bm25_score": 0.2156, "title": "Specialist Healthcare Intervention and Follow-up Trends in Post-Acute COVID-19 Hospitalization as Compared to Other Respiratory Infections."}
+{"pmid": "39846107", "dense_sim_medcpt": 0.8463, "bm25_score": 0.2386, "title": "COVID-19 impact on HIV PrEP uptake and retention at selected health facilities in Eswatini."}
+{"pmid": "37798650", "dense_sim_medcpt": 0.8365, "bm25_score": 0.253, "title": "Adipose-derived, autologous mesenchymal stem cell therapy for patients with post-COVID-19 syndrome: an intermediate-size expanded access program."}
+{"pmid": "37654668", "dense_sim_medcpt": 0.8459, "bm25_score": 0.2386, "title": "Clinical phenotypes and quality of life to define post-COVID-19 syndrome: a cluster analysis of the multinational, prospective ORCHESTRA cohort."}
+{"pmid": "37808590", "dense_sim_medcpt": 0.8362, "bm25_score": 0.2532, "title": "COVID-19 - a potential trigger for MOGAD-associated optic neuritis: a case report and literature review."}
+{"pmid": "35684944", "dense_sim_medcpt": 0.8507, "bm25_score": 0.2313, "title": "COVID-19 in kidney transplant recipients; a DALMATIAN single-center experience."}
+{"pmid": "37549214", "dense_sim_medcpt": 0.8423, "bm25_score": 0.2438, "title": "Exercise is the Most Important Medicine for COVID-19."}
+{"pmid": "37934678", "dense_sim_medcpt": 0.8448, "bm25_score": 0.2401, "title": "[Severe post-COVID-19 dialysis dependence and inpatient acute kidney injury]."}
+{"pmid": "38156683", "dense_sim_medcpt": 0.8529, "bm25_score": 0.2278, "title": "[Taxonomic characteristics and antibiotic susceptibility of microorganisms verified in the expressed prostate secretion in post-COVID-19 patients with recurrent chronic bacterial prostatitis]."}
+{"pmid": "40002841", "dense_sim_medcpt": 0.8662, "bm25_score": 0.2076, "title": "Solid Organ Transplants Caused by COVID-19 Infection and the Outcome of Transplantation Post-COVID-19: A Systematic Review."}
+{"pmid": "36974398", "dense_sim_medcpt": 0.8526, "bm25_score": 0.2278, "title": "De Novo Crescentic Glomerulonephritis Following COVID-19 Infection: A Pediatric Case Report."}
+{"pmid": "39949251", "dense_sim_medcpt": 0.8618, "bm25_score": 0.2141, "title": "Association between pre-existing cardiovascular risk factors and post-acute sequelae of COVID-19 in older adults."}
+{"pmid": "34265022", "dense_sim_medcpt": 0.8311, "bm25_score": 0.2602, "title": "SARS-CoV-2 infection in the Syrian hamster model causes inflammation as well as type I interferon dysregulation in both respiratory and non-respiratory tissues including the heart and kidney."}
+{"pmid": "39081420", "dense_sim_medcpt": 0.8535, "bm25_score": 0.2264, "title": "Comprehensive Insights Into the Multi-faceted Manifestations of COVID-19: A Narrative Review."}
+{"pmid": "40313005", "dense_sim_medcpt": 0.862, "bm25_score": 0.2133, "title": "Impact of COVID-19 and factors associated with long COVID and COVID-19 vaccine uptake in people with HIV in the United Kingdom: Results from Positive Voices 2022."}
+{"pmid": "36050390", "dense_sim_medcpt": 0.8368, "bm25_score": 0.2507, "title": "Multisystem inflammatory syndrome in children (MIS-C) and neonates (MIS-N) associated with COVID-19: optimizing definition and management."}
+{"pmid": "38111461", "dense_sim_medcpt": 0.8477, "bm25_score": 0.2341, "title": "Post-COVID-19 Demyelinating Disease and Its Effect on the Lower Urinary Tract: A Rare Case of a 14-Year-Old Man."}
+{"pmid": "37615741", "dense_sim_medcpt": 0.8453, "bm25_score": 0.2375, "title": "Delayed diagnosis and exacerbation of hyperlipidemia in idiopathic nephrotic syndrome in children during the COVID-19 pandemic."}
+{"pmid": "36731244", "dense_sim_medcpt": 0.8331, "bm25_score": 0.256, "title": "Fatal multisystem inflammatory syndrome in a 78-year-old adult after severe COVID-19 pneumonia during 2022 Omicron variant epidemic in Shanghai, China."}
+{"pmid": "36514781", "dense_sim_medcpt": 0.8363, "bm25_score": 0.2509, "title": "Long COVID: The latest manifestations, mechanisms, and potential therapeutic interventions."}
+{"pmid": "40072795", "dense_sim_medcpt": 0.8284, "bm25_score": 0.2623, "title": "Prevalence and Factors Associated With Hepatitis C Virus in Riyadh, Saudi Arabia: A Large Cross-Sectional Study."}
+{"pmid": "36793333", "dense_sim_medcpt": 0.8535, "bm25_score": 0.2245, "title": "Long COVID in children and adolescents: COVID-19 follow-up results in third-level pediatric hospital."}
+{"pmid": "36370774", "dense_sim_medcpt": 0.8337, "bm25_score": 0.2542, "title": "Systematic scoping review evaluating the potential of wastewater-based epidemiology for monitoring cardiovascular disease and cancer."}
+{"pmid": "37863433", "dense_sim_medcpt": 0.8046, "bm25_score": 0.2975, "title": "Clinical characteristics and outcomes of liver transplant recipients infected by Omicron during the opening up of the dynamic zero-coronavirus disease policy in China: A prospective, observational study."}
+{"pmid": "35866847", "dense_sim_medcpt": 0.8595, "bm25_score": 0.2151, "title": "Postacute sequelae and adaptive immune responses in people with HIV recovering from SARS-COV-2 infection."}
+{"pmid": "37740392", "dense_sim_medcpt": 0.8533, "bm25_score": 0.2242, "title": "SARS-CoV-2 Infection and Postacute Risk of Non-Coronavirus Disease 2019 Infectious Disease Hospitalizations: A Nationwide Cohort Study of Danish Adults Aged ≥50 Years."}
+{"pmid": "40364089", "dense_sim_medcpt": 0.8333, "bm25_score": 0.2533, "title": "Long-Term Effects of COVID-19 on Women's Reproductive Health and Its Association with Autoimmune Diseases, Including Multiple Sclerosis."}
+{"pmid": "36146913", "dense_sim_medcpt": 0.8512, "bm25_score": 0.2261, "title": "Exploring intersectional stigma and COVID-19 impact on human immunodeficiency virus service provision for African Americans in a Southern city."}
+{"pmid": "41824486", "dense_sim_medcpt": 0.8614, "bm25_score": 0.211, "title": "Early clinical and laboratory markers associated with post-COVID respiratory syndrome: A retrospective analysis."}
+{"pmid": "38870207", "dense_sim_medcpt": 0.8451, "bm25_score": 0.2351, "title": "Incidence, characteristics, and risk factors of new liver disorders 3.5 years post COVID-19 pandemic in the Montefiore Health System in Bronx."}
+{"pmid": "36010203", "dense_sim_medcpt": 0.8717, "bm25_score": 0.1951, "title": "Long-Term Health Consequences of SARS-CoV-2: Assumptions Based on SARS-CoV-1 and MERS-CoV Infections."}
+{"pmid": "37731437", "dense_sim_medcpt": 0.8301, "bm25_score": 0.2575, "title": "COVID-19-Associated Rhino-Orbital Mucormycosis in a Tertiary Health Care Center in Odisha, India."}
+{"pmid": "41798665", "dense_sim_medcpt": 0.8154, "bm25_score": 0.2793, "title": "Current Trends and Future Perspectives of Bradycardia, Renal Failure, Atrioventricular Nodal Blockade, Shock, and Hyperkalemia (BRASH) Syndrome: A Narrative Review."}
+{"pmid": "32738141", "dense_sim_medcpt": 0.8234, "bm25_score": 0.2672, "title": "Immunoserologic Detection and Diagnostic Relevance of Cross-Reactive Autoantibodies in Coronavirus Disease 2019 Patients."}
+{"pmid": "40010631", "dense_sim_medcpt": 0.8448, "bm25_score": 0.235, "title": "Risk of postacute sequelae of COVID-19 and oral antivirals in adults aged over 60 years: A nationwide retrospective cohort study."}
+{"pmid": "37128527", "dense_sim_medcpt": 0.8537, "bm25_score": 0.2214, "title": "Predictors of Mortality Among Post-COVID-19 Discharged Patients in Northern India: A Case-Control Study."}
+{"pmid": "38088242", "dense_sim_medcpt": 0.8384, "bm25_score": 0.2438, "title": "Circulating haematopoietic stem cells and long-term outcomes of COVID-19."}
+{"pmid": "37253346", "dense_sim_medcpt": 0.8325, "bm25_score": 0.2523, "title": "The Change of Erectile Function Post Recovery from COVID-19 Infection."}
+{"pmid": "35804207", "dense_sim_medcpt": 0.8481, "bm25_score": 0.2292, "title": "High mortality and residual kidney damage with Coronavirus disease-19-associated acute kidney injury in northern India."}
+{"pmid": "37396721", "dense_sim_medcpt": 0.8615, "bm25_score": 0.2086, "title": "Post-COVID-19 Complications and their Laboratory Findings: A Cohort Study."}
+{"pmid": "37045547", "dense_sim_medcpt": 0.85, "bm25_score": 0.2253, "title": "Decreased Neisseria gonorrhoeae genotypic diversity following COVID-19 restrictions in Queensland, Australia 2020."}
+{"pmid": "41273049", "dense_sim_medcpt": 0.8426, "bm25_score": 0.2364, "title": "Urinary Peptidomic Profiling In Post-Acute Sequelae of SARS-CoV-2 Infection: A Case-Control Study."}
+{"pmid": "40667844", "dense_sim_medcpt": 0.8371, "bm25_score": 0.2444, "title": "Association of Nirmatrelvir/Ritonavir and the Risk of Long COVID Among US Adults: A Multicenter Retrospective Cohort Study."}
+{"pmid": "36945967", "dense_sim_medcpt": 0.8296, "bm25_score": 0.2553, "title": "A comparison of antibody response in kidney transplant recipients and healthcare workers who had PCR-confirmed COVID-19 infection."}
+{"pmid": "35607386", "dense_sim_medcpt": 0.8527, "bm25_score": 0.2207, "title": "Immune-mediated adverse events post-COVID vaccination and types of vaccines: a systematic review and meta-analysis."}
+{"pmid": "35256450", "dense_sim_medcpt": 0.8556, "bm25_score": 0.2162, "title": "Long COVID and episodic disability: advancing the conceptualisation, measurement and knowledge of episodic disability among people living with Long COVID - protocol for a mixed-methods study."}
+{"pmid": "38400130", "dense_sim_medcpt": 0.8448, "bm25_score": 0.2316, "title": "Predictors of Acute Kidney Injury (AKI) among COVID-19 Patients at the US Department of Veterans Affairs: The Important Role of COVID-19 Vaccinations."}
+{"pmid": "34435456", "dense_sim_medcpt": 0.8408, "bm25_score": 0.2373, "title": "Impact of COVID-19 pandemic on lower urinary tract symptoms in patients with benign prostatic hyperplasia and predictors of urine retention in such patients."}
+{"pmid": "41510433", "dense_sim_medcpt": 0.8356, "bm25_score": 0.245, "title": "Post-Infectious Acute Transverse Myelitis in a COVID-19 Patient."}
+{"pmid": "40085386", "dense_sim_medcpt": 0.8312, "bm25_score": 0.2507, "title": "Prevalence and Clinical Features of Pulmonary Embolism in Pregnancy and Puerperium in the Post-COVID-19 Era."}
+{"pmid": "34370958", "dense_sim_medcpt": 0.8465, "bm25_score": 0.2277, "title": "Posterior reversible encephalopathy syndrome during convalescence from COVID-19."}
+{"pmid": "41825703", "dense_sim_medcpt": 0.8515, "bm25_score": 0.2199, "title": "Menstrual cycle patterns during acute and long COVID-19 infection among a cohort of individuals with regular menstrual cycles."}
+{"pmid": "36018121", "dense_sim_medcpt": 0.8547, "bm25_score": 0.2153, "title": "Fundus findings in patients admitted with post COVID-19 sepsis in an intensive care unit."}
+{"pmid": "38406070", "dense_sim_medcpt": 0.8135, "bm25_score": 0.2769, "title": "Toxic Shock Syndrome: Eighteen Years of Experience in a Pediatric Intensive Care Unit."}
+{"pmid": "34626600", "dense_sim_medcpt": 0.8239, "bm25_score": 0.2612, "title": "Variation of Serum PSA Levels in COVID-19 Infected Male Patients with Benign Prostatic Hyperplasia (BPH): A Prospective Cohort Studys."}
+{"pmid": "35942159", "dense_sim_medcpt": 0.8554, "bm25_score": 0.214, "title": "The current status of gene expression profilings in COVID-19 patients."}
+{"pmid": "40024245", "dense_sim_medcpt": 0.8527, "bm25_score": 0.2178, "title": "Modifications to Prostate Cancer Diagnosis following COVID-19 and Following Models."}
+{"pmid": "40757676", "dense_sim_medcpt": 0.8211, "bm25_score": 0.2647, "title": "First Case of Chryseobacterium gleum Post-COVID-19 in a Child with Recurrent Fever."}
+{"pmid": "38673655", "dense_sim_medcpt": 0.8598, "bm25_score": 0.2065, "title": "Immunomodulatory Effect of COVID-19 on HLA-Antibody Profile in Renal Transplant Recipients."}
+{"pmid": "38978683", "dense_sim_medcpt": 0.8499, "bm25_score": 0.2214, "title": "Post-acute and Chronic Kidney Function Outcomes of COVID-19 in Children and Adolescents: An EHR Cohort Study from the RECOVER Initiative."}
+{"pmid": "37056110", "dense_sim_medcpt": 0.8619, "bm25_score": 0.2026, "title": "Are patients with Covid-19 at risk of long-term chronic kidney disease?"}
+{"pmid": "36648915", "dense_sim_medcpt": 0.8486, "bm25_score": 0.2224, "title": "Determinants of 1-Year Adverse Event Requiring Re-Hospitalization in COVID-19 Oldest Old Survivors."}
+{"pmid": "36793837", "dense_sim_medcpt": 0.8312, "bm25_score": 0.2486, "title": "Post-COVID Multisystem Inflammatory Syndrome-Adult Leading to Cardiomyopathy and Autoimmune Thyroiditis: A Case Report."}
+{"pmid": "36632122", "dense_sim_medcpt": 0.8437, "bm25_score": 0.2297, "title": "Secondary sclerosing cholangitis in a young COVID-19 patient resulting in death: A case report."}
+{"pmid": "40502815", "dense_sim_medcpt": 0.8237, "bm25_score": 0.2589, "title": "The Clinical and Metabolic Profiles in Menstrual Changes Among Reproductive-Aged Women Post-COVID-19."}
+{"pmid": "40517901", "dense_sim_medcpt": 0.8241, "bm25_score": 0.2583, "title": "Characterization of post-acute multi-organ sequelae following dengue infection."}
+{"pmid": "33546905", "dense_sim_medcpt": 0.8559, "bm25_score": 0.2102, "title": "Impact of COVID-19 outbreak on urology surgical waiting lists and waiting lists prioritization strategies in the Post-COVID-19 era."}
+{"pmid": "40150021", "dense_sim_medcpt": 0.8628, "bm25_score": 0.1997, "title": "The Impact of Prior COVID-19 on Long-Term Mortality and Echocardiographic Predictors in Chronic Kidney Disease Patients."}
+{"pmid": "36252801", "dense_sim_medcpt": 0.8509, "bm25_score": 0.2175, "title": "Maternal and Neonatal Outcomes Associated with Mild COVID-19 Infection in an Obstetric Cohort in Brazil."}
+{"pmid": "32666857", "dense_sim_medcpt": 0.826, "bm25_score": 0.2545, "title": "Social Support is Key to Retention in Care during Covid-19 Pandemic among Older People with HIV and Substance Use Disorders in Ukraine."}
+{"pmid": "39056070", "dense_sim_medcpt": 0.8502, "bm25_score": 0.2182, "title": "Effects of ACE inhibitor/ARB therapy and long COVID on kidney disease: a retrospective cohort study using real-world data."}
+{"pmid": "39810992", "dense_sim_medcpt": 0.8432, "bm25_score": 0.2287, "title": "Post-COVID Hypertension With Hyperreninemic Hyperaldosteronism in a Pediatric Patient."}
+{"pmid": "36203555", "dense_sim_medcpt": 0.8431, "bm25_score": 0.2287, "title": "Clinical Subphenotypes of Multisystem Inflammatory Syndrome in Children: An EHR-based cohort study from the RECOVER program."}
+{"pmid": "40607367", "dense_sim_medcpt": 0.8189, "bm25_score": 0.265, "title": "Incident obstructive sleep apnea in patients with primary aldosteronism following COVID-19 infection: a health global federated network analysis."}
+{"pmid": "35346138", "dense_sim_medcpt": 0.8476, "bm25_score": 0.2216, "title": "\"Like before, but not exactly\": the Qualy-REACT qualitative inquiry into the lived experience of long COVID."}
+{"pmid": "40161414", "dense_sim_medcpt": 0.8624, "bm25_score": 0.1995, "title": "Clinical Outcomes and Healthcare Utilization in Patients Receiving Maintenance Dialysis After the Onset of the COVID-19 Pandemic in Ontario, Canada."}
+{"pmid": "39048969", "dense_sim_medcpt": 0.8283, "bm25_score": 0.2504, "title": "Time-dependent analysis of erectile dysfunction in kidney transplant recipients: insights from four distinct time periods."}
+{"pmid": "35350707", "dense_sim_medcpt": 0.8565, "bm25_score": 0.2076, "title": "Management strategies and outcomes in renal transplant recipients recovering from COVID-19: A retrospective, multicentre, cohort study."}
+{"pmid": "36106337", "dense_sim_medcpt": 0.8327, "bm25_score": 0.243, "title": "SARS-CoV-2 neutralizing antibody response after three doses of mRNA1273 vaccine and COVID-19 in hemodialysis patients."}
+{"pmid": "37516715", "dense_sim_medcpt": 0.8314, "bm25_score": 0.2446, "title": "Amino acids, post-translational modifications, nitric oxide, and oxidative stress in serum and urine of long COVID and ex COVID human subjects."}
+{"pmid": "36291993", "dense_sim_medcpt": 0.8451, "bm25_score": 0.2239, "title": "Pericarditis and Takotsubo Syndrome-Diagnosis of Cardiac Complications of Post-Acute COVID-19 Syndrome in a 77-Year-Old Woman."}
+{"pmid": "36233830", "dense_sim_medcpt": 0.8608, "bm25_score": 0.2003, "title": "Myocardial Injury Portends a Higher Risk of Mortality and Long-Term Cardiovascular Sequelae after Hospital Discharge in COVID-19 Survivors."}
+{"pmid": "34774843", "dense_sim_medcpt": 0.857, "bm25_score": 0.2052, "title": "COVID-19 Survival and its impact on chronic kidney disease."}
+{"pmid": "38827678", "dense_sim_medcpt": 0.8654, "bm25_score": 0.1927, "title": "Prevalence and determinants of post-COVID-19 syndrome among patients 6 months post-discharge from a teaching hospital in South India."}
+{"pmid": "40112857", "dense_sim_medcpt": 0.8364, "bm25_score": 0.2362, "title": "A neglected geriatric syndrome: assessment of self-neglect in the shadow of COVID-19."}
+{"pmid": "36936206", "dense_sim_medcpt": 0.8554, "bm25_score": 0.2076, "title": "Mortality and survival in nonagenarians during the COVID-19 pandemic: Unstable equilibrium of aging."}
+{"pmid": "39391264", "dense_sim_medcpt": 0.8432, "bm25_score": 0.2256, "title": "Management of Kidney Transplant Outpatients With COVID-19: A Single Center Experience."}
+{"pmid": "32406551", "dense_sim_medcpt": 0.858, "bm25_score": 0.203, "title": "The impact of the coronavirus disease 2019 pandemic on the utilisation of emergency urological services."}
+{"pmid": "37107908", "dense_sim_medcpt": 0.8347, "bm25_score": 0.2379, "title": "Changes in Injury Pattern and Outcomes of Trauma Patients after COVID-19 Pandemic: A Retrospective Cohort Study."}
+{"pmid": "40012912", "dense_sim_medcpt": 0.8503, "bm25_score": 0.2141, "title": "Immunologic and inflammatory consequences of SARS-CoV-2 infection and its implications in renal disease."}
+{"pmid": "37260447", "dense_sim_medcpt": 0.8442, "bm25_score": 0.2228, "title": "Post-COVID-19 syndrome and diabetes mellitus: a propensity-matched analysis of the International HOPE-II COVID-19 Registry."}
+{"pmid": "34565332", "dense_sim_medcpt": 0.8553, "bm25_score": 0.2062, "title": "Addressing the 'hypoxia paradox' in severe COVID-19: literature review and report of four cases treated with erythropoietin analogues."}
+{"pmid": "39829160", "dense_sim_medcpt": 0.8678, "bm25_score": 0.1874, "title": "The COVID-19 pandemic and Urology - reflecting on successful initiatives and lessons in Australia."}
+{"pmid": "40559563", "dense_sim_medcpt": 0.8605, "bm25_score": 0.1981, "title": "Digestive Manifestations of Post-COVID-19: A Focus on Therapeutic Strategies."}
+{"pmid": "39150646", "dense_sim_medcpt": 0.8269, "bm25_score": 0.2477, "title": "The Role of Dental-derived Stem Cell-based Therapy and Their Derived Extracellular Vesicles in Post-COVID-19 Syndrome-induced Tissue Damage."}
+{"pmid": "34472811", "dense_sim_medcpt": 0.8554, "bm25_score": 0.2048, "title": "The Pattern of Post-viral Arthritis in COVID Pandemic State: An Experience of Tertiary Care Centre."}
+{"pmid": "33683246", "dense_sim_medcpt": 0.8358, "bm25_score": 0.234, "title": "A novel multi-omics-based highly accurate prediction of symptoms, comorbid conditions, and possible long-term complications of COVID-19."}
+{"pmid": "38231194", "dense_sim_medcpt": 0.8505, "bm25_score": 0.2112, "title": "A global perspective: characteristics of infertility-related randomized clinical trials."}
+{"pmid": "37870719", "dense_sim_medcpt": 0.8604, "bm25_score": 0.1962, "title": "New-Onset Acute Interstitial Nephritis Post-SARS-CoV-2 Infection and COVID-19 Vaccination: A Panoramic Review."}
+{"pmid": "40227084", "dense_sim_medcpt": 0.8353, "bm25_score": 0.2335, "title": "Post-acute sequelae of COVID-19 in people of Black ethnicities living with HIV in the United Kingdom."}
+{"pmid": "34017152", "dense_sim_medcpt": 0.8508, "bm25_score": 0.2102, "title": "[Impact of COVID-19 outbreak on urology surgical waiting lists and waiting lists prioritization strategies in the Post-COVID-19 era]."}
+{"pmid": "41195130", "dense_sim_medcpt": 0.8312, "bm25_score": 0.2396, "title": "Factors associated with critical care needs in patients presenting with ST-elevation myocardial infarction: impact of early decompensation and culprit lesions."}
+{"pmid": "41088275", "dense_sim_medcpt": 0.8441, "bm25_score": 0.2198, "title": "Healthcare gaps and inequities following hospitalisation for COVID-19 in Brazil's universal healthcare system: a patient-engaged survey of Long COVID healthcare needs, use and barriers."}
+{"pmid": "38751418", "dense_sim_medcpt": 0.8404, "bm25_score": 0.225, "title": "Mental health, COVID-19 burden and quality of life of kidney transplant recipients two years after the COVID-19 pandemic."}
+{"pmid": "40107106", "dense_sim_medcpt": 0.8405, "bm25_score": 0.2244, "title": "Effects of early-life air pollution exposure on childhood COVID-19 infection and sequelae in China."}
+{"pmid": "39631173", "dense_sim_medcpt": 0.8547, "bm25_score": 0.2027, "title": "Persistent post COVID-19: Implications for women's health research and policy from members of the Women's Health Expert Panel of the American Academy of Nursing."}
+{"pmid": "41812698", "dense_sim_medcpt": 0.8612, "bm25_score": 0.1916, "title": "Comparison of SARS-CoV-2 variant pathogenicity in a long-COVID Syrian hamster model."}
+{"pmid": "34237419", "dense_sim_medcpt": 0.8709, "bm25_score": 0.1766, "title": "Rheumatological complications of Covid 19."}
+{"pmid": "38021575", "dense_sim_medcpt": 0.8442, "bm25_score": 0.2161, "title": "Pre- and Post-COVID-19 Appraisal of Antimicrobial Susceptibility for Urinary Tract Infections at an Outpatient Setting of a Tertiary Care Hospital in Delhi."}
+{"pmid": "32327290", "dense_sim_medcpt": 0.8308, "bm25_score": 0.2362, "title": "\"Ramping up telemedicine in pediatric urology- Tips for using a new modality\"."}
+{"pmid": "34816319", "dense_sim_medcpt": 0.8307, "bm25_score": 0.2363, "title": "Post-COVID-19 longitudinally extensive transverse myelitis: is it a new entity?"}
+{"pmid": "37796141", "dense_sim_medcpt": 0.8377, "bm25_score": 0.2257, "title": "Current status of exercise and its impact on quality of life in patients undergoing peritoneal dialysis in the post-COVID-19 period."}
+{"pmid": "39736159", "dense_sim_medcpt": 0.8516, "bm25_score": 0.2046, "title": "Post-acute sequelae of SARS-CoV-2 and kidney events in U.S. active component service members, March 1, 2020-September 30, 2022."}
+{"pmid": "36687403", "dense_sim_medcpt": 0.8434, "bm25_score": 0.2168, "title": "Chinese medicine for residual symptoms of COVID-19 recovered patients (long COVID)-A double-blind, randomized, and placebo-controlled clinical trial protocol."}
+{"pmid": "37953471", "dense_sim_medcpt": 0.8435, "bm25_score": 0.2167, "title": "The Other Pandemic From the Pandemic: A Higher Frequency of Long COVID After Omicron in Kidney Transplant Recipients."}
+{"pmid": "35668818", "dense_sim_medcpt": 0.8436, "bm25_score": 0.216, "title": "Myelin oligodendrocyte glycoprotein antibody-associated optic neuritis and myelitis in COVID-19: a case report and a review of the literature."}
+{"pmid": "39553103", "dense_sim_medcpt": 0.8473, "bm25_score": 0.21, "title": "Spontaneous Resolution of Post-COVID-19-Associated Sacral Neuromodulation Device Dysfunction and Overactive Bladder Symptoms: A Report of Two Cases."}
+{"pmid": "39842762", "dense_sim_medcpt": 0.846, "bm25_score": 0.2118, "title": "Recommendations to Advance Social Connectedness in End Stage Kidney Disease Care in a Post-COVID-19 Era."}
+{"pmid": "37180570", "dense_sim_medcpt": 0.8138, "bm25_score": 0.2601, "title": "Coronary Stent Abscess in the Setting of Arteriovenous Graft Infection following COVID-19: An Autopsy Case Report."}
+{"pmid": "38821384", "dense_sim_medcpt": 0.8586, "bm25_score": 0.1925, "title": "Sedation vs. general anesthesia in stone ureteroscopy: Comparison of efficacy and safety, a post COVID-19 report."}
+{"pmid": "40454844", "dense_sim_medcpt": 0.8467, "bm25_score": 0.2102, "title": "Changes in the Epidemiology of High-Risk HPV Genital Tract Infections Among Women in Shanghai: A Pre- and Post-COVID-19 Pandemic Analysis (2013-2024)."}
+{"pmid": "41302623", "dense_sim_medcpt": 0.8426, "bm25_score": 0.216, "title": "The Impact of COVID-19 on Racial and Ethnic Disparities in HIV Pre-Exposure Prophylaxis Retention: Data from a Large U.S. Health Care Organization."}
+{"pmid": "41832744", "dense_sim_medcpt": 0.8589, "bm25_score": 0.1914, "title": "Towards Ending HIV/AIDS by 2030: Trajectory of Sub-Saharan Africa-A Post-COVID-19 (2019-2024) Review."}
+{"pmid": "34504052", "dense_sim_medcpt": 0.8537, "bm25_score": 0.1985, "title": "Diffuse Lymphadenopathy Syndrome as a Flare-Up Manifestation in Lupus and Mixed Connective Tissue Disease Following Mild COVID-19."}
+{"pmid": "41156656", "dense_sim_medcpt": 0.8391, "bm25_score": 0.2203, "title": "Mitochondrial Dysfunction in Aging, HIV, and Long COVID: Mechanisms and Therapeutic Opportunities."}
+{"pmid": "35938938", "dense_sim_medcpt": 0.8391, "bm25_score": 0.2204, "title": "The prospective screening for SARS-CoV-2 S1/S2 antibodies delineates the factual incidence of COVID-19 and shows a sustained serological response post COVID-19 in kidney transplant recipients."}
+{"pmid": "41042828", "dense_sim_medcpt": 0.8483, "bm25_score": 0.2067, "title": "Severe dengue in adults: Clinical features from the 2022 dengue outbreak at a Vietnamese tertiary hospital."}
+{"pmid": "34812744", "dense_sim_medcpt": 0.8651, "bm25_score": 0.1807, "title": "The impact of coronavirus disease 2019 on people with HIV."}
+{"pmid": "37869161", "dense_sim_medcpt": 0.8296, "bm25_score": 0.2337, "title": "A cross-sectional study confirms temporary post-COVID-19 vaccine menstrual irregularity and the associated physiological changes among vaccinated women in Jordan."}
+{"pmid": "38023357", "dense_sim_medcpt": 0.8254, "bm25_score": 0.2402, "title": "Interactions between the principal risk factors for reduction of the eGFR in unvaccinated COVID‑19 survivors: Normal pre-COVID‑19 eGFR, not having diabetes and being hospitalized."}
+{"pmid": "36689715", "dense_sim_medcpt": 0.8277, "bm25_score": 0.2363, "title": "[The impact of BMI on the course of the acute SARS-COV-2 infection and the risks that emerge during the first year after the hospital discharge. Subanalysis evidence of the AKTIV and AKTIV 2 registries]."}
+{"pmid": "38317228", "dense_sim_medcpt": 0.8374, "bm25_score": 0.2216, "title": "A retrospective analysis of acute kidney injury in children with post-COVID-19 multisystem inflammatory syndrome: insights into promising outcomes."}
+{"pmid": "32731751", "dense_sim_medcpt": 0.8226, "bm25_score": 0.244, "title": "Lessons Learnt (Clinical Outcomes and Cost Savings) from Virtual Stone Clinic and Their Application in the Era Post-COVID-19: Prospective Outcomes over a 6-Year Period from a University Teaching Hospital."}
+{"pmid": "40900756", "dense_sim_medcpt": 0.8497, "bm25_score": 0.2032, "title": "The effects of COVID-19 on semen parameter values in healthy males: a single-centre, retrospective study."}
+{"pmid": "38052509", "dense_sim_medcpt": 0.8487, "bm25_score": 0.2045, "title": "Healthcare-associated infections in critical COVID-19 patients in Tunis: epidemiology, risk factors, and outcomes."}
+{"pmid": "37373595", "dense_sim_medcpt": 0.8485, "bm25_score": 0.2045, "title": "Evaluation of the Humoral and Cellular Immune Response Post COVID-19 Infection in Kidney Transplant Recipients."}
+{"pmid": "37771078", "dense_sim_medcpt": 0.8574, "bm25_score": 0.1903, "title": "COVID-19 and cardiovascular disease in patients with chronic kidney disease."}
+{"pmid": "40922336", "dense_sim_medcpt": 0.825, "bm25_score": 0.2387, "title": "Thromboembolic safety and clinical benefits of tranexamic acid beyond hemostasis in post-COVID-19 patients undergoing major arthroplasty: A STROBE-compliant retrospective study."}
+{"pmid": "35246288", "dense_sim_medcpt": 0.8673, "bm25_score": 0.1751, "title": "Long-Term Effects of COVID-19."}
+{"pmid": "38725901", "dense_sim_medcpt": 0.8235, "bm25_score": 0.24, "title": "Renal artery pseudoaneurysm post-COVID-19 infection: An unusual delayed complication."}
+{"pmid": "40799986", "dense_sim_medcpt": 0.8311, "bm25_score": 0.2288, "title": "Anxiety and Depressive Symptoms Among Kidney Transplant Recipients in Post-COVID-19 China: Prevalence and Risk Factors."}
+{"pmid": "38920014", "dense_sim_medcpt": 0.8494, "bm25_score": 0.2008, "title": "The digital era of pediatric urological clinical care: telemedicine for management of lower urinary tract symptoms and nocturnal enuresis - a comprehensive tertiary center insight."}
+{"pmid": "35490385", "dense_sim_medcpt": 0.8393, "bm25_score": 0.2157, "title": "[Anesthesia and perioperative considerations for patients with prior SARS-CoV-2 infection]."}
+{"pmid": "33219920", "dense_sim_medcpt": 0.8652, "bm25_score": 0.1767, "title": "COVID-19 pandemic impact on clinical outcomes of patients with obstructive pyelonephritis."}
+{"pmid": "40503239", "dense_sim_medcpt": 0.852, "bm25_score": 0.1961, "title": "Patients With Type 2 Diabetes Are at Greater Risk of Developing New Hypertension and Chronic Kidney Disease Following COVID-19."}
+{"pmid": "40063204", "dense_sim_medcpt": 0.8461, "bm25_score": 0.2049, "title": "HIV Testing Pre- and Post-COVID-19 Pandemic Among Persons who Inject Drugs - National HIV Behavioral Surveillance, 19 Cities, 2018 and 2022."}
+{"pmid": "39642281", "dense_sim_medcpt": 0.8461, "bm25_score": 0.2043, "title": "Impact of COVID-19 Pandemic on HIV Testing, Recent Infections, and Annualized Incidence Among Cisgender Men Who Have Sex With Men and Transgender Women in Brazil."}
+{"pmid": "36906052", "dense_sim_medcpt": 0.8447, "bm25_score": 0.2065, "title": "Autoantibodies targeting G protein-coupled receptors: An evolving history in autoimmunity. Report of the 4th international symposium."}
+{"pmid": "37004106", "dense_sim_medcpt": 0.8143, "bm25_score": 0.2515, "title": "Evidence of secular trends during the COVID-19 pandemic in a stepped wedge cluster randomized trial examining sexual and reproductive health outcomes among Indigenous youth."}
+{"pmid": "33903839", "dense_sim_medcpt": 0.8223, "bm25_score": 0.2396, "title": "A Case Report of Severe Hyponatremia Secondary to Coronavirus Disease 2019 Viral Pneumonia."}
+{"pmid": "37975661", "dense_sim_medcpt": 0.8575, "bm25_score": 0.1864, "title": "Nucleocapsid protein accumulates in renal tubular epithelium of a post-COVID-19 patient."}
+{"pmid": "37604249", "dense_sim_medcpt": 0.8542, "bm25_score": 0.1911, "title": "Acquired Immune Deficiency Syndrome correlation with SARS-CoV-2 N genotypes."}
+{"pmid": "36066294", "dense_sim_medcpt": 0.8463, "bm25_score": 0.2025, "title": "Multisystem involvement in COVID-19: what have we learnt?"}
+{"pmid": "37268479", "dense_sim_medcpt": 0.8401, "bm25_score": 0.2119, "title": "Effect of COVID-19 pneumonia infection control protocols on nosocomial infection incidence in trauma patients."}
+{"pmid": "38046558", "dense_sim_medcpt": 0.8506, "bm25_score": 0.1957, "title": "Covid-19 and Pre-Morbid Lifestyle-Related Risk Factors-A Review."}
+{"pmid": "38599262", "dense_sim_medcpt": 0.838, "bm25_score": 0.2142, "title": "CT-derived vertebral bone mineral density is a useful biomarker to predict COVID-19 outcome."}
+{"pmid": "36972892", "dense_sim_medcpt": 0.8548, "bm25_score": 0.1886, "title": "Association of laparoscopically-confirmed endometriosis with long COVID-19: a prospective cohort study."}
+{"pmid": "34915771", "dense_sim_medcpt": 0.8481, "bm25_score": 0.1984, "title": "3-Month Symptom-Based Ambidirectional Follow-up Study Among Recovered COVID-19 Patients from a Tertiary Care Hospital Using Telehealth in Chennai, India."}
+{"pmid": "40703866", "dense_sim_medcpt": 0.841, "bm25_score": 0.2091, "title": "Study of Management of Mucormycosis in COVID and Post-COVID Patients with Liposomal Amphotericin B its Outcome and Complications in a dedicated COVID Hospital from Eastern India."}
+{"pmid": "39691956", "dense_sim_medcpt": 0.8013, "bm25_score": 0.2683, "title": "Post-COVID-19 inflammation and sarcopenia in obese diabetic dialysis patients."}
+{"pmid": "35903864", "dense_sim_medcpt": 0.8418, "bm25_score": 0.2071, "title": "Successful restart of chemotherapy in a patient with primary mediastinal nonseminomatous germ cell tumor after COVID-19 infection."}
+{"pmid": "35228869", "dense_sim_medcpt": 0.8449, "bm25_score": 0.2024, "title": "Post-COVID-19 vaccine medium-vessel vasculitis and acute anterior uveitis, causation vs temporal relation; case report and literature review."}
+{"pmid": "34763669", "dense_sim_medcpt": 0.8426, "bm25_score": 0.2057, "title": "Minimal change disease following the Moderna COVID-19 vaccine: first case report."}
+{"pmid": "39229755", "dense_sim_medcpt": 0.8358, "bm25_score": 0.2153, "title": "Acceptability of Teleconsultation Services for HIV Care in Nigeria: A Mixed Methods Study."}
+{"pmid": "38219855", "dense_sim_medcpt": 0.8425, "bm25_score": 0.2049, "title": "Abnormal uterine bleeding diagnoses and care following COVID-19 vaccination."}
+{"pmid": "39886784", "dense_sim_medcpt": 0.8317, "bm25_score": 0.2208, "title": "Clinicopathological and in silico Insights into Male Infertility: Age-related Trends and Anti-sperm Antibodies Post COVID-19 Vaccination."}
+{"pmid": "36312654", "dense_sim_medcpt": 0.836, "bm25_score": 0.2146, "title": "Nephrotic Syndrome in Adult Patients With COVID-19 Infection or Post COVID-19 Vaccine: A Systematic Review."}
+{"pmid": "35041128", "dense_sim_medcpt": 0.8526, "bm25_score": 0.1891, "title": "Post COVID-19 pneumo-hematocele: clinical presentation and treatment pathway."}
+{"pmid": "41509863", "dense_sim_medcpt": 0.8308, "bm25_score": 0.2216, "title": "Association between Mycoplasma pneumoniae infection and adverse pregnancy outcome: a propensity score weighting study."}
+{"pmid": "36846637", "dense_sim_medcpt": 0.8397, "bm25_score": 0.2074, "title": "Focal Crescentic Glomerulonephritis Following COVID-19 Viral Vector Vaccination."}
+{"pmid": "40694430", "dense_sim_medcpt": 0.8335, "bm25_score": 0.2168, "title": "Implementation of a Kidney Screening Intervention to Improve Early CKD Detection in Adults with Diabetes."}
+{"pmid": "35812220", "dense_sim_medcpt": 0.8329, "bm25_score": 0.2175, "title": "The Potential Use of Carnosine in Diabetes and Other Afflictions Reported in Long COVID Patients."}
+{"pmid": "38705968", "dense_sim_medcpt": 0.8457, "bm25_score": 0.1981, "title": "Coronavirus Disease 2019 Outcomes in Amyloid A Protein Amyloidosis Secondary to Rheumatic Conditions and Signs of Post- Coronavirus Disease 2019 Proteinuria Progression."}
+{"pmid": "38194697", "dense_sim_medcpt": 0.8545, "bm25_score": 0.1843, "title": "How the COVID-19 pandemic and the health system's response reduced HIV testing and increased late diagnoses in Mexico."}
+{"pmid": "38413389", "dense_sim_medcpt": 0.8444, "bm25_score": 0.1989, "title": "COVID-19 in the Netherlands: lessons from a nationwide query of dutch autopsy, histology, and cytology pathological reports."}
+{"pmid": "33687179", "dense_sim_medcpt": 0.8597, "bm25_score": 0.1761, "title": "Coronavirus disease 2019 and cardiovascular complications: focused clinical review."}
+{"pmid": "37175509", "dense_sim_medcpt": 0.837, "bm25_score": 0.2097, "title": "Deciphering the Relationship between SARS-CoV-2 and Cancer."}
+{"pmid": "35785029", "dense_sim_medcpt": 0.8446, "bm25_score": 0.198, "title": "Mast Cell Activation Syndrome in COVID-19 and Female Reproductive Function: Theoretical Background vs. Accumulating Clinical Evidence."}
+{"pmid": "37055928", "dense_sim_medcpt": 0.839, "bm25_score": 0.2062, "title": "Post COVID-19 AA amyloidosis of the kidneys with rapidly progressive renal failure."}
+{"pmid": "40510799", "dense_sim_medcpt": 0.8293, "bm25_score": 0.2205, "title": "Concentrations of uremic bacterial metabolites in patients with post-COVID-19 syndrome."}
+{"pmid": "34248962", "dense_sim_medcpt": 0.8419, "bm25_score": 0.2017, "title": "Case Report: Adult Post-COVID-19 Multisystem Inflammatory Syndrome and Thrombotic Microangiopathy."}
+{"pmid": "36579288", "dense_sim_medcpt": 0.835, "bm25_score": 0.2119, "title": "Fatality Chooses Its Path Through the Orbit: A Study of Rhino-Orbito-Cerebral Mucormycosis as a Complication of COVID-19 Infection."}
+{"pmid": "38399677", "dense_sim_medcpt": 0.8533, "bm25_score": 0.1846, "title": "Dermatologic Changes in Experimental Model of Long COVID."}
+{"pmid": "37970146", "dense_sim_medcpt": 0.8302, "bm25_score": 0.2188, "title": "Multisystem Inflammatory Syndrome in Children: Experience from October 2020 to January 2021 at a Tertiary Hospital in Navi Mumbai, India."}
+{"pmid": "32448633", "dense_sim_medcpt": 0.8406, "bm25_score": 0.2027, "title": "[COVID-19 and cardiovascular and kidney disease: Where are we? Where are we going?]."}
+{"pmid": "41666143", "dense_sim_medcpt": 0.8347, "bm25_score": 0.2114, "title": "Prospective Evaluation of Antibody Response post COVID-19 vaccination in older persons ≧ 60 years old (PEARL 60): A longitudinal 15-months study in a tertiary centre in Malaysia."}
+{"pmid": "37891048", "dense_sim_medcpt": 0.8439, "bm25_score": 0.1974, "title": "Adverse events of acute nephrotoxicity reported to EudraVigilance and VAERS after COVID-19 vaccination."}
+{"pmid": "34535613", "dense_sim_medcpt": 0.8518, "bm25_score": 0.1852, "title": "Human Immunodeficiency Virus/Sexually Transmitted Infection Testing Preferences for Young Black Men Who Have Sex With Men in the Southeastern United States: Implications for a Post-COVID-19 Era."}
+{"pmid": "40005051", "dense_sim_medcpt": 0.8128, "bm25_score": 0.2437, "title": "Positive Effect of Lecithin-Based Delivery Form of Curcuma and Boswellia Extracts on Irritable Bowel Syndrome After COVID-19 Infection."}
+{"pmid": "40040684", "dense_sim_medcpt": 0.8505, "bm25_score": 0.1865, "title": "A Prospective Clinical Study on Postoperative Complications of Prostate Biopsy Following COVID-19 Infection at a Tertiary Hospital in Taizhou, China."}
+{"pmid": "38068329", "dense_sim_medcpt": 0.8498, "bm25_score": 0.1874, "title": "Prevalence and Antimicrobial Resistance Patterns of Hospital Acquired Infections through the COVID-19 Pandemic: Real-Word Data from a Tertiary Urological Centre."}
+{"pmid": "39057104", "dense_sim_medcpt": 0.8442, "bm25_score": 0.1958, "title": "Mortality in Amputees with Peripheral Artery Disease during the Post-COVID Era: A Three-Year Analysis."}
+{"pmid": "40620416", "dense_sim_medcpt": 0.8666, "bm25_score": 0.1618, "title": "Clinical Outcomes and Health Care Utilization in Patients with Advanced Chronic Kidney Disease not on Dialysis After the Onset of the COVID-19 Pandemic in Ontario, Canada."}
+{"pmid": "38911850", "dense_sim_medcpt": 0.8536, "bm25_score": 0.1806, "title": "New insights into the pathogenesis of SARS-CoV-2 during and after the COVID-19 pandemic."}
+{"pmid": "38024926", "dense_sim_medcpt": 0.8383, "bm25_score": 0.2031, "title": "Dysmenorrhea and heavy bleeding as complications in COVID-19-positive women: An observational study."}
+{"pmid": "36791681", "dense_sim_medcpt": 0.8196, "bm25_score": 0.2311, "title": "Post-COVID-19 Multisystem Inflammatory Syndrome-Related Cerebral Infarction in a Pediatric Patient Managed with Decompressive Craniectomy."}
+{"pmid": "37105315", "dense_sim_medcpt": 0.83, "bm25_score": 0.2154, "title": "Hormone replacement therapy and COVID-19 outcomes in solid organ transplant recipients compared with the general population."}
+{"pmid": "37092568", "dense_sim_medcpt": 0.8456, "bm25_score": 0.1918, "title": "Menstrual health and management during the COVID-19 syndemic in the Barcelona area (Spain): A qualitative study."}
+{"pmid": "41259711", "dense_sim_medcpt": 0.8278, "bm25_score": 0.2185, "title": "Resurgence of Acquired Syphilitic Uveitis: Characteristics, Challenges and Outcomes."}
+{"pmid": "40081398", "dense_sim_medcpt": 0.8208, "bm25_score": 0.228, "title": "Associations of inflammatory markers with post-acute clinical findings among survivors of Ebola virus disease with and without viral RNA shedding in the semen in Liberia: a nested case-control study."}
+{"pmid": "37448914", "dense_sim_medcpt": 0.8434, "bm25_score": 0.1941, "title": "An in-depth appraisal of clinico-biochemical and radiological findings of COVID-19 patients during the COVID-19 pandemic in a dedicated COVID Care Hospital in Eastern India and its outcome in relation to the COVAXIN vaccination status: A 2-year study."}
+{"pmid": "37876390", "dense_sim_medcpt": 0.8297, "bm25_score": 0.2137, "title": "Neurological Manifestations in Hospitalized Geriatric Patients With COVID-19 at King Abdulaziz Medical City in Jeddah, Western Region, Saudi Arabia From 2020 to 2021: A Cross-Sectional Study."}
+{"pmid": "38023955", "dense_sim_medcpt": 0.8347, "bm25_score": 0.2057, "title": "Facial palsy at the onset of SARS-CoV-2 infection. A case report."}
+{"pmid": "41708119", "dense_sim_medcpt": 0.8165, "bm25_score": 0.2327, "title": "Pulmonary diffusing capacity for nitric oxide in disease: a scoping review."}
+{"pmid": "41258276", "dense_sim_medcpt": 0.8308, "bm25_score": 0.2114, "title": "Multi-systemic risk of post-acute sequelae associated with SARS-CoV-2 reinfection."}
+{"pmid": "39361005", "dense_sim_medcpt": 0.8412, "bm25_score": 0.1952, "title": "Lipschütz ulcers: A diagnosis to be considered in the post-COVID-19 era."}
+{"pmid": "39590663", "dense_sim_medcpt": 0.7984, "bm25_score": 0.2587, "title": "Isolation of Candida Species Is Associated with Comorbidities, Prolonged Mechanical Ventilation, and Treatment Outcomes in Surgical ICU Patients, a Cross-Sectional Study."}
+{"pmid": "40703960", "dense_sim_medcpt": 0.834, "bm25_score": 0.205, "title": "Dengue in older inpatients in the post-COVID-19 Period: a case series from a North Indian tertiary center."}
+{"pmid": "39414445", "dense_sim_medcpt": 0.8436, "bm25_score": 0.1901, "title": "Combined impact of COVID-19 and renal failure on taste perception in a sample of the Egyptian population."}
+{"pmid": "38710190", "dense_sim_medcpt": 0.8403, "bm25_score": 0.1951, "title": "Association of nirmatrelvir-ritonavir with post-acute sequelae and mortality in patients admitted to hospital with COVID-19: a retrospective cohort study."}
+{"pmid": "36214969", "dense_sim_medcpt": 0.8576, "bm25_score": 0.1683, "title": "Recent review of COVID-19 management: diagnosis, treatment and vaccination."}
+{"pmid": "41554246", "dense_sim_medcpt": 0.8244, "bm25_score": 0.2175, "title": "Inflammatory mechanisms of menstrual cycle changes following COVID-19 vaccination in adolescents."}
+{"pmid": "39389388", "dense_sim_medcpt": 0.8406, "bm25_score": 0.1929, "title": "A review of intravenous immunoglobulin in the treatment of neuroimmune conditions, acute COVID-19 infection, and post-acute sequelae of COVID-19 Syndrome."}
+{"pmid": "34731116", "dense_sim_medcpt": 0.862, "bm25_score": 0.1607, "title": "Has COVID-19 changed the approach to HIV diagnosis?: A multicentric Italian experience."}
+{"pmid": "41612314", "dense_sim_medcpt": 0.8287, "bm25_score": 0.2107, "title": "Telerehabilitation in the management of urinary incontinence in women: a narrative review."}
+{"pmid": "39406274", "dense_sim_medcpt": 0.8449, "bm25_score": 0.1862, "title": "Investigating the effects of COVID-19 on sperm in male smokers: A prospective integrated proteomic and metabolomic study."}
+{"pmid": "38132646", "dense_sim_medcpt": 0.8568, "bm25_score": 0.1684, "title": "SGLT2 Inhibitors in Long COVID Syndrome: Is There a Potential Role?"}
+{"pmid": "39185269", "dense_sim_medcpt": 0.8345, "bm25_score": 0.2016, "title": "Menopause symptom prevalence in three post-COVID-19 syndrome clinics in England: A cross-sectional analysis."}
+{"pmid": "38021843", "dense_sim_medcpt": 0.822, "bm25_score": 0.2203, "title": "Impact of COVID-19 Vaccinations on Menstrual Bleeding."}
+{"pmid": "36689040", "dense_sim_medcpt": 0.8439, "bm25_score": 0.1875, "title": "Solanum nigrum L. in COVID-19 and post-COVID complications: a propitious candidate."}
+{"pmid": "36680700", "dense_sim_medcpt": 0.8472, "bm25_score": 0.1822, "title": "Immunologic Interplay Between HIV/AIDS and COVID-19: Adding Fuel to the Flames?"}
+{"pmid": "35703276", "dense_sim_medcpt": 0.84, "bm25_score": 0.1929, "title": "Synchronous Telemedicine Model in Urogynecology: Are Patients Willing to Continue Telemedicine in the Post-COVID-19 Pandemic Era?"}
+{"pmid": "36298697", "dense_sim_medcpt": 0.8394, "bm25_score": 0.193, "title": "New-Onset and Relapsed Membranous Nephropathy post SARS-CoV-2 and COVID-19 Vaccination."}
+{"pmid": "40196285", "dense_sim_medcpt": 0.8371, "bm25_score": 0.1967, "title": "Reinfection with SARS-CoV-2 in the Omicron Era is Associated with Increased Risk of Post-Acute Sequelae of SARS-CoV-2 Infection: A RECOVER-EHR Cohort Study."}
+{"pmid": "35537721", "dense_sim_medcpt": 0.8125, "bm25_score": 0.2332, "title": "Immune complex-mediated glomerulonephritis post COVID-19 vaccination in a patient with concomitant Brucellosis."}
+{"pmid": "36510455", "dense_sim_medcpt": 0.8436, "bm25_score": 0.1863, "title": "Need for inpatient rehabilitation and skilled nursing services in COVID-19 patients post hospitalization: a retrospective cohort study."}
+{"pmid": "37435294", "dense_sim_medcpt": 0.8213, "bm25_score": 0.2198, "title": "A pediatric case of Takayasu's arteritis with anti-neutrophil cytoplasmic antibody-associated vasculitis triggered by COVID-19 infection."}
+{"pmid": "41302562", "dense_sim_medcpt": 0.8386, "bm25_score": 0.1934, "title": "Empowering Vulnerable Communities Through HIV Self-Testing: Post-COVID-19 Strategies for Health Promotion in Sub-Saharan Africa."}
+{"pmid": "40723190", "dense_sim_medcpt": 0.8296, "bm25_score": 0.2067, "title": "Colorectal Cancer Risk Following Herpes Zoster Reactivation in COVID-19 Survivors: Global Multicenter Study Using TriNetX."}
+{"pmid": "34650838", "dense_sim_medcpt": 0.8357, "bm25_score": 0.197, "title": "Horizontal Transmission of COVID-19 in a 24-Week Premature Infant and Post-discharge Follow-Up."}
+{"pmid": "37035338", "dense_sim_medcpt": 0.8563, "bm25_score": 0.1658, "title": "The immunologically high-risk kidney recipient in the early post-COVID-19 period. To do or not to do? A case report."}
+{"pmid": "35155848", "dense_sim_medcpt": 0.861, "bm25_score": 0.1588, "title": "Occurrence of De novo Donor-Specific Antibodies After COVID-19 in Kidney Transplant Recipients Is Low Despite Immunosuppression Modulation."}
+{"pmid": "40761366", "dense_sim_medcpt": 0.8408, "bm25_score": 0.1869, "title": "Abnormal uterine bleeding and fertility challenges secondary to long COVID: A case report."}
+{"pmid": "33788160", "dense_sim_medcpt": 0.8307, "bm25_score": 0.2011, "title": "Ovarian vein thrombosis after coronavirus disease (COVID-19) mimicking acute abdomen: two case reports."}
+{"pmid": "40252805", "dense_sim_medcpt": 0.8326, "bm25_score": 0.1982, "title": "ORCHESTRA Delphi consensus: diagnostic and therapeutic management of post-COVID-19 condition in vulnerable populations."}
+{"pmid": "37167173", "dense_sim_medcpt": 0.8436, "bm25_score": 0.181, "title": "[Liver disease during the pandemic of COVID-19 infection: prediction of the course and tactics of management: A review]."}
+{"pmid": "33859146", "dense_sim_medcpt": 0.8456, "bm25_score": 0.1779, "title": "Measuring the Impact of the COVID-19 Pandemic on Sexually Transmitted Diseases Public Health Surveillance and Program Operations in the State of California."}
+{"pmid": "40026801", "dense_sim_medcpt": 0.8236, "bm25_score": 0.2109, "title": "Candida-Associated Renal Papillary Necrosis Following Severe COVID-19 Infection."}
+{"pmid": "34440163", "dense_sim_medcpt": 0.8351, "bm25_score": 0.1937, "title": "COVID-19 Disease, Women's Predominant Non-Heparin Vaccine-Induced Thrombotic Thrombocytopenia and Kounis Syndrome: A Passepartout Cytokine Storm Interplay."}
+{"pmid": "33558819", "dense_sim_medcpt": 0.8287, "bm25_score": 0.2027, "title": "Acute transverse myelitis of childhood due to novel coronavirus disease 2019: The first pediatric case report and review of literature."}
+{"pmid": "41014684", "dense_sim_medcpt": 0.8315, "bm25_score": 0.198, "title": "Cardiotrophin-1 as a predictor of critical COVID-19, mortality, and persistence of pulmonary fibrosis after the acute phase of infection."}
+{"pmid": "35603769", "dense_sim_medcpt": 0.8178, "bm25_score": 0.218, "title": "The first detection of Pneumocystis jirovecii in asthmatic patients post-COVID-19 in Jordan."}
+{"pmid": "34150334", "dense_sim_medcpt": 0.8543, "bm25_score": 0.1628, "title": "Post-COVID-19 rehabilitation: a special look at chronic kidney disease patients."}
+{"pmid": "34379888", "dense_sim_medcpt": 0.8363, "bm25_score": 0.1899, "title": "Pediatric P-ANCA vasculitis following COVID-19."}
+{"pmid": "38318191", "dense_sim_medcpt": 0.8357, "bm25_score": 0.1905, "title": "Associations between post-acute sequelae of SARS-CoV-2, COVID-19 vaccination and HIV infection: a United States cohort study."}
+{"pmid": "39494224", "dense_sim_medcpt": 0.8446, "bm25_score": 0.1771, "title": "Resilience and Beyond the Acute Phase Challenges: Case Series on Prolonged COVID-19 Infection in Immunocompromised Individuals."}
+{"pmid": "41503766", "dense_sim_medcpt": 0.8307, "bm25_score": 0.1971, "title": "Provider perspectives on HPV vaccine hesitancy in the post-COVID-19 era."}
+{"pmid": "36992190", "dense_sim_medcpt": 0.844, "bm25_score": 0.1773, "title": "COVID-19 and Frailty."}
+{"pmid": "33769552", "dense_sim_medcpt": 0.8384, "bm25_score": 0.1852, "title": "Dual inhibition of CB1 receptors and iNOS, as a potential novel approach to the pharmacological management of acute and long COVID-19."}
+{"pmid": "33727474", "dense_sim_medcpt": 0.8053, "bm25_score": 0.2346, "title": "Post COVID-19 opportunistic candida retinitis: A case report."}
+{"pmid": "35920797", "dense_sim_medcpt": 0.8428, "bm25_score": 0.1779, "title": "New-onset IgA nephropathy following COVID-19 vaccination."}
+{"pmid": "41384273", "dense_sim_medcpt": 0.8196, "bm25_score": 0.2126, "title": "Should We Screen Sooner? Elevated CRC Incidence in Solid Organ Transplant Recipients in the United States Before and After the COVID-19 Pandemic."}
+{"pmid": "33073355", "dense_sim_medcpt": 0.8657, "bm25_score": 0.1435, "title": "Pathogenesis-directed therapy of 2019 novel coronavirus disease."}
+{"pmid": "40695092", "dense_sim_medcpt": 0.8233, "bm25_score": 0.2065, "title": "Validating community concerns of menstrual changes associated with COVID-19 vaccination using a self-controlled case series analysis of real-world data."}
+{"pmid": "41769275", "dense_sim_medcpt": 0.8656, "bm25_score": 0.1433, "title": "COVID-19 and ACE2 Receptor in Different Tissues: From Pathophysiologic Function To Therapeutic Responses."}
+{"pmid": "36609778", "dense_sim_medcpt": 0.8362, "bm25_score": 0.1867, "title": "The pattern of cytokines expression and dynamic changes of renal function at 6 months in patients with Omicron COVID-19."}
+{"pmid": "41449787", "dense_sim_medcpt": 0.854, "bm25_score": 0.1589, "title": "Medications Used Among Nonhospitalized Pregnant Women With COVID-19: A Prospective Individual Patient Data Meta-Analysis in Europe and North America."}
+{"pmid": "36131860", "dense_sim_medcpt": 0.8309, "bm25_score": 0.1932, "title": "Pericardial Effusion in Postcoronavirus Disease Patients with Preserved Ejection Fraction of the Left Ventricle and Normal Values of N-Terminal-Pro B-Type Natriuretic Peptide-Link with C-Reactive Protein and D-Dimer."}
+{"pmid": "34844968", "dense_sim_medcpt": 0.8107, "bm25_score": 0.223, "title": "Undetectable SARS-CoV-2 active adaptive immunity-post-vaccination or post-COVID-19 severe disease-after immunosuppressants use."}
+{"pmid": "36368929", "dense_sim_medcpt": 0.8173, "bm25_score": 0.2129, "title": "Relationship between nosocomial infections and coronavirus disease 2019 in the neurosurgery unit: clinical characteristics and outcomes from a Chinese Tertiary-Care Hospital."}
+{"pmid": "39345136", "dense_sim_medcpt": 0.847, "bm25_score": 0.1668, "title": "SARS-CoV-2 ORF3a induces COVID-19-associated kidney injury through HMGB1-mediated cytokine production."}
+{"pmid": "37951875", "dense_sim_medcpt": 0.8629, "bm25_score": 0.1432, "title": "Impact of COVID-19 on selected essential public health services - lessons learned from a retrospective record review in the Free State, South Africa."}
+{"pmid": "38024354", "dense_sim_medcpt": 0.8412, "bm25_score": 0.1757, "title": "Vitamin D levels in the pre- and post-COVID-19 pandemic periods in pediatric patients with chronic kidney disease."}
+{"pmid": "39337879", "dense_sim_medcpt": 0.8413, "bm25_score": 0.1756, "title": "Superficial Vein Thrombosis in an Asymptomatic Case of Cholangiocarcinoma with Recent History of COVID-19."}
+{"pmid": "39709106", "dense_sim_medcpt": 0.814, "bm25_score": 0.2163, "title": "COVID-19 Diagnosis Within 6 Weeks of Arthroscopic Knee Surgery Leads to Higher Risk for Postoperative Venous Thromboembolism."}
+{"pmid": "34659749", "dense_sim_medcpt": 0.8413, "bm25_score": 0.175, "title": "Post COVID-19 splenic infarction with limb ischemia: A case report."}
+{"pmid": "37355949", "dense_sim_medcpt": 0.8156, "bm25_score": 0.2135, "title": "Invasive Fungal Sinusitis in Post-COVID-19 Patients with Diabetes Mellitus."}
+{"pmid": "41193999", "dense_sim_medcpt": 0.824, "bm25_score": 0.2005, "title": "Association between serum uric acid levels and primary aldosteronism."}
+{"pmid": "34266783", "dense_sim_medcpt": 0.8333, "bm25_score": 0.1858, "title": "[Kidney damage in COVID-19]."}
+{"pmid": "35606551", "dense_sim_medcpt": 0.8498, "bm25_score": 0.161, "title": "A multisystem, cardio-renal investigation of post-COVID-19 illness."}
+{"pmid": "40046580", "dense_sim_medcpt": 0.8474, "bm25_score": 0.1644, "title": "C3 Glomerulonephritis Post COVID-19 Vaccination:  A Case Report and Review of the Literature."}
+{"pmid": "40736492", "dense_sim_medcpt": 0.8259, "bm25_score": 0.1961, "title": "Top 20 Research Studies of 2024 for Primary Care Physicians."}
+{"pmid": "34846312", "dense_sim_medcpt": 0.8216, "bm25_score": 0.2023, "title": "Kidney in the net of acute and long-haul coronavirus disease 2019: a potential role for lipid mediators in causing renal injury and fibrosis."}
+{"pmid": "39719753", "dense_sim_medcpt": 0.8382, "bm25_score": 0.1772, "title": "Risk of bleeding in pulmonary embolism patients concomitant with COVID-19 undergoing extended anticoagulation: A multicenter cohort study."}
+{"pmid": "36528073", "dense_sim_medcpt": 0.8561, "bm25_score": 0.1503, "title": "COVID-19 and Pregnancy: Risks and Outcomes."}
+{"pmid": "39485568", "dense_sim_medcpt": 0.8513, "bm25_score": 0.1572, "title": "Actual clinical practice pattern in SWL after COVID-19 era: a critical evaluation from different aspects."}
+{"pmid": "37916320", "dense_sim_medcpt": 0.8225, "bm25_score": 0.1996, "title": "Influences of high vs. low-intensity exercises on muscle strength, function, and quality of life in post-COVID-19 patients with sarcopenia: a randomized controlled trial."}
+{"pmid": "34934117", "dense_sim_medcpt": 0.855, "bm25_score": 0.1508, "title": "Differential expression in humans of the viral entry receptor ACE2 compared with the short deltaACE2 isoform lacking SARS-CoV-2 binding sites."}
+{"pmid": "37568393", "dense_sim_medcpt": 0.8356, "bm25_score": 0.1795, "title": "The Impact of COVID-19 on Menstrual Cycle in Women."}
+{"pmid": "39315473", "dense_sim_medcpt": 0.8436, "bm25_score": 0.1674, "title": "Nutritional and psychological sequelae of COVID-19 infection in maintenance hemodialysis patients."}
+{"pmid": "38527502", "dense_sim_medcpt": 0.8188, "bm25_score": 0.2041, "title": "[Clinical characteristics of hospitalized children with respiratory syncytial virus infection and risk prediction of severe illness during the post-COVID-19 era in Kunming]."}
+{"pmid": "41696833", "dense_sim_medcpt": 0.8235, "bm25_score": 0.1968, "title": "[Consequences of congenital COVID-19 on the cognitive development of affected children]."}
+{"pmid": "38331252", "dense_sim_medcpt": 0.8305, "bm25_score": 0.1862, "title": "Vaccination and the risk of post-acute sequelae after COVID-19 in the Omicron-predominant period."}
+{"pmid": "38573464", "dense_sim_medcpt": 0.8422, "bm25_score": 0.1676, "title": "Evolving Epidemiology of Pediatric Respiratory Syncytial Virus (RSV) Cases Around COVID-19 Pandemic: Impact and Clinical Insights, Retrospective Cohort Study."}
+{"pmid": "36591299", "dense_sim_medcpt": 0.8415, "bm25_score": 0.1684, "title": "The relationship between chronic immune response and neurodegenerative damage in long COVID-19."}
+{"pmid": "36999262", "dense_sim_medcpt": 0.8488, "bm25_score": 0.1572, "title": "Indonesian Geriatrics Society Consensus on COVID-19 Management in Older Adults."}
+{"pmid": "35032430", "dense_sim_medcpt": 0.845, "bm25_score": 0.1624, "title": "SARS-CoV-2 infects the human kidney and drives fibrosis in kidney organoids."}
+{"pmid": "39240046", "dense_sim_medcpt": 0.842, "bm25_score": 0.167, "title": "COVID-19-induced granulomatosis with polyangiitis: A case report of a 16-year-old East Asian and literature review."}
+{"pmid": "35400877", "dense_sim_medcpt": 0.8582, "bm25_score": 0.1418, "title": "Outcome of post-COVID-19 fungal pyelonephritis: A single Indian tertiary center experience."}
+{"pmid": "38621420", "dense_sim_medcpt": 0.8382, "bm25_score": 0.1717, "title": "Telehealth in a Pelvic Floor Physical Therapy Clinic: A Retrospective Cohort Study."}
+{"pmid": "35754607", "dense_sim_medcpt": 0.8194, "bm25_score": 0.2, "title": "COVID-19 causing rhabdomyolysis requiring hemodialysis in a young adult."}
+{"pmid": "37537934", "dense_sim_medcpt": 0.8229, "bm25_score": 0.1943, "title": "Amphotericin-B-Induced Chronic Kidney Disease in a Post-COVID-19 Patient with Widespread Rhinocerebral Mucormycosis and Pneumonia: A Case Report."}
+{"pmid": "33689157", "dense_sim_medcpt": 0.8238, "bm25_score": 0.192, "title": "Prostate Cancer Screening and Young Black Men: Can Early Communication Avoid Later Health Disparities?"}
+{"pmid": "36220127", "dense_sim_medcpt": 0.8403, "bm25_score": 0.1669, "title": "Secondary Headache Disorders: Approach, Workup, and Special Considerations for Select Populations."}
+{"pmid": "38662750", "dense_sim_medcpt": 0.8425, "bm25_score": 0.1634, "title": "Prevalence and predictors of prenatal depression during the COVID-19 pandemic: A multistage observational study in Beijing, China."}
+{"pmid": "38777713", "dense_sim_medcpt": 0.8336, "bm25_score": 0.1763, "title": "Post-COVID-19 Era In Heart Transplantation and Its Impact on the Early Postoperative Period After Surgery."}
+{"pmid": "40933377", "dense_sim_medcpt": 0.8195, "bm25_score": 0.197, "title": "Alcohol consumption, high-sensitivity C-reactive protein, and estimated glomerular filtration rate: tripartite predictors of 10-year cardiovascular risk progression in patients with type 2 diabetes mellitus after COVID-19."}
+{"pmid": "37798709", "dense_sim_medcpt": 0.8383, "bm25_score": 0.1685, "title": "Clinical utilization of artificial intelligence-based COVID-19 pneumonia quantification using chest computed tomography - a multicenter retrospective cohort study in Japan."}
+{"pmid": "38465462", "dense_sim_medcpt": 0.8357, "bm25_score": 0.172, "title": "Post-COVID-19 Fetal Cardiac Morphology and Systolic Evaluation in Infected Pregnant Women by Fetal Heart Quantification Technology."}
+{"pmid": "34151246", "dense_sim_medcpt": 0.8545, "bm25_score": 0.1437, "title": "Cardiovascular and Renal Risk Factors and Complications Associated With COVID-19."}
+{"pmid": "38085233", "dense_sim_medcpt": 0.8568, "bm25_score": 0.1399, "title": "Assessing the causal relationship between COVID-19 and post-COVID-19 syndrome: A Mendelian randomisation study."}
+{"pmid": "36843458", "dense_sim_medcpt": 0.8347, "bm25_score": 0.173, "title": "[Current approaches in the treatment and rehabilitation of patients with neurological diseases after COVID-19. Resolution of the International Experts Forum]."}
+{"pmid": "38062718", "dense_sim_medcpt": 0.8292, "bm25_score": 0.18, "title": "Behavioral Predictors Associated With COVID-19 Vaccination and Infection Among Men Who Have Sex With Men in Korea."}
+{"pmid": "34702883", "dense_sim_medcpt": 0.8422, "bm25_score": 0.16, "title": "Characterizing non-critically ill COVID-19 survivors with and without in-hospital rehabilitation."}
+{"pmid": "41148674", "dense_sim_medcpt": 0.8485, "bm25_score": 0.1503, "title": "Urinary Tract Infections in a Single-Center Bulgarian Hospital: Trends in Etiology, Antibiotic Resistance, and the Impact of the COVID-19 Pandemic (2017-2022)."}
+{"pmid": "41639268", "dense_sim_medcpt": 0.8324, "bm25_score": 0.174, "title": "Sexual and reproductive health consequences of COVID-19 pandemic in Nigeria: an infodemiological survey."}
+{"pmid": "40453452", "dense_sim_medcpt": 0.7911, "bm25_score": 0.2359, "title": "Severe Influenza Patients Who Received Ventilator Management During the 2024 to 2025 Major Influenza-Endemic Season in a Tertiary Hospital in Japan."}
+{"pmid": "35607717", "dense_sim_medcpt": 0.8209, "bm25_score": 0.1907, "title": "Impact of the COVID-19 pandemic on provision of HIV/AIDS services for key populations."}
+{"pmid": "36532603", "dense_sim_medcpt": 0.8237, "bm25_score": 0.1866, "title": "Experience of Telemedicine Visits in Radiation Oncology During the COVID-19 Pandemic: A US National Survey and Lessons Learned for Incorporating Telemedicine Post-COVID-19."}
+{"pmid": "39531312", "dense_sim_medcpt": 0.8241, "bm25_score": 0.1858, "title": "Association of COVID-19 With Risk of Posttransplant Diabetes Mellitus."}
+{"pmid": "38623784", "dense_sim_medcpt": 0.843, "bm25_score": 0.1574, "title": "Is the \"Pandemic Diet\" Nonlithogenic?"}
+{"pmid": "36994030", "dense_sim_medcpt": 0.8199, "bm25_score": 0.1916, "title": "A case report on uneventful anticoagulation and persistence of Type 1 Respiratory Failure post severe COVID-19 infection in a patient of Osler-Weber-Rendu syndrome."}
+{"pmid": "35350712", "dense_sim_medcpt": 0.8387, "bm25_score": 0.1632, "title": "A case of isolated unilateral renal mucormycosis post COVID-19 pneumonia with fatal outcome."}
+{"pmid": "41075754", "dense_sim_medcpt": 0.8357, "bm25_score": 0.1676, "title": "Mapping the immunological research landscape of tuberculosis: A bibliometric review of global trends and clinical themes (2016-2025)."}
+{"pmid": "39334847", "dense_sim_medcpt": 0.8246, "bm25_score": 0.1834, "title": "Long Neuro-COVID-19: Current Mechanistic Views and Therapeutic Perspectives."}
+{"pmid": "38369295", "dense_sim_medcpt": 0.8307, "bm25_score": 0.1742, "title": "Frailty and health-related quality of life among older people living with HIV pre- and post-COVID-19 pandemic onset: A cross-sectional study."}
+{"pmid": "38561236", "dense_sim_medcpt": 0.8495, "bm25_score": 0.1453, "title": "Kidney damage associated with COVID-19: from the acute to the chronic phase."}
+{"pmid": "36987761", "dense_sim_medcpt": 0.8326, "bm25_score": 0.1707, "title": "Subjective Quality of Life of Women in the Perinatal Period: A Post Covid-19 Pandemic Exploration in North Macedonia."}
+{"pmid": "38288539", "dense_sim_medcpt": 0.8157, "bm25_score": 0.1958, "title": "Prevalence and Burden of Human Adenovirus-Associated Acute Respiratory Illness in the Republic of Korea Military, 2013 to 2022."}
+{"pmid": "38932125", "dense_sim_medcpt": 0.8411, "bm25_score": 0.1576, "title": "Acute and Long COVID Intestinal Changes in an Experimental Model of Coronavirus in Mice."}
+{"pmid": "34779011", "dense_sim_medcpt": 0.8232, "bm25_score": 0.1839, "title": "Post-COVID-19 vaccination IgA vasculitis in an adult."}
+{"pmid": "36816606", "dense_sim_medcpt": 0.8442, "bm25_score": 0.1522, "title": "Renal mucormycosis in post-COVID patients in Australia."}
+{"pmid": "39431754", "dense_sim_medcpt": 0.8462, "bm25_score": 0.149, "title": "Prognostic factors in post-Covid-19 acute invasive fungal sinusitis."}
+{"pmid": "35780095", "dense_sim_medcpt": 0.8344, "bm25_score": 0.1658, "title": "Electronic patient-reported monitoring of symptoms during follow-up of ovarian cancer patients: a feasibility study."}
+{"pmid": "35850104", "dense_sim_medcpt": 0.8323, "bm25_score": 0.1684, "title": "ANCA-Associated Vasculitis following the First Dose of Pfizer-BioNTech COVID-19 Vaccine."}
+{"pmid": "37373231", "dense_sim_medcpt": 0.8235, "bm25_score": 0.1818, "title": "Catalase Activity of IgGs of Patients Infected with SARS-CoV-2."}
+{"pmid": "36776887", "dense_sim_medcpt": 0.8517, "bm25_score": 0.1385, "title": "The COVID-19, tuberculosis and HIV/AIDS: Ménage à Trois."}
+{"pmid": "36647305", "dense_sim_medcpt": 0.8272, "bm25_score": 0.1751, "title": "[Post COVID-19 Pandemic Care for HIV Caregivers]."}
+{"pmid": "34126613", "dense_sim_medcpt": 0.8236, "bm25_score": 0.1806, "title": "Severe Brain Damage in a Moderate Preterm Infant as Complication of Post-COVID-19 Response during Pregnancy."}
+{"pmid": "38275404", "dense_sim_medcpt": 0.8538, "bm25_score": 0.1354, "title": "Surgical Treatment of Active Endocarditis Pre- and Post-COVID-19 Pandemic Onset."}
+{"pmid": "41176228", "dense_sim_medcpt": 0.8492, "bm25_score": 0.1419, "title": "Syphilis in the post-Covid-19 pandemic world."}
+{"pmid": "33777298", "dense_sim_medcpt": 0.8365, "bm25_score": 0.1607, "title": "A unique association of bifacial weakness, paresthesia and vestibulocochlear neuritis as post-COVID-19 manifestation in pregnant women: a case report."}
+{"pmid": "38555403", "dense_sim_medcpt": 0.8226, "bm25_score": 0.1815, "title": "Precision nutrition to reset virus-induced human metabolic reprogramming and dysregulation (HMRD) in long-COVID."}
+{"pmid": "37699093", "dense_sim_medcpt": 0.8479, "bm25_score": 0.1435, "title": "COVID-19 pandemic impact on antibiotics sensitivity of E. coli and K. pneumoniae from urine specimens: a retrospective study."}
+{"pmid": "35632497", "dense_sim_medcpt": 0.847, "bm25_score": 0.1441, "title": "New-Onset Acute Kidney Disease Post COVID-19 Vaccination."}
+{"pmid": "40350710", "dense_sim_medcpt": 0.8249, "bm25_score": 0.177, "title": "Prescriptive analytics decision-making system for cardiovascular disease prediction in long COVID patients using advanced reinforcement learning algorithms."}
+{"pmid": "37173871", "dense_sim_medcpt": 0.8505, "bm25_score": 0.1377, "title": "De novo lupus nephritis after SARS-CoV-2 infection."}
+{"pmid": "38116720", "dense_sim_medcpt": 0.8569, "bm25_score": 0.128, "title": "Individuals with HIV are likely targets for long COVID."}
+{"pmid": "32909174", "dense_sim_medcpt": 0.841, "bm25_score": 0.1517, "title": "Preliminary assessment of patient and physician satisfaction with the use of teleconsultation in urology during the COVID-19 pandemic."}
+{"pmid": "35114450", "dense_sim_medcpt": 0.8552, "bm25_score": 0.1295, "title": "Role of medicinal plants in inhibiting SARS-CoV-2 and in the management of post-COVID-19 complications."}
+{"pmid": "40307130", "dense_sim_medcpt": 0.8531, "bm25_score": 0.132, "title": "COVID-19 Infection May Lead to Increased CMV Infection in Renal Transplant Recipients."}
+{"pmid": "41065211", "dense_sim_medcpt": 0.8365, "bm25_score": 0.1567, "title": "Trajectories of BMI Before, During, and After the COVID-19 Pandemic Among Participants in the MACS/WIHS Combined Cohort Study."}
+{"pmid": "35853464", "dense_sim_medcpt": 0.8444, "bm25_score": 0.1447, "title": "COVID-19 Infections in Gonads: Consequences on Fertility?"}
+{"pmid": "41385198", "dense_sim_medcpt": 0.809, "bm25_score": 0.1978, "title": "Gonorrhoea in Poland in 2023."}
+{"pmid": "38557517", "dense_sim_medcpt": 0.8069, "bm25_score": 0.2009, "title": "Developments in Hand Surgery: Experience from a Tertiary Hospital of Northern Bangladesh."}
+{"pmid": "36355919", "dense_sim_medcpt": 0.7961, "bm25_score": 0.2161, "title": "The effect of COVID-19 vaccination on the menstrual pattern and mental health of the medical students: A mixed-methods study from a low and middle-income country."}
+{"pmid": "33222424", "dense_sim_medcpt": 0.8588, "bm25_score": 0.1214, "title": "New pathogen, same disparities: why COVID-19 and HIV remain prevalent in U.S. communities of colour and implications for ending the HIV epidemic."}
+{"pmid": "33678225", "dense_sim_medcpt": 0.8489, "bm25_score": 0.136, "title": "Accelerating action on cervical screening in lower- and middle-income countries (LMICs) post COVID-19 era."}
+{"pmid": "36430303", "dense_sim_medcpt": 0.8492, "bm25_score": 0.1356, "title": "Long Chain N3-PUFA Decreases ACE2 Protein Levels and Prevents SARS-CoV-2 Cell Entry."}
+{"pmid": "35172609", "dense_sim_medcpt": 0.8575, "bm25_score": 0.1227, "title": "Short Communication: Ongoing Impact of the Social Determinants of Health During the Second and Third Waves of the COVID-19 Pandemic in People Living with HIV Receiving Care in a Montreal-Based Tertiary Care Center."}
+{"pmid": "37436788", "dense_sim_medcpt": 0.8239, "bm25_score": 0.1727, "title": "New-onset and relapsed thrombotic microangiopathy post-COVID-19 vaccination."}
+{"pmid": "39451673", "dense_sim_medcpt": 0.8042, "bm25_score": 0.2026, "title": "Assessment of Microvascular Function Based on Flowmotion Monitored by the Flow-Mediated Skin Fluorescence Technique."}
+{"pmid": "34792722", "dense_sim_medcpt": 0.8311, "bm25_score": 0.1613, "title": "Mucormycosis as SARS-CoV2 sequelae in kidney transplant recipients: a single-center experience from India."}
+{"pmid": "39011957", "dense_sim_medcpt": 0.8463, "bm25_score": 0.1383, "title": "Prepandemic Metabolic Correlates of Coronavirus Disease 2019 (COVID-19) Severity and Long COVID Incidence in People Living With HIV."}
+{"pmid": "40171715", "dense_sim_medcpt": 0.8359, "bm25_score": 0.1538, "title": "A comparative analysis of voluntary medical male circumcision before and during the COVID-19 pandemic in Gauteng province, South Africa."}
+{"pmid": "39347295", "dense_sim_medcpt": 0.8332, "bm25_score": 0.1579, "title": "Slowly Progressive Rhabdomyolysis Post COVID-19: Insights for Acute Kidney Injury Prediction With Discordant Creatine Kinase and Myoglobin Elevations."}
+{"pmid": "36918081", "dense_sim_medcpt": 0.8529, "bm25_score": 0.1283, "title": "Acute tubulointerstitial nephritis with or without uveitis: a novel form of post-acute COVID-19 syndrome in children."}
+{"pmid": "39392803", "dense_sim_medcpt": 0.8398, "bm25_score": 0.1477, "title": "Impact of natural disasters on HIV risk behaviors, seroprevalence, and virological supression in a hyperendemic fishing village in Uganda."}
+{"pmid": "35545307", "dense_sim_medcpt": 0.8146, "bm25_score": 0.1851, "title": "Cryptococcus laurentii endogenous endophthalmitis post COVID-19 infection."}
+{"pmid": "38249978", "dense_sim_medcpt": 0.8498, "bm25_score": 0.132, "title": "Exploring post-SEPSIS and post-COVID-19 syndromes: crossovers from pathophysiology to therapeutic approach."}
+{"pmid": "38172680", "dense_sim_medcpt": 0.8394, "bm25_score": 0.1474, "title": "Association of gut microbiota with the pathogenesis of SARS-CoV-2 Infection in people living with HIV."}
+{"pmid": "36233447", "dense_sim_medcpt": 0.8646, "bm25_score": 0.1096, "title": "Determinants of Cause-Specific Mortality and Loss of Independence in Older Patients following Hospitalization for COVID-19: The GeroCovid Outcomes Study."}
+{"pmid": "37780717", "dense_sim_medcpt": 0.8182, "bm25_score": 0.1792, "title": "Acute motor-sensory axonal polyneuropathy variant of Guillain-Barré syndrome with a thalamic lesion and COVID-19: a case report and discussion on mechanism."}
+{"pmid": "33508136", "dense_sim_medcpt": 0.848, "bm25_score": 0.1341, "title": "Post-COVID-19-associated decline in long-term male fertility and embryo quality during assisted reproductive technology."}
+{"pmid": "34449773", "dense_sim_medcpt": 0.8607, "bm25_score": 0.1143, "title": "Impacts of COVID-19 on essential health services in Tigray, Northern Ethiopia: A pre-post study."}
+{"pmid": "37327802", "dense_sim_medcpt": 0.8273, "bm25_score": 0.1642, "title": "Tachykinins and the potential causal factors for post-COVID-19 condition."}
+{"pmid": "39996756", "dense_sim_medcpt": 0.8172, "bm25_score": 0.179, "title": "Prenatal SARS-CoV-2 Infection Alters Human Milk-Derived Extracellular Vesicles."}
+{"pmid": "36449195", "dense_sim_medcpt": 0.7958, "bm25_score": 0.211, "title": "Moderna, Pfizer-BioNTech, and Johnson & Johnson/Janssen Post-Covid Vaccine Hematological Adverse Events Including Cerebral Venous Sinus Thrombosis (CVST), Thrombotic Thrombocytopenia (VITT), Blood Clots, Increased Vaginal/Menstrual Bleeding and/or Miscarriage, Stillbirth Delivery, or Premature Birth."}
+{"pmid": "38629237", "dense_sim_medcpt": 0.8331, "bm25_score": 0.1548, "title": "Post-COVID anxiety, depression, and quality of life among Egyptian hemodialysis patients."}
+{"pmid": "41091211", "dense_sim_medcpt": 0.8544, "bm25_score": 0.1228, "title": "Improving access to urological care in rural underserved populations in Nigeria using telemedicine: a needs assessment and patient perception survey."}
+{"pmid": "39232616", "dense_sim_medcpt": 0.8431, "bm25_score": 0.1399, "title": "Coronavirus Disease 2019 in Kidney Transplantation - A 2024 Update."}
+{"pmid": "38853035", "dense_sim_medcpt": 0.8117, "bm25_score": 0.1867, "title": "Human papillomavirus vaccine beliefs and intentions Post-COVID-19 vaccine release among mothers in Alabama."}
+{"pmid": "37157177", "dense_sim_medcpt": 0.8237, "bm25_score": 0.1687, "title": "Autoimmune diseases post-COVID 19 infection in children in intensive care unit: A case series."}
+{"pmid": "37815056", "dense_sim_medcpt": 0.8487, "bm25_score": 0.1308, "title": "The impact of the COVID-19 pandemic on the prevalence and genotype distribution of HPV infection in Beijing, China."}
+{"pmid": "39045736", "dense_sim_medcpt": 0.8349, "bm25_score": 0.1511, "title": "Post-COVID-19 complement-mediated TMA: A case report."}
+{"pmid": "37241210", "dense_sim_medcpt": 0.7982, "bm25_score": 0.2064, "title": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and Comorbidities: Linked by Vascular Pathomechanisms and Vasoactive Mediators?"}
+{"pmid": "33785720", "dense_sim_medcpt": 0.837, "bm25_score": 0.1477, "title": "Immunodeficiency-associated lymphoproliferative disorders and lymphoid neoplasms in post-COVID-19 pandemic era."}
+{"pmid": "40699203", "dense_sim_medcpt": 0.8343, "bm25_score": 0.1519, "title": "Multiple occurrences of membranous nephropathy complicated with anti-glomerular basement membrane antibody and anti-neutrophil cytoplasm antibody double-negative crescentic formation since the COVID-19 pandemic: A case series."}
+{"pmid": "39855659", "dense_sim_medcpt": 0.84, "bm25_score": 0.1432, "title": "Virtual consultation in kidney care: a mixed-methods study on a model for safe and effective integration into routine clinical care."}
+{"pmid": "37885445", "dense_sim_medcpt": 0.7883, "bm25_score": 0.2202, "title": "Chronic supplementation of a multi-ingredient herbal supplement increases speed of cognitive task performance alongside changes in the urinary metabolism of dopamine and the gut microbiome in cognitively intact older adults experiencing subjective memory decline: a randomized, placebo controlled, parallel groups investigation."}
+{"pmid": "39302866", "dense_sim_medcpt": 0.8231, "bm25_score": 0.1676, "title": "[Multiplex analysis of post-Covid cardiorenal complications in patients with type 1 and type 2 diabetes mellitus according to the mobile diagnostic and treatment center (Diamobil)]."}
+{"pmid": "37316277", "dense_sim_medcpt": 0.8043, "bm25_score": 0.1959, "title": "Successful Use of Granulocyte and Monocyte Adsorptive Apheresis in a Patient with Post-COVID-19 Multisystem Inflammatory Syndrome in Adults."}
+{"pmid": "41463745", "dense_sim_medcpt": 0.8332, "bm25_score": 0.1524, "title": "Changes in Antimicrobial Resistance in Pediatric Urinary Pathogens Before, During, and After the COVID-19 Pandemic."}
+{"pmid": "37512587", "dense_sim_medcpt": 0.8208, "bm25_score": 0.1696, "title": "Integrated NMR and MS Analysis of the Plasma Metabolome Reveals Major Changes in One-Carbon, Lipid, and Amino Acid Metabolism in Severe and Fatal Cases of COVID-19."}
+{"pmid": "34932870", "dense_sim_medcpt": 0.8261, "bm25_score": 0.1615, "title": "Risk factors and outcomes of COVID associated mucormycosis in kidney transplant recipients."}
+{"pmid": "33002530", "dense_sim_medcpt": 0.8387, "bm25_score": 0.1425, "title": "Telehealth for Home Dialysis in COVID-19 and Beyond: A Perspective From the American Society of Nephrology COVID-19 Home Dialysis Subcommittee."}
+{"pmid": "39201025", "dense_sim_medcpt": 0.8354, "bm25_score": 0.1471, "title": "Nationwide Trends in Hospitalizations for Atrial Fibrillation and Flutter in the United States before and during the Outbreak of the COVID-19 Pandemic."}
+{"pmid": "39376205", "dense_sim_medcpt": 0.8105, "bm25_score": 0.1834, "title": "Healthcare-associated infections in Japanese hospitals: results from a large-scale multicenter point-prevalence survey in Aichi, 2020."}
+{"pmid": "39090746", "dense_sim_medcpt": 0.8509, "bm25_score": 0.1225, "title": "Impact of pre-existing conditions on the severity of post-COVID syndrome among workers in healthcare and social services in Germany."}
+{"pmid": "35187954", "dense_sim_medcpt": 0.8527, "bm25_score": 0.1196, "title": "A global picture: therapeutic perspectives for COVID-19."}
+{"pmid": "37029945", "dense_sim_medcpt": 0.8424, "bm25_score": 0.1346, "title": "The Challenge Of Covid19 In The Management Of Vascular Access For Hemodialysis In An Universitary Hospital."}
+{"pmid": "37031074", "dense_sim_medcpt": 0.862, "bm25_score": 0.1044, "title": "Long COVID-19 renal disease: A present medical need for nephrology."}
+{"pmid": "39122906", "dense_sim_medcpt": 0.8441, "bm25_score": 0.1305, "title": "Gay and Bisexual Men's Perceptions about a Potential HIV Vaccine within a Post-COVID-19 Era: A Qualitative Study."}
+{"pmid": "34607876", "dense_sim_medcpt": 0.8254, "bm25_score": 0.1584, "title": "Rethinking Cervical Cancer Screening in Brazil Post COVID-19: A Global Opportunity to Adopt Higher Impact Strategies."}
+{"pmid": "36458102", "dense_sim_medcpt": 0.8282, "bm25_score": 0.1531, "title": "Bilateral renal mucormycosis following COVID-19 infection: A therapeutic challenge."}
+{"pmid": "36719540", "dense_sim_medcpt": 0.8581, "bm25_score": 0.108, "title": "Longitudinal medical subspecialty follow-up of critically and non-critically ill hospitalized COVID-19 survivors up to 24 months after discharge."}
+{"pmid": "37328317", "dense_sim_medcpt": 0.8532, "bm25_score": 0.1152, "title": "Differential impact of COVID-19 on urological surgeries in public and private institutions between 2019 and 2021 in France."}
+{"pmid": "33388322", "dense_sim_medcpt": 0.8235, "bm25_score": 0.1593, "title": "HPV vaccination introduction worldwide and WHO and UNICEF estimates of national HPV immunization coverage 2010-2019."}
+{"pmid": "40288236", "dense_sim_medcpt": 0.8371, "bm25_score": 0.1384, "title": "Prediction of acute and chronic kidney diseases during the post-covid-19 pandemic with machine learning models: utilizing national electronic health records in the US."}
+{"pmid": "36704582", "dense_sim_medcpt": 0.8341, "bm25_score": 0.1429, "title": "Post-COVID Multisystem Inflammatory Syndrome-Adult (MIS-A) Presenting with Rhabdomyolysis and AKI."}
+{"pmid": "37333699", "dense_sim_medcpt": 0.8024, "bm25_score": 0.1901, "title": "Anaesthetic concerns in post-COVID mucormycosis at a tertiary care hospital in India: An observational study."}
+{"pmid": "38335908", "dense_sim_medcpt": 0.8339, "bm25_score": 0.1419, "title": "Effect of advanced glycation end-products in a wide range of medical problems including COVID-19."}
+{"pmid": "40524109", "dense_sim_medcpt": 0.8259, "bm25_score": 0.1535, "title": "Trends in HIV Testing Among Adults in the Deep South: Behavioral Risk Factor Surveillance System, 2017-2023."}
+{"pmid": "41139522", "dense_sim_medcpt": 0.8396, "bm25_score": 0.1325, "title": "Increased Incidence and Severity of Acute Poststreptococcal Glomerulonephritis in the Czech Paediatric Population Following the COVID-19 Pandemic."}
+{"pmid": "36949999", "dense_sim_medcpt": 0.8216, "bm25_score": 0.1591, "title": "A Case of Fatal Invasive Trichosporonosis in the Setting of Immunosuppression and Post-COVID-19 Pneumonia."}
+{"pmid": "40510083", "dense_sim_medcpt": 0.8297, "bm25_score": 0.1467, "title": "A Secret Revealed: The Coexistence of a Pheochromocytoma and Independent Adrenocorticotropic Hormone-Secreting Cushing Syndrome Within the Same Adrenal Gland."}
+{"pmid": "19212308", "dense_sim_medcpt": 0.8107, "bm25_score": 0.1751, "title": "Autoimmune diseases of the liver and biliary tract and overlap syndromes in childhood."}
+{"pmid": "35600811", "dense_sim_medcpt": 0.8571, "bm25_score": 0.1044, "title": "[Long COVID-19 renal disease: A present medical need for nephrology]."}
+{"pmid": "39920626", "dense_sim_medcpt": 0.8119, "bm25_score": 0.1722, "title": "Evaluating maternal drug use disparities, risk factors and outcomes in Northeast Arkansas: a pre, during, and post-COVID-19 pandemic analysis."}
+{"pmid": "38601551", "dense_sim_medcpt": 0.8593, "bm25_score": 0.101, "title": "The effect of COVID-19 on cancer incidences in the U.S."}
+{"pmid": "36521095", "dense_sim_medcpt": 0.8414, "bm25_score": 0.126, "title": "Health Justice: A Framework for Mitigating the Impacts of HIV and COVID-19 on Disproportionately Affected Communities."}
+{"pmid": "41795059", "dense_sim_medcpt": 0.8216, "bm25_score": 0.1555, "title": "Epidemiological Burden and Hospitalization Trends of Human Metapneumovirus in Spain (2016-2023): A Retrospective Study."}
+{"pmid": "39410856", "dense_sim_medcpt": 0.8411, "bm25_score": 0.1258, "title": "Enhancing endometriosis care with telehealth: Opportunities and challenges."}
+{"pmid": "35249248", "dense_sim_medcpt": 0.8385, "bm25_score": 0.1295, "title": "Impact of COVID-19 on the worsening crisis of chronic kidney disease: the imperative to fund early detection is now."}
+{"pmid": "37649460", "dense_sim_medcpt": 0.8248, "bm25_score": 0.1497, "title": "Is HCV elimination among persons living with HIV feasible? Data from the NoCo study in the setting of the ICONA cohort."}
+{"pmid": "40837203", "dense_sim_medcpt": 0.8383, "bm25_score": 0.1293, "title": "Adult Hospitalized Mycoplasma Cases in a Tertiary Hospital in Japan."}
+{"pmid": "37903369", "dense_sim_medcpt": 0.8513, "bm25_score": 0.1094, "title": "Effectiveness of Nirmatrelvir-Ritonavir Against the Development of Post-COVID-19 Conditions Among U.S. Veterans : A Target Trial Emulation."}
+{"pmid": "36454029", "dense_sim_medcpt": 0.8407, "bm25_score": 0.1251, "title": "Antibody-mediated Rejection of Kidney Allografts Following COVID-19: A Report of Two Cases."}
+{"pmid": "39075060", "dense_sim_medcpt": 0.8376, "bm25_score": 0.1282, "title": "Modifiable lifestyle factors and the risk of post-COVID-19 multisystem sequelae, hospitalization, and death."}
+{"pmid": "36931690", "dense_sim_medcpt": 0.8419, "bm25_score": 0.1218, "title": "Systemic sclerosis following COVID-19 infection with recurrent corticosteroid-induced scleroderma renal crisis."}
+{"pmid": "32989598", "dense_sim_medcpt": 0.8209, "bm25_score": 0.153, "title": "Pregnancy-related anxiety during COVID-19: a nationwide survey of 2740 pregnant women."}
+{"pmid": "35651879", "dense_sim_medcpt": 0.8446, "bm25_score": 0.1173, "title": "Increased Tacrolimus Exposure in Kidney Transplant Recipients With COVID-19: Inflammation-Driven Downregulation of Metabolism as a Potential Mechanism."}
+{"pmid": "36219757", "dense_sim_medcpt": 0.8351, "bm25_score": 0.1314, "title": "Sexually Transmitted Disease-Related Reddit Posts During the COVID-19 Pandemic: Latent Dirichlet Allocation Analysis."}
+{"pmid": "37208649", "dense_sim_medcpt": 0.8531, "bm25_score": 0.1038, "title": "Exploring the factors contributing to low vaccination uptake for nationally recommended routine childhood and adolescent vaccines in Kenya."}
+{"pmid": "41679205", "dense_sim_medcpt": 0.7848, "bm25_score": 0.2056, "title": "Benzalkonium disinfectants as emerging endocrine disruptors: Inhibition of 11β-Hydroxysteroid dehydrogenase 2 in human and rat models via steric and hydrophobic mechanisms: SPR and docking and enzymatic analysis."}
+{"pmid": "35765080", "dense_sim_medcpt": 0.842, "bm25_score": 0.1195, "title": "COVID-19 in Fabry disease: a reference center prospective study."}
+{"pmid": "36379619", "dense_sim_medcpt": 0.8059, "bm25_score": 0.1733, "title": "Design and Fabrication of a Gas Sensor Based on a Polypyrrole/Silver Nanoparticle Film for the Detection of Ammonia in Exhaled Breath of COVID-19 Patients Suffering from Acute Kidney Injury."}
+{"pmid": "36014937", "dense_sim_medcpt": 0.8256, "bm25_score": 0.1416, "title": "Fasting Glucose for the Diagnosis of Gestational Diabetes Mellitus (GDM) during the COVID-19 Pandemic."}
+{"pmid": "36071736", "dense_sim_medcpt": 0.8212, "bm25_score": 0.1479, "title": "Do buprenorphine doses and ratios matter in medication assisted treatment adherence."}
+{"pmid": "38091776", "dense_sim_medcpt": 0.8141, "bm25_score": 0.1582, "title": "Mixed-method approach to informing a lifestyle intervention to improve the survivorship of patients with endometrial cancer."}
+{"pmid": "33504473", "dense_sim_medcpt": 0.8498, "bm25_score": 0.1041, "title": "Post-COVID economic recovery: women and children first … or last?"}
+{"pmid": "40650319", "dense_sim_medcpt": 0.7866, "bm25_score": 0.1986, "title": "Evaluation of Torquetenovirus (TTV) Particle Integrity Utilizing PMAxx™."}
+{"pmid": "33329110", "dense_sim_medcpt": 0.8358, "bm25_score": 0.1247, "title": "Impact of Social Isolation on the Behavioral, Functional Profiles, and Hippocampal Atrophy Asymmetry in Dementia in Times of Coronavirus Pandemic (COVID-19): A Translational Neuroscience Approach."}
+{"pmid": "37815187", "dense_sim_medcpt": 0.8574, "bm25_score": 0.0922, "title": "Gastrointestinal Tract and Kidney Injury Pathogenesis in Post-COVID-19 Syndrome."}
+{"pmid": "39223870", "dense_sim_medcpt": 0.8318, "bm25_score": 0.1306, "title": "Patients with type 1 diabetes are at elevated risk of developing new hypertension, chronic kidney disease and diabetic ketoacidosis after COVID-19: Up to 40 months' follow-up."}
+{"pmid": "37427907", "dense_sim_medcpt": 0.7977, "bm25_score": 0.1809, "title": "[Chronic Inflammatory Polyradiculopathy Post-Covid-19 and the Role of Therapeutic Apheresis: A Clinical Case]."}
+{"pmid": "37433396", "dense_sim_medcpt": 0.8541, "bm25_score": 0.0948, "title": "Immunosuppression regimen modification during COVID-19 infection in kidney transplant recipients."}
+{"pmid": "35599454", "dense_sim_medcpt": 0.8359, "bm25_score": 0.1219, "title": "Too much sugar does not just make us fat; it can also make us sick."}
+{"pmid": "37879634", "dense_sim_medcpt": 0.8438, "bm25_score": 0.1092, "title": "Mitochondrial damage as cause of long COVID."}
+{"pmid": "33889412", "dense_sim_medcpt": 0.8363, "bm25_score": 0.12, "title": "Post COVID-19 MSSA pneumonia."}
+{"pmid": "34912345", "dense_sim_medcpt": 0.8254, "bm25_score": 0.1356, "title": "Corona Virus Disease 2019 (COVID-19) as a System-Level Infectious Disease With Distinct Sex Disparities."}
+{"pmid": "35910259", "dense_sim_medcpt": 0.8321, "bm25_score": 0.1211, "title": "Renal Mucormycosis: Post-COVID-19 Infection Presenting as Unilateral Hydronephrosis in a Young Immunocompetent Male."}
+{"pmid": "37182044", "dense_sim_medcpt": 0.8208, "bm25_score": 0.1372, "title": "Transient Premature Ovarian Insufficiency Post-COVID-19 Infection."}
+{"pmid": "36523691", "dense_sim_medcpt": 0.8283, "bm25_score": 0.1257, "title": "Antineutrophil Cytoplasmic Autoantibody (ANCA)-Associated Vasculitis With Mucosal Involvement Following COVID-19 Pneumonia."}
+{"pmid": "36447926", "dense_sim_medcpt": 0.8268, "bm25_score": 0.1279, "title": "Incidence and Severity of Postoperative Complications in Patients Undergoing Surgery Following COVID-19 Infection at a Tertiary Care Center in South India."}
+{"pmid": "40441893", "dense_sim_medcpt": 0.8107, "bm25_score": 0.1517, "title": "Whole-Body [18F]DPA-714 Kinetic Assessment Using PET/CT Scanner with Long Axial Field of View."}
+{"pmid": "36017003", "dense_sim_medcpt": 0.8505, "bm25_score": 0.0914, "title": "RAGE pathway activation and function in chronic kidney disease and COVID-19."}
+{"pmid": "34461289", "dense_sim_medcpt": 0.8332, "bm25_score": 0.1171, "title": "Immunomodulation and immunotherapeutics of COVID-19."}
+{"pmid": "37963086", "dense_sim_medcpt": 0.8482, "bm25_score": 0.0938, "title": "Viral Suppression Trajectories Destabilized After Coronavirus Disease 2019 Among US People With Human Immunodeficiency Virus: An Interrupted Time Series Analysis."}
+{"pmid": "39589546", "dense_sim_medcpt": 0.823, "bm25_score": 0.1311, "title": "PD-L1 expression and characterization of its carrier macrophages in placentas with acute and specifically post-SARS-CoV-2 infection."}
+{"pmid": "37582567", "dense_sim_medcpt": 0.8349, "bm25_score": 0.1124, "title": "The effect of COVID-19 pandemic on antibiotic usage during pregnancy."}
+{"pmid": "39021174", "dense_sim_medcpt": 0.825, "bm25_score": 0.1265, "title": "Trends in Serum Shifts: Unveiling Hyperglycaemia Links Post-COVID-19 Vaccination."}
+{"pmid": "39648608", "dense_sim_medcpt": 0.8137, "bm25_score": 0.1429, "title": "Service Interruption in HIV Care Amid COVID-19 Pandemic in Myanmar: Results From Analysis of Routine Program Data 2018-2022."}
+{"pmid": "41306492", "dense_sim_medcpt": 0.8036, "bm25_score": 0.1578, "title": "Statin use and the risk of tubulointerstitial nephritis: a real-world signal detection analysis using FDA Adverse Event Reporting System."}
+{"pmid": "37415374", "dense_sim_medcpt": 0.8211, "bm25_score": 0.1311, "title": "NOX-2 Inhibitors may be Potential Drug Candidates for the Management of COVID-19 Complications."}
+{"pmid": "37362874", "dense_sim_medcpt": 0.8331, "bm25_score": 0.113, "title": "Various Treatment Modalities in COVID-19 Associated Facial Mucormycosis and the Need for its Surgical Management: A Systematic Review."}
+{"pmid": "38005937", "dense_sim_medcpt": 0.8071, "bm25_score": 0.1509, "title": "An Outbreak of Parvovirus B19 in Israel."}
+{"pmid": "34022619", "dense_sim_medcpt": 0.8319, "bm25_score": 0.1134, "title": "The impact of COVID-19 outbreak on the incidence of acute invasive fungal rhinosinusitis."}
+{"pmid": "37362119", "dense_sim_medcpt": 0.8228, "bm25_score": 0.1271, "title": "Post-Covid Isolated Mandibular Mucormycosis in a Patient with Chronic Kidney Disease: A Case Report."}
+{"pmid": "33998773", "dense_sim_medcpt": 0.8234, "bm25_score": 0.1256, "title": "Neurological consequences of neurovascular unit and brain vasculature damages: potential risks for pregnancy infections and COVID-19-babies."}
+{"pmid": "35446720", "dense_sim_medcpt": 0.8207, "bm25_score": 0.1294, "title": "A national survey on enhanced recovery for renal transplant recipients: current practices and trends in the UK."}
+{"pmid": "39643436", "dense_sim_medcpt": 0.8424, "bm25_score": 0.0967, "title": "Increase in Neisseria gonorrhoeae infections after ending COVID-19 lockdown measures in Amsterdam, the Netherlands."}
+{"pmid": "37644947", "dense_sim_medcpt": 0.813, "bm25_score": 0.1403, "title": "A Case of Post-COVID-19 Rhino-Cerebral Mucormycosis in an Immunocompromised Patient."}
+{"pmid": "34305020", "dense_sim_medcpt": 0.8202, "bm25_score": 0.1288, "title": "[COVID-19 vaccination in dialysis and kidney transplant patients]."}
+{"pmid": "36295568", "dense_sim_medcpt": 0.8202, "bm25_score": 0.1286, "title": "Sudden Occurrence of Pacemaker Capture Failure during Irreversible Electroporation Ablation for Prostate Cancer in Post-COVID-19 Patient: A Case Report."}
+{"pmid": "34585892", "dense_sim_medcpt": 0.8227, "bm25_score": 0.1247, "title": "Management of Hyperglycemia in COVID-19 and Post-COVID-19 Syndrome - Proposed Guidelines for India."}
+{"pmid": "32401348", "dense_sim_medcpt": 0.8358, "bm25_score": 0.105, "title": "Maternal health and non-communicable disease prevention: An investment case for the post COVID-19 world and need for better health economic data."}
+{"pmid": "36908389", "dense_sim_medcpt": 0.8301, "bm25_score": 0.1135, "title": "Gingival presentation of mucormycosis post infection with COVID-19: series of 3 cases."}
+{"pmid": "40994743", "dense_sim_medcpt": 0.8166, "bm25_score": 0.1337, "title": "The warning bell of Dolutegravir resistance: rethinking HIV service models in Africa."}
+{"pmid": "37346914", "dense_sim_medcpt": 0.8282, "bm25_score": 0.116, "title": "Successful management of life-threatening post-COVID-19 cryptosporidiosis in a renal transplant patient: a case report."}
+{"pmid": "37574890", "dense_sim_medcpt": 0.8403, "bm25_score": 0.0962, "title": "Post-COVID-19 Peripartum Cardiomyopathy: Experience from a Large Tertiary Referral Center."}
+{"pmid": "40882217", "dense_sim_medcpt": 0.8339, "bm25_score": 0.104, "title": "Decoding HIV Discourse on Social Media: Large-Scale Analysis of 191,972 Tweets Using Machine Learning, Topic Modeling, and Temporal Analysis."}
+{"pmid": "34488566", "dense_sim_medcpt": 0.8043, "bm25_score": 0.1471, "title": "Aortic thrombosis in a neonate with COVID-19-related fetal inflammatory response syndrome requiring amputation of the leg: a case report."}
+{"pmid": "37820240", "dense_sim_medcpt": 0.8328, "bm25_score": 0.1024, "title": "Evaluation of the Impact and Outcomes of a Rapid Transition to Telehealth PrEP Delivery at a Sexual Health Clinic During the COVID-19 Pandemic."}
+{"pmid": "38620798", "dense_sim_medcpt": 0.8199, "bm25_score": 0.1206, "title": "Coalescence of co-infection and antimicrobial resistance with SARS-CoV-2 infection: The blues of post-COVID-19 world."}
+{"pmid": "39693583", "dense_sim_medcpt": 0.8099, "bm25_score": 0.1341, "title": "Reemerging Infectious Diseases and Neuroimmunologic Complications."}
+{"pmid": "35938771", "dense_sim_medcpt": 0.8147, "bm25_score": 0.1266, "title": "Mast cell activation syndrome and the link with long COVID."}
+{"pmid": "38104328", "dense_sim_medcpt": 0.8343, "bm25_score": 0.0952, "title": "Impact of COVID-19 pandemic on ambulatory urologic oncology surgeries."}
+{"pmid": "38554461", "dense_sim_medcpt": 0.8116, "bm25_score": 0.1291, "title": "Global availability of parenteral nutrition: Pre- and post-COVID-19 pandemic surveys."}
+{"pmid": "36317082", "dense_sim_medcpt": 0.8144, "bm25_score": 0.1247, "title": "Effect of Ayurvedic Intervention as an adjunct therapy in Post COVID-19 Mucormycosis (PCM): A non-randomized parallel group study."}
+{"pmid": "41226913", "dense_sim_medcpt": 0.831, "bm25_score": 0.0996, "title": "Nationwide Trends in Hospitalizations for Sudden Cardiac Arrest Before and During the COVID Outbreak."}
+{"pmid": "32532460", "dense_sim_medcpt": 0.8347, "bm25_score": 0.0938, "title": "When to Operate, Hesitate and Reintegrate: Society of Gynecologic Oncology Surgical Considerations during the COVID-19 Pandemic."}
+{"pmid": "34198108", "dense_sim_medcpt": 0.8203, "bm25_score": 0.1128, "title": "Mass urine sugar testing to tackle post-COVID mucormycosis epidemic in India-MUSTARD concept."}
+{"pmid": "39032615", "dense_sim_medcpt": 0.8424, "bm25_score": 0.0791, "title": "Impact of COVID-19 on anti-HLA antibodies in kidney transplantation."}
+{"pmid": "36800946", "dense_sim_medcpt": 0.8399, "bm25_score": 0.081, "title": "Impact of the COVID-19 pandemic and the dynamic COVID-zero strategy on HIV incidence and mortality in China."}
+{"pmid": "34077406", "dense_sim_medcpt": 0.8331, "bm25_score": 0.0904, "title": "\"Moving Fourth\": Introduction of a practical toolkit for shared decision-making to facilitate healthy living beyond HIV viral suppression."}
+{"pmid": "38788095", "dense_sim_medcpt": 0.8097, "bm25_score": 0.1252, "title": "A hybrid approach to skill retention following neonatal resuscitation training: Assessing effectiveness."}
+{"pmid": "39207706", "dense_sim_medcpt": 0.8405, "bm25_score": 0.0787, "title": "Infectious Diseases."}
+{"pmid": "39720096", "dense_sim_medcpt": 0.8185, "bm25_score": 0.1105, "title": "Scurvy incidence trend among children hospitalised in France, 2015-2023: a population-based interrupted time-series analysis."}
+{"pmid": "36952663", "dense_sim_medcpt": 0.8351, "bm25_score": 0.0833, "title": "Viral hepatitis in persons living with HIV in the post-COVID era."}
+{"pmid": "39374201", "dense_sim_medcpt": 0.8164, "bm25_score": 0.1112, "title": "An exploration of teacher and school-based nurse perceptions of current HPV education offered to students 15-16 years old in post-primary schools in Northern Ireland, UK."}
+{"pmid": "24715691", "dense_sim_medcpt": 0.8134, "bm25_score": 0.1129, "title": "Neoplastic reprogramming of patient-derived adipose stem cells by prostate cancer cell-associated exosomes."}
+{"pmid": "41445780", "dense_sim_medcpt": 0.8073, "bm25_score": 0.1206, "title": "Translational potential of safe-by-design nanoengineered niclosamide in viral and cancer therapy."}
+{"pmid": "40112252", "dense_sim_medcpt": 0.8294, "bm25_score": 0.0857, "title": "Predictors of interruptions in antiretroviral therapy among people living with HIV in Nigeria: a retrospective cohort study using the Nigeria national data repository."}
+{"pmid": "41457697", "dense_sim_medcpt": 0.8051, "bm25_score": 0.1217, "title": "The association between COVID-19 and incident gestational diabetes (GDM): A population-based case-control study of the National Health Insurance Research Database in Taiwan."}
+{"pmid": "34685567", "dense_sim_medcpt": 0.8397, "bm25_score": 0.0692, "title": "Mesenchymal Stem Cells in the Treatment of COVID-19, a Promising Future."}
+{"pmid": "33751270", "dense_sim_medcpt": 0.8243, "bm25_score": 0.0893, "title": "Promoting Children's Mental, Emotional, and Behavioral (MEB) Health in All Public Systems, Post-COVID-19."}
+{"pmid": "41136929", "dense_sim_medcpt": 0.7955, "bm25_score": 0.1325, "title": "Chlamydia and gonorrhea incidence and residential segregation: US spatiotemporal patterns (2013-2021)."}
+{"pmid": "38800245", "dense_sim_medcpt": 0.8018, "bm25_score": 0.1213, "title": "C-reactive Protein Kinetics During In-Patient Treatment of COVID-19-Associated Rhino-Orbito-Cerebral Mucormycosis: A Retrospective Cohort Study in a Tertiary Hospital in Central India."}
+{"pmid": "35453932", "dense_sim_medcpt": 0.8129, "bm25_score": 0.1035, "title": "Myocardial Infarction in Children after COVID-19 and Risk Factors for Thrombosis."}
+{"pmid": "36794121", "dense_sim_medcpt": 0.8168, "bm25_score": 0.0972, "title": "Double-Positive Anti-Glomerular Basement Membrane Antibody and Myeloperoxidase Antineutrophil Cytoplasmic Autoantibody-Associated Glomerulonephritis Post COVID-19 mRNA vaccine: A Case Series of 4 Patients."}
+{"pmid": "38145434", "dense_sim_medcpt": 0.8191, "bm25_score": 0.093, "title": "Concurrent glomerular PCDH7 deposits in PLA2R-associated membranous nephropathy."}
+{"pmid": "40940338", "dense_sim_medcpt": 0.7736, "bm25_score": 0.1583, "title": "Epidemiological and microbiological characterization of Candidozyma auris (Candida auris) isolates from a tertiary hospital in Cairo, Egypt: an 18-month study."}
+{"pmid": "37649367", "dense_sim_medcpt": 0.8324, "bm25_score": 0.0697, "title": "Mpox vaccination for men who have sex with men and their differential risk of exposure and infection."}
+{"pmid": "38584142", "dense_sim_medcpt": 0.818, "bm25_score": 0.0901, "title": "Perspectives on AI-based recommendations for mask-wearing and COVID-19 vaccination for transplant recipients in the post-COVID-19 era."}
+{"pmid": "35578607", "dense_sim_medcpt": 0.8369, "bm25_score": 0.0548, "title": "Post-COVID-19 vaccine-associated menstrual cycle changes: A multifaceted problem for Pakistan."}
+{"pmid": "40675341", "dense_sim_medcpt": 0.8299, "bm25_score": 0.0637, "title": "Post-COVID-19 cardiovascular disease risk in kidney transplant recipients."}
+{"pmid": "37355956", "dense_sim_medcpt": 0.8454, "bm25_score": 0.0353, "title": "Post-COVID-19 Isolated Renal Mucormycosis Coincidence vs Association."}
+{"pmid": "35068281", "dense_sim_medcpt": 0.8203, "bm25_score": 0.0695, "title": "Ramatroban for chemoprophylaxis and treatment of COVID-19: David takes on Goliath."}
+{"pmid": "34031326", "dense_sim_medcpt": 0.8273, "bm25_score": 0.0505, "title": "Self-sampling in Human Papillomavirus screening during and post-COVID-19 pandemic."}
+{"pmid": "38479175", "dense_sim_medcpt": 0.828, "bm25_score": 0.0434, "title": "Integrating socio-economic vulnerability factors improves neighborhood-scale wastewater-based epidemiology for public health applications."}
+{"pmid": "39526116", "dense_sim_medcpt": 0.7878, "bm25_score": 0.0971, "title": "Clinical rationale for dietary lutein supplementation in long COVID and mRNA vaccine injury syndromes."}
+{"pmid": "35137724", "dense_sim_medcpt": 0.8372, "bm25_score": 0.0147, "title": "Parallels Between NeuroHIV and NeuroCOVID-19: Considerations for a Post-COVID-19 Era."}
+{"pmid": "6829765", "dense_sim_medcpt": 0.7524, "bm25_score": 0.1174, "title": "Renal excretion of ascorbic acid in the rat: a micropuncture study."}
+{"pmid": "34224394", "dense_sim_medcpt": 0.7998, "bm25_score": 0.0395, "title": "[Post-acute COVID-19 syndrome]."}

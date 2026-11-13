@@ -1,0 +1,7 @@
+model,condition,p_exact
+claude,with_laws_test_eval,0.022068023681640625
+codex,with_laws_test_eval,0.05646181106567383
+gemini,with_laws_test_eval,0.001377105712890625
+claude,without_laws,0.52947998046875
+codex,without_laws,0.3986988067626953
+gemini,without_laws,0.958099365234375

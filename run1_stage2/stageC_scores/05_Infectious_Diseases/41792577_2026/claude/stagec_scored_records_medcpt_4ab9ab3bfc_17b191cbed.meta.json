@@ -1,0 +1,21 @@
+{
+  "split": "test27",
+  "domain": "05_Infectious_Diseases",
+  "paper_id": "41792577_2026",
+  "provider": "claude",
+  "query_hash": "4ab9ab3bfc",
+  "pmid_set_hash": "17b191cbed",
+  "n_stage_b_input": 7834,
+  "records_scored_n": 7834,
+  "dense_backend": "medcpt",
+  "stagec_formula": "final=rank(s_q)+rank(s_pos_mean)-rank(s_neg_mean)",
+  "pos_anchor_idx": [
+    1452,
+    3204
+  ],
+  "neg_anchor_idx": [
+    2842,
+    3768
+  ],
+  "generated_at": "2026-04-03T10:41:49.089017"
+}

@@ -1,0 +1,21 @@
+{
+  "split": "test27",
+  "domain": "04_Oncology",
+  "paper_id": "41781907_2026",
+  "provider": "claude",
+  "query_hash": "a14d45daab",
+  "pmid_set_hash": "eb9edf919e",
+  "n_stage_b_input": 6570,
+  "records_scored_n": 6565,
+  "dense_backend": "medcpt",
+  "stagec_formula": "final=rank(s_q)+rank(s_pos_mean)-rank(s_neg_mean)",
+  "pos_anchor_idx": [
+    3146,
+    5077
+  ],
+  "neg_anchor_idx": [
+    1199,
+    350
+  ],
+  "generated_at": "2026-04-03T10:30:02.136811"
+}

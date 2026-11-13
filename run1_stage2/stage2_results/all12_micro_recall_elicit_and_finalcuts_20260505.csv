@@ -1,0 +1,16 @@
+method,micro_recall,tp_sum,gold_sum,papers,mean_hit
+elicit_keyword,0.26943,52,193,12,
+elicit_question_all,0.699482,135,193,12,
+elicit_question_include,0.683938,132,193,12,
+codex_final_cut0,0.816667,196,240,12,2361.75
+codex_final_cut10,0.8,192,240,12,2147.25
+codex_final_cut20,0.758333,182,240,12,1929.417
+codex_final_cut30,0.720833,173,240,12,1711.583
+codex_final_cut40,0.691667,166,240,12,1493.75
+codex_final_cut50,0.641667,154,240,12,1276.083
+claude_final_cut0,0.8,192,240,12,2270.917
+claude_final_cut10,0.783333,188,240,12,2055.417
+claude_final_cut20,0.7625,183,240,12,1838.083
+claude_final_cut30,0.7375,177,240,12,1620.75
+claude_final_cut40,0.704167,169,240,12,1403.417
+claude_final_cut50,0.65,156,240,12,1186.083

@@ -1,0 +1,36 @@
+paper_id,set,old_domain,primary_condition,mesh_category,rule,new_domain,changed,note
+41522206,train,CV,T2DM kidney transplant recipients; outcomes mortality/MACE/MAKE,C12/C19,2,CV,no,primary outcome includes MACE
+41684373,train,CV,stroke (prediction models),C14.907,1,CV,no,
+41707176,train,CV,T2DM; outcomes glycemic control and cardiovascular health,C19,2,CV,no,glycemic outcome has no area; cardiovascular outcome -> CV
+40357797,train,Psychiatry,depression (ECT),F03,1,Psychiatry,no,
+41582468,train,Psychiatry,psychiatric disorders (tRNS),F03,1,Psychiatry,no,
+41582599,train,Psychiatry,chronic kidney disease (advance care planning),C12,3,Other,yes,
+41694153,train,Psychiatry,body dysmorphic disorder,F03,1,Psychiatry,no,
+41770456,train,Infectious,knee osteoarthritis (robotic vs manual UKA),C05.550.114.606 (OA; excluded from rheumatology scope),3,Other,yes,degenerative joint disease treated surgically (orthopaedics)
+41781415,train,Infectious,inflammation models (helminth-derived peptides; in vitro),C23 (exposure C01),3,Other,yes,helminth origin is the intervention source; the condition (inflammation) has no area
+41789521,train,Infectious,tuberculosis,C01,1,Infectious,no,
+41790564,train,Infectious,spirochaetal infection and neurodegeneration,C01,1,Infectious,no,
+40815363,test,Rheumatology,non-communicable diseases (probiotics),mixed,3,Other,yes,
+41108024,test,Rheumatology,rheumatoid arthritis pain,C05.550,1,Rheumatology,no,
+41224700,test,Rheumatology,rheumatoid arthritis risk,C05.550,1,Rheumatology,no,
+41470797,test,Rheumatology,rheumatoid arthritis mechanisms (yerba mate),C05.550,1,Rheumatology,no,
+41484688,test,Rheumatology,rheumatoid arthritis referral criteria,C05.550,1,Rheumatology,no,
+41505363,test,Rheumatology,rheumatoid arthritis (smart healthcare),C05.550,1,Rheumatology,no,
+41630847,test,Rheumatology,rheumatoid arthritis (exposure) and stroke,C05.550,1,Rheumatology,no,exposure condition used
+41708995,test,CV,acute ischemic stroke biomarkers,C14.907,1,CV,no,
+41709059,test,CV,coronary artery disease,C14,1,CV,no,
+41715180,test,CV,heart failure,C14,1,CV,no,
+41720985,test,CV,spinal cord cavernous malformation,C14.907,1,CV,no,vascular malformation
+41796365,test,Psychiatry,early-onset psychosis / hallucinogen use,F03,1,Psychiatry,no,
+41802227,test,Psychiatry,anxiety,F03,1,Psychiatry,no,
+41804118,test,Psychiatry,depression,F03,1,Psychiatry,no,
+41641734,test,Oncology,solitary pulmonary nodule malignancy,C04,1,Oncology,no,
+41770755,test,Oncology,cancer (prehabilitation),C04,1,Oncology,no,
+41774244,test,Oncology,non-Hodgkin lymphoma,C04,1,Oncology,no,
+41781907,test,Oncology,breast cancer,C04,1,Oncology,no,
+41781990,test,Oncology,gastrointestinal malignancies (HIPEC),C04,1,Oncology,no,
+41792786,test,Oncology,colorectal cancer,C04,1,Oncology,no,
+41794963,test,Oncology,vestibular schwannoma,C04,1,Oncology,no,
+41792577,test,Infectious,mpox/smallpox vaccination,C01,1,Infectious,no,
+41793737,test,Infectious,guided bone regeneration (dental),C07,3,Other,yes,
+41796425,test,Infectious,long COVID,C01,1,Infectious,no,

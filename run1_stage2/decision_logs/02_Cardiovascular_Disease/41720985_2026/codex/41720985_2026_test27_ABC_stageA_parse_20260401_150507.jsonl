@@ -1,0 +1,1 @@
+{"paper_id": "41720985_2026", "tags": ["STUDY_TYPE_EXCLUDE", "SPECIES_EXCLUDE", "LANGUAGE_EXCLUDE"], "safe_not_applied": ["NOT \"Case Reports\"[pt]", "NOT \"Letter\"[pt]", "NOT \"Editorial\"[pt]", "NOT \"Published Erratum\"[pt]", "NOT (animals[mh] NOT humans[mh])"], "dropped_not_candidates": [], "confidence": 1.0, "query_changed": true}

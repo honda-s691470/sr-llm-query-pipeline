@@ -1,0 +1,3 @@
+# Preserve manifest-covered evidence bytes, including original line endings.
+run1_stage2/** -text
+stageC_harmonized/** -text

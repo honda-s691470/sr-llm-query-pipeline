@@ -1,0 +1,1 @@
+{"paper_id": "41470797_2025", "tags": ["SPECIES_EXCLUDE", "LANGUAGE_EXCLUDE"], "safe_not_applied": ["NOT (animals[mh] NOT humans[mh])"], "dropped_not_candidates": [], "confidence": 0.6, "query_changed": true}

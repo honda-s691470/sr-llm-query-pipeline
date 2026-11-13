@@ -1,0 +1,19 @@
+{
+  "domain": "01_Rheumatoid_Arthritis",
+  "paper_id": "40815363_2025",
+  "provider": "gemini",
+  "query_hash": "00ad977906",
+  "pmid_set_hash": "7fd88a0990",
+  "n_stage_b_input": 2994,
+  "records_scored_n": 2991,
+  "dense_backend": "medcpt",
+  "stagec_formula": "final=rank(s_q)+rank(s_pos_mean)-rank(s_neg_mean)",
+  "pos_anchor_idx": [
+    2606,
+    2545
+  ],
+  "neg_anchor_idx": [
+    548,
+    1531
+  ]
+}
