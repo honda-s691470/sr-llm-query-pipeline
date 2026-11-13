@@ -1,0 +1,36 @@
+{
+  "title": "SR-LLM Query Pipeline: reproducibility package for \"An Agentic Learning Framework for Systematic Review Literature Search: A Retrospective PubMed Benchmarking Study\"",
+  "upload_type": "software",
+  "version": "v2.0",
+  "description": "Code, data and expected outputs for a two-stage LLM pipeline that generates PubMed Boolean queries for systematic reviews and reduces candidate records by exclusion-criteria filtering and MedCPT re-ranking. Version 2.0 adds the second-revision materials: the harmonized Stage C primary analysis (stageC_harmonized/), preserved historical Run1 Stage 2 records (run1_stage2/), and scripts for the revised figures and supplementary tables. The PubMed API response cache is deposited separately (doi:10.5281/zenodo.20392130).",
+  "creators": [
+    {
+      "name": "Honda, Suguru",
+      "affiliation": "Department of Rheumatology, Leiden University Medical Center, Leiden, Netherlands"
+    },
+    {
+      "name": "Knevel, Rachel",
+      "affiliation": "Department of Rheumatology, Leiden University Medical Center, Leiden, Netherlands; Rheumatology, Newcastle University Translational and Clinical Research Institute, Newcastle upon Tyne, UK"
+    },
+    {
+      "name": "van den Akker, Erik B",
+      "affiliation": "Leiden Computational Biology Centre, Leiden University Medical Center, Leiden, Netherlands; Delft Bioinformatics Lab, Delft University of Technology, Delft, Netherlands"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "systematic review",
+    "PubMed",
+    "Boolean query",
+    "large language model",
+    "literature search",
+    "agentic AI"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20392130",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset"
+    }
+  ]
+}
